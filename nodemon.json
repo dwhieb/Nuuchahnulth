@@ -1,0 +1,4 @@
+{
+  "exec": "node --experimental-modules --no-warnings convert.mjs",
+  "ext": "txt"
+}
