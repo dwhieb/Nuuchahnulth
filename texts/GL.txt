@@ -1,5 +1,7 @@
 ---
-title: George Louie's Life Story
+title:        George Louie's life story
+abbreviation: GL
+ID:           1
 ---
 # 1
 \trs 'uckwiis             kinhhuul.
