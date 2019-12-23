@@ -61,11 +61,11 @@ pu:mal-it-utl-wa;-'i;sh-'a:l y'u:qwa: qwa:-'i;tq qu:'as
 
 # 13
 haatkhaatkmi'a m'uukuuk\'i m'uukuukquu.
-DUP-hatk-mi;'a m'u:ku:k-'i; m'u:ku:k-qu:
+DUP#-hatk-mi;'a m'u:ku:k-'i; m'u:ku:k-qu:
 
 # 14
 hitaatap k'a'aqmis haatkhaatkwa.
-hita-'a;ta-'ap k'a'aqmis DUP-hatkw-(y)a
+hita-'a;ta-'ap k'a'aqmis DUP#-hatkw-(y)a
 
 # 15
 'ac\'in 'uklaa'akwa'ish hiy'ahhs'itq.
