@@ -7,7 +7,7 @@ ID:           4
 
 # 1
 ''as''assh, ch'aapaciilw'it'as.
-DUP-''as-sh ch'apac-i:l-w'it'as
+DUP#-''as-sh ch'apac-i:l-w'it'as
 
 # 2
 hhumiis 'un'aahh hitaaqtl'itl.
@@ -35,7 +35,7 @@ ta:k-shi(tl)-'at DUP-ciq-inkw-'at DUP-'u-(kw)ink-'at hha:l-api hhaw'il-'i;
 
 # 7
 laaklaakw'at, wikp'i''atquu, wik'atquu 'uusuqtat, wik'atquu ''achuu'at.
-DUP-la:kw-'at wik-p'iq-'at-qu: wik-'at-qu: 'u:suqta-'at wik-'at-qu: ''achu:-'at
+DUP#-la:kw-'at wik-p'iq-'at-qu: wik-'at-qu: 'u:suqta-'at wik-'at-qu: ''achu:-'at
 
 # 8
 laakshitl, n'aachiila, chaamaapiqchik 'uxshitl waa, qwi'ii'as'aqtlii [p. 235] 'uw'iitl.
@@ -87,7 +87,7 @@ k'ahh-shi(tl)-'a:l 'u:sh hhumi:s 'uxw-'i;(tl)-'atl-qu: 'u:sa-yaq-'as
 
 # 18
 qwaaqwaa'itq 'uhh hhumiis luucsaamiihh latxhwak.
-DUP-qwa:-'i;tq 'uhh hhumi:s lu:csa:mi:hh latxhw-ak
+DUP#-qwa:-'i;tq 'uhh hhumi:s lu:csa:mi:hh latxhw-ak
 
 [p. 239]
 
@@ -131,7 +131,7 @@ t'i-''a;'at-'ap-'at hish-chut-il-'at ka-chi(tl)-'at tli:s-shi(tl)-'at ~ hhu:l qw
 
 # 27
 'uuhhw'al'at hiis\hiisach'ak, qay'aaxwas huu'ak [p. 243] 'uyi.
-'u-hhw'al-'at DUP-his-(y)-ch'ak qay'a;xw-as hu:'ak 'uyi
+'u-hhw'al-'at DUP#-his-(y)-ch'ak qay'a;xw-as hu:'ak 'uyi
 
 [p. 243]
 
@@ -186,7 +186,7 @@ ch'apac 'i:hh-s ''a''a:chi si:ch'ak
 
 # 36
 waa, 'ahh'aa'atl ''as''asshitl'asatlitquu. ''as''assh waa'at, ''aasuk. ch'aahhch'aahha.
-wa;'ahh'a:-'atl DUP-''as-sh-shi(tl)-'as-'atl-it-qu: DUP-''as-sh wa;-'at ''a:s-uk DUP-ch'ahh-(y)a
+wa;'ahh'a:-'atl DUP#-''as-sh-shi(tl)-'as-'atl-it-qu: DUP#-''as-sh wa;-'at ''a:s-uk DUP#-ch'ahh-(y)a
 
 # 38
 waa 'ahhkuu tla'uu.
@@ -215,7 +215,7 @@ chachim-hhi;-chi(tl)-'atl-qu: tla:-(q)u;l 'u-taq-shi(tl)-'atl kwis-caqc'u:-'i; t
 
 # 43
 'uhh pihhpihhshi'at, wik'aa'it cicikpala.
-'uhh DUP-pihh-shi(tl)-'at wik-'a:'it cik-pala
+'uhh DUP#-pihh-shi(tl)-'at wik-'a:'it cik-pala
 
 # 44
 tliihhcuut\'aal, wik'atlquu chachamhhi [p. 250] sipuus.
@@ -341,7 +341,7 @@ chamaqtl-'atl
 
 # 71
 wik'at 'aashxh\'aashxhat.
-wik-'at DUP-'ashxh-(y)a-'at
+wik-'at DUP#-'ashxh-(y)a-'at
 
 # 72
 'unaak'at hupy'ak.
@@ -349,7 +349,7 @@ wik-'at DUP-'ashxh-(y)a-'at
 
 # 73
 qwaa 'ahh'aatl hil [p. 260] 'at'aquu pihhpihhshi'at, hishcaqs. pihhshi'at.
-qwa: 'ahh'a:-'atl hil 'at'a-qu: DUP-pihh-shi(tl)-'at hish-caqs pihh-shi(tl)-'at
+qwa: 'ahh'a:-'atl hil 'at'a-qu: DUP#-pihh-shi(tl)-'at hish-caqs pihh-shi(tl)-'at
 
 [p. 260]
 
@@ -366,7 +366,7 @@ DUP-n'ach-pal-'at-'a:l 'aqi-'isht-(y)i:k 'at'a-'atl-qu: hish-caqs-'i; ~ yaqw-(ch
 
 # 79
 waa 'ahhkuu, cikimin waa'at. ch'ahhy'ak, hiis\hiisach'ak. ''akm'alst'uqsy'ak. 'uch'ak [p. 262] hilyin. qwaa y'uuqwaa tlichaa.
-wa; 'ahhku; cikimin wa;-'at ch'ahh-y'ak DUP-his-(y)a-ch'ak ''ak-m'al-st'uqs-y'ak 'u-ch'ak hil-yin qwa: y'u:qwa: tlicha;
+wa; 'ahhku; cikimin wa;-'at ch'ahh-y'ak DUP#-his-(y)a-ch'ak ''ak-m'al-st'uqs-y'ak 'u-ch'ak hil-yin qwa: y'u:qwa: tlicha;
 \n There are no utterances 77–78 in this text.
 
 [p. 262]
@@ -394,7 +394,7 @@ chi:-hht-'as-w'it'as-'ap-'at
 
 # 89
 'u'u'iihh'at, 'un'aahh'at [p. 263] yaayaquwa'aahhi.
-DUP-'u-'i:hh-'at 'u-n'a;hh-'at DUP-yaqw-uwa-'a:hhi
+DUP-'u-'i:hh-'at 'u-n'a;hh-'at DUP:-yaqw-uwa-'a:hhi
 
 [p. 263]
 
@@ -428,11 +428,11 @@ chi:-hht-'as-'ap-'atl-qu: DUP-sakw-wa;
 
 # 96
 chachimhhimahhsap, wik 'aashx\'aashxha.
-chachim-hhi;-mahhsa-'ap wik DUP-'ashxh-a
+chachim-hhi;-mahhsa-'ap wik DUP#-'ashxh-a
 
 # 97
 chiihht'as'ap'atlquu ch'apac. tluultluula. quuhhw'al c'istuup. huuhumt'asuk.
-chi:-hht-'as-'ap-'atl-qu: ch'apac DUP-tlu:l-a 'u-hhw'al c'is-tu;p DUP-humt-'as-uk
+chi:-hht-'as-'ap-'atl-qu: ch'apac DUP#-tlu:l-a 'u-hhw'al c'is-tu;p DUP:-humt-'as-uk
 
 [p. 267]
 
