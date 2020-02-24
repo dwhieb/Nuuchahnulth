@@ -1,0 +1,3 @@
+parserOptions:
+  ecmaVersion: 11
+extends: C:/Users/dwhie/DLx/digitallinguistics.github.io/stylesheets/.eslintrc.yml
