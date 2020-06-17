@@ -129,7 +129,7 @@ tu:pshitl
 
 # 032
 na'iichitl txtxtxtxtxtx qwayaatuk?at.
-na'a;-'i;chi(tl) ~ qwa-ya;tuk-ʽat
+na'a;-`i;chi(tl) ~ qwa-ya;tuk-ʽat
 
 # 033
 txtxtxtxtxtx qwiqiiwa'in waa'atl
@@ -165,7 +165,7 @@ hinusa m'a-aqsul hisit
 
 # 041
 qwaa'ap t'aapst'aapsa ?ayiichitluk ?u'ii'as'ap hhaa.
-qwa:-'ap DUP#-t'aps-(y)a ?aya-'i;chi(tl)-uk ?u-'i:-'as-'ap hha:
+qwa:-'ap DUP#-t'aps-(y)a ?aya-`i;chi(tl)-uk ?u-'i:-'as-'ap hha:
 
 # 042
 kuuchilshitl.
@@ -181,7 +181,7 @@ sachk-a-'ap ch'i-chitl qum'a:-?a;k-it-(y)i:
 
 # 045
 heey maahht'iqiil k'uch chashkak, mahht'iichitluk, saach'utcqii'isukwitquu.
-~ mahht'iq-(ch)i:l k'uch chashk-ak mahht'i:-'i;chi(tl)-uk sach'ut-cqi;-'is-ukw-it-qu:
+~ mahht'iq-(ch)i:l k'uch chashk-ak mahht'i:-`i;chi(tl)-uk sach'ut-cqi;-'is-ukw-it-qu:
 
 # 046
 ?inixkwiilshitl?is ch'aasta, tl'uuyiipitl.
@@ -225,7 +225,7 @@ tlimk-shi(tl)-wa;?i;sh ?u-L-yu'a:l-shi(tl)-wa;?i;sh qu:?as hha:l ?i:hh sukwi(tl)
 
 # 056
 ku'iichitl hi'iiswa'ish yacckwii, chims.
-ku-'i;chi(tl) hi'i:sh-wa;?i;sh yac-ckwi; chims
+ku-`i;chi(tl) hi'i:sh-wa;?i;sh yac-ckwi; chims
 
 # 057
 wim'aaqtl ?u'ukwink'at chims, ?in wii'ak.
@@ -421,7 +421,7 @@ wik'i:t hhamat
 
 # 105
 haaxhaa, tl'upiichi'atl. tl'upaa, qwaa'atl ?ahh'aa, qwayac'iik tl'upy'iihha.
-~ tl'up-'i;chi(tl)-ʽatl tl'up-(y)a; qwa:-ʽatl ?ahh'a: qwayac'i:k tl'up-y'i;hha
+~ tl'up-`i;chi(tl)-ʽatl tl'up-(y)a; qwa:-ʽatl ?ahh'a: qwayac'i:k tl'up-y'i;hha
 
 # 106
 chuu, waa'atl ch'aaxstimcm'it, [You are surrounded by the wolf. You had no way of try to escape. You killed him!] qahhsaap?ick.
@@ -657,7 +657,7 @@ ha: sukwi(tl) sachk'ahhs-uk-?i; qwis ?ahh'a:
 
 # 164
 nism'iichitl. nuuchyuuchitl. ?ayacsapi
-nism'a-'i;chi(tl) nu:chyu:-'i;chi(tl) ?aya-(c)sapi
+nism'a-`i;chi(tl) nu:chyu:-`i;chi(tl) ?aya-(c)sapi
 
 # 165
 na'aa. na'aatl qw'aaxtii, ?uuuu, sayiihhst??atl.
@@ -697,7 +697,7 @@ tl-ʽi;tl-(y)a; ?u-cpa;-anu-ʽatl ?ahh
 
 # 174
 nuuchyuuchitl. ?a'iiwachitlaq nuuchyuu.
-nu:chyu:-'i;chi(tl) DUP-'i:hhw-`achi(tl)-aq nu:chyu:
+nu:chyu:-`i;chi(tl) DUP-'i:hhw-`achi(tl)-aq nu:chyu:
 
 # 175
 kamatqshi'atl wiikst'iihh ?uncukwitii, n'upchiil, ?atlchiil, qacc'achil, muuchiil, hhayuchilitquu. kamatquk.
@@ -753,7 +753,7 @@ wi:nap-ʽi;tl ??uq-shi(tl)
 
 # 188
 hhuspiichi'im waa'atl, ?iiwachitl.
-hhus-p-'i;chi(tl)-'i;m wa;-ʽatl ?i:hhw-`achi(tl)
+hhus-p-`i;chi(tl)-'i;m wa;-ʽatl ?i:hhw-`achi(tl)
 
 # 189
 kamatqshi'atl.
@@ -765,7 +765,7 @@ hin-in-ckwi;-ʽatl ?ahh'a:-wa;?i;sh qwayac'i:k
 
 # 191
 naqmiihhichitl naqshitl. qwayac'iik?i
-naqmi:hha-'i;chi(tl) naq-shi(tl) qwayac'i:k-?i;
+naqmi:hha-`i;chi(tl) naq-shi(tl) qwayac'i:k-?i;
 
 # 192
 qwaa'amitii wiiy'a c'ic'uqshitl, ?aanahhw'aal ch'up'at?i naaqnaaqa.
