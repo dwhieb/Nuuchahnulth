@@ -256,14 +256,14 @@ Then I attended school for seven years.
 
 # 038
 ?aya t'aatn'a'is ?uushy'a'atlquu
-?aya t'a:tn'a-'is ?u:sh-y'a-ʽatl-qu:
+?aya t'a:tn'a-?is ?u:sh-y'a-ʽatl-qu:
 many children-DIM some-troubled.by-FIN-COND.3
 many children would.have.a.hard.time
 Many children had a hard time (at school)
 
 # 039
 wiwik'ap
-DUP-wik-'ap
+DUP-wik-ʽap
 DISTR-not-CAUS
 didn't.do
 (because) they didn't understand (English).
@@ -993,7 +993,7 @@ waa ?aya ma-mal-n'i; tlatlu: huihhtak-shi(tl)-'i:hh-mahhsa ~
 
 # 173
 ?ahh?aa qwaa'ap'atls, huuhhtakshiihhap
-?ahh'a: qwa:-'ap-ʽatl-s huhhtak-shi:hh-'ap
+?ahh'a: qwa:-ʽap-ʽatl-s huhhtak-shi:hh-ʽap
 
 # 174
 wiiy'as hhaahhuupa ?uukwil ?a'ashxhwaquu
