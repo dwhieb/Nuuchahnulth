@@ -37,7 +37,7 @@ ha: chacham-hhi;-'ick wa:-'atl ?i:hh-p'i;t-'i;
 
 # 009
 hishuus'al ?aathhiy'u hiil ?ink hhaal ?appi'il'i ?ink.
-hish-u:s-'a;l ?athhi:-iy'u hi:l ?ink hha:l ?ap-pi-'il-'i; ?ink
+hish-u:s-'a;l ?athhi:-iy'u hi:l ?ink hha:l ?ap-pi-`il-'i; ?ink
 
 # 010
 heey, w'achitl, w'achitl qwayac'iik.
@@ -173,7 +173,7 @@ tak-st'uq-'itl
 
 # 043
 takaas tluukwaana walyaqil'i.
-taka:s tlu:kwa:na wal-yaq-'il-'i;
+taka:s tlu:kwa:na wal-yaq-`il-'i;
 
 # 044
 tluukwaana'al tlaa'uu'atl.
@@ -305,7 +305,7 @@ hin-as hha:l
 
 # 077
 muutwii'iluk. qwaa y'uuqwaa ?atlakwal. hil'ap?at ?ahh ?appi'il'i.
-mu:-twi;?il-uk qwa: y'u:qwa: ?atlakwal hil-'ap-'at ?ahh ?ap-pi-'il-'i;
+mu:-twi;?il-uk qwa: y'u:qwa: ?atlakwal hil-'ap-'at ?ahh ?ap-pi-`il-'i;
 
 # 078
 hha'ihhtis'atl cha'ak?i, nuuchaan'ul'i, waa hu'acachitl ?iqschiik hu'ap'in.
@@ -609,11 +609,11 @@ DUP-'iq-m'a;-c'u;
 
 # 153
 ?anat'uu'at hhamip'at quu'as yaqchiil hhaal ma'as'i ?iihh, ?unahhit?i mahht'iimitquu. mahht'iimitquu.
-?anat'u:-'at hhamip-'at qu:?as yaqw-chi:-'il hha:l ma'as-'i; ?i:hh ?una-hh-it-'i; mahht'i:-mit-qu: mahht'i:-mit-qu:
+?anat'u:-'at hhamip-'at qu:?as yaqw-chi:-`il hha:l ma'as-'i; ?i:hh ?una-hh-it-'i; mahht'i:-mit-qu: mahht'i:-mit-qu:
 
 # 154
 ?ahhkuu hil'atl ?inkwil ?ahh, patlkaa.
-?ahhku; hil-'atl ?ink-'il ?ahh patlk-(y)a;
+?ahhku; hil-'atl ?ink-`il ?ahh patlk-(y)a;
 
 # 155
 hiil ?ahh, t'ashii c'awaak ?ahh.
