@@ -291,7 +291,7 @@ We weren't allowed to talk (in our native language).
 
 # 043
 wikyaaminish tl'up'iichhhatlquu ?acyuu'atlqin suuhhaa, ?u'u'iihh cuw'it,
-wik-y'a;-ʽap-it-nish tl'up-'i;chhh-ʽatl-qu: ?ac-yu;-ʽatl-qwin su:hha: DUP-?u-'i:hh cuw'it
+wik-y'a;-ʽap-it-nish tl'up-`i;chhh-ʽatl-qu: ?ac-yu;-ʽatl-qwin su:hha: DUP-?u-ʽi:hh cuw'it
 not-troubled.by-CAUS-PAST-IND.1PL warm-season.of-FIN-COND.3 go.out.fishing-done-FIN-COND.1PL spring.salmon ???-it-pursuing coho.salmon
 it.didn't.take.effect.on.us during.summer when.we.were.out.fishing spring.salmon gathering coho.salmon
 It (the ban on using the native language) didn't have an effect on us during the summer, while we were out fishing for salmon, coho.
@@ -347,7 +347,7 @@ I was out fishing at Quatsiino
 
 # 051
 waa c'u'ichhh, ch'aastimc ?u'u'iihh, sashtup qwaq?iitq haptuup, waaxnii, tl'itl'ihhiy'uuhh, ch'aty'a yaaqwil?itq waa'at tlapisum, racoon
-wa; c'u'ichhh ch'a:stimc DUP-?u-'i:hh sa-shtu;p qwaq-?i;tq hap-tu;p wa:xni: tl'itl'ihhiy'uuhh, ch'aty'a yaqw-(ch)il-?i;tq wa;-ʽat tlapisum ~
+wa; c'u'ichhh ch'a:stimc DUP-?u-ʽi:hh sa-shtu;p qwaq-?i;tq hap-tu;p wa:xni: tl'itl'ihhiy'uuhh, ch'aty'a yaqw-(ch)il-?i;tq wa;-ʽat tlapisum ~
 and winter mink ???-it-hunting crawl-species what-REL.3 fur-species land.otter martin racoon which-with.reference.to-REL.3 say-SHIFT racoon ~
 and winter mink gathering animal whatever fur.bearing.animal land.otter martin racoon with.reference.to.which it.is.called racoon ~
 
@@ -360,7 +360,7 @@ We never lack food to eat from low tide.
 
 # 053
 hhaa'iisatlquu ch'iitaa'at, y'a'isi ?u'u'iihh?at
-hha:?i:satl-qu: ch'i:t-(y)a;-ʽat y'a'isi DUP-?u-'i:hh-ʽat
+hha:?i:satl-qu: ch'i:t-(y)a;-ʽat y'a'isi DUP-?u-ʽi:hh-ʽat
 tide.gets.low-COND.3 digging.clams-CONT-SHIFT butter.clam ???-it-collecting-SHIFT
 when.tides.are.low digging.clams butter.clam collect.it
 At low tides, we went digging clams.
@@ -395,7 +395,7 @@ We never ran out of things.
 
 # 058
 ?um'aack?al, ?u'u'iihh tl'ihhapiihh, ?i'ishpaal, ?i'ishpaal
-?um'a:ck-?a;l DUP-?u-'i:hh tl'ihhapi:hh ?i'ishpa:l ?i'ishpa:l
+?um'a:ck-?a;l DUP-?u-ʽi:hh tl'ihhapi:hh ?i'ishpa:l ?i'ishpa:l
 often-PL ???-it-hunting red.snapper (fish.name) (fish.name)
 they.often gathering red.snapper ~ ~
 They very often fished for red snappers and _ʔiʔišpaaɬ_.
@@ -451,7 +451,7 @@ Son of Gum Woman got a wife.
 
 # 066
 ?acyuu'atl'uuch ?u'u'iihh tl'ihhapiihh.
-?ac-yu;-ʽatl-qu:-ch                DUP-?u-'i:hh   tl'ihhapi:hh
+?ac-yu;-ʽatl-qu:-ch                DUP-?u-ʽi:hh   tl'ihhapi:hh
 go.out.fishing-done-FIN-COND.3-INF ???-it-hunting red.snapper
 would.be.out.for.food              gathering      red.snapper
 He would go out fishing for red snapper.
@@ -741,7 +741,7 @@ na'u:k ?ac-shi(tl)-na; ?aya-a:tl su:hha: ~ ?uyi ~ ?aya
 
 # 118
 ?ahh'aatl ?unic hawii'atl. [Dog salmon] ?u'u'iihh
-?ahh'a:-ʽatl ?unic hawi:(tl)-ʽatl ~ DUP-?u-'i:hh
+?ahh'a:-ʽatl ?unic hawi:(tl)-ʽatl ~ DUP-?u-ʽi:hh
 
 # 119
 na'uuqs'aqtl?ick siichil [p. 193] waa'atl'ats [George Sye]
@@ -751,7 +751,7 @@ na'u;-qs-'aqtl-'ick si-(ch)il wa:-ʽatl-ʽat-s ~
 
 # 120
 herring ?u'u'iihhaqtlnish, tlusmit
-~ DUP-?u-'i:hh-'aqtl-ni;sh tlusmit
+~ DUP-?u-ʽi:hh-'aqtl-ni;sh tlusmit
 
 # 121
 ?acshi'atl chaaniina nasatl
@@ -851,7 +851,7 @@ Alright waa'atls
 
 # 142
 [3 months] hils Toronto tl'up'iichhh, [during the summer time]
-~ hil-s ~ tl'up-'i;chhh ~
+~ hil-s ~ tl'up-`i;chhh ~
 
 # 143
 hiniic ?atla qacc'a t'aatn'a, waa kwa'uuc luucmaakqs
@@ -923,7 +923,7 @@ wa; c'u'ichhh-ʽatl-qu: ?u-(k)chamalchiq-(q)hh mamu:k ~
 
 # 158
 waa tl'up'iichhh hicnup?al
-wa; tl'up-'i;chhh hicnup-?a;l
+wa; tl'up-`i;chhh hicnup-?a;l
 
 [p. 204]
 
@@ -987,7 +987,7 @@ wa; qwis-ʽatl-tla; tlahh
 
 # 172
 waa ?aya mamaln'i, tlatluu huuhhtakshiihhmahhsa language
-waa ?aya ma-mal-n'i; tlatlu: huihhtak-shi(tl)-'i:hh-mahhsa ~
+waa ?aya ma-mal-n'i; tlatlu: huihhtak-shi(tl)-ʽi:hh-mahhsa ~
 
 [p. 208]
 
