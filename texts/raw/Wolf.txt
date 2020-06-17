@@ -49,7 +49,7 @@ qwa:-mit-(y)i:-?a:l hu:?ak hita-'a;tu-ʽap-it-?a;l lu:csami:hh qwa:-?i;tq y'u:qw
 
 # 012
 ch'ihhiy'ap t'i'uup ?uushtup qwaa'iitq, ?aq'ishtiik, tl'uchum.
-ch'uhh-iy'ap t'i-'u:p ?u:shtup qwa:-?i;tq ?aqi-'isht-(y)i:k tl'uchum
+ch'uhh-iy'ap t'i-'u:p ?u:shtup qwa:-?i;tq ?aqi-?isht-(y)i:k tl'uchum
 
 # 013
 witl'ukwitl,
@@ -153,7 +153,7 @@ chu: ciq-shi(tl)?at
 
 # 038
 huu'ak ?uyi qwaackwiyii na'aackwi qwayac'iik ?uukwil quuquu'as, qwaaq siy'a, quu'as qwaa'iitk. na'aa.
-hu:?ak ?uyi qwa:-cxkwi;-(y)i: na'a:-ckwi; qwayac'i:k ?u-kwil DUP-qu:?as qwa:-q siy'a qu:?as qwa:-'i;tk na'a:
+hu:?ak ?uyi qwa:-cxkwi;-(y)i: na'a:-ckwi; qwayac'i:k ?u-kwil DUP-qu:?as qwa:-q siy'a qu:?as qwa:-?i;tk na'a:
 
 # 039
 qwaa y'uuqwaa maamaati.
@@ -249,7 +249,7 @@ hil-ʽathh-ckwi; nucha;l'athh ?u:tl'aqchi
 
 # 062
 hi'acachit'ish'al tlah nuchaal'athh ?iq'ii'as, histaqshitl nuchaal.
-hu'a-ca-chi(tl)-?i;sh-?a;l tlahh nucha:l'athh ?iq-'i:-ʽas his-taq-shi(tl) nucha:l
+hu'a-ca-chi(tl)-?i;sh-?a;l tlahh nucha:l'athh ?iq-?i:-ʽas his-taq-shi(tl) nucha:l
 
 # 063
 na'aa'atl qii wiinapi qwayac'iik?i. muuchiilitquu.
@@ -309,7 +309,7 @@ mu:-twi;?il-uk qwa: y'u:qwa: ?atlakwal hil-ʽap-ʽat ?ahh ?ap-pi-`il-?i;
 
 # 078
 hha'ihhtis'atl cha'ak?i, nuuchaan'ul'i, waa hu'acachitl ?iqschiik hu'ap'in.
-hha-'ihhta-?is-ʽatl cha'ak-?i; nuch-a;n'ul-?i; wa: hu'a-ca-chi(tl) ?iq-schi:k hu'a-p'in
+hha-ʽihhta-?is-ʽatl cha'ak-?i; nuch-a;n'ul-?i; wa: hu'a-ca-chi(tl) ?iq-schi:k hu'a-p'in
 
 # 079
 waa ?ucachi'atl hiy'athhuusitii ??uc'uus'athh, ??uc'uus'athh, w'apuukhh.
@@ -325,7 +325,7 @@ hashi:-chi(tl)-ʽatl ma:tma:s
 
 # 082
 hha'ihhtisatl ?ucachitl niitiina'athh.
-hha-'ihhta-?is-ʽatl ?u-ca-chi(tl) ni:ti:na'athh
+hha-ʽihhta-?is-ʽatl ?u-ca-chi(tl) ni:ti:na'athh
 
 # 083
 ?aniyatlquuch wiinaputl tup??aqstu'atlquu.
@@ -377,7 +377,7 @@ ha'um-caqa-ʽatl-qu:-ch ?u-na;k qwayac'i:k-?i; tl'ay'ix tl'ay'ix DUP#-mukw-(y)a;
 
 # 095
 k'uuch'iihh'ic'atlquuch?al qahhsaap, wa'ichup.
-k'u:-ch-ʽi:hh-'ic-ʽatl-qu:-ch-?a;l muwach qahh-sa:p wa'ich-up
+k'u:-ch-ʽi:hh-?ic-ʽatl-qu:-ch-?a;l muwach qahh-sa:p wa'ich-up
 
 # 096
 wik qahhsaap waa.
@@ -425,7 +425,7 @@ chu: ya:c-shi(tl)-ʽatl-?a;l ya:c-shi(tl)
 
 # 107
 ?u'iiyis ?achaq'ishtiik hii??ii'athh, hil qii.
-?u-'i;ya-?is ?achaq-'isht-(y)i:k hu:??i:?athh hil qi:
+?u-'i;ya-?is ?achaq-?isht-(y)i:k hu:??i:?athh hil qi:
 
 # 108
 na'aa hhaw'il?i, hishuk, qum'uus?iq maamahht'i, qum'aaqtl'as'itq.
@@ -457,7 +457,7 @@ kwis-sila hha:w'ilatl-?i; tl'ay'u-`i;chi(tl) wik-stup-sa;p
 
 # 115
 ?aahh'asatlquuch hisiikw'aqtl'as
-?a:hh'asa-ʽatl-qu:-ch his-i;k-'a;qtl'as
+?a:hh'asa-ʽatl-qu:-ch his-i;k-ʽa;qtl'as
 
 # 116
 hhimqshitlquu ?u'inkwi'is'i such'as hhimqhhimqsh hisiik?itq.
@@ -545,11 +545,11 @@ n'up-chi;l ~ n'up-chi;l
 
 # 137
 hinasi'atl hu'ap'in ?u'ii'as hiiltqyaap'ii'as'i
-hin-as-i(tl)-ʽatl hu'a-p'in ?u-'i:-ʽas hil-tqya:p'i:-ʽas-?i; ??upnit
+hin-as-i(tl)-ʽatl hu'a-p'in ?u-?i:-ʽas hil-tqya:p'i:-ʽas-?i; ??upnit
 
 # 138
 wik?ii sayaach'a kwisutaqtu. wikmatak sayaa. [like three hundred feet], ?unaach'a ?ahh qwaa.
-wik-'i: saya-a;ch'a kwis-ut-a;qtu; wik-matak saya-(y)a; ~ ?una-ch'a ?ahh qwa:
+wik-?i: saya-a;ch'a kwis-ut-a;qtu; wik-matak saya-(y)a; ~ ?una-ch'a ?ahh qwa:
 
 # 139
 m'ay'ukshi'at?al qwayac'iik.
@@ -569,7 +569,7 @@ hawil-chu; ?ahh
 
 # 143
 huhhtak, ?in hu'in?aqtl ?uuktis hupal'i.
-huhhtak ?in hu'a-in-'a;qtl ?u-ktis hupal-'i
+huhhtak ?in hu'a-in-ʽa;qtl ?u-ktis hupal-'i
 
 # 144
 hinalachi'atl ?iqyuuya.
@@ -665,7 +665,7 @@ wik-`i;chi(tl) hhis-(y)a; wik xwak-shi(tl)
 
 # 167
 ?uy'aa'atlitwa'ish ch'apac hiy'ahhs ?uushcuk.
-?u-y'a;-ʽatl-it-wa;?i;sh ch'apac hil-'ahhs ?u:sh-cuk
+?u-y'a;-ʽatl-it-wa;?i;sh ch'apac hil-ʽahhs ?u:sh-cuk
 
 # 168
 tuxwachishtu'atlquuch qwayac'iik?i. tuxwachishtutl.
@@ -753,7 +753,7 @@ hha: ?u-(ch)il-nish tlawa:
 
 # 189
 qwaatlaa niitiina'athh. ?aya ?uuy'aashhhy'ims. hha'ii niiyaa, ?uuy'aashhy'ims. yaaqwil'itq relatives waa'at. relation. hha'ii.
-qwa:tla: ni:ti:na'athh ?aya ?u:y'a:sh-hhy'u;-ims hha-'i: ni:ya: ?u:y'a:sh-hhy'u;-ims yaqw-(ch)il-?i;tq ~ wa:-ʽat ~ hha-'i:
+qwa:tla: ni:ti:na'athh ?aya ?u:y'a:sh-hhy'u;-ims hha-?i: ni:ya: ?u:y'a:sh-hhy'u;-ims yaqw-(ch)il-?i;tq ~ wa:-ʽat ~ hha-?i:
 
 # 190
 ?uusaahhi qwisckwii'at?itq.
@@ -821,7 +821,7 @@ hi'i:s-ʽatl-qu: hha: hat'i:s
 
 # 205
 tlawa'ii'ats ?u'ii ?ahh, wiks lachitl tich'i'akqs.
-tlawa-'i:-ʽat-s ?u-'i: ?ahh wik-s lach-i(tl) tich'im-?a;k-qs
+tlawa-?i:-ʽat-s ?u-?i: ?ahh wik-s lach-i(tl) tich'im-?a;k-qs
 
 # 206
 yaal ?ahh tuxshitl. tuxcpaa kimy'aqis such'as yuw'as uxcpaa qwayac'iik.
