@@ -6,7 +6,7 @@ abbreviation: Marriage
 ID:           CL10
 ---
 # 001
-huu'ak ?uyi ?uuqhhli'aqtl, qwishhitii'aal'al ?uc\hhintlst'al.
+huu'ak ?uyi ?uuqhhli'aqtl, qwishhitii'aal?al ?uc\hhintlst'al.
 
 # 002
 hiist'i'atlquuch hhuu nay'aqak'atlquu, ?uhh ?a'iich'um?i ??a??aashhi yaqc\hhintl?aqtluk?itq hhaakwaatl.
@@ -15,10 +15,10 @@ hiist'i'atlquuch hhuu nay'aqak'atlquu, ?uhh ?a'iich'um?i ??a??aashhi yaqc\hhintl
 ci??as nay'aqakshtip ?iiqhhii.
 
 # 004
-chuu, tl'aqachitl hhaakwaatl?i luucmiichitl, ??ic'aatshitl.
+chuu, tl?aqachitl hhaakwaatl?i luucmiichitl, ??ic'aatshitl.
 
 # 005
-?uyaatl ?ahh'aa ??iict'uulatl'atquu hin?alshi'atl?al ?an luucmiichitl maatmaas. hin?alshitl ?an luucmiichitl.
+?uyaatl ?ahh'aa ??iict'uulatl?atquu hin?alshi'atl?al ?an luucmiichitl maatmaas. hin?alshitl ?an luucmiichitl.
 
 # 006
 ci??as'atl chaapxcuw'at?i tlihhsatl hiy'athh'itq hhaakwaatl?i.
@@ -51,7 +51,7 @@ wikhhsaaquu kw'ahhta'ap'atl, t'in'isan'ap.
 chuu ?uyiiyatl?al chukwaa machintl waa.
 
 # 016
-hiil'atl hiy'athh'itq, ?an ?a'iihhukwit mahht'ii.
+hiil?atl hiy'athh'itq, ?an ?a'iihhukwit mahht'ii.
 
 # 017
 hiilhh'atl hiy'athh'itq hiihiiqshahhapshitl.
@@ -66,28 +66,28 @@ huyaalshitl ?umch'aap, waa, hhaac\hhuulshitliny'atl, chaachumpitapshi'atl ?aay'u
 waa, ?uucwaas'ap'atlquu nuuknuuk.
 
 # 021
-?a'iihhmisuk?i'al nuuknuuk huulhuulay'ak ?uucwaas'atlquu hhaakwaatl?i, ?ucachitl hiy'athhshitl'as'itq.
+?a'iihhmisuk?i'al nuuknuuk huulhuulay'ak ?uucwaas'atlquu hhaakwaatl?i, ?ucachitl hiy'athhshitl?as'itq.
 
 # 022
 ?uyaatl ?ahh'aa ?iiqhhuk yaqwiicwasw'it'as'itq.
 
 # 023
-waa, ?ahh'aa'atl t'aaqyay'ap'at hhaakwaatl?i, sukwi'atl'ich waa'atlquu.
+waa, ?ahh'aa'atl t'aaqyay'ap'at hhaakwaatl?i, sukwi'atl?ich waa'atlquu.
 
 # 024
-t'aaqyachi'atlquu chaapxcuw'at?i, sukwitl'as hhaakwaatl?i.
+t'aaqyachi'atlquu chaapxcuw'at?i, sukwitl?as hhaakwaatl?i.
 
 # 025
-?iihh'iihha ?uushyuuya qwaayac'iiksna??aal, ?unaak'atlquu hhaw'iihh qwayac'iik sukwitl'as hhaakwaatl?i.
+?iihh'iihha ?uushyuuya qwaayac'iiksna??aal, ?unaak'atlquu hhaw'iihh qwayac'iik sukwitl?as hhaakwaatl?i.
 
 # 026
-hiishcuw'atl'atquu nana'iqsu t'aaqyiil hhaakwaatl?i, waa, tlawins'i c'iiqaa, sukwitl'as hhaakwaatl?i.
+hiishcuw'atl?atquu nana'iqsu t'aaqyiil hhaakwaatl?i, waa, tlawins'i c'iiqaa, sukwitl?as hhaakwaatl?i.
 
 # 027
 sukwitl ?uca'ap chaapxcuw'at?i.
 
 # 028
-sukwi'atl'atquu hhakumiichi'atl.
+sukwi'atl?atquu hhakumiichi'atl.
 
 # 029
 waa ?uhhiichi'atl chaapxcuw'at?i ?umch'aap, huulhuula, waa hinkiicutliny'atl.
@@ -105,16 +105,16 @@ hu'ayatl ?u'iip luuchcuw'at?i.
 ?ahh'aa qwisit?aal, huu'ak ?uyi hhakumiichi'atlquu.
 
 # 034
-?uushc'al'atluk?al kwiscachitlquu hhaakwaatl?i.
+?uushc'al?atluk?al kwiscachitlquu hhaakwaatl?i.
 
 # 035
 ?ucachitl hiy'athhuk?itq chakup.
 
 # 036
-hil'atl ma'iichitl, t'aatn'achiilshitl.
+hil?atl ma'iichitl, t'aatn'achiilshitl.
 
 # 037
-?aniyatlquu walsaap'at hhaakwaatl?i wiikiil'atlquu t'aatn'a'is. ?an ?iihhcamisukwit t'aatn'anak'at.
+?aniyatlquu walsaap'at hhaakwaatl?i wiikiil?atlquu t'aatn'a'is. ?an ?iihhcamisukwit t'aatn'anak'at.
 
 # 038
 waa, wahhkwachitlquu walshitlquu hhaakwaatl?i, hu'aca'ap'atlquu ?a'iich'um?i.
@@ -150,7 +150,7 @@ wiikma??uk?ish waa huuhhtakshiihh'ap?i.
 walsaap'atlquu, waa hu'acachitl, hiihiishma??ukshi'atlquu
 
 # 049
-?an ?iihhcamisukwit hhaathhakwatl, hiishil'ap'anit huhhtak hhaathhakwatl, kuuchil, n'iitln'iiya, paaskitiil waa hihiqtup.
+?an ?iihhcamisukwit hhaathhakwatl, hiishil?ap'anit huhhtak hhaathhakwatl, kuuchil, n'iitln'iiya, paaskitiil waa hihiqtup.
 
 # 050
 chuu, qwis t'aatn'achiilshitl, hilhh hiy'athh'itq.
@@ -159,7 +159,7 @@ chuu, qwis t'aatn'achiilshitl, hilhh hiy'athh'itq.
 ?ahh'aa qwis\hhqaach'ina kwiikwiis\hhinchitl, ciiqciiqa ?unw'iitlhh ?an kwiscachitlit?aal hhaakwaatl?i hhuu, histaqshi'atlquu, tla'uukwi'athh ?ucachitl qaay'uukw'athh.
 
 # 052
-wik ch'in'uqtl ?an qwaachiil'at ?uhh'at ?a'iich'um?ak.
+wik ch'in'uqtl ?an qwaachiil?at ?uhh'at ?a'iich'um?ak.
 
 # 053
 chuu, ?ahh'aa'aqtluks ?uuna.
