@@ -12,7 +12,7 @@ ID:           CL2
 ??aasiqnakshitl liliitapi'aqtl.
 
 # 003
-chiin'isan'ap ch'apac\'isuk\'i, sukwitl 'uxwaapi.
+chiin'isan'ap ch'apac?isuk?i, sukwitl 'uxwaapi.
 
 # 004
 tliihhshitl 'ucahhtachitl 'apquu'a'i hilhh'iitq'aal liliitapi.
@@ -33,7 +33,7 @@ tlaawulshitl yaqwii'il'itq.
 'uu 'uu'uuqukwiya'icuush shiitluk, waa'atl muwaachm'it.
 
 # 010
-'uqlaap'atl\'itq 'an wik'aap\'atl'at 'uyaatl hahamutnaq, ququn'ihhta, waa'atl tl'iixp'ichhh.
+'uqlaap'atl?itq 'an wik'aap?atl'at 'uyaatl hahamutnaq, ququn'ihhta, waa'atl tl'iixp'ichhh.
 
 # 011
 'a'aquuk muwaachm'eet, waa'atl'at.
@@ -63,7 +63,7 @@ tl'iixp'ichhh'atl, ququn'ihhta, hahamutnaq, waa'atl.
 'uushala'ap'atl, pipicksy'iqnaq, waa'atl.
 
 # 020
-hu'acachitl ch'apac\'i.
+hu'acachitl ch'apac?i.
 
 # 021
 na'aanish waa'iitk niihhil, waa'atl'at.
@@ -72,16 +72,16 @@ na'aanish waa'iitk niihhil, waa'atl'at.
 sukwi'at, kilw'inqsi'atuk ch'apac, hiniicsu'at.
 
 # 023
-hinin\'al qwiiciy'uk\'itq shiitlaa.
+hinin?al qwiiciy'uk?itq shiitlaa.
 
 # 024
 quuliiy'ap'at quuc hhaw'il'i.
 
 # 025
-'uu'iicqii'ap'atuk ch'apacuk\'i mahht'ii'ak hhaw'il'i.
+'uu'iicqii'ap'atuk ch'apacuk?i mahht'ii'ak hhaw'il'i.
 
 # 026
-hiihiiqshahhap'atlquuch qwaa'apmahhsap'at\'itq hhaw'il'i.
+hiihiiqshahhap'atlquuch qwaa'apmahhsap'at?itq hhaw'il'i.
 
 # 027
 'uushyuuyatlquuch 'uukchamalchiqhh qwayac'iikm'inhh'is'i.
@@ -120,10 +120,10 @@ nunuukshitl hu'aas, kuw'ilatl ??aqc'aqhhshitl.
 wa'ichutl hhaw'il'i, hhuuptshitl.
 
 # 039
-ch'uhhiichitl 'i'inkwilit\'i.
+ch'uhhiichitl 'i'inkwilit?i.
 
 # 040
-sukwitl haptaa'akit\'i ch'iima.
+sukwitl haptaa'akit?i ch'iima.
 
 # 041
 qaaxh! ch'i'atapchip t'uhhc'iti hhaw'il'i.
@@ -132,7 +132,7 @@ qaaxh! ch'i'atapchip t'uhhc'iti hhaw'il'i.
 kamatqwas niniich t'uhhc'iti'i.
 
 # 043
-hitaa??atap ch'apac\'isuk\'i.
+hitaa??atap ch'apac?isuk?i.
 
 # 044
 hitaqsitl, tliihhshitl.
@@ -156,25 +156,25 @@ chatshitl chakupuk tlumkshi'i, tlumkshi'i w'aaw'aakumsasila'ick ??uqwil.
 wik, malshitlil.
 
 # 051
-'uhhtaaw'it'as'atl chatshitl t'uhhc'itat\'i.
+'uhhtaaw'it'as'atl chatshitl t'uhhc'itat?i.
 
 # 052
-wik'iit t'uhhc'itanit\'i.
+wik'iit t'uhhc'itanit?i.
 
 # 053
 n'itlkwaqshitl luucma'i tlumkshi'ich, tlumkshi'ich, quyaasila'ish chakupukqs. 'inkwiil'ich.
 
 # 054
-pumiipitl qwayac'iikshtaquml. 'inkwiilshitl\'al.
+pumiipitl qwayac'iikshtaquml. 'inkwiilshitl?al.
 
 # 055
-'acha??atch qwis'at, wawaacst'al'atl\'al.
+'acha??atch qwis'at, wawaacst'al'atl?al.
 
 # 056
-kamatqwasnak'atl\'al.
+kamatqwasnak'atl?al.
 
 # 057
-'uhhit\'ish muwaachm'it. wikalc'atluk\'ish ch'apac, waa'atl.
+'uhhit?ish muwaachm'it. wikalc'atluk?ish ch'apac, waa'atl.
 
 # 058
 n'aachukw'in, n'aachukw'in, waanaak'atl.
@@ -183,13 +183,13 @@ n'aachukw'in, n'aachukw'in, waanaak'atl.
 sukwi'ich t'apathhsim'inhhukqin, waanaak'atltla.
 
 # 060
-sukwitlnak\'al, hinin\'al.
+sukwitlnak?al, hinin?al.
 
 # 061
-t'aat'aapatshitl\'al qwis'aqtlii'al.
+t'aat'aapatshitl?al qwis'aqtlii'al.
 
 # 062
-chuu 'a'aatuu'in 'ak'ulatqwin 'uchqc'uu'ak\'i ??aanism'it.
+chuu 'a'aatuu'in 'ak'ulatqwin 'uchqc'uu'ak?i ??aanism'it.
 
 # 063
 sukwitlchi.
@@ -201,13 +201,13 @@ kamatqshitlnak sukwitl'as ??aanism'it.
 ninin ??aanism'it.
 
 # 066
-'iiqhhshitl\'al qwis'iitq muwaachm'it hhaw'iluk\'i.
+'iiqhhshitl?al qwis'iitq muwaachm'it hhaw'iluk?i.
 
 # 067
-chuu 'aak'ulshnish suutil 'uchqc'uu'ak\'itk, waa'atl ciqhhsii'i.
+chuu 'aak'ulshnish suutil 'uchqc'uu'ak?itk, waa'atl ciqhhsii'i.
 
 # 068
-hiilapil\'atlwa'ish hhaa ??aanism'it, t'aat'aapata, chaayixwapil.
+hiilapil?atlwa'ish hhaa ??aanism'it, t'aat'aapata, chaayixwapil.
 
 # 069
 humm wawaa'atlquuch t'aat'aapata qiiyapil.
@@ -216,19 +216,19 @@ humm wawaa'atlquuch t'aat'aapata qiiyapil.
 chuu, waa'atl,
 
 # 071
-'aanahhi'aqtl\'icuush 'uu'aalukhh tluulhhap'ap kuhhiqsip 'ahh yaqchi'itq wik'aa'it hishsaacintl 'uchqshitl, waa'atl ??aanism'it.
+'aanahhi'aqtl?icuush 'uu'aalukhh tluulhhap'ap kuhhiqsip 'ahh yaqchi'itq wik'aa'it hishsaacintl 'uchqshitl, waa'atl ??aanism'it.
 
 # 072
-sukwitl 'uchqc'uu'i qwayac'iikshtaquml, pun'isatl\'al.
+sukwitl 'uchqc'uu'i qwayac'iikshtaquml, pun'isatl?al.
 
 # 073
-'aa'aa'ishatl\'al kuhhiqsip 'uchqc'uu'i.
+'aa'aa'ishatl?al kuhhiqsip 'uchqc'uu'i.
 
 # 074
 'uchqshitl, quchqshitl, ch'an'iichitlst'al'al.
 
 # 075
-n'itlkwaqshitl\'al, sukwitlchi ??aanism'it.
+n'itlkwaqshitl?al, sukwitlchi ??aanism'it.
 
 # 076
 'uush hahaa??inyuchitl, ??aanism'eet hupii'inak!
@@ -237,10 +237,10 @@ n'itlkwaqshitl\'al, sukwitlchi ??aanism'it.
 na'iichitl ??aanism'it, n'ashitl'as.
 
 # 078
-waamits wikquusuu kapschitl kuhhiqsip, wawaa'atl'at\'al wishkaa'at.
+waamits wikquusuu kapschitl kuhhiqsip, wawaa'atl'at?al wishkaa'at.
 
 # 079
-hu'ac'in'ap 'uchqmisuk\'i,
+hu'ac'in'ap 'uchqmisuk?i,
 
 # 080
 tluulhhap'atl kuhhiqsip 'uu'uukwaqhh, n'amacp'ichishtu'atl 'uchqak.
@@ -249,13 +249,13 @@ tluulhhap'atl kuhhiqsip 'uu'uukwaqhh, n'amacp'ichishtu'atl 'uchqak.
 'iiqhhii'atl muwaachm'it tlatw'aa, nunuuk, 'uucq yalaa, hupacq yalaa, t'uhhc'itatmoot hhaw'ilukmoot, qwayac'ikmoot, tl'ikmut tl'ikmut.
 
 # 082
-'uchq\'intl muwaachm'it.
+'uchq?intl muwaachm'it.
 
 # 083
-wik\'al\'atl 'an mitxshitlachisht. tlatw'aa nunuuk nuuk\'isuk\'i.
+wik?al?atl 'an mitxshitlachisht. tlatw'aa nunuuk nuuk?isuk?i.
 
 # 084
-tlihhsatl, yacsatl 'oom\'a! 'ahhkuuchips suw'a kist'a.
+tlihhsatl, yacsatl 'oom?a! 'ahhkuuchips suw'a kist'a.
 
 # 085
 wik'iithh'at 'u'umap'at.
@@ -267,7 +267,7 @@ wik'iithh'at 'u'umap'at.
 'aqaqhh 'ahh waa'atl
 
 # 088
-'iqstasatl histaachitlit\'itq.
+'iqstasatl histaachitlit?itq.
 
 # 089
 'anasila wik??atlshitl, tuxkwisatl qwayac'iikshtaquml m'a'akwa'ap'at.
@@ -276,10 +276,10 @@ wik'iithh'at 'u'umap'at.
 'aa 'aniisiny'apchip'is taach'a, waa'atl muwaachm'it.
 
 # 091
-kuw'ilatl\'al qwis 'aanisiny'ap taach'ackwat muwaachm'it.
+kuw'ilatl?al qwis 'aanisiny'ap taach'ackwat muwaachm'it.
 
 # 092
-'unw'iitl\'at\'aal 'anaasiny'ap'at taach'a mukwiip'atl'atquu.
+'unw'iitl?at?aal 'anaasiny'ap'at taach'a mukwiip'atl'atquu.
 
 # 093
-hhaahhuupay'ak — wiksuuk suukwinkhhi yaa??aalchiqhh'itk quu'as. hha'ukwitlcum\'at\'ick 'uushhh'at.
+hhaahhuupay'ak — wiksuuk suukwinkhhi yaa??aalchiqhh'itk quu'as. hha'ukwitlcum?at?ick 'uushhh'at.
