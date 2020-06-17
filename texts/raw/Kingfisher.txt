@@ -45,7 +45,7 @@ hin-a;chi(tl)-'a;l yaq-it-(y)i:
 
 # 011
 ?in ?utwiickwi'aal hinaachitl, wi'ak?i, wii'aksa'i, hhaa'ak'at?i lim'aqsti.
-?in ?utwi:-ckwi;-'a:l hin-a;chi(tl) wi'ak-'i; wi'ak-sa-'i; hha:?ak-ʽat-'i; lim'aqsti
+?in ?utwi:-ckwi;-?a:l hin-a;chi(tl) wi'ak-'i; wi'ak-sa-'i; hha:?ak-ʽat-'i; lim'aqsti
 
 # 012
 ?in na'aackwatl, ?aya, mamaln'i, hisiickwi'itq'al hiistitl ciqy'ak, chiinuuk?athh.
@@ -385,7 +385,7 @@ si:k-(y)a;
 
 # 096
 yaaqwin'akitii'aal kwaatkwaatya, ["waxwaa, waa waawuu, wuu"]
-yaqw-in'ak-it-(y)i:-'a:l DUP#-kwa:tya ~
+yaqw-in'ak-it-(y)i:-?a:l DUP#-kwa:tya ~
 
 # 097
 y'imqimy'uutlseesh waa.
@@ -505,7 +505,7 @@ tlih-shi(tl) minwa:?ath c'a'ak ?u-ca-chi(tl)
 
 # 126
 cha'is'ish, ?achaq'ishtiik, [Trout River] waa'at?ish'aal. cha'is.
-ch-'is-?i;sh ?achaq-'isht-(y)i:k ~ wa;-ʽat-?i;sh-'a:l cha-'is
+ch-'is-?i;sh ?achaq-'isht-(y)i:k ~ wa;-ʽat-?i;sh-?a:l cha-'is
 
 # 127
 kamatqwaqtu.
@@ -725,7 +725,7 @@ k'ahh-kwa-chi(tl) ch'apac
 
 # 183
 tla'asitwa'ish hiy'iis ?ahh'aa. yaaqwil'anitii'aal waa'at, tlaakishpi'il. tlaakishipi'il. [totem pole.]
-tla-'as-it-wa;?i;sh hil-'i;s ?ahh'a: yaqw-il-ʽat-it-(y)i:-'a:l wa;-ʽat tlakish-pi-`il tlakish-pi-`il ~
+tla-'as-it-wa;?i;sh hil-'i;s ?ahh'a: yaqw-il-ʽat-it-(y)i:-?a:l wa;-ʽat tlakish-pi-`il tlakish-pi-`il ~
 
 # 185
 c'awaak nay'aqak ?uuhhuulitwa'ish.
@@ -821,7 +821,7 @@ ki:tla ?u-kla; kilamaxin
 
 # 208
 sukwitl, hhaw'iluk tla'uukwi'athh,. yaqckwii'atlii [Chief Joseph] waa'anit?ish'aal, m'ukwina. sukwitl, miimixt.
-sikwi(tl) hhaw'il-uk tla'u:kwi'athh yaq-ckwi;-ʽatl-(y)i: ~ wa;-ʽat-it-?i;sh-'a:l m'ukwina sukwi(tl) mi:mixt
+sikwi(tl) hhaw'il-uk tla'u:kwi'athh yaq-ckwi;-ʽatl-(y)i: ~ wa;-ʽat-it-?i;sh-?a:l m'ukwina sukwi(tl) mi:mixt
 
 # 209
 tuuhhshitl, chuuwin. tuuhhshitl.
@@ -865,7 +865,7 @@ qahh-sap-ʽat-sa:sh wa;-ʽatl-qu:-ch
 
 # 219
 hach'a shuukwaa ?uyii'anit?aal, qwiyii'anitii [brown sugar], naqshi'atlquuch.
-hach'a shu:kwa; ?u-(y)i;-ʽat-it-'a:l qwi-(y)i;-ʽat-it-(y)i: ~ naq-shi(tl)-ʽatl-qu:-ch
+hach'a shu:kwa; ?u-(y)i;-ʽat-it-?a:l qwi-(y)i;-ʽat-it-(y)i: ~ naq-shi(tl)-ʽatl-qu:-ch
 
 # 220
 mituuni walaak, siikshitl.
@@ -889,7 +889,7 @@ pitish pitish wa; minwa:?ath pitish wicik-'a;l ~ wa; pitish pitish
 
 # 225
 aqukwitii, yaqckwiiyii, [King George] waa'atl'anit?aal tlahh, [nineteen twenty], [early nineteen twenties]
-yaq-ukw-it-(y)i: yaq-ckwi;-(y)i: ~ wa;-ʽatl-ʽat-it-'a:l tlahh ~ ~
+yaq-ukw-it-(y)i: yaq-ckwi;-(y)i: ~ wa;-ʽatl-ʽat-it-?a:l tlahh ~ ~
 
 # 226
 kinchooch?athhnish waa'atlquu quu'as.
@@ -953,7 +953,7 @@ wa; ?u:sh-yu:ya sachk-sit qwi-'i;c-'ap-ʽat-it-(y)i:
 
 # 241
 [salt pork], ?u'iicckwimatak'ap'at?aal.
-~ ?u-'i;c-ckwi;-matak-'ap-ʽat-'a:l
+~ ?u-'i;c-ckwi;-matak-'ap-ʽat-?a:l
 
 # 242
 ?ahh'aa qwisitwa'ish. c'awaakitwa'ishcha luucma, luucmumtquu, k'ahhyaqis'ap'anitwa'ish. k'ahhyuu.

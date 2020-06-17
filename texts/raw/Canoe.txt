@@ -83,7 +83,7 @@ hha:hhu:p-(y)a;-ch'ak
 
 # 017
 k'ahhshitl?aal ?uush hhumiis ?uw'ii'atlquu, ?uusaya??as.
-k'ahh-shi(tl)-'a:l ?u:sh hhumi:s ?uxw-'i;(tl)-ʽatl-qu: ?u:sa-yaq-'as
+k'ahh-shi(tl)-?a:l ?u:sh hhumi:s ?uxw-'i;(tl)-ʽatl-qu: ?u:sa-yaq-'as
 
 # 018
 qwaaqwaa'itq ?uhh hhumiis luucsaamiihh latxhwak.
@@ -163,7 +163,7 @@ wa; ?ahh'a:-ʽatl ?aqi-'isht-(y)i:k ch'apac-sa wa;-ʽat qacc'a-p'it la:hh-shi(tl
 
 # 031
 waa yaaqwilckwi'aal, yashmaqac waa.
-wa; yaqw-il-ckwi;-'a:l yashmaqac wa;
+wa; yaqw-il-ckwi;-?a:l yashmaqac wa;
 
 # 032
 waa ?ahh'aa'atl ?unahh'is'i ch'apac k'aakin, k'aakin waa'at. k'aakin?is.
@@ -219,13 +219,13 @@ chachim-hhi;-chi(tl)-ʽatl-qu: tla:-(q)u;l ?u-taq-shi(tl)-ʽatl kwis-caqc'u:-'i;
 
 # 044
 tliihhcuut?aal, wik'atlquu chachamhhi [p. 250] sipuus.
-tli:hh-cu:t-'a:l wik-ʽatl-qu: chacham-hhi; sipu:s
+tli:hh-cu:t-?a:l wik-ʽatl-qu: chacham-hhi; sipu:s
 
 [p. 250]
 
 # 045
 tliihhcuut?aal hhaa'ak.
-tli:hh-cu:t-'a:l hha:?ak
+tli:hh-cu:t-?a:l hha:?ak
 
 # 046
 ?ahh chimcaqs ?ucahhtakquu, waa qacaqs ?ucahhtakquu.
@@ -273,7 +273,7 @@ wik-cuk-'ic-ʽatl tlahh ~ ?u-hhw'al-ʽatl chit-shi(tl)-ʽat
 
 # 055
 chitshitl?aal ?apw'inqs hiistitl. ?ucachitl hilyin, ?ucachitl tlichaa,
-chit-shi(tl)-'a:l ?apw'in-qs hista-'i(tl) ?u-ca-chi(tl) hil-yin ?u-ca-chi(tl) tlicha;
+chit-shi(tl)-?a:l ?apw'in-qs hista-'i(tl) ?u-ca-chi(tl) hil-yin ?u-ca-chi(tl) tlicha;
 
 # 056
 qwaa'ap'at ch'aapaciil'at.
@@ -281,7 +281,7 @@ qwa:-'ap-ʽat ch'apac-i:l-ʽat
 
 # 057
 n'upchiilshitlmatak'atl'at?aal.
-n'up-chi;l-shi(tl)-matak-ʽatl-ʽat-'a:l
+n'up-chi;l-shi(tl)-matak-ʽatl-ʽat-?a:l
 
 [p. 255]
 
@@ -297,11 +297,11 @@ his-kwist-'ahhs-ʽatl-qu: wa; DUP-his-upi-ʽat his-a;wul qac-caqs wa;-qu:k chim-
 
 # 061
 ?uhh'aal ?uushcuk, hilyin?i. qwaa y'uuqwaa tlichaa'i. hilst'uuqs waa'at.
-?uh-'a:l ?u:sh-cuk hil-yin-'i; qwa: y'u:qwa: tlicha;-'i; hil-st'u:qs wa;-ʽat
+?uh-?a:l ?u:sh-cuk hil-yin-'i; qwa: y'u:qwa: tlicha;-'i; hil-st'u:qs wa;-ʽat
 
 # 063
 hhuu hilyin?ak?i ch'apac, c'aahhachitl?aal.
-hhu: hil-yin-'a;k-'i; ch'apac c'a:hh-`achi(tl)-'a:l
+hhu: hil-yin-'a;k-'i; ch'apac c'a:hh-`achi(tl)-?a:l
 
 # 064
 titin??inchitl.
@@ -311,7 +311,7 @@ DUP-tin-??in-chi(tl)
 
 # 065
 ?ucukw'atl?aal ?aa'aa'ishat puukway'ap'at.
-?u-cuk-ʽatl-'a:l ?a:?a:?isha-ʽat pu:kw-al-'ap-ʽat'
+?u-cuk-ʽatl-?a:l ?a:?a:?isha-ʽat pu:kw-al-'ap-ʽat'
 
 # 066
 ?ahh'aa'atl, hawilchaqshi'atlquu. wik'ahhsi'atlquu.
@@ -358,7 +358,7 @@ tl'ul-shi(tl)-ʽat
 
 # 076
 n'an'achpal'at?aal ?aq?ishtiik, ?at'a'atlquu hishcaqs'i. Curves, [p. 261] yaaqwilcim?at?itq waa'at tl'achii, tl'achii, waa'at.
-DUP-n'ach-pal-ʽat-'a:l ?aqi-'isht-(y)i:k ?at'a-ʽatl-qu: hish-caqs-'i; ~ yaqw-(ch)il-chim-ʽat-?i;tq wa;-ʽat tl'achi: tl'achi: wa;-ʽat
+DUP-n'ach-pal-ʽat-?a:l ?aqi-'isht-(y)i:k ?at'a-ʽatl-qu: hish-caqs-'i; ~ yaqw-(ch)il-chim-ʽat-?i;tq wa;-ʽat tl'achi: tl'achi: wa;-ʽat
 
 [p. 261]
 
@@ -521,11 +521,11 @@ qwi-yu-yi:s ?u-kchamalcha-(q)hh ~ chu: kihh-ca;s-i(tl)-'i; wa:-ʽatl-ʽat-s ~
 
 # 121
 ["Take an eyeball"] waamit?ish'aal Charlie. [Charlie Jones].
-~ wa:-mit-?i;sh-'a:l ~ ~
+~ wa:-mit-?i;sh-?a:l ~ ~
 
 # 122
 ?unw'ii'at?ish'aal k'iccaasi'at ch'apac. ?in k'icsaasi'at?aal luucsaamiihh. [p. 274] ?uuwa'atl'atquu yaaqwil'at?itq kwin?al'at.
-?unw'i:(tl)-ʽat-?i;sh-'a:l k'ic-ca;s-i(tl)-ʽat ch'apac ?in k'ic-ca;s-i(tl)-ʽat-'a:l lu:csa:mi:hh ?u-(w)a(tl)-ʽatl-ʽat-qu: yaqw-(ch)il-ʽat-?i;tq kwin'al-ʽat
+?unw'i:(tl)-ʽat-?i;sh-?a:l k'ic-ca;s-i(tl)-ʽat ch'apac ?in k'ic-ca;s-i(tl)-ʽat-?a:l lu:csa:mi:hh ?u-(w)a(tl)-ʽatl-ʽat-qu: yaqw-(ch)il-ʽat-?i;tq kwin'al-ʽat
 
 [p. 274]
 
@@ -546,7 +546,7 @@ hawil-chaq-shi(tl)-ʽatl-qu: hup-shi(tl)-ʽat DUP#:-hup-(y)a-ʽat
 
 # 128
 kachuu'aal hilyin, y'uuqwaa. tlichaa. wiiksinhhap'at ?aq?ishtiik [p. 276] cikcikmis.
-ka-chu;-'a:l hil-yin y'u:qwa: tlicha; wik-sinhhi-'ap-ʽat ?aqi-'isht-(y)i:k DUP#-cik-mis
+ka-chu;-?a:l hil-yin y'u:qwa: tlicha; wik-sinhhi-'ap-ʽat ?aqi-'isht-(y)i:k DUP#-cik-mis
 \n There is no number 127 in this text.
 
 [p. 276]
@@ -581,7 +581,7 @@ tl'ik-u;l wa;-ʽat
 
 # 135
 ?uushckwii'aal tl'ikuul waa'at. [Just in line with your forehead.]
-?u:sh-ckwi;-'a:l tl'ik-u:l wa;-ʽat ~
+?u:sh-ckwi;-?a:l tl'ik-u:l wa;-ʽat ~
 
 # 136
 ?ahh qwaachil'at tl'ikuul
@@ -599,11 +599,11 @@ qwa:tla: qac-caqs
 
 # 139
 ??ac'ikits hihishcuqumts'aal, [left and right], qaaqaay'axwa.
-??ac'ik-it-s DUP-hish-cuq-umt-s-'a:l ~ DUP:-qay'a;xw-a
+??ac'ik-it-s DUP-hish-cuq-umt-s-?a:l ~ DUP:-qay'a;xw-a
 
 # 140
 haa qwaa'ish'aal yaquusi chamihhta quu'as.
-ha: qwa:-?i;sh-'a:l yaqw-u:si chamihhta qu:?as
+ha: qwa:-?i;sh-?a:l yaqw-u:si chamihhta qu:?as
 
 [p. 280]
 
@@ -704,7 +704,7 @@ tla:maksunup-ʽat
 
 # 163
 cicikpalshitlwa'ish'aal wawaamit?ish'aal.
-DUP-cik-pal-shi(tl)-wa;?i;sh-'a:l wawa:-mit-?i;sh-'a:l
+DUP-cik-pal-shi(tl)-wa;?i;sh-?a:l wawa:-mit-?i;sh-?a:l
 
 # 164
 cicikpalshitl waa hishcaqs.
@@ -770,7 +770,7 @@ su:t-shi(tl)-ʽat c'awa:k hhu:l hil-yin
 
 # 179
 [Charlie Jones] [king pin] ?u'ukwilit?ish'aal, [p. 292] [king pin].
-~ ~ DUP-?u-kwil-it-?i;sh-'a:l ~
+~ ~ DUP-?u-kwil-it-?i;sh-?a:l ~
 
 [p. 292]
 
@@ -889,7 +889,7 @@ numa:k
 
 # 208
 ?uhhtin?akquuk ch'apac ?uw'asckwi'i. waa ?acyuuquuk yaashmal qwaa'apckwi'itq'aal huu'ak wiiqwiiqy'aanu'atwa'ish'aal.
-?u-hhtin-'a;k-qu:k ch'apac ?uxw-'as-ckwi;-'i; wa; ?ac-yu;-qu:k ya:shmal qwa:-'ap-ckwi;-?i;tq-'a:l hu:?ak DUP#-wi:q-y'a;-nu(tl)-ʽat-wa;?i;sh-'a:l
+?u-hhtin-'a;k-qu:k ch'apac ?uxw-'as-ckwi;-'i; wa; ?ac-yu;-qu:k ya:shmal qwa:-'ap-ckwi;-?i;tq-?a:l hu:?ak DUP#-wi:q-y'a;-nu(tl)-ʽat-wa;?i;sh-?a:l
 
 # 209
 ?ayimt wiksaa'a.
@@ -967,7 +967,7 @@ chu:
 
 # 225
 hawilchaqshi'atlquu ??iiqshitlckwi'ish'aal quu'as chamaqtl.
-hawil-chaq-shi(tl)-ʽatl-qu: ??i:q-shi(tl)-ckwi;-?i;sh-'a:l qu:?as chamaqtl
+hawil-chaq-shi(tl)-ʽatl-qu: ??i:q-shi(tl)-ckwi;-?i;sh-?a:l qu:?as chamaqtl
 
 [p. 306]
 
@@ -981,7 +981,7 @@ weey yaxshitl. wik ?inshtis yaaxyaaxwa ?ucahhtak'ap, tlichaa.
 
 # 228
 yaaxyaaxwa ?ucahhtak'apquuk [p. 307] hilyin?i. shaaxtaswa'ish'aal.
-DUP#-yaxw-a ?u-cahhtak-'ap-qu:k hil-yin-'i; sha:xt-as-wa;?i;sh-'a:l
+DUP#-yaxw-a ?u-cahhtak-'ap-qu:k hil-yin-'i; sha:xt-as-wa;?i;sh-?a:l
 
 [p. 307]
 
@@ -1011,11 +1011,11 @@ hee, hutlhaacach'at heey huu'ap'inqsak'at haa, tlichaa ?ucachi'at.
 
 # 234
 tlahh'atl mamaln'i ?uuhhw'al'atl?aal sandpaper.
-tlahh-ʽatl mamaln'i ?u-hhw'al-ʽatl-'a:l ~
+tlahh-ʽatl mamaln'i ?u-hhw'al-ʽatl-?a:l ~
 
 # 235
 ?uuhhw'alckwi'aal quu'as yachaa.
-?u-hhw'al-ckwi;-'a:l qu:?as yacha:
+?u-hhw'al-ckwi;-?a:l qu:?as yacha:
 
 # 236
 qwaaqwaa'itq tin'uukquu rought waa mamaln'i. sachkal.
@@ -1025,7 +1025,7 @@ DUP#-qwa:-?i;tq tin'u:k-qu: ~ wa; mamaln'i sachk-al
 
 # 237
 ?uuhhw'alckwi'aal tasmalit'ap ch'apac?i.
-?u-hhw'al-ckwi;-'a:l tas-mal-it-'ap ch'apac-'i;
+?u-hhw'al-ckwi;-?a:l tas-mal-it-'ap ch'apac-'i;
 
 # 238
 ?ahh qwaackwii'ish quu'as huu'ak.
