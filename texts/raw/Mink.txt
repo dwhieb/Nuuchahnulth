@@ -165,7 +165,7 @@ hinusa m'a-aqsul hisit
 
 # 041
 qwaa'ap t'aapst'aapsa ?ayiichitluk ?u'ii'as'ap hhaa.
-qwa:-ʽap DUP#-t'aps-(y)a ?aya-`i;chi(tl)-uk ?u-'i:-'as-ʽap hha:
+qwa:-ʽap DUP#-t'aps-(y)a ?aya-`i;chi(tl)-uk ?u-'i:-ʽas-ʽap hha:
 
 # 042
 kuuchilshitl.
@@ -305,7 +305,7 @@ qwi-'i:-mit-(y)i: ?ahh qac-u;t kw'ach-shi(tl) ti:chma
 
 # 076
 ?anat'uu'as kiikiishhhi, qahhshitl.
-?anat'u:-'as DUP-kish-hhi; qahh-shitl
+?anat'u:-ʽas DUP-kish-hhi; qahh-shitl
 
 # 077
 ?in ?iihh qwayaac'ikm'it, ?iihh.
@@ -317,11 +317,11 @@ qwi-'i:-mit-(y)i: ?ahh qac-u;t kw'ach-shi(tl) ti:chma
 
 # 079
 haptsaap, hi'iis, hi'iis'itq wa'ich'as, hiilc'apula.
-hapt-sa;p hi'i:s hi'i:s-?i;tq wa'ich-'as hil-c-ʽapula
+hapt-sa;p hi'i:s hi'i:s-?i;tq wa'ich-ʽas hil-c-ʽapula
 
 # 080
 hil'atl ?ahh qwayaac'ikm'it qahhakw'as.
-hil-ʽatl ?ahh qwaya:c'ik-m'i;t qahh-akw-'as
+hil-ʽatl ?ahh qwaya:c'ik-m'i;t qahh-akw-ʽas
 
 # 081
 wik qiihhsn'aak ?unachil, muuchiil.
@@ -389,7 +389,7 @@ qahh-sa;p-it-?ick qwaya:c'ik-m'i;t wa;-ʽatl ~
 
 # 097
 t'i??as hi'iis hhaal, ?atquu hiilc'apula hhaa qwayaac'ikm'itckwi.
-t'iqw-'as hi'i:s hha:l ?atqu: hil-c-ʽapula hha: qwaya:c'ik-m'i;t-ckwi;
+t'iqw-ʽas hi'i:s hha:l ?atqu: hil-c-ʽapula hha: qwaya:c'ik-m'i;t-ckwi;
 
 # 098
 tachyuu'atl qahhak
@@ -481,7 +481,7 @@ ha:
 
 # 120
 nuu'itl,
-nu-'i(tl)
+nu-ʽi(tl)
 
 # 121
 ?aniyas ?aniyas [hoo hoo hoo] ?aniyas ?aniyas [hoo hoo hoo] n'upc'iqiiyasquus huyuulquus, c'ihhatiiyasquus huyuul'aqtl, waa
@@ -537,7 +537,7 @@ hi'i:s hha:l qwaya:c'ik-m'i;t
 
 # 134
 kuhhyuu'atl. hisiik?aqtl?itq kamatqshitl, wiik'itl tiichmis,
-kuhh-yu;-ʽatl his-i;k-'a;qtl-?i;tq kamatq-shi(tl) wik-'i(tl) ti:chmis
+kuhh-yu;-ʽatl his-i;k-'a;qtl-?i;tq kamatq-shi(tl) wik-ʽi(tl) ti:chmis
 
 # 135
 wikst'iihhw'it'as kamatquk
@@ -865,7 +865,7 @@ kamatq-uk hu'a-a;n'u-awi-ʽatl
 
 # 216
 chaanaatlquuch waa'ich'itl
-cha:ni-'a;tl-qu:-ch wa'ich-'i(tl)
+cha:ni-'a;tl-qu:-ch wa'ich-ʽi(tl)
 
 # 217
 k'icshitl.
@@ -921,7 +921,7 @@ wik ?u-kla;-s kapkimyis wa;-ʽatl
 
 # 230
 ?uu'ii'atl?ish ??imtii qalaatikuk?i.
-?u-'i(tl)-ʽatl-?i;sh ??imti; qala:tik-uk-?i;
+?u-ʽi(tl)-ʽatl-?i;sh ??imti; qala:tik-uk-?i;
 
 # 231
 suw'aaq'ick, waa'at.
@@ -1005,7 +1005,7 @@ c'i:shcy'ak wa;-ʽatl
 
 # 251
 kamat??aqtl'itl ch'aastimcm'it
-kamatq-'a;qtl'i(tl) ch'a:stimc-m'i;t
+kamatq-ʽa;qtl'i(tl) ch'a:stimc-m'i;t
 
 # 252
 haw'iiqstu'atl huu'ak hu'al.
