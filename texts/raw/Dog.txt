@@ -4,19 +4,19 @@ abbreviation: Dog
 ID:           GL9
 ---
 # 001
-qwaa'atl ''iniitl, yaaqtlst'al 'uy'iihha, 'unaak\'is'al hilhh'iitq, ''imsshitl.
+qwaa'atl ??iniitl, yaaqtlst'al 'uy'iihha, 'unaak\'is'al hilhh'iitq, ??imsshitl.
 
 # 002
 'ahh 'unaak\'al, hhahhumt'uu, 'uushc'aluk sashtup hitacpa.
 
 # 003
-qwaatlaa 'uushiic\'atlquu ''iniitl 'unaakquuk tlaqimy'as. wik'ap hiniip, kaamat''iihhshitl\'aal.
+qwaatlaa 'uushiic\'atlquu ??iniitl 'unaakquuk tlaqimy'as. wik'ap hiniip, kaamat??iihhshitl\'aal.
 
 # 004
-wiiqch'ap, yaaqtlst'al'al, ''iniitl.
+wiiqch'ap, yaaqtlst'al'al, ??iniitl.
 
 # 005
-rrrr waa. ''iniitl, hinqaa. rrrr qwayaatuk 'ahh'aa.
+rrrr waa. ??iniitl, hinqaa. rrrr qwayaatuk 'ahh'aa.
 
 # 006
 y'uuqwaa chims. rrrr.
@@ -31,16 +31,16 @@ numaakuknish, 'uushtupayi, qwaa'itq qwayac'iik. siichpaax.
 nuumaak 'uyii'at, ha'umshtup.
 
 # 010
-'in hixwaa quu'as 'un'aahh ha'um 'inchil'aal, ha'ukw'ap ''iniitluk\'i, ''iniitluk\'i.
+'in hixwaa quu'as 'un'aahh ha'um 'inchil'aal, ha'ukw'ap ??iniitluk\'i, ??iniitluk\'i.
 
 # 011
-'uushi'iish ''iniitl 'uushhhtinqak. 'uushhhtin.
+'uushi'iish ??iniitl 'uushhhtinqak. 'uushhhtin.
 
 # 012
-'unw'iitlckwi'aal 'uch'akckwak\'ish quu'as, 'unaak ''iniitl, wiinaquu. wiinaquu.
+'unw'iitlckwi'aal 'uch'akckwak\'ish quu'as, 'unaak ??iniitl, wiinaquu. wiinaquu.
 
 # 013
-waa 'uushcapanach'atlquu hiniic ''iniitluk\'i.
+waa 'uushcapanach'atlquu hiniic ??iniitluk\'i.
 
 # 014
 tutuhhst'uu waa qwaa. tutuhhst'uu waa.
@@ -49,7 +49,7 @@ tutuhhst'uu waa qwaa. tutuhhst'uu waa.
 tutuhhst'uu'ak 'in, 'ayackwi sashtup huu'ak.
 
 # 016
-'ahh qwaa'iish ''iniitl. 'unaak'at.
+'ahh qwaa'iish ??iniitl. 'unaak'at.
 
 # 017
 'uushc'aluk\'ish quu'as yackshi'at. wiiy'aat. numaak.
@@ -106,7 +106,7 @@ qwaa'ap n'ashi'i qwaa'atlqs.
 hhan'ahhtutl.
 
 # 035
-m'uch'ich\'in\'ak\'i ''iniitl hhan'ahhtutl.
+m'uch'ich\'in\'ak\'i ??iniitl hhan'ahhtutl.
 
 # 036
 n'ashi'i qwaa'ap'atii kin'uckwachyu yaackyaacka.
@@ -115,10 +115,10 @@ n'ashi'i qwaa'ap'atii kin'uckwachyu yaackyaacka.
 qwaa y'uuqwaa tla'uu [kin'ucyu].
 
 # 038
-waa ciqshi'atl tla'uu'i ''iniitl.,
+waa ciqshi'atl tla'uu'i ??iniitl.,
 
 # 039
-wiiy'aats qwaa'ap'at, hhaw'ilukqs, yaqwaciis ''iniitl, hhaw'ilukqs, waa.
+wiiy'aats qwaa'ap'at, hhaw'ilukqs, yaqwaciis ??iniitl, hhaw'ilukqs, waa.
 
 # 040
 'aaphhii'ats. wiichhhii'aks.
@@ -130,16 +130,16 @@ maa, waa'at, quu'as'i.
 maa.
 
 # 043
-huhhtakshitl\'aqtlick qwaa'at, qwaayii ''iniitl tiich.
+huhhtakshitl\'aqtlick qwaa'at, qwaayii ??iniitl tiich.
 
 # 044
 laqwayat m'uch'ic'acy'a'i.
 
 # 045
-hii, m'uch'ichutl, ''iniitlshitl.
+hii, m'uch'ichutl, ??iniitlshitl.
 
 # 046
-machinttlwa'ish ''iniitl\'i.
+machinttlwa'ish ??iniitl\'i.
 
 # 047
 'ucahhtak, chim\'iluk\'i, hhaw'il'i.
@@ -157,13 +157,13 @@ muuqpitl chaani hiila'il.
 citkpitl.
 
 # 052
-hiitkin\'ish ''iniitl\'i, waa ch'uushukwitl.
+hiitkin\'ish ??iniitl\'i, waa ch'uushukwitl.
 
 # 053
 ch'uushukwitl.
 
 # 054
-qii, kwiscachi'atlquuch ''iniitl\'i.
+qii, kwiscachi'atlquuch ??iniitl\'i.
 
 # 055
 hayimhhat qwi'iicii.
@@ -238,7 +238,7 @@ hishimy'awitl.
 hhaahhuupach'ak\'ish 'ahh waa'atl.
 
 # 079
-wiksuu wiiqhhaap ''iniitluk\'itqsuu.
+wiksuu wiiqhhaap ??iniitluk\'itqsuu.
 
 # 080
 wiksuu yackshitl.
@@ -250,10 +250,10 @@ ha'ukw'apsuuk y'uuqwaa.
 qwi'iickwi'itk 'uyiisuuk.
 
 # 083
-'uyiisuu ''iniitluk\'itqsuu.
+'uyiisuu ??iniitluk\'itqsuu.
 
 # 084
 'iiqhhukw'atl qwis'anit\'itq.
 
 # 085
-hhimchi'anit, 'in kin'uckwachyimt 'uush ''iniitl.
+hhimchi'anit, 'in kin'uckwachyimt 'uush ??iniitl.
