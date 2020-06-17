@@ -1,3 +1,3 @@
 # Search
 
--'(?!(atl)|(i;chhh))\b
+(?<!y)'

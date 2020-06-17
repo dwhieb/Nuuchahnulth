@@ -6,11 +6,11 @@ ID:           GL3
 [p. 222]
 
 # 001
-maa'ak maa'uk maa'ukwis ha'umn'ahh.
+maa?ak maa'uk maa'ukwis ha'umn'ahh.
 ma:?ak ma:?uk ma:?uk-?is ha'um-n'a;hh
 
 # 002
-maa'ak histaqshitl?al t'aqsii'il.
+maa?ak histaqshitl?al t'aqsii'il.
 ma:?ak his-taq-shi(tl)-?a;l t'aqsi:?il
 
 # 003
@@ -28,17 +28,17 @@ tl?aqshi'atl?eesh.
 tl?aq-shi(tl)-ʼatl-?i;sh
 
 # 006
-?uyi maa'ak pisshitl yaacshitl histaqshitl kalapooliyaquu.
+?uyi maa?ak pisshitl yaacshitl histaqshitl kalapooliyaquu.
 ?uyi ma:?ak pis-shi(tl) ya:c-shi(tl) his-taq-shi(tl) kalapo:liya-qu:
 
 [p. 224]
 
 # 007
-maa'ak ?u'iic tlichhhsa, cacak'is.
+maa?ak ?u'iic tlichhhsa, cacak'is.
 ma:?ak qu-ʼi;c tlichhhsa cacak'is
 
 # 008
-tlaan'ul qimalitwa'ish'al maa'ak.
+tlaan'ul qimalitwa'ish'al maa?ak.
 tla:n'ul qim-al-it-wa;-?i;sh-?a;l ma:?ak
 
 # 009
@@ -46,7 +46,7 @@ qwaawaa'ish qwaa'iitq quu'as ch'ihhsuuqtliich.
 qwa:-wa;-?i;sh qwa:-?i;tq qu:?as ch'ihh-su;qtl-(y)i:-ch
 
 # 010
-wihhi'utlwa'ish'aal maa'ak [p. 225] ?uushyuuya.
+wihhi'utlwa'ish'aal maa?ak [p. 225] ?uushyuuya.
 wihhi-ʼu;tl-wa;-?i;sh-?a:l ma:?ak ?u:sh-yu:ya
 
 # 011
@@ -64,11 +64,11 @@ haatkhaatkmi'a m'uukuuk?i m'uukuukquu.
 DUP#-hatk-mi;?a m'u:ku:k-?i; m'u:ku:k-qu:
 
 # 014
-hitaatap k'a'aqmis haatkhaatkwa.
-hita-?a;ta-ʼap k'a'aqmis DUP#-hatkw-(y)a
+hitaatap k'a?aqmis haatkhaatkwa.
+hita-?a;ta-ʼap k'a?aqmis DUP#-hatkw-(y)a
 
 # 015
-?ac?in ?uklaa'akwa'ish hiy'ahhs'itq.
+?ac?in ?uklaa?akwa'ish hiy'ahhs'itq.
 ?ac-?in ?u-kla:-?ak-wa;-?i;sh hil-ʼahhs-?i;tq
 
 [p. 227]
@@ -78,8 +78,8 @@ chuu, yaacaa yaacshitl.
 chu: ya:c-(y)a; ya:c-shi(tl)
 
 # 017
-wihhisatl ma'as'i
-wihhi-sa(tl) ma'as-?i;
+wihhisatl ma?as'i
+wihhi-sa(tl) ma?as-?i;
 
 # 018
 maa'ukwis. qun'aahh champ'uuqsquu quu'as maatmaas.
