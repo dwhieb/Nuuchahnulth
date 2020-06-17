@@ -117,7 +117,7 @@ ya:c-<x>-shi(tl)
 
 # 029
 yaacpanach, wikckwii sasaa'ii sayaap'inch ?ahh nism'a'i ?unahhit?itq, [North America], yaaqwil mamaln'i waa.
-yac-panach wik-ckwi; ?? saya-p'inch ?ahh nism'a-'i; ?una-hh-it-'i;tq ~ yaqw-(ch)il mamaln'i wa:
+yac-panach wik-ckwi; ?? saya-p'inch ?ahh nism'a-'i; ?una-hh-it-?i;tq ~ yaqw-(ch)il mamaln'i wa:
 
 # 030
 yaacshitl ?uncukwisitii ?uu'uuquk, miiluuk.
@@ -317,7 +317,7 @@ qwi-'i:-mit-(y)i: ?ahh qac-u;t kw'ach-shi(tl) ti:chma
 
 # 079
 haptsaap, hi'iis, hi'iis'itq wa'ich'as, hiilc'apula.
-hapt-sa;p hi'i:s hi'i:s-'i;tq wa'ich-'as hil-c-'apula
+hapt-sa;p hi'i:s hi'i:s-?i;tq wa'ich-'as hil-c-'apula
 
 # 080
 hil'atl ?ahh qwayaac'ikm'it qahhakw'as.
@@ -409,7 +409,7 @@ hapt-sa;p ?aqi-'isht-(y)i:k hapt-(y)a;-'a;k hha: mu:stati-'a;k-'i;
 
 # 102
 hitaatu??ihhtap sha'ihhtim?i, yaaqhhw'al'itq qahhsaap, qwayaac'ikm'it. haptsaap.
-hita-'a;tqu-'ihhta-'ap sha-'ihhta-im-'i; yaqw-hhw'al-'i;tq qahh-sa;p qwaya:c'ik-m'i;t hapt-sa;p
+hita-'a;tqu-'ihhta-'ap sha-'ihhta-im-'i; yaqw-hhw'al-?i;tq qahh-sa;p qwaya:c'ik-m'i;t hapt-sa;p
 
 # 103
 qwisitii m'u'akw'amitquu.
@@ -453,7 +453,7 @@ heey ??iita??iita'ick, waa'atl'at.
 
 # 113
 ?aa, y'uuqwaa'ap'i ?ahh ?ucaqc'u'i waa'atl, qwicpaa'itq c'a'ak?i, c'aa ?ahh ?aya hisit.
-~ y'u:qwa:-'ap-'i; qahh ?u-caqc'u-'i; wa;-'atl qwi-cpa;-'i;tq c'a'ak-'i c'a: ?ahh ?aya hisit
+~ y'u:qwa:-'ap-'i; qahh ?u-caqc'u-'i; wa;-'atl qwi-cpa;-?i;tq c'a'ak-'i c'a: ?ahh ?aya hisit
 
 # 114
 ?unw'iitl yaaqtl qwayaac'ikm'it ?in ?aniic'ap'at t'uhhc'iti,
@@ -537,7 +537,7 @@ hi'i:s hha:l qwaya:c'ik-m'i;t
 
 # 134
 kuhhyuu'atl. hisiik?aqtl?itq kamatqshitl, wiik'itl tiichmis,
-kuhh-yu;-'atl his-i;k-'a;qtl-'i;tq kamatq-shi(tl) wik-'i(tl) ti:chmis
+kuhh-yu;-'atl his-i;k-'a;qtl-?i;tq kamatq-shi(tl) wik-'i(tl) ti:chmis
 
 # 135
 wikst'iihhw'it'as kamatquk
@@ -649,7 +649,7 @@ heey c'aachitl.
 
 # 162
 ?uhh'at. ?uhhmatak'atl yaaqwil'itq Columba waa'at, [Columba River].
-?uhh-'at ?uhh-matak-'atl yaqw-(ch)il-'i;tq ~ wa;-'at ~
+?uhh-'at ?uhh-matak-'atl yaqw-(ch)il-?i;tq ~ wa;-'at ~
 
 # 163
 haa sukwitl sachk'ahhsuk?i, qwis ?ahh'aa.
@@ -669,7 +669,7 @@ wik-'atl hha'u-kwi(tl)
 
 # 167
 ?uuktis'atl'at?ish qw'aaxtii, hisiik?itq
-?u-ktis-'atl-'at-?i;sh qw'a:xti: his-i;k-'i;tq
+?u-ktis-'atl-'at-?i;sh qw'a:xti: his-i;k-?i;tq
 
 # 168
 kamatquk misshi'atlquuch qwaa ?ahh'aa.
@@ -833,7 +833,7 @@ qwi-'i:-mit-(y)i: hil-it-(y)i:
 
 # 208
 kwiis\hhi ?ahh n'aas'i, yaaqwil'itq mamaln'i [time zone] waa.
-kwis-hhi; ?ahh n'a:s-'i; yaqw-(ch)il-'i;tq mamaln'i ~ wa;
+kwis-hhi; ?ahh n'a:s-'i; yaqw-(ch)il-?i;tq mamaln'i ~ wa;
 
 # 209
 huu'aan'uutl. ch'aastimcm'it.
@@ -897,7 +897,7 @@ qwayac'i:k-'i; hayim-hhi; qwa:-'ap-(y)i: ch'a:stimc-m'i;t qw'a:xti:
 
 # 224
 wik ?iihh, ?uchknahh'is qwaa'iitq chamihhta'i qwayac'iik
-wik ?i:hh ?unahh-<chk>-'is qwa:-'i;tq chamihhta-'i; qwayac'i:k
+wik ?i:hh ?unahh-<chk>-'is qwa:-?i;tq chamihhta-'i; qwayac'i:k
 
 # 225
 qwiqitii t'aatn'a'isitquu.
@@ -1109,11 +1109,11 @@ wik-uk-s n'uw'i:qsu ?aya-(ch)il
 
 # 277
 ?iinaxy'atl hhaaw'iihhatl, hiyiqsathh, naahhtach tluttluul'i hhaaw'iihhatl, naahhtachm'it, hhuksumm'it, muuch?aa'a, qwishtuup?itq.
-?i:nax-y'atl hha:w'i:hhatl hish-'iqsa-'athh na:hhtach tlut-tlul-'i; hha:w'i:hhatl na:hhtach-m'i;t hhuksum-m'i;t mu:ch?a:?a qwish-tu;p-'i;tq
+?i:nax-y'atl hha:w'i:hhatl hish-'iqsa-'athh na:hhtach tlut-tlul-'i; hha:w'i:hhatl na:hhtach-m'i;t hhuksum-m'i;t mu:ch?a:?a qwish-tu;p-?i;tq
 
 # 278
 hishsiik'at qum'iis'itq maatmaas.
-hish-si:k-'at qum'a:-'is-'i;tq ma:tma:s
+hish-si:k-'at qum'a:-'is-?i;tq ma:tma:s
 
 # 279
 haa ?aaniml c'awaakshi'atl.

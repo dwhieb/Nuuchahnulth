@@ -125,7 +125,7 @@ wik-`il-(q)hh katlhh-shi(tl) qawiqa:l wik-`il
 
 # 031
 ?ucachitl hhuu hil'iitq'aal, tukuuk.
-?u-ca-chi(tl) hhu: hil-'i;tq-'a:l tuku:k hihh-ak
+?u-ca-chi(tl) hhu: hil-?i;tq-'a:l tuku:k hihh-ak
 
 # 032
 yaalwaa'ish ?ahh tukuuk, hilachisht.
@@ -157,7 +157,7 @@ m'uch'ich-u(tl)-'at hil-'a; ?ahh ?a:l
 
 # 039
 hihhak qwaa, ?uut'i'ilatl qwaa'iitq'aal, tukuuk, hihhak.
-hihh-ak qwa: ?u-t'i'il-'atl qwa:-'i;tq-'a:l tuku:k hihh-ak
+hihh-ak qwa: ?u-t'i'il-'atl qwa:-?i;tq-'a:l tuku:k hihh-ak
 
 # 040
 RRRRR qwayaatuk y'uuqwaa'atlquuch.
@@ -337,7 +337,7 @@ chu: ?u-ca-chi(tl)-'aqtl-nish hhu: hil-in??atu wa:-'atl
 
 # 084
 huhhtak. na'aa wawaa'itq.
-huhhtak na'a: wawa:-'i;tq
+huhhtak na'a: wawa:-?i;tq
 
 # 085
 na'iichi'atl.
@@ -549,7 +549,7 @@ wa: mu:-q'ichhh-shi(tl)-'atl hinat-'atl n'uw'i;qsu-'a;k
 
 # 137
 chuu, ?iiqhhukw'atl qwisit?itq,
-chu: ?i:qhh-ukw-'atl qwis-it-'i;tq
+chu: ?i:qhh-ukw-'atl qwis-it-?i;tq
 
 # 138
 ?acyuu'aqtlnish waa'atl. ?acyuu'aqtlnish.
@@ -701,7 +701,7 @@ wa: ?ahh ciq-y'akw
 
 # 174
 ?uyaatlitwa'ish qii'atl?itq, ?iiqhhuk?atl qawiqaal hilit?itq, qwi'iimit?itq.
-?uyi-??-'atl-it-wa;?i;sh qi:-'atl-'i;tq ?i:qhh-uk-'atl qawiqa:l hil-it-'i;tq qwi-'i:-mit-'i;tq
+?uyi-??-'atl-it-wa;?i;sh qi:-'atl-?i;tq ?i:qhh-uk-'atl qawiqa:l hil-it-?i;tq qwi-'i:-mit-?i;tq
 
 # 175
 ch'up'uuqs'ish quu'as, waa'atl.
@@ -721,7 +721,7 @@ DUP-'u;q-ukw ?u:-'u:-'u;q-ukw-'is wawa:-mit-?i;sh-'a:l yaqw-ukw-it-(u)i:s n'uw'i
 
 # 179
 ?uu'uu'uqukwis hhuul. ?ucpaa'i, yaaqwil'itq mamaln'i south waa, ?ucachitlckwi ?ahh'aa qawiqaal, south, waa, hachlatuqwak, westerly.
-?u:-'u:-'u;q-ukw-'is hhu:l ?u-cpa;-'i; yaqw-(ch)il-'i;tq mamaln'i ~ wa; ?u-ca-chi(tl)-ckwi; ?ahh'a: qawiqa:l ~ wa: hachlatuqwak ~
+?u:-'u:-'u;q-ukw-'is hhu:l ?u-cpa;-'i; yaqw-(ch)il-?i;tq mamaln'i ~ wa; ?u-ca-chi(tl)-ckwi; ?ahh'a: qawiqa:l ~ wa: hachlatuqwak ~
 
 # 180
 hil ?uukwiiqstackwi, k'ilanus. k'ilanus. tukuuk.
@@ -757,7 +757,7 @@ kw'akw'atl kw'akw'atl hil t'imyis hhacxwi;-'i;
 
 # 188
 qwaaniish, qwaa'iish qwaa'iitq tukuuk qwaaqin,
-qwa:-ni;sh qwa:-?i;sh qwa:-'i;tq tuku:k qwa:-qin
+qwa:-ni;sh qwa:-?i;sh qwa:-?i;tq tuku:k qwa:-qin
 
 # 189
 na'aa'ish. na'aa'atnish ciiqciiqa.

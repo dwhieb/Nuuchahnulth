@@ -116,7 +116,7 @@ He had another name.
 
 # 017
 histaqshitl tl'ic'aa'athh, tl'ic'aa'athh. yaq?atl?itq [James Adams], [Carl Jumbo].
-his-taq-shi(tl)     tl'ic'a:?athh tl'ic'a:?athh yaq-'atl-'i;tq [~] [~]
+his-taq-shi(tl)     tl'ic'a:?athh tl'ic'a:?athh yaq-'atl-?i;tq [~] [~]
 there-come.from-MOM NAME          NAME          yaq-FIN-REL.3  [~] [~]
 came.from           NAME          NAME          which          [~] [~]
 He was from _ƛ̓ic̓aaʔatḥ_—from which James Adams and Carl Jumbo came.
@@ -137,7 +137,7 @@ So was the one whose name was _w̓iikinaniš_—he was from Kelsomat.
 
 # 020
 ?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya??atl?itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
-?a:nahha-'atl ?in  kwa:tya nani;qsu-'a;k   nani;qsu-'a;k-'i;tq    his-taq-shi(tl)     yaq'atl-'i;tq-'a;l ?achaq m'ukwina m'ukwina ?a:sha:sh-taqiml ?u-kla;
+?a:nahha-'atl ?in  kwa:tya nani;qsu-'a;k   nani;qsu-'a;k-?i;tq    his-taq-shi(tl)     yaq'atl-?i;tq-'a;l ?achaq m'ukwina m'ukwina ?a:sha:sh-taqiml ?u-kla;
 ??-FIN        that NAME    granparent-POSS grandparent-POSS-REL.3 there-come.from-MOM who-FIN.REL.3-PL   who    NAME     NAME     NAME-family      it-having.as.name
 ??-FIN        that NAME    her.grandparent her.grandparent        came.from           ones.who           who    NAME     NAME     ʔaašaaš.clan     being.named
 _kwaatya_'s grandparent was from the lineage of Maquinna—by the name of _ʔaašaaš_ clan.
@@ -277,7 +277,7 @@ I sort of understood (English) when I first went to school.
 
 # 041
 na'aas wawaa'itq tiichas?i, principle, staff
-na'a:-s wawa:-'i;tq ti:chas-'i; ~ ~
+na'a:-s wawa:-?i;tq ti:chas-'i; ~ ~
 understand-1SG say-REL.3 teachers-DEF ~ ~
 I.understood what.they.were.saying the.teachers ~ ~
 I understood what the teachers, principal and staff people were saying.
@@ -340,14 +340,14 @@ I finished (came out of) school in 1927.
 
 # 050
 ?acyuu ?? ?acyuu, fishing yaaqwil?itq mamaln'i waa, kwacinu hiistil, ?acyuu
-?ac-yu; ~ ?ac-yu; ~ yaqw-(ch)il-'i;tq ma-mal-n'i; wa; kwaci:nu hist-(ch)il ?ac-yu;
+?ac-yu; ~ ?ac-yu; ~ yaqw-(ch)il-?i;tq ma-mal-n'i; wa; kwaci:nu hist-(ch)il ?ac-yu;
 go.out.fishing-done ~ go.out.fishing-done ~ which-with.reference.to-REFL.3 dwell-move-come say NAME there-with.reference.to go.out.fishing-done
 be.out.hunting ~ be.out.hunting ~ with.reference.to.which white.man say NAME at be.out.hunting
 I was out fishing at Quatsiino
 
 # 051
 waa c'u'ichhh, ch'aastimc ?u'u'iihh, sashtup qwaq?iitq haptuup, waaxnii, tl'itl'ihhiy'uuhh, ch'aty'a yaaqwil?itq waa'at tlapisum, racoon
-wa; c'u'ichhh ch'a:stimc DUP-?u-'i:hh sa-shtu;p qwaq-'i;tq hap-tu;p wa:xni: tl'itl'ihhiy'uuhh, ch'aty'a yaqw-(ch)il-'i;tq wa;-'at tlapisum ~
+wa; c'u'ichhh ch'a:stimc DUP-?u-'i:hh sa-shtu;p qwaq-?i;tq hap-tu;p wa:xni: tl'itl'ihhiy'uuhh, ch'aty'a yaqw-(ch)il-?i;tq wa;-'at tlapisum ~
 and winter mink ???-it-hunting crawl-species what-REL.3 fur-species land.otter martin racoon which-with.reference.to-REL.3 say-SHIFT racoon ~
 and winter mink gathering animal whatever fur.bearing.animal land.otter martin racoon with.reference.to.which it.is.called racoon ~
 
@@ -402,7 +402,7 @@ They very often fished for red snappers and _ʔiʔišpaaɬ_.
 
 # 059
 ha'um'ish ?uupi tl'ihhapiihh qwaa'iitq ?i'ishpaal.
-ha'um-?i;sh ?u-(?)a:pi tl'ihhapi:hh qwa:-'i;tq ?i'ishpa:l
+ha'um-?i;sh ?u-(?)a:pi tl'ihhapi:hh qwa:-?i;tq ?i'ishpa:l
 food-IND.3 it-?PASS red.snapper such-REL.3 (fish.name)
 it.is.tasty better red.snapper compared.to
 Red snappers are tastier than _ʔiʔišpaaɬ_.
@@ -983,7 +983,7 @@ wa; qwis-'atl-tla; tlahh
 
 # 171
 [Three years]?atls?al huhhtak Toshi, yaqchiil?atl?itq, [his wife]
-[three years]-'atl-s-'a;l huhhtak ~ yaq-chi:l-'atl-'i;tq ~
+[three years]-'atl-s-'a;l huhhtak ~ yaq-chi:l-'atl-?i;tq ~
 
 # 172
 waa ?aya mamaln'i, tlatluu huuhhtakshiihhmahhsa language
@@ -1001,7 +1001,7 @@ wi:y'a-s hha:hhu:p-(y)a; ?u-kwil DUP-'ashxhw-(y)a;-qu:
 
 # 175
 ?ana ?anchils ?iiqhhuk qwiq?iitq tlul, tlulmis
-?ana ?an-(ch)il-s ?i:qhh-uk qwiq-'i;tq tlul tlul-mis
+?ana ?an-(ch)il-s ?i:qhh-uk qwiq-?i;tq tlul tlul-mis
 [p. 209]
 
 # 176
@@ -1010,11 +1010,11 @@ wi:y'a-s hha:hhu:p-(y)a; ?u-kwil DUP-'ashxhw-(y)a;-qu:
 
 # 177
 waa'at qaan'im qwaq?iitq private
-wa;-'at qa:n'im qwaq-'i;tq ~
+wa;-'at qa:n'im qwaq-?i;tq ~
 
 # 178
 yaaqwil?itq [private parts of our body] qaan'im waanaa
-yaqw-(ch)il-'i;tq ~ qa:n'im wa:-na;
+yaqw-(ch)il-?i;tq ~ qa:n'im wa:-na;
 
 # 179
 ?ahh'aa, hiishilsa huhhtak ??aa??imt'at [p. 210] ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa'at ch'alch'a, hishuk ch'alch'a
