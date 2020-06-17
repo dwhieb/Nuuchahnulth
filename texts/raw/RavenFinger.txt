@@ -6,16 +6,16 @@ abbreviation: RavenFinger
 ID:           CL1
 ---
 # 001
-chuu, humwic'a'aqtls 'uuqhhli qwishhitiich kumtkwachi'at qu'ushin kukwinksi 'an c'iic'ikiikit na'aa'at.
+chuu, humwic'a'aqtls ?uuqhhli qwishhitiich kumtkwachi'at qu'ushin kukwinksi ?an c'iic'ikiikit na'aa'at.
 
 # 002
-wik'atlquuch wikiichitl 'un'aahh qwishh'aahhii ha'uk.
+wik'atlquuch wikiichitl ?un'aahh qwishh'aahhii ha'uk.
 
 # 003
-misp'uuqschi'atlquuch ha'um yee, 'ucachitl 'usumhhi haw'ik. 'usumhhi hhanaaqtl.
+misp'uuqschi'atlquuch ha'um yee, ?ucachitl ?usumhhi haw'ik. ?usumhhi hhanaaqtl.
 
 # 004
-chuu, 'ucahhtachi'atlwa'ish yaacpanach hiy'athh'itq chumsm'iit, na'aap'uqschitl 'an wiqaa'ak suuhhaa.
+chuu, ?ucahhtachi'atlwa'ish yaacpanach hiy'athh'itq chumsm'iit, na'aap'uqschitl ?an wiqaa'ak suuhhaa.
 
 # 005
 haa, yaacpanachitsish, waay'aqstutls yacmaasquus siihhil.
@@ -30,10 +30,10 @@ hee machinu'atl.
 cha'aalchi, suuhhn'aahh waa'atl luucma'isuk, hinii'as chumsm'iit.
 
 # 009
-'ucachitl c'a'ak?i. suuhhiip, ??achshitl suuhhaa. machintl.
+?ucachitl c'a'ak?i. suuhhiip, ??achshitl suuhhaa. machintl.
 
 # 010
-nay'iik 'uutaqshitl luucma'i, chums luucmaak, kuuchilshitl tl'apch'iitap, siqay'ap.
+nay'iik ?uutaqshitl luucma'i, chums luucmaak, kuuchilshitl tl'apch'iitap, siqay'ap.
 
 # 011
 n'aacsaatl qu'ushinm'it qwaa'ap?itq chumsm'iit. pihhaa.
@@ -51,10 +51,10 @@ sukwitl ??am'iit.
 n'aacsaatl qu'ushinm'it qwaa'ap?itq.
 
 # 016
-tlawa'ii 'inkwil?i.
+tlawa'ii ?inkwil?i.
 
 # 017
-tl'uulapu'atl 'ucahhtak'at kukwinksi hhaa 'ink?ii.
+tl'uulapu'atl ?ucahhtak'at kukwinksi hhaa ?ink?ii.
 
 # 018
 ch'aam'iitlil?atl hhaa ??am'iit?i.
@@ -66,7 +66,7 @@ n'aacsaatl qwis'iitq,
 ??ii??iiqatshitl tlaqmis histaqshitl kukwinksat chums.
 
 # 021
-k'uushitl?is 'ahh k'amintl ??am'iitm'inhh'i.
+k'uushitl?is ?ahh k'amintl ??am'iitm'inhh'i.
 
 # 022
 hee, c'apshi'atl'at qu'ushin.
@@ -78,7 +78,7 @@ na'uksap'at.
 qwaa'atl qwaa'iitq hhanaaqtl.
 
 # 025
-na'ukshi'atl. ha'ukshi'atl 'u'uiic'at suuhhaa tlaqmis 'uunaqa.
+na'ukshi'atl. ha'ukshi'atl ?u'uiic'at suuhhaa tlaqmis ?uunaqa.
 
 # 026
 niswachitl, wa'ichpitl.
@@ -87,25 +87,25 @@ niswachitl, wa'ichpitl.
 wee t'iqpitl tlumkshitl.
 
 # 028
-hee haaw'awiiqsh'atls suutil. haw'aas'um 'am'ii waa'atl qu'ushinm'it.
+hee haaw'awiiqsh'atls suutil. haw'aas'um ?am'ii waa'atl qu'ushinm'it.
 
 # 029
 hee t'aaqaak'atl chumsm'iit.
 
 # 030
-hishukwatl'at huhhtak'at qwaa'iitq qu'ushinm'it, 'ayisa??aqtl, c'iic'ikiik qwaan'ak'uuhh'itq.
+hishukwatl'at huhhtak'at qwaa'iitq qu'ushinm'it, ?ayisa??aqtl, c'iic'ikiik qwaan'ak'uuhh'itq.
 
 # 031
 kuw'ila w'aq'uu.
 
 # 032
-chums 'ucachitl qu'ushinm'it.
+chums ?ucachitl qu'ushinm'it.
 
 # 033
 n'aacsaa'at tlatluu'i quu'as.
 
 # 034
-huhhtak'at 'an 'aa'aayisqaw'it'as.
+huhhtak'at ?an ?aa'aayisqaw'it'as.
 
 # 035
 chukwaa machintl t'iqwil'i waa'atl'at.
@@ -114,7 +114,7 @@ chukwaa machintl t'iqwil'i waa'atl'at.
 machintl chums.
 
 # 037
-chuu 'un'aahhchi'i qwi'iic'aahhii.
+chuu ?un'aahhchi'i qwi'iic'aahhii.
 
 # 038
 wiiy'umt ha'umnak'ap luucmaak. wiwish??aqtl.
@@ -126,7 +126,7 @@ sukwi'atl sumtshitl suuhhasht.
 kaa'a ??am'iit waa'atl.
 
 # 041
-wik'atl y'uuqwaa 'aa'aatuu qwii'atupii.
+wik'atl y'uuqwaa ?aa'aatuu qwii'atupii.
 
 # 042
 na'aa, naana'a'iik?is.
@@ -135,7 +135,7 @@ na'aa, naana'a'iik?is.
 m'aw'aa'atl ??am'iit chakupuk.
 
 # 044
-hee, tlawiichitl 'ink?ii.
+hee, tlawiichitl ?ink?ii.
 
 # 045
 ch'aam'iitlil'atl ??am'iitm'inhh'i.
@@ -144,16 +144,16 @@ ch'aam'iitlil'atl ??am'iitm'inhh'i.
 hee, c'iikalshitlw'it'as'atl?ita'um waa'atl quu'as yaa'alm'inhh'i.
 
 # 047
-tl'uulapu'atl, 'uucaap'atl'at kukwinksi hhaa 'ink?ii.
+tl'uulapu'atl, ?uucaap'atl'at kukwinksi hhaa ?ink?ii.
 
 # 048
 n'aacsaatl quu'asm'inhh'i qwiisayat?itq kukwinksi.
 
 # 049
-kumtkwachitlshi'at 'ink?ii quusaahhi wik'iit tlaqmis.
+kumtkwachitlshi'at ?ink?ii quusaahhi wik'iit tlaqmis.
 
 # 050
 c'iic'ikiikkwachi'atl kumtkwachi'at kukwinksi.
 
 # 051
-'ahh'aa qwis\hhitwa'ish kumtkwachi'at kukwinksi.
+?ahh'aa qwis\hhitwa'ish kumtkwachi'at kukwinksi.

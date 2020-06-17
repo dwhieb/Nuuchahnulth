@@ -9,43 +9,43 @@ ID:           CL9
 qwiinuutlhhiich wiiy'aat haw'aahhin?at sashtup.
 
 # 002
-tlaac'umwa'ish 'ahh qwisnaak.
+tlaac'umwa'ish ?ahh qwisnaak.
 
 # 003
-kuukuhhw'isa 'u'u'iihhw'it'asitwa'ish chakup?i.
+kuukuhhw'isa ?u'u'iihhw'it'asitwa'ish chakup?i.
 
 # 004
-yaacshitl 'a'umshtup katlhh'aqstutl.
+yaacshitl ?a'umshtup katlhh'aqstutl.
 
 # 005
-'ucahhtachitl hiy'aa'a'itq'aal naaw'ahhatl hinusatlquu kuukuhhw'isa.
+?ucahhtachitl hiy'aa'a'itq'aal naaw'ahhatl hinusatlquu kuukuhhw'isa.
 
 # 006
 wiinap'a'atl lahh'as naaw'ahhi.
 
 # 007
-n'aacsiichitl chakup?i 'uushtup malshitl'a'a.
+n'aacsiichitl chakup?i ?uushtup malshitl'a'a.
 
 # 008
 hiy'aaqstas ??ama??as'i.
 
 # 009
-wik qiihhsn'aak hinusa kuukuhhw'isa 'uukwiiqsta husmin.
+wik qiihhsn'aak hinusa kuukuhhw'isa ?uukwiiqsta husmin.
 
 # 010
 t'aaps'atu yaaqwin'ak'uuhhshit'itq chakup?i.
 
 # 011
-n'aacsiichitl 'an qwayac'iik.
+n'aacsiichitl ?an qwayac'iik.
 
 # 012
-'uucahhtaksa hinkway'iihhshitl kuukuhhw'isa'i.
+?uucahhtaksa hinkway'iihhshitl kuukuhhw'isa'i.
 
 # 013
 hiniipshitl qahhsaap.
 
 # 014
-susaa'atl hiniic wihhchisan'ap 'uca'ap sup'icis'i.
+susaa'atl hiniic wihhchisan'ap ?uca'ap sup'icis'i.
 
 # 015
 c'ushi'atl, c'ushi'atl.
@@ -60,7 +60,7 @@ tuukwiichsan'ap'atl.
 hatkhatkmisatl qwayac'iik?i, wiimatsapa qwi'ii'is'ap?itq kuukuhhw'isak?i.
 
 # 019
-sayiisa'atlquuch hhuu hhaam'aamahhasak 'an wiimatisuk.
+sayiisa'atlquuch hhuu hhaam'aamahhasak ?an wiimatisuk.
 
 # 020
 hu'aas'atlquuchtla hatkhatkmisatl.
@@ -75,7 +75,7 @@ mamaasulqchik haa??in yaa??aalchiqhh'itq.
 wiktum naaw'ahhi chakup?i.
 
 # 024
-tuxkwist'a'a 'uucahhtaksa.
+tuxkwist'a'a ?uucahhtaksa.
 
 # 025
 c'uskwisan'ap kuukuhhw'isa'i hiniic walshitl.
@@ -96,7 +96,7 @@ wikis??i'atl kuukuhhw'isak?i.
 mismiis'atl'at qwicahhtachitlit?itq ya??atuk?itq kuuw'il'at ha'um.
 
 # 031
-'uucahhtaksa hiy'athh'itq chakup?i.
+?uucahhtaksa hiy'athh'itq chakup?i.
 
 # 032
 mitxumy'itl?al hiy'athh'itq chakup?i hil'iitq hicnup'aqtl'as.
@@ -111,7 +111,7 @@ mitxwaa'al mahht'ii'ak chakup?i.
 qiichiilshi'atl?itq'al tuuhhuk hinii'as.
 
 # 036
-'ayipi'atluk?itq tums, 'uyaatl waay'aqstutl luucma'i 'an wiiwiik'ity'ak, 'an wiiksa 'uhh kuuw'il kuukuhhw'isa'i.
+?ayipi'atluk?itq tums, ?uyaatl waay'aqstutl luucma'i ?an wiiwiik'ity'ak, ?an wiiksa ?uhh kuuw'il kuukuhhw'isa'i.
 
 # 037
 hinii'as tumyaap.
@@ -120,7 +120,7 @@ hinii'as tumyaap.
 wiksilat.
 
 # 039
-'uyaatl t'apatnakshitl chakup?i.
+?uyaatl t'apatnakshitl chakup?i.
 
 # 040
 mahht'aqasuk?al hiy'athh'itq hiistwasuk?itq qwishckwii.
@@ -135,13 +135,13 @@ y'akwaas.
 tl'isumlaq hhaw'ilmatakuk?i'al.
 
 # 044
-tl'ichitl 'uhhtaa tl'isuml'i qahhsaap.
+tl'ichitl ?uhhtaa tl'isuml'i qahhsaap.
 
 # 045
 nay'iik w'ashqshitl mamaasulshitl.
 
 # 046
-hiiltqyaap'up 'atla qwayac'iik.
+hiiltqyaap'up ?atla qwayac'iik.
 
 # 047
 mamaasulqchik'atl?al hiitaqtl'itl.
@@ -153,7 +153,7 @@ nay'iik tl'iptkshitl hicnup?i hitawii'is.
 wik'ap'at qii'athh hiina'atl'attla qwayac'iikshtaquml'i.
 
 # 050
-chuu 'aqiscumhhin waa'atl chakup?i.
+chuu ?aqiscumhhin waa'atl chakup?i.
 
 # 051
 wik?aqtl'atsa lachi'at ??aciis qwicachitluusin.
@@ -168,16 +168,16 @@ sukwitl'asnak'atuk t'apathhsi'i.
 hishumyipitl?al t'aat'aapatshitl.
 
 # 055
-'un'aahh'i numackwiqalquu hiilcii??as'ap.
+?un'aahh'i numackwiqalquu hiilcii??as'ap.
 
 # 056
 qwis chakup?i waa'at?itq.
 
 # 057
-'aani tuuhhshitl qwayac'iikm'inhh'i.
+?aani tuuhhshitl qwayac'iikm'inhh'i.
 
 # 058
 hu'aaqtl'itl lachi'at.
 
 # 059
-'ahh'aa 'uunuutlwa'ish wiiy'aat hinaahhin?at ha'um sashtup.
+?ahh'aa ?uunuutlwa'ish wiiy'aat hinaahhin?at ha'um sashtup.

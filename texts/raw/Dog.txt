@@ -4,55 +4,55 @@ abbreviation: Dog
 ID:           GL9
 ---
 # 001
-qwaa'atl ??iniitl, yaaqtlst'al 'uy'iihha, 'unaak?is'al hilhh'iitq, ??imsshitl.
+qwaa'atl ??iniitl, yaaqtlst'al ?uy'iihha, ?unaak?is'al hilhh'iitq, ??imsshitl.
 
 # 002
-'ahh 'unaak?al, hhahhumt'uu, 'uushc'aluk sashtup hitacpa.
+?ahh ?unaak?al, hhahhumt'uu, ?uushc'aluk sashtup hitacpa.
 
 # 003
-qwaatlaa 'uushiic?atlquu ??iniitl 'unaakquuk tlaqimy'as. wik'ap hiniip, kaamat??iihhshitl?aal.
+qwaatlaa ?uushiic?atlquu ??iniitl ?unaakquuk tlaqimy'as. wik'ap hiniip, kaamat??iihhshitl?aal.
 
 # 004
 wiiqch'ap, yaaqtlst'al'al, ??iniitl.
 
 # 005
-rrrr waa. ??iniitl, hinqaa. rrrr qwayaatuk 'ahh'aa.
+rrrr waa. ??iniitl, hinqaa. rrrr qwayaatuk ?ahh'aa.
 
 # 006
 y'uuqwaa chims. rrrr.
 
 # 007
-siichpaax 'uushatuk, rrrr chichichi 'uutukw'at siichpaax.
+siichpaax ?uushatuk, rrrr chichichi ?uutukw'at siichpaax.
 
 # 008
-numaakuknish, 'uushtupayi, qwaa'itq qwayac'iik. siichpaax.
+numaakuknish, ?uushtupayi, qwaa'itq qwayac'iik. siichpaax.
 
 # 009
-nuumaak 'uyii'at, ha'umshtup.
+nuumaak ?uyii'at, ha'umshtup.
 
 # 010
-'in hixwaa quu'as 'un'aahh ha'um 'inchil'aal, ha'ukw'ap ??iniitluk?i, ??iniitluk?i.
+?in hixwaa quu'as ?un'aahh ha'um ?inchil'aal, ha'ukw'ap ??iniitluk?i, ??iniitluk?i.
 
 # 011
-'uushi'iish ??iniitl 'uushhhtinqak. 'uushhhtin.
+?uushi'iish ??iniitl ?uushhhtinqak. ?uushhhtin.
 
 # 012
-'unw'iitlckwi'aal 'uch'akckwak?ish quu'as, 'unaak ??iniitl, wiinaquu. wiinaquu.
+?unw'iitlckwi'aal ?uch'akckwak?ish quu'as, ?unaak ??iniitl, wiinaquu. wiinaquu.
 
 # 013
-waa 'uushcapanach'atlquu hiniic ??iniitluk?i.
+waa ?uushcapanach'atlquu hiniic ??iniitluk?i.
 
 # 014
 tutuhhst'uu waa qwaa. tutuhhst'uu waa.
 
 # 015
-tutuhhst'uu'ak 'in, 'ayackwi sashtup huu'ak.
+tutuhhst'uu'ak ?in, ?ayackwi sashtup huu'ak.
 
 # 016
-'ahh qwaa'iish ??iniitl. 'unaak'at.
+?ahh qwaa'iish ??iniitl. ?unaak'at.
 
 # 017
-'uushc'aluk?ish quu'as yackshi'at. wiiy'aat. numaak.
+?uushc'aluk?ish quu'as yackshi'at. wiiy'aat. numaak.
 
 # 018
 qwaawaa'ish hhaahhuupay'aktla.
@@ -73,16 +73,16 @@ muwach'athh hilhh, quu'as hhaw'ilaq.
 machintl quu'as'i, hhaaw'ilatl.
 
 # 024
-'aana'inhhatlnish suutil, waa.
+?aana'inhhatlnish suutil, waa.
 
 # 025
-'aana'inhhatlnish suutil.
+?aana'inhhatlnish suutil.
 
 # 026
 heey, qwiyimtii yaacshitl quu'as'i.
 
 # 027
-'um'aack wik tlawachutl.
+?um'aack wik tlawachutl.
 
 # 028
 yaacshi'atlquuch.
@@ -94,7 +94,7 @@ heey, k'uu'ulshi'atlquuch.
 tl'aa'iis walaak'ap'at.
 
 # 031
-hii, n'aacsaatl, 'in ch'ihhshi'at quu'as'i.
+hii, n'aacsaatl, ?in ch'ihhshi'at quu'as'i.
 
 # 032
 ch'ihhshi'at.
@@ -121,7 +121,7 @@ waa ciqshi'atl tla'uu'i ??iniitl.,
 wiiy'aats qwaa'ap'at, hhaw'ilukqs, yaqwaciis ??iniitl, hhaw'ilukqs, waa.
 
 # 040
-'aaphhii'ats. wiichhhii'aks.
+?aaphhii'ats. wiichhhii'aks.
 
 # 041
 maa, waa'at, quu'as'i.
@@ -142,16 +142,16 @@ hii, m'uch'ichutl, ??iniitlshitl.
 machinttlwa'ish ??iniitl?i.
 
 # 047
-'ucahhtak, chim?iluk?i, hhaw'il'i.
+?ucahhtak, chim?iluk?i, hhaw'il'i.
 
 # 048
-'u'iiyitl.
+?u'iiyitl.
 
 # 049
 muuqpitl chaani hiila'il.
 
 # 050
-'aa 'aathhshitl, hinaspitl 'iinitl?i, chim?il' citkpitl.
+?aa ?aathhshitl, hinaspitl ?iinitl?i, chim?il' citkpitl.
 
 # 051
 citkpitl.
@@ -169,7 +169,7 @@ qii, kwiscachi'atlquuch ??iniitl?i.
 hayimhhat qwi'iicii.
 
 # 056
-'ahh'aa'atl'anitwa'ish. hhaaw'iihhatl, kwiikwiisahhi, hihinatahhshi'at.
+?ahh'aa'atl'anitwa'ish. hhaaw'iihhatl, kwiikwiisahhi, hihinatahhshi'at.
 
 # 057
 hii hat'iisckwi'aal.
@@ -184,10 +184,10 @@ hil'atl hhaa.
 qwaa'amitii tl'upaamitquu.
 
 # 061
-qwa'is 'ahh'aa chuupi, quu'as'i.
+qwa'is ?ahh'aa chuupi, quu'as'i.
 
 # 062
-tlawa'ii hhaaw'iihhatl?i, 'e'hheiik! waa.
+tlawa'ii hhaaw'iihhatl?i, ?e'hheiik! waa.
 
 # 063
 sukwitl, k'ac\hhaq'i, yaq'ich?itq.
@@ -205,19 +205,19 @@ muuchiil. muuchiil.
 heey, walshitl.
 
 # 068
-'ucahhta'ap'at, chim?ilukwit?i, hiil'iitq'aal t'iqwil.
+?ucahhta'ap'at, chim?ilukwit?i, hiil'iitq'aal t'iqwil.
 
 # 069
-numaakckwak quu'as 'iiqhhuk, nay'iik.
+numaakckwak quu'as ?iiqhhuk, nay'iik.
 
 # 070
-n'upq'ichhh, 'atlq'ichhh, qacc'aq'ichhh, muuq'ichhh.
+n'upq'ichhh, ?atlq'ichhh, qacc'aq'ichhh, muuq'ichhh.
 
 # 071
 n'upchiil, waa'at. [one year].
 
 # 072
-'atlchiil, qacc'achil, muuchiil, [four years].
+?atlchiil, qacc'achil, muuchiil, [four years].
 
 # 073
 chuu, muuq'ichhhshitl.
@@ -229,13 +229,13 @@ muuq'ichhh hiinasit.
 hishimyuup qwi'iic'amitii.
 
 # 076
-kwiikwiisahhickwi muuwach'athh, tl'aaq, 'ayimsuk?al tl'aaq, maa'ak, ha'ukshitl.
+kwiikwiisahhickwi muuwach'athh, tl'aaq, ?ayimsuk?al tl'aaq, maa'ak, ha'ukshitl.
 
 # 077
 hishimy'awitl.
 
 # 078
-hhaahhuupach'ak?ish 'ahh waa'atl.
+hhaahhuupach'ak?ish ?ahh waa'atl.
 
 # 079
 wiksuu wiiqhhaap ??iniitluk?itqsuu.
@@ -247,13 +247,13 @@ wiksuu yackshitl.
 ha'ukw'apsuuk y'uuqwaa.
 
 # 082
-qwi'iickwi'itk 'uyiisuuk.
+qwi'iickwi'itk ?uyiisuuk.
 
 # 083
-'uyiisuu ??iniitluk?itqsuu.
+?uyiisuu ??iniitluk?itqsuu.
 
 # 084
-'iiqhhukw'atl qwis'anit?itq.
+?iiqhhukw'atl qwis'anit?itq.
 
 # 085
-hhimchi'anit, 'in kin'uckwachyimt 'uush ??iniitl.
+hhimchi'anit, ?in kin'uckwachyimt ?uush ??iniitl.
