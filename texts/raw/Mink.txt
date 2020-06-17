@@ -229,7 +229,7 @@ ku-'i;chi(tl) hi'i:sh-wa;?i;sh yac-ckwi; chims
 
 # 057
 wim'aaqtl ?u'ukwink'at chims, ?in wii'ak.
-wim'a:qtl DUP-'u-(kw)ink-'at chims ?in wi:?ak
+wim'a:qtl DUP-?u-(kw)ink-'at chims ?in wi:?ak
 
 # 058
 wim'aaqtl ch'ii??aqa.
@@ -237,7 +237,7 @@ wim'a:qtl ch'i;q-'aqa
 
 # 059
 ?u'u'iihhshitl hisit t'apsshi'atlquuch m'aaqsuul.
-DUP-'u-'i:hh-shi(tl) hisit t'aps-shi(tl)-'atl-qu:-ch m'a:-aqsu:l
+DUP-?u-'i:hh-shi(tl) hisit t'aps-shi(tl)-'atl-qu:-ch m'a:-aqsu:l
 
 # 060
 hininwa'ish qwayaac'ikm'it,
@@ -1021,7 +1021,7 @@ Woo, qaxhhshitlwa'een, waa.
 
 # 255
 hiihiitawa'iik ?u'ukwil'at.
-DUP-hitawa-'i:k DUP-'u-kwil-'at
+DUP-hitawa-'i:k DUP-?u-kwil-'at
 
 # 256
 qahhshitlwa'ish hiihiitawa'iik.
@@ -1081,7 +1081,7 @@ wik-i:p-'atl-'at-tla; ch'a:stimc-m'i;t
 
 # 270
 ?ahh'aatlitwa'ish luchnaakshi'atl. wik, ?u'up'iqsh. ?u'up'iqsh muuhhintlas.
-?ahh'a:-'atl-it-wa;?i;sh luch-na;k-shi(tl)-'atl wik DUP-'u-p'iqsh DUP-'u-p'iqsh mu:hhintl-as
+?ahh'a:-'atl-it-wa;?i;sh luch-na;k-shi(tl)-'atl wik DUP-?u-p'iqsh DUP-?u-p'iqsh mu:hhintl-as
 
 # 271
 nay'aqnakshitl muuhhintlas
