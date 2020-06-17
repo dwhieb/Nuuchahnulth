@@ -5,7 +5,7 @@ ID:           GL6
 ---
 # 001
 qii'atl, qiit'an'atl, qwiyuckwi'itq qwis ?ahh.
-qi:-ʽatl qi:-t'an'a-ʽatl qwiyu-ckwi;-?i;tq qwis ?ahh
+qi:-ʼatl qi:-t'an'a-ʼatl qwiyu-ckwi;-?i;tq qwis ?ahh
 
 # 002
 siikc'intl, siikaa hitac'intl maaqtusiis.
@@ -45,23 +45,23 @@ hin-a;chi(tl)-?a;l yaq-it-(y)i:
 
 # 011
 ?in ?utwiickwi'aal hinaachitl, wi'ak?i, wii'aksa'i, hhaa'ak'at?i lim'aqsti.
-?in ?utwi:-ckwi;-?a:l hin-a;chi(tl) wi'ak-?i; wi'ak-sa-?i; hha:?ak-ʽat-?i; lim'aqsti
+?in ?utwi:-ckwi;-?a:l hin-a;chi(tl) wi'ak-?i; wi'ak-sa-?i; hha:?ak-ʼat-?i; lim'aqsti
 
 # 012
 ?in na'aackwatl, ?aya, mamaln'i, hisiickwi'itq'al hiistitl ciqy'ak, chiinuuk?athh.
-?in na'a:-ckwi;-ʽatl ?aya mamaln'i hisi:-ckwi;-?i;tq-?a;l hi:stitl ciq-y'akw ch'i:nu:k-ʽathh
+?in na'a:-ckwi;-ʼatl ?aya mamaln'i hisi:-ckwi;-?i;tq-?a;l hi:stitl ciq-y'akw ch'i:nu:k-ʼathh
 
 # 013
 chiichiinukwackwatl ?uush.
-DUP-chi:nu;k-(y)a-ckwi;-ʽatl ?u:sh
+DUP-chi:nu;k-(y)a-ckwi;-ʼatl ?u:sh
 
 # 014
 hist'athhckwatluk?al ?ahh. [Hudson Bay].
-hist-ʽathh-ckwi;-ʽatl-uk-?a;l ?ahh ~
+hist-ʼathh-ckwi;-ʼatl-uk-?a;l ?ahh ~
 
 # 015
 yaqwiiyii na'aa'atl, Captainmitquu, yaqwac?itq ship?ii.
-yaqw-wi;-(y)i: na'a:-ʽatl Captain-mit-qu: yaqw-ac-?i;tq ship-?i;
+yaqw-wi;-(y)i: na'a:-ʼatl Captain-mit-qu: yaqw-ac-?i;tq ship-?i;
 
 # 016
 t'ayuukwitl.
@@ -69,19 +69,19 @@ t'ayu:-kwi(tl)
 
 # 017
 ?un'aahhnish, haptuup, waa'at.
-?u-n'a;hh-ni;sh hap-tu;p wa;-ʽat
+?u-n'a;hh-ni;sh hap-tu;p wa;-ʼat
 
 # 018
 haptuup. ??ahhmis, ??ahhmis waa'attla hhaal, histaqshitl?i tup'al.
-hap-tu;p ??ahhmis ??ahhmis wa:-ʽat-tla; hha:l his-taq-shi(tl)-?i; tup'al
+hap-tu;p ??ahhmis ??ahhmis wa:-ʼat-tla; hha:l his-taq-shi(tl)-?i; tup'al
 
 # 019
 haptuup waa ?uhh hitaaqtl'as, [fur-bearing animals] waa, waa'atquu.
-hap-tu;p wa; ?uhh hita-ʽa;qtl'as ~ wa; wa:-ʽat-qu:
+hap-tu;p wa; ?uhh hita-ʼa;qtl'as ~ wa; wa:-ʼat-qu:
 
 # 020
 chuu, hinaachitl?al, maak?atu, kw'akw'atl, hiyiqstup waaxnii.
-chu: hin-a;chi(tl)-?a;l mak-ʽatu kw'akw'atl hiyiq-stup wa:xni:
+chu: hin-a;chi(tl)-?a;l mak-ʼatu kw'akw'atl hiyiq-stup wa:xni:
 
 # 021
 ?uushckwii ?unaak tl'ithhaq. yaaqwilqin tl'ithhaq, chimsa'aq waa.
@@ -89,7 +89,7 @@ chu: hin-a;chi(tl)-?a;l mak-ʽatu kw'akw'atl hiyiq-stup wa:xni:
 
 # 022
 qwiq'iitq, qwiqwinak?itq quu'as, mak'atu.
-qwiq-?i;tq DUP-qwi-na;k-?i;tq qu:?as mak-ʽatu
+qwiq-?i;tq DUP-qwi-na;k-?i;tq qu:?as mak-ʼatu
 
 # 023
 chaanimtwa'ish ?aaphhii. mamaln'imtquu ?aaphhii.
@@ -97,7 +97,7 @@ cha:ni-imt-wa;?i;sh ?ap-hhi; mamaln'i-imt-qu: ?ap-hhi;
 
 # 024
 naqsaap'atl'atquuch?al, ch'a'ak.
-naq-sa;p-ʽatl-ʽat-qu:-ch-?a;l ch'a'ak
+naq-sa;p-ʼatl-ʼat-qu:-ch-?a;l ch'a'ak
 
 # 025
 kwiis\hhiip'al ch'a'ak.
@@ -105,7 +105,7 @@ kwis-hhi;-p'al ch'a'ak
 
 # 026
 waa, ?uushyuuyatl ?ahh'aa, tea, ?u'iic'ap'at, naqshitl.
-wa: ?u:sh-yu:ya-ʽatl ?ahh'a: ~ ?u-ʽi;ch-ʽap-ʽat naq-shi(tl)
+wa: ?u:sh-yu:ya-ʼatl ?ahh'a: ~ ?u-ʼi;ch-ʼap-ʼat naq-shi(tl)
 
 # 027
 ?ayimsckwak, mamaln'i piskit, xhaxhashk'uk waanaa, xhaxhashk'uk.
@@ -113,7 +113,7 @@ wa: ?u:sh-yu:ya-ʽatl ?ahh'a: ~ ?u-ʽi;ch-ʽap-ʽat naq-shi(tl)
 
 # 028
 qwaa'ap hiinachiil, hha'uyat, yaaqwilitii'al quu'as …
-qwa:-ʽap hin-achi:l hha'u-ayi;-ʽat yaqw-il-it-(y)i:-?a;l qu:?as ~
+qwa:-ʼap hin-achi:l hha'u-ayi;-ʼat yaqw-il-it-(y)i:-?a;l qu:?as ~
 
 # 029
 twiidin waa. twiidin. twiidin waa'aal,
@@ -121,7 +121,7 @@ twiidin waa. twiidin. twiidin waa'aal,
 
 # 030
 ?uushckwii'atl nana'a, [trading post], waaqhh. twiidin. twiidin.
-?u:sh-ckwi;-ʽatl DUP-na'a; ~ wa;-(q)hh ~ ~
+?u:sh-ckwi;-ʼatl DUP-na'a; ~ wa;-(q)hh ~ ~
 
 # 031
 chuu hinaachitl, hicnup, tl'aa'aa histaqshitl.
@@ -141,11 +141,11 @@ wik-sa-?i;sh ?i:qhh-uk yaq-ukw-it-(y)i:s nani:qsu
 
 # 035
 nay'iik'atwa'ish kwiishhii'at.
-nay'i:k-ʽat-wa;?i;sh kwis-hhi;-ʽat
+nay'i:k-ʼat-wa;?i;sh kwis-hhi;-ʼat
 
 # 036
 hinaasiphh'at'al, kwisca'ap?atl'at luucma'i, kwisca'ap'at chakup?i.
-hin-a;s-ip-(q)hh-ʽat-?a;l kwis-ca-ʽap-ʽatl-ʽat lu:cma-?i; kwis-ca-ʽap-ʽat chakup-?i;
+hin-a;s-ip-(q)hh-ʼat-?a;l kwis-ca-ʼap-ʼatl-ʼat lu:cma-?i; kwis-ca-ʼap-ʼat chakup-?i;
 
 # 037
 ch'ushaa quu'as?i. ch'ushaa.
@@ -153,7 +153,7 @@ ch'ush-(y)a; qu:?as-?i; ch'ush-(y)a;
 
 # 038
 ?anasilat hinii'at qwiyii'anitii k'ac\hhaq. qum'aamitii k'ac\hhaq.
-?ana-sila-ʽat hin-(y)i;-ʽat qwi-(y)i;-ʽat-it-(y)i: k'ac\hhaq qum'a:-mit-(y)i: k'ac\hhaq
+?ana-sila-ʼat hin-(y)i;-ʼat qwi-(y)i;-ʼat-it-(y)i: k'ac\hhaq qum'a:-mit-(y)i: k'ac\hhaq
 
 # 039
 wik ?iiqhhuk. ?aniwa waa.
@@ -169,7 +169,7 @@ qwa;-mit-(y)i: tlishtliq-y'ak hu:?ak
 
 # 042
 ?iinaxyatlquuch ?uushyuuya, ?iihh hhaw'il, yaqwac?itq ship?ii.
-?i:nax-yu;-ʽatl-qu:-ch ?u:sh-yu:ya ?i:hh hhaw'il yaqw-ac-?i;tq ship-?i;
+?i:nax-yu;-ʼatl-qu:-ch ?u:sh-yu:ya ?i:hh hhaw'il yaqw-ac-?i;tq ship-?i;
 
 # 043
 ??ihhak luucma'i hinii'as. ??ihhak.
@@ -221,15 +221,15 @@ wich-sila-ckwi;-?a:sh wich-sila
 
 # 055
 nii'atapnaash, nii'atapnaash waa'atl. hitac'intl, maaqtusiis.
-ni-ʽatu-ʽap-ni;sh ni-?atu-ʽap-ni;sh wa;-ʽatl hita-c'in(tl) ma:qtusi:s
+ni-ʼatu-ʼap-ni;sh ni-?atu-ʼap-ni;sh wa;-ʼatl hita-c'in(tl) ma:qtusi:s
 
 # 056
 nii'atu'aash, nii'atu,
-ni-ʽatu-?a:sh ni-ʽatu
+ni-ʼatu-?a:sh ni-ʼatu
 
 # 057
 p'at??ahhs, qwiqitii m'uch'ichtup.
-p'atqw-ʽahhs qwiq-it-(y)i: m'uch'ich-tu;p
+p'atqw-ʼahhs qwiq-it-(y)i: m'uch'ich-tu;p
 
 # 058
 caqshitl, kuunaa'i.
@@ -245,7 +245,7 @@ wi:hha:qsusi:s ?u-kla;
 
 # 061
 chuu, tl'aa'inu'at'al, tl'aa'intl, n'u??asaqhh, ??aahhuus, hitaaqtlis.
-chu: tl'a:-?inu-ʽatl-?a;l tl'a:-?in(tl) n'u??asaqhh ??a:hhu:s hita:qtlis
+chu: tl'a:-?inu-ʼatl-?a;l tl'a:-?in(tl) n'u??asaqhh ??a:hhu:s hita:qtlis
 
 # 062
 ch'itaapi ?uhh walyuu.
@@ -253,19 +253,19 @@ ch'ita:pi ?uhh wal-yu;
 
 # 063
 ch'itaapi ?ahh ?aq'ishtiik, hiluk?al mama'uu, waa qilcma??athh.
-ch'ita:pi ?ahh ~ hil-uk-?a;l DUP-ma-ʽu: wa; qilcma??athh
+ch'ita:pi ?ahh ~ hil-uk-?a;l DUP-ma-ʼu: wa; qilcma??athh
 
 # 064
 waa tl'aa'aathh qilcma??athh.
-wa: tl'a:?a:-ʽathh qilcma??athh
+wa: tl'a:?a:-ʼathh qilcma??athh
 
 # 065
 wik, wik, wik niiy'aaqsta qilcma??athh qwis'iitq ??aahhuus'athh.
-wik wik wik hil-ʽa;qsta qilcma??athh qwis-?i;tq ??a:hhu:s'athh
+wik wik wik hil-ʼa;qsta qilcma??athh qwis-?i;tq ??a:hhu:s'athh
 
 # 066
 tachkwa'ap. tachkwa'ap kuunaaqchis'i.
-tachkwa-ʽap tachkwa-ʽap ku:na:-qchis-?i;
+tachkwa-ʼap tachkwa-ʼap ku:na:-qchis-?i;
 
 # 067
 wik ?unic, ?unicitii, hitasatl, ch'apac, ??aahhuus.
@@ -273,7 +273,7 @@ wik ?unic ?unic-it-(y)i: hita-`sa(tl) ch'apac ??a:hhu:s
 
 # 068
 xhunuschi'athh. niiyya histaqshitl, hinata'as. hinata'as.
-xhunuschi'athh ni:ya: his-aq-shi(tl) hinata-ʽas hinata-ʽas
+xhunuschi'athh ni:ya: his-aq-shi(tl) hinata-ʼas hinata-ʼas
 
 # 069
 chuu, chuu, tliihhshitl, siikshitl.
@@ -281,11 +281,11 @@ chu: chu: tlihh-L-shi(tl) si:k-shi(tl)
 
 # 070
 siikaa. siikaackwi'al, hachlii(tl) ?uuktis, hachy'aa'a.
-si:k-(y)a; si:k-(y)a;-ckwi;-?a;l hachli:(tl) ?u-(k)tis hachl-ʽa:?a
+si:k-(y)a; si:k-(y)a;-ckwi;-?a;l hachli:(tl) ?u-(k)tis hachl-ʼa:?a
 
 # 071
 ?aniyat chachimhhat k'uuchuk?ic'at hachlii'atlquu qwaa. huu'aciiy'uk?atlquu tuch'ii.
-?ana-iya-ʽat chachim-hhi;-ʽat k'u:-chuk-?ic-ʽat hachli:(tl)-ʽatl-qu: qwa: hu'a-ca-i:y'uk-ʽatl-qu: tuch'i:
+?ana-iya-ʼat chachim-hhi;-ʼat k'u:-chuk-?ic-ʼat hachli:(tl)-ʼatl-qu: qwa: hu'a-ca-i:y'uk-ʼatl-qu: tuch'i:
 
 # 072
 ?unicitii. tl'iipitl, ??aahhuus'athh. tliipitl.
@@ -305,19 +305,19 @@ n'a:csi:-chi(tl) qu:?as-?i;
 
 # 076
 paway'in kuunaa. paway'in.
-pawal-ʽin ku:na: pawal-ʽin
+pawal-ʼin ku:na: pawal-ʼin
 
 # 077
 n'aacsiichitl, hhamipshitl qwikwi'ch?itq, kinchooch?athhiicckwi.
-n'a:csi:-chi(tl) hhamip-shi(tl) qwi-kw'ich-?i;tq kincho:ch-ʽathh-i:c-ckwi;
+n'a:csi:-chi(tl) hhamip-shi(tl) qwi-kw'ich-?i;tq kincho:ch-ʼathh-i:c-ckwi;
 
 # 078
 kinchooch?athh, yaqitii hhaw'il yaqukwitii'al hhaw'il England ?ahh'aa ?uyi.
-kincho:ch-ʽathh yaq-it-(y)i: hhaw'il yaq-uk-it-(y)i:-?a;l hhaw'il ~ ?ahh'a: ?uyi
+kincho:ch-ʼathh yaq-it-(y)i: hhaw'il yaq-uk-it-(y)i:-?a;l hhaw'il ~ ?ahh'a: ?uyi
 
 # 079
 kwisuuq'athh, waa'at. kwisuuq'athh, Europeans.
-kwis-u:q-ʽathh wa;-ʽat kwis-u:q-ʽathh ~
+kwis-u:q-ʼathh wa;-ʼat kwis-u:q-ʼathh ~
 
 # 080
 waamit?ish ?ahh'aa naniiqsakitqs, kwaatya Annie ?uklaa.
@@ -329,7 +329,7 @@ wa:-mit-?i;sh ?ahh'a: nani:qsu-?a;k-it-qs kwa:tya ~ ?u-kla;
 
 # 082
 qwa'il'atlquu ?ahh'aa ?iic?iiqhhatlquu yaqukwitii naniiqsu, kwaatya. ?iic?iiqhhatlquu.
-qwa-`il-ʽatl-qu: ?ahh'a: ?i:c?i:qhh-ʽatl-qu: yaq-uk-it-(y)i: nani:qsu ~ ?i:c?i:qhh-ʽatl-qu:
+qwa-`il-ʼatl-qu: ?ahh'a: ?i:c?i:qhh-ʼatl-qu: yaq-uk-it-(y)i: nani:qsu ~ ?i:c?i:qhh-ʼatl-qu:
 
 # 083
 wik tl'iixsnacul. ?uushmaqul.
@@ -341,7 +341,7 @@ wik tl'i:xw-snac-u;l ?u:shmaq-u;l
 
 # 085
 ?am'iichi'atl tl'iipi'atltla.
-?am'i:-chi(tl)-ʽatl tl'i:-pi(tl)-ʽatl-tla;
+?am'i:-chi(tl)-ʼatl tl'i:-pi(tl)-ʼatl-tla;
 
 # 086
 ?uushhhy'ims'i, tlihhshitlcuu, tlihhshitlcuu.
@@ -349,11 +349,11 @@ wik tl'i:xw-snac-u;l ?u:shmaq-u;l
 
 # 087
 hhamipshitl?ish, yaqw?ich?itq quu'as'i, waa'atl ka'upshi'at. ka'upshitl.
-hhampi-shi(tl)-?i;sh yaqw-?ich-?i;tq qu:?as-?i; wa;-ʽatl ka'up-shi(tl)-ʽat ka'up-shi(tl)
+hhampi-shi(tl)-?i;sh yaqw-?ich-?i;tq qu:?as-?i; wa;-ʼatl ka'up-shi(tl)-ʼat ka'up-shi(tl)
 
 # 088
 ?uyi'ichim tliihhshitl tuupshi'atlquu.
-?uyi-ʽi;chim tlih-L-shi(tl) tu:pshi(tl)-ʽatl-qu:
+?uyi-ʼi;chim tlih-L-shi(tl) tu:pshi(tl)-ʼatl-qu:
 
 # 089
 waa tlihhshitl.
@@ -361,7 +361,7 @@ wa; tlihh-shi(tl)
 
 # 090
 tumaqstu'atl.
-tum-aqstu(tl)-ʽatl
+tum-aqstu(tl)-ʼatl
 
 # 091
 tlatw'aa.
@@ -381,7 +381,7 @@ si:k-(y)a;
 
 # 095
 ?u'umhhichitl, hitaquu'a ??aahhuus, c'iiqaa. c'iiqaa.
-?u'umhhi-chi(tl) hita-qu:-ʽa; ??a:hhu:s c'i:q-(y)a; c'i:q-(y)a;
+?u'umhhi-chi(tl) hita-qu:-ʼa; ??a:hhu:s c'i:q-(y)a; c'i:q-(y)a;
 
 # 096
 yaaqwin'akitii'aal kwaatkwaatya, ["waxwaa, waa waawuu, wuu"]
@@ -397,15 +397,15 @@ y'imqimy'u:tl-ni;sh wa; p'ishaq-?i;sh ?i:qhh-y'ak
 
 # 099
 shitlstiis'ichim waa'atl.
-shitl-sti;s-ʽi;chim wa;-ʽatl
+shitl-sti;s-ʼi;chim wa;-ʼatl
 
 # 100
 shitlstiis'atl. shitlstiis'atl.
-shitl-sti;s-ʽatl shitl-sti;s-ʽatl
+shitl-sti;s-ʼatl shitl-sti;s-ʼatl
 
 # 101
 hach'a hha'iichhhshi'atlit, ?in ??aakwaasht ?ukwiilckwat tl'uukwil ?aya.
-hach'a hha'i:chhh-shi(tl)-ʽatl-it ?in ??a:kw-a;sht ?u-kwi:l-ckwi;-ʽat tl'u:-kwil ?aya
+hach'a hha'i:chhh-shi(tl)-ʼatl-it ?in ??a:kw-a;sht ?u-kwi:l-ckwi;-ʼat tl'u:-kwil ?aya
 
 # 102
 ?ucachitl, c'ikt'aqis, muchachilhh, wap'uuqhh, ??aahhuus'athh.
@@ -413,7 +413,7 @@ hach'a hha'i:chhh-shi(tl)-ʽatl-it ?in ??a:kw-a;sht ?u-kwi:l-ckwi;-ʽat tl'u:-kw
 
 # 103
 wa'uus. wa'uus hiilsasak?al mama'uu, ??aahhuus'athh wa'uuc.
-wa'u:s wa'u:s hil-sasa-?a;k-?a;l DUP-ma-ʽu; ??a:hhu:s'athh wa'u-i:c
+wa'u:s wa'u:s hil-sasa-?a;k-?a;l DUP-ma-ʼu; ??a:hhu:s'athh wa'u-i:c
 
 # 104
 hi'iis ?ahh'aa, kapchaa. kapchaamitquu. kapchaa. kapchuk.
@@ -441,7 +441,7 @@ hita-sa(tl)-na;k-?a;l
 
 # 110
 hashiichi'atl, hupic'athh,
-hashi:-chi(tl)-ʽatl hupic'athh
+hashi:-chi(tl)-ʼatl hupic'athh
 
 # 111
 nachiqs, minwaa'ath, t'ayuuchisht. minwaa'ath.
@@ -453,7 +453,7 @@ wi:na ??a:hhu:s'athh ?u:-ci;y'uk wik-san'ap-w'it'as
 
 # 113
 ?uuqstii'at quu'as, ?atla.
-?u-aqsti;-ʽat qu:?as ?atla
+?u-aqsti;-ʼat qu:?as ?atla
 
 # 114
 ?ucachitl wa'uus
@@ -469,15 +469,15 @@ n'a:csa hita-c'u;-sa(tl)-?i;tq katlhhak
 
 # 117
 nay'iik'atwa'ish tl'iictl'iiyat. mwmwmwmw. bamm.
-nay'i:k-ʽat-wa;?i;sh DUP:.c-tl'i-(y)a-ʽat ~ ~
+nay'i:k-ʼat-wa;?i;sh DUP:.c-tl'i-(y)a-ʼat ~ ~
 
 # 118
 shaxshitlatlquu. waa shaxkwachitl.
-xhax-shi(tl)-ʽatl-qu: wa; shaxw-kwa-chi(tl)
+xhax-shi(tl)-ʼatl-qu: wa; shaxw-kwa-chi(tl)
 
 # 119
 puuqtl'itl, kamat??aqtl'itl. kamat??aqtl'itl.
-pu-ʽa;qtl'i(tl) kamatq-ʽa;qtl'i(tl) kamatq-ʽa;qtl'i(tl)
+pu-ʼa;qtl'i(tl) kamatq-ʼa;qtl'i(tl) kamatq-ʼa;qtl'i(tl)
 
 # 120
 hil qaahhma.
@@ -485,19 +485,19 @@ hil qa:hhma
 
 # 121
 hhaaw'ilatl'atl qaahhma.
-hha:w'ilatl-ʽatl qa:hhma
+hha:w'ilatl-ʼatl qa:hhma
 
 # 122
 fifteen, sixteen, seventeen, eighteen years'atlquu, twenty.
-~ ~ ~ ~ years-ʽatl-qu: ~
+~ ~ ~ ~ years-ʼatl-qu: ~
 
 # 123
 hhaaw'ilatl'atl qaahhma.
-hha:w'ilatl-ʽatl qa:hhma
+hha:w'ilatl-ʼatl qa:hhma
 
 # 124
 wikstup'ap.
-wik-stup-ʽap
+wik-stup-ʼap
 
 # 125
 tliihhshitl minwaa'ath. c'a'ak ?ucachitl.
@@ -505,7 +505,7 @@ tlih-shi(tl) minwa:?ath c'a'ak ?u-ca-chi(tl)
 
 # 126
 cha'is'ish, ?achaq'ishtiik, [Trout River] waa'at?ish'aal. cha'is.
-ch-?is-?i;sh ?achaq-?isht-(y)i:k ~ wa;-ʽat-?i;sh-?a:l cha-?is
+ch-?is-?i;sh ?achaq-?isht-(y)i:k ~ wa;-ʼat-?i;sh-?a:l cha-?is
 
 # 127
 kamatqwaqtu.
@@ -513,7 +513,7 @@ kamatqw-a;qtu;
 
 # 128
 kaamat??iihhshi'at.
-kamatqw-ʽi:hh-shi(tl)-ʽat
+kamatqw-ʼi:hh-shi(tl)-ʼat
 
 # 129
 qaahhma ?uklaamit, yaqitii t'an'ackwi, qaahhma. saa??a'aal.
@@ -521,15 +521,15 @@ qa:hhma ?u-kla;-mit yaq-it-(y)i: t'an'a-ckwi; qa:hhma sa:??a'a:l
 
 # 130
 t'aaps'atu qaahhma, ch'uq!
-t'aps-ʽatu qa:hhma ~
+t'aps-ʼatu qa:hhma ~
 
 # 131
 tl'ichi'at, bang, bang.
-tl'i-chi(tl)-ʽat ~ ~
+tl'i-chi(tl)-ʼat ~ ~
 
 # 132
 qacc'iiqp'it ?uhh'ish ?atla, qum'aakwi'at ?ahh'aa, bullet yaaqhhw'al'itq, tl'ichi'at.
-qacc'a-i;q-p'it ?uhh'ish ?atla qum'a:-kwi-ʽat ?ahh'a: ~ yaqw-hhw'al-?i;tq tl'i-chi(tl)-ʽat
+qacc'a-i;q-p'it ?uhh'ish ?atla qum'a:-kwi-ʼat ?ahh'a: ~ yaqw-hhw'al-?i;tq tl'i-chi(tl)-ʼat
 
 # 133
 ?ana puxw'isa'i k'ac\hhaq.
@@ -537,7 +537,7 @@ qacc'a-i;q-p'it ?uhh'ish ?atla qum'a:-kwi-ʽat ?ahh'a: ~ yaqw-hhw'al-?i;tq tl'i-
 
 # 134
 puxwachisht tl'ichi'attla mamaln'i.
-puxw-achisht tl'i-chi(tl)-ʽat-tla; mamaln'i
+puxw-achisht tl'i-chi(tl)-ʼat-tla; mamaln'i
 
 # 135
 t'apschitl, ch'uq! ch'uq!
@@ -549,11 +549,11 @@ t'aps-chi(tl) ~ ~
 
 # 137
 sayaa'ish yaqii ?apquu'a.
-saya;-?i;sh yaq-(y)i: ?ap-qu:-ʽa;
+saya;-?i;sh yaq-(y)i: ?ap-qu:-ʼa;
 
 # 138
 sayaa hhaal nism'a. c'aa'u??aqtlis.
-saya; hha:l nism'a c'a-?uq-ʽaqtl-?is
+saya; hha:l nism'a c'a-?uq-ʼaqtl-?is
 
 # 139
 huhhtak qaahhma ?in, qwaaqwaacy'ak?itq c'a'ak.
@@ -565,15 +565,15 @@ m'uksy'i ?uqtl-n'ukw-itl
 
 # 141
 tl'ay'ix'at?ish m'uksy'i ?uqtln'ukw'at. yaackyaacka.
-tl'ay'ix-ʽat-?i;sh m'uksy'i ?uqtl-n'uk-ʽat DUP#:-yack-(y)a
+tl'ay'ix-ʼat-?i;sh m'uksy'i ?uqtl-n'uk-ʼat DUP#:-yack-(y)a
 
 # 143
 hitaqtlsatl.
-hita-ʽaqtl-sa(tl)
+hita-ʼaqtl-sa(tl)
 
 # 144
 hiy'aa'a cha'is'i.
-hil-ʽa;?a cha-?is-?i;
+hil-ʼa;?a cha-?is-?i;
 
 # 145
 pihhshitlits.
@@ -581,7 +581,7 @@ pihh-shi(tl)-it-s
 
 # 146
 [Over quarter mile] matak?ish kachi'atquu. ?una'iickwiyii, [twelve hundred feet] kachi'atquu.
-~ matak-?i;sh ka-chi(tl)-ʽat-qu: ?una-?i:-ckwi;-(y)i: ~ ka-chi(tl)-ʽat-qu:
+~ matak-?i;sh ka-chi(tl)-ʼat-qu: ?una-?i:-ckwi;-(y)i: ~ ka-chi(tl)-ʼat-qu:
 
 # 147
 y'aaqn'aqckwi'ish'al.
@@ -597,11 +597,11 @@ wik hish-uk wik hish-uk y'a:qn'aq
 
 # 150
 kamat??aqtl'itl, qaahhma.
-kamatqw-ʽa;qtl'i(tl) qa:hhma
+kamatqw-ʼa;qtl'i(tl) qa:hhma
 
 # 151
 li'aa'ap'at tl'ichi'at.
-li'a:-ʽap-ʽat tl'i-chi(tl)-ʽat
+li'a:-ʼap-ʼat tl'i-chi(tl)-ʼat
 
 # 152
 wik ?uusuqta. tiich.
@@ -613,7 +613,7 @@ ti:ch ti:ch
 
 # 154
 kamatqshitl, ?ucachitl hhuul, hilhhuu'as'i.
-kamatqw-shi(tl) ?u-ca-chi(tl) hhu:l hil-hhu;-ʽas-?i;
+kamatqw-shi(tl) ?u-ca-chi(tl) hhu:l hil-hhu;-ʼas-?i;
 
 # 155
 sayaa k'uu'ii ?unaamitii.
@@ -621,7 +621,7 @@ saya; k'u:-?i: ?una:-mit-(y)i:
 
 # 156
 chuu, kwisutaqtintl?aqnish waa'atl tla'uukwi'athh'i.
-chu: kwis-ut-a;qtu;-in(tl)-?aq-ni;sh wa;-ʽatl tla'u:kwi'athh-?i;
+chu: kwis-ut-a;qtu;-in(tl)-?aq-ni;sh wa;-ʼatl tla'u:kwi'athh-?i;
 
 # 157
 ?unachaqtu'is'ish pin?iitl, [Whitepine Cove]. ?unachaqtu'is.
@@ -629,7 +629,7 @@ chu: kwis-ut-a;qtu;-in(tl)-?aq-ni;sh wa;-ʽatl tla'u:kwi'athh-?i;
 
 # 158
 yacaaqtu, ?u??i'atwa'ish, yaqitii quu'as, yuxsitk ?uucitwa'ish, nana'iqsu.
-yac-a;qtu; ?u-??i(tl)-ʽat-wa;?i;sh yaq-it-(y)i: qu:?as yuxsitk ?u-i:c-it-wa;?i;sh DUP-na'i;qsu
+yac-a;qtu; ?u-??i(tl)-ʼat-wa;?i;sh yaq-it-(y)i: qu:?as yuxsitk ?u-i:c-it-wa;?i;sh DUP-na'i;qsu
 
 # 159
 ?a'iich'imckwak yuxsitk, ?uc\hhimt?ish yuxsitk yaqukwitiis naniiqsu, kwaatya.
@@ -637,11 +637,11 @@ DUP-?i:ch'im-ckwi;-?a;k yuxsitk ?u-c\hhi-imt-?i;sh yuxsitk yaqw-ukw-it-(y)i:s na
 
 # 160
 hha'uk??i'at, machintl tla'uukwi'athh'i.
-hha'uk-??i(tl)-ʽat mach-intl tla'u:kwi'athh-?i;
+hha'uk-??i(tl)-ʼat mach-intl tla'u:kwi'athh-?i;
 
 # 161
 k'ahhkwa'ap'atuk tl'ahhiqs qwinaakitii'al, qwic'uu'akitii'al huupaqwanim.
-k'ahh-kwa-ʽap-ʽat-uk tl'ahh-iqs qwi-na;k-it-(y)i:-?a;l qwi-c'u;-?a;k-it-(y)i:-?a;l hupaqw-anim
+k'ahh-kwa-ʼap-ʼat-uk tl'ahh-iqs qwi-na;k-it-(y)i:-?a;l qwi-c'u;-?a;k-it-(y)i:-?a;l hupaqw-anim
 
 # 162
 wukwitl tla'uukwi'athh'i, ??akwaasht ?aaniitl.
@@ -649,23 +649,23 @@ sukwi(tl) tla'u:kwi'athh-?i; ??a:kw-a;sht ?ana-i;tl
 
 # 163
 waasihh waa'at ka'upshi'at, waasihh kapchaa.
-wa:si-hh wa;-ʽat ka'up-shi(tl)-ʽat wa:si-hh kapcha:
+wa:si-hh wa;-ʼat ka'up-shi(tl)-ʼat wa:si-hh kapcha:
 
 # 164
 waa hayimhhinish hilii waa'atl.
-wa; hayim-hhi;-ni;sh hil-(y)i: wa;-ʽatl
+wa; hayim-hhi;-ni;sh hil-(y)i: wa;-ʼatl
 
 # 165
 hu'aaqtu'al, minwaa'ath'i. hu'aaqtu, luuch'inu'atl?itq.
-hu'a-a;qtu;-?a;l minwa:?ath-?i; hu'a-a;qtu; lu:ch'-inu-ʽatl-?i;tq
+hu'a-a;qtu;-?a;l minwa:?ath-?i; hu'a-a;qtu; lu:ch'-inu-ʼatl-?i;tq
 
 # 166
 xhickwa'ap'atuk mahht'ii'akit?i. xhickwachitl. wik'iitshitl.
-shic-kwa-ʽap-ʽat-uk mahht'i:-?a;k-it-?i; xhic-kwa-chi(tl) wik'i:t-shi(tl)
+shic-kwa-ʼap-ʼat-uk mahht'i:-?a;k-it-?i; xhic-kwa-chi(tl) wik'i:t-shi(tl)
 
 # 167
 k'ahhshitl. k'ahhkwachitl ch'apac qum'aamitii. k'ahhkwa'ap'atuk,
-k'ahh-shi(tl) k'ahh-kwa-chi(tl) ch'apac qum'a:-mit-(y)i: k'ahh-kwa-ʽap-ʽat-uk
+k'ahh-shi(tl) k'ahh-kwa-chi(tl) ch'apac qum'a:-mit-(y)i: k'ahh-kwa-ʼap-ʼat-uk
 
 # 168
 ?u'umhhichitlwa'ish quu'as'i. takstiisckwi.
@@ -677,7 +677,7 @@ n'up-c'iq-ma:l ch'apac
 
 # 171
 yakquu'a n'aacsa qwaa'ap?itq. n'aacsa.
-yak-qu:-ʽa; n'a:csa qwa:-ʽap-?i;tq n'a:csa
+yak-qu:-ʼa; n'a:csa qwa:-ʼap-?i;tq n'a:csa
 
 # 172
 hitasatl.
@@ -693,11 +693,11 @@ hapt-kwa-chi(tl)-?a;l hapt-shi(tl)-?a;l
 
 # 175
 c'aa'u??aqtlis'ish ?ahh.
-c'a-?uq-ʽaqtl-?is-?i;sh ?ahh
+c'a-?uq-ʼaqtl-?is-?i;sh ?ahh
 
 # 176
 kw'achshi'atltla muulshitl, muuluk.
-kw'ach-shi(tl)-ʽatl-tla; mu:l-shi(tl) mu:l-uk
+kw'ach-shi(tl)-ʼatl-tla; mu:l-shi(tl) mu:l-uk
 
 # 177
 haptshitl hhuul hiinaan'ul.
@@ -709,11 +709,11 @@ c'a'ak-?is-?i;sh ?ahh'a: hapt-shi(tl)
 
 # 179
 walaakckwat?ish ch'itaapi.
-wala:k-ckwi;-ʽat-?i;sh ch'ita:pi
+wala:k-ckwi;-ʼat-?i;sh ch'ita:pi
 
 # 180
 hity'athh, ?aya'athh, ch'itaapi.
-hil-ʽathh ?aya-ʽathh ch'ita:pi
+hil-ʼathh ?aya-ʼathh ch'ita:pi
 
 # 181
 tl'iictl'iiya hitasatl.
@@ -725,7 +725,7 @@ k'ahh-kwa-chi(tl) ch'apac
 
 # 183
 tla'asitwa'ish hiy'iis ?ahh'aa. yaaqwil'anitii'aal waa'at, tlaakishpi'il. tlaakishipi'il. [totem pole.]
-tla-ʽas-it-wa;?i;sh hil-`i;s ?ahh'a: yaqw-il-ʽat-it-(y)i:-?a:l wa;-ʽat tlakish-pi-`il tlakish-pi-`il ~
+tla-ʼas-it-wa;?i;sh hil-`i;s ?ahh'a: yaqw-il-ʼat-it-(y)i:-?a:l wa;-ʼat tlakish-pi-`il tlakish-pi-`il ~
 
 # 185
 c'awaak nay'aqak ?uuhhuulitwa'ish.
@@ -733,11 +733,11 @@ c'awa:k nay'aq-ak ?u-L-hhu;l-it-wa;?i;sh
 
 # 186
 qwisitii ?inkw'iy'ap.
-qwis-it-(y)i: ?inkw-ʽiy'ap
+qwis-it-(y)i: ?inkw-ʼiy'ap
 
 # 187
 ?inkw'ichitl.
-?inkw-ʽichitl
+?inkw-ʼichitl
 
 # 188
 wiikmal mahht'ii. wiikmal.
@@ -745,7 +745,7 @@ wik-mal mahht'i: wik-mal
 
 # 189
 kamat??aqtl'asit?al, ?ucachi'atl maaqtusiis, ??aahhuus'athh yaaqwil'itq waa'at, qucachitl.
-kamatqw-ʽa;qtl'as-it-?a;l ?u-ca-chi(tl)-ʽatl ma:qtusi:s ??a:hhu:s'athh yaqw-(ch)il-?i;tq wa;-ʽat ?u-ca-chi(tl)
+kamatqw-ʼa;qtl'as-it-?a;l ?u-ca-chi(tl)-ʼatl ma:qtusi:s ??a:hhu:s'athh yaqw-(ch)il-?i;tq wa;-ʼat ?u-ca-chi(tl)
 
 # 190
 tl'iictl'iiya, baan baan.
@@ -753,7 +753,7 @@ DUP#:.c-tl'i-(y)a ~ ~
 
 # 191
 wik?aqs. qi'iicuu hitaaqtl'itlcuu waa'atl, quuquu'as'i.
-wik-?aq-s qi-?i:-cu: hita-ʽa;qtl'itl-cu: wa;-ʽatl DUP-qu:?as-?i;
+wik-?aq-s qi-?i:-cu: hita-ʼa;qtl'itl-cu: wa;-ʼatl DUP-qu:?as-?i;
 
 # 192
 ?anackwiwa'ish ?iich'i'is'i hiln'iiqis ?iich'im?is.
@@ -761,7 +761,7 @@ wik-?aq-s qi-?i:-cu: hita-ʽa;qtl'itl-cu: wa;-ʽatl DUP-qu:?as-?i;
 
 # 193
 na'aa. n'an'achmap qwaa'ap'at?itq.
-na'a: DUP-n'ach-ma;p qwa:-ʽap-ʽat-?i;tq
+na'a: DUP-n'ach-ma;p qwa:-ʼap-ʼat-?i;tq
 
 # 194
 wiikmal mahht'ii. wik'iit mahht'ii. hishuk ch'apac, kitlkwachitl, k'ahhyaqis.
@@ -769,15 +769,15 @@ wik-mal mahht'i: wik'i:t mahht'i: hish-uk ch'apac kitl-kwa-chi(tl) k'ahh-yaq-?is
 
 # 195
 waa ?uuy'ip'at, miimixt. ma'itlkac?is miimixt.
-wa; ?u-i:y'ip-ʽat mi:mixt ma'atlkac-?is mi:mixt
+wa; ?u-i:y'ip-ʼat mi:mixt ma'atlkac-?is mi:mixt
 
 # 196
 waa tla'uu, chuuwin waa'at. chuuwin, qu'aciicuk y'uuqwaa ??imtii chuuwin.
-wa; tla'u: chu:win wa;-ʽat chu:win qu'ac-i:c-uk y'u:qwa: ??imti; chu:win
+wa; tla'u: chu:win wa;-ʼat chu:win qu'ac-i:c-uk y'u:qwa: ??imti; chu:win
 
 # 197
 ?aatlii'at, wukwi'at.
-?atla-?i;(tl)-ʽat sukwi(tl)-ʽat
+?atla-?i;(tl)-ʼat sukwi(tl)-ʼat
 
 # 198
 ?uuc kapchaa t'an'a.
@@ -789,7 +789,7 @@ hu'a-ca-chi(tl)
 
 # 200
 tla'uukwi'athh ?uus'atltla.
-tla'u:kwi'athh ?u-a;s-ʽatl-tla;
+tla'u:kwi'athh ?u-a;s-ʼatl-tla;
 
 # 201
 hhampi yaq'iitq, ??aahhuus'athh. hhamip.
@@ -805,11 +805,11 @@ Tofino ?u'iiyachisht
 
 # 204
 hinaachi'atl tla'uukwi'athh. hinaachitl, minwaa'ath'i.
-hin-a;chi(tl)-ʽatl tla'u:kwi'athh hin-a;chi(tl) minwa:?ath-?i;
+hin-a;chi(tl)-ʼatl tla'u:kwi'athh hin-a;chi(tl) minwa:?ath-?i;
 
 # 205
 hhamipshi'at, miimixt.
-hhamip-shi(tl)-ʽat mi:mixt
+hhamip-shi(tl)-ʼat mi:mixt
 
 # 206
 yaqitii, miimixt ?uklaa, n'aacsas.
@@ -821,7 +821,7 @@ ki:tla ?u-kla; kilamaxin
 
 # 208
 sukwitl, hhaw'iluk tla'uukwi'athh,. yaqckwii'atlii [Chief Joseph] waa'anit?ish'aal, m'ukwina. sukwitl, miimixt.
-sikwi(tl) hhaw'il-uk tla'u:kwi'athh yaq-ckwi;-ʽatl-(y)i: ~ wa;-ʽat-it-?i;sh-?a:l m'ukwina sukwi(tl) mi:mixt
+sikwi(tl) hhaw'il-uk tla'u:kwi'athh yaq-ckwi;-ʼatl-(y)i: ~ wa;-ʼat-it-?i;sh-?a:l m'ukwina sukwi(tl) mi:mixt
 
 # 209
 tuuhhshitl, chuuwin. tuuhhshitl.
@@ -829,43 +829,43 @@ tu:hh-shi(tl) chu:win tu:hh-shi(tl)
 
 # 210
 ?uu'ithlckwat?ishtla mixtuk?is, mixtuk?isitwa'ish c'awaak. miixtuksa.
-?u-ʽi(tl)-ckwi;-ʽat-?i;sh-tla; mixt-uk-?is mixt-uk-?is-it-wa;?i;sh c'awa:k mixt-uk-sa
+?u-ʼi(tl)-ckwi;-ʼat-?i;sh-tla; mixt-uk-?is mixt-uk-?is-it-wa;?i;sh c'awa:k mixt-uk-sa
 
 # 211
 ?iich'im?atls wikstup'aps waa'atl.
-?i:ch'im-ʽatl-s wik-stup-ʽap-s wa;-ʽatl
+?i:ch'im-ʼatl-s wik-stup-ʼap-s wa;-ʼatl
 
 # 212
 yaqy'iihha'itq chuuwin, hha'ak'at lim'aqsti, hhaaw'ilatl?i.
-yaq-y'i;hha-?i;tq chu:win hha'ak-ʽat lim'aqsti hha:w'ilatl-?i;
+yaq-y'i;hha-?i;tq chu:win hha'ak-ʼat lim'aqsti hha:w'ilatl-?i;
 
 # 213
 sukwi'at
-sukwi(tl)-ʽat
+sukwi(tl)-ʼat
 
 # 214
 hha'ak?anits lim'aqsti waa'atlquuch mixtuk?i, ?uyi'atl'atquuch naqsaap'at, qwishaa.
-hha'ak-ʽat-it-s lim'aqsti wa:-ʽatl-qu:-ch mixt-uk-?i; ?u-yi-ʽatl-ʽat-qu:-ch naq-sa;p-ʽat qwish-(y)a;
+hha'ak-ʼat-it-s lim'aqsti wa:-ʼatl-qu:-ch mixt-uk-?i; ?u-yi-ʼatl-ʼat-qu:-ch naq-sa;p-ʼat qwish-(y)a;
 
 # 215
 tea ?u'iic'ap'atch'a??ash qwaa. tea'iic.
-tea ?u-ʽi;c-ʽap-ʽat-ch'a;??ash qwa: tea-ʽi;c
+tea ?u-ʼi;c-ʼap-ʼat-ch'a;??ash qwa: tea-ʼi;c
 
 # 216
 ?uqlaap'atlwa'ish ?ahh ?u'iic'ap'atq, [chewing tobacco] quu'as'i.
-?uqla:p-ʽatl-wa;?i;sh ?ahh ?u-ʽi;c-ʽap-ʽat-q ~ qu:?as-?i;
+?uqla:p-ʼatl-wa;?i;sh ?ahh ?u-ʼi;c-ʼap-ʼat-q ~ qu:?as-?i;
 
 # 217
 qaahhsap'atsaash waa'atlquuch.
-qahh-sap-ʽat-sa:sh wa;-ʽatl-qu:-ch
+qahh-sap-ʼat-sa:sh wa;-ʼatl-qu:-ch
 
 # 218
 ?uushyuuyatlquuch chamas, tea'ii.
-?u:sh-yu:ya-ʽatl-qu:-ch chamas tea-?i;
+?u:sh-yu:ya-ʼatl-qu:-ch chamas tea-?i;
 
 # 219
 hach'a shuukwaa ?uyii'anit?aal, qwiyii'anitii [brown sugar], naqshi'atlquuch.
-hach'a shu:kwa; ?u-(y)i;-ʽat-it-?a:l qwi-(y)i;-ʽat-it-(y)i: ~ naq-shi(tl)-ʽatl-qu:-ch
+hach'a shu:kwa; ?u-(y)i;-ʼat-it-?a:l qwi-(y)i;-ʼat-it-(y)i: ~ naq-shi(tl)-ʼatl-qu:-ch
 
 # 220
 mituuni walaak, siikshitl.
@@ -877,11 +877,11 @@ si:k-shi(tl)
 
 # 222
 tlihhshitl waa'ap'is,
-tlihh-shi(tl) wa;-ʽap-ʽi;s
+tlihh-shi(tl) wa;-ʼap-ʼi;s
 
 # 223
 tliihhshitl, qwaamitii ?inkwasitquu. ?inkwasckwimatak?atl, pitish'athh.
-tlihh-shi(tl) qwa:-mit-(y)i: ?inkw-as-it-qu: ?inkw-as-ckwi;-matak-ʽatl pitish-ʽathh
+tlihh-shi(tl) qwa:-mit-(y)i: ?inkw-as-it-qu: ?inkw-as-ckwi;-matak-ʼatl pitish-ʼathh
 
 # 224
 pitish. pitish waa, minwaa'athh. pitish. wicik?al British waa. pitish. pitish.
@@ -889,27 +889,27 @@ pitish pitish wa; minwa:?ath pitish wicik-?a;l ~ wa; pitish pitish
 
 # 225
 aqukwitii, yaqckwiiyii, [King George] waa'atl'anit?aal tlahh, [nineteen twenty], [early nineteen twenties]
-yaq-ukw-it-(y)i: yaq-ckwi;-(y)i: ~ wa;-ʽatl-ʽat-it-?a:l tlahh ~ ~
+yaq-ukw-it-(y)i: yaq-ckwi;-(y)i: ~ wa;-ʼatl-ʼat-it-?a:l tlahh ~ ~
 
 # 226
 kinchooch?athhnish waa'atlquu quu'as.
-kincho:ch-ʽathh-ni;sh wa:-ʽatl-qu: qu:?as
+kincho:ch-ʼathh-ni;sh wa:-ʼatl-qu: qu:?as
 
 # 227
 ?iihhcamis'ap. ?uy'iihhatltla ?ihhcamis'ap, tl'ihhmalqim.
-?i:hhw-camis-ʽap ?u-y'i;hha-ʽatl-tla; ?i:hhw-camis-ʽap tl'ihhmalqim
+?i:hhw-camis-ʼap ?u-y'i;hha-ʼatl-tla; ?i:hhw-camis-ʼap tl'ihhmalqim
 
 # 228
 [Union Jack] ?unaakna. ?unaak'ap'at.
-~ ?u-na;k-na ?u-na;k-ʽap-ʽat
+~ ?u-na;k-na ?u-na;k-ʼap-ʼat
 
 # 229
 ?aa'iiktaqshi'atltla
-?a:?i:ktaq-shi(tl)-ʽatl-tla;
+?a:?i:ktaq-shi(tl)-ʼatl-tla;
 
 # 230
 hhaw'ilukwit, ya??atlitii Benson kapchaa, ?unaak ?uyii'atl'attla, [Union Jack].
-hhaw'il-uk-it yaq-ʽatl-it-(y)i: ~ kapcha: ?u-na;k ?u-(y)i;-ʽatl-ʽat-tla; ~
+hhaw'il-uk-it yaq-ʼatl-it-(y)i: ~ kapcha: ?u-na;k ?u-(y)i;-ʼatl-ʼat-tla; ~
 
 # 231
 ?uhhwaa'ish ?aq'ishtiik, sword.
@@ -925,19 +925,19 @@ qi:-yu;kw'a:l qu:?as-?i; mitu:ni wala:k qi:-yu;kw'a:l
 
 # 234
 hu'aca'ap'at, ?uum'aanup'at n'achiqs, hisultap'at.
-hu'a-ca-ʽap-ʽat qu-m'a;-nup-ʽat n'achiqs hisulta-ʽap-ʽat
+hu'a-ca-ʼap-ʼat qu-m'a;-nup-ʼat n'achiqs hisulta-ʼap-ʼat
 
 # 235
 ?iic?iiqhhatl qwaa'ap'anitiich.
-?i:c?i:qhh-ʽatl qwa:-ʽap-ʽat-it-(y)i:-ch
+?i:c?i:qhh-ʼatl qwa:-ʼap-ʼat-it-(y)i:-ch
 
 # 236
 ?uqlaapckwi qahhsaapw'it'as'atq, ?atquu ?aniic'ap'at, tea waa'atquu. tea.
-?uqla:p-ckwi; qahh-sa;p-w'it'as-ʽat-q ?at-qu: ?ana-ʽi;c-ʽap-ʽat ~ wa:-ʽat-qu: tea
+?uqla:p-ckwi; qahh-sa;p-w'it'as-ʼat-q ?at-qu: ?ana-ʼi;c-ʼap-ʼat ~ wa:-ʼat-qu: tea
 
 # 237
 waa ?uushyuuya saachksit, qwi'iic'ap'anitii,
-wa; ?u:sh-yu:ya sachk-sit qwi-ʽi;c-ʽap-ʽat-it-(y)i:
+wa; ?u:sh-yu:ya sachk-sit qwi-ʼi;c-ʼap-ʼat-it-(y)i:
 
 # 238
 ?in ?anaak ?anackwak naqtuup minwaa'ath. namwaa. nam. Rum.
@@ -945,19 +945,19 @@ wa; ?u:sh-yu:ya sachk-sit qwi-ʽi;c-ʽap-ʽat-it-(y)i:
 
 # 239
 ?u'iic'ap'atl'atquuch c'aahh'ii, xhaxhashk'uk ?u'ukwilna. piskitckwimatakuk.
-?u-ʽi;c-ʽap-ʽatl-ʽat-qu:-ch c'a:hh-?i; xhaxhash-k'uk DUP-?u-kwil-na piskit-ckwi;-matak-uk
+?u-ʼi;c-ʼap-ʼatl-ʼat-qu:-ch c'a:hh-?i; xhaxhash-k'uk DUP-?u-kwil-na piskit-ckwi;-matak-uk
 
 # 240
 ?u'iic'ap'atl'atquuch hhusp'al'i. c'isqmis hhusp'al.
-?u-ʽi;c-ʽap-ʽatl-ʽat-qu:-ch hhus-p'al-?i; c'isq-mis hhus-p'al
+?u-ʼi;c-ʼap-ʼatl-ʼat-qu:-ch hhus-p'al-?i; c'isq-mis hhus-p'al
 
 # 241
 [salt pork], ?u'iicckwimatak'ap'at?aal.
-~ ?u-ʽi;c-ckwi;-matak-ʽap-ʽat-?a:l
+~ ?u-ʼi;c-ckwi;-matak-ʼap-ʼat-?a:l
 
 # 242
 ?ahh'aa qwisitwa'ish. c'awaakitwa'ishcha luucma, luucmumtquu, k'ahhyaqis'ap'anitwa'ish. k'ahhyuu.
-?ahh'a: qwis-it-wa;?i;sh c'awa:k-it-wa;?i;sh-cha lu:cma lu:cma-umt-qu: k'ahh-yaq-?is-ʽap-ʽat-it-wa;?i;sh k'ahh-yu;
+?ahh'a: qwis-it-wa;?i;sh c'awa:k-it-wa;?i;sh-cha lu:cma lu:cma-umt-qu: k'ahh-yaq-?is-ʼap-ʼat-it-wa;?i;sh k'ahh-yu;
 
 # 243
 n'usxhis nii??ahhs.
@@ -965,7 +965,7 @@ n'usxh-is hi:??ahhs
 
 # 244
 ?iich'im?is k'ahhyaqis'ap'anitwa'ish niistitl ?ahh qaan'im?at?i.
-?i:ch'im-?is k'ahh-yaq-?is-ʽap-ʽat-it-wa;?i;sh hi:stitl ?ahh qa:n'im-ʽat-?i;
+?i:ch'im-?is k'ahh-yaq-?is-ʼap-ʼat-it-wa;?i;sh hi:stitl ?ahh qa:n'im-ʼat-?i;
 
 # 245
 waa, t'uhhc'iti, k'ahhkwachitl y'uuqwaa. k'ahhyuu.
@@ -973,7 +973,7 @@ wa; t'uhhc'iti k'ahh-kwa-chi(tl) y'u:qwa: k'ahh-yu;
 
 # 246
 kisshitlckwat.
-his-shi(tl)-ckwi;-ʽat
+his-shi(tl)-ckwi;-ʼat
 
 # 247
 qwisckwii, qiickwii'al, wik, hu'aas, makwink, kw'akw'atl, hiyiqstup. kw'akw'atl.
@@ -985,23 +985,23 @@ wik lach-i(tl-?a;l lach-i(tl)
 
 # 249
 ?a'anachinkshitlckwatl, tla'uu'i qwiq yaqitii, maakwaa.
-DUP-?ana-(ch)ink-shi(tl)-ckwi;-ʽatl tla'u:-?i; qwiq yaq-it-(y)i: makw-(y)a;
+DUP-?ana-(ch)ink-shi(tl)-ckwi;-ʼatl tla'u:-?i; qwiq yaq-it-(y)i: makw-(y)a;
 
 # 250
 waa qu'acasitwa'ish, quu'as c'awaak ?ahh hilaas, yaaqwil'anitiich qahhsaap'at.
-wa; qu'ac-a;s-it-wa;?i;sh qu:?as c'awa;k ?ahh hil-a;s yaqw-il-ʽat-it-(y)i:-ch qahh-sa;p-ʽat
+wa; qu'ac-a;s-it-wa;?i;sh qu:?as c'awa;k ?ahh hil-a;s yaqw-il-ʼat-it-(y)i:-ch qahh-sa;p-ʼat
 
 # 251
 tiichmahhsamitwa'ish c'awaak.
-ti:ch-mahhsa-ʽap-it-wa;?i;sh c'awa:k
+ti:ch-mahhsa-ʼap-it-wa;?i;sh c'awa:k
 
 # 252
 wiiqsilatlwa'ish qaahhsaap. hhachatsuup.
-wi:q-sila-ʽatl-wa;?i;sh qahh-sa;p hhachat-su:p
+wi:q-sila-ʼatl-wa;?i;sh qahh-sa;p hhachat-su:p
 
 # 253
 ?uushmisnakcimnis waa'at. ?atquu ?uushmisnak'atl?al.
-?u:sh-mis-na;k-cim-ni;sh wa;-ʽat ?at-qu: ?u:sh-mis-na;k-ʽatl-?a;l
+?u:sh-mis-na;k-cim-ni;sh wa;-ʼat ?at-qu: ?u:sh-mis-na;k-ʼatl-?a;l
 
 # 254
 ?ahh'aa kwisckwii.

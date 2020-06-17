@@ -7,15 +7,15 @@ ID:           GL2
 
 # 001
 huu'ak ?uyi qiisasatl.
-hu:?ak ?uyi qi:-sasatl-ʽatl
+hu:?ak ?uyi qi:-sasatl-ʼatl
 
 # 002
 yaqwii'itq quu'as ?uuqhhlatlquu m'achi'at
-yaqw-wi;-?i;tq qu:?as ?u:qhhli-ʽatl-qu: m'a-chi(tl)-ʽat hupal m'a-ʽitl-ʽat
+yaqw-wi;-?i;tq qu:?as ?u:qhhli-ʼatl-qu: m'a-chi(tl)-ʼat hupal m'a-ʼitl-ʼat
 
 # 003
 hayimhhickwi ?in wikuk ?uhh mamaln'i qwaa ?ahh nism'a'i ?ahh'aa hupal'i ?ahh'aa sun [p. 215] hil'atl ?aminkshi'atlquu.
-hayim-hhi;-ckwi; ?in wik-uk ?uhh ma-mal-n'i; qwa: ?ahh nism'a-?i; ?ahh'a: hupal-?i; ?ahh'a: hupal-?i; ?ahh'a: ~ hil-ʽatl ?ap-inkw-shi(tl)-ʽatl-qu:
+hayim-hhi;-ckwi; ?in wik-uk ?uhh ma-mal-n'i; qwa: ?ahh nism'a-?i; ?ahh'a: hupal-?i; ?ahh'a: hupal-?i; ?ahh'a: ~ hil-ʼatl ?ap-inkw-shi(tl)-ʼatl-qu:
 
 [p. 215]
 
@@ -29,13 +29,13 @@ hayim-hhi;-ckwi; ?in wik-uk ?uhh ma-mal-n'i; qwa: ?ahh nism'a-?i; ?ahh'a: hupal-
 
 # 006
 tup??aqtl qii ?uushyuuya hhaa'i'at, hhaa'i'at?ish [p. 216] watqshitl. watqshi'at?ish waa'at
-tup??aqtl qi: ?u:sh-yu:ya hha-ʽitl-ʽat hha-ʽitl-ʽat hha-ʽitl-ʽat-?i;sh watq-shi(tl) watq-shi(tl)-ʽat-?i;sh wa:-ʽat
+tup??aqtl qi: ?u:sh-yu:ya hha-ʼitl-ʼat hha-ʼitl-ʼat hha-ʼitl-ʼat-?i;sh watq-shi(tl) watq-shi(tl)-ʼat-?i;sh wa:-ʼat
 
 [p. 216]
 
 # 007
 hupal wik'iitshi'atlquu tum'aqstutl, haa (ma'as) n'itlaak c'iiqaa'atlquuch quu'as c'iiqaa.
-hupal wik'i;t-shi(tl)-ʽatl-qu: tum-ʽaqstutl ha: ma'as n'itla:k c'i:q-(y)a;-ʽatl-qu:-ch qu:?as c'i:q-(y)a;
+hupal wik'i;t-shi(tl)-ʼatl-qu: tum-ʼaqstutl ha: ma'as n'itla:k c'i:q-(y)a;-ʼatl-qu:-ch qu:?as c'i:q-(y)a;
 
 # 008
 ?uush qaacsh ha'um, qwaaqhh'aahhii wiikshhhii.
@@ -49,11 +49,11 @@ wa: ?uk-sh ti:chmis qwa:-(q)hh-?a:hh-(y)i: chachim-hhi; hil ?ahhku; nism'a-?i;
 
 # 010
 hayimhhi quu'as qwaa'apii hhaal tuum'aqstuul, tum'aqstutl.
-hayim-hhi; qu:?as qwa:-ʽap-(y)i: hha:l tum-ʽaqstu:l tum-ʽaqstutl
+hayim-hhi; qu:?as qwa:-ʼap-(y)i: hha:l tum-ʼaqstu:l tum-ʼaqstutl
 
 # 011
 qiihhsn'aak ?uushyuuya ?uu'i'at [p. 218] hupal'i qwa'uuc qwaatlaa hupal'i tla'uu, yaaqwil mamaln'i sun waa.
-qi:-hhsn'a;k ?u:sh-yu:ya ?u-ʽitl-ʽat hupal-?i; qwa'u:c qwa:tla: hupal-?i; tla'u: yaqw-(ch)il ma-mal-n'i; ~ wa:
+qi:-hhsn'a;k ?u:sh-yu:ya ?u-ʼitl-ʼat hupal-?i; qwa'u:c qwa:tla: hupal-?i; tla'u: yaqw-(ch)il ma-mal-n'i; ~ wa:
 
 [p. 218]
 
@@ -69,4 +69,4 @@ hish-(ch)il-?i; DUP#-watq-sh tushkayilim-m'i;t-qu:
 
 # 014
 waa ?uushckwii'al ch'apac ?ukwiqsitl, hat'iis, hat'in??aqa.
-wa: ?u:sh-ckwi;-?a;l ch'apac ?ukwa-iqs-i(tl) hat'i:s hat'inq-ʽaqa
+wa: ?u:sh-ckwi;-?a;l ch'apac ?ukwa-iqs-i(tl) hat'i:s hat'inq-ʼaqa
