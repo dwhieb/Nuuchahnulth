@@ -61,7 +61,7 @@ c'a:nit-it-wa;?i;sh ?ahh qwa:-sasa c'a:nit hu'a-??-in c'a: c'a:
 
 # 015
 chuu, hitap?il ch'aaxstimcm'it, wik ?uuc\hha, saaxyapanachshitl?aqtlquu.
-chu: hita-p?il ch'a:stimc-<x>-m'i;t wik ?u-c\hha saya-<x>-panach-shi(tl)-'aqtl-qu:
+chu: hita-p?il ch'a:stimc-<x>-m'i;t wik ?u-c\hha saya-<x>-panach-shi(tl)-ʽaqtl-qu:
 
 # 016
 ?in hishsaacu ch'aastimc.
@@ -69,7 +69,7 @@ chu: hita-p?il ch'a:stimc-<x>-m'i;t wik ?u-c\hha saya-<x>-panach-shi(tl)-'aqtl-q
 
 # 017
 ??ac'ik haptshitl, hitaqtl'utl.
-??ac'ik hapt-shi(tl) hita-'aqtl-u;(tl)
+??ac'ik hapt-shi(tl) hita-ʽaqtl-u;(tl)
 
 # 018
 heey hitap?il.
@@ -109,7 +109,7 @@ c'awa:k
 
 # 027
 yaaxcshitl?ic'aqtls waa'atl.
-ya:c-<x>-shi(tl)-'aqtl-s wa:-ʽatl
+ya:c-<x>-shi(tl)-ʽaqtl-s wa:-ʽatl
 
 # 028
 yaaxcshitl.
@@ -381,7 +381,7 @@ chu: ciq-shi(tl)-ʽatl hhaw'il-?i;
 
 # 095
 qahhsaamit?ick qwayaac'ikm'it, waa'atl. ["You killed him!"]
-qahh-sa;p-it-'ick qwaya:c'ik-m'i;t wa;-ʽatl ~
+qahh-sa;p-it-?ick qwaya:c'ik-m'i;t wa;-ʽatl ~
 
 # 096
 ?m?mm, waamitquu, wiixksas.
@@ -401,7 +401,7 @@ haa m'ay'ukshi'at.
 
 # 100
 qahhsaap?aqnish suutil, waa'at.
-qahh-sa;p-'aq-ni;sh sut-(ch)il wa;-ʽat
+qahh-sa;p-?aq-ni;sh sut-(ch)il wa;-ʽat
 
 # 101
 haptsaap ?aq'ishtiik, haptaa'ak hhaa muustatak?i.
@@ -425,7 +425,7 @@ haaxhaa, tl'upiichi'atl. tl'upaa, qwaa'atl ?ahh'aa, qwayac'iik tl'upy'iihha.
 
 # 106
 chuu, waa'atl ch'aaxstimcm'it, [You are surrounded by the wolf. You had no way of try to escape. You killed him!] qahhsaap?ick.
-chu: wa;-ʽatl ch'a:stimc-<x>-m'i;t ~ qahh-sa;p-'ick
+chu: wa;-ʽatl ch'a:stimc-<x>-m'i;t ~ qahh-sa;p-?ick
 
 # 107
 m?mm, waamitquu.
@@ -449,7 +449,7 @@ qi-'i:-'i;ch qi-hhta-chi(tl)-'i;ch wa;-ʽatl
 
 # 112
 heey ??iita??iita'ick, waa'atl'at.
-~ DUP#-??ita-'ick wa;-ʽatl-ʽat
+~ DUP#-??ita-?ick wa;-ʽatl-ʽat
 
 # 113
 ?aa, y'uuqwaa'ap'i ?ahh ?ucaqc'u'i waa'atl, qwicpaa'itq c'a'ak?i, c'aa ?ahh ?aya hisit.
@@ -469,7 +469,7 @@ qwa: ha'uk qwayac'i:k wi:y'a humaqtl-ʽi;c
 
 # 117
 chuu, waa'atl. nuux'it'aqsish, waa'atl.
-chu: wa;-ʽatl nu-<x>-'itl-'aq-si;sh wa;-ʽatl
+chu: wa;-ʽatl nu-<x>-ʽitl-?aq-si;sh wa;-ʽatl
 
 # 118
 ?unaak nuuk waa'atl
@@ -633,7 +633,7 @@ kamatq-uk
 
 # 158
 suxkwitl ??uy'ic'ak?i, hiist'itl ?ahh p'atqsac'isuk?i.
-sukwi(tl)-<x> ??uy'i-c'u;-?a;k-?i; hist-'itl ?ahh p'atqw-sac-?is-uk-?i;
+sukwi(tl)-<x> ??uy'i-c'u;-?a;k-?i; hist-ʽitl ?ahh p'atqw-sac-?is-uk-?i;
 
 # 159
 kwisaqsit?atl?al.
@@ -797,7 +797,7 @@ kwa-?i;(tl) waxw-shi(tl)-'ic-ʽatl-wa;?i;sh-tla; huf! mush-sa;p wimac-sa;p
 
 # 199
 qwaa'ap?aqtl?ick ?ahh'aa qum'aa kwiisqshitl ?um'aack ?iqsila.
-qwa:-ʽap-'a;qtl-'ick ?ahh'a: qum'a: kwi:sqshitl ?um'a:ck ?iq-sila
+qwa:-ʽap-'a;qtl-?ick ?ahh'a: qum'a: kwi:sqshitl ?um'a:ck ?iq-sila
 
 # 200
 susp'il'atl. ?ayiiy'ap'atl nuuchyuu.
@@ -909,7 +909,7 @@ hamip-shi(tl)-ʽat hil-'a;?a hha:
 
 # 227
 suw'aaq'ick ch'aastimchm'it, waa'atl'at.
-suw'a:q-'ick ch'a:stimc-m'i;t wa;-ʽatl-ʽat
+suw'a:q-?ick ch'a:stimc-m'i;t wa;-ʽatl-ʽat
 
 # 228
 wik. ?uklaas kapkimyis waa'atl.
@@ -925,7 +925,7 @@ wik ?u-kla;-s kapkimyis wa;-ʽatl
 
 # 231
 suw'aaq'ick, waa'at.
-suw'a:q-'ick wa;-ʽat
+suw'a:q-?ick wa;-ʽat
 
 # 232
 \trs-en It's you! umum
@@ -945,7 +945,7 @@ n'a:csi:-chitl hhaa: kuhh kuhh
 
 # 236
 ch'uq! liphhii'itl?isquu. ch'uq!
-~ liphh-i:-'itl-?is-qu: ~
+~ liphh-i:-ʽitl-?is-qu: ~
 
 # 237
 heey taatltaaya qwaqwaas'i.

@@ -374,7 +374,7 @@ We also went out hunting harbor seals.
 
 # 055
 ?uushyuuya muwach ?uu'ip'at
-?u:sh-yu:ya muwach ?u-'i:p-ʽat
+?u:sh-yu:ya muwach ?u-?i:p-ʽat
 some-at.the.time deer it-get-SHIFT
 sometimes deer we.got
 Sometimes we caught deer.
@@ -458,7 +458,7 @@ He would go out fishing for red snapper.
 
 # 067
 ?uyi'isim tlimksaap hupkwista'atlquu hupal waa, hupkwista'atlquu hupal
-?uyi-'i;sim                 tlimk-sa;p     hupkw-ista-ʽatl-qu:          hupal wa; hupkw-ista-ʽatl-qu:          hupal
+?uyi-ʽi;sim                 tlimk-sa;p     hupkw-ista-ʽatl-qu:          hupal wa; hupkw-ista-ʽatl-qu:          hupal
 at.the.time-IMP.2SG>1SG.FUT awake-MOM.CAUS roundish.thing-??-FIN-COND.3 sun   say roundish.thing-??-FIN-COND.3 sun
 do.for.me.at                wake           when.the.sun.is.rising       sun   say when.the.sun.is.rising       sun
 He (Son of Gum Woman) said to her (his wife), "Wake me up when the sun is rising."
@@ -583,7 +583,7 @@ I know how much we had in 1930.
 
 # 086
 hayimhhis qwanaakitii'al ?a'iich'im?akitqs
-hayim-hhi;-s        qwa-na;k-it-(y)i:-?a;l       DUP-'i:ch'im-?a;k'-it-qs
+hayim-hhi;-s        qwa-na;k-it-(y)i:-?a;l       DUP-?i:ch'im-?a;k'-it-qs
 not.knowing-DUR-1SG ??-having-PAST-INDF-3PL      DISTR-parent-POSS-PAST-SUB.1SG
 I.don't.know        how.much.they.might.have.had my.parents
 I don't know how much my late parents had.
@@ -652,7 +652,7 @@ kwis-q-shi(tl)-ʽatl ?aya ?aya ?aya
 
 # 098
 ?a'ayiip, ?a'ayiip hilnaa niiw'a kwaciinu
-DUP-'aya-i:p DUP-'aya-i:p hil-na; ni:w'a kwaci:nu
+DUP-?aya-i:p DUP-?aya-i:p hil-na; ni:w'a kwaci:nu
 
 # 099
 ?atlc'iq, yaqukwitiis na'iiq [Luke Swan], [John Campbell], ?u'uqs
@@ -666,7 +666,7 @@ qu-qs-ʽatl-qwin ~ ~ ~
 
 # 101
 wik'aqtlit ?qahh qwaqtlitii
-wik-'aqtl-it  ?ahh qwa-'aqtl-it-(y)i:
+wik-ʽaqtl-it  ?ahh qwa-ʽaqtl-it-(y)i:
 
 # 102
 ?ahh'aa ?uunichhn'ak chaanaat qiiyuukw'als qaay'uukw'athh hil qii, [4 years]
@@ -716,7 +716,7 @@ tuch'i: kw'is-(y)a;
 
 # 112
 chaani'aqs ?acyuu waa'atl Gordon
-cha:ni-'aq-s ?ac-yu; wa;-ʽatl ~
+cha:ni-?aq-s ?ac-yu; wa;-ʽatl ~
 
 # 113
 ?u'uqs yaqukwitiis qalaatik
@@ -745,13 +745,13 @@ na'u:k ?ac-shi(tl)-na; ?aya-a:tl su:hha: ~ ?uyi ~ ?aya
 
 # 119
 na'uuqs'aqtl?ick siichil [p. 193] waa'atl'ats [George Sye]
-na'u;-qs-'aqtl-'ick si-(ch)il wa:-ʽatl-ʽat-s ~
+na'u;-qs-ʽaqtl-?ick si-(ch)il wa:-ʽatl-ʽat-s ~
 
 [p. 193]
 
 # 120
 herring ?u'u'iihhaqtlnish, tlusmit
-~ DUP-?u-ʽi:hh-'aqtl-ni;sh tlusmit
+~ DUP-?u-ʽi:hh-ʽaqtl-ni;sh tlusmit
 
 # 121
 ?acshi'atl chaaniina nasatl
@@ -765,7 +765,7 @@ herring ?u'u'iihhaqtlnish, tlusmit
 
 # 123
 waalak ?aayichitlaya, ?aayaqsiilna
-wa:lak ?aya-'ichi(tl)-aya ?aya-qs-i:l-na;
+wa:lak ?aya-`ichi(tl)-aya ?aya-qs-i:l-na;
 
 # 124
 [100 ton]?atlquu, ?uushyuuya 150
@@ -795,7 +795,7 @@ wa; ?ahh'a:-ʽatl wal-shi(tl)
 
 # 130
 chaani'aqtls walshitl, walshi'atls [p. 196] ??aahhuus'athh
-cha:ni-'aqtl-s wal-shi(tl) wal-shi(tl)-ʽatl-s ??a:hhu:s'athh
+cha:ni-ʽaqtl-s wal-shi(tl) wal-shi(tl)-ʽatl-s ??a:hhu:s'athh
 
 [p. 196]
 
@@ -805,7 +805,7 @@ qi:-s wal-yu;
 
 # 132
 ??uyaasatl'in waa'atl'ats Viola
-??uya:s-ʽatl-'in wa:-ʽatl-ʽat-s ~
+??uya:s-ʽatl-ʽin wa:-ʽatl-ʽat-s ~
 
 # 133
 ??uyaasatlna Alberni walaak, Alberni, [Port Alberni]
@@ -901,7 +901,7 @@ hhayu-q'ichhh-shi(tl)-s ~ ~
 
 # 153
 hiist'i'atls ?ahh'aa hil ?ahh
-hist-'i-ʽatl-s ?ahh'a: hil ?ahh
+hist-ʽi-ʽatl-s ?ahh'a: hil ?ahh
 
 # 154
 ?a'um?atliis hawii'atl University
@@ -951,11 +951,11 @@ Oh, [I see], waa'atls Toshi
 
 # 164
 chachimhhi'ick, [You are right].
-chachim-hhi;-'ick ~?
+chachim-hhi;-?ick ~
 
 # 165
 kwiisqshitl?aash ?atlin,
-kwis-q-shi(tl)-'a:sh ?atla-in
+kwis-q-shi(tl)-?a:sh ?atla-in
 
 [p. 206]
 
@@ -997,7 +997,7 @@ waa ?aya ma-mal-n'i; tlatlu: huihhtak-shi(tl)-ʽi:hh-mahhsa ~
 
 # 174
 wiiy'as hhaahhuupa ?uukwil ?a'ashxhwaquu
-wi:y'a-s hha:hhu:p-(y)a; ?u-kwil DUP-'ashxhw-(y)a;-qu:
+wi:y'a-s hha:hhu:p-(y)a; ?u-kwil DUP-?ashxhw-(y)a;-qu:
 
 # 175
 ?ana ?anchils ?iiqhhuk qwiq?iitq tlul, tlulmis
@@ -1018,7 +1018,7 @@ yaqw-(ch)il-?i;tq ~ qa:n'im wa:-na;
 
 # 179
 ?ahh'aa, hiishilsa huhhtak ??aa??imt'at [p. 210] ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa'at ch'alch'a, hishuk ch'alch'a
-?ahh'a: hish-(ch)il-sa huhhtak DUP:-??imt-ʽat ?usit-ʽat-qin ?una-'ichi(tl)?qin hist-'itl t'uhhc'iti hapsy'up hap-ca;sqi; hhu:l tlishtlin DUP-ch'isa;q-hhtim wa;-ʽat ch'alch'a hish-uk ch'alch'a
+?ahh'a: hish-(ch)il-sa huhhtak DUP:-??imt-ʽat ?usit-ʽat-qin ?una-`ichi(tl)-qin hist-ʽitl t'uhhc'iti hapsy'up hap-ca;sqi; hhu:l tlishtlin DUP-ch'isa;q-hhtim wa;-ʽat ch'alch'a hish-uk ch'alch'a
 
 [p. 210]
 
@@ -1034,4 +1034,4 @@ wa; kukwinksi hil-?i; ch'alch'a
 
 # 182
 ?ahh'aa ?uuna'ish. k'aac'itls
-?ahh'a: qu:na-?i;sh k'ac-'itl-s
+?ahh'a: qu:na-?i;sh k'ac-ʽitl-s
