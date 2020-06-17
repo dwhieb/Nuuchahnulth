@@ -17,15 +17,15 @@ qawiqa:l-mit-qu: qwiyu-imt-(y)i: qwis
 
 # 004
 ?ahh histaqshitl nism'a'i. nism'aakqin.
-?ahh his-taq-shi(tl) nism'a-?i; nism'a-'a;k-qin
+?ahh his-taq-shi(tl) nism'a-?i; nism'a-?a;k-qin
 
 # 005
 ?uhh'at ?uu'alukw'at ?um?iiqsakitquu.
-?uhh-ʽat ?u-'aluk-ʽat ?um?i;qsu-'a;k-it-qu:
+?uhh-ʽat ?u-'aluk-ʽat ?um?i;qsu-?a;k-it-qu:
 
 # 006
 wiipap'at n'uw'iiqsimtquu, t'an'aak?i. wiipap.
-wi-pap-ʽat n'uw'i;qsu-imt-qu: t'an'a-'a;k-?i; wi-pap
+wi-pap-ʽat n'uw'i;qsu-imt-qu: t'an'a-?a;k-?i; wi-pap
 
 # 007
 hach'a tla'uuc\hhimt.
@@ -73,7 +73,7 @@ hil-in??atu wa:-na-?a:l hhu: ?u:c'uqwa'i hachli:tl-spa
 
 # 018
 ?aanuu'atlquuch ha'uk ?um?iiqsak.
-?ana-u:-ʽatl-qu:-ch ha'uk ?um?i;qsu-'a;k
+?ana-u:-ʽatl-qu:-ch ha'uk ?um?i;qsu-?a;k
 
 # 019
 ?iihh'at kwiishhii, y'uuqwatla tla'ukta??as'i.
@@ -93,7 +93,7 @@ wik-ʽat wik-ʽat ka:pap-ʽat c'awa;-chitl-ʽat
 
 # 023
 chuu waa'atl, qawiqaal, ?um?iiqsak, na'aatahh'isim.
-chu: wa:-ʽatl qawiqa:l ?um?i;qsu-'a;k na'a:-atahh-'i;sim
+chu: wa:-ʽatl qawiqa:l ?um?i;qsu-?a;k na'a:-atahh-'i;sim
 
 # 024
 ?uyii'aqsish, wikpitl hinalachi'atlquu. ?amalachi'atlquu hupal.
@@ -529,7 +529,7 @@ wihhi-'san'ap ?um?i;qsu-?i; ku:kuhhw'isa
 
 # 132
 wiik'itl n'uw'iiqsak. wiik'itl.
-wik-'i(tl) n'uw'i;qsu-'a;k wik-'i(tl)
+wik-'i(tl) n'uw'i;qsu-?a;k wik-'i(tl)
 
 # 133
 waasatlhha waa'at.
@@ -545,7 +545,7 @@ qwa:-'ap ?ahh'a: kwi:sqshitl
 
 # 136
 waa, muuq'ichhhshi'atl hinat'atl, n'uw'iiqsak.
-wa: mu:-q'ichhh-shi(tl)-ʽatl hinat-ʽatl n'uw'i;qsu-'a;k
+wa: mu:-q'ichhh-shi(tl)-ʽatl hinat-ʽatl n'uw'i;qsu-?a;k
 
 # 137
 chuu, ?iiqhhukw'atl qwisit?itq,
@@ -633,7 +633,7 @@ c'awa;-in qawiqa:l
 
 # 158
 tl'aa'as. waa ?uklaa'ak?ish'al, tl'aa'as, chiiqtlis'athh.
-tl'a:?as wa: ?u-kla;-'a;k-?i;sh-'a;l tl'a:?as chi:qtlis-ʽathh
+tl'a:?as wa: ?u-kla;-?a;k-?i;sh-'a;l tl'a:?as chi:qtlis-ʽathh
 
 # 159
 hil'atlukwii'al boundary.
@@ -773,7 +773,7 @@ na'a:-wa;?i;sh ni:hh-il
 
 # 192
 histaqshitlckwi, chiiqtlis'athh, qawiqaal, ??imtii'ak, ??imtii'ak, qawiqaalmitquu.
-his-taq-shi(tl)-ckwi; chi:qtlis-ʽathh qawiqa:l ??imti:-'a;k ??imti:-'a;k qawiqa:l-mit-qu:
+his-taq-shi(tl)-ckwi; chi:qtlis-ʽathh qawiqa:l ??imti:-?a;k ??imti:-?a;k qawiqa:l-mit-qu:
 
 # 193
 chuu, ?uuna'ish ?ahh'aa.

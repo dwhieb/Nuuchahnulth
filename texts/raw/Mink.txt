@@ -177,7 +177,7 @@ ku:chil-shi(tl)
 
 # 044
 sachka'ap, ch'ichitl, qum'aakitii.
-sachk-a-'ap ch'i-chitl qum'a:-'a;k-it-(y)i:
+sachk-a-'ap ch'i-chitl qum'a:-?a;k-it-(y)i:
 
 # 045
 heey maahht'iqiil k'uch chashkak, mahht'iichitluk, saach'utcqii'isukwitquu.
@@ -297,7 +297,7 @@ huhhtak ch'a:sta ?in wa'ich-<x>-itl-w'it'as qwaya:c'ik-<x>-m'i;t
 
 # 074
 sukwitl muustatak?i.
-sukwitl mu:stati-'a;k-?i;
+sukwitl mu:stati-?a;k-?i;
 
 # 075
 qwi'iimitii ?ahh qacuut, kw'achshitl tiichma.
@@ -405,7 +405,7 @@ qahh-sa;p-'aq-ni;sh sut-(ch)il wa;-ʽat
 
 # 101
 haptsaap ?aq'ishtiik, haptaa'ak hhaa muustatak?i.
-hapt-sa;p ?aqi-'isht-(y)i:k hapt-(y)a;-'a;k hha: mu:stati-'a;k-?i;
+hapt-sa;p ?aqi-'isht-(y)i:k hapt-(y)a;-?a;k hha: mu:stati-?a;k-?i;
 
 # 102
 hitaatu??ihhtap sha'ihhtim?i, yaaqhhw'al'itq qahhsaap, qwayaac'ikm'it. haptsaap.
@@ -553,7 +553,7 @@ DUP-'ani-sapi c'a'ak-?i;
 
 # 138
 k'icshitlwa'ish qwis ?ahh, sukwitl muustatak?i.
-k'ic-shi(tl)-wa;?i;sh qwis ?ahh sukwitl mu:stati-'a;k-?i;
+k'ic-shi(tl)-wa;?i;sh qwis ?ahh sukwitl mu:stati-?a;k-?i;
 
 # 139
 qxxxx, kw'achshitl ?ahh.
@@ -565,7 +565,7 @@ kamatq-<x>-shi(tl) qw'a:xti:
 
 # 141
 ?ayaak ??imtii, qw'aaxtii
-?aya-'a;k ??imti: qw'a:xti:
+?aya-?a;k ??imti: qw'a:xti:
 
 # 142
 kamatquk ch'uq
@@ -621,7 +621,7 @@ kamatq-<x>-shi(tl)-ʽatl qw'a:xti:
 
 # 155
 ?ayaak ??imtii. kwatyaat, ?uklaa qalaatik.
-?aya-'a;k ??imti: kwatya:t ?u-kla; qala:tik
+?aya-?a;k ??imti: kwatya:t ?u-kla; qala:tik
 
 # 156
 kamatquk.
@@ -633,7 +633,7 @@ kamatq-uk
 
 # 158
 suxkwitl ??uy'ic'ak?i, hiist'itl ?ahh p'atqsac'isuk?i.
-sukwi(tl)-<x> ??uy'i-c'u;-'a;k-?i; hist-'itl ?ahh p'atqw-sac-'is-uk-?i;
+sukwi(tl)-<x> ??uy'i-c'u;-?a;k-?i; hist-'itl ?ahh p'atqw-sac-'is-uk-?i;
 
 # 159
 kwisaqsit?atl?al.
@@ -709,7 +709,7 @@ wik wa'ich-utl
 
 # 177
 heey, huuxs'atu, sukwi'atl ??uy'aak?i tlaqmisuk?i,
-~ hu:xs'atu sukwi(tl)-ʽatl ??uy'i-'a;k-?i; tlaqmis-uk-?i;
+~ hu:xs'atu sukwi(tl)-ʽatl ??uy'i-?a;k-?i; tlaqmis-uk-?i;
 
 # 178
 c'ichitl ?ahh qwis ?ucpaa'atl ?ahh tuch'iicpa'i, [east side].
@@ -729,7 +729,7 @@ his-taq-shi(tl)-it-qu: ?ahh hita-aqtlil
 
 # 182
 hu'acaqsit, qwaaqchiik'atl ?ahh'aa ??umaa'ap, ??uy'aak?i, tlaqmisuk?i.
-hu'a-ca;qs-it qwa:-qchik-L-ʽatl ?ahh'a: ??uma:-'ap ??uy'i-'a;k-?i; tlaqmis-uk-?i;
+hu'a-ca;qs-it qwa:-qchik-L-ʽatl ?ahh'a: ??uma:-'ap ??uy'i-?a;k-?i; tlaqmis-uk-?i;
 
 # 183
 c'a'akshi'atltla
@@ -813,7 +813,7 @@ kwis-sila-ʽatl hupal ?u-cpa;-nu(tl)-ʽatl-uk ?ahh
 
 # 203
 ?atqwin ?ucpaa'ak ?ahh hupal.
-?at-qwin ?u-cpa;-'a;k ?ahh hupal
+?at-qwin ?u-cpa;-?a;k ?ahh hupal
 
 # 204
 ?ucpintl ?ahh qacuut'at?i.
