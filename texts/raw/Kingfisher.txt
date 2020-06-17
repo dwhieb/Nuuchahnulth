@@ -29,7 +29,7 @@ wal-yu; ma:qtusi:s wi:hha:qsusi:s
 
 # 007
 ?u'iiyachishtckwi wiihhaaqsusiis, t'ayuukwitl, kuunaa.
-?u-'i;ya-achisht-ckwi; wi:hha:qsusi:s t'ayu:-kwi(tl) ku:na:
+?u-?i;ya-achisht-ckwi; wi:hha:qsusi:s t'ayu:-kwi(tl) ku:na:
 
 # 008
 wik ?iihh. wikckwii ?iihh.
@@ -105,7 +105,7 @@ kwis-hhi;-p'al ch'a'ak
 
 # 026
 waa, ?uushyuuyatl ?ahh'aa, tea, ?u'iic'ap'at, naqshitl.
-wa: ?u:sh-yu:ya-ʽatl ?ahh'a: ~ ?u-'i;ch-ʽap-ʽat naq-shi(tl)
+wa: ?u:sh-yu:ya-ʽatl ?ahh'a: ~ ?u-ʽi;ch-ʽap-ʽat naq-shi(tl)
 
 # 027
 ?ayimsckwak, mamaln'i piskit, xhaxhashk'uk waanaa, xhaxhashk'uk.
@@ -245,7 +245,7 @@ wi:hha:qsusi:s ?u-kla;
 
 # 061
 chuu, tl'aa'inu'at'al, tl'aa'intl, n'u??asaqhh, ??aahhuus, hitaaqtlis.
-chu: tl'a:-'inu-ʽatl-?a;l tl'a:-'in(tl) n'u??asaqhh ??a:hhu:s hita:qtlis
+chu: tl'a:-?inu-ʽatl-?a;l tl'a:-?in(tl) n'u??asaqhh ??a:hhu:s hita:qtlis
 
 # 062
 ch'itaapi ?uhh walyuu.
@@ -305,7 +305,7 @@ n'a:csi:-chi(tl) qu:?as-?i;
 
 # 076
 paway'in kuunaa. paway'in.
-pawal-'in ku:na: pawal-'in
+pawal-ʽin ku:na: pawal-ʽin
 
 # 077
 n'aacsiichitl, hhamipshitl qwikwi'ch?itq, kinchooch?athhiicckwi.
@@ -353,7 +353,7 @@ hhampi-shi(tl)-?i;sh yaqw-?ich-?i;tq qu:?as-?i; wa;-ʽatl ka'up-shi(tl)-ʽat ka'
 
 # 088
 ?uyi'ichim tliihhshitl tuupshi'atlquu.
-?uyi-'i;chim tlih-L-shi(tl) tu:pshi(tl)-ʽatl-qu:
+?uyi-ʽi;chim tlih-L-shi(tl) tu:pshi(tl)-ʽatl-qu:
 
 # 089
 waa tlihhshitl.
@@ -397,7 +397,7 @@ y'imqimy'u:tl-ni;sh wa; p'ishaq-?i;sh ?i:qhh-y'ak
 
 # 099
 shitlstiis'ichim waa'atl.
-shitl-sti;s-'i;chim wa;-ʽatl
+shitl-sti;s-ʽi;chim wa;-ʽatl
 
 # 100
 shitlstiis'atl. shitlstiis'atl.
@@ -725,7 +725,7 @@ k'ahh-kwa-chi(tl) ch'apac
 
 # 183
 tla'asitwa'ish hiy'iis ?ahh'aa. yaaqwil'anitii'aal waa'at, tlaakishpi'il. tlaakishipi'il. [totem pole.]
-tla-ʽas-it-wa;?i;sh hil-'i;s ?ahh'a: yaqw-il-ʽat-it-(y)i:-?a:l wa;-ʽat tlakish-pi-`il tlakish-pi-`il ~
+tla-ʽas-it-wa;?i;sh hil-`i;s ?ahh'a: yaqw-il-ʽat-it-(y)i:-?a:l wa;-ʽat tlakish-pi-`il tlakish-pi-`il ~
 
 # 185
 c'awaak nay'aqak ?uuhhuulitwa'ish.
@@ -801,7 +801,7 @@ hu'a-ca-chi(tl) nachiqs wala:k
 
 # 203
 Tofino ?u'iiyachisht
-~ ?u-'i;ya-achisht
+~ ?u-?i;ya-achisht
 
 # 204
 hinaachi'atl tla'uukwi'athh. hinaachitl, minwaa'ath'i.
@@ -877,7 +877,7 @@ si:k-shi(tl)
 
 # 222
 tlihhshitl waa'ap'is,
-tlihh-shi(tl) wa;-ʽap-'i;s
+tlihh-shi(tl) wa;-ʽap-ʽi;s
 
 # 223
 tliihhshitl, qwaamitii ?inkwasitquu. ?inkwasckwimatak?atl, pitish'athh.
