@@ -1,3 +1,3 @@
 # Search
 
--'[^(atl)]
+-'(?!(atl)|(i;chhh))\b
