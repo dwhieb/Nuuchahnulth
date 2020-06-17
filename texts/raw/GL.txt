@@ -117,7 +117,7 @@ He had another name.
 # 017
 histaqshitl tl'ic'aa'athh, tl'ic'aa'athh. yaq?atl?itq [James Adams], [Carl Jumbo].
 his-taq-shi(tl)     tl'ic'a:?athh tl'ic'a:?athh yaq-'atl-'i;tq [~] [~]
-there-come.from-MOM NAME          NAME          ??-??-??       [~] [~]
+there-come.from-MOM NAME          NAME          yaq-FIN-REL.3  [~] [~]
 came.from           NAME          NAME          which          [~] [~]
 He was from _ƛ̓ic̓aaʔatḥ_—from which James Adams and Carl Jumbo came.
 
@@ -138,8 +138,8 @@ So was the one whose name was _w̓iikinaniš_—he was from Kelsomat.
 # 020
 ?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya??atl?itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
 ?a:nahha-'atl ?in  kwa:tya nani;qsu-'a;k   nani;qsu-'a;k-'i;tq    his-taq-shi(tl)     yaq'atl-'i;tq-'a;l ?achaq m'ukwina m'ukwina ?a:sha:sh-taqiml ?u-kla;
-FIN-??        that NAME    granparent-POSS grandparent-POSS-REL.3 there-come.from-MOM who-FIN.REL.3-PL   who    NAME     NAME     NAME-family      it-having.as.name
-FIN-??        that NAME    her.grandparent her.grandparent        came.from           ones.who           who    NAME     NAME     ʔaašaaš.clan     being.named
+??-FIN        that NAME    granparent-POSS grandparent-POSS-REL.3 there-come.from-MOM who-FIN.REL.3-PL   who    NAME     NAME     NAME-family      it-having.as.name
+??-FIN        that NAME    her.grandparent her.grandparent        came.from           ones.who           who    NAME     NAME     ʔaašaaš.clan     being.named
 _kwaatya_'s grandparent was from the lineage of Maquinna—by the name of _ʔaašaaš_ clan.
 
 # 021
@@ -634,7 +634,7 @@ suuchitl waa. [Eight hours], ?atlakwal. [Eight hours] qum'aa.
 
 # 094
 [Union manchi'atl], [union man]
-[Union man-chi(tl)-'atl'] ~
+[Union man-chi(tl)-'atl] ~
 
 # 095
 ?ahh'aatltla chaani wikpal hink'uu'as
