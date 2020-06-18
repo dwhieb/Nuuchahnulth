@@ -1,7 +1,7 @@
 ---
 title:
   en:         Afterbirth
-  nuk:        cʼaḥwackʷi
+  nuk:        c'aḥwackʷi
 abbreviation: Afterbirth
 ID:           CL11
 ---

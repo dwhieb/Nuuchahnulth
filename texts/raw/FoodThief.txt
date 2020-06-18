@@ -1,7 +1,7 @@
 ---
 title:
   en:         Never take food away from animals
-  nuk:        qʷiinuuƛḥiič wiiyʼaat hawʼaaḥinʔat saštup
+  nuk:        qʷiinuuƛḥiič wiiy'aat haw'aaḥinʔat saštup
 abbreviation: FoodThief
 ID:           CL9
 ---
