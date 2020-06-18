@@ -9,7 +9,7 @@ ID:           CL5
 hashiy'inchitlwa?ish kwiikwistupsamitch'a ?an hintshitlis. hashiichitl muwaachm'it.
 
 # 002
-ha wim'aaqtls qwistuupsap'atquus, waa?ic'atl. ?uun'ahhiichitl?aqtl, ?un'aahhshitl qwis'aahhii hitachinkshitl.
+ha wim'aaqtls qwistuupsap'atquus, waa?ic'atl. ?uun'ahhiichitl?aqtl, ?un'aahhshitl qwis?aahhii hitachinkshitl.
 
 # 003
 ?uuwatl ?atlc'iq tl?uch'umckwi, waa m'uksy'i.
@@ -21,10 +21,10 @@ t'iiqwaan'usatl matlaak, chamaasitl?is
 kwiitlkwiichitl tl?uch'umckwi?i muwaachm'it.
 
 # 006
-wik qiiyas. tlawins'ii?at kwisaathh chakup.
+wik qiiyas. tlawins?ii?at kwisaathh chakup.
 
 # 007
-ha mamuuk?ick muwaachm'eet, waa?atl kwisaathh'i.
+ha mamuuk?ick muwaachm'eet, waa?atl kwisaathh?i.
 
 # 008
 ?aaqichiilk?
@@ -33,28 +33,28 @@ ha mamuuk?ick muwaachm'eet, waa?atl kwisaathh'i.
 ha wik?alk ?anch hintshitlis kwiikwistupsapch'a, waa?atl muwaachm'it.
 
 # 010
-?aqis'aqtlk hinatshi?atquuk, waa?atltla kwisaathh'i.
+?aqis?aqtlk hinatshi?atquuk, waa?atltla kwisaathh?i.
 
 # 011
 ch'ii??aqiichitl?aqtls ?uuhhw'al ?ahh yaaqwiilqs ch'iimam'inhh, wim'aaqtl?ats kwistuupsap'at, waa?atl muwaachm'it yaaxmalapap ch'iimam'inhhuk?i.
 
 # 012
-ha wi?ak?is'ick quu?as.
+ha wi?ak?is?ick quu?as.
 
 # 013
-chaa n'an'aan'ich'apis ch'iimam'inhhuk?itk waa?atl kwisaathh'i.
+chaa n'an'aan'ich'apis ch'iimam'inhhuk?itk waa?atl kwisaathh?i.
 
 # 014
 hinii ch'iimam'inhhuk?i muwaachm'it.
 
 # 015
-sukwitl ch'iimam'inhh'i kwisaathh'i. n'an'aan'ichshitl kwiiscmalsna??aal.
+sukwitl ch'iimam'inhh?i kwisaathh?i. n'an'aan'ichshitl kwiiscmalsna??aal.
 
 # 016
-ha ?aanaak?ick, waa?atl kwisaathh'i.
+ha ?aanaak?ick, waa?atl kwisaathh?i.
 
 # 017
-chukwaa, n'amilshi?ik qwaacumyiik hihilcut'atquuk t'uhhc'iti, waawalpichhh'atl?at chachatcut'um?ap'at tl?uch'umckwim'inhh'i muwaachm'it.
+chukwaa, n'amilshi?ik qwaacumyiik hihilcut'atquuk t'uhhc'iti, waawalpichhh?atl?at chachatcut'um?ap'at tl?uch'umckwim'inhh?i muwaachm'it.
 
 # 018
 sukwi?atl?atuk kwiy'akuk?i m'uksy'i.
@@ -63,7 +63,7 @@ sukwi?atl?atuk kwiy'akuk?i m'uksy'i.
 kwiiscaapu?i, waa?atl?attla muwaachm'it.
 
 # 020
-chatas'aktlinup'at m'uksy'aak?i kwich'ak pihhshitl kwisaathh'i.
+chatas?aktlinup'at m'uksy'aak?i kwich'ak pihhshitl kwisaathh?i.
 
 # 021
 tuutuupkapi?ish waa?atl ?uhhtaa m'uksy'i?i.
@@ -72,7 +72,7 @@ tuutuupkapi?ish waa?atl ?uhhtaa m'uksy'i?i.
 sukwitl kwickwii?i, tu?ala?ap m'uksy'i?i.
 
 # 023
-tl?uhhas'aktlinu?at.
+tl?uhhas?aktlinu?at.
 
 # 024
 chuu, cha?aalchi, mukw'aaqtl?itl.
@@ -81,16 +81,16 @@ chuu, cha?aalchi, mukw'aaqtl?itl.
 muwachshi?atl?ick.
 
 # 026
-?ahh'aa qwis\hhitwa?ish muwachshitl muwaachm'it.
+?ahh?aa qwis\hhitwa?ish muwachshitl muwaachm'it.
 
 # 027
-yaacshitl kwisaathh'i.
+yaacshitl kwisaathh?i.
 
 # 028
 ?uuwa?atltla ??at'uum'it ?uxwaapiqiil.
 
 # 029
-tlawa?ii kwisaathh'i.
+tlawa?ii kwisaathh?i.
 
 # 030
 ha, mamuuk?ick, ?aaqichiilk, waa?atl?at ??at'uum'it.
@@ -111,7 +111,7 @@ chaa, n'an'aan'ichap'is qwaa?akiik.
 sukwi?atuk ?uxwaapi ??at'uum'it.
 
 # 036
-n'an'aan'ichshitl kwisaathh'i ?uxwaapi?i.
+n'an'aan'ichshitl kwisaathh?i ?uxwaapi?i.
 
 # 037
 ?aanaak?ick tlul, waa?atl?at ??at'uum'it.
@@ -123,7 +123,7 @@ kwiiscaapu?i.
 t'aaqaak kwiiscaaputl ??at'uum'it.
 
 # 040
-chatas'aktlinup'at ?uxwaapak?i ??at'uum'it, tl?uhhas'aktlinu?at.
+chatas?aktlinup'at ?uxwaapak?i ??at'uum'it, tl?uhhas?aktlinu?at.
 
 # 041
 chuu, cha?aalchi susachishtutl.

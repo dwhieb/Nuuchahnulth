@@ -60,8 +60,8 @@ he.had.had.a.child
 He had had a child (who is no longer alive).
 
 # 009
-m'aan'uu?is'athh kinhhuul hhaw'il chaamat'a,
-m'a:n'u:?is'athh kinhhu:l hhaw'il cha:mat'a
+m'aan'uu?is?athh kinhhuul hhaw'il chaamat'a,
+m'a:n'u:?is?athh kinhhu:l hhaw'il cha:mat'a
 Manhousaht NAME chief chief
 _kinḥuuɬ_ was a Manhousaht chief.
 
@@ -80,8 +80,8 @@ having all.along.the.mountains
 He owned the mountains.
 
 # 012
-?ahh'aatl, yaqukwitiis tla?uu naniiqsu,
-?ahh'a:-ʼatl yaq-ukw-it-(y)i:s tla?u: nani;qsu
+?ahh?aatl, yaqukwitiis tla?uu naniiqsu,
+?ahh?a:-ʼatl yaq-ukw-it-(y)i:s tla?u: nani;qsu
 then-FIN who-POSS-PAST-INDF.1SG another grandparent
 then who.was.my another grandparent
 Then there was another grandparent.
@@ -168,8 +168,8 @@ it.was.snowing
 It was snowing.
 
 # 025
-\trs-en [month of February], 1912 ?uyimts, ?uyickwisa ?ahh'aa qu?iichitl
-\m ~ ~ ?uyi-imt-s ?uyi-ckwi;-sa ?ahh'a: qu?i:chi(tl)
+\trs-en [month of February], 1912 ?uyimts, ?uyickwisa ?ahh?aa qu?iichitl
+\m ~ ~ ?uyi-imt-s ?uyi-ckwi;-sa ?ahh?a: qu?i:chi(tl)
 \gl ~ ~ at.the.time-PAST-1SG at.the.time-happened-1SG that be.born
 \lit ~ ~ I.did.at.that.time I.did.at.the.time that be.born
 \tln Month of February, 1912—that's when I was born.
@@ -290,7 +290,7 @@ it.was.prohibited speaking
 We weren't allowed to talk (in our native language).
 
 # 043
-wikyaaminish tl?up'iichhhatlquu ?acyuu?atlqin suuhhaa, ?u?u'iihh cuw'it,
+wikyaaminish tl?up'iichhhatlquu ?acyuu?atlqin suuhhaa, ?u?u?iihh cuw'it,
 wik-y'a;-ʼap-it-nish tl?up-`i;chhh-ʼatl-qu: ?ac-yu;-ʼatl-qwin su:hha: DUP-?u-ʼi:hh cuw'it
 not-troubled.by-CAUS-PAST-IND.1PL warm-season.of-FIN-COND.3 go.out.fishing-done-FIN-COND.1PL spring.salmon ???-it-pursuing coho.salmon
 it.didn't.take.effect.on.us during.summer when.we.were.out.fishing spring.salmon gathering coho.salmon
@@ -304,7 +304,7 @@ ling.cod sometimes catch
 Sometimes we got cod
 
 # 045
-waa ?ahh'aatl ??ay'iichhh ?aya muwach susaa, suusilaya
+waa ?ahh?aatl ??ay'iichhh ?aya muwach susaa, suusilaya
 wa; ?ahh?a:-ʼatl ??ay'i:chhh ?aya muwach sus-(y)a; sus-il-aya
 and then-FIN autumn many deer swim-CONT swim-??-continuously.doing
 and then autumn many deer swimming continuously.swimming
@@ -346,7 +346,7 @@ be.out.hunting ~ be.out.hunting ~ with.reference.to.which white.man say NAME at 
 I was out fishing at Quatsiino
 
 # 051
-waa c'u?ichhh, ch'aastimc ?u?u'iihh, sashtup qwaq?iitq haptuup, waaxnii, tl?itl?ihhiy'uuhh, ch'aty'a yaaqwil?itq waa?at tlapisum, racoon
+waa c'u?ichhh, ch'aastimc ?u?u?iihh, sashtup qwaq?iitq haptuup, waaxnii, tl?itl?ihhiy'uuhh, ch'aty'a yaaqwil?itq waa?at tlapisum, racoon
 wa; c'u?ichhh ch'a:stimc DUP-?u-ʼi:hh sa-shtu;p qwaq-?i;tq hap-tu;p wa:xni: tl?itl?ihhiy'uuhh, ch'aty'a yaqw-(ch)il-?i;tq wa;-ʼat tlapisum ~
 and winter mink ???-it-hunting crawl-species what-REL.3 fur-species land.otter martin racoon which-with.reference.to-REL.3 say-SHIFT racoon ~
 and winter mink gathering animal whatever fur.bearing.animal land.otter martin racoon with.reference.to.which it.is.called racoon ~
@@ -359,7 +359,7 @@ and we.never.lack we.eat eating food.from.deep.water
 We never lack food to eat from low tide.
 
 # 053
-hhaa?iisatlquu ch'iitaa?at, y'a?isi ?u?u'iihh?at
+hhaa?iisatlquu ch'iitaa?at, y'a?isi ?u?u?iihh?at
 hha:?i:satl-qu: ch'i:t-(y)a;-ʼat y'a?isi DUP-?u-ʼi:hh-ʼat
 tide.gets.low-COND.3 digging.clams-CONT-SHIFT butter.clam ???-it-collecting-SHIFT
 when.tides.are.low digging.clams butter.clam collect.it
@@ -394,7 +394,7 @@ we.never.lack
 We never ran out of things.
 
 # 058
-?um'aack?al, ?u?u'iihh tl?ihhapiihh, ?i?ishpaal, ?i?ishpaal
+?um'aack?al, ?u?u?iihh tl?ihhapiihh, ?i?ishpaal, ?i?ishpaal
 ?um'a:ck-?a;l DUP-?u-ʼi:hh tl?ihhapi:hh ?i?ishpa:l ?i?ishpa:l
 often-PL ???-it-hunting red.snapper (fish.name) (fish.name)
 they.often gathering red.snapper ~ ~
@@ -422,8 +422,8 @@ it.might.be.because.of made.of Son.of.Gum.Woman
 This (the fact that _ʔiʔišpaaɬ_ tastes like pitch gum) is because _ʔiʔišpaaɬ_ is made of pitch gum.
 
 # 062
-?ahh'aa chaanaatls himwic'iichitl qwishhitiich
-?ahh'a: cha:na:tl-s  himwic'a-`i;chi(tl)   qwis-(q)hh-it-(y)i:-ch
+?ahh?aa chaanaatls himwic'iichitl qwishhitiich
+?ahh?a: cha:na:tl-s  himwic'a-`i;chi(tl)   qwis-(q)hh-it-(y)i:-ch
 then    at.first-1SG story-INC             do.so-SIM-PAST-INDF.3-INF
 then    I.do.for.now start.telling.a.story what.happened
 Now I have started telling a story about what happened.
@@ -450,7 +450,7 @@ got.married Son.of.Gum.Woman
 Son of Gum Woman got a wife.
 
 # 066
-?acyuu?atl?uuch ?u?u'iihh tl?ihhapiihh.
+?acyuu?atl?uuch ?u?u?iihh tl?ihhapiihh.
 ?ac-yu;-ʼatl-qu:-ch                DUP-?u-ʼi:hh   tl?ihhapi:hh
 go.out.fishing-done-FIN-COND.3-INF ???-it-hunting red.snapper
 would.be.out.for.food              gathering      red.snapper
@@ -557,8 +557,8 @@ it.became.another.year doing.the.same going.repeatedly.to NAME
 The following year I did the same thing going back to the same place at Quatsino.
 
 # 082
-?ahh'aatl 1930, wik'iitshitl mamums
-?ahh'a:-ʼatl ~ wik'i:t-shi(tl) mamums
+?ahh?aatl 1930, wik'iitshitl mamums
+?ahh?a:-ʼatl ~ wik'i:t-shi(tl) mamums
 then-FIN ~ absent-MOM work
 then ~ become.none work
 And then in 1930, there was no work.
@@ -610,8 +610,8 @@ for.long thus
 It was like that for a long time.
 
 # 090
-?ahh'aatl 1940, hu?aqhhshi?atl, 1940
-?ahh'a:-ʼatl ~ hu?a-(q)hh-shi(tl)-ʼatl ~
+?ahh?aatl 1940, hu?aqhhshi?atl, 1940
+?ahh?a:-ʼatl ~ hu?a-(q)hh-shi(tl)-ʼatl ~
 then-FIN ~ back-SIM-MOM-FIN ~
 then ~ it.got.better ~
 Then in 1940, it got better.
@@ -637,8 +637,8 @@ suuchitl waa. [Eight hours], ?atlakwal. [Eight hours] qum'aa.
 [Union man-chi(tl)-ʼatl] ~
 
 # 095
-?ahh'aatltla chaani wikpal hink'uu?as
-?ahh'a:-ʼatl-tla; cha:ni wik-pal hink'u:?as
+?ahh?aatltla chaani wikpal hink'uu?as
+?ahh?a:-ʼatl-tla; cha:ni wik-pal hink'u:?as
 
 # 096
 kwisilatl,
@@ -659,7 +659,7 @@ DUP-?aya-i:p DUP-?aya-i:p hil-na; ni:w'a kwaci:nu
 ?atl-c'iq yaq-uk-it-(y)i:s na?i:q ~ ~ DUP-qu-qs
 
 # 100
-?uqs'atlqin 200 [dog salmon], 3000
+?uqs?atlqin 200 [dog salmon], 3000
 qu-qs-ʼatl-qwin ~ ~ ~
 
 [p. 187]
@@ -669,8 +669,8 @@ wik'aqtlit ?qahh qwaqtlitii
 wik-ʼaqtl-it  ?ahh qwa-ʼaqtl-it-(y)i:
 
 # 102
-?ahh'aa ?uunichhn'ak chaanaat qiiyuukw'als qaay'uukw'athh hil qii, [4 years]
-?ahh'a: ?unic-hhn'a;k cha:na:t  qi:-(y)u;kw'al-s  qa:y'u:kw'athh hil qi:  ~
+?ahh?aa ?uunichhn'ak chaanaat qiiyuukw'als qaay'uukw'athh hil qii, [4 years]
+?ahh?a: ?unic-hhn'a;k cha:na:t  qi:-(y)u;kw'al-s  qa:y'u:kw'athh hil qi:  ~
 
 # 103
 ?uuncpanach qaay'uukw'athh mamuuk
@@ -679,8 +679,8 @@ wik-ʼaqtl-it  ?ahh qwa-ʼaqtl-it-(y)i:
 [p. 188]
 
 # 104
-?ahh'aatls hu?acachitl hiistanam?atls Saballas t'ashiis, [saw mill] ?ukwiilna
-?ahh'a:-ʼatl-s hu?a-ca-chi(tl) hist-anam-ʼatl-s ~ t'ashi:s ~ qu'(kw)i:l-na;
+?ahh?aatls hu?acachitl hiistanam?atls Saballas t'ashiis, [saw mill] ?ukwiilna
+?ahh?a:-ʼatl-s hu?a-ca-chi(tl) hist-anam-ʼatl-s ~ t'ashi:s ~ qu-(kw)i:l-na;
 
 # 105
 qii?atl 1945, 1945
@@ -693,8 +693,8 @@ qi:-ʼatl ~ ~
 [p. 189]
 
 # 107
-?unaakit?ish mill, [Gordon Gibson], [Matilda Creek], ??aahhuus'athh hil
-?u-na;k-it-?i;sh ~ ~ ~ ??a:hhu:s'athh hil
+?unaakit?ish mill, [Gordon Gibson], [Matilda Creek], ??aahhuus?athh hil
+?u-na;k-it-?i;sh ~ ~ ~ ??a:hhu:s?athh hil
 
 # 108
 mamuukshitlna ?uyi February
@@ -740,17 +740,17 @@ na?u:k ?ac-shi(tl)-na; ?aya-a:tl su:hha: ~ ?uyi ~ ?aya
 \n There is no utterance 116. That number was skipped in the original texts.
 
 # 118
-?ahh'aatl ?unic hawii?atl. [Dog salmon] ?u?u'iihh
-?ahh'a:-ʼatl ?unic hawi:(tl)-ʼatl ~ DUP-?u-ʼi:hh
+?ahh?aatl ?unic hawii?atl. [Dog salmon] ?u?u?iihh
+?ahh?a:-ʼatl ?unic hawi:(tl)-ʼatl ~ DUP-?u-ʼi:hh
 
 # 119
-na?uuqs'aqtl?ick siichil [p. 193] waa?atl?ats [George Sye]
+na?uuqs?aqtl?ick siichil [p. 193] waa?atl?ats [George Sye]
 na?u;-qs-ʼaqtl-?ick si-(ch)il wa:-ʼatl-ʼat-s ~
 
 [p. 193]
 
 # 120
-herring ?u?u'iihhaqtlnish, tlusmit
+herring ?u?u?iihhaqtlnish, tlusmit
 ~ DUP-?u-ʼi:hh-ʼaqtl-ni;sh tlusmit
 
 # 121
@@ -790,12 +790,12 @@ mamuukluucsaam'iihh
 mamu:k lu:csa:m'i:hh
 
 # 129
-waa ?ahh'aatl, walshitl
-wa; ?ahh'a:-ʼatl wal-shi(tl)
+waa ?ahh?aatl, walshitl
+wa; ?ahh?a:-ʼatl wal-shi(tl)
 
 # 130
-chaani?aqtls walshitl, walshi?atls [p. 196] ??aahhuus'athh
-cha:ni-ʼaqtl-s wal-shi(tl) wal-shi(tl)-ʼatl-s ??a:hhu:s'athh
+chaani?aqtls walshitl, walshi?atls [p. 196] ??aahhuus?athh
+cha:ni-ʼaqtl-s wal-shi(tl) wal-shi(tl)-ʼatl-s ??a:hhu:s?athh
 
 [p. 196]
 
@@ -818,8 +818,8 @@ qi:-s wal-yu;
 ~ hil Alberni
 
 # 135
-?ahh'aatls, yaqukwiis ?aasiiqsu walaak'i p'aachiina waa?atl?ats ch'aapaciilw'it'as
-?ahh'a:-ʼatl-s yaq-uyk-(y)i:s ?a:si:qsu wala:k-?i; p'a:chi:na wa:-ʼatl-ʼat-s ch'apac-i:l-w'it'as
+?ahh?aatls, yaqukwiis ?aasiiqsu walaak'i p'aachiina waa?atl?ats ch'aapaciilw'it'as
+?ahh?a:-ʼatl-s yaq-uyk-(y)i:s ?a:si:qsu wala:k-?i; p'a:chi:na wa:-ʼatl-ʼat-s ch'apac-i:l-w'it'as
 
 # 136
 [6 months] hil p'aachiina ch'apac ?usiik
@@ -828,7 +828,7 @@ qi:-s wal-yu;
 [p. 198]
 
 # 137
-hil?atl?ish tlahh ch'apac?i [Wiikinanash Lodge]. hiil?atl?ish ?ahh'aa.
+hil?atl?ish tlahh ch'apac?i [Wiikinanash Lodge]. hiil?atl?ish ?ahh?aa.
 hil-ʼatl-?i;sh tlahh ch'apac-?i; ~
 
 # 138
@@ -868,8 +868,8 @@ huu?ak?atlquus mamuuk.
 hu:?ak-ʼatl-qu:s mamu:k
 
 # 146
-?ahh'aatls ?ahh huhhtakshitl ?in ?ucuk nana?at, huhhtakmahhsatquu,
-?ahh'a:-ʼatl-s ?ahh huhhtak-shi(tl) ?in ?u-cuk DUP-na?a;-ʼat huhhtak-mahhsa-ʼat-qu:
+?ahh?aatls ?ahh huhhtakshitl ?in ?ucuk nana?at, huhhtakmahhsatquu,
+?ahh?a:-ʼatl-s ?ahh huhhtak-shi(tl) ?in ?u-cuk DUP-na?a;-ʼat huhhtak-mahhsa-ʼat-qu:
 
 [p. 201]
 
@@ -892,16 +892,16 @@ hhayu-q?ichhh-shi(tl)-s ~ ~
 [p. 202]
 
 # 151
-?ahh'aatls chaanis ?ucachitl Denmark, [?85].
-?ahh'a:-ʼatl-s cha:ni-s ?u-ca-chi(tl) ~ ~
+?ahh?aatls chaanis ?ucachitl Denmark, [?85].
+?ahh?a:-ʼatl-s cha:ni-s ?u-ca-chi(tl) ~ ~
 
 # 152
-?ahh'aatls [graduated in ?87]
-?ahh'a:-ʼatl-s ~
+?ahh?aatls [graduated in ?87]
+?ahh?a:-ʼatl-s ~
 
 # 153
-hiist'i?atls ?ahh'aa hil ?ahh
-hist-ʼi-ʼatl-s ?ahh'a: hil ?ahh
+hiist'i?atls ?ahh?aa hil ?ahh
+hist-ʼi-ʼatl-s ?ahh?a: hil ?ahh
 
 # 154
 ?a?um?atliis hawii?atl University
@@ -993,7 +993,7 @@ waa ?aya ma-mal-n'i; tlatlu: huihhtak-shi(tl)-ʼi:hh-mahhsa ~
 
 # 173
 ?ahh?aa qwaa?ap'atls, huuhhtakshiihhap
-?ahh'a: qwa:-ʼap-ʼatl-s huhhtak-shi:hh-ʼap
+?ahh?a: qwa:-ʼap-ʼatl-s huhhtak-shi:hh-ʼap
 
 # 174
 wiiy'as hhaahhuupa ?uukwil ?a?ashxhwaquu
@@ -1017,8 +1017,8 @@ yaaqwil?itq [private parts of our body] qaan'im waanaa
 yaqw-(ch)il-?i;tq ~ qa:n'im wa:-na;
 
 # 179
-?ahh'aa, hiishilsa huhhtak ??aa??imt'at [p. 210] ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa?at ch'alch'a, hishuk ch'alch'a
-?ahh'a: hish-(ch)il-sa huhhtak DUP:-??imt-ʼat ?usit-ʼat-qin ?una-`ichi(tl)-qin hist-ʼitl t'uhhc'iti hapsy'up hap-ca;sqi; hhu:l tlishtlin DUP-ch'isa;q-hhtim wa;-ʼat ch'alch'a hish-uk ch'alch'a
+?ahh?aa, hiishilsa huhhtak ??aa??imt'at [p. 210] ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa?at ch'alch'a, hishuk ch'alch'a
+?ahh?a: hish-(ch)il-sa huhhtak DUP:-??imt-ʼat ?usit-ʼat-qin ?una-`ichi(tl)-qin hist-ʼitl t'uhhc'iti hapsy'up hap-ca;sqi; hhu:l tlishtlin DUP-ch'isa;q-hhtim wa;-ʼat ch'alch'a hish-uk ch'alch'a
 
 [p. 210]
 
@@ -1033,5 +1033,5 @@ wa; kukwinksi hil-?i; ch'alch'a
 [p. 211]
 
 # 182
-?ahh'aa ?uuna?ish. k'aac'itls
-?ahh'a: qu:na-?i;sh k'ac-ʼitl-s
+?ahh?aa ?uuna?ish. k'aac'itls
+?ahh?a: qu:na-?i;sh k'ac-ʼitl-s

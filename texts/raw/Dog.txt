@@ -4,7 +4,7 @@ abbreviation: Dog
 ID:           GL9
 ---
 # 001
-qwaa?atl ??iniitl, yaaqtlst'al ?uy'iihha, ?unaak?is'al hilhh'iitq, ??imsshitl.
+qwaa?atl ??iniitl, yaaqtlst'al ?uy'iihha, ?unaak?is?al hilhh?iitq, ??imsshitl.
 
 # 002
 ?ahh ?unaak?al, hhahhumt'uu, ?uushc'aluk sashtup hitacpa.
@@ -16,7 +16,7 @@ qwaatlaa ?uushiic?atlquu ??iniitl ?unaakquuk tlaqimy'as. wik'ap hiniip, kaamat??
 wiiqch'ap, yaaqtlst'al?al, ??iniitl.
 
 # 005
-rrrr waa. ??iniitl, hinqaa. rrrr qwayaatuk ?ahh'aa.
+rrrr waa. ??iniitl, hinqaa. rrrr qwayaatuk ?ahh?aa.
 
 # 006
 y'uuqwaa chims. rrrr.
@@ -70,7 +70,7 @@ wiiqhhii, wiiqhhap'atlquuch, hisshitl.
 muwach'athh hilhh, quu?as hhaw'ilaq.
 
 # 023
-machintl quu?as'i, hhaaw'ilatl.
+machintl quu?as?i, hhaaw'ilatl.
 
 # 024
 ?aana?inhhatlnish suutil, waa.
@@ -79,7 +79,7 @@ machintl quu?as'i, hhaaw'ilatl.
 ?aana?inhhatlnish suutil.
 
 # 026
-heey, qwiyimtii yaacshitl quu?as'i.
+heey, qwiyimtii yaacshitl quu?as?i.
 
 # 027
 ?um'aack wik tlawachutl.
@@ -94,7 +94,7 @@ heey, k'uu?ulshi?atlquuch.
 tl?aa?iis walaak'ap'at.
 
 # 031
-hii, n'aacsaatl, ?in ch'ihhshi?at quu?as'i.
+hii, n'aacsaatl, ?in ch'ihhshi?at quu?as?i.
 
 # 032
 ch'ihhshi?at.
@@ -124,7 +124,7 @@ wiiy'aats qwaa?ap'at, hhaw'ilukqs, yaqwaciis ??iniitl, hhaw'ilukqs, waa.
 ?aaphhii?ats. wiichhhii?aks.
 
 # 041
-maa, waa?at, quu?as'i.
+maa, waa?at, quu?as?i.
 
 # 042
 maa.
@@ -169,7 +169,7 @@ qii, kwiscachi?atlquuch ??iniitl?i.
 hayimhhat qwi?iicii.
 
 # 056
-?ahh'aa?atl?anitwa?ish. hhaaw'iihhatl, kwiikwiisahhi, hihinatahhshi?at.
+?ahh?aa?atl?anitwa?ish. hhaaw'iihhatl, kwiikwiisahhi, hihinatahhshi?at.
 
 # 057
 hii hat'iisckwi?aal.
@@ -184,10 +184,10 @@ hil?atl hhaa.
 qwaa?amitii tl?upaamitquu.
 
 # 061
-qwa?is ?ahh'aa chuupi, quu?as'i.
+qwa?is ?ahh?aa chuupi, quu?as?i.
 
 # 062
-tlawa?ii hhaaw'iihhatl?i, ?e'hheiik! waa.
+tlawa?ii hhaaw'iihhatl?i, ?e?hheiik! waa.
 
 # 063
 sukwitl, k'ac\hhaq?i, yaq?ich?itq.
@@ -253,7 +253,7 @@ qwi?iickwi?itk ?uyiisuuk.
 ?uyiisuu ??iniitluk?itqsuu.
 
 # 084
-?iiqhhukw'atl qwis'anit?itq.
+?iiqhhukw'atl qwis?anit?itq.
 
 # 085
 hhimchi?anit, ?in kin'uckwachyimt ?uush ??iniitl.
