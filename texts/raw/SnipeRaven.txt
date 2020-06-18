@@ -1,7 +1,7 @@
 ---
 title:
   en:         Snipe fed fish eggs to Raven
-  nuk:        qʷiyuyiič n'iw'inɬ waasniipm'it ʔuukʷiɬ quʔušinm'it
+  nuk:        qʷiyuyiič n̓iw̓inɬ waasniipm̓it ʔuukʷiɬ quʔušinm̓it
 abbreviation: SnipeRaven
 ID:           CL4
 ---

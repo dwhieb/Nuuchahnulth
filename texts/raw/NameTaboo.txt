@@ -1,7 +1,7 @@
 ---
 title:
   en:         How names used to get tabooed
-  nuk:        qʷisḥitiiʔaaɬ č'ič'iiḥɬiičiƛ ʕimtii
+  nuk:        qʷisḥitiiʔaaɬ č̓ič̓iiḥɬiičiƛ ʕimtii
 abbreviation: NameTaboo
 ID:           CL15
 ---

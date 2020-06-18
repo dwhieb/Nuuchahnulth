@@ -1,7 +1,7 @@
 ---
 title:
   en:         Transformer
-  nuk:        kʷiikʷistupsamitč'a
+  nuk:        kʷiikʷistupsamitč̓a
 abbreviation: Transformer
 ID:           CL5
 ---
