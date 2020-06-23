@@ -7,51 +7,68 @@ ID:           CL11
 ---
 # 001
 ?aamuml?atlquu nay'aqak, ?ayaakit?aal qwaqwaa?aahhii ?uuksna??aal c'ahhwackwi. ?an ?uutaqit?aal walyaqilhh.
+?am-uml-'atl-qu: nay'aqak ?aya-?a*k-it-?a:l DUP.CV-qwa:-'a:hh-(y)i: ?u-ksna??a:l c'ahhwackwi ?an ?u-taq-it-?a:l wal-yaq-`il-(q)hh
 
 # 002
 c'uy'iitap'atl, wik, ?anasila c'uy'iitap wahhshitl.
+c'us-'i*tap-'atl wik ?ana-sila c'us-'i*tap wahh-shitl
 
 # 003
 ?uuksna??aal?atlquu qwiima??ukmahhsa?itq hhaakwaatl. tl?a??iiksap t'ut'unaxk'uk, pic'up, ch'itapt. qwiq?iitq pika?uuqiily'ak (paaskitiily'ak). tl?a??iiksap'atl, c'uy'iitap'atl.
+?u-ksna??a:l-'atl-qu: qwi-ma??uk-mahhsa-?i*tq hha:kwa*tl tl'a??i:k-sa*p t'ut'unaxk'uk pic'up ch'itapt qwiq-?i*tq pika?u:q-i:l y'akw pa:skit-i:l-y'akw tl'a??i:k-sa*p-'atl c'us-'i*tap-'atl
 
 # 004
 wik, ?aanasilasa, ciciqinkhh?atl qwaa?ap.
+wik ?ana-sila-sa ciq-inkw-(q)hh-'atl qwa:-'ap
 
 # 005
 waa hhaaw'iihhatl y'uuqwaa, hiihiiqshahhap'at y'uuqwaa.
+wa* hha:w'i:hhatl y'u:qwa: hi:hi:q-shahhap-'at y'u:qwa:
 
 # 006
 ?uuwink'ap'at chiicy'akshtup, qwaaqhhcum?itq wiicahhi ?u?$1?$2ihh?atlquu muwach hihiqtup.
+?u-wink-'ap-'at chi:c-y'akw-shtu*p qwa:-(q)hh-cum-?i*tq wica-hhi* ?u-'i:hh-'atl-qu: muwach hihiq-tu*p
 
 # 007
 y'uuqwaa ?uuksna??aal?at c'uy'iitapw'it'as?atlquu c'ahhwackwi. y'uuqwaa ch'iima, qwiima??ukmahhsap'at?itq ??aak??aakwa.
+y'u:qwa: ?u-ksna??a:l-'at c'us-'i*tap-w'it'as-'atl-qu: c'ahhwackwi y'u:qwa: ch'i:ma qwi-ma??uk-mahhsa-'ap-'at-?i*tq ??akw-(y)a
 
 # 008
 ?ahh?aa qwisit?aal huu?ak ?uyi.
+?ahh?a: qwis-it-?a:l hu:?ak ?uyi
 
 # 009
 tlaahhc'a ?iiqhhiimit qwaa?ap.
+tlahh-c'a ?iq-hhi*-mit qwa:-'ap
 
 # 010
 ?uukwil huhhtak hhaakwaatl histaqshitl ??aahhuus?athh.
+?u-kwil huhhtak hha:kwa*tl his-taq-shitl ??a:hhu:s?athh
 
 # 011
 qiichi?atl y'uuqwaa tliistliisa lawyer-chi?atl.
+qi:-chitl-'atl y'u:qwa: tli:s-(y)a lawyer-chitl-'atl
 
 # 012
 ?uuqstiickwap'atuk piipaa ?uhh?iish tliisy'ak, c'uy'iitap'at.
+?u-aqsti*-ckwi*-'ap-'at-uk pi:pa: ?uhh?i:sh tli:sy'ak c'us-'i*tap-'at
 
 # 013
 waa qwisukwits y'uuqwaa yaqukwiis step-daughter.
+wa* qwis-uk-it y'u:qwa: yaq-uk-(y)i:s ~
 
 # 014
 tl?axhy'ak ?uuqstii?ap'atuk naniiqsak.
+tl'axh-y'akw ?u-aqsti*-'ap-'at-uk nani*qsu-?a*k
 
 # 015
 ?aanaatl hiihiiqshahhap, tl?aaxhtl?aaxha.
+?a:na-'atl hi:hi:q-shahhap tl'axh-(y)a
 
 # 016
 ?uusaahhatl y'uuqwaa wiicahhi qwaachiil?anit.
+?u-sa*hhi-'atl y'u:qwa: wica-hhi* qwa:-chi:l-'at-it
 
 # 017
 chuu.
+chu:
