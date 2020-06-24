@@ -6,118 +6,119 @@ ID:           GL3
 # 001
 maa?ak maa?uk maa?ukwis ha?umn'ahh.
 ma:?ak ma:?uk ma:?uk-?is ha?um-n'a*hh
-
+Gray.whale travel travel-DIM food-seeking
 
 # 002
 maa?ak histaqshitl?al t'aqsii?il.
 ma:?ak his-taq-shi(tl)-?a*l t'aqsi:?il
-
+Gray.whale there-come.from.MOM-PL southern.area
 
 # 003
 n'aach'alukw'atlquuch quu?as tl?aqapt n'aacsa tl?aqswaas?atlquu ?a?um ??iilmakt.
 n'ach-'aluk-'atl-qu:-ch qu:?as tl?aqapt n'a:csa tl?aq-swi*-'as-'atl-qu: ?a?um ??i:lmakt
-
+see-looking.after-FIN-COND-INF person plants see grow-extending.through-on.the.ground-FIN-COND at.first nettle
 
 # 004
 chuu, waa quu?as?i hhamat tl?aqswaas?atl?ish ??iilmakt.
 chu: wa* qu:?as-?i* hhamat tl?aq-swi*-'as-'atl-?i*sh ??i:lmakt
-
+now.then and person-DEF plain grow-extending.through-on.the.ground-FIN-IND.3 nettle
 
 # 005
 tl?aqshi?atl?eesh.
 tl?aq-shi(tl)-'atl-?i*sh
-
+grow-MOM-FIN-IND.3
 
 # 006
 ?uyi maa?ak pisshitl yaacshitl histaqshitl kalapooliyaquu.
 ?uyi ma:?ak pis-shi(tl) ya:c-shi(tl) his-taq-shi(tl) kalapo:liya-qu:
-
+at.that.time Gray.whale move-MOM walk-MOM there-come.from-MOM California-COND
 
 # 007
 maa?ak ?u?iic tlichhhsa, cacak'is.
 ma:?ak qu-'i*c tlichhhsa cacak'is
-
+Gray.whale it-eat plankton razor.clam
 
 # 008
 tlaan'ul qimalitwa?ish?al maa?ak.
 tla:n'ul qim-al-it-wa*-?i*sh-?a*l ma:?ak
-
+barnacle ??-attached.on-on.the.body-say-IND.3-PL Gray.whale
 
 # 009
 qwaawaa?ish qwaa?iitq quu?as ch'ihhsuuqtliich.
 qwa:-wa*-?i*sh qwa:-?i*tq qu:?as ch'ihh-su*qtl-(y)i:-ch
-
+thus-say-IND.3 thus-REL.3 person spirit-inside.the.body-INDF-INF
 
 # 010
 wihhi?utlwa?ish?aal maa?ak  ?uushyuuya.
 wihhi-'u*tl-wa*-?i*sh-?a:l ma:?ak ?u:sh-yu:ya
-
+on.dry.land-on.the.rocks-QUOT-IND.3-always Gray.whale some-at.the.time
 
 # 011
 wik'iitutl?al tlaan'ul qwichisituusii ?usit'at?i.
 wik'i:t-utl-?a*l tla:n'ul qwi-chis-it-u:si-(y)i: ?usit-'at-?i*
-
+absent-MOM-PL barnacle that.which-??-on.the.body-REL.DUB.3-INDF body-POSS-DEF
 
 # 012
 puumalitutlwa?ish?aal y'uuqwaa qwaa?iitq quu?as.
 pu:mal-it-utl-wa*-?i*sh-?a:l y'u:qwa: qwa:-?i*tq qu:?as
-
+itching-on.the.body-MOM-QUOT-IND.3-always also thus-REL.3 human
 
 # 013
 haatkhaatkmi?a m'uukuuk?i m'uukuukquu.
 DUP#-hatk-mi*?a m'u:ku:k-?i* m'u:ku:k-qu:
-
+IT-roll-move.on.the.rock rock-DEF rock-COND
 
 # 014
 hitaatap k'a?aqmis haatkhaatkwa.
 hita-?a*ta-'ap k'a?aqmis DUP#-hatkw-(y)a
-
+LOC-lacking-CAUS rubbish IT-roll-REP
 
 # 015
 ?ac?in ?uklaa?akwa?ish hiy'ahhs?itq.
 ?ac-?in ?u-kla:-?ak-wa*-?i*sh hil-'ahhs-?i*tq
-
+go.out.hunting-costume.for it-having.as.name-POSS-QUOT-IND.3 LOC-in.a.vessel-REL.3
 
 # 016
 chuu, yaacaa yaacshitl.
 chu: ya:c-(y)a* ya:c-shi(tl)
-
+now.then walk-DUR walk-MOM
 
 # 017
 wihhisatl ma?as?i
 wihhi-sa(tl) ma?as-?i*
-
+on.dry.land-on.the.beach village-DEF
 
 # 018
 maa?ukwis. qun'aahh champ'uuqsquu quu?as maatmaas.
 ma:?uk-?is ?u-n'a*hh cham-p'u*qs-qu: qu:?as ma:tma:s
-
+travel-DIM it-seeking good-smelling.of-COND person villages
 
 # 019
 huu?akitwa?ish?aal tlimkshitl quu?as
 hu:?ak-it-wa*-?i*sh-?a:l tlimk-shi(tl) qu:?as
-
+early-PAST-QUOT-IND.3-always awake-MOM person
 
 # 020
 huu?aksy'uuch. wiky'uuquu k'aa?in cilshitl hilaasc'a.
 hu:?ak-sy'u:ch wiky'u:-qu: k'a:?in cil-shi(tl) hil-a*sc'a
-
+early-exposed? before-COND crow drop.droppings-MOM LOC-on.the.roof
 
 # 021
 taakshitl n'ach'uu?as mixtuk?i nawaay'as.
 ta:kshitl n'ach-'u*(tl)-'as mixtuk-?i* nawa*s-'as
-
+always see-on.the.rocks-outdoors aged-DEF sitting.idly-outdoors
 
 # 022
 wik'iituk?al ??i??iqat??in.
 wik'i:t-uk-?a*l DUP-??iqat-??in
-
+absent-DUR-PL DISTR-drip-make.sound
 
 # 023
 ?uuktis?al hhaay'iis muulis?atlquu.
 ?u-ktis-?a*l hha:y'i:s mu:l-?is-'atl-qu:
-
+it-acting.by.reference.to-PL low.tide tide.is.up-on.the.beach-FIN-COND
 
 # 024
 n'aach'aluk hupal, qwaa?uuc.
 n'ach-'aluk hupal qwa:?u:c
+see-looking.after moon moon
