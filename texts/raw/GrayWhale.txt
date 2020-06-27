@@ -6,12 +6,12 @@ ID:           GL3
 # 001
 maa?ak maa?uk maa?ukwis ha?umn'ahh.
 ma:?ak ma:?uk ma:?uk-?is ha?um-n'a*hh
-Gray.whale travel travel-DIM food-seeking
+gray.whale travel travel-DIM food-seeking
 
 # 002
 maa?ak histaqshitl?al t'aqsii?il.
 ma:?ak his-taq-shi(tl)-?a*l t'aqsi:?il
-Gray.whale there-come.from.MOM-PL southern.area
+gray.whale there-come.from.MOM-PL southern.area
 
 # 003
 n'aach'alukw'atlquuch quu?as tl?aqapt n'aacsa tl?aqswaas?atlquu ?a?um ??iilmakt.
@@ -31,17 +31,17 @@ grow-MOM-FIN-IND.3
 # 006
 ?uyi maa?ak pisshitl yaacshitl histaqshitl kalapooliyaquu.
 ?uyi ma:?ak pis-shi(tl) ya:c-shi(tl) his-taq-shi(tl) kalapo:liya-qu:
-at.that.time Gray.whale move-MOM walk-MOM there-come.from-MOM California-COND
+at.that.time gray.whale move-MOM walk-MOM there-come.from-MOM California-COND
 
 # 007
 maa?ak ?u?iic tlichhhsa, cacak'is.
 ma:?ak qu-'i*c tlichhhsa cacak'is
-Gray.whale it-eat plankton razor.clam
+gray.whale it-eat plankton razor.clam
 
 # 008
 tlaan'ul qimalitwa?ish?al maa?ak.
 tla:n'ul qim-al-it-wa*-?i*sh-?a*l ma:?ak
-barnacle ??-attached.on-on.the.body-say-IND.3-PL Gray.whale
+barnacle ??-attached.on-on.the.body-say-IND.3-PL gray.whale
 
 # 009
 qwaawaa?ish qwaa?iitq quu?as ch'ihhsuuqtliich.
@@ -51,7 +51,7 @@ thus-say-IND.3 thus-REL.3 person spirit-inside.the.body-INDF-INF
 # 010
 wihhi?utlwa?ish?aal maa?ak  ?uushyuuya.
 wihhi-'u*tl-wa*-?i*sh-?a:l ma:?ak ?u:sh-yu:ya
-on.dry.land-on.the.rocks-QUOT-IND.3-always Gray.whale some-at.the.time
+on.dry.land-on.the.rocks-QUOT-IND.3-always gray.whale some-at.the.time
 
 # 011
 wik'iitutl?al tlaan'ul qwichisituusii ?usit'at?i.

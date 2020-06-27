@@ -8,233 +8,234 @@ ID:           CL7
 # 001
 hhakwatlnakitwa?ish?al ma?ayil?i.
 hhakwatl-na*k-it-wa*?i*sh-?a*l ma-?ayil-?i*
-
+daughter-having-PAST-QUOT.3-PL dwell-in.a.house-DEF
 
 # 002
 sach'ica?ap'atlquuch ?uksna??aal ??iniitl, ?atquu hawilshitlshi?i?aal ??iilchsna??aal, wawaa?at nananiqsak.
 sach'ica-'ap-'atl-qu:-ch ?u-ksna??a:l ??ini:tl ?at-qu: hawil-shi(tl)-shi(tl)-?a:l ??ilch-sna??a:l wawa:-'at DUPCV-nani*qsu-?a*k
-
+unceasingly-MOMCAUS-FINITE-COND-INF.3 it-handling dog although-COND finish-MOM-MOM-always dog-playing.with say-SHIFT REP-grandparent-POSS
 
 # 003
 wik ?umaap.
 wik ?u-ma:p
-
+not it-paying.attention.to
 
 # 004
 hhaakwaatlshitl. takaa ??iilchsna??aal.
 hha:kwa*tl-shi(tl) taka: ??ilch-sna??a:l
-
+girl-MOM still dog-playing.with
 
 # 005
 liciitshitl hhaakwaatl?i, licw'isa.
 lici:t-shi(tl) hha:kwa*tl-?i* licw'isa
-
+pregnant-MOM girl-DEF give.birth.to.illegitimate.child
 
 # 006
 nay'aqnakshitl muu?ak, ??iniitlm'inhhuk.
 nay'aq-na*k-shi(tl) mu:-?a*k ??ini:tl-m'inhh-uk
-
+baby-having-MOM four-POSS dog-PL-POSS
 
 # 007
 y'umhhaa?atl ma?ayil?i.
 y'umhh-a*-'atl ma-?ayil-?i*
-
+ashamed-DUR-FINITE dwell-in.a.house-DEF
 
 # 008
 shiitlukw'ap'at c'awaa?athh?ap'at.
 shi:tluk-'ap-'at c'awa*-'athh-'ap-'at
-
+move-MOMCAUS-SHIFT one-residing-MOMCAUS-SHIFT
 
 # 009
 ?anaschi?athh maaty'aqakuk?i ??iniitlm'inhh?i.
 ?ana-schi-'athh na:ty'aqak-uk-?i* ??ini:tl-m'inhh-?i*
-
+only-along.with-residing babes-POSS-DEF dog-PL-DEF
 
 # 010
 c'awaakhh?at ?uu?aalukw'at na?iiqsak?i n'atln'ash?at, haa?umity'apshiil?at.
 c'awa:k-(q)hh-'at ?u-'a*luk-'at na?i*qsu-?a*k-?i* DUPCVtl-n'ash-'at ha?um-i*ty'a*p-shi:l-'at
-
+one-SIM-SHIFT she-looking.after-SHIFT uncle-POSS-DEF SPOR-go.to.see-SHIFT food-bring.as.gift-IT-SHIFT
 
 # 011
 ?a?iiwachitl ??iniitlm'inhh?i.
 DUPCV-?i*hhw-`a*chi(tl) ??ini:tl-m'inhh-?i*
-
+REP-large-INC dog-PL-DEF
 
 # 012
 nitinqsatl ?um?iiqsu?i ch'iitaaw'it'as.
 hita-inq-`sa(tl) ?um?i*qsu-?i* ch'i:t-a*-w'it'as
-
+LOC-down.a.slope-on.the.beach mother-DEF
 
 # 013
 wik'ap'at qii?is ch'iitaa, na?iichitl nunuuk?i.
 wik-'ap-'at qi:-`is ch'i:t na?a*-`i*chitl nunu:k-?i*
-
+not-MOMCAUS-SHIFT for.long-on.the.beach digging.claims-DUR hear-INC singing-DEF
 
 # 014
 n'ashitl?as?aahhs waa?atl.
 n'ash-i(tl)-'a*s-'a:hh-s wa*-'atl
-
+go.to.see-MOM-go.in.order.to-perhaps-1SG say-FINITE
 
 # 015
 ?a?imshtip'atl?atquuch tlaawulshitl hiy'athh?itq, wik??atlshi?atlquuch nunuuk?i.
 ?a?im-shti*p-'atl-'at-qu:-ch tlawa-ul-shi(tl) hil-'athh-?i*tq wik-??atl-shi(tl)-qu:-ch nunu:k-?i*
-
+immediately-do.while-FINITE-SHIFT-COND-INF.3 near-place.of-MOM there-residing-REL.3 not-make.sound-MOM-COND-INF.3 singing-DEF
 
 # 016
 ??aasiqnakshi?atl. tlasan'ap ch'iity'akuk?i laqaqtinup lihhiyasum?ak?i.
 ??a*siq-na*k-shi(tl)-'atl tla-san'ap ch'i:t-y'akw-uk-?i* laqw-aqti-nup lihhiyasum-?a*k-?i*
-
+plan-having-MOM-FINITE sticking.up-on.the.beach digging.claims-instrument-POSS-DEF throw.soft.yielding.mass-covering-MOMCAUS cape-POSS-DEF
 
 # 017
 k'uuqshitl, y'akii?itl mahht'ii?ak?i.
 k'u:q-shitl y'ak-i:?i(tl) mahht'i:-?a*k-?i*
-
+sneak-MOM in.view-enter.the.house house-POSS-DEF
 
 # 018
 yaayaasumyilwa?ish hhathhaan'ahh hapumy'umm'inhhuk?i, nunuuk huyaalaqa.
 DUPCV-ya:s-yuml-`il-wa*?i*sh DUPCVt-hhan'ahh hapumy'um-m'inhh-uk-?i* nunu:k huya:l-aqa
-
+REP-there-all.over-in.the.house-QUOT.3 DISTR-naked fur-PL-POSS-DEF singing dance-severally.doing
 
 # 019
 nuuknaak?al. tl?ahh?ee, tl?ahh?ee ?iqismoo ch'iitaa ?um?ee, tl?ahh?ee, wawaa?ak.
 nu:k-na*k-?a*l tl'ahh-'i* tl'ahh-'i* ?iq-`is-?i*sh ch'i:t-a* ?um?i tl'ahh-'i* wawa:-?a*k
-
+song-having-PL not.crying-IMP not.crying-IMP still-on.the.beach-IND.3 digging.claims-DUR mother not.crying-IMP say-POSS
 
 # 020
 ?u?ukwink?al y'uukwiiqsusa?i, ??iihh?iik?i.
 DUPCV-?u-kwinkw-?a*l y'u:kwi:qsu-sa-?i* ??ihh-'i:k-?i*
-
+DISTR?-he-converse.with-PL younger.brother-real-DEF cry-always.doing-DEF
 
 # 021
 kamatqwii?itl ?um?iiqsu?i sukwitl hapumy'amum?i t'i?uup ?inkwil?i.
 kamatqw-i:?i(tl) ?um?i*qsu-?i* sukwi(tl) hapumy'amum-?i* t'i-'u*p ?inkw-`il-?i*
-
+running-enter.the.house mother-DEF take animal.fur-DEF throw-in.the.fire.MOMCAUS fire-on.the.floor-DEF
 
 # 022
 ?uushnaakshitl ?um?iiqsu?i, hhaaw'iihhatl.
 ?u:sh-na*k-shi(tl) ?um?i*qsu-?i* hha:w'i:hhatl
-
+some-having-MOM mother-DEF boys
 
 # 023
 tl?aqachitl?al kwikwistupaq?al kwiisahhim'inhh.
 tl'aq-achitl-?a*l DUPCV-kwis-tu*p-aq-?a*l kwi:sahhi-m'inhh
-
+grow-INC?-PL DISTR?-different-thing-very-PL good.hunter-PL
 
 # 024
 c'istuup ?uukwiilnakshit'al ?u?uutahhshitl maa?ak.
 c'istu*p ?u-kwi:l-na*k-shi(tl)-?a*l ?u-tahh-shi(tl) ma:?ak
-
+rope it-make-having-MOM-PL it-trying.to.get-MOM gray.whale
 
 # 025
 c'isan'ap'atl c'istuupuk?i.
 c'is-san'ap-'atl c'istu*p-uk-?i*
-
+rope-on.the.beach.MOMCAUS-FINITE rope-POSS-DEF
 
 # 026
 muulshitl luuch'aaniya. wa?ichutlwa?ish?al.
 mu:l-shi(tl) lu:ch'-a*n-iya wa?ich-utl-wa*?i*sh-?a*l
-
+tide.is.up-MOM evening-??-?? sleeping-MOM-QUOT.3-PL
 
 # 027
 katlhhshitl n'achn'isatl?al.
 katlhh-shitl n'ach-n'i-`sa(tl)-?a*l
-
+daylight-MOM look-down.the.slope?-on.the.beach-PL
 
 # 028
 yaayiswa?ish ?ahh maa?ak.
 ya:l-`is-wa*?i*sh ?ahh ma:?ak
-
+there-on.the.beach-QUOT.3 this gray.whale
 
 # 029
 n'itlkwaqshitl?al. hitinqsatl.
 n'itlkwaq-shi(tl)-?a*l hita-inq-`sa(tl)
-
+excited-MOM-PL LOC-down.a.slope-on.the.beach
 
 # 030
 chuu qwis?aqtlin hashiiy'ap maschum?akqin ya??atqin wima??in?ap'at, waanaak'atl.
 chu: qwis-?aqtl-in hashi*-y'ap maschum-?a*k-qin yaqw-'at-qin wima??in-'ap-'at wa*-na*k-'atl
-
+OK do.so-FUT-1PL knowing.about-MOMCAUS tribesmen-POSS-REL.1PL he.who-SHIFT-REL.1PL unwanted-MOMCAUS-SHIFT say-having-FINITE
 
 # 031
 ch'i?atapnak?al tukwaq ?uhh?iish tl?aaq.
 ch'i-?atu-'ap-na*k-?a*l tukwaq ?uhh?i:sh tl'a:q
-
+cut-come.off-MOMCAUS-having-PL skin and animal.fat
 
 # 032
 t'imisanup'atlquuch tukwaq?i. wiksila.
 t'i-misa-nupu-'atl-qu:-ch tukwaq-?i* wik-sila
-
+throw-on.top-MOMCAUS-FINITE-COND-INF.3 skin-DEF not-act.like
 
 # 033
 ?uyaatluk muup'itshi?atl?itq t'imisanup matshitluk, maamaatichitluk.
 ?uyi-'a*tl-uk mu:-p'it-shi(tl)-?i*tq t'i-misa-nup mat-shi(tl)-uk ma:ma:ti-chi(tl)-uk
-
+at.that.time-FIN?-POSS foud-times-MOM-REL.3 throw-on.top-MOMCAUS fly-MOM-POSS bird-MOM-POSS
 
 # 034
 tl?upkaksawip tl?aaq.
 tl'upk-aksu(l)-awip tl'a:q
-
+peck-at.lips-MOMCAUS animal.fat
 
 # 035
 cha?aalchi ?ucahhtachitl hhuu matshitl, waa?atl ?uhhtaa maamaati?i, ?uuwatl?aqtl?ick luucma hiln'iis ??ihhak. t'iwa??aqis?ap'um ?ahh tl?aaq?ii, ?ahh?aa?atlsuuk hu?acachitl matshitl.
 cha?a:l-chi* ?u-ca-hhta-chi(tl) hhu: mat-shi(tl) wa*-'atl ?u-hhta* ma:ma:ti-?i* ?u-(w)a(tl)-?aqtl-?ick lu:cma hil-n'i*-`is ??ihh-ak t'i-(w)a??aq-`is-'ap-um ?ahh tl'a:q-?i* ?ahh?a:-'atl-su:k hu?a-ca-chi(tl) mat-shi(tl)
-
+??-go.and it-go.to-apart-MOM over.there fly-MOM say-FINITE it-doing.to bird-DEF she-find-FUT-IND.2SG woman there-down.a.slope-on.the.beach cry-DUR throw-beside-on.the.beach-MOMCAUS-FUT.IMP.2SG>3 this animal.fat-DEF then-FINITE-2SG back-go.to-MOM fly-MOM
 
 # 036
 t'aaqaak matshitl maamaati?i. hinasitl qwis?atl waa?anit?itq t'iwa??aqsan'ap ??ihhakyaqis?i luucma tl?aaq?ii. hu?acachitl matshitl.
 t'a:qa:k mat-shitl ma:ma:ti-?i* hin-as-itl qwis-'atl wa*-'at-it-?i*tq t'i-(w)a??aq-san'ap ??ihh-ak-yaq-`is-?i* lu:cma tl'a:q-?i* hu?a-ca-chitl mat-shitl
-
+obeying fly-MOM bird-DEF there-reaching.to-MOM do.so-FINITE say-SHIFT-PAST-REL.3 throw-beside-on.the.beach.MOMCAUS cry-DUR-done-on.the.beach-DEF woman animal.fat-DEF back-go.to-MOM fly-MOM
 
 # 037
 n'achiis?atl luucma?i ?an ?ucahhtachitl qwica?amit?itq?al ??ilchnaakshitlit?i.
 n'ach-i*s-'atl lu:cma-?i* ?an ?u-ca-hhta-chitl qwi-ca-'ap-it-?i*tq-?a*l ??ilch-na*k-shitl-it-?i*
-
+look-following?-FINITE woman-DEF that it-go.to-out.to.sea-MOM that.which-go.to-MOMCAUS-PAST-REL.3-PL dog-having-MOM-PAST-DEF
 
 # 038
 kamatqshitl walshitl ?uyaqhhnak.
 kamatqw-shitl wal-shitl ?uyaqhh-na*k
-
+running-MOM go.home-MOM news-having
 
 # 039
 n'ashitl na?iiqsu?i.
 n'ash-itl na?i*qsu-?i*
-
+go.to.see-MOM uncle-DEF
 
 # 040
 wik qiikwaal. ?uyaqhhnak hu?in, ta?isuk?ish?al maa?ak.
 wik qi:-kwa*l ?uyaqhh-na*k hu?a-in ta-`is-uk-?i*sh-?a*l ma:?ak
-
+not for.long-absent news-having back-come drifting-on.the.beach-POSS-IND.3-PL gray.whale
 
 # 041
 yuuxtshitl ma?as?i tl?iptkshitl. hu?acachitl?as?al.
 yuxt-shitl ma?as-?i* tl'iptkw-shitl hu?a-ca-chitl-'a*s-?a*l
-
+prepare.for.departure-GRAD village-DEF pack.up-MOM back-go.to-MOM-about.to-PL
 
 # 042
 tliihhshit?al.
 tlihh-shitl-?a*l
-
+traveling.in.vessel-GRAD-PL
 
 # 043
 wik saya?ii, n'aacsiichitl hiy'athh?itq ??ilchnaakshitlit?i.
 wik saya*-?i: n'a:csi:-chitl hil-'athh-?i*tq ??ilch-na*k-shitl-it-?i*
-
+not far.off-reach spotted-MOM there-residing-REL.3 dog-having-MOM-PAST-DEF
 
 # 044
 ?uyaasilatl n'aas.
 ?uya:-sila-'atl n'a:s
-
+strange-act.like-FINITE day
 
 # 045
 wiiqsiichitlaq. wiktum?al hinasitl.
 wi:qsi:-chitl-aq wik-tum-?a*l hin-as-itl
-
+stormy-MOM-very not-PAST?-PL there-reaching.to-MOM
 
 # 046
 hishsuutl?al halmiihha wiiq?intl.
 hish-su:tl-?a*l halmi*hha wi:q-?intl
-
+all-die-PL drowned stormy-caught.in
 
 # 047
 hhaahhuupay'ak — ?unw'iitlhh?atwa?ish wiiy'aat laakwiil?at yaa??aalchiqhh?at?itq quu?as. hha?ukwitl?aal n'aas.
 hha:hhu:p-(y)a*-y'akw — ?unw'i:tl-(q)hh-'at-wa*?i*sh wyi:y'a-'at lakw-i:l-'at yaqw-'a*lchiqhh-'at-?i*tq qu:?as hha?u-kwitl-?a:l n'a:s
+teaching-REP-thing.for because.of-SIM-SHIFT-QUOT.3 never-SHIFT treat.badly-IT-SHIFT he.who-together.with-SHIFT-REL.3 person do.in.turn-MOM-always creator

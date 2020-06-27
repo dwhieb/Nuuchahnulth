@@ -381,7 +381,7 @@ all-in.a.group-MOMCAUS that.which-eat-CAUS-PAST-INDF.3
 # 076
 kwiikwiisahhickwi muuwach'athh, tl?aaq, ?ayimsuk?al tl?aaq, maa?ak, ha?ukshitl.
 DUP:-kwis-ahhi-ckwi* mu:wach-'athh tl'a:q ?aya-imsuk-?a*l tl'a:q ma:?ak ha?uk-shi(tl)
-DISTR-different-??-having.happened NAME-residing animal.fat many-??-PL animal.fat Gray.whale eat-MOM
+DISTR-different-??-having.happened NAME-residing animal.fat many-??-PL animal.fat gray.whale eat-MOM
 
 # 077
 hishimy'awitl.
