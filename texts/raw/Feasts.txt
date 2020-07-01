@@ -5,6 +5,7 @@ title:
 abbreviation: Feasts
 ID:           CL12
 ---
+
 # 001
 chuu ?uumac'uk?aqtlsish tl?iic'uumis n'ushitl.
 chu: ?u-mac'uk-?aqtl-si*sh tl'i:c'u:-mis n'ushitl
@@ -31,55 +32,66 @@ hiiy'aaqstil?atl yaa t'apathhsak?i.
 hil-'a*qsta-`il-'atl ya: t'apathhsi*-?a*k-?i*
 among.them.in.the.house there their.advisor
 
+
 # 005
 waasqwiicumhh waa.
 wa:sqwi:-cum-hh wa*
 when-should-INTER.3 say
+
 
 # 006
 t'apatshitl?al ?uniccukuusii hishumy'uup'at hihiqtup, n'ushitlw'it'asquu.
 t'apat-shitl-?a*l ?unic-cuk-u:si: hish-uml-'u:p-'at hihiq-tu*p n'ushitl-w'it'as-qu:
 think-MOM-PL time.spent-needing-REL.DUB.3 all-in.a.bunch-MOM.CAUS-SHIFT various-thing distribute-about.to-COND
 
+
 # 007
 chuu n'ushitlw'it'as?atlquu hiishuu?atlquu ya?aayaqhhy'u?itq.
 chu: n'ushitl-w'it'as-'atl-qu: hish-u:-'atl-qu: ya?a*ya-qhhy'u*-?itq
 now.then distribute-about.to-FINITE-COND all-acting.together-FINITE-COND ??-related.to-REL.3
+
 
 # 008
 hishumy'uup qwi?inl?aqtlii.
 hish-uml-'u:p qwi-'inl-?aqtl-(y)i:
 all-in.a.bunch-MOM.CAUS that.which-distributing-FUT-INDF.3
 
+
 # 009
 ?an ?anackwak?aal huu?ak n'itly'ak hhay'um, ch'apac, p'achitly'ak.
 ?an ?ana-ckwi*-?a*k-?a:l hu:?ak n'itly'ak hhay'um ch'apac p'a-chitl-y'akw
 because only-happened-POSS-always long.ago oar bailer canoe give-MOM-thing.for
+
 
 # 010
 hishumyilhh?atl t'apatshitl qwiyucuk?itq, ?uniccukuk?itq?al hishumy'uup hihiqtup.
 hish-uml-`il-(q)hh-'atl t'apat-shitl qwiyu-cuk-?i*tq ?unic-cuk-uk-?i*tq-?a*l hish-uml-'u:p hihiq-tu*p
 all-in.a.group-in.the.house-SIM-FINITE think-MOM when-requiring-REL.3 time.spent-needing-POSS-REL.3-PL all-in.a.bunch-MOM.CAUS various-thing
 
+
 # 011
 n'aacsaat?aal ?ahh t'ut'uchkil k'ac\hhaq tl?itl?ick'uk, qwiquusii.
 n'a:csa-'at-?a:l ?ahh DUPCV-t'uchk-`il k'ac\hhaq tl'itl'ick'uk qwiq-u:si:
 see-SHIFT-always this DISTR-mound-on.the.floor blanket flour that.which-REL.DUB.3
+
 
 # 012
 ?an hhaa?uuyi?aalckwat?aal?al k'ac\hhaq, hapumy'amum?ak sashtup ?ayiichi?atlukquu.
 ?an hha?u:-ayi*-?a:l-ckwi*-'at-?a:l-?a*l k'ac\hhaq hapumy'amum-?a*k sashtup ?aya-`i*chitl-'atl-uk-qu:
 because exchange-give-come.off-happened-SHIFT-always-PL blanket animal.fur-POSS fur-bearing many-INC-FINITE-POSS-COND
 
+
 # 013
 huhhtakshi?atl qwiyu?itq ?u?umhhichitluk.
 huhhtak-shitl-'atl qwiyu-?i*tq ?u?umhhi-chitl-uk
 know.how-MOM-FINITE when-REL.3 enough-MOM-POSS
 
+
 # 014
 ?uushyuuyumt ?a?anumc'u yaqchi?athh?itq.
 ?u:sh-yu:ya-umt DUPCV-?ana-um-c'u* yaq-chi-'athh-?i*tq
 some-at.the.time-PAST DISTR-only-thing-inside who-at-residing-REL.3
+
 
 # 015
 ?uushyuuya haa?in tlatluu?i maatmaas.
