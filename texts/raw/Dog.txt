@@ -18,7 +18,7 @@ this they.have marker forbidden animal go.across
 They have their markings [indicating their territories] and it is against their system to go across the territorial boundary.
 
 # 003
-qwaatlaa ?uushiic?atlquu ??iniitl ?unaakquuk tlaqimy'as. wik'ap hiniip, kaamat??iihhshitl?aal.
+qwaatlaa ?uushiic?atlquu ??iniitl ?unaakquuk tlaqimy'as. wik'ap hiniip, kaamat??iihhshitl'aal.
 qwa:-tla* ?u:sh-i:c-'atl-qu: ??ini:tl ?u-na*k-qu:k tla-qiml-'as wik-'ap hini:p kamatq-'i:hh-shi(tl)-?a:l
 thus-also some-belonging.to-FIN-COND.3 dog it-having-COND.2SG sticking.up-all.about-on.the.ground not-CAUS enter running-pursuing-MOM-always
 also if.it.belongs.to.some.one dog if.you.have put.fence.around dont.do enter always.run.after.it
@@ -207,7 +207,7 @@ heey, k'uu?ulshi?atlquuch.
 He [the chief] whould get a little closer [to reduce the distance expanded as the result of the young man's acceleration and keep up with the young man].
 
 # 030
-tl?aa?iis walaak'ap'at.
+tl'aa?iis walaak'ap'at.
 tl'a:?-a:-`is wala:k-'ap-'at
 outside-on.the.beach go-CAUS-SHIFT
 outer.beach was.taken.to
@@ -298,7 +298,7 @@ here!
 "Here!
 
 # 043
-huhhtakshitl?aqtlick qwaa?at, qwaayii ??iniitl tiich.
+huhhtakshitl'aqtlick qwaa?at, qwaayii ??iniitl tiich.
 huhhtak-shi(tl)-?a*qtl-?ick qwa:-'at qwa:-(y)i: ??ini:tl ti:ch
 know-MOM-FUT-IND.2SG thus-SHIFT thus-INDF.3 dog live
 you.will.know thus.to.him how.it.would.be dog live
@@ -319,7 +319,7 @@ hii, m'uch'ichutl, ??iniitlshitl.
 Wow, he put it on and became a dog.
 
 # 046
-machinttlwa?ish ??iniitl?i.
+machinttlwa?ish ??iniitl'i.
 mach-intl-wa*?i*sh ??ini:tl-?i*
 enter-MOM-QUOT.3 dog-DEF
 entered.the.house the.dog
@@ -347,7 +347,7 @@ lay.on.all.fours for.a.while at.foot.of.the.bed
 He lay on all fours right beside the bed.
 
 # 050
-?aa ?aathhshitl, hinaspitl ?iinitl?i, chim?il? citkpitl.
+?aa ?aathhshitl, hinaspitl ?iinitl'i, chim?il? citkpitl.
 ~ ?athh-shi(tl) hin-as-pi(tl) ??ini:tl-?i* chim?il-?i* citk-pi(tl)
 ~ night-GRAD there.MOM-??-in.the.house dog-DEF bed-DEF lay.down-in.the.house
 ~ it.becomes.night got.on.the.bed the.dog the.bed lay.down.in.the.house
@@ -361,7 +361,7 @@ lay.down.in.the.house
 He lay down.
 
 # 052
-hiitkin?ish ??iniitl?i, waa ch'uushukwitl.
+hiitkin?ish ??iniitl'i, waa ch'uushukwitl.
 hi:tkin-?i*sh ??ini:tl-?i* wa* ch'ush-L-ukw-itl
 strange-IND.3 dog-DEF well suspicious.of-GRAD-DUR-MOM
 it.was.very.odd the.dog well became.suspicious
@@ -375,7 +375,7 @@ became.suspicious
 People became suspicious.
 
 # 054
-qii, kwiscachi?atlquuch ??iniitl?i.
+qii, kwiscachi?atlquuch ??iniitl'i.
 qi: kwis-ca-chi(tl)-'atl-qu:-ch ??ini:tl-?i*
 for.a.long.time different-go.to-MOM-FIN-COND.3-INF dog-DEF
 for.a.long.time would.wander.around
@@ -389,7 +389,7 @@ didnt.know whatever.he.ate
 They didn't know what he ate.
 
 # 056
-?ahh?aa?atl?anitwa?ish. hhaaw'iihhatl, kwiikwiisahhi, hihinatahhshi?at.
+?ahh?aa?atl'anitwa?ish. hhaaw'iihhatl, kwiikwiisahhi, hihinatahhshi?at.
 ?ahh?a:-'atl-'at-it-wa*?i*sh hha:w'i:hhatl DUP-kwis-ahhi DUP-hin-atahh-shi(tl)-'at
 then-FIN-SHIFT-PAST-QUOT.3 young.men-DISTR-different-?? ??-there.MOM-try.to.catch-MOM-SHIFT
 then young.men good.hunters about.to
@@ -417,7 +417,7 @@ there.is there
 There he was.
 
 # 060
-qwaa?amitii tl?upaamitquu.
+qwaa?amitii tl'upaamitquu.
 qwa:-'ap-it-(y)i: tl'up-(y)a*-mit-qu:
 thus-CAUS-PAST-INDF.3 warm-CONT-PAST-COND.3
 so.he.did if.it.was.warm
@@ -431,7 +431,7 @@ thus that bent.over the.man
 The man was like this — stooped over.
 
 # 062
-tlawa?ii hhaaw'iihhatl?i, ?e?hheiik! waa.
+tlawa?ii hhaaw'iihhatl'i, ?e?hheiik! waa.
 tlawa-?i: hha:w'i:hhatl-?i* ?e?hhei:k wa*
 near-reach young.men-DEF INTJ say
 approach the.young.men INTJ say
@@ -529,7 +529,7 @@ while.they.gathered.up whatever.they.serve.them.to.eat
 They [the family of the head chief] gathered whatever things they served to people.
 
 # 076
-kwiikwiisahhickwi muuwach'athh, tl?aaq, ?ayimsuk?al tl?aaq, maa?ak, ha?ukshitl.
+kwiikwiisahhickwi muuwach'athh, tl'aaq, ?ayimsuk?al tl'aaq, maa?ak, ha?ukshitl.
 DUP:-kwis-ahhi-ckwi* mu:wach-'athh tl'a:q ?aya-imsuk-?a*l tl'a:q ma:?ak ha?uk-shi(tl)
 DISTR-different-??-having.happened NAME-residing animal.fat many-??-PL animal.fat gray.whale eat-MOM
 group.of.hunters Mowachaht animal.fat plenty animal.fat gray.whale ate

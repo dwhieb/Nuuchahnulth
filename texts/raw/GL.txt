@@ -115,8 +115,8 @@ have.another name
 He had another name.
 
 # 017
-histaqshitl tl?ic'aa?athh, tl?ic'aa?athh. yaq?atl?itq [James Adams], [Carl Jumbo].
-his-taq-shi(tl)     tl?ic'a:?athh tl?ic'a:?athh yaq-'atl-?i*tq [~] [~]
+histaqshitl tl'ic'aa?athh, tl'ic'aa?athh. yaq?atl'itq [James Adams], [Carl Jumbo].
+his-taq-shi(tl)     tl'ic'a:?athh tl'ic'a:?athh yaq-'atl-?i*tq [~] [~]
 there-come.from-MOM NAME          NAME          yaq-FIN-REL.3  [~] [~]
 came.from           NAME          NAME          which          [~] [~]
 He was from _ƛ̓ic̓aaʔatḥ_—from which James Adams and Carl Jumbo came.
@@ -136,7 +136,7 @@ thus also who.was.w̓iikinaniš late.Kelsomat.man
 So was the one whose name was _w̓iikinaniš_—he was from Kelsomat.
 
 # 020
-?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya??atl?itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
+?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya??atl'itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
 ?a:nahha-'atl ?in  kwa:tya nani*qsu-?a*k   nani*qsu-?a*k-?i*tq    his-taq-shi(tl)     yaq?atl-?i*tq-?a*l ?achaq m'ukwina m'ukwina ?a:sha:sh-taqiml ?u-kla*
 ??-FIN        that NAME    granparent-POSS grandparent-POSS-REL.3 there-come.from-MOM who-FIN.REL.3-PL   who    NAME     NAME     NAME-family      it-having.as.name
 ??-FIN        that NAME    her.grandparent her.grandparent        came.from           ones.who           who    NAME     NAME     ʔaašaaš.clan     being.named
@@ -154,8 +154,8 @@ She was an honorable woman. We call it _ḥakum_.
 \tln    like a princess
 
 # 023
-?uuyimlckwis c'u?ichhh, ?a?im?atl tl?aaqiichitl
-?u-(y)iml-ckwi*-s c'u?ichhh ?a?im-'atl tl?aq-`i*chitl
+?uuyimlckwis c'u?ichhh, ?a?im?atl tl'aaqiichitl
+?u-(y)iml-ckwi*-s c'u?ichhh ?a?im-'atl tl'aq-`i*chitl
 it-be.born-happened-1SG winter first.time-FIN grow-INC
 I.was.born winter did.first started.to.grow
 I was born in winter, at the time when plants first grow.
@@ -290,8 +290,8 @@ it.was.prohibited speaking
 We weren't allowed to talk (in our native language).
 
 # 043
-wikyaaminish tl?up'iichhhatlquu ?acyuu?atlqin suuhhaa, ?u?u?iihh cuw'it,
-wik-y'a*-'ap-it-nish tl?up-`i*chhh-'atl-qu: ?ac-yu*-'atl-qwin su:hha: DUP-?u-'i:hh cuw'it
+wikyaaminish tl'up'iichhhatlquu ?acyuu?atlqin suuhhaa, ?u?u?iihh cuw'it,
+wik-y'a*-'ap-it-nish tl'up-`i*chhh-'atl-qu: ?ac-yu*-'atl-qwin su:hha: DUP-?u-'i:hh cuw'it
 not-troubled.by-CAUS-PAST-IND.1PL warm-season.of-FIN-COND.3 go.out.fishing-done-FIN-COND.1PL spring.salmon ??-it-pursuing coho.salmon
 it.didn't.take.effect.on.us during.summer when.we.were.out.fishing spring.salmon gathering coho.salmon
 It (the ban on using the native language) didn't have an effect on us during the summer, while we were out fishing for salmon, coho.
@@ -346,8 +346,8 @@ be.out.hunting ~ be.out.hunting ~ with.reference.to.which white.man say NAME at 
 I was out fishing at Quatsiino
 
 # 051
-waa c'u?ichhh, ch'aastimc ?u?u?iihh, sashtup qwaq?iitq haptuup, waaxnii, tl?itl?ihhiy'uuhh, ch'aty'a yaaqwil?itq waa?at tlapisum, racoon
-wa* c'u?ichhh ch'a:stimc DUP-?u-'i:hh sa-shtu*p qwaq-?i*tq hap-tu*p wa:xni: tl?itl?ihhiy'uuhh, ch'aty'a yaqw-(ch)il-?i*tq wa*-'at tlapisum ~
+waa c'u?ichhh, ch'aastimc ?u?u?iihh, sashtup qwaq?iitq haptuup, waaxnii, tl'itl'ihhiy'uuhh, ch'aty'a yaaqwil?itq waa?at tlapisum, racoon
+wa* c'u?ichhh ch'a:stimc DUP-?u-'i:hh sa-shtu*p qwaq-?i*tq hap-tu*p wa:xni: tl'itl'ihhiy'uuhh, ch'aty'a yaqw-(ch)il-?i*tq wa*-'at tlapisum ~
 and winter mink ??-it-hunting crawl-species what-REL.3 fur-species land.otter martin racoon which-with.reference.to-REL.3 say-SHIFT racoon ~
 and winter mink gathering animal whatever fur.bearing.animal land.otter martin racoon with.reference.to.which it.is.called racoon ~
 
@@ -394,15 +394,15 @@ we.never.lack
 We never ran out of things.
 
 # 058
-?um'aack?al, ?u?u?iihh tl?ihhapiihh, ?i?ishpaal, ?i?ishpaal
-?um'a:ck-?a*l DUP-?u-'i:hh tl?ihhapi:hh ?i?ishpa:l ?i?ishpa:l
+?um'aack?al, ?u?u?iihh tl'ihhapiihh, ?i?ishpaal, ?i?ishpaal
+?um'a:ck-?a*l DUP-?u-'i:hh tl'ihhapi:hh ?i?ishpa:l ?i?ishpa:l
 often-PL ??-it-hunting red.snapper (fish.name) (fish.name)
 they.often gathering red.snapper ~ ~
 They very often fished for red snappers and _ʔiʔišpaaɬ_.
 
 # 059
-ha?um'ish ?uupi tl?ihhapiihh qwaa?iitq ?i?ishpaal.
-ha?um-?i*sh ?u-(?)a:pi tl?ihhapi:hh qwa:-?i*tq ?i?ishpa:l
+ha?um'ish ?uupi tl'ihhapiihh qwaa?iitq ?i?ishpaal.
+ha?um-?i*sh ?u-(?)a:pi tl'ihhapi:hh qwa:-?i*tq ?i?ishpa:l
 food-IND.3 it-?PASS red.snapper such-REL.3 (fish.name)
 it.is.tasty better red.snapper compared.to
 Red snappers are tastier than _ʔiʔišpaaɬ_.
@@ -450,8 +450,8 @@ got.married Son.of.Gum.Woman
 Son of Gum Woman got a wife.
 
 # 066
-?acyuu?atl?uuch ?u?u?iihh tl?ihhapiihh.
-?ac-yu*-'atl-qu:-ch                DUP-?u-'i:hh   tl?ihhapi:hh
+?acyuu?atl'uuch ?u?u?iihh tl'ihhapiihh.
+?ac-yu*-'atl-qu:-ch                DUP-?u-'i:hh   tl'ihhapi:hh
 go.out.fishing-done-FIN-COND.3-INF ??-it-hunting red.snapper
 would.be.out.for.food              gathering      red.snapper
 He would go out fishing for red snapper.
@@ -464,7 +464,7 @@ do.for.me.at                wake           when.the.sun.is.rising       sun   sa
 He (Son of Gum Woman) said to her (his wife), "Wake me up when the sun is rising."
 
 # 068
-wa?ichswi hhakwaatl?i, wa?ichswi.
+wa?ichswi hhakwaatl'i, wa?ichswi.
 wa?ich-swi* hha:kwa*tl-?i* wa?ich-swi*
 sleeping-extending.through girl-DEF sleeping-extending.through
 sleep.in the.girl sleep.in
@@ -481,8 +481,8 @@ Son of Gum Woman left in a canoe. [He started later than he planned because his 
 \trs "kwatkwatamiyaa yaa ?iishc'iipm'iit"
 
 # 071
-waa?atlhh hupkwista hupal tl?upiichi?atl
-wa*-'atl-(q)hh hupkw-ista hupal tl?up-`i*chi(tl)-'atl
+waa?atlhh hupkwista hupal tl'upiichi?atl
+wa*-'atl-(q)hh hupkw-ista hupal tl'up-`i*chi(tl)-'atl
 and-FIN-SIM roundish.thing-?? sun warm-INC-FIN
 now.it.is the.sun.is.rising sun became.warm
 Now the sun is up and it got warm.
@@ -529,8 +529,8 @@ because.of.this tasting.like.gum
 This is why _ʔiʔišpaaɬ_ tastes like pitch gum.
 
 # 078
-qwaatlaa tl?imcsit ?ishp'al
-qwa:-tla* tl?imcsit ?ish-p'al
+qwaatlaa tl'imcsit ?ishp'al
+qwa:-tla* tl'imcsit ?ish-p'al
 thus-also broth gum-taste.of
 also broth tasting.like.gum
 Its broth also tastes like pitch gum.
@@ -550,7 +550,7 @@ now.then after.some.time that
 Now, some time elapsed.
 
 # 081
-kwiisqshi?atl ?iiqhhap'atltla ?utl?ucach kwaciinu
+kwiisqshi?atl ?iiqhhap'atltla ?utl'ucach kwaciinu
 kwis-q-shi(tl)-'atl ?iq-hhap-'atl-tla* DUP.tl-?u-ca-ch kwaci:nu
 different-??-MOM-FIN same-do?-FIN-again IT-it-go.to-REP NAME
 it.became.another.year doing.the.same going.repeatedly.to NAME
@@ -806,7 +806,7 @@ then in.a.little.while finished ~ gathering
 Then after a while the season for dog salmon ended.
 
 # 119
-na?uuqs?aqtl?ick siichil  waa?atl?ats [George Sye]
+na?uuqs?aqtl'ick siichil  waa?atl'ats [George Sye]
 na?u*-qs-'aqtl-?ick si-(ch)il wa:-'atl-'at-s ~
 accompanying-in.a.vessel-FUT-IND.2SG I-doing.to say-FIN-SHIFT-1SG ~
 you.will.come.along with.me it.was.said.to.me ~
@@ -897,7 +897,7 @@ I.for.long at.home
 I stayed home for a long time.
 
 # 132
-??uyaasatl?in waa?atl?ats Viola
+??uyaasatl'in waa?atl'ats Viola
 ??uya:s-'atl-'in wa:-'atl-'at-s ~
 move-FIN-IMP.1PL say-FIN-SHIFT-1SG ~
 lets.move it.was.said.to.me ~
@@ -918,7 +918,7 @@ We went to Port Alberni.
 We were at Port Alberni for seven years.
 
 # 135
-?ahh?aatls, yaqukwiis ?aasiiqsu walaak'i p'aachiina waa?atl?ats ch'aapaciilw'it'as
+?ahh?aatls, yaqukwiis ?aasiiqsu walaak'i p'aachiina waa?atl'ats ch'aapaciilw'it'as
 ?ahh?a:-'atl-s yaq-uyk-(y)i:s ?a:si:qsu wala:k-?i* p'a:chi:na wa:-'atl-'at-s ch'apac-i:l-w'it'as
 then-FIN-1SG who-POSS-INDF.1SG niece go-IMP.2SG Pachina say-FIN-SHIFT-1SG canoe-make-about.to
 then.I.did who.is.my niece go Pachina it.was.said.to.me about.to.make.a.canoe
@@ -932,7 +932,7 @@ Then my niece said to me, "Go to Pachina and to make a canoe."
 I was in Pachina for six months making a canoe.
 
 # 137
-hil?atl?ish tlahh ch'apac?i [Wiikinanash Lodge]. hiil?atl?ish ?ahh?aa.
+hil?atl'ish tlahh ch'apac?i [Wiikinanash Lodge]. hiil?atl'ish ?ahh?aa.
 hil-'atl-?i*sh tlahh ch'apac-?i* ~ hi:l-'atl-?i*sh ?ahh?a:
 there-FIN-IND.3 now canoe-DEF ~ there.in.a.house-FIN-IND.3 that
 it.is.at now.the.canoe ~ is.is.there that
@@ -967,8 +967,8 @@ completed canoe
 I completed a canoe.
 
 # 142
-[3 months] hils Toronto tl?up'iichhh, [during the summer time]
-~ hil-s ~ tl?up-`i*chhh ~
+[3 months] hils Toronto tl'up'iichhh, [during the summer time]
+~ hil-s ~ tl'up-`i*chhh ~
 ~ there-1SG ~ warm-season.of ~
 ~ I.was.at ~ summer ~
 I was in Toronto for three months during the summer.
@@ -981,8 +981,8 @@ take two three children and grandchild my.wife
 I took two, three children, a grandchild, and my wife.
 
 # 144
-tl?upaa?atlquu Toronto, tl?upnit, tl?upnit
-tl?up-(y)a*-'atl-qu: ~ tl?up-nit tl?up-nit
+tl'upaa?atlquu Toronto, tl'upnit, tl'upnit
+tl'up-(y)a*-'atl-qu: ~ tl'up-nit tl'up-nit
 warm-CONT-FIN-COND.3 ~ warm-place.having warm-place.having
 it.used.to.be.hot ~ hot.place hot.place
 Toronto used to be hot, a hot place.
@@ -1079,8 +1079,8 @@ and during.winter working.with working ~
 And during the winter I have been working with Tom Hess.
 
 # 158
-waa tl?up'iichhh hicnup?al
-wa* tl?up-`i*chhh hicnup-?a*l
+waa tl'up'iichhh hicnup?al
+wa* tl'up-`i*chhh hicnup-?a*l
 and warm-season.of couple-PL
 and summer with.a.couple
 During summer, (I have been working with) a couple.
@@ -1100,7 +1100,7 @@ come.alone ~
 Toshi came alone.
 
 # 161
-?unaaksish ?uushhhy'ims waa?atl?ats Toshi
+?unaaksish ?uushhhy'ims waa?atl'ats Toshi
 ?u-na*k-si*sh ?u:shhhy'ims wa:-'atl-'at-s ~
 it-having-IND.1SG friend say-FIN-SHIFT-1SG ~
 I.have friend it.was.said.to.me ~
@@ -1125,7 +1125,7 @@ you.are.right ~
 "You are doing the right thing."
 
 # 165
-kwiisqshitl?aash ?atlin,
+kwiisqshitl'aash ?atlin,
 kwis-q-shi(tl)-?a:sh ?atla-in
 different-??-MOM-INF.3 two-come
 next.year two.came
@@ -1167,7 +1167,7 @@ it.is.two.years wife
 It has been two years for his wife.
 
 # 171
-[Three years]?atls?al huhhtak Toshi, yaqchiil?atl?itq, [his wife]
+[Three years]?atls?al huhhtak Toshi, yaqchiil?atl'itq, [his wife]
 [three years]-'atl-s-?a*l huhhtak ~ yaq-chi:l-'atl-?i*tq ~
 [three years]-FIN-1SG-PL know ~ who-??-FIN-REL.3 ~
 I.them.for.three.years know ~ his ~

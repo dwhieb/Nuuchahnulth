@@ -55,14 +55,14 @@ get.angry Son.of.Crane that he.got.refused she.didnt.like.him.because.he.was.too
 
 
 # 009
-?inis?aqtl?aahh?ish wiiksaquu waa, waa?atl ??aanism'it.
+?inis?aqtl'aahh?ish wiiksaquu waa, waa?atl ??aanism'it.
 ?inis-?a*qtl-'a:hh-?i*sh wik-sa-qu: wa* wa*-'atl ??a:nis-m'i*t
 wishing-FUT-perhaps-IND.3 not-real-COND say say-FINITE crane-son.of
 she.will.wish she.never.said say said Son.of.Crane
 
 
 # 010
-?un'aahhshitl ya??at'aahhii ??asayat, n'ashitl?as?atl ?uukwil ch'ikn'am'it.
+?un'aahhshitl ya??at'aahhii ??asayat, n'ashitl'as?atl ?uukwil ch'ikn'am'it.
 ?u-n'a*hh-shitl yaq-'at-'a:hh-(y)i: ??as-ayi*-'at n'ash-itl-'a*s-'atl ?u-kwil ch'ikn'a-m'i*t
 it-seeking-MOM who-SHIFT-perhaps-INDF.3 plan-give-SHIFT go.to.see-MOM-go.in.order.to-FINITE he-doing.to wren-son.of
 seeking.for who.would.do.to.him he.gives.him.a.plan he.went.to.see to.him Son.of.Wren
@@ -90,14 +90,14 @@ having.many.ideas
 
 
 # 014
-wikcuk?is?ish, waa?atl?at.
+wikcuk?is?ish, waa?atl'at.
 wik-cuk-?is-?i*sh wa*-'atl-'at
 not-requiring-DIM-IND.3 say-FINITE-SHIFT
 it.is.simple he.said.to.him
 
 
 # 015
-?ucachi?um nuchii?i, tl?amaassitlsuuk ?iihhquu ??almapt, hitaqinu?um, tl?uulapiqhh?atlsuuk, n'achhhtaakhh ?ahh waa.
+?ucachi?um nuchii?i, tl'amaassitlsuuk ?iihhquu ??almapt, hitaqinu?um, tl'uulapiqhh?atlsuuk, n'achhhtaakhh ?ahh waa.
 ?u-ca-chi(tl)-'um nuchi:-?i* tl'am-a*s-itl-su:k ?i*hhw-qu: ??almapt hita-qinu-'um tl'ul-api-(q)hh-'atl-su:k n'ach-hhta*kw-(q)hh ?ahh wa*
 it-go.to-MOM-FUT.IMP.2SG mountain-DEF straddling-on.a.tree-MOM-2SG large-COND yellow.cedar LOC-on.top-FUT.IMP.2SG touch-up.in.the.air-SIM-FINITE-2SG look-out.to.sea-SIM this say
 go.there the.mountain you.climb.onto.a.tree big yellow.cedar go.to.the.top raising.the.arms.up look.out.to.the.sea this say
@@ -109,14 +109,14 @@ go.there the.mountain you.climb.onto.a.tree big yellow.cedar go.to.the.top raisi
 
 
 # 017
-qwisckwaatlquuk ?ahh, n'aacsa?aqtl?ick ?ich'achitl tup'al. muulshitl?aqt'ish.
+qwisckwaatlquuk ?ahh, n'aacsa?aqtl'ick ?ich'achitl tup'al. muulshitl'aqt'ish.
 qwis-ckwi*-'atl-qu:k ?ahh n'a:csa-?aqtl-?ick ?ich'a-chitl tup'al mu:l-shitl-?aqtl-?i*sh
 do.so-happened-FINITE-COND.2SG this see-FUT-IND.2SG lifted.up-MOM sea flooded-MOM-FUT-IND.3
 when.you.have.done.this this you.will.see rise sea there.will.be.a.flood
 
 
 # 018
-qwis ??aanism'it waa?at?itq, hinumsintl nuchii, ?uuwatl ?iihhs ??almapt, ?iihhs ??almapt, tl?amaasitl, tl?uulaputl, n'achhhtaakhh?atl waa waamahhsap'anit?itq,
+qwis ??aanism'it waa?at?itq, hinumsintl nuchii, ?uuwatl ?iihhs ??almapt, ?iihhs ??almapt, tl'amaasitl, tl'uulaputl, n'achhhtaakhh?atl waa waamahhsap'anit?itq,
 qwis ??a:nis-m'i*t wa*-'at-?i*tq hinumsintl nuchi: ?u-watl ?i:hhw-s ??almapt ?i:hhw-s ??almapt tl'am-a*s-itl tl'ul-aputl n'ach-hhta*kw-(q)hh-'atl wa* wa*-mahhsa-'ap-'at-it-?i*tq
 do.so crane-son.of say-SHIFT-REL.3 climb mountain it-find suddenly-1SG yellow.cedar suddenly-1SG yellow.cedar straddling-on.a.tree-MOM touch-in.the.air.MOMCAUS look-out.to.sea-SIM-FINITE say say-desiring.to-MOMCAUS-SHIFT-PAST-REL.3
 do.so Son.of.Crane what.was.said.to.her climb mountain found large yellow.cedar large yellow.cedar climbed.onto.a.tree put.the.hands.up looking.out.to.sea say what.he.wanted.him.to.say
@@ -128,7 +128,7 @@ do.so Son.of.Crane what.was.said.to.her climb mountain found large yellow.cedar 
 
 
 # 020
-muup'it??atl?ap'at. n'aacsaatl ?uyaasila hilachishit?i ?ich'achitl tup'al.
+muup'it??atl'ap'at. n'aacsaatl ?uyaasila hilachishit?i ?ich'achitl tup'al.
 mu:-p'it-??atl-'ap-'at n'a:csa-'atl ?uya:-sila hil-achisht-it-?i* ?ich'a-chitl tup'al
 four-times-make.sound-MOMCAUS-SHIFT see-FINITE unusual-act.like there-on.the.sea-PAST-DEF lifted.up-MOM salt.water
 he.did.it.four.times watched something.strange.happened the.ocean rise salt.water

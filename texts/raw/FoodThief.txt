@@ -48,7 +48,7 @@ stopped.on.the.rock lie.down waiting
 
 
 # 007
-n'aacsiichitl chakup?i ?uushtup malshitl?a?a.
+n'aacsiichitl chakup?i ?uushtup malshitl'a?a.
 n'a:csi:-chitl chakup-?i* ?u:sh-tup mal-shitl-'a*?a
 spotted-MOM man-DEF some-thing move-MOM-on.the.rock
 saw the.man something moved.on.the.rock
@@ -146,7 +146,7 @@ would.do.it.repeatedly started.to.roll.around
 
 
 # 021
-mukshitl qwayac'iik?i hit'aaqtl?itl.
+mukshitl qwayac'iik?i hit'aaqtl'itl.
 muk-shitl qwyac'i:k-?i* hit-'a*qtl'itl
 run.on.the.fours-MOM wolf-DEF LOC-in.the.woods
 run.on.the.fours the.wolves into.the.woods
@@ -209,7 +209,7 @@ found.it.gone.on.the.beach his.hair.seal
 
 
 # 030
-mismiis?atl?at qwicahhtachitlit?itq ya??atuk?itq kuuw'il?at ha?um.
+mismiis?atl'at qwicahhtachitlit?itq ya??atuk?itq kuuw'il?at ha?um.
 mis-ma*-`is-'atl-'at qwi-ca-hhta-chitl-?i*tq yaq-'at-uk-?i*tq ku:w'il-'at ha?um
 smell-going.toward?-on.the.beach-FINITE-SHIFT he.who-go.to-out.to.sea-MOM-REL.3 who-SHIFT-POSS-REL.3 steal-SHIFT food
 sniff.out.the.way.to where.he.went one.who.did.it.to.his was.stolen food
@@ -223,7 +223,7 @@ head.for where.he.lives the.man
 
 
 # 032
-mitxumy'itl?al hiy'athh?itq chakup?i hil?iitq hicnup'aqtl?as.
+mitxumy'itl'al hiy'athh?itq chakup?i hil?iitq hicnup'aqtl'as.
 mitxw-uml-'i*(tl)-?a*l hil-'athh-?i*tq chakup-?i* hil-?i*tq hicnup-'aqtl'as
 circle.about-all.over-go.for-PL there-residing-REL.3 man-DEF there-REL.3 couple-in.the.house
 they.circled.around.on.the.ground.for where.he.lives the.man where.it.was a.couple.in.the.house
@@ -244,7 +244,7 @@ they.were.circling his.house the.man
 
 
 # 035
-qiichiilshi?atl?itq?al tuuhhuk hinii?as.
+qiichiilshi?atl'itq?al tuuhhuk hinii?as.
 qi:-chi*l-shitl-'atl-?i*tq-?a*l tu:hhuk hin-i:?as
 for.long-for.days-MOM-FINITE-REL.3-PL afraid there-go.out
 for.many.days.they afraid go.out
@@ -300,14 +300,14 @@ look.out
 
 
 # 043
-tl?isumlaq hhaw'ilmatakuk?i?al.
+tl'isumlaq hhaw'ilmatakuk?i?al.
 tl'is-uml-aq hhaw'il-matak-uk-?i*-?a*l
 white-all.over-very leader-probably-POSS-DEF-PL
 very.white.one maybe.he.was.their.leader
 
 
 # 044
-tl?ichitl ?uhhtaa tl?isuml?i qahhsaap.
+tl'ichitl ?uhhtaa tl'isuml?i qahhsaap.
 tl'i-chitl ?u-hhta* tl'is-uml-?i* qahh-sa*p
 shoot-MOM he-doing.to white-all.over-DEF dead-MOMCAUS
 fired.a.gun to.it the.white.one kill
@@ -328,21 +328,21 @@ put.on.the.back two wolf
 
 
 # 047
-mamaasulqchik'atl?al hiitaqtl?itl.
+mamaasulqchik'atl'al hiitaqtl'itl.
 DUP.CV-ma*su*l-qchik-'atl-?a*l hit-'a*qtl'itl
 REP-howl-doing.while.going-FINITE-PL LOC-in.the.woods
 they.howled.repeatedly.while.going went.into.the.woods
 
 
 # 048
-nay'iik tl?iptkshitl hicnup?i hitawii?is.
+nay'iik tl'iptkshitl hicnup?i hitawii?is.
 nay'i:k tl'iptk-shitl hicnup-?i* hita-wi:?is
 at.once pack.up-MOM couple-DEF LOC-go.down.inlet
 at.once packed.up the.couple went.down.the.inlet
 
 
 # 049
-wik'ap'at qii?athh hiina?atl?attla qwayac'iikshtaquml?i.
+wik'ap'at qii?athh hiina?atl'attla qwayac'iikshtaquml?i.
 wik-'ap-'at qi:-'athh hin-(w)a(tl)-'atl-'at-tla* qwayac'i:k-shtaquml-?i*
 not-MOMCAUS-SHIFT for.long-residing there-find-FINITE-SHIFT-again wolf-groups-DEF
 they.did.not.let.them.do living.for.a.long.time found.them.again the.wolf.pack
@@ -356,7 +356,7 @@ now.then what.should.we.do said the.husband
 
 
 # 051
-wik?aqtl?atsa lachi?at ??aciis qwicachitluusin.
+wik?aqtl'atsa lachi?at ??aciis qwicachitluusin.
 wik-?aqtl-'at-sa lach-i(tl)-'at ??aci:s qwi-ca-chi(tl)-u:sin
 not-FUT-SHIFT-1SG let.go-MOM-SHIFT regardless what-go.to-MOM-REL.DUB.1PL?
 they.will.not.let.me.do they.let.me.go regardless no.matter.where.we.go
@@ -370,14 +370,14 @@ call.on our.advisors
 
 
 # 053
-sukwitl?asnak'atuk t'apathhsi?i.
+sukwitl'asnak'atuk t'apathhsi?i.
 sukwi(tl)-'a*s-na*k-'at-uk t'apathhsi-?i*
 take-go.in.order.to-having-SHIFT-POSS advisors-DEF
 someone.went.to.get the.advisors
 
 
 # 054
-hishumyipitl?al t'aat'aapatshitl.
+hishumyipitl'al t'aat'aapatshitl.
 hish-uml-`ipitl-?a*l DUP.CV:-t'apat-shi(tl)
 all-in.a.group-in.the.house-PL DISTR?-think-MOM
 they.gathered.in.the.house many.people.thinking
@@ -405,7 +405,7 @@ really scared.off the.wolves
 
 
 # 058
-hu?aaqtl?itl lachi?at.
+hu?aaqtl'itl lachi?at.
 hu?a-'a*qtl'itl lach-i(tl)-'at
 back-in.the.woods let.go-MOM-SHIFT
 went.back.into.the.woods they.leave.them.alone

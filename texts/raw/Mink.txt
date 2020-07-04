@@ -18,7 +18,7 @@ little.one.was.sitting.there.on.the.rock Son.of.Mink
 There was a small Son of Mink sitting on the rock.
 
 # 003
-ch'aaxstimcm'it waa?at, himwic'atl?atquu.
+ch'aaxstimcm'it waa?at, himwic'atl'atquu.
 ch'a:stimc-<x>-m'i*t wa:-'at himwic'a-'atl-'at-qu:
 mink-MINK-son.of say-SHIFT story-FIN-SHIFT-COND.3
 Son.of.Mink it.is.said when.you.tell.a.story
@@ -46,15 +46,15 @@ observing person Port.Angeles Port.Angeles
 He was looking at people at Port Angeles.
 
 # 007
-tl?upaa?atl,
-tl?up-(y)a*-'atl
+tl'upaa?atl,
+tl'up-(y)a*-'atl
 warm-CONT-FIN
 it.was.warm
 It was warm.
 
 # 008
-tl?up'iichhhiyimtquu, tl?up'iichhhiyimtquu hat'in??aqa luucsaamiihh.
-tl?up-`i*chhh-iya-imt-qu: tl?up-`i*chhh-iya-imt-qu: hat'inq-'aqa lu:csa:mi:hh
+tl'up'iichhhiyimtquu, tl'up'iichhhiyimtquu hat'in??aqa luucsaamiihh.
+tl'up-`i*chhh-iya-imt-qu: tl'up-`i*chhh-iya-imt-qu: hat'inq-'aqa lu:csa:mi:hh
 warm-season.of-at.time.of-PAST-COND.3 warm-season.of-at.time.of-PAST-COND.3 bathing-severally.doing women
 it.might.have.been.in.summer it.might.have.been.in.summer severally.bathing women
 It might have been summer, and women were bathing.
@@ -102,7 +102,7 @@ current.was.strong here always.like.that strong.current.flowing circle.around cu
 There (in the strait) the current was always swift and going back and forth.
 
 # 015
-chuu, hitap?il ch'aaxstimcm'it, wik ?uuc\hha, saaxyapanachshitl?aqtlquu.
+chuu, hitap?il ch'aaxstimcm'it, wik ?uuc\hha, saaxyapanachshitl'aqtlquu.
 chu: hita-p?il ch'a:stimc-<x>-m'i*t wik ?u-c\hha saya-<x>-panach-shi(tl)-'aqtl-qu:
 now.then there.MOM-across.a.strait mink-MINK-son.of not it-go.in.order.to far.off-MINK-move.about.randomly-MOM-FUT-COND.3
 now.then go.across.a.strait Son.of.Monk not go.for.it he.would.go.distant.places
@@ -116,7 +116,7 @@ that in.every.place mink
 Now minks are everywhere [although they weren't numerous before].
 
 # 017
-??ac'ik haptshitl, hitaqtl?utl.
+??ac'ik haptshitl, hitaqtl'utl.
 ??ac'ik hapt-shi(tl) hita-'aqtl-u*(tl)
 expert.at hide-MOM there.MOM-inside-on.the.rock
 expert.at hide go.behind.the.boulder
@@ -186,7 +186,7 @@ one
 He he was alone.
 
 # 027
-yaaxcshitl?ic'aqtls waa?atl.
+yaaxcshitl'ic'aqtls waa?atl.
 ya:c-<x>-shi(tl)-'aqtl-s wa:-'atl
 walk-MINK-MOM-FUT-1SG say-FIN
 I.will.walk he.said.it
@@ -319,8 +319,8 @@ heey maahht'iqiil k'uch chashkak, mahht'iichitluk, saach'utcqii?isukwitquu.
 Now, he was making a house quickly in a short period of time, and it became a house, which might have been a lean-to.
 
 # 046
-?inixkwiilshitl?is ch'aasta, tl?uuyiipitl.
-?inkw-<x>-(ch)i:l-shi(tl)-?is ch'a:sta tl?u:yi:-`(i)pi(tl)
+?inixkwiilshitl'is ch'aasta, tl'uuyiipitl.
+?inkw-<x>-(ch)i:l-shi(tl)-?is ch'a:sta tl'u:yi:-`(i)pi(tl)
 fire-MINK-make-MOM-DIM mink dry.fish-in.the.house
 made.fire mink put.fish.up.on.the.rack
 Little Mink made a fire, and put fish up on the rack (to dry).
@@ -354,8 +354,8 @@ very.small Son.of.Mink skinny small this legs
 Son of Mink was very small. His legs were small.
 
 # 051
-?uushyuuya, c'ishp'uuqsmip'it?atquu ?in c'awaaqtl?as
-?u:sh-yu:ya c'ish-p'u*qs-mip'it-'at-qu: ?in c'awa*-'a*qtl?as
+?uushyuuya, c'ishp'uuqsmip'it?atquu ?in c'awaaqtl'as
+?u:sh-yu:ya c'ish-p'u*qs-mip'it-'at-qu: ?in c'awa*-'a*qtl'as
 some-at.the.time filth-smelling.of-??-SHIFT-COND.3 although one-in.the.woods
 sometimes stinky.smell.in.the.house although all.alone.in.the.woods
 Although he was all alone in the woods, sometimes there was a peculiar smell in his house.
@@ -375,14 +375,14 @@ maybe.a.man.is.living said.it
 "Maybe there is a man living there," he said.
 
 # 054
-tl?uuyiipitl.
-tl?u:yi:-`(i)pi(tl)
+tl'uuyiipitl.
+tl'u:yi:-`(i)pi(tl)
 dry.fish-in.the.house
 put.fish.up.on.the.rack
 He put his fish up on the rack (to dry).
 
 # 055
-tlimkshitlwa?ish ?uuyu?aalshitlwa?ish quu?as hhaal ?iihh sukwi?atuk yuul?atl?atl.
+tlimkshitlwa?ish ?uuyu?aalshitlwa?ish quu?as hhaal ?iihh sukwi?atuk yuul?atl'atl.
 tlimk-shi(tl)-wa*?i*sh ?u-L-yu?a:l-shi(tl)-wa*?i*sh qu:?as hha:l ?i:hh sukwi(tl)-'atuk yu:l-'atl-'atl
 awake-MOM-QUOT.3 it-??-aware.of-MOM-QUOT.3 person there big took-?? over.there-??-FIN
 woke.up.it.is.said realized.it.is.said person there big reach.for went.over there
@@ -627,7 +627,7 @@ having comb Son.of.Mink
 Son of Mink had a comb.
 
 # 090
-saxchkshitl?ixc'atlquuch tluyachitl n'aach?atu ?uuktis hhaal puul?ii, c'a?ak.
+saxchkshitl'ixc'atlquuch tluyachitl n'aach?atu ?uuktis hhaal puul?ii, c'a?ak.
 sachk-<x>-shi(tl)-?ic-'atl-qu:-ch tlul-`achitl n'ach-'atu ?uk-(k)tis hha:l pu:l-?i* c'a?ak
 comb-MINK-MOM-DIM-FIN-COND.3-INF nice-MOM see-sink.into.water oneself-acting.by.ref.to there pool-DEF river
 little.one.would.comb get.nice seeing.down.on.the.water by.looking.at.himself there the.pool.of.water river
@@ -641,8 +641,8 @@ little.one.is.looking.down.to.the.water ~ little.one.is.combing
 The little one (Mink) was looking down into the water and combing.
 
 # 092
-wiiy'a tl?uutxhik qwaa?ap ?ahh?aa
-wi:y'a tl?utxh-i:k' qwa:-'ap ?ahh?a:
+wiiy'a tl'uutxhik qwaa?ap ?ahh?aa
+wi:y'a tl'utxh-i:k' qwa:-'ap ?ahh?a:
 never stick.out?-on.the.head-thus-CAUS that
 never hair.sticks.out doing.that that
 His (Mink's) hair was never sticking out: his hair was always as if it was combed neatly — like this. {with picture?}
@@ -732,8 +732,8 @@ none.present plain
 [So] there was nothing to be seen.
 
 # 105
-haaxhaa, tl?upiichi?atl. tl?upaa, qwaa?atl ?ahh?aa, qwayac'iik tl?upy'iihha.
-~ tl?up-`i*chi(tl)-'atl tl?up-(y)a* qwa:-'atl ?ahh?a: qwayac'i:k tl?up-y'i*hha
+haaxhaa, tl'upiichi?atl. tl'upaa, qwaa?atl ?ahh?aa, qwayac'iik tl'upy'iihha.
+~ tl'up-`i*chi(tl)-'atl tl'up-(y)a* qwa:-'atl ?ahh?a: qwayac'i:k tl'up-y'i*hha
 ~ warm-INC-FIN warm-CONT thus-FIN that wolf warm-suffering.from.excess.of
 ~ became.warm warm like.this that wolf sweating
 Now it became warm. It was so warm that the wolves were sweating like this.
@@ -753,15 +753,15 @@ m?mm, waamitquu.
 "m-mm," he might have said.
 
 # 108
-hhaa, tl?upy'iihhatl waa qwis qwaa?amitii?al, tl?upy'iihha. sweating.
-~ tl?up-y'i*hha-'atl wa: qwis qwa:-'ap-it-(y)i:-?a*l tl?up-y'i*hha ~
+hhaa, tl'upy'iihhatl waa qwis qwaa?amitii?al, tl'upy'iihha. sweating.
+~ tl'up-y'i*hha-'atl wa: qwis qwa:-'ap-it-(y)i:-?a*l tl'up-y'i*hha ~
 ~ warm-suffering.from.excess.of-FIN and do.so thus-CAUS-PAST-INDF.3-PL warm-suffering.from.excess.of ~
 ~ being.sweating and do.so they.are.doing.so sweating ~
 [While the wolves were holding Mink in captivity,] He (Mink) was sweating and they (wolves) were also sweating.
 
 # 109
-qwis?atlquuch ?ahh kishshitl. c'a?atu hhaal tl?upmis.
-qwis-'atl-qu:-ch ?ahh kish-shi(tl) c'a-'atu hha:l tl?up-mis
+qwis?atlquuch ?ahh kishshitl. c'a?atu hhaal tl'upmis.
+qwis-'atl-qu:-ch ?ahh kish-shi(tl) c'a-'atu hha:l tl'up-mis
 do.so-FIN-COND.3-INF this wiggle-MOM flowing-fall.off there warm-thing
 when.he.did he shook.the.body flowing.down there sweat
 When they shook their body, sweat rolled down their hides.
@@ -781,7 +781,7 @@ you.all.get.out.of.the.way you.all.move.apart said.it
 "You people step aside and let there be space," he said.
 
 # 112
-heey ??iita??iita?ick, waa?atl?at.
+heey ??iita??iita?ick, waa?atl'at.
 ~ DUP#-??ita-?ick wa*-'atl-'at
 ~ IT-tell.a.lie-IND.2SG say-FIN-SHIFT
 ~ you.are.telling.a.lie they.said.to.him
@@ -809,7 +809,7 @@ that.is.always.the.only.thing.eaten.of.it snout.of.fish eat.it
 The only thing they fed him was the snout of the fish.
 
 # 116
-qwaa ha?uk, qwayac'iik. wiiy'a humaqtl?ic.
+qwaa ha?uk, qwayac'iik. wiiy'a humaqtl'ic.
 qwa: ha?uk qwayac'i:k wi:y'a humaqtl-'i*c
 thus eat wolf never whole-eat
 thus eat wolf never eat.the.whole
@@ -897,8 +897,8 @@ if.only.I if.only.I ~ if.I.had.one.on.the.shoulder I.would.dance
 [Song] "If only I reach _ho ho ho_; if only I reach _ho ho ho_; if I had one on my shoulder, I would dance."
 
 # 129
-qahhsaapw'it'as ch'aastimcm'it. hhaw'ilisim?i, tl?isiml.
-qahh-sa*p-w'it'as ch'a:stimc-m'i*t hhaw'il-isim-?i* tl?is-iml
+qahhsaapw'it'as ch'aastimcm'it. hhaw'ilisim?i, tl'isiml.
+qahh-sa*p-w'it'as ch'a:stimc-m'i*t hhaw'il-isim-?i* tl'is-iml
 dead-MOMCAUS-about.to mink-son.of chief-??-DEF white-all.over
 about.to.kill Son.of.Mink head.chief all.white
 Son of Mink is about to kill the leader of all the wolves that is all white.
@@ -932,7 +932,7 @@ there.on.the.ground there Son.of.Wolf
 The wolves were sitting there on the ground.
 
 # 134
-kuhhyuu?atl. hisiik?aqtl?itq kamatqshitl, wiik'itl tiichmis,
+kuhhyuu?atl. hisiik?aqtl'itq kamatqshitl, wiik'itl tiichmis,
 kuhh-yu*-'atl his-i*k-'a*qtl-?i*tq kamatq-shi(tl) wik-'i(tl) ti:chmis
 open-have.done-FIN there-going.along-FUT-REL.3 running-MOM not-go.for life
 have.opened will.go.along run not.going.for life
@@ -1065,7 +1065,7 @@ whew! he.might.have.said
 "Whew, that was close!" the mink might have said.
 
 # 153
-susshitl?al qwayac'iik.
+susshitl'al qwayac'iik.
 sus-shi(tl)-?a*l qwayac'i:k
 swim-MOM-PL wolf
 they.swam wolf
@@ -1107,7 +1107,7 @@ take his.medicine.bottle taken.from.there here his.little.bag
 He took the medicine bottle from his little bag.
 
 # 159
-kwisaqsit?atl?al.
+kwisaqsit?atl'al.
 kwis-aqs-it-'atl-?a*l
 different-on.the.shore-PAST-FIN-PL
 they.were.on.the.other.shore
@@ -1163,7 +1163,7 @@ didn't answer.to
 [But] he didn't answer to the howl.
 
 # 167
-?uuktis?atl?at?ish                  qw'aaxtii, hisiik?itq
+?uuktis?atl'at?ish                  qw'aaxtii, hisiik?itq
 ?u-ktis-'atl-'at-?i*sh              qw'a:xti:  his-i*k-?i*tq
 it-acting.by.ref.to-FIN-SHIFT-IND.3 NAME       there-going.along-REL.3
 they.are.following.it NAME his.pathway
@@ -1289,14 +1289,14 @@ kxaa kamatqshi?atl
 Now he (Mink) ran [taking a human figure].
 
 # 185
-tlawa?ii?atl?attla
+tlawa?ii?atl'attla
 tlawa-?i:-'atl-'at-tla*
 near-get.to.be.at-FIN-SHIFT-again
 caught.up.again
 They (the wolves) caught up with him again.
 
 # 186
-huhhtak'atl?ish ch'aastimcm'it qw'aaxtii ?in p'usaak'atl qwayac'iik?i.
+huhhtak'atl'ish ch'aastimcm'it qw'aaxtii ?in p'usaak'atl qwayac'iik?i.
 huhhtak-'atl-?i*sh ch'a:stimc-m'i*t qw'a:xti: ?in p'us-ak-'atl qwayac'i:k-?i*
 know-FIN-IND.3 mink-son.of NAME that tired-DUR-FIN wolf-DEF
 he.knew Son.of.Mink NAME that got.tired the.wolves
@@ -1352,7 +1352,7 @@ ran without.taking.direction
 He ran for dear life.
 
 # 194
-tlawachatl?at.
+tlawachatl'at.
 tlawa-chatl-'at
 near-??-SHIFT
 they.are.closer
@@ -1380,14 +1380,14 @@ stopped.on.the.ground Son.of.Mink dug dug
 Son of Mink stopped and dug holes.
 
 # 198
-kwa?iitl waxshitl?ic'atlwa?ishtla huf! mushsaap, wimacsap.
+kwa?iitl waxshitl'ic'atlwa?ishtla huf! mushsaap, wimacsap.
 kwa-?i*(tl) waxw-shi(tl)-?ic-'atl-wa*?i*sh-tla* huf! mush-sa*p wimac-sa*p
 sit.down-on.the.ground break.wind-MOM-DIM-FIN-QUOT.3-again ~ cover-MOMCAUS obscure-MOMCAUS
 sit.down.on.the.ground broke.wind.again.it.is.said ~ cover.up make.it.obscure
 He squatted on the ground again and farted, Poop!, to cover up, to make it (his route) obscure.
 
 # 199
-qwaa?ap?aqtl?ick ?ahh?aa qum'aa kwiisqshitl ?um'aack ?iqsila.
+qwaa?ap?aqtl'ick ?ahh?aa qum'aa kwiisqshitl ?um'aack ?iqsila.
 qwa:-'ap-'a*qtl-?ick ?ahh?a: qum'a: kwi:sqshitl ?um'a:ck ?iq-sila
 thus-CAUS-FUT-IND.2SG this how.many another.year periodically same-do
 you.will.do.thus this how.many another.year periodically do.the.same
@@ -1583,7 +1583,7 @@ they.recognized.him on.the.rock there
 They recognized him [as Mink] while he was on the rock.
 
 # 227
-suw'aaq?ick ch'aastimchm'it, waa?atl?at.
+suw'aaq?ick ch'aastimchm'it, waa?atl'at.
 suw'a:q-?ick ch'a:stimc-m'i*t wa*-'atl-'at
 you-IND.2SG mink-son.of say-FIN-SHIFT
 it.is.you Son.of.Mink they.said.to.him
@@ -1604,7 +1604,7 @@ my.name.is NAME
 "My name is _kapkimyis_."
 
 # 230
-?uu?ii?atl?ish ??imtii qalaatikuk?i.
+?uu?ii?atl'ish ??imtii qalaatikuk?i.
 ?u-'i(tl)-'atl-?i*sh ??imti* qala:tik-uk-?i*
 it-take-FIN-IND.3 name younger.brother-POSS-DEF
 picked.it name his.younger.brother
@@ -1643,7 +1643,7 @@ saw there crack crack
 There he saw a crack [in a boulder].
 
 # 236
-ch'uq! liphhii?itl?isquu. ch'uq!
+ch'uq! liphhii?itl'isquu. ch'uq!
 ~ liphh-i:-'itl-?is-qu: ~
 ~ slip.in.swiftly-??-??-DIM-COND.3 ~
 ~ little.one.slipped.in.swiftly ~
@@ -1657,7 +1657,7 @@ heey taatltaaya qwaqwaas?i.
 Those people [the wolves are taking human shape now] poked at him repeatedly with sticks.
 
 # 238
-taamiiqtl?a, xaw xaw xaw xaw.
+taamiiqtl'a, xaw xaw xaw xaw.
 ta:-mi:qtla ~ ~ ~ ~
 poke-?? ~
 poke.into.a.hole
@@ -1685,7 +1685,7 @@ bite.it.off bit.out the.innards wrap.around.the.pole ??
 He bit out the innards (out of the limpets) and wrapped them around the pole.
 
 # 242
-haa qax\hhshitl?is?ish, qahhshitl?ish qw'aaxtii, waa?atl.
+haa qax\hhshitl'is?ish, qahhshitl'ish qw'aaxtii, waa?atl.
 ~ qahh-<x>-shi(tl)-?is-?i*sh qahh-shi(tl)-?i*sh qw'a:xti: wa*-'atl
 ~ dead-MINK-MOM-DIM-IND.3 dead-MOM-IND.3 NAME say-FIN
 ~ little.one.is.dead he.is.dead NAME said
@@ -1713,7 +1713,7 @@ cane have
 They (the wolves) had canoes.
 
 # 246
-Wooox qwaay'akshitl?is.
+Wooox qwaay'akshitl'is.
 ~ qwa: y'ak-shi(tl)-?is
 ~ thus peek-MOM-DIM
 ~ thus took.a.peek
@@ -1749,8 +1749,8 @@ dirty said
 "You, dirty scum!" he said.
 
 # 251
-kamat??aqtl?itl ch'aastimcm'it
-kamatq-'a*qtl?i(tl) ch'a:stimc-m'i*t
+kamat??aqtl'itl ch'aastimcm'it
+kamatq-'a*qtl'i(tl) ch'a:stimc-m'i*t
 running-in.the.woods mink-son.of
 ran.in.the.woods Son.of.Mink
 Son of Mink ran into the woods.
@@ -1791,7 +1791,7 @@ died.it.is.said one.who.always.say.nasty.things
 "[You thought] the one with a bad mouth was dead!" [Mink yelled at them sarcastically].
 
 # 257
-?ee qahhtak qwaq?isqach'a waa?atl?at hask'aamac?i [little crabs].
+?ee qahhtak qwaq?isqach'a waa?atl'at hask'aamac?i [little crabs].
 ~ qahh-tak qwaq-?is-qa*ch'a wa*-'atl-'at hask'a:mac-?i* ~
 ~ dead-?? ??-DIM-DUB.3 say-FIN-SHIFT little.crab-DEF ~
 ~ ?? they.said.to.him the.little.crab ~
@@ -1875,7 +1875,7 @@ did.not.catch
 They (the wolves) didn't catch him.
 
 # 269
-wikiipatl?attla ch'aastimcm'it.
+wikiipatl'attla ch'aastimcm'it.
 wik-i:p-'atl-'at-tla* ch'a:stimc-m'i*t
 not-get-FIN-SHIFT-again mink-son.of
 once.again.he.did.not.catch.them Son.of.Mink
@@ -1910,7 +1910,7 @@ he.wouldnt.be.satisfied that the.baby grabbing.on.to Sawbill.woman there ~ say
 [When people came in response to the Sawbill family's request,] the baby wouldn't be satisfied, grabbing on to his mother, saying "[I want my] Daddy, Daddy, Daddy."
 
 # 274
-chiskatshi?atlquuch hhakwaatl?i.
+chiskatshi?atlquuch hhakwaatl'i.
 chisk-at-shi(tl)-'atl-qu:-ch hha:kwa:tl-?i*
 shake.the.head-??-MOM-FIN-COND.3-INF girl-DEF
 would.shake.the.head.slowly the.girl
@@ -1966,7 +1966,7 @@ give.birth.to.illegitimate.child give.birth.to.illegitimate.child Sawbill.woman 
 "Sawbill Woman gave birth to an illegitimate child." [they sang, and the baby also called him] "Daddy, Daddy, Daddy."
 
 # 282
-hitinqsatlwa?ish qw'aaxtii tl?iixmaqul yaacshitl.
+hitinqsatlwa?ish qw'aaxtii tl'iixmaqul yaacshitl.
 hita-inq-`sa(tl)-wa*?i*sh qw'a:xti: tl'i:xw-ma-(q)u*l ya:c-shi(tl)
 there.MOM-down.a.slope-on.the.beach-QUOT.3 NAME smile-??-on.the.face walk-MOM
 went.down.to.the.beach name have.smile.on.the.face walked
@@ -2127,7 +2127,7 @@ I.divorce to.you said
 "I divorce you!" she said.
 
 # 305
-c'iishhhii?ick. ??a??aqtl?aktlee waa?anitquu.
+c'iishhhii?ick. ??a??aqtl'aktlee waa?anitquu.
 c'ish-hhi*-?ick ??a-??aqtl-'aktli-VOC wa*-'at-it-qu:
 filth-DUR-IND.2SG DUP-??-at.the.rear-VOC say-SHIFT-PAST-COND.3
 you.obnoxious.one stupid might.have.been.said.to.him

@@ -25,8 +25,8 @@ happened.long.ago do.Wolf.Ritual Wolf.Ritual
 A long time ago a Wolf Ceremony was held.
 
 # 004
-tl?ii?il ?aathhiy'u
-tl?i:?il ?athhi:-iy'u
+tl'ii?il ?aathhiy'u
+tl'i:?il ?athhi:-iy'u
 feast night-??
 feast at.night
 They had a feast at night.
@@ -81,15 +81,15 @@ they.way.it.used.to.be long.ago they.took.off women like also men headband take.
 A long time ago women, as well as men, used to take off the headbans and put them on the floor.
 
 # 012
-ch'ihhiy'ap t'i?uup ?uushtup qwaa?iitq, ?aq?ishtiik, tl?uchum.
-ch'uhh-iy'ap t'i-?u:p ?u:shtup qwa:-?i*tq ?aqi-?isht-(y)i:k tl?uchum
+ch'ihhiy'ap t'i?uup ?uushtup qwaa?iitq, ?aq?ishtiik, tl'uchum.
+ch'uhh-iy'ap t'i-?u:p ?u:shtup qwa:-?i*tq ?aqi-?isht-(y)i:k tl'uchum
 extinguished-MOMCAUS throw-MOMCAUS something thus-REL.3 what-??-INDF.2SG blue.mussel
 extinguish throw something like such.as blue.mussel
 The fire was extinguished by throwing something, such as blue mussels.
 
 # 013
-witl?ukwitl,
-witl?uk-i(tl)
+witl'ukwitl,
+witl'uk-i(tl)
 extinguished?-MOM
 extinguished
 The fire was smothered.
@@ -151,7 +151,7 @@ now.then it.became.daylight
 Now it became daylight.
 
 # 022
-?iiqhhukw'atl hhaw'il?i ?in ?ukwaal, ?ukwaal, hhaaw'ilatl?i.
+?iiqhhukw'atl hhaw'il?i ?in ?ukwaal, ?ukwaal, hhaaw'ilatl'i.
 ?i:qhh-ukw-'atl hhaw'il-?i* ?in ?u-kwa*l ?u-kwa*l hha:w'ilatl-?i*
 telling-DUR-FIN chief-DEF that it-missing it-missing young.man-DEF
 told the.chief that someone.is.missing someone.is.missing the.young.man
@@ -319,8 +319,8 @@ and then traveled.in.a.canoe young.man traveled.in.a.canoe
 Then people saw a young man paddling in a canoe.
 
 # 046
-waa tl?aphhshi?at qwayac'iik
-wa: tl?aphh-shi(tl)-'at qwayac'i:k
+waa tl'aphhshi?at qwayac'iik
+wa: tl'aphh-shi(tl)-'at qwayac'i:k
 and slap-MOM-SHIFT wolf
 and get.slapped wolf
 And the wolf slapped it (the young man's canoe) [on the side].
@@ -354,7 +354,7 @@ now.then departed the.wolves
 Now then, the wolves took off.
 
 # 051
-hawilchaqshitl?al tluukwaana.
+hawilchaqshitl'al tluukwaana.
 hawil-chaq-shi(tl)-?a*l tlu:kwa:na
 finish-done-MOM-PL Wolf.Ritual
 they.finished Wolf.Ritual
@@ -389,7 +389,7 @@ they.went.there going.over Gold.River
 They went over the hill to Gold River (Muchalat land).
 
 # 056
-na?aa?atlquuch machlaat?athh c'iiqaa hhaaw'ilatl?ti.
+na?aa?atlquuch machlaat?athh c'iiqaa hhaaw'ilatl'ti.
 na?a:-'atl-qu:-ch machla:t?athh c'i:q-(y)a* hha:w'ilatl-?i*
 hear-FIN-COND.3-INF Muchalat chant-CONT young.man-DEF
 they.would.hear.him Muchalat chant the.young.man
@@ -410,8 +410,8 @@ and they.went.there there Tahsis Tahsis to.which.we ~ call ~ where.it.was
 And then they went over to _t̓ašiis_, a place we call [in English] Tahsis, where there was a sawmill.
 
 # 059
-yacaaqtuu ?ucachitl ?uutl?aqchi.
-yac-a*qtu* ?u-ca-chi(tl) ?u:tl?aqchi
+yacaaqtuu ?ucachitl ?uutl'aqchi.
+yac-a*qtu* ?u-ca-chi(tl) ?u:tl'aqchi
 step-go.over it-go.to-MOM Odlaqutla
 walked.over.the.hill went.there Odlaqutla
 They went over [the high land] to Odlaqutla.
@@ -424,8 +424,8 @@ path know
 He knew where he was all the time (he was familiar with all places on the way).
 
 # 061
-hiy'athhckwi, nuchaal?athh, ?uutl?aqchi.
-hil-'athh-ckwi* nucha*l?athh ?u:tl?aqchi
+hiy'athhckwi, nuchaal?athh, ?uutl'aqchi.
+hil-'athh-ckwi* nucha*l?athh ?u:tl'aqchi
 here-residing-happened Nuchalath Odlaqutla
 place.they.lived Nuchalath Odlaqutla
 Odlaqutla is where Nuchalath lived before [They moved from their original habitat].
@@ -452,7 +452,7 @@ alert because peculiar strange strange day
 The people were alert because it was peculiar and strange — it was a strange day every day .
 
 # 065
-?aahh?asa wii??aqtl?al hishuk, wii??aqtl hinaas?at, hinaas, ?in ?uushhhii qwayac'iik?i.
+?aahh?asa wii??aqtl'al hishuk, wii??aqtl hinaas?at, hinaas, ?in ?uushhhii qwayac'iik?i.
 ?a:hh?asa wi:q-'aqtl-?a*l hish-uk wi:q-'aqtl hina:s-'at hina:s ?in ?u:sh-hhi* qwayac'i:k-?i*
 it.seems unpleasant-inside-PL all-DUR unpleasant-inside dwelling.on-SHIFT dwelling.on because something-DUR wolf-DEF
 it.seems they.were.depressed all depressed worried.about dwelling.on because strange the.wolves
@@ -480,7 +480,7 @@ used.to.sing.songs becoming.night
 He used to sing his song at night.
 
 # 069
-??ac'ikshitl hhaaw'ilatl?i ch'a?uy'ic qwi?ii?itq qwayac'iik?i, muwach.
+??ac'ikshitl hhaaw'ilatl'i ch'a?uy'ic qwi?ii?itq qwayac'iik?i, muwach.
 ??ac'ik-shi(tl) hha:w'ilatl-?i* ch'a?ush-'i*c qwi-'i*c-?i*tq qwayac'i:k-?i* muwach
 know.how.to-MOM young.man-DEF raw-eat that.which-eat-REL.3 wolf-DEF deer
 learned.how.to the.young.man eat.raw.food things.he.eats the.wolves deer
@@ -494,15 +494,15 @@ his food deer when.he.eats
 Deer meat was his main food.
 
 # 071
-waa ?u?iic tl?aqapt. tl?aqapt yaaqwil mamaln'i herbs waa ?u?iic ha?uk.
-wa: ?u-'i*c tl?aqapt tl?aqapt yaqw-(ch)il mamaln'i ~ wa: ?u-'i*c ha?uk
+waa ?u?iic tl'aqapt. tl'aqapt yaaqwil mamaln'i herbs waa ?u?iic ha?uk.
+wa: ?u-'i*c tl'aqapt tl'aqapt yaqw-(ch)il mamaln'i ~ wa: ?u-'i*c ha?uk
 and it-eat plants plants which-with.ref.to white.man ~ say it-eat eat
 and eat plants plants in.ref.to.which white.man ~ call eat eating
 And he ate plants. Plants, or "herbs" as the white men call them, he ate them.
 
 # 073
-wik'atlquuch ?aa?aayaqtlapi, ?umaak ?ahh p'usshitlquu, tuxwiihhaquu, ?in tl?ay'ix qwayac'iik. ?in tl?ay'ix.
-wik-'atl-qu:-ch DUP-?aya-'aqtl-api ?uma:k ?ahh p'us-shi(tl)-qu: tuxwi:hha-qu: ?in tl?ay'ix qwayac'i:k ?in tl?ay'ix
+wik'atlquuch ?aa?aayaqtlapi, ?umaak ?ahh p'usshitlquu, tuxwiihhaquu, ?in tl'ay'ix qwayac'iik. ?in tl'ay'ix.
+wik-'atl-qu:-ch DUP-?aya-'aqtl-api ?uma:k ?ahh p'us-shi(tl)-qu: tuxwi:hha-qu: ?in tl'ay'ix qwayac'i:k ?in tl'ay'ix
 not-FIN-COND.3-INF ??-many-inside-too.much because.of this tired-MOM-COND.3 get.out.of.breath-COND.3 because swift wolf because swift
 he.wouldnt.do eat.too.much because.of this would.get.tired would.get.out.of.breath because swift wolf because swift
 He wouldn't eat too much so as not to get tired or get out of breath: because wolves were swift.
@@ -515,8 +515,8 @@ gallop they not be.running
 They (the wolves) move their feet fast, but they don't run.
 
 # 075
-sa?ak qwaa?iitq tl?ay'ix, chimt'a hhaaw'ilatl?i.
-sa-?ak qwa:-?i*tq tl?ay'ix chimt'a hha:w'ilatl-?i*
+sa?ak qwaa?iitq tl'ay'ix, chimt'a hhaaw'ilatl'i.
+sa-?ak qwa:-?i*tq tl'ay'ix chimt'a hha:w'ilatl-?i*
 crawl-DUR thus-REL.3 swift agile young.man-DEF
 wolf like swift agile the.young.man
 The young man was swift on [all] fours like wolves.
@@ -578,8 +578,8 @@ only.time.they.would.do stop when.it.got.dark
 The only time they stopped was when it got dark.
 
 # 084
-hisiik?al nuuchyuu, tl?aathhapi?i tl?athha?i, kaapsapi.
-his-i*k-?a*l nu:chyu: tl?athh-api-?i* tl?athhak-?i* kaps-api
+hisiik?al nuuchyuu, tl'aathhapi?i tl'athha?i, kaapsapi.
+his-i*k-?a*l nu:chyu: tl'athh-api-?i* tl'athhak-?i* kaps-api
 there-going.along-PL mountain.range cliff-up.in.the.air-DEF cliff-DEF do.suddenly-up.in.the.air
 they.traveled.along mountain.range steep.cliff steep.cliff vertical.cliff
 They travled along mountain ranges, steep hills, steep valleys, and vertical cliffs.
@@ -620,21 +620,21 @@ this.is.how.long.it.took.along.the.coast four.months moon
 They traveled along the coast for four months.
 
 # 090
-chuu, wiinapu?atl ?uushsaac'u hilhhitii ??a?uk ?iihh ??a?ukwaq wiinaputl?al.
+chuu, wiinapu?atl ?uushsaac'u hilhhitii ??a?uk ?iihh ??a?ukwaq wiinaputl'al.
 chu: wi:nap-u(tl)-'atl ?u:sh-sa:c'u hil-(q)hh-it-(y)i: ??a?uk ?i:hh ??a?uk-aq wi:nap-utl-?a*l
 now.then stopping-MOM-FIN somewhere-at.a.place there-SIM-PAST-INDF.3 lake big lake-big stopping-MOM-PL
 now.then they.had.stopped at.some.place wherever.there.was lake big huge.lake they.stopped
 Then they made stops at places where there was a big lake.
 
 # 091
-?uyii?atl?atquuch tiichma hhaaw'ilatl?al ?u?iic'ap'at tiichma muwach, waa hhismisuk? muwach ?u?iich naqshi?atlquuch.
+?uyii?atl'atquuch tiichma hhaaw'ilatl'al ?u?iic'ap'at tiichma muwach, waa hhismisuk? muwach ?u?iich naqshi?atlquuch.
 ?u-(y)i*-'atl-'at-qu:-ch ti:chma hha:w'ilatl-?i* ?u-'i*c-'ap-'at ti:chma muwach wa: hhismis-uk-?i* muwach ?u-'i*c naq-shi(tl)-'atl-qu:-ch
 it-give-FIN-SHIFT-COND.3-INF heart young.man-DEF it-eat-CAUS-SHIFT heart deer and blood-POSS-DEF deer it-consume drink-MOM-FIN-COND.3-INF
 they.would.give.him heart the.young.man he.was.fed heart deer and its.blood deer consume he.would.drink
 The young man was given a heart of a deer to eat, and he drank deer blood.
 
 # 092
-?utwii?ap'atl?atquuch ha?uk, ?ahh?aatl qwayac'iik?i ha?ukshi?atl.
+?utwii?ap'atl'atquuch ha?uk, ?ahh?aatl qwayac'iik?i ha?ukshi?atl.
 ?utwi:-'ap-'atl-'at-qu:-ch ha?uk ?ahh?a:-'atl qwayac'i:k-?i* ha?uk-shi(tl)-'atl
 first?-CAUS-FIN-SHIFT-COND.3-INF eat that-FIN wolf-DEF eat-MOM-FIN
 they.would.let.him.first eating then the.wolves they.ate
@@ -648,8 +648,8 @@ stay.along.a.lake.shore the.wolf the.lake big lake
 The wolves would stop by the shoreline of a like, a big lake.
 
 # 094
-haa?umtaqatlquuch, ?unaak qwayac'iik?i tl?ay'ix. tl?ay'ix muukmuukwa.
-ha?um-caqa-'atl-qu:-ch ?u-na*k qwayac'i:k-?i* tl?ay'ix tl?ay'ix DUP#-mukw-(y)a*
+haa?umtaqatlquuch, ?unaak qwayac'iik?i tl'ay'ix. tl'ay'ix muukmuukwa.
+ha?um-caqa-'atl-qu:-ch ?u-na*k qwayac'i:k-?i* tl'ay'ix tl'ay'ix DUP#-mukw-(y)a*
 food-busy.with.gathering-FIN-COND.3-INF it-having wolf-DEF swift swift ??-run.on.the.fours-CONT
 when.they.hunt they.had the.wolves swift fast running.on.four.legs
 When the wolves hunted, they sent the ones that ran fastest.
@@ -669,7 +669,7 @@ not kill say
 Don't say "kill".
 
 # 097
-wiiy'aat qahhsaap waa?at, sashtup qahhsaap'atl?atquu.
+wiiy'aat qahhsaap waa?at, sashtup qahhsaap'atl'atquu.
 wi:y'a-'at qahh-sa*p wa:-'at sa-shtu*p qahh-sa*p-'atl-'at-qu:
 never-?SHIFT dead-MOMCAUS say-SHIFT crawl-thing dead-MOMCAUS-FIN-SHIFT-COND.3
 never kill it.is.said animal when.you.kill
@@ -732,7 +732,7 @@ it.seems if.it.lisping the.wolves
 The wolves sound as if they are lisping.
 
 # 106
-chuu, yaacshi?atl?al. yaacshitl.
+chuu, yaacshi?atl'al. yaacshitl.
 chu: ya:c-shi(tl)-'atl-?a*l ya:c-shi(tl)
 now.then walk-MOM-FIN-PL walk-MOM
 now.then they.departed departed
@@ -746,8 +746,8 @@ landed.on.the.beach place.called Ohiat there for.a.long.time
 They went to a seaside village called Ohiat and stayed there for quite a while.
 
 # 108
-na?aa hhaw'il?i, hishuk, qum'uus?iq maamahht'i, qum'aaqtl?as?itq.
-na?a: hhaw'il-?i* hish-uk qum'a:-u:s-?i*tq DUP-mahht'i* qum'a:-aqtl?-'as-?i*tq
+na?aa hhaw'il?i, hishuk, qum'uus?iq maamahht'i, qum'aaqtl'as?itq.
+na?a: hhaw'il-?i* hish-uk qum'a:-u:s-?i*tq DUP-mahht'i* qum'a:-aqtl'-'as-?i*tq
 hear chief-DEF all-DUR amount-at.home-REL.3 DISTR-house how.many-inside-in.the.village-REL.3
 heard the.chief all all.people.in.the.house houses the.whole.village
 [And] the chief and everybody — every member of every household in the village — heard them [howling and singing].
@@ -760,7 +760,7 @@ hear they.are.afraid because strange the.wolves ~ making.strange.noise when.they
 They heard him (the wolves) and got afraid because the wolves were strange, making strange noise when they howled.
 
 # 110
-qwii??atl?atlquuch ?ahh muup'it??atl, woo
+qwii??atl'atlquuch ?ahh muup'it??atl, woo
 qwi-??atl-'atl-qu:-ch ?ahh mu:-p'it-??atl ~
 what-make.sound-FIN-COND.3-INF this four-times-make.sound ~
 how.they.would.sound this sounded.four.times ~
@@ -781,22 +781,22 @@ it.was.strange said
 "It's very strange," they said.
 
 # 113
-hashil?atl ??imtnaak ??imtnaak hhaaw'ilatl?i.
+hashil?atl ??imtnaak ??imtnaak hhaaw'ilatl'i.
 hashil-'atl ??imt-na*k ??imt-na*k hha:w'ilatl-?i*
 hear.about-FIN name-having name-having young.man-DEF
 knew having.a.name having.a.name the.young.man
 They knew that the young man had a name (the young man had been initiated).
 
 # 114
-kwisila hhaaw'ilatl?i, tl?ay'uuchitl. wikstupsap.
-kwis-sila hha:w'ilatl-?i* tl?ay'u-`i*chi(tl) wik-stup-sa*p
+kwisila hhaaw'ilatl'i, tl'ay'uuchitl. wikstupsap.
+kwis-sila hha:w'ilatl-?i* tl'ay'u-`i*chi(tl) wik-stup-sa*p
 different-act.like young.man-DEF fast-INC not-thing-MOMCAUS
 changed the.young.man became.faster making.it.nothing
 The young man had changed, getting swift in action, and he didn't have any serious competition [against him].
 
 # 115
-?aahh?asatlquuch hisiikw'aqtl?as
-?a:hh?asa-'atl-qu:-ch his-i*k-'a*qtl?as
+?aahh?asatlquuch hisiikw'aqtl'as
+?a:hh?asa-'atl-qu:-ch his-i*k-'a*qtl'as
 it.seems-FIN-COND.3-INF there-going.along-in.the.woods
 it.was.as.if go.through.bushes
 [When he ran in the woods] it was as if he ran through bushes.
@@ -816,8 +816,8 @@ thus also there tree.on.the.ground tree move.away
 So would the windfalls — they would move out of their way.
 
 # 118
-qwaa ?ahh?aa nashuk?i tl?achshi?atlquuch.
-qwa: ?ahh?a: nashuk-?i* tl?ach-shi(tl)-'atl-qu:-ch
+qwaa ?ahh?aa nashuk?i tl'achshi?atlquuch.
+qwa: ?ahh?a: nashuk-?i* tl'ach-shi(tl)-'atl-qu:-ch
 thus that thicket-DEF fold-MOM-FIN-COND.3-INF
 thus that the.thicket folded.down
 The same with the thickets — they would be folded down on the ground.
@@ -1026,8 +1026,8 @@ it.became.the.fourth.day it.became.daylight
 It became daylight on the fourth day.
 
 # 148
-wik'iit ?ink. wik'iit ?ink. ?ana?is hhaal tl?ix?aqtl?a?a.
-wik'i:t ?ink wik'i:t ?ink ?ana-?is hha:l tl?ix-'aqtl-'a*?a
+wik'iit ?ink. wik'iit ?ink. ?ana?is hhaal tl'ix?aqtl'a?a.
+wik'i:t ?ink wik'i:t ?ink ?ana-?is hha:l tl'ix-'aqtl-'a*?a
 none.present fire none.present fire only-DIM there spark-inside-in.the.fire
 none.present fire none.present fire only there sparks.in.the.fire
 [In the fireplace in the Big House], There were no flames — only sparks.
@@ -1040,8 +1040,8 @@ many.magical.things the.fire
 There was something extraordinary about the fire.
 
 # 150
-tl?ix?aqtl?a?a ?iq hhaal tl?uchqak?i.
-tl?ix-'aqtl-'a*?a ?iq hha:l tl?uchqak-?i*
+tl'ix?aqtl'a?a ?iq hhaal tl'uchqak?i.
+tl'ix-'aqtl-'a*?a ?iq hha:l tl'uchqak-?i*
 spark-inside-in.the.fire still there knot-DEF
 sparks.in.the.fire still there the.knot
 The knot [burning in the fireplace] was still showing flashes [even after a long time].
@@ -1096,8 +1096,8 @@ they.would.circle.about wolf house doing.that doing.four.times
 The wolves would circle around the house four times.
 
 # 158
-?eey hitaaqtl?itl.
-~ hita-'a*qtl?i(tl)
+?eey hitaaqtl'itl.
+~ hita-'a*qtl'i(tl)
 ~ there.MOM-in.the.woods
 ~ go.into.the.woods
 Now, they went into the woods.
@@ -1187,8 +1187,8 @@ they.captured started.over.again Wolf.Ceremony
 People captured him (the young man). They started the ritual all over again.
 
 # 171
-hayimhhat qwicachitl?i qwayac'iik?i, hitaaqtlitl.
-hayim-hhi*-'at qwi-ca-chi(tl)-?i* qwayac'i:k-?i* hita-'a*qtl?i(tl)
+hayimhhat qwicachitl'i qwayac'iik?i, hitaaqtlitl.
+hayim-hhi*-'at qwi-ca-chi(tl)-?i* qwayac'i:k-?i* hita-'a*qtl'i(tl)
 not.knowing-DUR-SHIFT that.which-go.to-MOM-DEF wolf-DEF there.MOM-in.the.woods
 didnt.know where.they.had.gone the.wolves go.into.woods
 They didn't know where those wolves had gone in the woods.
@@ -1208,21 +1208,21 @@ Again they howled four times.
 _woo_ _woo_ _woo_ _woo_ — this is how they sounded.
 
 # 174
-hiniip'at hhaaw'ilatl?i.
+hiniip'at hhaaw'ilatl'i.
 hini:p-'at hha:w'ilatl-?i*
 take.long-SHIFT young.man-DEF
 was.taken.along the.young.man
 The young man was taken away.
 
 # 175
-chuu, waa?atl ?iichim?i, wik?aqtl?ick ?iiqhhuk, wik?aqtl?ick ?iiqhhuk, qwis?anitiik n'upq?ichhh. ?uuc\hha?aqtl?ick n'upchiil.
+chuu, waa?atl ?iichim?i, wik?aqtl'ick ?iiqhhuk, wik?aqtl'ick ?iiqhhuk, qwis?anitiik n'upq?ichhh. ?uuc\hha?aqtl'ick n'upchiil.
 chu: wa:-'atl ?i:chim-?i* wik-'aqtl-?ick ?i:qhh-uk wik-'aqtl-?ick ?i:qhh-uk qwis-'at-it-(y)i:k n'up-q?ichhh ?u-c\hha-'aqtl-?ick n'up-chi*l
 now.then say-FIN very.old-DEF not-FUT-IND.2SG telling-DUR not-FUT-IND.2SG telling-DUR do.so-SHIFT-PAST-INDF.2SG one-year it-go.in.order.to-FUT-IND.2SG one-days.long
 now.then he.said.it the.elder you.shall.not tell you.shall.not tell whatever they.did.to.you one.year shall.be.gone.for.it one.day
 "Listen," the elder said, "Do not tell whatever they have done to you to anybody for one year. You will be away for one year."
 
 # 176
-haptsaap'at hhaaw'ilatl?i, wik'ap'at.
+haptsaap'at hhaaw'ilatl'i, wik'ap'at.
 hapt-sa*p-'at hha:w'ilatl-?i* wik-'ap-'at
 hide-MOMCAUS-SHIFT young.man-DEF not-CAUS-SHIFT
 was.hidden.away the.young.man so.he.cannot
@@ -1250,8 +1250,8 @@ sometimes.he.would.do went.out.hunting.on.the.water hair.seal.in.the.canoe two.i
 Sometimes he would go out hunting and get two hairseals in his canoe.
 
 # 180
-?ahh qwaa?ap ?aniic tl?aaq, ?uhh?iish tl?qapt qwi?iic'ap'ani?itq qwayac'iik.
-?ahh qwa:-'ap ?ana-'i*c tl?a:q ?uhh?i:sh tl?aqapt qwi-'i*c-'ap-'at-it-?i*tq qwayac'i:k
+?ahh qwaa?ap ?aniic tl'aaq, ?uhh?iish tl'qapt qwi?iic'ap'ani?itq qwayac'iik.
+?ahh qwa:-'ap ?ana-'i*c tl'a:q ?uhh?i:sh tl'aqapt qwi-'i*c-'ap-'at-it-?i*tq qwayac'i:k
 this thus-CAUS only-eat fat and plants that.which-eat-CAUS-SHIFT-PAST-REL.3 wolf
 he doing.that only.eat fat and plants what.he.was.given wolf
 He only ate blubber and plants that he was fed by the wolves.
@@ -1425,7 +1425,7 @@ he.would.sit.there.on.the.ground there bathing
 There he was sitting on the ground while I was bathing.
 
 # 204
-?uyaasila ??iniitl?i.
+?uyaasila ??iniitl'i.
 ?uya:-sila ??ini:tl-?i*
 peculiar-act.like dog-DEF
 act.strangely the.dog
