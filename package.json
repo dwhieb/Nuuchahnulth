@@ -2,26 +2,23 @@
   "name": "nuuchahnulth",
   "version": "1.0.0",
   "description": "Linguistic data on the Nuuchahnulth (Wakashan) language",
-  "main": "convert.js",
-  "scripts": {
-    "start": "node --experimental-modules --no-warnings node test.mjs"
-  },
   "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dwhieb/Nuuchahnulth.git"
   },
   "keywords": [
-    "Nuuchahnulth"
+    "Nuuchahnulth",
+    "linguistics"
   ],
-  "author": "\"Daniel W. Hieber\"",
+  "author": "Daniel W. Hieber",
   "license": "none",
-  "bugs": {
-    "url": "https://github.com/dwhieb/Nuuchahnulth/issues"
-  },
   "homepage": "https://github.com/dwhieb/Nuuchahnulth#readme",
+  "engines": {
+    "node": "14.x"
+  },
   "devDependencies": {
-    "@digitallinguistics/transliterate": "^0.1.4",
-    "eslint": "^6.8.0"
+    "@digitallinguistics/transliterate": "^0.2.1",
+    "eslint": "^7.4.0"
   }
 }
