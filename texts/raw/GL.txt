@@ -4,11 +4,11 @@ abbreviation: GL
 ID:           GL1
 ---
 # 001
-\trs ?uckwiis             kinhhuul.
-\m   ?u-ckwi*-s           kinhhu:l
-\gl  he-remains.of-1SG    NAME
-\lit I.am.a.descendent.of NAME
-\tln I am a descendent of _kinḥuuɬ_.
+?uckwiis             kinhhuul.
+?u-ckwi*-s           kinhhu:l
+he-remains.of-1SG    NAME
+I.am.a.descendent.of NAME
+I am a descendent of _kinḥuuɬ_.
 
 # 002
 ?uckwiis             kinhhuul, ?ukchiil                      kwaatya, yaqukwitii           luucma, kwaatya ?uklaa.
@@ -168,11 +168,11 @@ it.was.snowing
 It was snowing.
 
 # 025
-\trs-en [month of February], 1912 ?uyimts, ?uyickwisa ?ahh?aa qu?iichitl
-\m ~ ~ ?uyi-imt-s ?uyi-ckwi*-sa ?ahh?a: qu?i:chi(tl)
-\gl ~ ~ at.the.time-PAST-1SG at.the.time-happened-1SG that be.born
-\lit ~ ~ I.did.at.that.time I.did.at.the.time that be.born
-\tln Month of February, 1912—that's when I was born.
+[month of February], 1912 ?uyimts, ?uyickwisa ?ahh?aa qu?iichitl
+~ ~ ?uyi-imt-s ?uyi-ckwi*-sa ?ahh?a: qu?i:chi(tl)
+~ ~ at.the.time-PAST-1SG at.the.time-happened-1SG that be.born
+~ ~ I.did.at.that.time I.did.at.the.time that be.born
+Month of February, 1912—that's when I was born.
 
 # 026
 waa haa  hiisa?ac'atlits   ??upnit
@@ -479,6 +479,7 @@ Son of Gum Woman left in a canoe. [He started later than he planned because his 
 
 # 070
 \trs "kwatkwatamiyaa yaa ?iishc'iipm'iit"
+\tln "kwatkwatamiyaa yaa ?iishc'iipm'iit"
 
 # 071
 waa?atlhh hupkwista hupal tl'upiichi?atl

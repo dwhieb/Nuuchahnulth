@@ -1,126 +1,172 @@
 ---
 title:        Gray whales
 abbreviation: GrayWhale
-ID:           3
+ID:           GL3
 ---
-
-
-[p. 222]
-
-
-
-# 1
+# 001
 maaʔak maaʔuk maaʔukʷis haʔumn̓aḥ.
 maːʔak maːʔuk maːʔuk-ʔis haʔum-n̓a·ḥ
+gray.whale travel travel-DIM food-seeking
+gray.whale travel stop.by.at.various.places searching.for.food
+The gray whale while traveling stops by at various places to search for food.
 
-# 2
-maaʔak histaqšiƛʔaɬ t̓aqsiiʔiɬ.
+# 002
+maaʔak histaqšiƛ̓aɬ t̓aqsiiʔiɬ.
 maːʔak his-taq-ši(ƛ)-ʔa·ɬ t̓aqsiːʔiɬ
+gray.whale there-come.from.MOM-PL southern.area
+gray.whale they.come.from.there southern.area
+Gray whales are from the southern area.
 
-# 3
+# 003
 n̓aač̓aɬuk̓ʷaƛquuč quuʔas ƛ̓aqapt n̓aacsa ƛ̓aqswaasʔaƛquu ʔaʔum ʕiiɬmakt.
-n̓ač-ʔaɬuk-ʔaƛ-quː-č quːʔas ƛ̓aqapt n̓aːcsa ƛ̓aq-swi·-ʔas-ʔaƛ-quː ʔaʔum ʕiːɬmakt
+n̓ač-ʼaɬuk-ʼaƛ-quː-č quːʔas ƛ̓aqapt n̓aːcsa ƛ̓aq-swi·-ʼas-ʼaƛ-quː ʔaʔum ʕiːɬmakt
+see-looking.after-FIN-COND-INF person plants see grow-extending.through-on.the.ground-FIN-COND at.first nettle
+would.watch person plants see when.it.sprouts at.first nettle
+Men would watch the plant(s) to see when the nettle first sprouts.
 
-[p. 223]
+# 004
+čuu, waa quuʔasʔi ḥamat ƛ̓aqswaasʔaƛ̓iš ʕiiɬmakt.
+čuː wa· quːʔas-ʔi· ḥamat ƛ̓aq-swi·-ʼas-ʼaƛ-ʔi·š ʕiːɬmakt
+now.then and person-DEF plain grow-extending.through-on.the.ground-FIN-IND.3 nettle
+now.then and the.man plain have.started.to.sprout nettle
+Now [my] people, you can plainly see that the nettle(s) have started to grow.
 
+# 005
+ƛ̓aqšiʔaƛ̓eeš.
+ƛ̓aq-ši(ƛ)-ʼaƛ-ʔi·š
+grow-MOM-FIN-IND.3
+it.is.growing
+Now it is spring.
 
-
-# 4
-čuu, waa quuʔasʔi ḥamat ƛ̓aqswaasʔaƛʔiš ʕiiɬmakt.
-čuː wa· quːʔas-ʔi· ḥamat ƛ̓aq-swi·-ʔas-ʔaƛ-ʔi·š ʕiːɬmakt
-
-# 5
-ƛ̓aqšiʔaƛʔeeš.
-ƛ̓aq-ši(ƛ)-ʔaƛ-ʔi·š
-
-# 6
+# 006
 ʔuyi maaʔak pisšiƛ yaacšiƛ histaqšiƛ kaɬapooɬiyaquu.
 ʔuyi maːʔak pis-ši(ƛ) yaːc-ši(ƛ) his-taq-ši(ƛ) kaɬapoːɬiya-quː
+at.that.time gray.whale move-MOM walk-MOM there-come.from-MOM California-COND
+at.that.time gray.whale begin.to.move begin.to.walk came.from California.area
+It is the time when the gray whale(s) start to move, to migrate from [some place around] California.
 
-[p. 224]
-
-
-
-# 7
+# 007
 maaʔak ʔuʔiic ƛičḥsa, cacak̓is.
-maːʔak qu-ʔi·c ƛičḥsa cacak̓is
+maːʔak qu-ʼi·c ƛičḥsa cacak̓is
+gray.whale it-eat plankton razor.clam
+gray.whale eat.it plankton razor.clam
+The gray whale feeds on plankton and razor clams.
 
-# 8
+# 008
 ƛaan̓uɬ qimaɬitwaʔišʔaɬ maaʔak.
 ƛaːn̓uɬ qim-aɬ-it-wa·-ʔi·š-ʔa·ɬ maːʔak
+barnacle ??-attached.on-on.the.body-say-IND.3-PL gray.whale
+barnacle they.get.them.attached.on.the.body gray.whale
+The gray whales get barnacles on the body.
 
-# 9
+# 009
 qʷaawaaʔiš qʷaaʔiitq quuʔas č̓iḥsuuqƛiič.
 qʷaː-wa·-ʔi·š qʷaː-ʔi·tq quːʔas č̓iḥ-su·qƛ-(y)iː-č
+thus-say-IND.3 thus-REL.3 person spirit-inside.the.body-INDF-INF
+to.be.thus.it.is.said like person having.spirit.inside.the.body
+They say that, like a human, they have a spirit inside the body.
 
-# 10
-wiḥiʔuƛwaʔišʔaaɬ maaʔak [p. 225] ʔuušyuuya.
-wiḥi-ʔu·ƛ-wa·-ʔi·š-ʔaːɬ maːʔak ʔuːš-yuːya
+# 010
+wiḥiʔuƛwaʔišʔaaɬ maaʔak  ʔuušyuuya.
+wiḥi-ʼu·ƛ-wa·-ʔi·š-ʔaːɬ maːʔak ʔuːš-yuːya
+on.dry.land-on.the.rocks-QUOT-IND.3-always gray.whale some-at.the.time
+goes.ashore gray.whale sometimes
+They sometimes would go to the rocky shoreline.
 
-# 11
-wik̓iituƛʔaɬ ƛaan̓uɬ qʷičisituusii
-wik̓iːt-uƛ-ʔa·ɬ ƛaːn̓uɬ qʷi-čis-it-uːsi-(y)iː ʔusit-ʔat-ʔi.
+# 011
+wik̓iituƛ̓aɬ ƛaan̓uɬ qʷičisituusii ʔusit̓atʔi.
+wik̓iːt-uƛ-ʔa·ɬ ƛaːn̓uɬ qʷi-čis-it-uːsi-(y)iː ʔusit-ʼat-ʔi·
+absent-MOM-PL barnacle that.which-??-on.the.body-REL.DUB.3-INDF body-POSS-DEF
+they.get.rid.of barnacle whatever.might.be.on.the.body its.body
+They [gray whales] get rid of barnacles that are on their bodies.
 
-# 12
+# 012
 puumaɬituƛwaʔišʔaaɬ y̓uuqʷaa qʷaaʔiitq quuʔas.
 puːmaɬ-it-uƛ-wa·-ʔi·š-ʔaːɬ y̓uːqʷaː qʷaː-ʔi·tq quːʔas
+itching-on.the.body-MOM-QUOT-IND.3-always also thus-REL.3 human
+would.get.itchy.on.the.body also like human
+They [gray whales] get itchy on the body like humans.
 
-[p. 226]
-
-
-
-# 13
+# 013
 haatkhaatkmiʔa m̓uukuukʔi m̓uukuukquu.
 DUP#-hatk-mi·ʔa m̓uːkuːk-ʔi· m̓uːkuːk-quː
+IT-roll-move.on.the.rock rock-DEF rock-COND
+keep.rolling.on.the.rock the.sea.floor where.are.rocky
+They would roll and roll on the rocks.
 
-# 14
+# 014
 hitaatap k̓aʔaqmis haatkhaatkʷa.
-hita-ʔa·ta-ʔap k̓aʔaqmis DUP#-hatkʷ-(y)a
+hita-ʔa·ta-ʼap k̓aʔaqmis DUP#-hatkʷ-(y)a
+LOC-lacking-CAUS rubbish IT-roll-REP
+take.off rubbish roll.repeatedly
+They roll repeatedly on the rocks to remove the rubbish [on their body].
 
-# 15
+# 015
 ʔacʔin ʔukɬaaʔakʷaʔiš hiy̓aḥsʔitq.
-ʔac-ʔin ʔu-kɬaː-ʔak-wa·-ʔi·š hiɬ-ʔaḥs-ʔi·tq
+ʔac-ʔin ʔu-kɬaː-ʔak-wa·-ʔi·š hiɬ-ʼaḥs-ʔi·tq
+go.out.hunting-costume.for it-having.as.name-POSS-QUOT-IND.3 LOC-in.a.vessel-REL.3
+hunting.suit they.say.his.is.called where.they.sit.in
+They say that [the whale's body] is called the 'hunting suits' where he is inside [the whale]. (?)
 
-[p. 227]
-
-
-
-# 16
+# 016
 čuu, yaacaa yaacšiƛ.
 čuː yaːc-(y)a· yaːc-ši(ƛ)
+now.then walk-DUR walk-MOM
+now.then walking begin.to.walk
+Now he is ready to depart.
 
-# 17
+# 017
 wiḥisaƛ maʔasʔi
 wiḥi-sa(ƛ) maʔas-ʔi·
+on.dry.land-on.the.beach village-DEF
+land.on.the.beach the.village
+He goes ashore at places where there is a village.
 
-# 18
+# 018
 maaʔukʷis. qun̓aaḥ čamp̓uuqsquu quuʔas maatmaas.
 maːʔuk-ʔis ʔu-n̓a·ḥ čam-p̓u·qs-quː quːʔas maːtmaːs
+travel-DIM it-seeking good-smelling.of-COND person villages
+stop.by.at.various.places looking.for what.smells.good person villages
+It stops by at various places, looking for a village where people smell good — i.e. have bathed every day to get rid of odor, and thus are ritually pure and well prepared.
 
-[p. 228]
-
-
-
-# 19
+# 019
 huuʔakitwaʔišʔaaɬ ƛimkšiƛ quuʔas
 huːʔak-it-wa·-ʔi·š-ʔaːɬ ƛimk-ši(ƛ) quːʔas
+early-PAST-QUOT-IND.3-always awake-MOM person
+used.to.do.early wake.up person
+Long ago, people used to wake up early in the morning.
 
-# 20
+# 020
 huuʔaksy̓uuč. wiky̓uuquu k̓aaʔin ciɬšiƛ hiɬaasc̓a.
 huːʔak-sy̓uːč wiky̓uː-quː k̓aːʔin ciɬ-ši(ƛ) hiɬ-a·sc̓a
+early-exposed? before-COND crow drop.droppings-MOM LOC-on.the.roof
+early? before crow drop.droppings on.the.roof
+They started their day before the crows left droppings on the roof.
 
-# 21
+# 021
 taakšiƛ n̓ač̓uuʔas mixtukʔi nawaay̓as.
-taːkšiƛ n̓ač-ʔu·(ƛ)-ʔas mixtuk-ʔi· nawa·s-ʔas
+taːkšiƛ n̓ač-ʼu·(ƛ)-ʼas mixtuk-ʔi· nawa·s-ʼas
+always see-on.the.rocks-outdoors aged-DEF sitting.idly-outdoors
+always look.out the.old.person sitting.idly.outside
+The old men were always sitting looking about.
 
-# 22
+# 022
 wik̓iitukʔaɬ ʕiʕiqatʕin.
 wik̓iːt-uk-ʔa·ɬ DUP-ʕiqat-ʕin
+absent-DUR-PL DISTR-drip-make.sound
+they.did.not.have watch
+They did not have a watch.
 
-# 23
+# 023
 ʔuuktisʔaɬ ḥaay̓iis muuɬisʔaƛquu.
-ʔu-ktis-ʔa·ɬ ḥaːy̓iːs muːɬ-ʔis-ʔaƛ-quː
+ʔu-ktis-ʔa·ɬ ḥaːy̓iːs muːɬ-ʔis-ʼaƛ-quː
+it-acting.by.reference.to-PL low.tide tide.is.up-on.the.beach-FIN-COND
+they.are.guided.by low.tide high.tides
+They acted by reference to low and high tides.
 
-# 24
+# 024
 n̓aač̓aɬuk hupaɬ, qʷaaʔuuc.
-n̓ač-ʔaɬuk hupaɬ qʷaːʔuːc
+n̓ač-ʼaɬuk hupaɬ qʷaːʔuːc
+see-looking.after moon moon
+watch moon moon
+They watched the moon [to determine the time].
