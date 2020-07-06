@@ -117,7 +117,16 @@ SIM          | simultaneous (‘while doing…’)
 SPOR         | sporadic aspect
 SUB          | subordinate mood
 
-[IGL]:       https://www.eva.mpg.de/lingua/resources/glossing-rules.php
-[IPA]:       https://www.internationalphoneticalphabet.org/
-[new-issue]: https://github.com/dwhieb/Nuuchahnulth/issues/new
-[scription]: https://scription.digitallinguistics.io
+## Converting the Corpus
+
+To transcribe the corpus, a simplified writing system with no special characters was used, and then the entire corpus was converted to its original <dfn>orthography</dfn> (a language's writing system) using the [Digital Linguistics][DLx] [transliterate library][transliterate].
+
+If you would like to run the conversion script used to convert the texts from their simplified format to the original orthography, you will need to install [Node.js][Node], clone this repository to your computer, and then run the command `npm start` from the command line in this repository.
+
+[DLx]:           https://digitallinguistics.io
+[IGL]:           https://www.eva.mpg.de/lingua/resources/glossing-rules.php
+[IPA]:           https://www.internationalphoneticalphabet.org/
+[new-issue]:     https://github.com/dwhieb/Nuuchahnulth/issues/new
+[Node]:          https://nodejs.org/en/
+[scription]:     https://scription.digitallinguistics.io
+[transliterate]: https://developer.digitallinguistics.io/transliterate/
