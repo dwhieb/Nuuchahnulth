@@ -11,3 +11,9 @@ If you would like to use the data in the repository for research, please cite th
 * Nakayama, Toshihide (ed.). 2003. <cite>George Louie's Nuu-chah-nulth (Ahousaht) texts with grammatical analysis</cite> (Endangered Languages of the Pacific Rim A2-028). Kyoto: Nakanishi Printing Co.
 
 For other uses of this data, please contact [Toshihide Nakayama](mailto:nakayama@aa.tufs.ac.jp).
+
+## Reporting Typos & Issues
+
+To report a typo or other problem, please [open an issue][issues] on GitHub.
+
+[new-issue]: https://github.com/dwhieb/Nuuchahnulth/issues/new
