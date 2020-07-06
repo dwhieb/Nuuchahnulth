@@ -22,6 +22,7 @@
   },
   "devDependencies": {
     "@digitallinguistics/transliterate": "^0.2.1",
+    "@digitallinguistics/word-aligner": "^0.1.2",
     "eslint": "^7.4.0",
     "fs-extra": "^9.0.1",
     "smartquotes": "^2.3.1"

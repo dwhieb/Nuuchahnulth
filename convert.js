@@ -36,7 +36,7 @@ function convertText(text) {
   .map(([num, trs, txn, ...lines]) => {
 
     if (trs.startsWith(`\\trs`)) {
-      return [num, trs, txn, ...lines];
+      return [num, convertQuotes(trs), txn, ...lines];
     }
 
     return [

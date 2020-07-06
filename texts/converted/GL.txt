@@ -478,7 +478,7 @@ The girl slept in.
 Son of Gum Woman left in a canoe. [He started later than he planned because his wife didn’t wake him up early.]
 
 # 070
-\trs "kwatkwatamiyaa yaa ?iishc'iipm'iit"
+\trs “kwatkwatamiyaa yaa ?iishc’iipm’iit”
 \tln “kwatkwatamiyaa yaa ?iishc’iipm’iit”
 
 # 071
@@ -1108,7 +1108,7 @@ I.have friend it.was.said.to.me ~
 I have got a friend, Toshi said to me.
 
 # 162
-\trs-en Toshi said I've got a girlfriend.
+\trs-en Toshi said I’ve got a girlfriend.
 \tln Toshi said I’ve got a girlfriend.
 
 # 163
