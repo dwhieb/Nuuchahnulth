@@ -13,6 +13,7 @@ The texts are available in the `texts/converted` folder.
 - [Text Format](#text-format)
 - [Sounds of Nuuchahnulth](#sounds-of-nuuchahnulth)
 - [Abbreviations](#abbreviations)
+- [Converting the Corpus](#converting-the-corpus)
 
 <!-- /TOC -->
 
