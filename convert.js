@@ -7,6 +7,7 @@
   no-await-in-loop,
 */
 
+import convertQuotes     from 'smartquotes';
 import { createRequire } from 'module';
 import fs                from 'fs-extra';
 import { transliterate } from '@digitallinguistics/transliterate/transliterate.js';
@@ -45,6 +46,11 @@ function convertText(text) {
       ...lines,
     ];
 
+  })
+  .map(u => {
+    let translation = u.pop();
+    translation     = convertQuotes(translation);
+    return [...u, translation];
   })
   .map(u => u.join(`\r\n`))
   .join(`\r\n\r\n`);
