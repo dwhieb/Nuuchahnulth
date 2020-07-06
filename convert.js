@@ -33,16 +33,16 @@ function convertText(text) {
   .map(u => u.split(newLineRegExp))
   .map(u => u.filter(Boolean))
   .map(u => u.map(line => line.trim()))
-  .map(([num, trs, txn, ...lines]) => {
+  .map(([num, trs, morphemes, ...lines]) => {
 
     if (trs.startsWith(`\\trs`)) {
-      return [num, convertQuotes(trs), txn, ...lines];
+      return [num, convertQuotes(trs), morphemes, ...lines];
     }
 
     return [
       num,
       transliterate(trs, substitutions),
-      transliterate(txn, substitutions),
+      transliterate(morphemes, substitutions),
       ...lines,
     ];
 
