@@ -25,6 +25,12 @@ If you would like to use the data in the repository for research, please cite th
 
 * Nakayama, Toshihide (ed.). 2003. _George Louie's Nuu-chah-nulth (Ahousaht) texts with grammatical analysis_ (Endangered Languages of the Pacific Rim A2-028). Kyoto: Nakanishi Printing Co.
 
+You may also use the stable DOI made available through Zenodo to cite this online version of the corpus:
+
+**DOI:**[10.5281/zenodo.3931864](http://doi.org/10.5281/zenodo.3931864)
+
+[![DOI](https://zenodo.org/badge/181127642.svg)](https://zenodo.org/badge/latestdoi/181127642)
+
 For other uses of this data, please contact [Toshihide Nakayama](mailto:nakayama@aa.tufs.ac.jp).
 
 ## Reporting Typos & Issues
