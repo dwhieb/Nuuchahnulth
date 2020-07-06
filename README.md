@@ -28,7 +28,7 @@ For other uses of this data, please contact [Toshihide Nakayama](mailto:nakayama
 
 ## Reporting Typos & Issues
 
-To report a typo or other problem, please [open an issue][issues] on GitHub.
+To report a typo or other problem, please email [Daniel W. Hieber](mailto:dwhieb@gmail.com).
 
 ## Text Format
 
