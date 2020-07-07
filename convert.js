@@ -36,11 +36,11 @@ function convertText(text) {
   .map(u => u.map(line => line.trim()))
   .map(lines => {
 
-    const [, transcript] = lines;
+    const [num, transcript] = lines;
 
     if (transcript.startsWith(`\\trs`)) {
 
-      const [num,, tln] = lines;
+      const [,, tln] = lines;
 
       const trs = transcript.startsWith(`\\trs-en`) ?
         convertQuotes(transcript) :
@@ -50,7 +50,7 @@ function convertText(text) {
 
     }
 
-    const [num,, morphemes, glosses, literal, translation, note] = lines;
+    const [,, morphemes, glosses, literal, translation, note] = lines;
 
     return [
       num,
