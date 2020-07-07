@@ -13,8 +13,8 @@ they.say.it.was.very.calm morning woke.up Son.of.Deer
 It was a very calm morning. Son of Deer woke up.
 
 # 002
-??aasiqnakshitl liliitapi?aqtl.
-??a*siq-na*k-shitl lili:tapi-?a*qtl
+<aasiqnakshitl liliitapi?aqtl.
+<a*siq-na*k-shitl lili:tapi-?a*qtl
 plan-having-MOM go.jigging-FUT
 he.got.a.plan he.was.going.jigging
 He got a plan: he was going jigging.
@@ -78,7 +78,7 @@ When he thought that they would not hear him was when he added, "bony nose! bone
 # 011
 ?a?aquuk muwaachm'eet, waa?atl'at.
 DUPCV-?aqi-?u:k muwach-m'i*t wa*-'atl-'at
-DISTR-what-?? deer-son.of say-FINITE-SHIFT
+DISTR-what-< deer-son.of say-FINITE-SHIFT
 what.did.you.say Son.of.Deer they.said.to.him
 "What did you say, Son of Deer?" they said.
 
@@ -155,7 +155,7 @@ we.heard what.you.said to.us they.said.to.him
 # 022
 sukwi?at, kilw'inqsi?atuk ch'apac, hiniicsu?at.
 sukwi(tl)-'at kil-w'inq-si-'at-uk ch'apac hin-i:c-su(tl)-'at
-take-SHIFT carry.a.canoe-in.the.middle-??-SHIFT-POSS canoe there-take.along-move.away?-SHIFT
+take-SHIFT carry.a.canoe-in.the.middle-<-SHIFT-POSS canoe there-take.along-move.away?-SHIFT
 they.captured.him carry.his.canoe.across.theirs canoe they.took.him.away.with.them
 They took him, put his canoe across theirs, and took him along.
 
@@ -190,20 +190,20 @@ he had to do a lot of things the chief wanted him to do.
 # 027
 ?uushyuuyatlquuch ?uukchamalchiqhh qwayac'iikm'inhh?is?i.
 ?u:sh-yu:ya-'atl-qu:-ch ?u-kchi-amalchi-(q)hh qwayac'i:k-m'inhh-?is-?i*
-some-at.the.time-FINITE-COND-INF.3 they-along-with-??-SIM wolf-PL-DIM-DEF
+some-at.the.time-FINITE-COND-INF.3 they-along-with-<-SIM wolf-PL-DIM-DEF
 sometimes.he.would he.did.together.with the.wolf.cubs
 Sometimes he had to play with the little wolves.
 
 # 028
-kwiitlkwiiyaqil?atlwa?ish tl'uch'umckwi ch'iimaqiil hila??aqilhh ?inkwil?i, nunuukhh.
-DUPCVtl-kwi-yaq-`il-'atl-wa*?i*sh tl'uch'um-ckwi* ch'i:maq-i:l hil-a??aq-`il-(q)hh ?inkw-`il-?i* nunu:k-(q)hh
+kwiitlkwiiyaqil?atlwa?ish tl'uch'umckwi ch'iimaqiil hila<aqilhh ?inkwil?i, nunuukhh.
+DUPCVtl-kwi-yaq-`il-'atl-wa*?i*sh tl'uch'um-ckwi* ch'i:maq-i:l hil-a<aq-`il-(q)hh ?inkw-`il-?i* nunu:k-(q)hh
 SPOR-sharpening-REP?-on.the.floor-FINITE-QUOT.3 blue.mussel-remains.of knife-make there-beside-on.the.floor-SIM fire-on.the.floor-DEF singing-SIM
 he.kept.sharpening.on.the.floor mussel.shell making.a.knife while.sitting.beside.it.on.the.floor the.fire.on.the.floor while.singing
 He sat sharpening some mussel shells making knives beside the fire, singing.
 
 # 029
-??aasiqnakshitl.
-??a*siq-na*k-shitl
+<aasiqnakshitl.
+<a*siq-na*k-shitl
 plan-having-MOM
 he.got.a.plan
 He got a plan.
@@ -230,9 +230,9 @@ come.here Son.of.Deer sing.to.me so.I.can.sleep said the.chief
 "Come here, Son of Deer. Sing to me so I can go to sleep," said the chief.
 
 # 033
-tlawa?ii muwaachm'it, tl'ika??aqpitl nuu??itl.
-tlawa-?i: muwach-m'i*t tl'ik-a??aq-`pitl nu-??itl
-near-reach deer-son.of kneel-beside-in.house sing-??
+tlawa?ii muwaachm'it, tl'ika<aqpitl nuu<itl.
+tlawa-?i: muwach-m'i*t tl'ik-a<aq-`pitl nu-<itl
+near-reach deer-son.of kneel-beside-in.house sing-<
 approach Son.of.Deer knelt.by.on.the.floor started.to.sing
 Son of Deer went near him, knelt down and started to sing.
 
@@ -244,9 +244,9 @@ sleeping sleeping SONG SONG his.says song
 "Sleep, sleep, hauy, hauy," his song said.
 
 # 035
-nasatls wa?ichutl. ??aqc'aqhht'ana?i, waa?atl'atla.
-nas-'atl-s wa?ich-utl ??aq-c'aqhh-t'a*na-'i* wa*-'atl-'at-tla*
-try.in.vain-FINITE-1SG sleeping-MOM make.loud.noise-??-slightly-IMP say-FINITE-SHIFT-also
+nasatls wa?ichutl. <aqc'aqhht'ana?i, waa?atl'atla.
+nas-'atl-s wa?ich-utl <aq-c'aqhh-t'a*na-'i* wa*-'atl-'at-tla*
+try.in.vain-FINITE-1SG sleeping-MOM make.loud.noise-<-slightly-IMP say-FINITE-SHIFT-also
 I.cant slept sing.a.little.louder they.said.to.him.again
 "I can't go to sleep. Sing louder," he was told.
 
@@ -258,9 +258,9 @@ first.do.it move.up.a.little.bit.on.the.floor said Son.of.Deer put.your.head.bac
 "First, move up a little bit, and put your head back a little bit," Son of Deer said.
 
 # 037
-nunuukshitl hu?aas, kuw'ilatl ??aqc'aqhhshitl.
-nunu:k-shitl hu?a-a:s kuw'ila-'atl ??aq-c'aqhh-shitl
-singing-MOM again obey-FINITE make.loud.noise-??-MOM
+nunuukshitl hu?aas, kuw'ilatl <aqc'aqhhshitl.
+nunu:k-shitl hu?a-a:s kuw'ila-'atl <aq-c'aqhh-shitl
+singing-MOM again obey-FINITE make.loud.noise-<-MOM
 sing again do.as.told sang.louder
 He started to sing agian; he sang louder as told.
 
@@ -300,8 +300,8 @@ ran.out carrying.along the.head
 He ran out carrying the head.
 
 # 043
-hitaa??atap ch'apac?isuk?i.
-hita-a*??atu-'ap ch'apac-?is-uk-?i*
+hitaa<atap ch'apac?isuk?i.
+hita-a*<atu-'ap ch'apac-?is-uk-?i*
 LOC-move.down-MOMCAUS canoe-DIM-POSS-DEF
 took.it.down his.little.canoe
 He took down his little canoe.
@@ -342,9 +342,9 @@ realize that wet.on.the.bed
 She realized that she was wet.
 
 # 049
-chatshitl chakupuk tlumkshi?i, tlumkshi?i w'aaw'aakumsasila?ick ??uqwil.
-chat-shitl chakup-uk tlumk-shitl-'i* tlumk-shitl-'i* w'a:-kum-sa-sila-?ick ??uq-`il
-push-MOM husband-POSS awoke-MOM-IMP awoke-MOM-IMP ashamed-??-precisely-do-IND.2SG urinate-on.the.bed
+chatshitl chakupuk tlumkshi?i, tlumkshi?i w'aaw'aakumsasila?ick <uqwil.
+chat-shitl chakup-uk tlumk-shitl-'i* tlumk-shitl-'i* w'a:-kum-sa-sila-?ick <uq-`il
+push-MOM husband-POSS awoke-MOM-IMP awoke-MOM-IMP ashamed-<-precisely-do-IND.2SG urinate-on.the.bed
 pushed her.husband wake.up wake.up you.have.done.a.shameful.thing wet.the.bed
 She pushed her husband, "Wake up! Wake up! You have done a shameful thing. You wet the bed."
 
@@ -384,7 +384,7 @@ rushed.around.in.the.house wolf.tribe they.lit.the.fire
 The wolf tribe rushed around. They lit the fires.
 
 # 055
-?acha??atch qwis?at, wawaacst'al?atl'al.
+?acha<atch qwis?at, wawaacst'al?atl'al.
 ?achaq-'at-ch qwis-'at wawa:-cst'al-'atl-?a*l
 who-SHIFT-INF.3 do.so-SHIFT say-each.other-FINITE-PL
 I.wonder.who.did.it.to.him did.so.to.him they.said.to.each.other
@@ -433,8 +433,8 @@ they.started.thinking what.they.should.do
 They thought about what should be done.
 
 # 062
-chuu ?a?aatuu?in ?ak'ulatqwin ?uchqc'uu?ak?i ??aanism'it.
-chu: ?a?a:tu:-'in ?ak'uli-'at-qwin ?uchq-c'u*-?a*k-?i* ??a:nis-m'i*t
+chuu ?a?aatuu?in ?ak'ulatqwin ?uchqc'uu?ak?i <aanism'it.
+chu: ?a?a:tu:-'in ?ak'uli-'at-qwin ?uchq-c'u*-?a*k-?i* <a:nis-m'i*t
 OK ask-IMP.1PL-3 lend-SHIFT-COND.1PL fog-inside-POSS-DEF crane-son.of
 OK lets.ask so.that.he.lend.it.to.us his.fog.bag Son.of.Crane
 "OK, let's ask Son of Crane to lend us his fog bag."
@@ -447,15 +447,15 @@ go.and.get
 "Go get him."
 
 # 064
-kamatqshitlnak sukwitl'as ??aanism'it.
-kamatqw-shitl-na*k sukwi(tl)-'a*s ??a:nis-m'i*t
+kamatqshitlnak sukwitl'as <aanism'it.
+kamatqw-shitl-na*k sukwi(tl)-'a*s <a:nis-m'i*t
 running-MOM-having take-go.in.order.to crane-son.of
 someone.ran.in.order.to went.to.fetch Son.of.Crane
 Someone ran to get Son of Crane.
 
 # 065
-hinin ??aanism'it.
-hin-in ??a:nis-m'i*t
+hinin <aanism'it.
+hin-in <a:nis-m'i*t
 there-come crane-son.of
 arrived Son.of.Crane
 Son of Crane arrived.
@@ -475,8 +475,8 @@ now.then we.ask.for.borrowing to.you your.fog.bag said the.speaker
 "Well, we want to ask you to lend us your fog bag," said the speaker.
 
 # 068
-hiilapil?atlwa?ish hhaa ??aanism'it, t'aat'aapata, chaayixwapil.
-hil-api-`il-'atl-wa*?i*sh hha: ??a:nis-m'i*t DUPCV-t'apat-(y)a cha:yixw-api-`il
+hiilapil?atlwa?ish hhaa <aanism'it, t'aat'aapata, chaayixwapil.
+hil-api-`il-'atl-wa*?i*sh hha: <a:nis-m'i*t DUPCV-t'apat-(y)a cha:yixw-api-`il
 there-erect-on.the.floor-FINITE-QUOT.3 there crane-son.of REP-think-REP stand.on.one.leg-erect-on.the.floor
 he.stood.up.on.the.floor there Son.of.Crane thinking standing.up.on.one.leg.on.the.floor
 Son of Crane stood there, thinking about it, standing on one leg.
@@ -496,8 +496,8 @@ OK said
 "OK," he said.
 
 # 071
-?aanahhi?aqtl'icuush ?uu?aalukhh tluulhhap'ap kuhhiqsip ?ahh yaqchi?itq wik'aa?it hishsaacintl ?uchqshitl, waa?atl ??aanism'it.
-?a:nahhi-?a*qtl-?icu:sh ?u-'a*luk-(q)hh tlu:l-hhap-'ap kuhhw-iqs-ip ?ahh yaq-chi-?i*tq wik-'a*?it hish-sa*cu-intl ?uchq-shitl wa*-'atl ??a:nis-m'i*t
+?aanahhi?aqtl'icuush ?uu?aalukhh tluulhhap'ap kuhhiqsip ?ahh yaqchi?itq wik'aa?it hishsaacintl ?uchqshitl, waa?atl <aanism'it.
+?a:nahhi-?a*qtl-?icu:sh ?u-'a*luk-(q)hh tlu:l-hhap-'ap kuhhw-iqs-ip ?ahh yaq-chi-?i*tq wik-'a*?it hish-sa*cu-intl ?uchq-shitl wa*-'atl <a:nis-m'i*t
 only-FUT-IND.2PL it-looking.after-SIM slowly-do?-MOMCAUS open-on.top.of-MOMCAUS this which-in-REL.3 not-PURP all-at.a.place-MOM foggy-MOM say-FINITE crane-son.of
 but.you.all.will.be take.care.of.it.when do.it.slowly open.it.at.the.top this container so.that.it.wont.be go.all.over it.gets.foggy said Son.of.Crane
 "But you all will be very careful when you open this container so it won't get foggy all over," said Son of Crane.
@@ -524,22 +524,22 @@ it.gets.foggy it.gets.foggy it.got.impossible.for.them.to.see.each.other
 It got foggy and foggy, and they couldn't see each other.
 
 # 075
-n'itlkwaqshitl'al, sukwitlchi ??aanism'it.
-n'itlkwaq-shitl-?a*l sukwitl-chi* ??a:nis-m'i*t
+n'itlkwaqshitl'al, sukwitlchi <aanism'it.
+n'itlkwaq-shitl-?a*l sukwitl-chi* <a:nis-m'i*t
 excited-MOM-PL take-go.and crane-son.of
 they.got.all.panicked go.and.get Son.of.Crane
 They all panicked, [and said] "Go get Son of Crane!"
 
 # 076
-?uush hahaa??inyuchitl, ??aanism'eet hupii?inak!
-?u:sh DUPCV-ha:??in-yu-chitl ??a:nis-m'i*t hupi*-'in-?ak
-some DISTR-call.out-several.doing-MOM crane-son.of helping-IMP.2SG>1PL-??
+?uush hahaa<inyuchitl, <aanism'eet hupii?inak!
+?u:sh DUPCV-ha:<in-yu-chitl <a:nis-m'i*t hupi*-'in-?ak
+some DISTR-call.out-several.doing-MOM crane-son.of helping-IMP.2SG>1PL-<
 some some.started.calling.out Son.of.Crane come.help.us
 Someone started to call out, "Son of Crane, help us!"
 
 # 077
-na?iichitl ??aanism'it, n'ashitl'as.
-na?a*-`i*chitl ??a:nis-m'i*t n'ash-itl-'a*s
+na?iichitl <aanism'it, n'ashitl'as.
+na?a*-`i*chitl <a:nis-m'i*t n'ash-itl-'a*s
 hear-INC crane-son.of go.to.see-MOM-go.in.order.to
 heard Son.of.Crane come.to.see
 Son of Crane heard them and went to see.
@@ -601,8 +601,8 @@ nobody.did.it.to.him nobody.paid.attention.to.him
 Nobody paid attention to him.
 
 # 086
-??achshatl sukwitl sup'icmis ??upkswii??aqtln'uk.
-??ach-`satl sukwitl sup'icmis ??up-kswi*q-'aqtl-n'uk
+<achshatl sukwitl sup'icmis <upkswii<aqtln'uk.
+<ach-`satl sukwitl sup'icmis <up-kswi*q-'aqtl-n'uk
 grab-on.the.beach take sand flow-go.through-inside-in.hand
 grabbed.on.the.beach take sand ran.it.through.his.fingers
 He grabbed some sand off the beach and ran it through his fingers.
@@ -622,8 +622,8 @@ landed.on.the.same.beach where.he.took.off.from
 He landed on the same beach that he started off from.
 
 # 089
-?anasila wik??atlshitl, tuxkwisatl qwayac'iikshtaquml m'a?akwa?ap'at.
-?ana-sila wik-??atl-shitl tuxw-kwi-`satl qwayac'i:k-shtaquml m'a-?akwa-'ap-'at
+?anasila wik<atlshitl, tuxkwisatl qwayac'iikshtaquml m'a?akwa?ap'at.
+?ana-sila wik-<atl-shitl tuxw-kwi-`satl qwayac'i:k-shtaquml m'a-?akwa-'ap-'at
 only-do not-make.sound-MOM jump-on-on.the.beach wolf-groups bite-apart-MOMCAUS-SHIFT
 doing.only become.silent they.jumped.on.him.on.the.beach wolf.tribe they.tore.him.up.by.biting
 As soon as he finished talking, the wolf tribe jumped on him and tore him up.
@@ -650,7 +650,7 @@ that.is.why.they.always.do one.just.leave.it belly when.you.get.deer
 That is the reason you leave only the stomach of the deer on the beach when you get deer.
 
 # 093
-hhaahhuupay'ak — wiksuuk suukwinkhhi yaa??aalchiqhh?itk quu?as. hha?ukwitlcum?at?ick ?uushhh?at.
+hhaahhuupay'ak — wiksuuk suukwinkhhi yaa<aalchiqhh?itk quu?as. hha?ukwitlcum?at?ick ?uushhh?at.
 hha:hhu:p-(y)a*-y'akw — wik-su:k sukwink-hhi* yaq-'a*lchiqhh-?itk qu:?as hha?u-kwitl-cum-'at-?uck ?u:sh-(q)hh-'at
 teaching-DUR-device not-2SG put.a.person.down-DUR who-together.with-POSS.2SG person do.in.turn-MOM-should-SHIFT-IND.2SG some-SIM-SHIFT
 teachings dont.you.ever put.down your.fellowmen person he.may.pay.you.back by.someone

@@ -4,8 +4,8 @@ abbreviation: Canoe
 ID:           GL4
 ---
 # 001
-??as??assh, ch'aapaciilw'it'as.
-DUP#-??as-sh ch'apac-i:l-w'it'as
+<as<assh, ch'aapaciilw'it'as.
+DUP#-<as-sh ch'apac-i:l-w'it'as
 IT-do.carpenter.work-SPOR canoe-make-about.to
 doing.carpenter.work about.to.make.a.canoe
 He is going to build a canoe.
@@ -34,34 +34,34 @@ You find a [good] cedar tree, [and then] step up to the base of it.
 # 005
 hiisti?at n'an'aan'ich'at, ?ust?as takqiinu?at, qwiicaapi?itq, hhiinapi, tlulquu.
 hista-'i(tl)-'at n'an'a:n'ich-'at ?ust-'as tak-qi:nu(tl)-'at qwi-c-a*pi-?i*tq hhin-api tlul-qu:
-there-start.from-SHIFT look-SHIFT LOC-on.the.ground facing-on.top.MOM-SHIFT that.which-facing-??-REL.3 leaning-up.in.the.air good-COND.3
+there-start.from-SHIFT look-SHIFT LOC-on.the.ground facing-on.top.MOM-SHIFT that.which-facing-<-REL.3 leaning-up.in.the.air good-COND.3
 one.starts.from.there one.looks.at on.the.ground one.faces.toward.the.top the.way.it.is.facing leaning.in.the.air it.would.be.good
 You look [it] over from the ground to the top, [noticing] the way it is facing. It is good if it is leaning [a little].
 
 # 006
 taakshi?at ciciqink'at,  ?u?ukwink'at hhaalapi hhaw'il?i.
 ta:k-shi(tl)-'at DUP-ciq-inkw-'at DUP-?u-(kw)ink-'at hha:l-api hhaw'il-?i*
-always-MOM-SHIFT ??-speak-converse.with-SHIFT ??-it-converse.with-SHIFT there-up.in.the.air chief-DEF
+always-MOM-SHIFT <-speak-converse.with-SHIFT <-it-converse.with-SHIFT there-up.in.the.air chief-DEF
 one.always.does one.speaks.to one.communicates.with above the.chief
 You always pray to and communicate with the Chief Above.
 
 # 007
-laaklaakw'at, wikp'i??atquu, wik'atquu ?uusuqtat, wik'atquu ??achuu?at.
-DUP#-la:kw-'at wik-p'iq-'at-qu: wik-'at-qu: ?u:suqta-'at wik-'at-qu: ??achu:-'at
-??-please.do-SHIFT not-??-SHIFT-COND.3 not-SHIFT-COND.3 hurt-SHIFT not-SHIFT-COND.3 be.wounded-SHIFT
+laaklaakw'at, wikp'i<atquu, wik'atquu ?uusuqtat, wik'atquu <achuu?at.
+DUP#-la:kw-'at wik-p'iq-'at-qu: wik-'at-qu: ?u:suqta-'at wik-'at-qu: <achu:-'at
+<-please.do-SHIFT not-<-SHIFT-COND.3 not-SHIFT-COND.3 hurt-SHIFT not-SHIFT-COND.3 be.wounded-SHIFT
 please.do so.nothing.would.happen may.nothing.happen one.gets.hurt may.nothing.happen one.gets.wounded
 "May there not be an accident. May there be no wounds."
 
 # 008
 laakshitl, n'aachiila, chaamaapiqchik ?uxshitl waa, qwi?ii?as?aqtlii  ?uw'iitl.
 la:kw-shi(tl) n'ach-i:la chama-a*piq-qchik ?uxw-shi(tl) wa* qwi-?i:-'as-'a*qtl-(y)i: ?uxw-'i*tl
-please.do-MOM look-?? proper-up.in.the.air-going.along topple.over-MOM and that.which-get.to.be.at-on.the.ground-FUT-INDF.3 topple.over-on.the.ground
+please.do-MOM look-< proper-up.in.the.air-going.along topple.over-MOM and that.which-get.to.be.at-on.the.ground-FUT-INDF.3 topple.over-on.the.ground
 please.do watch.over so.it.moves.properly.in.the.air fall and wherever.it.will.land.on.the.ground tree.fall.on.the.ground
 "Please watch over [me] (= hear my prayer) so it [will] fall gently. [Gently it will fall] wherever on the ground it will land."
 
 # 009
-qu?ac'aqtl, wikyuuquu quw'iitl such'as?i ch'aapaciilma??uk ??iiq??atl, "[huu! huu!]".
-qu?ac-'aqtl wik-yu*-qu: ?uxw-'i*tl such'as-?i* ch'apac0i:l-ma??uk ??iq-??atl ~
+qu?ac'aqtl, wikyuuquu quw'iitl such'as?i ch'aapaciilma<uk <iiq<atl, "[huu! huu!]".
+qu?ac-'aqtl wik-yu*-qu: ?uxw-'i*tl such'as-?i* ch'apac0i:l-ma<uk <iq-<atl ~
 human-inside not-have.done-COND.3 topple.over-on.the.ground tree-DEF canoe-make-one.skilled.in yell.out-make.sound ~
 there.is.a.man.inside before fell.on.the.ground the.tree canoe.maker cries ~
 There is a man inside. Before felling the tree, the canoe make cries "ho! ho!"
@@ -69,7 +69,7 @@ There is a man inside. Before felling the tree, the canoe make cries "ho! ho!"
 # 010
 hin?ay'aqstup ch'ihhsuuqtltisim  hiy'aqtl such'as?i,
 hin-?al-'aqstup ch'ihh-su*qtl-tisim hil-'aqtl such'as-?i*
-there.MOM-aware.of-inside.MOMCAUS spirit-inside.the.body-?? there-inside tree-DEF
+there.MOM-aware.of-inside.MOMCAUS spirit-inside.the.body-< there-inside tree-DEF
 warn spirit.inside inside the.tree
 You warn the spirit inside the tree.
 
@@ -83,13 +83,13 @@ You want it to leave the tree [that is about to be felled].
 # 012
 ch'ihhsuuqtltisim tl'i?iiktl'ika hiistitl ?ucachitl kukwiniksi.
 ch'ihh-su*qtl-tisim tl'i?i:ktl'ika hista-'i(tl) ?u-ca-chi(tl) kukwiniksi
-spirit-inside.the.body-?? elbow-joints there-start.from it-go.to-MOM hand
+spirit-inside.the.body-< elbow-joints there-start.from it-go.to-MOM hand
 spirit.inside elbow.joints from to hand
 The spirit inside [the tree] is [as tall as] from the elbow to the fingertips.
 
 # 013
-?atlac'asqi tl'ihhuk ??iyaal t'uhhc'iti,
-?atla-c'as-qi* tl'ihh-uk ??iya:l t'uhhc'iti
+?atlac'asqi tl'ihhuk <iyaal t'uhhc'iti,
+?atla-c'as-qi* tl'ihh-uk <iya:l t'uhhc'iti
 two-at.the.crown-on.top red-DUR feather head
 two.at.the.crown.of.the.head red feather head
 There are two red featheres at the crown of his head.
@@ -102,8 +102,8 @@ go.out fly.out the.top
 He flies out from the top [of the tree].
 
 # 015
-ch'aapacma??uk?i, wik n'achmisintl ?unw'iitl qin ch'ihh?aqtl such'as?i.
-ch'apac-ma??uk-?i* wik n'ach-nmisa-in(tl) ?unw'i:tl ?in ch'ihh-'aqtl such'as-?i*
+ch'aapacma<uk?i, wik n'achmisintl ?unw'iitl qin ch'ihh?aqtl such'as?i.
+ch'apac-ma<uk-?i* wik n'ach-nmisa-in(tl) ?unw'i:tl ?in ch'ihh-'aqtl such'as-?i*
 canoe-maker.of-DEF not look-on.top-MOM because that spirit-inside tree-DEF
 canoe.maker not look.up because that spirit.inside the.tree
 The canoe builder is not supposed to look up [when the tree is falling]. Because there is a spirit in the tree.
@@ -116,7 +116,7 @@ teachings
 [This is the] teaching.
 
 # 017
-k'ahhshitl'aal ?uush hhumiis ?uw'ii?atlquu, ?uusaya??as.
+k'ahhshitl'aal ?uush hhumiis ?uw'ii?atlquu, ?uusaya<as.
 k'ahh-shi(tl)-?a:l ?u:sh hhumi:s ?uxw-?i*(tl)-'atl-qu: ?u:sa-yaq-'as
 split-MOM-always some cedar toppled.over-on.the.ground.MOM-FIN-COND.3 with.force-having.done-on.the.ground
 it.always.breaks some cedar when.it.falls.on.the.ground having.(fallen).on.the.ground.with.force
@@ -125,7 +125,7 @@ Some cedar breaks when it falls onto the ground, having fallen on the ground hea
 # 018
 qwaaqwaa?itq ?uhh hhumiis luucsaamiihh latxhwak.
 DUP#-qwa:-?i*tq ?uhh hhumi:s lu:csa:mi:hh latxhw-ak
-??-thus-REL.3 being.it cedar women soft-DUR
+<-thus-REL.3 being.it cedar women soft-DUR
 in.the.way.that being.it cedar women soft
 [But] this cedar is soft like a woman.
 
@@ -172,8 +172,8 @@ it.is.always.done one.has rope stone at.the.end
 They always put a string and a sstone [as a plumb] at the end of it.
 
 # 025
-t'i??aa?at'ap'at hiishcutil?at kachi?at, tliisshi?at, XXX hhuul qwaa?itq p\lumb.
-t'i-??a*?at-'ap-'at hish-chut-il-'at ka-chi(tl)-'at tli:s-shi(tl)-'at ~ hhu:l qwa:-?i*tq ~
+t'i<aa?at'ap'at hiishcutil?at kachi?at, tliisshi?at, XXX hhuul qwaa?itq p\lumb.
+t'i-<a*?at-'ap-'at hish-chut-il-'at ka-chi(tl)-'at tli:s-shi(tl)-'at ~ hhu:l qwa:-?i*tq ~
 throw-move.down-CAUS-SHIFT all-on.end-with.ref.to-SHIFT measure-MOM-SHIFT write-MOM-SHIFT ~ yonder thus-REL.3 ~
 one.drops.a.plumb both.ends one.measures one.marks ~ yonder like ~
 Drop it [the string with the stone] at both ends, get the measurements, and mark [the measurements] — it's like a plumb.
@@ -188,7 +188,7 @@ This is the way it's done — when you properly position it on the ground.
 # 027
 ?uuhhw'al?at hiis\hiisach'ak, qay'aaxwas huu?ak  ?uyi.
 ?u-hhw'al-'at DUP#-his-(y)-ch'ak qay'a*xw-as hu:?ak ?uyi
-it-using-SHIFT IT-chop-REP-instrument adzing-?? long.ago at.that.time
+it-using-SHIFT IT-chop-REP-instrument adzing-< long.ago at.that.time
 it.is.used axe adze long.ago at.that.time
 The axe and adze were used long ago.
 
@@ -202,7 +202,7 @@ But now, they use the whiteman's noise-making machine, a powersaw, nowadays.
 # 029
 ?ahh?aa qwaa?ap'at?ish ?aq?ishtiik,  ch'aapaciil?atl'atquu.
 ?ahh?a: qwa:-'ap-'at-?i*sh ?aqi-?isht-(y)i:k ch'apac-i:l-'atl-'at-qu:
-this thus-CAUS-SHIFT-IND.3 what-??-INDF.2SG canoe-make-FIN-SHIFT-COND.3
+this thus-CAUS-SHIFT-IND.3 what-<-INDF.2SG canoe-make-FIN-SHIFT-COND.3
 this is.is.how.it.is.done what.you.might.call when.a.canoe.is.made
 This is how it is done, when a canoe is made.
 
@@ -223,7 +223,7 @@ big.canoe large.vessel big.canoe
 # 030c
 waa ?ahh?aa?atl ?aq?ishtiik, ch'apacsa waa?at.  qacc'ap'it laahhshi?at ?uhh?ish tla?uu
 wa* ?ahh?a:-'atl ?aqi-?isht-(y)i:k ch'apac-sa wa*-'at qacc'a-p'it la:hh-shi(tl)-'at ?uhh?ish tla?u:
-and then-FIN what-??-INDF.2SG canoe-real say-SHIFT three-times measure.by.arms-MOM-POSS and another
+and then-FIN what-<-INDF.2SG canoe-real say-SHIFT three-times measure.by.arms-MOM-POSS and another
 and and.then what.you.might.call real.canoe it.is.said three.times arm.length and another
 And [there is] one called 'a real canoe'. It is about three fathoms and a little more.
 
@@ -249,8 +249,8 @@ and long.ago at.that.time happened.long.ago long.long.ago whenever.it.might.be m
 And a very long time ago, they once made _ƛ̓icuuɬ_.
 
 # 034
-ch'apac ?iihhs, ??a??aachi, siich'ak.
-ch'apac ?i:hh-s ??a??a:chi si:ch'ak
+ch'apac ?iihhs, <a<aachi, siich'ak.
+ch'apac ?i:hh-s <a<a:chi si:ch'ak
 canoe large-vessel wide high
 canoe large.vessel wide high
 It's a big canoe, [which is] wide and deep.
@@ -263,8 +263,8 @@ they.use.it whenever.it.might.be flooded
 They used it at the time of the Flood.
 
 # 036
-waa, ?ahh?aa?atl ??as??asshitl'asatlitquu. ??as??assh waa?at, ??aasuk. ch'aahhch'aahha.
-wa*?ahh?a:-'atl DUP#-??as-sh-shi(tl)-'as-'atl-it-qu: DUP#-??as-sh wa*-'at ??a:s-uk DUP#-ch'ahh-(y)a
+waa, ?ahh?aa?atl <as<asshitl'asatlitquu. <as<assh waa?at, <aasuk. ch'aahhch'aahha.
+wa*?ahh?a:-'atl DUP#-<as-sh-shi(tl)-'as-'atl-it-qu: DUP#-<as-sh wa*-'at <a:s-uk DUP#-ch'ahh-(y)a
 and this-FIN IT-do.carpenter.work-SPOR-MOM-on.the.ground-FIN-PAST-COND.3 IT-do.carpenter.work-SPOR say-SHIFT do.carpenter.work-DUR IT-cut.with.adze-REP
 and then when.carpentrying.a.canoe doing.carpenter.work it.is.called working.on.canoe cutting.with.an.adze
 And then, when you work on a canoe, you say _ʕaʕasš_ ('doing carpenter's work'), _ʕaasuk_ ('working on a canoe'), or _č̓aaḥč̓aaḥa_ ('cutting with an adze').
@@ -284,14 +284,14 @@ And there is another…
 # 040
 waa?aahhs qwaa ?in ?uuwa?at ?un'aahh tlulquu [tree for the canoe].
 wa:-?a:hh-s qwa: ?in ?u-(w)a(tl)-'at ?u-n'a*hh tlul-qu: ~
-say-??-1SG how that it-find-SHIFT it-seek good-COND.3 ~
+say-<-1SG how that it-find-SHIFT it-seek good-COND.3 ~
 what.I.say how that one.finds seek.it good ~
 I talked about how one looks for a good one — tree for the canoe.
 
 # 041
 histaqiis?at hilyin tlaaquup'at.
 his-taq-i:s-'at hil-yin tla:-(q)u*p-'at
-there-come.from-??-SHIFT there-at.the.bow ??-on.the.face-SHIFT
+there-come.from-<-SHIFT there-at.the.bow <-on.the.face-SHIFT
 proceed.from at.the.bow taper.at.the.end
 Starting from its bow you shape it.
 
@@ -366,8 +366,8 @@ heavy long.vessel one.pries
 Pry up the heavy vessel.
 
 # 052
-?uhh?atl ?ahh kwatyiik?i t'i??aa?atu  kwist?iitl.
-?uhh-'atl ?ahh kwatyi:k-?i* t'i-??a*?atu kwist-'i*tl
+?uhh?atl ?ahh kwatyiik?i t'i<aa?atu  kwist?iitl.
+?uhh-'atl ?ahh kwatyi:k-?i* t'i-<a*?atu kwist-'i*tl
 being.it-FIN this heavy-DEF throw-move.down different-on.the.ground.MOM
 the.one this the.heavy.one drop turn.over
 This heavy one drops [and] turns over.
@@ -417,7 +417,7 @@ because it is so simple using a power saw to work.
 # 059
 hiskwist'ahhs?atlquu. waa hihisupi?at hisaawul. qacaqs waaquuk chimcaqs.
 his-kwist-'ahhs-'atl-qu: wa* DUP-his-upi-'at his-a*wul qac-caqs wa*-qu:k chim-caqs
-chop-move.away.from-in.a.vessel-FIN-COND.3 well ??-chop-??-SHIFT chop-?? left-side.of.canoe and-COND.2SG right-side.of.canoe
+chop-move.away.from-in.a.vessel-FIN-COND.3 well <-chop-<-SHIFT chop-< left-side.of.canoe and-COND.2SG right-side.of.canoe
 when.chopping.the.inside.of.the.vessel.out well inside.is.chopped.out chop.with.short.strokes port and.you starboard
 When chopping the inside of the vessel, chop out the insides with short strokes: first the port side, then the starboard side.
 
@@ -436,9 +436,9 @@ over.there as.its.bow canoe always.gets.hard
 There at the bow of the canoe it gets hard.
 
 # 064
-titin??inchitl.
-DUP-tin-??in-chi(tl)
-??-make.pinging.sound-make.sound-MOM
+titin<inchitl.
+DUP-tin-<in-chi(tl)
+<-make.pinging.sound-make.sound-MOM
 it.makes.a.pinging.sound
 It makes a pinging sound (= sound of hard wood).
 \n [You can tell the hardness of the wood from the sound it makes when knocked.]
@@ -472,9 +472,9 @@ one.has.it measuring.stick thickness.is.up.to.you according.to.it size.of canoe
 Take a measuring stick and measure however thick you want it to be on the basis of the length of the canoe.
 
 # 069
-hawilchaqshi?atlquu ?ust??ahhs?i.
+hawilchaqshi?atlquu ?ust<ahhs?i.
 hawil-chaq-shi(tl)-'atl-qu: ?ust-q-'ahhs-?i*
-finish-done-MOM-FIN-COND.3 LOC-??-in.a.vessel-DEF
+finish-done-MOM-FIN-COND.3 LOC-<-in.a.vessel-DEF
 when.having.finished the.bottom.of.the.canoe
 Finish the bottom of the inside.
 
@@ -516,14 +516,14 @@ Feel it with the hand [to know whether it is smooth or not].
 # 076
 n'an'achpal?at?aal ?aq?ishtiik, ?at'a?atlquu hishcaqs?i. Curves,  yaaqwilcim?at?itq waa?at tl'achii, tl'achii, waa?at.
 DUP-n'ach-pal-'at-?a:l ?aqi-?isht-(y)i:k ?at'a-'atl-qu: hish-caqs-?i* ~ yaqw-(ch)il-chim-'at-?i*tq wa*-'at tl'achi: tl'achi: wa*-'at
-??-see-on.each.side-SHIFT-always what-??-INDF.2SG thickness.of-FIN-COND.3 both-side.of.canoe-DEF ~ which-with.ref.to-??-SHIFT-REL.3 say-SHIFT curved.part curved.part say-SHIFT
+<-see-on.each.side-SHIFT-always what-<-INDF.2SG thickness.of-FIN-COND.3 both-side.of.canoe-DEF ~ which-with.ref.to-<-SHIFT-REL.3 say-SHIFT curved.part curved.part say-SHIFT
 both.sides.can.be.seen what.you.might.call when.it.is.thick the.side.of.a.canoe ~ the.one.I.could.be.referring.to it.is.said curved.part curved.part it.is.said
 You check the thickness of the sides of the canoe: 'curves' are what I am talking about. It's called _ƛ̓ačii_.
 
 # 079
-waa ?ahhkuu, cikimin waa?at. ch'ahhy'ak, hiis\hiisach'ak. ??akm'alst'uqsy'ak. ?uch'ak  hilyin. qwaa y'uuqwaa tlichaa.
-wa* ?ahhku* cikimin wa*-'at ch'ahh-y'ak DUP#-his-(y)a-ch'ak ??ak-m'al-st'uqs-y'ak ?u-ch'ak hil-yin qwa: y'u:qwa: tlicha*
-and this steel say-SHIFT adze-instrument.for IT-beat-REP-instruments cut-??-inside.corners.of.canoe-instrument it-instruments there-at.the.bow thus also stern
+waa ?ahhkuu, cikimin waa?at. ch'ahhy'ak, hiis\hiisach'ak. <akm'alst'uqsy'ak. ?uch'ak  hilyin. qwaa y'uuqwaa tlichaa.
+wa* ?ahhku* cikimin wa*-'at ch'ahh-y'ak DUP#-his-(y)a-ch'ak <ak-m'al-st'uqs-y'ak ?u-ch'ak hil-yin qwa: y'u:qwa: tlicha*
+and this steel say-SHIFT adze-instrument.for IT-beat-REP-instruments cut-<-inside.corners.of.canoe-instrument it-instruments there-at.the.bow thus also stern
 and this steel it.is.said adze axe draw.knife tool.for.it at.the.bow thus also stern
 And this one is called _cikimin_ ('steel knife'); [this one is] _č̓aḥy̓ak_ ('D-adze'); _hiishiisač̓ak_ ('axe'); _ʕakm̓aɬst̓uqsy̓ak_ ('draw-knife'), which is used for the bow and also the stern.
 \n As GL draws pictures of tools.
@@ -559,7 +559,7 @@ You are going to take it [the canoe] out of the woods.
 # 089
 ?u?u?iihh?at, ?un'aahh?at  yaayaquwa?aahhi.
 DUP-?u-'i:hh-'at ?u-n'a*hh-'at DUP:-yaqw-uwa-?a:hhi
-??-it-collecting-SHIFT it-seeking-SHIFT ??-who-acting.together.with-??
+<-it-collecting-SHIFT it-seeking-SHIFT <-who-acting.together.with-<
 one.collects.it one.seeks those.who.help.with
 Find someone to help you.
 
@@ -587,21 +587,21 @@ Go out fishing early.
 # 093
 huu?akmahhsat ?aq?ishtiik, walyaqpi?at.
 hu:?ak-mahhsa-'at ?aqi-?isht-(y)i:k wal-yaq-pi(tl)-'at
-early-desiring.to-SHIFT what-??-INDF.2SG go.home-having.done-in.the.house-SHIFT
+early-desiring.to-SHIFT what-<-INDF.2SG go.home-having.done-in.the.house-SHIFT
 want.to.do.early what.you.might.call go.home
 You want to be at home early.
 
 # 094
 ?aya, ch'aapaciil?atlquu quu?as sasakwa, ?uu?uuqwa.
 ?aya ch'apac-i:l-'atl-qu: qu:?as DUP-sakw-wa* DUP-?u:q-wa*
-many canoe-make-FIN-COND.3 person ??-joke.about-say ??-good-say
+many canoe-make-FIN-COND.3 person <-joke.about-say <-good-say
 many when.making.a.canoe person saying.funny.things saying.good.things
 While you are making a canoe, men say funny things, say good things [about the canoe].
 
 # 095
 chiihht'as?ap'atlquu  (sasakwa).
 chi:-hht-'as-'ap-'atl-qu: DUP-sakw-wa*
-pull-come.out.of.woods-on.the.ground-CAUS-FIN-COND.3 ??-joke.about-say
+pull-come.out.of.woods-on.the.ground-CAUS-FIN-COND.3 <-joke.about-say
 when.dragging.on.the.ground.out.of.woods saying.funny.things
 When you drag it on the ground out of the woods, they make wisecracks.
 
@@ -615,7 +615,7 @@ You want everything to be proper; don't rush.
 # 097
 chiihht'as?ap'atlquu ch'apac. tluultluula. quuhhw'al c'istuup. huuhumt'asuk.
 chi:-hht-'as-'ap-'atl-qu: ch'apac DUP#-tlu:l-a ?u-hhw'al c'is-tu*p DUP:-humt-'as-uk
-pull-come.out.of.woods-on.the.ground-CAUS-FIN-COND.3 canoe IT-slowly-REP it-using rope-thing ??-crosswise-on.the.ground-DUR
+pull-come.out.of.woods-on.the.ground-CAUS-FIN-COND.3 canoe IT-slowly-REP it-using rope-thing <-crosswise-on.the.ground-DUR
 when.dragging.on.the.ground.out.of.woods canoe slowly using.it rope crosspieces.on.the.ground
 When the canoe is dragged out of the woods, do it very slowly, using rope and crosspieces [used as skids] on the trail.
 
@@ -650,7 +650,7 @@ Don't drag it on the sand.
 # 105
 ?un'aahh?atquu hatkma qwaaqhh?aqtlii chachimhhii wikcuk?is hinachishtutl hatkma, ro\l\lers waa?atquu.
 ?u-n'a*hh-'at-qu: hatk-ma qwa:-qhh-'a*qtl-(y)i: chachim-hhi* wik-cuk-?is hin-achisht-u(tl) hatk-ma ~ wa:-'at-qu:
-it-seeking-SHIFT-COND.3 roll-thing thus-SIM-FUT-INDF.3 proper-DUR not-needing-DIM there.MOM-on.the.sea-MOM roll-?? ~ say-SHIFT-COND.3
+it-seeking-SHIFT-COND.3 roll-thing thus-SIM-FUT-INDF.3 proper-DUR not-needing-DIM there.MOM-on.the.sea-MOM roll-< ~ say-SHIFT-COND.3
 when.looking.for.it roller the.way.it.would.be proper easy dip.into.the.sea roller ~ you.could.say
 If you get the _hatkma_ — 'rollers' you could call — properly set, it would be easy to put the canoe into the sea.
 
@@ -669,7 +669,7 @@ heey! maatlshi?at.
 Now, you are going to tow it.
 
 # 109
-hinin?atl hilhhw'it'as?itq ?uushta??at.
+hinin?atl hilhhw'it'as?itq ?uushta<at.
 hin-in-'atl hil-(q)hh-w'it'as-?i*tq ?u:sh-taq-'at
 there.MOM-come-FIN there-SIM-about.to-REL.3 some-working.on-SHIFT
 arrived place.where.one.is.about.to one.does.some.work.on
@@ -692,14 +692,14 @@ Now drag the canoe on the beach to the dry land.
 # 112
 chuu ?ahh?aa?atl ?aq?ishtiik walyaqpi?atl ha?ukw'ap'atl yaayaaquumt?itq.
 chu: ?ahh?a:-'atl ?aqi-?isht-(y)i:k wal-yaq-pi(tl)-'atl ha?uk-'ap-'atl DUP:-yaqw-u:-imt-?i*tq
-now.then then-FIN what-??-INDF.2SG go.home-having.done-in.the.house-FIN eat-CAUS-FIN ??-who-acting.together-with-PAST-REL.3
+now.then then-FIN what-<-INDF.2SG go.home-having.done-in.the.house-FIN eat-CAUS-FIN <-who-acting.together-with-PAST-REL.3
 now.then and.then what.you.might.call having.arrived.home feeds.them one.who.did.it.together
 Then, at home you feed the people who helped you.
 
 # 113
 chaanaat huuxs?atu n'upchiil, ?atlchiil.
-cha:ni-?? hu:xs?atu n'up-chi*l ?atl-chi*l
-at.first-?? resting one-days.long two-days.long
+cha:ni-< hu:xs?atu n'up-chi*l ?atl-chi*l
+at.first-< resting one-days.long two-days.long
 do.at.first resting one.day two.days
 Take one or two days off.
 
@@ -711,14 +711,14 @@ heey, chuu chamaas?atl.
 Now, it is ready.
 
 # 115
-histaqiis?atl. hhu??itap.
+histaqiis?atl. hhu<itap.
 his-taq-i:s-'atl hhuq-'itap
-there-come.from-??-FIN hallowed.object-on.the.ground.MOMCAUS
+there-come.from-<-FIN hallowed.object-on.the.ground.MOMCAUS
 start.from.there put.a.hallowed.object.on.the.ground
 [You] first put the canoe on the ground.
 
 # 116
-hhu??as ch'apac?i, tlaam'aqak?i.
+hhu<as ch'apac?i, tlaam'aqak?i.
 hhuq-'as ch'apac-?i* tla:m'aq-ak-?i*
 hallowed.object-on.the.ground canoe-DEF partly.finished.canoe-POSS-DEF
 a.hallowed.object.on.the.ground the.canoe partly.finished.canoe
@@ -727,7 +727,7 @@ Place the canoe, the partly finished canoe, on the ground.
 # 117
 p'ihhshi?at chim?as?ap'at, qwaaqhhcim?itq chachimhhi.
 p'ihh-shi(tl)-'at chim-'as-'ap-'at qew:-qhh-chim-?i*tq chachim-hhi*
-observe-MOM-SHIFT proper-on.the.ground-CAUS-SHIFT thus-SIM-??-REL.3 proper-DUR
+observe-MOM-SHIFT proper-on.the.ground-CAUS-SHIFT thus-SIM-<-REL.3 proper-DUR
 observe position.properly.on.the.ground as.it.should.be proper
 Examine and put the canoe properly on the ground — in the way it should be.
 
@@ -784,7 +784,7 @@ When you have finished, plane it.
 # 128
 kachuu?aal hilyin, y'uuqwaa. tlichaa. wiiksinhhap'at ?aq?ishtiik  cikcikmis.
 ka-chu*-?a:l hil-yin y'u:qwa: tlicha* wik-sinhhi-'ap-'at ?aqi-?isht-(y)i:k DUP#-cik-mis
-measure-done-always there-at.the.bow also stern not-keeping.so-CAUS-SHIFT what-??-INDF.2SG ??-aslant-thing
+measure-done-always there-at.the.bow also stern not-keeping.so-CAUS-SHIFT what-<-INDF.2SG <-aslant-thing
 always.measured at.the.bow also stern so.as.not.to what.you.might.call tilting
 Take a measurement at the bow, and also at the stern, to prevent it, you know, from rocking.
 
@@ -796,7 +796,7 @@ weey kwist?itap'at.
 Now, turn it over (to the upright position).
 
 # 130
-?ahh?aatl ch'ahhshi?attla hhu??aas.
+?ahh?aatl ch'ahhshi?attla hhu<aas.
 ?ahh?a:-'atl ch'ahh-shi(tl)-'at-tla* hhuq-'a*s
 then-FIN adze-MOM-SHIFT-again hallowed.object-on.the.ground.DUR
 then you.hew.it.out.again being.on.the.ground
@@ -805,7 +805,7 @@ Then, with the canoe turned over on the ground, you adze it [all over] again.
 # 131
 hiis\hiisach'ak ?uupi yuushink qwaa?itq  ?aq?ishtiik, qay'aaxwas,
 DUP#:-his-(y)a-ch'ak ?u:pi yushu-ink qwa:-?i*tq ?aqi-?isht-(y)i:k qay'a*xwas
-IT-chop-REF-instruments handier hasten-?? thus-REL.3 what-??-INDF.2SG D.adze
+IT-chop-REF-instruments handier hasten-< thus-REL.3 what-<-INDF.2SG D.adze
 axe handier quicker than what.you.might.call D.adze
 An axe is handier and faster than, you know, a D-adze.
 
@@ -852,15 +852,15 @@ also port
 [You start with the starboard side and then] Do the same for the port.
 
 # 138
-??ac'ik ?uush quu?as.
-??ac'ik ?u:sh qu:?as
+<ac'ik ?uush quu?as.
+<ac'ik ?u:sh qu:?as
 expert.at some person
 expert.at some person
 Some men are good at it.
 
 # 139
-??ac'ikits hihishcuqumts?aal, [\left and right], qaaqaay'axwa.
-??ac'ik-it-s DUP-hish-cuq-umt-s-?a:l ~ DUP:-qay'a*xw-a
+<ac'ikits hihishcuqumts?aal, [\left and right], qaaqaay'axwa.
+<ac'ik-it-s DUP-hish-cuq-umt-s-?a:l ~ DUP:-qay'a*xw-a
 expert.at-PAST-1SG DISTR-all-in.hand-PAST-1SG-always ~ IT-adzing-REP
 I.was.good.at always.in.both.hands ~ adzing
 I was good at both left- and right-handed adzing.
@@ -896,7 +896,7 @@ Now, when it is completed, the gunwale is curved down.
 # 145
 qwaqwaa?at ?appii, curve
 DUP#-qwa:-'at ?ap-pi*
-??-thus-SHIFT LOC-on.the.back
+<-thus-SHIFT LOC-on.the.back
 do.thus the.bottom
 Make the bottom of the canoe curve [by chipping the edges].
 
@@ -922,29 +922,29 @@ do.to.it thwart
 Take care of thwarts.
 
 # 149
-saach'inik'at tap??aqshi?at
-sa:ch'a-ink-'at tap??aq-shi(tl)-'at
-unceasingly-??-SHIFT thwart-MOM-SHIFT
+saach'inik'at tap<aqshi?at
+sa:ch'a-ink-'at tap<aq-shi(tl)-'at
+unceasingly-<-SHIFT thwart-MOM-SHIFT
 never.fail.to.do thwarts.are.put.in
 Never forget to put in thwarts.
 
 # 150
 one, c'awaak, ?atla, qacc'a, waa muuquu. taap?im. ?uuktis?at ?unahh?itq.
-~ c'awa:k ?atla qacc'a wa* mu:-qu: ta:p??im ?u-ktis-'at ?una-hh-?i*tq
+~ c'awa:k ?atla qacc'a wa* mu:-qu: ta:p<im ?u-ktis-'at ?una-hh-?i*tq
 ~ one two three and four-COND.3 thwart it-acting.by.ref.to-SHIFT that.much-size-REL.3
 ~ one two three and it.could.be.four thwart according.to.it size.of
 One, two, three, or four thwarts, depending on the size of the canoe.
 
 # 151
-yaqsiikit?ish ch'apac hilhh Denmark, [forty-two feet] ?uuna hiikwal [six feet wide]. ?unaa??achi.
-yaqw-si:k-it-?i*sh ch'apac hil-(q)hh ~ ~ ?u:na hi:kwal ~ ?una:-??a*chi
+yaqsiikit?ish ch'apac hilhh Denmark, [forty-two feet] ?uuna hiikwal [six feet wide]. ?unaa<achi.
+yaqw-si:k-it-?i*sh ch'apac hil-(q)hh ~ ~ ?u:na hi:kwal ~ ?una:-<a*chi
 which-make-PAST-IND.3 canoe there-SIM ~ ~ in.length nearly ~ size-wide
 one.I.made canoe there.by ~ ~ in.length nearly ~ width
 The canoe I made in Denmark was forty-two feet long and almost six feet wide.
 
 # 152
 ?atlakwalukwit?ish, hhaa ?atlakwal taataap?im. qatlakwal.
-?atlakwal-ukw-it-?i*sh hha: ?atlakwal DUP-ta:p??im ?atlakwal
+?atlakwal-ukw-it-?i*sh hha: ?atlakwal DUP-ta:p<im ?atlakwal
 eight-POSS-PAST-IND.3 there eight DISTR-thwart eight
 it.had.eight there eight thwarts eight
 That one had eight: there were eight thwarts.
@@ -959,7 +959,7 @@ It was a large canoe.
 # 154
 ?ahh yaqii ch'apac [twenty-two] ?uyistimnish ?a?im hhuul [try out] [twenty-two] [Ros Ki\lde] hilhh.
 ?ahh yaqw-(y)i: ch'apac ~ ?uy-ista-im-ni*sh ?a?im hhu:l ~ ~ ~ hil-(q)hh
-this which-INDF.3 canoe ~ ??-persons.in.canoe-thing?-IND.1PL beginning there ~ ~ ~ there-SIM
+this which-INDF.3 canoe ~ <-persons.in.canoe-thing?-IND.1PL beginning there ~ ~ ~ there-SIM
 this which.one canoe ~ that.many.of.us.in.the.canoe beginning there ~ ~ ~ there.by
 There were twenty-two of us in that canoe on the first run, trying out, at Ros Kilde.
 
@@ -985,8 +985,8 @@ this the.way.it.is one.makes.canoe the.way.to.finish
 That is how we make a canoe.
 
 # 159
-tap??aqshitl. tap??aqshitl waa hawilchaqshi?atlquu tap??aqshitl.
-tap??aq-shi(tl) tap??aq-shi(tl) wa* hawil-chaq-shi(tl)-'atl-qu: tap??aq-shi(tl)
+tap<aqshitl. tap<aqshitl waa hawilchaqshi?atlquu tap<aqshitl.
+tap<aq-shi(tl) tap<aq-shi(tl) wa* hawil-chaq-shi(tl)-'atl-qu: tap<aq-shi(tl)
 thwart-MOM thwart-MOM there! finish-done-MOM-FIN-COND.3 thwart-MOM
 put.thwart put.thwart there! when.having.finished put.thwart
 Put [in] thwarts. There! You have finished putting thwarts [in].
@@ -1029,7 +1029,7 @@ it.is.slanted.on.both.sides say both.sides
 # 165
 tl'aatlaay'ixwaputls.
 DUP:-tl'ay'ixw-L-aputl-s
-??-fast-GRAD-MOM?-1SG
+<-fast-GRAD-MOM?-1SG
 Im.getting.too.fast
 I'm going a little too fast [in telling you this story].
 \n The narrator's comment on himself.
@@ -1037,7 +1037,7 @@ I'm going a little too fast [in telling you this story].
 # 166
 kwa?al?atlquu. kwa?al?atlquu ?u?ala?ap'atl'atquu kwama, prow, hhuu hilyin?i, kwama ?u?ala?ap'atl'atquu ?unaak'at ?aq?ishtiik, tumiis.
 kwa?al-'atl-qu: kwa?al-'atl-qu: ?u-'ala-'ap-'atl-'at-qu: kwama ~ hhu: hil-yin-?i* kwama ?u-?ala-'ap-'atl-'at-qu: ?u-na*k-'at ?aqi-?isht-(y)i:k tumi:s
-put.on.end.piece-FIN-COND.3 put.on.end.piece-FIN-COND.3 it-attached.on-CAUS-FIN-SHIFT-COND.3 end.piece ~ over.there there-at.the.bow-DEF end.piece it-attached.on-CAUS-FIN-SHIFT-COND.3 it-having-SHIFT what-??-INDF.2SG charcoal
+put.on.end.piece-FIN-COND.3 put.on.end.piece-FIN-COND.3 it-attached.on-CAUS-FIN-SHIFT-COND.3 end.piece ~ over.there there-at.the.bow-DEF end.piece it-attached.on-CAUS-FIN-SHIFT-COND.3 it-having-SHIFT what-<-INDF.2SG charcoal
 when.putting.the.end.piece when.putting.the.end.piece when.one.attaches.it.on end.piece ~ over.there the.bow end.piece when.one.attaches.it.on have.it what.you.might.call ashes
 When you put the end piece, when you put the wolf's head prow there on the bow, you use, you know, ashes.
 
@@ -1079,7 +1079,7 @@ Do the same thing to the surface again.
 # 173
 haa chachimhhichi?atlquu. hee k'icaa?isquu waa?at.
 ha: chachim-hhi*-chi(tl)-'atl-qu: ~ k'ic-a:?is-qu: wa*-'at
-well proper-DUR-MOM-FIN-COND.3 ~ close.the.eye-??-COND.3 say-SHIFT
+well proper-DUR-MOM-FIN-COND.3 ~ close.the.eye-<-COND.3 say-SHIFT
 well when.it.is.properly.done ~ eyes.being.closed it.is.said
 Well, if it's properly done [and the two parts fit really well], they say [that it's just like] the eyes are closed.
 
@@ -1149,7 +1149,7 @@ The white men call it a "dowel".
 # 185
 ?ahh?aa?atl ?aq?ishtiik. ?uuqstup'at, ?uuhhw'al ?in mamaln'i tluu?ak?i.
 ?ahh?a:-'atl ?aqi-?isht-(y)i:k ?u-'a*qsta-up-'at ?u-hhw'al ?in mamaln'i tlu:?ak-?i*
-then-FIN what-??-INDF.2SG it-amongst-MOMCAUS-SHIFT it-using that white.man glue-DEF
+then-FIN what-<-INDF.2SG it-amongst-MOMCAUS-SHIFT it-using that white.man glue-DEF
 and.then what.you.might.call put.into using.it that white.man the.glue
 Then you put it in, using the whiteman's glue.
 
@@ -1247,7 +1247,7 @@ When you have attached them [the two end pieces], it is finished.
 # 202
 tl'aatl'aay'ixwaputls qwaa?ap'a?itq.
 DUP:-tl'ay'ixw-aputl-s qwa:-'ap-'at-?i*tq
-??-fast-MOM?-1SG thus-CAUS-SHIFT-REL.3
+<-fast-MOM?-1SG thus-CAUS-SHIFT-REL.3
 I.am.going.too.fast it.is.done.so
 I am going too fast [in telling the story].
 \n The speaker's comment on himself.
@@ -1262,7 +1262,7 @@ Put the end pieces on.
 # 204
 c'ic'iqink'at. c'ic'iqink'at chachimhhi?aqtl qwaa.
 DUP-c'iq-ink-'at DUP-c'iq-ink-'at chachim-hhi*-'a*qtl qwa:
-??-pray-converse.with-SHIFT ??-pray-converse.with-SHIFT proper-DUR-FUT thus
+<-pray-converse.with-SHIFT <-pray-converse.with-SHIFT proper-DUR-FUT thus
 say.prayer say.prayer it.will.be.perfect thus
 Say a prayer. Say a prayer so that it will be perfect.
 
@@ -1283,7 +1283,7 @@ That is forbidden.
 # 208
 ?uhhtin?akquuk ch'apac ?uw'asckwi?i. waa ?acyuuquuk yaashmal qwaa?apckwi?itq?aal huu?ak wiiqwiiqy'aanu?atwa?ish?aal.
 ?u-hhtin-?a*k-qu:k ch'apac ?uxw-'as-ckwi*-?i* wa* ?ac-yu*-qu:k ya:shmal qwa:-'ap-ckwi*-?i*tq-?a:l hu:?ak DUP#-wi:q-y'a*-nu(tl)-'at-wa*?i*sh-?a:l
-it-made.of-POSS-COND.2SG canoe toppled.over-on.the.ground-happened-DEF and go.out.hunting-have.done-COND.2SG hunt.fur.seal thus-CAUS-happened-REL.3-always long.ago ??-stormy-troubled.by-MOM-SHIFT-QUOT.3-always
+it-made.of-POSS-COND.2SG canoe toppled.over-on.the.ground-happened-DEF and go.out.hunting-have.done-COND.2SG hunt.fur.seal thus-CAUS-happened-REL.3-always long.ago <-stormy-troubled.by-MOM-SHIFT-QUOT.3-always
 if.yours.is.made.of canoe the.fallen.tree and when.you.are.out.hunting hunt.fur.seal the.way.they.had.always.done long.ago they.are.always.troubled.by.storms
 If a canoe was made from a fallen tree, then, when you went [out] hunting for furseals, they say that there was always trouble from storms.
 
@@ -1318,7 +1318,7 @@ canoe.is.made don't do.carelessly
 # 213
 n'achp'ichu?at saach'ink'at. n'achp'ichu?at hawilchaqshi?atlquu
 n'ach-p'ich-u(tl)-'at sa:ch'a-ink-'at n'ach-p'ich-u(tl)-'at hawil-chaq-shi(tl)-'atl-qu:
-look-at.the.base.of.a.pole-MOM-SHIFT unceasingly-??-SHIFT see-at.the.base.of.a.pole-MOM-SHIFT finish-done-MOM-FIN-COND.3
+look-at.the.base.of.a.pole-MOM-SHIFT unceasingly-<-SHIFT see-at.the.base.of.a.pole-MOM-SHIFT finish-done-MOM-FIN-COND.3
 it.is.examined.at.the.end never.fail.to.do it.is.examined.at.the.end when.it.has.been.finished
 Always examine it [the canoe] closely from the end [of the canoe] when it is finished.
 
@@ -1374,7 +1374,7 @@ When you have finished adzing, smooth the surface.
 # 221
 cikwasquu hiy'aktliqs?i cikcuut waa?at.
 cikw-as-qu: hil-'aktli-aqs-?i* cik-cu:t wa*-'at
-aslant-??-COND.3 there-at.the.rear-in.a.canoe-DEF aslant-on.side call-SHIFT
+aslant-<-COND.3 there-at.the.rear-in.a.canoe-DEF aslant-on.side call-SHIFT
 when.it.is.crooked the.stern crooked it.is.called
 If the stern were crooked, you'd say "_cikcuut_".
 
@@ -1400,15 +1400,15 @@ I.did.about.it not.putting.mind.on
 I forgot about something.
 
 # 225
-hawilchaqshi?atlquu ??iiqshitlckwi?ish?aal quu?as chamaqtl.
-hawil-chaq-shi(tl)-'atl-qu: ??i:q-shi(tl)-ckwi*-?i*sh-?a:l qu:?as chamaqtl
+hawilchaqshi?atlquu <iiqshitlckwi?ish?aal quu?as chamaqtl.
+hawil-chaq-shi(tl)-'atl-qu: <i:q-shi(tl)-ckwi*-?i*sh-?a:l qu:?as chamaqtl
 finish-done-MOM-FIN-COND.3 charring-MOM-happened-IND.3-always person take.time
 when.it.has.been.finished one.always.charred.the.bottom.of.the.canoe person take.time
 When it is finished, they always charred the canoe bottom carefully [to harden and smooth the surface].
 
 # 226
-??iiqaa hhuu hiist'itl hilyin tlichaa ??iiqshitl.
-??i:q-(y)a* hhu: hist-'itl hil-yin tlicha* ??i:q-shi(tl)
+<iiqaa hhuu hiist'itl hilyin tlichaa <iiqshitl.
+<i:q-(y)a* hhu: hist-'itl hil-yin tlicha* <i:q-shi(tl)
 charring-CONT over.there there-go.for there-at.the.bow stern charring-MOM
 charring over.there take.from.there at.the.bow stern char
 It is charred from the bow to the stern.
@@ -1423,13 +1423,13 @@ And brush [on the surface]. Put your mind to what you are doing. Brush toward th
 # 228
 yaaxyaaxwa ?ucahhtak'apquuk  hilyin?i. shaaxtaswa?ish?aal.
 DUP#-yaxw-a ?u-cahhtak-'ap-qu:k hil-yin-?i* sha:xt-as-wa*?i*sh-?a:l
-IT-brush-REP it-in.the.direction.of-CAUS-COND.2SG there-at.the.bow-DEF mixed.up-??-QUOT.3-always
+IT-brush-REP it-in.the.direction.of-CAUS-COND.2SG there-at.the.bow-DEF mixed.up-<-QUOT.3-always
 brushing if.you.head.toward the.bow disturb.the.surface
 If you brush towards the bow, it will disturb the surface.
 
 # 229
-?unwii?atl'ish ch'apac ??iiqshi?at ?in c'aahhachitl hhumiis?i.
-?unwi:-'atl-?i*sh ch'apac ??i:q-shi(tl)-'at ?in c'a:hh-`achi(tl) hhumi:s-?i*
+?unwii?atl'ish ch'apac <iiqshi?at ?in c'aahhachitl hhumiis?i.
+?unwi:-'atl-?i*sh ch'apac <i:q-shi(tl)-'at ?in c'a:hh-`achi(tl) hhumi:s-?i*
 because.of-FIN-IND.3 canoe charring-MOM-SHIFT that hard-MOM cedar-DEF
 it.is.why canoe it.is.charred that get.hard the.cedar
 The reason why it is charred is so that the cedar becomes hard.
@@ -1451,7 +1451,7 @@ Examine it and see [the right moment].
 # 232
 hee, hutlhaacach'at heey huu?ap'inqsak'at haa, tlichaa ?ucachi?at.
 ~ DUP.tl-hu?a-ca-ch-'at ~ hu?a-p'inq-sak-'at ~ tlicha* ?u-ca-chi(tl)-'at
-~ IT-back-go.to-REP-SHIFT ~ back-many.times.round-??-SHIFT ~ stern it-go.to-MOM-SHIFT
+~ IT-back-go.to-REP-SHIFT ~ back-many.times.round-<-SHIFT ~ stern it-go.to-MOM-SHIFT
 ~ go.back.and.forth do.it.over.again ~ stern goes.to.it
 Well, go back and forth and then do it all over toward the stern.
 
@@ -1514,7 +1514,7 @@ They are just like sandpaper.
 # 241
 ?uush ?aq?ishtiik sachkal ?uush hii?ula.
 ?u:sh ?aqi-?isht-(y)i:k sachk-al ?u:sh hi:?ula
-some what-??-INDF.2SG sharp-on.a.fabric some smoother
+some what-<-INDF.2SG sharp-on.a.fabric some smoother
 some what.you.might.call sharp.on.a.fabric some smoother
 Some are, you know, rough; some are smoother.
 

@@ -76,7 +76,7 @@ what.will.you.do when.he.comes.along he.also.said the.stranger
 "What are you going to do when he comes here?" asked the stranger.
 
 # 011
-ch'ii??aqiichitl'aqtls ?uuhhw'al ?ahh yaaqwiilqs ch'iimam'inhh, wim'aaqtl'ats kwistuupsap'at, waa?atl muwaachm'it yaaxmalapap ch'iimam'inhhuk?i.
+ch'ii<aqiichitl'aqtls ?uuhhw'al ?ahh yaaqwiilqs ch'iimam'inhh, wim'aaqtl'ats kwistuupsap'at, waa?atl muwaachm'it yaaxmalapap ch'iimam'inhhuk?i.
 ch'i:q-'aqa-`i*chitl-?aqtl-s ?u-hhw'al ?ahh yaqw-i:l-qs ch'i:ma-minhh wim'a:qtl-'at-s kwis-tu*p-sa*p-'at wa*-'atl muwach-m'i*t yaxw-mal-api-'ap ch'i:ma-m'inhh-uk-?i*
 attack-severally.doing-INC-FUT-1SG it-using this that.which-make-REL.1SG knife-PL incapable.of-SHIFT-1SG different-thing-MOMCAUS-SHIFT say-FINITE deer-son.of sweep-move.about-up.in.the.air-MOMCAUS knife-PL-POSS-DEF
 I.will.fight.him using.it this what.I.am.making knives he.cannot.to.me turn.me.into.something.different said Son.of.Deer waving.around his.knives
@@ -104,8 +104,8 @@ give his.knives Son.of.Deer
 He (Deer) gave him (the stranger) his knives.
 
 # 015
-sukwitl ch'iimam'inhh?i kwisaathh?i. n'an'aan'ichshitl kwiiscmalsna??aal.
-sukwi(tl) ch'i:ma-m'inhh-?i* kwis-'a*thh-?i* DUPCV-n'a*n'ich-shitl kwi*sc-mal-sna??a:l
+sukwitl ch'iimam'inhh?i kwisaathh?i. n'an'aan'ichshitl kwiiscmalsna<aal.
+sukwi(tl) ch'i:ma-m'inhh-?i* kwis-'a*thh-?i* DUPCV-n'a*n'ich-shitl kwi*sc-mal-sna<a:l
 take knife-PL-DEF different-come.from-DEF DISTR-examine?-MOM turn.around?-move.about-handling.with
 take the.knives the.stranger started.to.look.at turning.it.over.and.over
 The stranger took the knives, and he started to look at it turning it over and over.
@@ -120,7 +120,7 @@ INTJ you.really.have.something said the.stranger
 # 017
 chukwaa, n'amilshi?ik qwaacumyiik hihilcut'atquuk t'uhhc'iti, waawalpichhh?atl'at chachatcut'um?ap'at tl'uch'umckwim'inhh?i muwaachm'it.
 chukwa: n'amil-shitl-'ik qwa:-cum-(y)i:k DUP-hil-cu*t-'at-qu:kt'uhhc'iti wa*wal-p'ichhh-'atl-'at DUPCV-chat-cu*t-'um-'ap-'at tl'uch'um-ckwi*-m'inhh-?i* muwach-m'i*t
-come.here try-MOM-IMP.2SG? how-might-INDF.2SG DISTR-there-on.the.side-POSS-COND.2SG head say-doing.while-FINITE-SHIFT DISTR-push-on.the.side-??-MOMCAUS-SHIFT blue.mussel-remains.of-PL-DEF deer-son.of
+come.here try-MOM-IMP.2SG? how-might-INDF.2SG DISTR-there-on.the.side-POSS-COND.2SG head say-doing.while-FINITE-SHIFT DISTR-push-on.the.side-<-MOMCAUS-SHIFT blue.mussel-remains.of-PL-DEF deer-son.of
 come.here you.try how.you.will.be if.you.wore.on.each.side head he.said.to.him.while he.pressed.them.on.each.side the.shells Son.of.Deer
 "Come here and try how it will be if they are on each side of your head," he (the stranger) said as he put the mussel shells on Son on Deer on each side.
 
@@ -134,7 +134,7 @@ He (the stranger) took his (Deer's) filing stone.
 # 019
 kwiiscaapu?i, waa?atl'attla muwaachm'it.
 kwi:s-ca-a*pi-u(tl)-'i* wa*-'atl-'at-tla* muwach-m'i*t
-different?-go.to- ??-MOM-IMP say-FINITE-SHIFT-also deer-son.of
+different?-go.to- <-MOM-IMP say-FINITE-SHIFT-also deer-son.of
 turn.around he.also.told.him Son.of.Deer
 "Turn around," he (the stranger) told Son of Deer this time.
 
@@ -169,7 +169,7 @@ He (the stranger) slapped him (Deer) on the behind.
 # 024
 chuu, cha?aalchi, mukw'aaqtl'itl.
 chu: cha?a:l-chi* muk-'a*qtl'itl
-OK ??-go.and run.on.the.fours-in.the.woods
+OK <-go.and run.on.the.fours-in.the.woods
 OK go.and run.into.the.woods
 OK, go and gallop into woods.
 
@@ -195,8 +195,8 @@ started.to.walk the.stranger
 The stranger started to walk.
 
 # 028
-?uuwa?atltla ??at'uum'it ?uxwaapiqiil.
-?u-watl-'atl-tla* ??at'u:-m'i*t ?uxwa:piq-i:l
+?uuwa?atltla <at'uum'it ?uxwaapiqiil.
+?u-watl-'atl-tla* <at'u:-m'i*t ?uxwa:piq-i:l
 it-find-FINITE-also beaver-son.of paddle-make
 also.found Son.of.Beaver making.a.paddle
 This time he came across Son of Beaver making a paddle.
@@ -209,8 +209,8 @@ approach the.stranger
 The stranger approached him.
 
 # 030
-ha, mamuuk?ick, ?aaqichiilk, waa?atl'at ??at'uum'it.
-ha mamu:k-?ick ?aqi-chi:l-k wa*-'atl-'at ??at'u:-m'i*t
+ha, mamuuk?ick, ?aaqichiilk, waa?atl'at <at'uum'it.
+ha mamu:k-?ick ?aqi-chi:l-k wa*-'atl-'at <at'u:-m'i*t
 INTJ work-IND.2SG what-make-2SG say-FINITE-SHIFT beaver-son.of
 INTJ you.are.working what.are.you.making? it.is.said.to.him Son.of.Beaver
 "Oh, you are working. What are you making?" he said to Son of Beaver.
@@ -218,13 +218,13 @@ INTJ you.are.working what.are.you.making? it.is.said.to.him Son.of.Beaver
 # 031
 ?uu?atups ?uxwaapiqiil hintshitlisch'a kwiikwistupsap quu?as.
 ?u-'atup-s ?uxwa:piq-i:l hint-shitl-is-ch'a DUP-kwis-tu*p-sa*p qu:?as
-it-do.for-1SG paddle-make come?-MOM-??-DUB DISTR-different-thing-MOMCAUS person
+it-do.for-1SG paddle-make come?-MOM-<-DUB DISTR-different-thing-MOMCAUS person
 Im.doing.for.it making.a.paddle the.one.that.might.be.coming changing.things person
 "I am making a paddle in preparation for the transformer.
 
 # 032
-wim'aaqtl'ats kwistuupsap'at ?ans hitachinkshitl'atl, waa?atl ??at'uum'it.
-wim'a:qtl-'at-s kwis-tu*p-sa*p-'at ?an-s hita-chink-shitl-?aqtl wa*-'atl ??at'u:-m'i*t
+wim'aaqtl'ats kwistuupsap'at ?ans hitachinkshitl'atl, waa?atl <at'uum'it.
+wim'a:qtl-'at-s kwis-tu*p-sa*p-'at ?an-s hita-chink-shitl-?aqtl wa*-'atl <at'u:-m'i*t
 incapable.of-SHIFT-1SG different-thing-MOMCAUS-SHIFT because-1SG LOC-fight.against-MOM-FUT say-FINITE beaver-son.of
 he.cannot.to.me turn.me.into.something.different because.I I.will.fight.him said Son.of.Beaver
 He cannot change me into anything, because I will fight him," said Son of Beaver.
@@ -244,8 +244,8 @@ lets.see let.me.look.at.it how.yours.would.be
 Now, let me see how yours is."
 
 # 035
-sukwi?atuk ?uxwaapi ??at'uum'it.
-sukwi(tl)-'at-uk ?uxwa:pi ??at'u:-m'i*t
+sukwi?atuk ?uxwaapi <at'uum'it.
+sukwi(tl)-'at-uk ?uxwa:pi <at'u:-m'i*t
 take-SHIFT-POSS paddle beaver-son.of
 snatched.it paddle Son.of.Beaver
 He took the paddle from Son of Beaver.
@@ -258,8 +258,8 @@ started.to.look.at the.stranger the.paddle
 The stranger examined the paddle.
 
 # 037
-?aanaak?ick tlul, waa?atl'at ??at'uum'it.
-?a:na-na*k-?ick tlul wa*-'atl-'at ??at'u:-m'i*t
+?aanaak?ick tlul, waa?atl'at <at'uum'it.
+?a:na-na*k-?ick tlul wa*-'atl-'at <at'u:-m'i*t
 really-having-IND.2SG nice say-FINITE-SHIFT beaver-son.of
 you.really.have.something nice it.is.said.to.him Son.of.Beaver
 "Yours is really nice," the stranger said to Son of Beaver.
@@ -267,20 +267,20 @@ you.really.have.something nice it.is.said.to.him Son.of.Beaver
 # 038
 kwiiscaapu?i.
 kwi:s-ca-?a*p-u(tl)-'i*
-different?-go.to-??-MOM-IMP
+different?-go.to-<-MOM-IMP
 turn.around
 "Turn around," [said the stranger].
 
 # 039
-t'aaqaak kwiiscaaputl ??at'uum'it.
-t'a:qa:k kwis-ca-?a*p-utl ??at'u:-m'i*t
-go.along different-go.to-??-mom beaver-son.of
+t'aaqaak kwiiscaaputl <at'uum'it.
+t'a:qa:k kwis-ca-?a*p-utl <at'u:-m'i*t
+go.along different-go.to-<-mom beaver-son.of
 go.along turn.around Son.of.Beaver
 Son of Beaver turned around as told.
 
 # 040
-chatas?aktlinup'at ?uxwaapak?i ??at'uum'it, tl'uhhas?aktlinu?at.
-chat-as-'aktli-nup-'at ?uxwa:pi-?a*k-?i* ??at'u:-m'i*t tl'uhh-as-'aktli-inu-'at
+chatas?aktlinup'at ?uxwaapak?i <at'uum'it, tl'uhhas?aktlinu?at.
+chat-as-'aktli-nup-'at ?uxwa:pi-?a*k-?i* <at'u:-m'i*t tl'uhh-as-'aktli-inu-'at
 press-on.the.surface?-at.the.rear-MOMCAUS-SHIFT paddle-POSS-DEF beaver-son.of press.against-on.the.surface?-at.the.rear-MOM-SHIFT
 he.placed.it.on.his.behind his.paddle Son.of.Beaver slapped.on.his.behind
 [The stranger] put the paddle on Son of Beaver's bottom and slapped on it.
@@ -288,20 +288,20 @@ he.placed.it.on.his.behind his.paddle Son.of.Beaver slapped.on.his.behind
 # 041
 chuu, cha?aalchi susachishtutl.
 chu: cha?a:lchi sus-achisht-utl
-OK ?? swim-on.the.sea-MOM
+OK < swim-on.the.sea-MOM
 OK go.and swim.in.the.water
 "OK, go and swim in the water.
 
 # 042
-??at'uuchi?atl'ick waa?atl'at.
-??at'u:-chi(tl)-'atl-?ick wa*-'atl-'at
+<at'uuchi?atl'ick waa?atl'at.
+<at'u:-chi(tl)-'atl-?ick wa*-'atl-'at
 beaver-MOM-FINITE-IND.2SG say-FINITE-SHIFT
 you.have.become.a.beaver it.is.said.to.him
 You are now a beaver," the stranger said to him.
 
 # 043
-?unw'iitlhhwa?ish tl'u??at sit'a ??at'uu.
-?unw'i:tl-(q)hh-wa*?i*sh tl'uq-'at sit'a ??at'u:
+?unw'iitlhhwa?ish tl'u<at sit'a <at'uu.
+?unw'i:tl-(q)hh-wa*?i*sh tl'uq-'at sit'a <at'u:
 there.is.a.reason-SIM-QUOT.3 wide-POSS tail beaver
 being.the.reason wide tail beaver
 This is why beavers have the broad tail.

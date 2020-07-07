@@ -18,15 +18,15 @@ gray.whale they.come.from.there southern.area
 Gray whales are from the southern area.
 
 # 003
-n'aach'alukw'atlquuch quu?as tl'aqapt n'aacsa tl'aqswaas?atlquu ?a?um ??iilmakt.
-n'ach-'aluk-'atl-qu:-ch qu:?as tl'aqapt n'a:csa tl'aq-swi*-'as-'atl-qu: ?a?um ??i:lmakt
+n'aach'alukw'atlquuch quu?as tl'aqapt n'aacsa tl'aqswaas?atlquu ?a?um <iilmakt.
+n'ach-'aluk-'atl-qu:-ch qu:?as tl'aqapt n'a:csa tl'aq-swi*-'as-'atl-qu: ?a?um <i:lmakt
 see-looking.after-FIN-COND-INF person plants see grow-extending.through-on.the.ground-FIN-COND at.first nettle
 would.watch person plants see when.it.sprouts at.first nettle
 Men would watch the plant(s) to see when the nettle first sprouts.
 
 # 004
-chuu, waa quu?as?i hhamat tl'aqswaas?atl'ish ??iilmakt.
-chu: wa* qu:?as-?i* hhamat tl'aq-swi*-'as-'atl-?i*sh ??i:lmakt
+chuu, waa quu?as?i hhamat tl'aqswaas?atl'ish <iilmakt.
+chu: wa* qu:?as-?i* hhamat tl'aq-swi*-'as-'atl-?i*sh <i:lmakt
 now.then and person-DEF plain grow-extending.through-on.the.ground-FIN-IND.3 nettle
 now.then and the.man plain have.started.to.sprout nettle
 Now [my] people, you can plainly see that the nettle(s) have started to grow.
@@ -55,7 +55,7 @@ The gray whale feeds on plankton and razor clams.
 # 008
 tlaan'ul qimalitwa?ish?al maa?ak.
 tla:n'ul qim-al-it-wa*-?i*sh-?a*l ma:?ak
-barnacle ??-attached.on-on.the.body-say-IND.3-PL gray.whale
+barnacle <-attached.on-on.the.body-say-IND.3-PL gray.whale
 barnacle they.get.them.attached.on.the.body gray.whale
 The gray whales get barnacles on the body.
 
@@ -76,7 +76,7 @@ They sometimes would go to the rocky shoreline.
 # 011
 wik'iitutl'al tlaan'ul qwichisituusii ?usit'at?i.
 wik'i:t-utl-?a*l tla:n'ul qwi-chis-it-u:si-(y)i: ?usit-'at-?i*
-absent-MOM-PL barnacle that.which-??-on.the.body-REL.DUB.3-INDF body-POSS-DEF
+absent-MOM-PL barnacle that.which-<-on.the.body-REL.DUB.3-INDF body-POSS-DEF
 they.get.rid.of barnacle whatever.might.be.on.the.body its.body
 They [gray whales] get rid of barnacles that are on their bodies.
 
@@ -151,8 +151,8 @@ always look.out the.old.person sitting.idly.outside
 The old men were always sitting looking about.
 
 # 022
-wik'iituk?al ??i??iqat??in.
-wik'i:t-uk-?a*l DUP-??iqat-??in
+wik'iituk?al <i<iqat<in.
+wik'i:t-uk-?a*l DUP-<iqat-<in
 absent-DUR-PL DISTR-drip-make.sound
 they.did.not.have watch
 They did not have a watch.

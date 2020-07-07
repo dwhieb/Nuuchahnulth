@@ -109,8 +109,8 @@ and NAME being.named NAME being.named
 His name was _č̓iḥtaap_.
 
 # 016
-tla?uu?ak ??imtii.
-tla?u:-?a*k ??imti*
+tla?uu?ak <imtii.
+tla?u:-?a*k <imti*
 another-POSS name
 have.another name
 He had another name.
@@ -123,7 +123,7 @@ came.from           NAME          NAME          which          [~] [~]
 He was from _ƛ̓ic̓aaʔatḥ_ — from which James Adams and Carl Jumbo came.
 
 # 018
-haa qwaaniish. haa qwaaniish n'uw'iiqsakqs nananiqsakqs, kwaatya, kinhhuul yaqukwitii luucma, qilsma??aqsup, qilsma??aqsup.
+haa qwaaniish. haa qwaaniish n'uw'iiqsakqs nananiqsakqs, kwaatya, kinhhuul yaqukwitii luucma, qilsma<aqsup, qilsma<aqsup.
 ha: qwa:-ni*sh   ha: qwa:-ni*sh   n'uw'i*qsu-?a*k-qs  DUP-nani*qsu-?a*k-qs           kwa:tya kinhhuul yaq-ukw-it-(y)i:     luucma qilsmaq-'aqsup    qilsmaq-'aqsup.
 yes thus-IND.1PL yes thus-IND.1PL father-POSS-SUB.1SG DISTR-grandparent-POSS-SUB.1SG NAME    NAME     who-POSS-PAST-INDF.3 wife   Kelsomat-woman.of Kelsomat-woman.of
 yes thus.we.are  yes thus.we.are  my.father           my.grandparents                NAME    NAME     who.was.his          wife   Kelsomat.woman    Kelsomat.woman
@@ -137,10 +137,10 @@ thus also who.was.w̓iikinaniš late.Kelsomat.man
 So was the one whose name was _w̓iikinaniš_—he was from Kelsomat.
 
 # 020
-?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya??atl'itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
+?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya<atl'itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
 ?a:nahha-'atl ?in  kwa:tya nani*qsu-?a*k   nani*qsu-?a*k-?i*tq    his-taq-shi(tl)     yaq?atl-?i*tq-?a*l ?achaq m'ukwina m'ukwina ?a:sha:sh-taqiml ?u-kla*
-??-FIN        that NAME    granparent-POSS grandparent-POSS-REL.3 there-come.from-MOM who-FIN.REL.3-PL   who    NAME     NAME     NAME-family      it-having.as.name
-??-FIN        that NAME    her.grandparent her.grandparent        came.from           ones.who           who    NAME     NAME     ʔaašaaš.clan     being.named
+<-FIN        that NAME    granparent-POSS grandparent-POSS-REL.3 there-come.from-MOM who-FIN.REL.3-PL   who    NAME     NAME     NAME-family      it-having.as.name
+<-FIN        that NAME    her.grandparent her.grandparent        came.from           ones.who           who    NAME     NAME     ʔaašaaš.clan     being.named
 _kwaatya_'s grandparent was from the lineage of Maquinna—by the name of _ʔaašaaš_ clan.
 
 # 021
@@ -176,29 +176,29 @@ It was snowing.
 Month of February, 1912—that's when I was born.
 
 # 026
-waa haa  hiisa?ac'atlits   ??upnit
-wa* ha:  hi:sa?ac'atl-it-s ??upnit
+waa haa  hiisa?ac'atlits   <upnit
+wa* ha:  hi:sa?ac'atl-it-s <upnit
 and DISC grow.up-PAST-1SG  Opnit
 and ahh  I.grew.up         Opnit
 And I grew up at Opnit.
 
 # 027
-?uniciis quu?ichitlit ??upnit
-?unic-(y)i:s          qu:?ichitl-it ??upnit
+?uniciis quu?ichitlit <upnit
+?unic-(y)i:s          qu:?ichitl-it <upnit
 time.spent-INDF.1SG   grow.up-PAST  Opnit
 for.some.time.I.spent I.grew.up     Opnit
 For some years I grew up at Opnit
 
 # 028
-waa, ?ahh?aatls ?ucachitl ??a?uknak, tliistliisa
-wa* ?ahh?a:-'atl-s ?u-ca-chi(tl) ??a?uknak DUP#-tli:s-a
+waa, ?ahh?aatls ?ucachitl <a?uknak, tliistliisa
+wa* ?ahh?a:-'atl-s ?u-ca-chi(tl) <a?uknak DUP#-tli:s-a
 and then-FIN-1SG it-go.to-MOM NAME IT-write-REP
 and then.I.did went.to NAME going.to.school
 and then I went to _ʕaʔuknak_ to attend school.
 
 # 029
-?a?ums walaak ??a?uknak 1919
-?a?um-s wala:k ??a?uknak ~
+?a?ums walaak <a?uknak 1919
+?a?um-s wala:k <a?uknak ~
 at.first-1SG go NAME ~
 I.first went NAME ~
 I first went to _ʕaʔuknak_ in 1919.
@@ -225,8 +225,8 @@ she.got.married.to.another
 She had got remarried.
 
 # 033
-??ihhshitls, ??ihhshitls
-??ihh-shi(tl)-s ??ihh-shi(tl)-s
+<ihhshitls, <ihhshitls
+<ihh-shi(tl)-s <ihh-shi(tl)-s
 cry-GRAD-1SG cry-GRAD-1SG
 I.was.crying I.was.crying
 I cried and cried.
@@ -287,14 +287,14 @@ I understood what the teachers, principal and staff people were saying.
 # 042
 ?uushc'alit ciiqciiqat
 ?u:sh-c'al-it DUP#-ciq-a-'at
-some-??-PAST IT-speak-REP-SHIFT
+some-<-PAST IT-speak-REP-SHIFT
 it.was.prohibited speaking
 We weren't allowed to talk (in our native language).
 
 # 043
 wikyaaminish tl'up'iichhhatlquu ?acyuu?atlqin suuhhaa, ?u?u?iihh cuw'it,
 wik-y'a*-'ap-it-nish tl'up-`i*chhh-'atl-qu: ?ac-yu*-'atl-qwin su:hha: DUP-?u-'i:hh cuw'it
-not-troubled.by-CAUS-PAST-IND.1PL warm-season.of-FIN-COND.3 go.out.fishing-done-FIN-COND.1PL spring.salmon ??-it-pursuing coho.salmon
+not-troubled.by-CAUS-PAST-IND.1PL warm-season.of-FIN-COND.3 go.out.fishing-done-FIN-COND.1PL spring.salmon <-it-pursuing coho.salmon
 it.didn't.take.effect.on.us during.summer when.we.were.out.fishing spring.salmon gathering coho.salmon
 It (the ban on using the native language) didn't have an effect on us during the summer, while we were out fishing for salmon, coho.
 
@@ -306,15 +306,15 @@ ling.cod sometimes catch
 Sometimes we got cod
 
 # 045
-waa ?ahh?aatl ??ay'iichhh ?aya muwach susaa, suusilaya
-wa* ?ahh?a:-'atl ??ay'i:chhh ?aya muwach sus-(y)a* sus-il-aya
-and then-FIN autumn many deer swim-CONT swim-??-continuously.doing
+waa ?ahh?aatl <ay'iichhh ?aya muwach susaa, suusilaya
+wa* ?ahh?a:-'atl <ay'i:chhh ?aya muwach sus-(y)a* sus-il-aya
+and then-FIN autumn many deer swim-CONT swim-<-continuously.doing
 and then autumn many deer swimming continuously.swimming
 and then in spring(?) many deer swam across.
 
 # 046
-?ahh qwaanaa ha?uk ??a?uknak hilhh
-?ahh qwa:-na* ha?uk ??a?uknak hil-(q)hh
+?ahh qwaanaa ha?uk <a?uknak hilhh
+?ahh qwa:-na* ha?uk <a?uknak hil-(q)hh
 this thus-1PL eat NAME there-SIM
 this how.we.are eat NAME there
 That's how we ate at _ʕaʔuknak_.
@@ -329,7 +329,7 @@ The steamboat would come every 10 days.
 # 048
 hhayuchil, [ten days] qaqacchup'ich n'upqiml hupal
 hhayu-chi*l   ~ DUP-qac-chup'ich   n'up-qiml hupal
-ten-days.long ~ ??-three-times.in one-round moon
+ten-days.long ~ <-three-times.in one-round moon
 for.ten.days  ~ three.times.per    one       moon
 (They came) three times a month.
 
@@ -341,7 +341,7 @@ for.ten.days  ~ three.times.per    one       moon
 I finished (came out of) school in 1927.
 
 # 050
-?acyuu ?? ?acyuu, fis\hing yaaqwil?itq mamaln'i waa, kwacinu hiistil, ?acyuu
+?acyuu < ?acyuu, fis\hing yaaqwil?itq mamaln'i waa, kwacinu hiistil, ?acyuu
 ?ac-yu* ~ ?ac-yu* ~ yaqw-(ch)il-?i*tq ma-mal-n'i* wa* kwaci:nu hist-(ch)il ?ac-yu*
 go.out.fishing-done ~ go.out.fishing-done ~ which-with.reference.to-REFL.3 dwell-move-come say NAME there-with.reference.to go.out.fishing-done
 be.out.hunting ~ be.out.hunting ~ with.reference.to.which white.man say NAME at be.out.hunting
@@ -350,7 +350,7 @@ I was out fishing at Quatsiino
 # 051
 waa c'u?ichhh, ch'aastimc ?u?u?iihh, sashtup qwaq?iitq haptuup, waaxnii, tl'itl'ihhiy'uuhh, ch'aty'a yaaqwil?itq waa?at tlapisum, racoon
 wa* c'u?ichhh ch'a:stimc DUP-?u-'i:hh sa-shtu*p qwaq-?i*tq hap-tu*p wa:xni: tl'itl'ihhiy'uuhh, ch'aty'a yaqw-(ch)il-?i*tq wa*-'at tlapisum ~
-and winter mink ??-it-hunting crawl-species what-REL.3 fur-species land.otter martin racoon which-with.reference.to-REL.3 say-SHIFT racoon ~
+and winter mink <-it-hunting crawl-species what-REL.3 fur-species land.otter martin racoon which-with.reference.to-REL.3 say-SHIFT racoon ~
 and winter mink gathering animal whatever fur.bearing.animal land.otter martin racoon with.reference.to.which it.is.called racoon ~
 And during winter, I hunted for mink, other fur-bearing animals, otter, martin, raccon — which is called _ƛapisum_.
 
@@ -364,7 +364,7 @@ We never lack food to eat from low tide.
 # 053
 hhaa?iisatlquu ch'iitaa?at, y'a?isi ?u?u?iihh?at
 hha:?i:satl-qu: ch'i:t-(y)a*-'at y'a?isi DUP-?u-'i:hh-'at
-tide.gets.low-COND.3 digging.clams-CONT-SHIFT butter.clam ??-it-collecting-SHIFT
+tide.gets.low-COND.3 digging.clams-CONT-SHIFT butter.clam <-it-collecting-SHIFT
 when.tides.are.low digging.clams butter.clam collect.it
 At low tides, we went digging clams.
 
@@ -385,21 +385,21 @@ Sometimes we caught deer.
 # 056
 waa, wiktimnish kinhhak, kinhhak
 wa* wik-tim-nish kinhh-ak kinhh-ak
-and not-??-IND.1PL starve-DUR starve-DUR
+and not-<-IND.1PL starve-DUR starve-DUR
 and we.didn't starving starving
 We never went hungry.
 
 # 057
 wik?aatimnish
 wik-?a*ta-im-nish
-not-lacking-??-IND.1PL
+not-lacking-<-IND.1PL
 we.never.lack
 We never ran out of things.
 
 # 058
 ?um'aack?al, ?u?u?iihh tl'ihhapiihh, ?i?ishpaal, ?i?ishpaal
 ?um'a:ck-?a*l DUP-?u-'i:hh tl'ihhapi:hh ?i?ishpa:l ?i?ishpa:l
-often-PL ??-it-hunting red.snapper (fish.name) (fish.name)
+often-PL <-it-hunting red.snapper (fish.name) (fish.name)
 they.often gathering red.snapper ~ ~
 They very often fished for red snappers and _ʔiʔišpaaɬ_.
 
@@ -420,7 +420,7 @@ They are like pitch gum. (They taste like pitch gum.)
 # 061
 ?uy'iihhinch ?uhhtinmit ?ishc'iipm'ititquu
 ?u-y'i*hha-in-ch ?u-hhtin-mit ?ishc'i:p-m'i*t-it-qu:
-it-because.of-??-INF it-made.of-PAST gum-son.of-PAST-COND.3
+it-because.of-<-INF it-made.of-PAST gum-son.of-PAST-COND.3
 it.might.be.because.of made.of Son.of.Gum.Woman
 This (the fact that _ʔiʔišpaaɬ_ tastes like pitch gum) is because _ʔiʔišpaaɬ_ is made of pitch gum.
 
@@ -432,8 +432,8 @@ then    I.do.for.now start.telling.a.story what.happened
 Now I have started telling a story about what happened.
 
 # 063
-hi?iisitwa?ish ?ishc'iipm'it nism'a?i hil tlawaaquhhaa, ?alma??a ?uklaa
-hi?i:s-it-wa*?i*sh              ?ishc'i:p-m'i*t  nism'a-?i* hil   tlawa: quhha: ?alma?? ?u-kla*
+hi?iisitwa?ish ?ishc'iipm'it nism'a?i hil tlawaaquhhaa, ?alma<a ?uklaa
+hi?i:s-it-wa*?i*sh              ?ishc'i:p-m'i*t  nism'a-?i* hil   tlawa: quhha: ?alma< ?u-kla*
 there.on.the.ground-PAST-QUOT.3 gum-son.of       land-DEF   there near   NAME   NAME    it-named
 it.was.there                    Son.of.Gum.Woman the.land   there near   NAME   NAME    being.named
 Son of Gum Woman lived at the place near _qaḥaa_, a place named _ʔaɬmaʕa_.
@@ -455,14 +455,14 @@ Son of Gum Woman got a wife.
 # 066
 ?acyuu?atl'uuch ?u?u?iihh tl'ihhapiihh.
 ?ac-yu*-'atl-qu:-ch                DUP-?u-'i:hh   tl'ihhapi:hh
-go.out.fishing-done-FIN-COND.3-INF ??-it-hunting red.snapper
+go.out.fishing-done-FIN-COND.3-INF <-it-hunting red.snapper
 would.be.out.for.food              gathering      red.snapper
 He would go out fishing for red snapper.
 
 # 067
 ?uyi?isim tlimksaap hupkwista?atlquu hupal waa, hupkwista?atlquu hupal
 ?uyi-'i*sim                 tlimk-sa*p     hupkw-ista-'atl-qu:          hupal wa* hupkw-ista-'atl-qu:          hupal
-at.the.time-IMP.2SG>1SG.FUT awake-MOM.CAUS roundish.thing-??-FIN-COND.3 sun   say roundish.thing-??-FIN-COND.3 sun
+at.the.time-IMP.2SG>1SG.FUT awake-MOM.CAUS roundish.thing-<-FIN-COND.3 sun   say roundish.thing-<-FIN-COND.3 sun
 do.for.me.at                wake           when.the.sun.is.rising       sun   say when.the.sun.is.rising       sun
 He (Son of Gum Woman) said to her (his wife), "Wake me up when the sun is rising."
 
@@ -487,14 +487,14 @@ Son of Gum Woman left in a canoe. [He started later than he planned because his 
 # 071
 waa?atlhh hupkwista hupal tl'upiichi?atl
 wa*-'atl-(q)hh hupkw-ista hupal tl'up-`i*chi(tl)-'atl
-and-FIN-SIM roundish.thing-?? sun warm-INC-FIN
+and-FIN-SIM roundish.thing-< sun warm-INC-FIN
 now.it.is the.sun.is.rising sun became.warm
 Now the sun is up and it got warm.
 
 # 072
 hisiikhhaal ?ishc'iipm'it
 his-i*k-hha:l ?ishc'i:p-m'i*t
-there-going.along-?? gum-son.of
+there-going.along-< gum-son.of
 went.through Son.of.Gum.Woman
 Son of Gum Woman went right through it (the heat).
 
@@ -521,8 +521,8 @@ The canoe got capsized.
 
 # 076
 wiyaqhh?isim ?uklaa ?i?ishpaal
-?? ?u-kla* ?i?ishpa:l
-?? it-having.as.name (fish.name)
+< ?u-kla* ?i?ishpa:l
+< it-having.as.name (fish.name)
 he.accidentally.became being.named
 (Through this unfortunate incident) he ended up becoming _ʔiʔišpaaɬ_.
 
@@ -542,9 +542,9 @@ Its broth also tastes like pitch gum.
 
 # 079
 qaani chaanits qalcachitl
-?? cha:ni-it-s qal-ca-chi(tl)
-?? temporally-PAST-1SG branching.off-go.to-MOM
-?? I.for.now branched.off
+< cha:ni-it-s qal-ca-chi(tl)
+< temporally-PAST-1SG branching.off-go.to-MOM
+< I.for.now branched.off
 I side-tracked a little.
 
 # 080
@@ -557,7 +557,7 @@ Now, some time elapsed.
 # 081
 kwiisqshi?atl ?iiqhhap'atltla ?utl'ucach kwaciinu
 kwis-q-shi(tl)-'atl ?iq-hhap-'atl-tla* DUP.tl-?u-ca-ch kwaci:nu
-different-??-MOM-FIN same-do?-FIN-again IT-it-go.to-REP NAME
+different-<-MOM-FIN same-do?-FIN-again IT-it-go.to-REP NAME
 it.became.another.year doing.the.same going.repeatedly.to NAME
 The following year I did the same thing going back to the same place at Quatsino.
 
@@ -589,7 +589,7 @@ I know how much we had in 1930.
 # 086
 hayimhhis qwanaakitii?al ?a?iich'im?akitqs
 hayim-hhi*-s        qwa-na*k-it-(y)i:-?a*l       DUP-?i:ch'im-?a*k'-it-qs
-not.knowing-DUR-1SG ??-having-PAST-INDF-3PL      DISTR-parent-POSS-PAST-SUB.1SG
+not.knowing-DUR-1SG <-having-PAST-INDF-3PL      DISTR-parent-POSS-PAST-SUB.1SG
 I.don't.know        how.much.they.might.have.had my.parents
 I don't know how much my late parents had.
 
@@ -624,22 +624,22 @@ Then in 1940, it got better.
 # 091
 [Logging camp] ?ukwinu?atl. [Logging camp].
 ~ ?ukw-in-u(tl)-'atl ~
-~ ??-come-MOM-FIN ~
+~ <-come-MOM-FIN ~
 ~ came.to ~
 I ended up in a logging camp.
 
 # 092
 suuchitl waa. suuchitl. [Eight hours], ?atlakwal. [Eight hours] qum'aa.
-??       ??   ??        ~              ?atlakwal  ~             qum'a:
-??       ??   ??        ~              eight      ~             how.many
-??       ??   ??        ~              eight      ~             how.many
+<       <   <        ~              ?atlakwal  ~             qum'a:
+<       <   <        ~              eight      ~             how.many
+<       <   <        ~              eight      ~             how.many
 We worked for eight hours a day. (?)
 
 # 093
-??aciishh wiiqsii?atlquu wik'iit [time-off] \logging, huu?ak ?uyi
-??aci:s-(q)hh wi:qsi:-'atl-qu:  wik'i:t ~ ~ hu:?ak ?uyi
-??-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.the.time
-??-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.that.time
+<aciishh wiiqsii?atlquu wik'iit [time-off] \logging, huu?ak ?uyi
+<aci:s-(q)hh wi:qsi:-'atl-qu:  wik'i:t ~ ~ hu:?ak ?uyi
+<-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.the.time
+<-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.that.time
 Even in stormy weather there was no time off from logging a long time ago.
 
 # 094
@@ -666,7 +666,7 @@ it.has.changed
 # 097
 kwiisqshi?atl ?aya, ?aya, ?aya
 kwis-q-shi(tl)-'atl ?aya ?aya ?aya
-different-??-MOM-FIN many many many
+different-<-MOM-FIN many many many
 it.became.another.year many many many
 The following year there were so many.
 
@@ -707,15 +707,15 @@ Then after some time, I went to Kyuquot for a long time — four years.
 
 # 103
 ?uuncpanach qaay'uukw'athh mamuuk
-??  qa:y'u:kw'athh mamuuk
-?? Kyuquot working
-?? Kyuquot working
+<  qa:y'u:kw'athh mamuuk
+< Kyuquot working
+< Kyuquot working
 I worked at various places in Kyuquot. (?)
 
 # 104
 ?ahh?aatls hu?acachitl hiistanam?atls Saba\l\las t'ashiis, [saw mill] ?ukwiilna
 ?ahh?a:-'atl-s hu?a-ca-chi(tl) hist-anam-'atl-s ~ t'ashi:s ~ qu-(kw)i:l-na*
-then-FIN-1SG back-go.to-MOM there-??-FIN-1SG ~ Tahsis ~ it-make-1PL
+then-FIN-1SG back-go.to-MOM there-<-FIN-1SG ~ Tahsis ~ it-make-1PL
 then.I.did returned I.came.to ~ Tahsis ~ we.build
 Then I went back and ended up at Saballas, Tahsis, and we made a sawmill.
 
@@ -734,8 +734,8 @@ It was a long time ago in 1945.
 I worked with Gordon Gibson.
 
 # 107
-?unaakit?ish mill, [Gordon Gibson], [Matilda Creek], ??aahhuus?athh hil
-?u-na*k-it-?i*sh ~ ~ ~ ??a:hhu:s?athh hil
+?unaakit?ish mill, [Gordon Gibson], [Matilda Creek], <aahhuus?athh hil
+?u-na*k-it-?i*sh ~ ~ ~ <a:hhu:s?athh hil
 it-having-PAST-IND.3 ~ ~ ~ Ahousaht there
 he.had ~ ~ ~ Ahousaht there
 Gordon Gibson owned the mill on the Matilda Creek in Ahousat.
@@ -750,7 +750,7 @@ We worked in February.
 # 109
 c'u?ichh m'alaa, m'alaa?atlquu qwaalhhs mamuuk
 c'u?ichhh m'al-(y)a* m'al-(y)a*-'atl-qu: qwa:-lhhs mamu:k
-winter cold-CONT cold-CONT-FIN-COND.3 thus-?? working
+winter cold-CONT cold-CONT-FIN-COND.3 thus-< working
 winter cold when.it.was.cold even.though working
 Although it was in winter and cold, we worked.
 
@@ -799,14 +799,14 @@ I said to Phillip, "I have been teaching you (how to fish) for a long time."
 # 117
 na?uuk ?acshitlna ?ayaatl suuhhaa July ?uyi August ?aya
 na?u:k ?ac-shi(tl)-na* ?aya-a:tl su:hha: ~ ?uyi ~ ?aya
-accompanying go.out.fishing-MOM-1PL many-?? spring.salmon ~ at.the.time ~ many
+accompanying go.out.fishing-MOM-1PL many-< spring.salmon ~ at.the.time ~ many
 accompanying we.went.out.fishing many spring.salmon ~ at.that.time ~ many
 We went along fishing plenty of salmon in July and August.
 
 # 118
 ?ahh?aatl ?unic hawii?atl. [Dog sa\lmon] ?u?u?iihh
 ?ahh?a:-'atl ?unic hawi:(tl)-'atl ~ DUP-?u-'i:hh
-then-FIN time.elapsed finish-FIN ~ ??-it-hunting
+then-FIN time.elapsed finish-FIN ~ <-it-hunting
 then in.a.little.while finished ~ gathering
 Then after a while the season for dog salmon ended.
 
@@ -820,7 +820,7 @@ George Sye said to me, "You will come along with me.
 # 120
 herring ?u?u?iihhaqtlnish, tlusmit
 ~ DUP-?u-'i:hh-'aqtl-ni*sh tlusmit
-~ ??-it-hunting-FUT-IND.1PL herring
+~ <-it-hunting-FUT-IND.1PL herring
 ~ we.will.fish herring
 We will fish herring."
 
@@ -834,7 +834,7 @@ We went fishing, but we couldn't get any at first.
 # 122
 ?ayaqshi?atlqun 50, 60 ton
 ?ayaq-shi(tl)-'atl-qwin ~ ~ ~
-??-MOM-FIN-COND.1PL ~ ~ ~
+<-MOM-FIN-COND.1PL ~ ~ ~
 we.could.barely ~ ~ ~
 We would barely get 50, 60 ton.
 
@@ -869,7 +869,7 @@ George Sye got 750 ton.
 # 127
 qum'aac'aqitii [tender boats] k'amintl
 qum'a:-c'aq-it-(y)i: ~ k'ama-in(tl)
-how.many-??-PAST-INDF.3 ~ full-MOM
+how.many-<-PAST-INDF.3 ~ full-MOM
 however.many ~ got.full
 All the tender boats became full.
 
@@ -888,8 +888,8 @@ and then went.home
 and then I went home.
 
 # 130
-chaani?aqtls walshitl, walshi?atls  ??aahhuus?athh
-cha:ni-'aqtl-s wal-shi(tl) wal-shi(tl)-'atl-s ??a:hhu:s?athh
+chaani?aqtls walshitl, walshi?atls  <aahhuus?athh
+cha:ni-'aqtl-s wal-shi(tl) wal-shi(tl)-'atl-s <a:hhu:s?athh
 for.now-FUT-1SG go.home-MOM go.home-MOM-FIN-1SG Ahousaht
 for.now.I.will go.home I.went.home Ahousaht
 For now I went home. I went back to Ahousaht.
@@ -902,15 +902,15 @@ I.for.long at.home
 I stayed home for a long time.
 
 # 132
-??uyaasatl'in waa?atl'ats Viola
-??uya:s-'atl-'in wa:-'atl-'at-s ~
+<uyaasatl'in waa?atl'ats Viola
+<uya:s-'atl-'in wa:-'atl-'at-s ~
 move-FIN-IMP.1PL say-FIN-SHIFT-1SG ~
 lets.move it.was.said.to.me ~
 "Let's move to a different place," Viola said to me.
 
 # 133
-??uyaasatlna Alberni walaak, Alberni, [Port Alberni]
-??uya:s-'atl-na* Alberni wala:k Alberni ~
+<uyaasatlna Alberni walaak, Alberni, [Port Alberni]
+<uya:s-'atl-na* Alberni wala:k Alberni ~
 move-FIN-1PL Alberni go Alberni ~
 we.moved ~ go ~ ~
 We went to Port Alberni.
@@ -1051,7 +1051,7 @@ Then I graduated in 1987.
 # 153
 hiist'i?atls ?ahh?aa hil ?ahh
 hist-'i-'atl-s ?ahh?a: hil ?ahh
-there-??-FIN-1SG there there here
+there-<-FIN-1SG there there here
 I.took.it.from there there here
 I took it from there to be here.
 
@@ -1092,9 +1092,9 @@ During summer, (I have been working with) a couple.
 
 # 159
 c'aashaa c'awaak Toshi
-??  c'awa:k ~
-?? one ~
-?? one ~
+<  c'awa:k ~
+< one ~
+< one ~
 First Toshi was alone.
 
 # 160
@@ -1132,7 +1132,7 @@ you.are.right ~
 # 165
 kwiisqshitl'aash ?atlin,
 kwis-q-shi(tl)-?a:sh ?atla-in
-different-??-MOM-INF.3 two-come
+different-<-MOM-INF.3 two-come
 next.year two.came
 The following year, the two came.
 
@@ -1174,7 +1174,7 @@ It has been two years for his wife.
 # 171
 [Three years]?atls?al huhhtak Toshi, yaqchiil?atl'itq, [his wife]
 [three years]-'atl-s-?a*l huhhtak ~ yaq-chi:l-'atl-?i*tq ~
-[three years]-FIN-1SG-PL know ~ who-??-FIN-REL.3 ~
+[three years]-FIN-1SG-PL know ~ who-<-FIN-REL.3 ~
 I.them.for.three.years know ~ his ~
 I have known Toshi and his wife for three years.
 
@@ -1202,14 +1202,14 @@ I don't teach dirty language.
 # 175
 ?ana ?anchils ?iiqhhuk qwiq?iitq tlul, tlulmis
 ?ana ?an-(ch)il-s ?i:qhh-uk qwiq-?i*tq tlul tlul-mis
-only ??-with.ref.to-1SG telling-DUR that.which-REL.3 good good-thing
+only <-with.ref.to-1SG telling-DUR that.which-REL.3 good good-thing
 only certain.things.I narrating that.which good good.things
 I only tell good words.
 
 # 176
 ?ayaqchaa hiyiqtup qaan'im
 ?ayaq-cha: hiyiq-tu*p qa:n'im
-many-?? various-thing private
+many-< various-thing private
 there.are.many everything private
 There are many things that should be kept private.
 
@@ -1228,9 +1228,9 @@ with.reference.to.which ~ private we.say
 We call our private parts of our body _qaanim_.
 
 # 179
-?ahh?aa, hiishilsa huhhtak ??aa??imt'at  ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa?at ch'alch'a, hishuk ch'alch'a
-?ahh?a: hish-(ch)il-sa huhhtak DUP:-??imt-'at ?usit-'at-qin ?una-`ichi(tl)-qin hist-'itl t'uhhc'iti hapsy'up hap-ca*sqi* hhu:l tlishtlin DUP-ch'isa*q-hhtim wa*-'at ch'alch'a hish-uk ch'alch'a
-then all-with.ref.to-1SG know IT-name-POSS body-POSS-REL.1PL that.much-INC-REL.1PL there-take head hair hair-head? there foot DISTR-??-?? say-SHIFT fingernail all-DUR fingernail
+?ahh?aa, hiishilsa huhhtak <aa<imt'at  ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa?at ch'alch'a, hishuk ch'alch'a
+?ahh?a: hish-(ch)il-sa huhhtak DUP:-<imt-'at ?usit-'at-qin ?una-`ichi(tl)-qin hist-'itl t'uhhc'iti hapsy'up hap-ca*sqi* hhu:l tlishtlin DUP-ch'isa*q-hhtim wa*-'at ch'alch'a hish-uk ch'alch'a
+then all-with.ref.to-1SG know IT-name-POSS body-POSS-REL.1PL that.much-INC-REL.1PL there-take head hair hair-head? there foot DISTR-<-< say-SHIFT fingernail all-DUR fingernail
 then everything.I know their.names our.body our.whole.body taken.from.there head hair head.hair there foot toes it.is.called nails all nails
 I know the names of different parts of our body — the whole body, starting from our head and head hair, to feet, toes, nails, all nails.
 

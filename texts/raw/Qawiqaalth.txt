@@ -62,7 +62,7 @@ Men would go hunting.
 # 009
 ?acyuu, kwiikwiisahhi.
 ?ac-yu* DUP-kwis-sa*hhi
-go.out.hunting-done ??-different-??
+go.out.hunting-done <-different-<
 be.out.hunting good.hunters
 Good hunters are out hunting.
 
@@ -81,16 +81,16 @@ would.never.be.invited Qawiqaalth although proper person Qawiqaalth
 They would never invite Qawiqaalth to feasts, although he was a proper person.
 
 # 012
-histaqshitl hhuu hilin??atu.
-his-taq-shi(tl) hhu: hil-in??atu
+histaqshitl hhuu hilin<atu.
+his-taq-shi(tl) hhu: hil-in<atu
 there-come.from-MOM over.there there-towards.west
 came.from over.there way.far.west
 Qawiqaalth is from the far west.
 
 # 013
-hilin??atu waana?aal hhuu ?uuc'iqwa?i, hachliitlspa.
-hil-in??atu wa:-na-?a:l hhu: ?u:c'uqwa?i hachli:tl-spa
-there-towards.west say-1PL-always over.there ?? west-vicinity.of
+hilin<atu waana?aal hhuu ?uuc'iqwa?i, hachliitlspa.
+hil-in<atu wa:-na-?a:l hhu: ?u:c'uqwa?i hachli:tl-spa
+there-towards.west say-1PL-always over.there < west-vicinity.of
 way.far.west we.would.call over.there a.little.further westerly.position
 "_hiɬinʕatu_" is what we say to refer to a distant location in the west.
 
@@ -130,7 +130,7 @@ would.do.it.alone.with eat his.mother
 He (Qawiqaalth) used to eat alone with his mother.
 
 # 019
-?iihh?at kwiishhii, y'uuqwatla tla?ukta??as?i.
+?iihh?at kwiishhii, y'uuqwatla tla?ukta<as?i.
 ?i:hh-'at kwis-hhi* y'u:qwa:-tla* tla?u-(k)taq-'as-?i*
 very-SHIFT different-DUR also-again another-family.groups-in.the.village-DEF
 very strange also nextdoor.neighbors
@@ -167,7 +167,7 @@ Qawiqaalth said to his mother, "Now, listen to me carefully."
 # 024
 ?uyii?aqsish, wikpitl hinalachi?atlquu. ?amalachi?atlquu hupal.
 ?uyi:-?aq-si*sh wik-pi(tl) hin-ala-chi(tl)-'atl-qu: ?ap-ala-chi(tl)-'a-qu: hupal
-??-FUT-IND.1SG not-MOM there.MOM-add.on-MOM-FIN-COND.3 LOC-add.on-MOM-FIN-COND.3 moon
+<-FUT-IND.1SG not-MOM there.MOM-add.on-MOM-FIN-COND.3 LOC-add.on-MOM-FIN-COND.3 moon
 I.shall leave when.waxing.starts just.when.waxing.begin moon
 "I will leave when the moon starts to grow — just when the moon starts to grow."
 
@@ -361,8 +361,8 @@ couple
 It was a couple.
 
 # 052
-?aa, ?anaqsish ?ahh waa?atl. qwiqukwitii ??iichnuu.
-~ ?ana-qs-si*sh ?ahh wa:-'atl qwiq-ukw-it-(y)i: ??i:chnu:
+?aa, ?anaqsish ?ahh waa?atl. qwiqukwitii <iichnuu.
+~ ?ana-qs-si*sh ?ahh wa:-'atl qwiq-ukw-it-(y)i: <i:chnu:
 ~ only-in.a.vessel-IND.1SG he say-FIN that.which-POSS-PAST-INDF.3 bullhead
 ~ only.thing.I.have.in.a.canoe he said whatever.ours bullhead
 "Well, the only thing I've got is bullheads [which are from shallow water along the coast]," he (one of the sea lions) said.
@@ -370,7 +370,7 @@ It was a couple.
 # 053
 wi?ii nasatlitsish ?aqi?ishtiik hhacxwintl'aqtl.
 wi-?i: nas-'atl-it-si*sh ?aqi?ishti:k hhacxwintl-'aqtl
-insufficient-reach try.in.vain-FIN-PAST-IND.1SG ?? deep.down-FUT
+insufficient-reach try.in.vain-FIN-PAST-IND.1SG < deep.down-FUT
 didnt.reach I.failed something go.deep.down
 I couldn't go far enough. I couldn't go much deeper (to get things from the deep water).
 
@@ -390,9 +390,9 @@ He dove into the water too.
 
 # 056
 ?uuwatltla, qawiqaal ?aqtl'i m'uksy'i.
-?u-(w)atl-tla* qawiqa:l ?? m'uksy'i
-it-find-again Qawiqaalth ?? rock
-found.it.again Qawiqaalth ?? rock
+?u-(w)atl-tla* qawiqa:l < m'uksy'i
+it-find-again Qawiqaalth < rock
+found.it.again Qawiqaalth < rock
 Qawiqaalth found rocks.
 
 # 057
@@ -405,7 +405,7 @@ He swallowed two of them — how big the rocks were or how many of them he swall
 # 058
 k'uu?ulshitl hhuu hhachxwintl, t'apschitl.
 k'u:-?ul-shi(tl) hhu: hhachxwintl t'aps-chi(tl)
-short.distance-??-MOM over.there go.deeper dive-MOM
+short.distance-<-MOM over.there go.deeper dive-MOM
 a.little.farther over.there go.deeper dove
 He went a little deeper [than usual], he dove in.
 
@@ -447,7 +447,7 @@ The only thing they got was not from deep water.
 # 064
 kwiis\hhii ?ahh qawiqaal, ?uy'iihhatl ?in m'uksy'iqc'atl. (t'iqs).
 kwis-hhi* ?ahh qawiqa*l ?u-y'i*hha-'atl ?in m'uksy'i-qc'atl t'i-qs
-different-DUR this Qawiqaalth it-because.of-FIN that rock-?? large.stone-in.a.vessel
+different-DUR this Qawiqaalth it-because.of-FIN that rock-< large.stone-in.a.vessel
 different this Qawiqaalth because that stones.inside ballast
 Qawiqaalth was different, because he had stones inside (as ballast).
 
@@ -559,14 +559,14 @@ now we.will.start.migrating said
 # 080
 ?ucahhtachi?atl, tuch'acsi?il.
 ?u-ca-hhta-chi(tl)-'atl tuch'a-csi?il
-it-go.to-out.to.sea-MOM-FIN east-??
+it-go.to-out.to.sea-MOM-FIN east-<
 headed.out.in.the.direction.of southeast
 They are headed in a general southeast direction.
 
 # 081
 ?aa, saya?ii ?uuwatl ?uu?uuquk nism'a.
 ~ saya-?i: ?u-(w)atl DUP-?u:q-ukw nism'a
-~ far.off-reach it-find ??-desirable-DUR land
+~ far.off-reach it-find <-desirable-DUR land
 ~ went.far found beautiful land
 They went far and found a beautiful land.
 
@@ -578,8 +578,8 @@ however.long.they.stayed returned
 They stayed there for some time [no one knows for sure how long it might have been], and they returned.
 
 # 083
-chuu, ?ucachitl'aqtlnish hhuu. hilin??atu waa?atl.
-chu: ?u-ca-chi(tl)-'aqtl-nish hhu: hil-in??atu wa:-'atl
+chuu, ?ucachitl'aqtlnish hhuu. hilin<atu waa?atl.
+chu: ?u-ca-chi(tl)-'aqtl-nish hhu: hil-in<atu wa:-'atl
 now it-go.to-MOM-FUT-IND.1PL over.there there-towards.west say-FIN
 now we.will.go.there over.there west said
 "Now, we shall head yonder [toward] the west," they said.
@@ -621,9 +621,9 @@ Now, they are migrating far, far away.
 
 # 089
 ?uuy'ip'atlquu chaa, p'uu?i, tushkuuhh. tushkuuhh ?aya.
-?u-i:y'ip-'atl-qu: ?? p'u:?i tushku:hh tushku:hh ?aya
-it-obtain-FIN-COND.3 ?? halibut ling.cod ling.cod many
-caught ?? halibut ling.cod ling.cod many
+?u-i:y'ip-'atl-qu: < p'u:?i tushku:hh tushku:hh ?aya
+it-obtain-FIN-COND.3 < halibut ling.cod ling.cod many
+caught < halibut ling.cod ling.cod many
 [They got] plenty of cod.
 
 # 090
@@ -713,7 +713,7 @@ Qawiqaalth prefers to go deeper [to keep away from the storm] rather than to sta
 # 102
 y'aaqnaq. y'aaqnaq qawiqaal. y'aaqnaq.
 y'a*q-naq y'a*q-naq qawiqa:l y'a*q-naq
-long-?? long-?? Qawiqaalth long-??
+long-< long-< Qawiqaalth long-<
 long.winded long.winded Qawiqaalth long.winded
 Qawiqaalth was long-winded. [He could stay much longer than the other sea lions.]
 
@@ -732,7 +732,7 @@ used.to.tag.along killer.whale
 He used to tag along with killer whales.
 
 # 105
-ch'ii??aqatlquuch?al,
+ch'ii<aqatlquuch?al,
 ch'i:q-'aqa-'atl-qu:-ch-?a*l
 attack-severally.doing-FIN-COND.3-INF-PL
 they.would.fight
@@ -741,7 +741,7 @@ They (killer whales) would fight with each other.
 # 106
 ?imch'aaqy'akuk?al. ?imch'aaqy'ak ?u?ukwink kakaw'in.
 ?imch'a:qy'ak-uk-?a*l ?imch'a:qy'ak DUP-?u-kwink kakaw'in
-playing-DUR-PL playing ??-it-together.with killer.whale
+playing-DUR-PL playing <-it-together.with killer.whale
 they.are.playing playing doing.together killer.whale
 Killer whales would play around each other.
 
@@ -907,9 +907,9 @@ also.have.many.in.a.canoe ling.cod
 They also got many cod.
 
 # 130
-??ac'iktla tutushk'iihh qawiqaal.
-??ac'ik-tla* DUP-tushk-'i:hh qawiqa:l
-expert.at-again ??-cod-hunting Qawiqaalth
+<ac'iktla tutushk'iihh qawiqaal.
+<ac'ik-tla* DUP-tushk-'i:hh qawiqa:l
+expert.at-again <-cod-hunting Qawiqaalth
 also.expert.at fishing.for.cod Qawiqaalth
 Qawiqaalth was also good at fishing for cod.
 
@@ -979,7 +979,7 @@ you.will.come.along with.me
 # 140
 wiiqhhapw'it'as?aash qawiqaal. hha?ukwitl'as?atl.
 wi:qhhap-w'it'as-?a:sh qawiqa:l hha?ukwitl'as-'atl
-do.harm-about.to-?? Qawiqaalth revenge-FIN
+do.harm-about.to-< Qawiqaalth revenge-FIN
 he.is.going.to.do.harm Qawiqaalth revenge
 Qawiqaalth is going to do something awful for revenge.
 
@@ -991,8 +991,8 @@ speared Qawiqaalth sea.lion to.it the.biggest.one speared
 Qawiqaalth threw a spear at the sea lions, aiming at the biggest one.
 
 # 142
-sukwitl. hhaa ??ahhmis?i, qaahhiita?i.
-su-kwi(tl) ~ ??ahhmis-?i* qa:hhi:ta-?i*
+sukwitl. hhaa <ahhmis?i, qaahhiita?i.
+su-kwi(tl) ~ <ahhmis-?i* qa:hhi:ta-?i*
 holding-MOM ~ mammal-DEF spearhead-DEF
 grabbed ~ the.mammal the.spearhead
 [But] the mammal grabbed the spearhead (shaft?).
@@ -1007,7 +1007,7 @@ No, he missed it.
 # 144
 t'apschitl hhuu waa hiinii?atu hhaal, c'a?ii?a?i, ch'aniichi?at.
 t'aps-chi(tl) hhu: wa: hin-i*?atu hha:l c'a-?i:-'a*-?i* ch'ani:-chi(tl)-'at
-dive-MOM over.there and there.MOM-get.to.be.under.water there flowing-reach??-on.the.rock-DEF unable.to.see-MOM-SHIFT
+dive-MOM over.there and there.MOM-get.to.be.under.water there flowing-reach<-on.the.rock-DEF unable.to.see-MOM-SHIFT
 dove over.there and go.under.water there the.breakers.on.the.rock couldnt.see
 He dove in and went for a long distance underwater, and the breakers on the shoreline became out of sight [because Qawiqaalth went far off shore].
 
@@ -1112,7 +1112,7 @@ _ƛ̓aaʔas_ is the name of the place, _ƛ̓aaʔas_, Checleset.
 # 159
 hil?atlukwii?al boundary.
 hil-'atl-ukw-i:-?a*l ~
-there-FIN-POSS-??-PL ~
+there-FIN-POSS-<-PL ~
 theirs.is.there ~
 That is where there was a boundary [between the Nuu-chah-nulth territory and the Kwakwala territory].
 
@@ -1144,13 +1144,13 @@ Qawiqaalth knew that his father had reached the land.
 # 164
 kuukuhhw'isa ?u?u?iihh?atl.
 ku:kuhhw'isa DUP-?u-'i:hh-'atl
-hair.seal ??-it-hunting-FIN
+hair.seal <-it-hunting-FIN
 hair.seal hunting.for.it
 [Qawiqaalth] was hunting harbor seals.
 
 # 165
-?ucachi?atl ??a??itlquu, ?am'aqtl'ihhta?i.
-?u-ca-chi(tl) ??a??itl-qu: ?am-'aqtl-'ihhta-?i*
+?ucachi?atl <a<itlquu, ?am'aqtl'ihhta?i.
+?u-ca-chi(tl) <a<itl-qu: ?am-'aqtl-'ihhta-?i*
 it-go.to-MOM-FIN cave-COND.3 LOC-inside-at.the.point-DEF
 went.there cave inside.of.the.tip.of.the.point
 [Qawiqaalth] went to the cave at the tip of the point.
@@ -1207,7 +1207,7 @@ There is a teaching (saying) that you should not patronize a particular person.
 # 172
 ?in, hhaahhuupa wiksuuk, c'aawachil kaapap.
 ?in hha:hhu:p-(y)a* wik-su:k c'awa-(ch)il ka:-pap
-that instructing-CONT not-2SG one-doing.to ??-prefer
+that instructing-CONT not-2SG one-doing.to <-prefer
 that teaching dont.you.ever to.one favor
 It is a teaching that you should not patronize a particular person.
 
@@ -1220,8 +1220,8 @@ This is a teaching.
 
 # 174
 ?uyaatlitwa?ish qii?atl'itq, ?iiqhhuk?atl qawiqaal hilit?itq, qwi?iimit?itq.
-?uyi-??-'atl-it-wa*?i*sh qi:-'atl-?i*tq ?i:qhh-uk-'atl qawiqa:l hil-it-?i*tq qwi-?i:-mit-?i*tq
-at.the.time-??-FIN-PAST-QUOT.3 for.a.long.time-FIN-REL.3 telling-DUR-FIN Qawiqaalth there-PAST-REL.3 that.which-reach-PAST-REL.3
+?uyi-<-'atl-it-wa*?i*sh qi:-'atl-?i*tq ?i:qhh-uk-'atl qawiqa:l hil-it-?i*tq qwi-?i:-mit-?i*tq
+at.the.time-<-FIN-PAST-QUOT.3 for.a.long.time-FIN-REL.3 telling-DUR-FIN Qawiqaalth there-PAST-REL.3 that.which-reach-PAST-REL.3
 it.was.the.time when.long.time.has.past told Qawiqaalth where he.was how.far.he.went
 Many years later, Qawiqaalth told where he had been and how far he had gone.
 
@@ -1242,28 +1242,28 @@ would.do.according.to steam the.smoke went.far
 # 177
 qwaawaa?ish y'uuqwaa maa?ak, ch'uuy'iihhatwa?insh.
 qwa:-wa*-?i*sh y'u:qwa: ma:?ak ch'u-y'i*hha-'at-wa*?insh
-thus-say-IND.3 also gray.whale having.an.odor-??-SHIFT-QUOT.1PL
+thus-say-IND.3 also gray.whale having.an.odor-<-SHIFT-QUOT.1PL
 it.is.said.to.be.thus also gray.whale can.smell.our.odor
 Gray whales can also smell us.
 
 # 178
 ?uu?uuquk, ?uu?uu?uqukwis, wawaamit?ish?aal yaqukwitiis n'uw'iiqsu.
 DUP-?u*q-ukw ?u:-?u:-?u*q-ukw-?is wawa:-mit-?i*sh-?a:l yaqw-ukw-it-(u)i:s n'uw'i*qsu
-??-good-DUR ??-??-good-DUR-on.the.beach say-PAST-IND.3-always who-POSS-PAST-INDF.1SG father
+<-good-DUR <-<-good-DUR-on.the.beach say-PAST-IND.3-always who-POSS-PAST-INDF.1SG father
 beautiful.land beautiful.beaches used.to.say who.was.mine father
 That was a beautiful, very beautiful beach. That's what my (GL's) father used to say.
 
 # 179
 ?uu?uu?uqukwis hhuul. ?ucpaa?i, yaaqwil?itq mamaln'i south waa, ?ucachitlckwi ?ahh?aa qawiqaal, south, waa, hachlatuqwak, westerly.
 ?u:-?u:-?u*q-ukw-?is hhu:l ?u-cpa*-?i* yaqw-(ch)il-?i*tq mamaln'i ~ wa* ?u-ca-chi(tl)-ckwi* ?ahh?a: qawiqa:l ~ wa: hachlatuqwak ~
-??-??-good-DUR-on.the.beach there it-go.over-DEF which-with.ref.to-REL.3 white.man ~ say it-go.to-MOM-happened that Qawiqaalth ~ and ?? ~
+<-<-good-DUR-on.the.beach there it-go.over-DEF which-with.ref.to-REL.3 white.man ~ say it-go.to-MOM-happened that Qawiqaalth ~ and < ~
 beautiful.beaches there on.the.other.side with.ref.to.which white.man ~ say must.have.gone that Qawiqaalth ~ and westerly ~
 There is a very beautiful beach down there on the other side — south, white men would say. Qawiqaalth must have gone there, down south and towards the west.
 
 # 180
 hil ?uukwiiqstackwi, k'ilanus. k'ilanus. tukuuk.
 hil ?ukw-i*qsta-ckwi* k'ilanus k'ilanus tuku:k
-here ??-among-happened fur.seal fur.seal sea.lion
+here <-among-happened fur.seal fur.seal sea.lion
 here was.among fur.seal fur.seal sea.lion
 He was among fur seals, sea lions.
 
@@ -1284,7 +1284,7 @@ There were all sorts of colors, some are dark-colored, some are lighter-colored.
 # 183
 waa ?ahh?aa?atl, maa?ak, qukwichink ch'uyaa.
 wa: ?ahh?a:-'atl ma:?ak ?ukwi-chink ch'u-(y)a*
-and then-FIN gray.whale ??-together move-CONT
+and then-FIN gray.whale <-together move-CONT
 and and.then gray.whale with.them moving
 An gray whales migrated at the same time [as fur seals and sea lions].
 
@@ -1312,7 +1312,7 @@ The only time that they would go on the shore was when it was stormy.
 # 187
 ?un'aahh hil?aahhi ?uuqchi, y'uuqwaa ?un'aahh, hiluusii ?uuqchi.
 ?u-n'a*hh hil-'a*hhi ?u*q-chi y'u:qwa: ?u-n'a*hh hil-u:shi-(y)i: ?u*q-chi
-it-seeking there-?? pleasant-at also it-seeking there-REL.DUB.3-INDF.3 pleasant-at
+it-seeking there-< pleasant-at also it-seeking there-REL.DUB.3-INDF.3 pleasant-at
 looking.for place.for? sheltered also looking.for wherever where.it.is.sheltered
 They look for a place (land?) where they can find shelter, and they also look for a place (area in the sea?) where they can find shelter.
 
@@ -1345,8 +1345,8 @@ that what.happened.to.him Qawiqaalth
 This is what happened to Qawiqaalth.
 
 # 192
-histaqshitlckwi, chiiqtlis?athh, qawiqaal, ??imtii?ak, ??imtii?ak, qawiqaalmitquu.
-his-taq-shi(tl)-ckwi* chi:qtlis-'athh qawiqa:l ??imti:-?a*k ??imti:-?a*k qawiqa:l-mit-qu:
+histaqshitlckwi, chiiqtlis?athh, qawiqaal, <imtii?ak, <imtii?ak, qawiqaalmitquu.
+his-taq-shi(tl)-ckwi* chi:qtlis-'athh qawiqa:l <imti:-?a*k <imti:-?a*k qawiqa:l-mit-qu:
 there-come.from-MOM-happened NAME-people.from Qawiqaalth name-POSS name-POSS Qawiqaalth-PAST-COND.3
 have.come.from.there Checleset Qawiqaalth his.name his.name one.who.was.named.Qawiqaalth
 He came from Checleset. Qawiqaalth, that's his name, the one who was named Qawiqaalth.

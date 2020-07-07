@@ -20,9 +20,9 @@ never do.alone when.they.have.a.potlatch
 People never had a potlatch alone by themselves.
 
 # 003
-haa??inchi?atlquu ya?aayaqhhy'u?itq hishumyipitap qwaa?apmahhsas waa.
-ha:??in-chi(tl)-'atl-qu: ya?a*ya-qhhy'u*-?i*tq hish-uml-`ipitap qwa:-'ap-mahhsa-s wa*
-invite-MOM-FINITE-COND ??-related.to-REL.3 all-in.a.group-put.inside thus-MOMCAUS-desiring.to-1SG say
+haa<inchi?atlquu ya?aayaqhhy'u?itq hishumyipitap qwaa?apmahhsas waa.
+ha:<in-chi(tl)-'atl-qu: ya?a*ya-qhhy'u*-?i*tq hish-uml-`ipitap qwa:-'ap-mahhsa-s wa*
+invite-MOM-FINITE-COND <-related.to-REL.3 all-in.a.group-put.inside thus-MOMCAUS-desiring.to-1SG say
 they.would.call.for those.who.are.related.to.them gather.together.inside I.want.to.do say
 They would call and gather their relatives and say, “we would like to do it (hold a potlatch).”
 
@@ -50,7 +50,7 @@ They think about how long it would take to gather various things to give away.
 # 007
 chuu n'ushitlw'it'as?atlquu hiishuu?atlquu ya?aayaqhhy'u?itq.
 chu: n'ushitl-w'it'as-'atl-qu: hish-u:-'atl-qu: ya?a*ya-qhhy'u*-?itq
-now.then distribute-about.to-FINITE-COND all-acting.together-FINITE-COND ??-related.to-REL.3
+now.then distribute-about.to-FINITE-COND all-acting.together-FINITE-COND <-related.to-REL.3
 now.then when.they.are.going.to.hold.a.potlatch all.would.do.together those.who.are.related.to.them
 Now, when you give a potlatch, all the relatives would chip in.
 
