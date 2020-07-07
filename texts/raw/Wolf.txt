@@ -48,8 +48,8 @@ yes you.are.right said.it the.high.ranking.person
 # 007
 ?iihhp'iit waa, ?aya. ?aya?athhitwa?ish manuuis?athh huu?ak
 ?i:hh-p'i*t wa: ?aya ?aya-'athh-it-wa*?i*sh manu:?is?athh hu:?ak
-big-< say many many-residing-PAST-QUOT.3 Manhousats long.ago
-big-< say many there.were.many Manhousats long.ago
+big-?? say many many-residing-PAST-QUOT.3 Manhousats long.ago
+big-?? say many there.were.many Manhousats long.ago
 The high-ranking person said, "Once there were many Manhousats:
 
 # 008
@@ -62,7 +62,7 @@ There were more than five hundred [households]."
 # 009
 hishuus?al ?aathhiy'u hiil ?ink hhaal ?appi?il?i ?ink.
 hish-u:s-?a*l ?athhi:-iy'u hi:l ?ink hha:l ?ap-pi-`il-?i* ?ink
-all-at.home-PL night-< there.in.a.house fire there LOC-in.the.middle-in.the.house-DEF fire
+all-at.home-PL night-?? there.in.a.house fire there LOC-in.the.middle-in.the.house-DEF fire
 they.are.all.at.home at.night there.in.a.house fire there the.center.of.a.house fire
 At night all the people are in the house, and there was a fire blazing at the center of the house.
 
@@ -951,14 +951,14 @@ _n̓upčiiɬ_ is "one day".
 # 137
 hinasi?atl hu?ap'in ?u?ii?as hiiltqyaap'ii?as?i
 hin-as-i(tl)-'atl hu?a-p'in ?u-?i:-'as hil-tqya:p'i:-'as-?i* <upnit
-there.MOM-reaching.to-MOM-FIN back-< it-reach-on.the.ground there-<-in.the.village?-DEF Opnit
+there.MOM-reaching.to-MOM-FIN back-?? it-reach-on.the.ground there-<-in.the.village?-DEF Opnit
 reached circle.around landed behind.the.village Opnit
 They had come all the way back to the spot behind the Opnit village.
 
 # 138
 wik?ii sayaach'a kwisutaqtu. wikmatak sayaa. [like three hundred feet], ?unaach'a ?ahh qwaa.
 wik-?i: saya-a*ch'a kwis-ut-a*qtu* wik-matak saya-(y)a* ~ ?una-ch'a ?ahh qwa:
-not-reach far-height different-<-go.over not-probably far-CONT ~ that.much-< this so
+not-reach far-height different-<-go.over not-probably far-CONT ~ that.much-?? this so
 not high over.the.hill probably.not far ~ height this so
 It was not high over the hill, it couldn't be that high up — like three hundred feet high.
 
@@ -1049,7 +1049,7 @@ The knot [burning in the fireplace] was still showing flashes [even after a long
 # 151
 ?iiqm'aak'uk ?aanahhii patlhhaa flame waa?atlquu.
 ?iq-m'a*-k'uk ?ana-hhi* patl-hha: ~ wa:-'atl-qu:
-same-in.quantity-apparently only-DUR flaming-< ~ say-FIN-COND.3
+same-in.quantity-apparently only-DUR flaming-?? ~ say-FIN-COND.3
 it.appeared.to.be.the.same only little.sparks ~ you.could.say
 The knot appeared to be the same all the time — it only showed little flashes — or flames, you could say.
 
@@ -1118,15 +1118,15 @@ The wolves crawled out of the woods to the rocky point.
 
 # 161
 hil?atl kwiikwiisahhi histakshitl, hishsy'ihhtaqshitl.
-hil-'atl DUP-kwis-< hist-ak-shi(tl) hish-sy'i-hht-taq-shi(tl)
-there-FIN DISTR-different-< there-DUR-MOM all-<-<-come.from-MOM
+hil-'atl DUP-kwis-?? hist-ak-shi(tl) hish-sy'i-hht-taq-shi(tl)
+there-FIN DISTR-different-?? there-DUR-MOM all-<-<-come.from-MOM
 there best.hunteres be.at.the.place came.from.everywhere
 The best hunters were there, coming from everywhere.
 
 # 162
 c'axshi?atlquuch kwiikwiisahhi ?u?iip'atlatukwitwa?ish c'axshi?at ?a?apyiml?at?i.
-c'axw-shi(tl)-'atl-qu:-ch DUP-kwis-< ?u?i:p-'atl-'at-uk-it-wa*?i*sh c'axw-shi(tl)-'at ?ap-yiml-'at-?i*
-spear-MOM-FIN-COND.3-INF DISTR-different-< aim.at?-FIN-SHIFT-POSS-PAST-QUOT.3 spear-MOM-SHIFT LOC-on.the.shoulder-POSS-DEF
+c'axw-shi(tl)-'atl-qu:-ch DUP-kwis-?? ?u?i:p-'atl-'at-uk-it-wa*?i*sh c'axw-shi(tl)-'at ?ap-yiml-'at-?i*
+spear-MOM-FIN-COND.3-INF DISTR-different-?? aim.at?-FIN-SHIFT-POSS-PAST-QUOT.3 spear-MOM-SHIFT LOC-on.the.shoulder-POSS-DEF
 threw.a.spear best.hunters there.they.aim.at they.spear.at.him his.shoulder
 The hunters threw spears and they aimed their spears at his shoulder.
 
@@ -1259,7 +1259,7 @@ He only ate blubber and plants that he was fed by the wolves.
 # 181
 <uy'aatl tlah. ?atlakwaltaqiml <uy'i
 <uy'i-a:tl tlahh ?atlakwal-taqiml <uy'i
-medicine-< now eight-bundle medicine
+medicine-?? now eight-bundle medicine
 became.medicine now eight.bundles medicine
 Now there was medicine — eight bundles of medicine.
 
@@ -1315,7 +1315,7 @@ They are close to us.
 # 189
 qwaatlaa niitiina?athh. ?aya ?uuy'aashhhy'ims. hha?ii niiyaa, ?uuy'aashhy'ims. yaaqwil?itq relatives waa?at. relation. hha?ii.
 qwa:tla: ni:ti:na?athh ?aya ?u:y'a:sh-hhy'u*-ims hha-?i: ni:ya: ?u:y'a:sh-hhy'u*-ims yaqw-(ch)il-?i*tq ~ wa:-'at ~ hha-?i:
-also Nitinat many<-related.to-< completely-reach Neah.Bay<-related.to-< who-with.ref.to-REL.3 ~ say-SHIFT ~ completely-reach
+also Nitinat many<-related.to-?? completely-reach Neah.Bay<-related.to-?? who-with.ref.to-REL.3 ~ say-SHIFT ~ completely-reach
 also Nitinat many relatives as.far.as Neah.Bay relatives to.whom ~ it.is.said ~ go.all.the.way
 Also Nitinat [are close]. There are many relatives. All the way down to Neah Bay there are our relatives.
 
@@ -1413,7 +1413,7 @@ I was bathing.
 # 202
 hiiniic yaqukwitiis <iniitl, <iniitl Adanac ?uklaa.
 hin-i:c yaqw-ukw-it-(y)i:s <ini:tl <ini:tl ~ ?u-kla*
-there.MOM-< which-POSS-PAST-INDF.1SG dog dog ~ it-having.as.name
+there.MOM-?? which-POSS-PAST-INDF.1SG dog dog ~ it-having.as.name
 take.along I.had.before dog dog ~ being.named
 I was taking along the dog I had before, whose name as Adanac.
 

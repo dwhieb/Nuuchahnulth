@@ -69,7 +69,7 @@ Son of Mink had good vision.
 # 010
 n'aacsa hhuul saya?iip, hhamat'ap hiishil.
 n'a:csa hhu:l saya-?i:-p hhamat-'ap hish-il
-see there far.off-reach-< plain-CAUS all-with.ref.to
+see there far.off-reach-?? plain-CAUS all-with.ref.to
 see there at.distance see.clearly as.for.all
 He could see far, clearly seeing everything.
 
@@ -202,7 +202,7 @@ He departed.
 # 029
 yaacpanach, wikckwii sasaa?ii sayaap'inch ?ahh nism'a?i ?unahhit?itq, [North America], yaaqwil mamaln'i waa.
 yac-panach wik-ckwi* < saya-p'inch ?ahh nism'a-?i* ?una-hh-it-?i*tq ~ yaqw-(ch)il mamaln'i wa:
-step-move.about.randomly not-having.happened < far.off-< this land-DEF that.much-size-PAST-REL.3 ~ which-with.ref.to white.man say
+step-move.about.randomly not-having.happened < far.off-?? this land-DEF that.much-size-PAST-REL.3 ~ which-with.ref.to white.man say
 go.for.a.walk didn't go.a.little.farther go.very.far this the.land as.large.as ~ in.ref.to.which white.man say
 He went for a walk: He didn't go very far in this land, which the white men call North America.
 
@@ -328,7 +328,7 @@ Little Mink made a fire, and put fish up on the rack (to dry).
 # 047
 heey, ?un'aahhshitl qwicsapaahhi ?ink?ii.
 ~ ?u-n'a*hh-shi(tl) qwi-csapa-hhi ?ink-?i*
-~ it-seeking-MOM that.which-obstruct-< fire-DEF
+~ it-seeking-MOM that.which-obstruct-?? fire-DEF
 ~ looking.for.it which.obstructs the.fire
 Now, he is looking for something that would obstrutc the fire (from overburning).
 
@@ -384,7 +384,7 @@ He put his fish up on the rack (to dry).
 # 055
 tlimkshitlwa?ish ?uuyu?aalshitlwa?ish quu?as hhaal ?iihh sukwi?atuk yuul?atl'atl.
 tlimk-shi(tl)-wa*?i*sh ?u-L-yu?a:l-shi(tl)-wa*?i*sh qu:?as hha:l ?i:hh sukwi(tl)-'atuk yu:l-'atl-'atl
-awake-MOM-QUOT.3 it-<-aware.of-MOM-QUOT.3 person there big took-< over.there-<-FIN
+awake-MOM-QUOT.3 it-<-aware.of-MOM-QUOT.3 person there big took-?? over.there-<-FIN
 woke.up.it.is.said realized.it.is.said person there big reach.for went.over there
 He work up and realized that there was a big person. Suddenly he reached for something (the fish) and left with it.
 
@@ -1431,7 +1431,7 @@ It [the sun] moved to his left side.
 # 205
 ?uucaapi ?ahh tuch'iicpa.
 ?u-ca-a:pi ?ahh tuch'i:-cpa*
-it-go.in.the.direction.of-< this east.wind-on.a.side.of
+it-go.in.the.direction.of-?? this east.wind-on.a.side.of
 facing.the.direction.of this easterly.side
 It [the sun] was in the southeast.
 
@@ -1494,7 +1494,7 @@ It was so close.
 # 214
 saxyackshi?i, saya?ii?isqak, k'uu?ii, nism'a?i.
 saya-<x>-ck-shi(tl)-?i* saya-?i:-?is-qak k'u:-?i: nism'a-?i*
-far.off-MINK-DIM-IMP.2SG far.off-get.to.be.at-DIM-< short-distance-get.to.be.at land-DEF
+far.off-MINK-DIM-IMP.2SG far.off-get.to.be.at-DIM-?? short-distance-get.to.be.at land-DEF
 move.away.a.little be.far.away.a.little little.farther the.land
 "Land, move far away a little!"
 
@@ -1659,7 +1659,7 @@ Those people [the wolves are taking human shape now] poked at him repeatedly wit
 # 238
 taamiiqtl'a, xaw xaw xaw xaw.
 ta:-mi:qtla ~ ~ ~ ~
-poke-< ~
+poke-?? ~
 poke.into.a.hole
 They poked into the hole and [the mink cried], "_xaw xaw_…"
 
@@ -1729,7 +1729,7 @@ you.only.have put.soft.yielding.thing.at.the.point its.innards limpet said
 # 248
 haa haa ?aax?anihhtaak, haa haa c'iic'iiyupuuk, huu huu p'aap'a<im?ay, waa
 ~ ~ ?ana-i:hhtak ~ ~ c'iyup-uk ~ ~ p'a<im wa*
-~ ~ only-< ~ ~ innards-POSS ~ ~ limpet say
+~ ~ only-?? ~ ~ innards-POSS ~ ~ limpet say
 ~ ~ you.only.have ~ ~ its innards ~ ~ limpet say
 He sang, "You only have innards of limpets on the pole!"
 
@@ -1793,14 +1793,14 @@ died.it.is.said one.who.always.say.nasty.things
 # 257
 ?ee qahhtak qwaq?isqach'a waa?atl'at hask'aamac?i [little crabs].
 ~ qahh-tak qwaq-?is-qa*ch'a wa*-'atl-'at hask'a:mac-?i* ~
-~ dead-< <-DIM-DUB.3 say-FIN-SHIFT little.crab-DEF ~
+~ dead-?? <-DIM-DUB.3 say-FIN-SHIFT little.crab-DEF ~
 ~ < they.said.to.him the.little.crab ~
 "We thought you were dead!" said to him, the little crabs.
 
 # 258
 heey taachkwa?ap'ich hhiyiihhi, waa?atl.
 ~ tach-kwa-'ap-'ich hhiyi:hhi wa*-'atl
-~ kill?-completely-CAUS?-< these say-FIN
+~ kill?-completely-CAUS?-?? these say-FIN
 ~ annihilate.you these said
 "I'll wipe all of these little ones!" he said.
 
@@ -1828,7 +1828,7 @@ I.didnt.do say.something.bad
 # 262
 tlutlulwas?aal suutil, waa?atl c'awaak. qwiqitiit hhaakwaatl.
 DUP-tlul-wa*-s-?a:l sut-(ch)il wa*-'atl c'awa:k qwiq-it-(y)i:-t hha:kwa:tl
-<-nice-say-1SG-always you-doing.to say-FIN one that.which-PAST-INDF.3-< girl
+<-nice-say-1SG-always you-doing.to say-FIN one that.which-PAST-INDF.3-?? girl
 I.always.say.nice.things to.you said one whatever.might.have.been girl
 I always say nice things to you," said one — maybe it was a girl.
 
@@ -1905,7 +1905,7 @@ come.down.to.the.beach Son.of.Loon because.you yours child give.birth.to.illegit
 # 273
 haaciqshi?atlquuch haa nay'aqak?i suul muuhhintlas hhaal "[taa taa taa]," wawaa.
 ha:ciq-shi(tl)-'atl-qu:-ch ha: nay'aqak-?i* su-u:l mu:hhintl-as hha:l ~ wawa:
-not.satisfied?-MOM-FIN-COND.3-INF that baby-DEF holding-< sawbill-female there ~ say
+not.satisfied?-MOM-FIN-COND.3-INF that baby-DEF holding-?? sawbill-female there ~ say
 he.wouldnt.be.satisfied that the.baby grabbing.on.to Sawbill.woman there ~ say
 [When people came in response to the Sawbill family's request,] the baby wouldn't be satisfied, grabbing on to his mother, saying "[I want my] Daddy, Daddy, Daddy."
 
@@ -1933,7 +1933,7 @@ not.mine father many
 # 277
 ?iinaxy'atl hhaaw'iihhatl, hiyiqsathh, naahhtach tluttluul?i hhaaw'iihhatl, naahhtachm'it, hhuksumm'it, muuch?aa?a, qwishtuup?itq.
 ?i:nax-y'atl hha:w'i:hhatl hish-`iqsa-'athh na:hhtach tlut-tlul-?i* hha:w'i:hhatl na:hhtach-m'i*t hhuksum-m'i*t mu:ch?a:?a qwish-tu*p-?i*tq
-dressed.up-< young.men all-<-come.from mallard <-nice-DEF young.men mallard-son.of goose-son.of grebe all?-species-REL.3
+dressed.up-?? young.men all-<-come.from mallard <-nice-DEF young.men mallard-son.of goose-son.of grebe all?-species-REL.3
 dressed.up young.men from.all.over mallard the.handsome.ones young.men Son.of.Mallard Son.of.Goose grebe all.kinds.of.species
 Many of them, dressed young men, coming from all over the place: handsome young men — mallards, geese, grebes, and all other kinds of bird.
 
@@ -1961,7 +1961,7 @@ come.down.to.the.beach Son.of.Mink maybe.you.are.so. is.it.true yours child
 # 281
 lixcw'isee lixcw'isee muux\hhintlas, [taa taa taa].
 lic-<x>-w'isa-VOC lic-<x>-w'isa mu:hhintl-<x>-as ~
-pregnant-MINK-<-SONG pregant-MINK-< sawbill-MINK-female ~
+pregnant-MINK-<-SONG pregant-MINK-?? sawbill-MINK-female ~
 give.birth.to.illegitimate.child give.birth.to.illegitimate.child Sawbill.woman ~
 "Sawbill Woman gave birth to an illegitimate child." [they sang, and the baby also called him] "Daddy, Daddy, Daddy."
 

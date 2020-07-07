@@ -55,7 +55,7 @@ please.do so.nothing.would.happen may.nothing.happen one.gets.hurt may.nothing.h
 # 008
 laakshitl, n'aachiila, chaamaapiqchik ?uxshitl waa, qwi?ii?as?aqtlii  ?uw'iitl.
 la:kw-shi(tl) n'ach-i:la chama-a*piq-qchik ?uxw-shi(tl) wa* qwi-?i:-'as-'a*qtl-(y)i: ?uxw-'i*tl
-please.do-MOM look-< proper-up.in.the.air-going.along topple.over-MOM and that.which-get.to.be.at-on.the.ground-FUT-INDF.3 topple.over-on.the.ground
+please.do-MOM look-?? proper-up.in.the.air-going.along topple.over-MOM and that.which-get.to.be.at-on.the.ground-FUT-INDF.3 topple.over-on.the.ground
 please.do watch.over so.it.moves.properly.in.the.air fall and wherever.it.will.land.on.the.ground tree.fall.on.the.ground
 "Please watch over [me] (= hear my prayer) so it [will] fall gently. [Gently it will fall] wherever on the ground it will land."
 
@@ -69,7 +69,7 @@ There is a man inside. Before felling the tree, the canoe make cries "ho! ho!"
 # 010
 hin?ay'aqstup ch'ihhsuuqtltisim  hiy'aqtl such'as?i,
 hin-?al-'aqstup ch'ihh-su*qtl-tisim hil-'aqtl such'as-?i*
-there.MOM-aware.of-inside.MOMCAUS spirit-inside.the.body-< there-inside tree-DEF
+there.MOM-aware.of-inside.MOMCAUS spirit-inside.the.body-?? there-inside tree-DEF
 warn spirit.inside inside the.tree
 You warn the spirit inside the tree.
 
@@ -83,7 +83,7 @@ You want it to leave the tree [that is about to be felled].
 # 012
 ch'ihhsuuqtltisim tl'i?iiktl'ika hiistitl ?ucachitl kukwiniksi.
 ch'ihh-su*qtl-tisim tl'i?i:ktl'ika hista-'i(tl) ?u-ca-chi(tl) kukwiniksi
-spirit-inside.the.body-< elbow-joints there-start.from it-go.to-MOM hand
+spirit-inside.the.body-?? elbow-joints there-start.from it-go.to-MOM hand
 spirit.inside elbow.joints from to hand
 The spirit inside [the tree] is [as tall as] from the elbow to the fingertips.
 
@@ -188,7 +188,7 @@ This is the way it's done — when you properly position it on the ground.
 # 027
 ?uuhhw'al?at hiis\hiisach'ak, qay'aaxwas huu?ak  ?uyi.
 ?u-hhw'al-'at DUP#-his-(y)-ch'ak qay'a*xw-as hu:?ak ?uyi
-it-using-SHIFT IT-chop-REP-instrument adzing-< long.ago at.that.time
+it-using-SHIFT IT-chop-REP-instrument adzing-?? long.ago at.that.time
 it.is.used axe adze long.ago at.that.time
 The axe and adze were used long ago.
 
@@ -417,7 +417,7 @@ because it is so simple using a power saw to work.
 # 059
 hiskwist'ahhs?atlquu. waa hihisupi?at hisaawul. qacaqs waaquuk chimcaqs.
 his-kwist-'ahhs-'atl-qu: wa* DUP-his-upi-'at his-a*wul qac-caqs wa*-qu:k chim-caqs
-chop-move.away.from-in.a.vessel-FIN-COND.3 well <-chop-<-SHIFT chop-< left-side.of.canoe and-COND.2SG right-side.of.canoe
+chop-move.away.from-in.a.vessel-FIN-COND.3 well <-chop-<-SHIFT chop-?? left-side.of.canoe and-COND.2SG right-side.of.canoe
 when.chopping.the.inside.of.the.vessel.out well inside.is.chopped.out chop.with.short.strokes port and.you starboard
 When chopping the inside of the vessel, chop out the insides with short strokes: first the port side, then the starboard side.
 
@@ -650,7 +650,7 @@ Don't drag it on the sand.
 # 105
 ?un'aahh?atquu hatkma qwaaqhh?aqtlii chachimhhii wikcuk?is hinachishtutl hatkma, ro\l\lers waa?atquu.
 ?u-n'a*hh-'at-qu: hatk-ma qwa:-qhh-'a*qtl-(y)i: chachim-hhi* wik-cuk-?is hin-achisht-u(tl) hatk-ma ~ wa:-'at-qu:
-it-seeking-SHIFT-COND.3 roll-thing thus-SIM-FUT-INDF.3 proper-DUR not-needing-DIM there.MOM-on.the.sea-MOM roll-< ~ say-SHIFT-COND.3
+it-seeking-SHIFT-COND.3 roll-thing thus-SIM-FUT-INDF.3 proper-DUR not-needing-DIM there.MOM-on.the.sea-MOM roll-?? ~ say-SHIFT-COND.3
 when.looking.for.it roller the.way.it.would.be proper easy dip.into.the.sea roller ~ you.could.say
 If you get the _hatkma_ — 'rollers' you could call — properly set, it would be easy to put the canoe into the sea.
 
@@ -698,8 +698,8 @@ Then, at home you feed the people who helped you.
 
 # 113
 chaanaat huuxs?atu n'upchiil, ?atlchiil.
-cha:ni-< hu:xs?atu n'up-chi*l ?atl-chi*l
-at.first-< resting one-days.long two-days.long
+cha:ni-?? hu:xs?atu n'up-chi*l ?atl-chi*l
+at.first-?? resting one-days.long two-days.long
 do.at.first resting one.day two.days
 Take one or two days off.
 
@@ -805,7 +805,7 @@ Then, with the canoe turned over on the ground, you adze it [all over] again.
 # 131
 hiis\hiisach'ak ?uupi yuushink qwaa?itq  ?aq?ishtiik, qay'aaxwas,
 DUP#:-his-(y)a-ch'ak ?u:pi yushu-ink qwa:-?i*tq ?aqi-?isht-(y)i:k qay'a*xwas
-IT-chop-REF-instruments handier hasten-< thus-REL.3 what-<-INDF.2SG D.adze
+IT-chop-REF-instruments handier hasten-?? thus-REL.3 what-<-INDF.2SG D.adze
 axe handier quicker than what.you.might.call D.adze
 An axe is handier and faster than, you know, a D-adze.
 
