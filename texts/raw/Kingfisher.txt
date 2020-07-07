@@ -83,7 +83,7 @@ The first ones to go out were the bravest ones, the ones with strong minds.
 # 012
 ?in na?aackwatl, ?aya, mamaln'i, hisiickwi?itq?al hiistitl ciqy'ak, chiinuuk?athh.
 ?in na?a:-ckwi*-'atl ?aya mamaln'i hisi:-ckwi*-?i*tq-?a*l hi:stitl ciq-y'akw ch'i:nu:k-'athh
-< hear-done-FIN many white.man <-done-REL.3-PL from speak-instrument Chinook-belonging.to
+< hear-done-FIN many white.man ??-done-REL.3-PL from speak-instrument Chinook-belonging.to
 < understood many white.man the.way.they.spoke from language Chinook
 Many white men could understand Chinook Jargon.
 
@@ -671,7 +671,7 @@ They got to Ahous Point just in time. They were singing [a paddling song].
 # 096
 yaaqwin'akitii?aal kwaatkwaatya, ["waxwaa, waa waawuu, wuu"]
 yaqw-in'ak-it-(y)i:-?a:l DUP#-kwa:tya ~
-which-<-PAST-INDF.3-always <-NAME ~
+which-<-PAST-INDF.3-always ??-NAME ~
 she.used.to.sing Kwaatya ~
 _kʷaatya_ used to sing…
 
@@ -720,7 +720,7 @@ The Ahousahts went to Atheo River, Pretty Girl Cove, and the Magin River area.
 # 103
 wa?uus. wa?uus hiilsasak?al mama?uu, <aahhuus?athh wa?uuc.
 wa?u:s wa?u:s hil-sasa-?a*k-?a*l DUP-ma-'u* <a:hhu:s?athh wa?u-i:c
-Wahous Wahous here-real-POSS-PL DISTR-dwell-camp.out.for Ahousaht <-belonging.to
+Wahous Wahous here-real-POSS-PL DISTR-dwell-camp.out.for Ahousaht ??-belonging.to
 Wahous Wahous their.real.place summer.camp.for.fishing Ahousaht belongs.to.them
 Wahous was the base summer camp from the Ahousahts.
 
@@ -972,21 +972,21 @@ That land, slough, was quite far.
 # 139
 huhhtak qaahhma ?in, qwaaqwaacy'ak?itq c'a?ak.
 huhhtak qa:hhma ?in DUP-qwa:c-y'ak-?i*tq c'a?ak
-know NAME that <-<-useful.for-REL.3 river
+know NAME that ??-<-useful.for-REL.3 river
 know NAME that its.condition river
 _qaaḥma_ knew every inch of the river.
 
 # 140
 m'uksy'i ?uqtln'ukwitl.
 m'uksy'i ?uqtl-n'ukw-itl
-rock <-on.the.hand-MOM
+rock ??-on.the.hand-MOM
 rock picked.up.in.the.hand
 He picked up and held a stone in his hands.
 
 # 141
 tl'ay'ix?at?ish m'uksy'i ?uqtln'ukw'at. yaackyaacka.
 tl'ay'ix-'at-?i*sh m'uksy'i ?uqtl-n'uk-'at DUP#:-yack-(y)a
-swift-SHIFT-IND.3 rock <-at.hand-SHIFT IT-kick-REP
+swift-SHIFT-IND.3 rock ??-at.hand-SHIFT IT-kick-REP
 one.is.fast rock have.in.hands kicking
 You can move fast [under the water] when you hold rocks in your hands [as ballast] and kick [the bottom of the river to move forward].
 
@@ -1119,7 +1119,7 @@ The Clayoquot man came into the house when they were eating.
 # 161
 k'ahhkwa?ap'atuk tl'ahhiqs qwinaakitii?al, qwic'uu?akitii?al huupaqwanim.
 k'ahh-kwa-'ap-'at-uk tl'ahh-iqs qwi-na*k-it-(y)i:-?a*l qwi-c'u*-?a*k-it-(y)i:-?a*l hupaqw-anim
-split-dispersed-CAUS-SHIFT-DUR flatwise-box what-having-PAST-INDF.3-PL what-inside.container-POSS-PAST-INDF.3-PL <-bring.along
+split-dispersed-CAUS-SHIFT-DUR flatwise-box what-having-PAST-INDF.3-PL what-inside.container-POSS-PAST-INDF.3-PL ??-bring.along
 broke.into.pieces box whatever.they.own whatever.theirs.in.the.box chest.box
 They broke into pieces all the boxes and whatever [valuable things] they kept in their chests.
 
@@ -1329,7 +1329,7 @@ Only the very old man remained on the beach.
 # 193
 na?aa. n'an'achmap qwaa?ap'at?itq.
 na?a: DUP-n'ach-ma*p qwa:-'ap-'at-?i*tq
-hear <-see-paying.attention.to? thus-CAUS-SHIFT-REL.3
+hear ??-see-paying.attention.to? thus-CAUS-SHIFT-REL.3
 hear watch it.is.done.so
 He heard and saw whatever they (the British people) were doing.
 

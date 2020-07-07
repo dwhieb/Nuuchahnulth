@@ -167,7 +167,7 @@ Some days have passed.
 # 024
 ?ux?ukwachinks ciiqciiqa waa?atl.
 DUP-<x>-?ukwa-(ch)ink-s DUP-ciq-a wa:-'atl
-<-MINK-onself-converse.with-1SG <-speak-REP say-FIN
+<-MINK-onself-converse.with-1SG ??-speak-REP say-FIN
 I.do.with.myself speaking he.said
 "I keep talking to myself," he said.
 
@@ -209,7 +209,7 @@ He went for a walk: He didn't go very far in this land, which the white men call
 # 030
 yaacshitl ?uncukwisitii ?uu?uuquk, miiluuk.
 ya:c-shi(tl) ?uncukw-?is-it-(y)i: DUP-?u:q-uk mil-u:k
-walk-MOM how.long.it.takes-on.the.beach-PAST-INDF.3 <-desirable-DUR level-all.over
+walk-MOM how.long.it.takes-on.the.beach-PAST-INDF.3 ??-desirable-DUR level-all.over
 walked how.long.it.might.have.taken.him.to.reach.on.the.beach beautiful.land level.land
 he went to a beautiful level land, walking for some time on the beach.
 
@@ -349,7 +349,7 @@ He was strong.
 # 050
 ?uchknahh?is ch'aastimcm'it, kw'itxak ?u?inkwit?is ?ahh qaaty'apt'a?i.
 ?unahh-<chk>-?is ch'a:stimc-m'i*t kw'itx-ak ?u?inkwit-?is ?ahh qay'apt'a-<Lt>-?i*
-size-DIM-DIM mink-son.of skinny-DUR <-DIM this leg-PL-DEF
+size-DIM-DIM mink-son.of skinny-DUR ??-DIM this leg-PL-DEF
 very.small Son.of.Mink skinny small this legs
 Son of Mink was very small. His legs were small.
 
@@ -398,7 +398,7 @@ It became daylight and there on the ground were footprints of a bear.
 # 057
 wim'aaqtl ?u?ukwink'at chims, ?in wii?ak.
 wim'a:qtl DUP-?u-(kw)ink-'at chims ?in wi:?ak
-incapable.of <-it-compete.with-SHIFT black.bear because weak
+incapable.of ??-it-compete.with-SHIFT black.bear because weak
 incapable.of confront black.bear because weak
 He cannot confront a bear because he is weak.
 
@@ -713,7 +713,7 @@ He hid, you know, he had his bow hidden.
 # 102
 hitaatu<ihhtap sha?ihhtim?i, yaaqhhw'al?itq qahhsaap, qwayaac'ikm'it. haptsaap.
 hita-?a*tqu-'ihhta-'ap sha-'ihhta-im-?i* yaqw-hhw'al-?i*tq qahh-sa*p qwaya:c'ik-m'i*t hapt-sa*p
-there.MOM-come.off?-at.the.point-CAUS <-at.the.point-thing-DEF which-using-REL.3 dead-MOMCAUS wolf-son.of in.hiding-MOMCAUS
+there.MOM-come.off?-at.the.point-CAUS ??-at.the.point-thing-DEF which-using-REL.3 dead-MOMCAUS wolf-son.of in.hiding-MOMCAUS
 remove.from.the.point arrowhead which.he.used kill Son.of.Wolf hid
 He removed the arrowhead which he used to kill Son of Wolf from the arrow, and hid it.
 
@@ -1095,7 +1095,7 @@ He was running.
 # 157
 ?uuwa?atl ?uu?uuquk.
 ?u-(w)a(tl)-'atl DUP-?u*q-ukw
-it-find-FIN <-good-DUR
+it-find-FIN ??-good-DUR
 found.it beautiful
 He came upon a beautiful place.
 
@@ -1779,21 +1779,21 @@ Woo, qaxhhshitlwa?een, waa.
 # 255
 hiihiitawa?iik ?u?ukwil?at.
 DUP-hitawa-'i:k DUP-?u-kwil-'at
-DUP-say.nasty.things-adept.at <-it-with.ref.to-SHIFT
+DUP-say.nasty.things-adept.at ??-it-with.ref.to-SHIFT
 one.who.always.say.nasty.things they.did.it.to.him
 They call him "the on with a bad mouth".
 
 # 256
 qahhshitlwa?ish hiihiitawa?iik.
 qahh-shi(tl)-wa*?i*sh DUP-hitawa-'i:k
-dead-MOM-QUOT.3 <-say.nasty.things-given.to
+dead-MOM-QUOT.3 ??-say.nasty.things-given.to
 died.it.is.said one.who.always.say.nasty.things
 "[You thought] the one with a bad mouth was dead!" [Mink yelled at them sarcastically].
 
 # 257
 ?ee qahhtak qwaq?isqach'a waa?atl'at hask'aamac?i [little crabs].
 ~ qahh-tak qwaq-?is-qa*ch'a wa*-'atl-'at hask'a:mac-?i* ~
-~ dead-?? <-DIM-DUB.3 say-FIN-SHIFT little.crab-DEF ~
+~ dead-?? ??-DIM-DUB.3 say-FIN-SHIFT little.crab-DEF ~
 ~ < they.said.to.him the.little.crab ~
 "We thought you were dead!" said to him, the little crabs.
 
@@ -1821,7 +1821,7 @@ haa, tiich'ap'is, waa?at.
 # 261
 wiiksas p'ip'ishwa.
 wik-sa-s DUP-p'ish-wa*
-not-<-1SG <-bad-say
+not-<-1SG ??-bad-say
 I.didnt.do say.something.bad
 "I didn't say anything bad.
 
@@ -1884,7 +1884,7 @@ Once again Son of Mink escaped.
 # 270
 ?ahh?aatlitwa?ish luchnaakshi?atl. wik, ?u?up'iqsh. ?u?up'iqsh muuhhintlas.
 ?ahh?a:-'atl-it-wa*?i*sh luch-na*k-shi(tl)-'atl wik DUP-?u-p'iqsh DUP-?u-p'iqsh mu:hhintl-as
-then-FIN-PAST-QUOT.3 woman-having-MOM-FIN not <-it-engaging.in <-it-engaging.in sawbill-female
+then-FIN-PAST-QUOT.3 woman-having-MOM-FIN not ??-it-engaging.in ??-it-engaging.in sawbill-female
 then.it.is.said got.married not having.an.affair.with having.an.affair.with Sawbill.woman
 Then, it is said, he got married — no, had an affair with Sawbill Woman.
 
@@ -1933,7 +1933,7 @@ not.mine father many
 # 277
 ?iinaxy'atl hhaaw'iihhatl, hiyiqsathh, naahhtach tluttluul?i hhaaw'iihhatl, naahhtachm'it, hhuksumm'it, muuch?aa?a, qwishtuup?itq.
 ?i:nax-y'atl hha:w'i:hhatl hish-`iqsa-'athh na:hhtach tlut-tlul-?i* hha:w'i:hhatl na:hhtach-m'i*t hhuksum-m'i*t mu:ch?a:?a qwish-tu*p-?i*tq
-dressed.up-?? young.men all-<-come.from mallard <-nice-DEF young.men mallard-son.of goose-son.of grebe all?-species-REL.3
+dressed.up-?? young.men all-<-come.from mallard ??-nice-DEF young.men mallard-son.of goose-son.of grebe all?-species-REL.3
 dressed.up young.men from.all.over mallard the.handsome.ones young.men Son.of.Mallard Son.of.Goose grebe all.kinds.of.species
 Many of them, dressed young men, coming from all over the place: handsome young men — mallards, geese, grebes, and all other kinds of bird.
 
@@ -1989,7 +1989,7 @@ That's how he walks. {with gesture}
 # 285
 nay'iik t'an'a?is?i ?uyaasila, [taa taa taa taa].
 nay'i:k t'an'a-?is-?i* ?uya:-sila ~
-immediately child-DIM-DEF <-act.like ~
+immediately child-DIM-DEF ??-act.like ~
 suddenly the.child act.strangely ~
 Suddenly the child acted differently [because he recognized Son of Mink as his fatehr and got excited to see his father].
 
@@ -2094,7 +2094,7 @@ dive-MOM-IMP.2SG shove-sinkn.into.water-CAUS dive-MOM
 # 300
 hee ?uyaasilawa?ish c'ic'ishiichitl.
 ~ ?uya:-sila-wa*?i*sh c'ic'isha-`i*chi(tl)
-~ <-act.like-QUOT.3 loathing-INC
+~ ??-act.like-QUOT.3 loathing-INC
 ~ act.strangely came.to.dislike
 Her mood changed and she started to hate him.
 
@@ -2150,7 +2150,7 @@ The child was moving his elbows up and down.
 # 308
 qachaa ?u?ukwil?atlnish?aal ?uchknahh?is?i maamaati.
 qacha: DUP-?u-kwil-'atl-ni*sh-?a:l ?unahh-<chk>-?is-?i* ma:ma:ti
-duckling <-it-with.ref.to-FIN-IND.1PL-always size-DIM-DIM-DEF bird
+duckling ??-it-with.ref.to-FIN-IND.1PL-always size-DIM-DIM-DEF bird
 duckling this.is.what.we.usually.call the.child bird
 We call the baby bird "_qačaa_".
 

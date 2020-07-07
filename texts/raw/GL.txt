@@ -294,7 +294,7 @@ We weren't allowed to talk (in our native language).
 # 043
 wikyaaminish tl'up'iichhhatlquu ?acyuu?atlqin suuhhaa, ?u?u?iihh cuw'it,
 wik-y'a*-'ap-it-nish tl'up-`i*chhh-'atl-qu: ?ac-yu*-'atl-qwin su:hha: DUP-?u-'i:hh cuw'it
-not-troubled.by-CAUS-PAST-IND.1PL warm-season.of-FIN-COND.3 go.out.fishing-done-FIN-COND.1PL spring.salmon <-it-pursuing coho.salmon
+not-troubled.by-CAUS-PAST-IND.1PL warm-season.of-FIN-COND.3 go.out.fishing-done-FIN-COND.1PL spring.salmon ??-it-pursuing coho.salmon
 it.didn't.take.effect.on.us during.summer when.we.were.out.fishing spring.salmon gathering coho.salmon
 It (the ban on using the native language) didn't have an effect on us during the summer, while we were out fishing for salmon, coho.
 
@@ -329,7 +329,7 @@ The steamboat would come every 10 days.
 # 048
 hhayuchil, [ten days] qaqacchup'ich n'upqiml hupal
 hhayu-chi*l   ~ DUP-qac-chup'ich   n'up-qiml hupal
-ten-days.long ~ <-three-times.in one-round moon
+ten-days.long ~ ??-three-times.in one-round moon
 for.ten.days  ~ three.times.per    one       moon
 (They came) three times a month.
 
@@ -350,7 +350,7 @@ I was out fishing at Quatsiino
 # 051
 waa c'u?ichhh, ch'aastimc ?u?u?iihh, sashtup qwaq?iitq haptuup, waaxnii, tl'itl'ihhiy'uuhh, ch'aty'a yaaqwil?itq waa?at tlapisum, racoon
 wa* c'u?ichhh ch'a:stimc DUP-?u-'i:hh sa-shtu*p qwaq-?i*tq hap-tu*p wa:xni: tl'itl'ihhiy'uuhh, ch'aty'a yaqw-(ch)il-?i*tq wa*-'at tlapisum ~
-and winter mink <-it-hunting crawl-species what-REL.3 fur-species land.otter martin racoon which-with.reference.to-REL.3 say-SHIFT racoon ~
+and winter mink ??-it-hunting crawl-species what-REL.3 fur-species land.otter martin racoon which-with.reference.to-REL.3 say-SHIFT racoon ~
 and winter mink gathering animal whatever fur.bearing.animal land.otter martin racoon with.reference.to.which it.is.called racoon ~
 And during winter, I hunted for mink, other fur-bearing animals, otter, martin, raccon — which is called _ƛapisum_.
 
@@ -364,7 +364,7 @@ We never lack food to eat from low tide.
 # 053
 hhaa?iisatlquu ch'iitaa?at, y'a?isi ?u?u?iihh?at
 hha:?i:satl-qu: ch'i:t-(y)a*-'at y'a?isi DUP-?u-'i:hh-'at
-tide.gets.low-COND.3 digging.clams-CONT-SHIFT butter.clam <-it-collecting-SHIFT
+tide.gets.low-COND.3 digging.clams-CONT-SHIFT butter.clam ??-it-collecting-SHIFT
 when.tides.are.low digging.clams butter.clam collect.it
 At low tides, we went digging clams.
 
@@ -399,7 +399,7 @@ We never ran out of things.
 # 058
 ?um'aack?al, ?u?u?iihh tl'ihhapiihh, ?i?ishpaal, ?i?ishpaal
 ?um'a:ck-?a*l DUP-?u-'i:hh tl'ihhapi:hh ?i?ishpa:l ?i?ishpa:l
-often-PL <-it-hunting red.snapper (fish.name) (fish.name)
+often-PL ??-it-hunting red.snapper (fish.name) (fish.name)
 they.often gathering red.snapper ~ ~
 They very often fished for red snappers and _ʔiʔišpaaɬ_.
 
@@ -455,7 +455,7 @@ Son of Gum Woman got a wife.
 # 066
 ?acyuu?atl'uuch ?u?u?iihh tl'ihhapiihh.
 ?ac-yu*-'atl-qu:-ch                DUP-?u-'i:hh   tl'ihhapi:hh
-go.out.fishing-done-FIN-COND.3-INF <-it-hunting red.snapper
+go.out.fishing-done-FIN-COND.3-INF ??-it-hunting red.snapper
 would.be.out.for.food              gathering      red.snapper
 He would go out fishing for red snapper.
 
@@ -589,7 +589,7 @@ I know how much we had in 1930.
 # 086
 hayimhhis qwanaakitii?al ?a?iich'im?akitqs
 hayim-hhi*-s        qwa-na*k-it-(y)i:-?a*l       DUP-?i:ch'im-?a*k'-it-qs
-not.knowing-DUR-1SG <-having-PAST-INDF-3PL      DISTR-parent-POSS-PAST-SUB.1SG
+not.knowing-DUR-1SG ??-having-PAST-INDF-3PL      DISTR-parent-POSS-PAST-SUB.1SG
 I.don't.know        how.much.they.might.have.had my.parents
 I don't know how much my late parents had.
 
@@ -624,7 +624,7 @@ Then in 1940, it got better.
 # 091
 [Logging camp] ?ukwinu?atl. [Logging camp].
 ~ ?ukw-in-u(tl)-'atl ~
-~ <-come-MOM-FIN ~
+~ ??-come-MOM-FIN ~
 ~ came.to ~
 I ended up in a logging camp.
 
@@ -806,7 +806,7 @@ We went along fishing plenty of salmon in July and August.
 # 118
 ?ahh?aatl ?unic hawii?atl. [Dog sa\lmon] ?u?u?iihh
 ?ahh?a:-'atl ?unic hawi:(tl)-'atl ~ DUP-?u-'i:hh
-then-FIN time.elapsed finish-FIN ~ <-it-hunting
+then-FIN time.elapsed finish-FIN ~ ??-it-hunting
 then in.a.little.while finished ~ gathering
 Then after a while the season for dog salmon ended.
 
@@ -820,7 +820,7 @@ George Sye said to me, "You will come along with me.
 # 120
 herring ?u?u?iihhaqtlnish, tlusmit
 ~ DUP-?u-'i:hh-'aqtl-ni*sh tlusmit
-~ <-it-hunting-FUT-IND.1PL herring
+~ ??-it-hunting-FUT-IND.1PL herring
 ~ we.will.fish herring
 We will fish herring."
 
@@ -1202,7 +1202,7 @@ I don't teach dirty language.
 # 175
 ?ana ?anchils ?iiqhhuk qwiq?iitq tlul, tlulmis
 ?ana ?an-(ch)il-s ?i:qhh-uk qwiq-?i*tq tlul tlul-mis
-only <-with.ref.to-1SG telling-DUR that.which-REL.3 good good-thing
+only ??-with.ref.to-1SG telling-DUR that.which-REL.3 good good-thing
 only certain.things.I narrating that.which good good.things
 I only tell good words.
 

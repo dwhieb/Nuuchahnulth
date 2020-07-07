@@ -41,7 +41,7 @@ You look [it] over from the ground to the top, [noticing] the way it is facing. 
 # 006
 taakshi?at ciciqink'at,  ?u?ukwink'at hhaalapi hhaw'il?i.
 ta:k-shi(tl)-'at DUP-ciq-inkw-'at DUP-?u-(kw)ink-'at hha:l-api hhaw'il-?i*
-always-MOM-SHIFT <-speak-converse.with-SHIFT <-it-converse.with-SHIFT there-up.in.the.air chief-DEF
+always-MOM-SHIFT ??-speak-converse.with-SHIFT ??-it-converse.with-SHIFT there-up.in.the.air chief-DEF
 one.always.does one.speaks.to one.communicates.with above the.chief
 You always pray to and communicate with the Chief Above.
 
@@ -291,7 +291,7 @@ I talked about how one looks for a good one — tree for the canoe.
 # 041
 histaqiis?at hilyin tlaaquup'at.
 his-taq-i:s-'at hil-yin tla:-(q)u*p-'at
-there-come.from-<-SHIFT there-at.the.bow <-on.the.face-SHIFT
+there-come.from-<-SHIFT there-at.the.bow ??-on.the.face-SHIFT
 proceed.from at.the.bow taper.at.the.end
 Starting from its bow you shape it.
 
@@ -417,7 +417,7 @@ because it is so simple using a power saw to work.
 # 059
 hiskwist'ahhs?atlquu. waa hihisupi?at hisaawul. qacaqs waaquuk chimcaqs.
 his-kwist-'ahhs-'atl-qu: wa* DUP-his-upi-'at his-a*wul qac-caqs wa*-qu:k chim-caqs
-chop-move.away.from-in.a.vessel-FIN-COND.3 well <-chop-<-SHIFT chop-?? left-side.of.canoe and-COND.2SG right-side.of.canoe
+chop-move.away.from-in.a.vessel-FIN-COND.3 well ??-chop-<-SHIFT chop-?? left-side.of.canoe and-COND.2SG right-side.of.canoe
 when.chopping.the.inside.of.the.vessel.out well inside.is.chopped.out chop.with.short.strokes port and.you starboard
 When chopping the inside of the vessel, chop out the insides with short strokes: first the port side, then the starboard side.
 
@@ -559,7 +559,7 @@ You are going to take it [the canoe] out of the woods.
 # 089
 ?u?u?iihh?at, ?un'aahh?at  yaayaquwa?aahhi.
 DUP-?u-'i:hh-'at ?u-n'a*hh-'at DUP:-yaqw-uwa-?a:hhi
-<-it-collecting-SHIFT it-seeking-SHIFT <-who-acting.together.with-<
+<-it-collecting-SHIFT it-seeking-SHIFT ??-who-acting.together.with-<
 one.collects.it one.seeks those.who.help.with
 Find someone to help you.
 
@@ -594,14 +594,14 @@ You want to be at home early.
 # 094
 ?aya, ch'aapaciil?atlquu quu?as sasakwa, ?uu?uuqwa.
 ?aya ch'apac-i:l-'atl-qu: qu:?as DUP-sakw-wa* DUP-?u:q-wa*
-many canoe-make-FIN-COND.3 person <-joke.about-say <-good-say
+many canoe-make-FIN-COND.3 person ??-joke.about-say ??-good-say
 many when.making.a.canoe person saying.funny.things saying.good.things
 While you are making a canoe, men say funny things, say good things [about the canoe].
 
 # 095
 chiihht'as?ap'atlquu  (sasakwa).
 chi:-hht-'as-'ap-'atl-qu: DUP-sakw-wa*
-pull-come.out.of.woods-on.the.ground-CAUS-FIN-COND.3 <-joke.about-say
+pull-come.out.of.woods-on.the.ground-CAUS-FIN-COND.3 ??-joke.about-say
 when.dragging.on.the.ground.out.of.woods saying.funny.things
 When you drag it on the ground out of the woods, they make wisecracks.
 
@@ -615,7 +615,7 @@ You want everything to be proper; don't rush.
 # 097
 chiihht'as?ap'atlquu ch'apac. tluultluula. quuhhw'al c'istuup. huuhumt'asuk.
 chi:-hht-'as-'ap-'atl-qu: ch'apac DUP#-tlu:l-a ?u-hhw'al c'is-tu*p DUP:-humt-'as-uk
-pull-come.out.of.woods-on.the.ground-CAUS-FIN-COND.3 canoe IT-slowly-REP it-using rope-thing <-crosswise-on.the.ground-DUR
+pull-come.out.of.woods-on.the.ground-CAUS-FIN-COND.3 canoe IT-slowly-REP it-using rope-thing ??-crosswise-on.the.ground-DUR
 when.dragging.on.the.ground.out.of.woods canoe slowly using.it rope crosspieces.on.the.ground
 When the canoe is dragged out of the woods, do it very slowly, using rope and crosspieces [used as skids] on the trail.
 
@@ -692,7 +692,7 @@ Now drag the canoe on the beach to the dry land.
 # 112
 chuu ?ahh?aa?atl ?aq?ishtiik walyaqpi?atl ha?ukw'ap'atl yaayaaquumt?itq.
 chu: ?ahh?a:-'atl ?aqi-?isht-(y)i:k wal-yaq-pi(tl)-'atl ha?uk-'ap-'atl DUP:-yaqw-u:-imt-?i*tq
-now.then then-FIN what-<-INDF.2SG go.home-having.done-in.the.house-FIN eat-CAUS-FIN <-who-acting.together-with-PAST-REL.3
+now.then then-FIN what-<-INDF.2SG go.home-having.done-in.the.house-FIN eat-CAUS-FIN ??-who-acting.together-with-PAST-REL.3
 now.then and.then what.you.might.call having.arrived.home feeds.them one.who.did.it.together
 Then, at home you feed the people who helped you.
 
@@ -784,7 +784,7 @@ When you have finished, plane it.
 # 128
 kachuu?aal hilyin, y'uuqwaa. tlichaa. wiiksinhhap'at ?aq?ishtiik  cikcikmis.
 ka-chu*-?a:l hil-yin y'u:qwa: tlicha* wik-sinhhi-'ap-'at ?aqi-?isht-(y)i:k DUP#-cik-mis
-measure-done-always there-at.the.bow also stern not-keeping.so-CAUS-SHIFT what-<-INDF.2SG <-aslant-thing
+measure-done-always there-at.the.bow also stern not-keeping.so-CAUS-SHIFT what-<-INDF.2SG ??-aslant-thing
 always.measured at.the.bow also stern so.as.not.to what.you.might.call tilting
 Take a measurement at the bow, and also at the stern, to prevent it, you know, from rocking.
 
@@ -959,7 +959,7 @@ It was a large canoe.
 # 154
 ?ahh yaqii ch'apac [twenty-two] ?uyistimnish ?a?im hhuul [try out] [twenty-two] [Ros Ki\lde] hilhh.
 ?ahh yaqw-(y)i: ch'apac ~ ?uy-ista-im-ni*sh ?a?im hhu:l ~ ~ ~ hil-(q)hh
-this which-INDF.3 canoe ~ <-persons.in.canoe-thing?-IND.1PL beginning there ~ ~ ~ there-SIM
+this which-INDF.3 canoe ~ ??-persons.in.canoe-thing?-IND.1PL beginning there ~ ~ ~ there-SIM
 this which.one canoe ~ that.many.of.us.in.the.canoe beginning there ~ ~ ~ there.by
 There were twenty-two of us in that canoe on the first run, trying out, at Ros Kilde.
 
@@ -1262,7 +1262,7 @@ Put the end pieces on.
 # 204
 c'ic'iqink'at. c'ic'iqink'at chachimhhi?aqtl qwaa.
 DUP-c'iq-ink-'at DUP-c'iq-ink-'at chachim-hhi*-'a*qtl qwa:
-<-pray-converse.with-SHIFT <-pray-converse.with-SHIFT proper-DUR-FUT thus
+<-pray-converse.with-SHIFT ??-pray-converse.with-SHIFT proper-DUR-FUT thus
 say.prayer say.prayer it.will.be.perfect thus
 Say a prayer. Say a prayer so that it will be perfect.
 
@@ -1283,7 +1283,7 @@ That is forbidden.
 # 208
 ?uhhtin?akquuk ch'apac ?uw'asckwi?i. waa ?acyuuquuk yaashmal qwaa?apckwi?itq?aal huu?ak wiiqwiiqy'aanu?atwa?ish?aal.
 ?u-hhtin-?a*k-qu:k ch'apac ?uxw-'as-ckwi*-?i* wa* ?ac-yu*-qu:k ya:shmal qwa:-'ap-ckwi*-?i*tq-?a:l hu:?ak DUP#-wi:q-y'a*-nu(tl)-'at-wa*?i*sh-?a:l
-it-made.of-POSS-COND.2SG canoe toppled.over-on.the.ground-happened-DEF and go.out.hunting-have.done-COND.2SG hunt.fur.seal thus-CAUS-happened-REL.3-always long.ago <-stormy-troubled.by-MOM-SHIFT-QUOT.3-always
+it-made.of-POSS-COND.2SG canoe toppled.over-on.the.ground-happened-DEF and go.out.hunting-have.done-COND.2SG hunt.fur.seal thus-CAUS-happened-REL.3-always long.ago ??-stormy-troubled.by-MOM-SHIFT-QUOT.3-always
 if.yours.is.made.of canoe the.fallen.tree and when.you.are.out.hunting hunt.fur.seal the.way.they.had.always.done long.ago they.are.always.troubled.by.storms
 If a canoe was made from a fallen tree, then, when you went [out] hunting for furseals, they say that there was always trouble from storms.
 

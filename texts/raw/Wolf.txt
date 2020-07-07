@@ -188,7 +188,7 @@ There is another forbidden place, _siixpaackum_, and they (the wolves) would com
 # 027
 n'aacsiichitl qwayac'iikm'inhh?i, ?uushtup hilachisht tup'al ?aya qwaatlaa hiiltqyaap'al?i.
 n'a:csa-`i*chi(tl) qwayac'i:k-m'inhh-?i* ?u:shtup hil-achisht tup'al ?aya qwa:tla: hi:ltqy-a*p'al-?i*
-see-INC wolf-PL-DEF something there-on.the.sea sea many also <-behind-DEF
+see-INC wolf-PL-DEF something there-on.the.sea sea many also ??-behind-DEF
 they.saw the.wolves something there.in.the.sea sea many also behind.the.village
 They (village people) saw wolves and many things in the sea and also behind the village.
 
@@ -209,7 +209,7 @@ He was taken away by many.
 # 030
 k'aahhapi?ish ?ahh hiiltqyaap'al sayaach'a, sayaach'amatak.
 k'ahh-api-?i*sh ?ahh hi:ltqy-a*p'al saya-a*ch'a saya-a*ch'a-matak
-split-up.in.the.air-IND.3 this <-behind far-height far-height-probably
+split-up.in.the.air-IND.3 this ??-behind far-height far-height-probably
 there.is.a.precipice this behind.the.village high probably.it.is.high
 There was a precipice behind the village: it was high, it was probably high.
 
@@ -503,7 +503,7 @@ And he ate plants. Plants, or "herbs" as the white men call them, he ate them.
 # 073
 wik'atlquuch ?aa?aayaqtlapi, ?umaak ?ahh p'usshitlquu, tuxwiihhaquu, ?in tl'ay'ix qwayac'iik. ?in tl'ay'ix.
 wik-'atl-qu:-ch DUP-?aya-'aqtl-api ?uma:k ?ahh p'us-shi(tl)-qu: tuxwi:hha-qu: ?in tl'ay'ix qwayac'i:k ?in tl'ay'ix
-not-FIN-COND.3-INF <-many-inside-too.much because.of this tired-MOM-COND.3 get.out.of.breath-COND.3 because swift wolf because swift
+not-FIN-COND.3-INF ??-many-inside-too.much because.of this tired-MOM-COND.3 get.out.of.breath-COND.3 because swift wolf because swift
 he.wouldnt.do eat.too.much because.of this would.get.tired would.get.out.of.breath because swift wolf because swift
 He wouldn't eat too much so as not to get tired or get out of breath: because wolves were swift.
 
@@ -650,7 +650,7 @@ The wolves would stop by the shoreline of a like, a big lake.
 # 094
 haa?umtaqatlquuch, ?unaak qwayac'iik?i tl'ay'ix. tl'ay'ix muukmuukwa.
 ha?um-caqa-'atl-qu:-ch ?u-na*k qwayac'i:k-?i* tl'ay'ix tl'ay'ix DUP#-mukw-(y)a*
-food-busy.with.gathering-FIN-COND.3-INF it-having wolf-DEF swift swift <-run.on.the.fours-CONT
+food-busy.with.gathering-FIN-COND.3-INF it-having wolf-DEF swift swift ??-run.on.the.fours-CONT
 when.they.hunt they.had the.wolves swift fast running.on.four.legs
 When the wolves hunted, they sent the ones that ran fastest.
 
@@ -692,7 +692,7 @@ Say "You become tame!" or "I will make you tame."
 # 100
 qwayac'iik?i c'iiqc'iiqa halim'aaksul.
 qwayac'i:k-?i* DUP#-c'i:q-(y)a halim'a:-aksul
-wolf-DEF <-sing-REP <-at.the.mouth
+wolf-DEF ??-sing-REP ??-at.the.mouth
 the.wolves speak lisping
 Wolves would say that lisping.
 
@@ -720,7 +720,7 @@ We will say, "_ʔuʕiičiʔatikqs_."
 # 104
 ?ahh?aa?atl qwayac'iik, ?u?iicheetiks ?u?iicheetiks halim'aaksul.
 ?ahh?a:-'atl qwayac'i:k ~ ~ halim'a:-aksul
-then-FIN wolf ~ ~ <-at.the.mouth
+then-FIN wolf ~ ~ ??-at.the.mouth
 and.then wolf ~ ~ lisping
 And wolves lisp like "_ʔuʔiič̓eetiks_, _ʔuʔiič̓eetiks_."
 
@@ -1287,7 +1287,7 @@ Now, it became the next year and they were having their Wolf Ceremony.
 # 185
 ?iiqhhukw'atl hiiniicc'i?anit qwayac'iik, ?uca?ap'anit hhuul waa?atl, hhuu hhacaqc'usatl.
 ?i:qhh-ukw-'atl hi:ni:cc'i-'at-it qwayac'i:k ?u-ca-'ap-'at-it hhu:l wa:-'atl hhu: hha-caqc'u*-satl
-telling-DUR-FIN <-SHIFT-PAST wolf it-go.to-CAUS-SHIFT-PAST over.there say-FIN over.there completely-at.the.end-on.the.beach
+telling-DUR-FIN ??-SHIFT-PAST wolf it-go.to-CAUS-SHIFT-PAST over.there say-FIN over.there completely-at.the.end-on.the.beach
 told was.captured wolf was.taken.to over.there said over.there to.the.farthest.end.of.the.beach
 He told his people that he had been captured by wolves and had been taken to far distant places — way over there to the end of the coast.
 

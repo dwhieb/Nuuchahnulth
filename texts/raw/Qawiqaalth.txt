@@ -62,7 +62,7 @@ Men would go hunting.
 # 009
 ?acyuu, kwiikwiisahhi.
 ?ac-yu* DUP-kwis-sa*hhi
-go.out.hunting-done <-different-<
+go.out.hunting-done ??-different-<
 be.out.hunting good.hunters
 Good hunters are out hunting.
 
@@ -566,7 +566,7 @@ They are headed in a general southeast direction.
 # 081
 ?aa, saya?ii ?uuwatl ?uu?uuquk nism'a.
 ~ saya-?i: ?u-(w)atl DUP-?u:q-ukw nism'a
-~ far.off-reach it-find <-desirable-DUR land
+~ far.off-reach it-find ??-desirable-DUR land
 ~ went.far found beautiful land
 They went far and found a beautiful land.
 
@@ -741,7 +741,7 @@ They (killer whales) would fight with each other.
 # 106
 ?imch'aaqy'akuk?al. ?imch'aaqy'ak ?u?ukwink kakaw'in.
 ?imch'a:qy'ak-uk-?a*l ?imch'a:qy'ak DUP-?u-kwink kakaw'in
-playing-DUR-PL playing <-it-together.with killer.whale
+playing-DUR-PL playing ??-it-together.with killer.whale
 they.are.playing playing doing.together killer.whale
 Killer whales would play around each other.
 
@@ -909,7 +909,7 @@ They also got many cod.
 # 130
 <ac'iktla tutushk'iihh qawiqaal.
 <ac'ik-tla* DUP-tushk-'i:hh qawiqa:l
-expert.at-again <-cod-hunting Qawiqaalth
+expert.at-again ??-cod-hunting Qawiqaalth
 also.expert.at fishing.for.cod Qawiqaalth
 Qawiqaalth was also good at fishing for cod.
 
@@ -1144,7 +1144,7 @@ Qawiqaalth knew that his father had reached the land.
 # 164
 kuukuhhw'isa ?u?u?iihh?atl.
 ku:kuhhw'isa DUP-?u-'i:hh-'atl
-hair.seal <-it-hunting-FIN
+hair.seal ??-it-hunting-FIN
 hair.seal hunting.for.it
 [Qawiqaalth] was hunting harbor seals.
 
@@ -1207,7 +1207,7 @@ There is a teaching (saying) that you should not patronize a particular person.
 # 172
 ?in, hhaahhuupa wiksuuk, c'aawachil kaapap.
 ?in hha:hhu:p-(y)a* wik-su:k c'awa-(ch)il ka:-pap
-that instructing-CONT not-2SG one-doing.to <-prefer
+that instructing-CONT not-2SG one-doing.to ??-prefer
 that teaching dont.you.ever to.one favor
 It is a teaching that you should not patronize a particular person.
 
@@ -1249,7 +1249,7 @@ Gray whales can also smell us.
 # 178
 ?uu?uuquk, ?uu?uu?uqukwis, wawaamit?ish?aal yaqukwitiis n'uw'iiqsu.
 DUP-?u*q-ukw ?u:-?u:-?u*q-ukw-?is wawa:-mit-?i*sh-?a:l yaqw-ukw-it-(u)i:s n'uw'i*qsu
-<-good-DUR <-<-good-DUR-on.the.beach say-PAST-IND.3-always who-POSS-PAST-INDF.1SG father
+<-good-DUR ??-<-good-DUR-on.the.beach say-PAST-IND.3-always who-POSS-PAST-INDF.1SG father
 beautiful.land beautiful.beaches used.to.say who.was.mine father
 That was a beautiful, very beautiful beach. That's what my (GL's) father used to say.
 
@@ -1263,7 +1263,7 @@ There is a very beautiful beach down there on the other side — south, white me
 # 180
 hil ?uukwiiqstackwi, k'ilanus. k'ilanus. tukuuk.
 hil ?ukw-i*qsta-ckwi* k'ilanus k'ilanus tuku:k
-here <-among-happened fur.seal fur.seal sea.lion
+here ??-among-happened fur.seal fur.seal sea.lion
 here was.among fur.seal fur.seal sea.lion
 He was among fur seals, sea lions.
 
@@ -1284,7 +1284,7 @@ There were all sorts of colors, some are dark-colored, some are lighter-colored.
 # 183
 waa ?ahh?aa?atl, maa?ak, qukwichink ch'uyaa.
 wa: ?ahh?a:-'atl ma:?ak ?ukwi-chink ch'u-(y)a*
-and then-FIN gray.whale <-together move-CONT
+and then-FIN gray.whale ??-together move-CONT
 and and.then gray.whale with.them moving
 An gray whales migrated at the same time [as fur seals and sea lions].
 
