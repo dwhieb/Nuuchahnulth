@@ -48,7 +48,7 @@ You always pray to and communicate with the Chief Above.
 # 007
 laaklaakw'at, wikp'i<atquu, wik'atquu ?uusuqtat, wik'atquu <achuu?at.
 DUP#-la:kw-'at wik-p'iq-'at-qu: wik-'at-qu: ?u:suqta-'at wik-'at-qu: <achu:-'at
-<-please.do-SHIFT not-??-SHIFT-COND.3 not-SHIFT-COND.3 hurt-SHIFT not-SHIFT-COND.3 be.wounded-SHIFT
+??-please.do-SHIFT not-??-SHIFT-COND.3 not-SHIFT-COND.3 hurt-SHIFT not-SHIFT-COND.3 be.wounded-SHIFT
 please.do so.nothing.would.happen may.nothing.happen one.gets.hurt may.nothing.happen one.gets.wounded
 "May there not be an accident. May there be no wounds."
 
@@ -125,7 +125,7 @@ Some cedar breaks when it falls onto the ground, having fallen on the ground hea
 # 018
 qwaaqwaa?itq ?uhh hhumiis luucsaamiihh latxhwak.
 DUP#-qwa:-?i*tq ?uhh hhumi:s lu:csa:mi:hh latxhw-ak
-<-thus-REL.3 being.it cedar women soft-DUR
+??-thus-REL.3 being.it cedar women soft-DUR
 in.the.way.that being.it cedar women soft
 [But] this cedar is soft like a woman.
 
@@ -438,7 +438,7 @@ There at the bow of the canoe it gets hard.
 # 064
 titin<inchitl.
 DUP-tin-<in-chi(tl)
-<-make.pinging.sound-make.sound-MOM
+??-make.pinging.sound-make.sound-MOM
 it.makes.a.pinging.sound
 It makes a pinging sound (= sound of hard wood).
 \n [You can tell the hardness of the wood from the sound it makes when knocked.]
@@ -516,7 +516,7 @@ Feel it with the hand [to know whether it is smooth or not].
 # 076
 n'an'achpal?at?aal ?aq?ishtiik, ?at'a?atlquu hishcaqs?i. Curves,  yaaqwilcim?at?itq waa?at tl'achii, tl'achii, waa?at.
 DUP-n'ach-pal-'at-?a:l ?aqi-?isht-(y)i:k ?at'a-'atl-qu: hish-caqs-?i* ~ yaqw-(ch)il-chim-'at-?i*tq wa*-'at tl'achi: tl'achi: wa*-'at
-<-see-on.each.side-SHIFT-always what-??-INDF.2SG thickness.of-FIN-COND.3 both-side.of.canoe-DEF ~ which-with.ref.to-??-SHIFT-REL.3 say-SHIFT curved.part curved.part say-SHIFT
+??-see-on.each.side-SHIFT-always what-??-INDF.2SG thickness.of-FIN-COND.3 both-side.of.canoe-DEF ~ which-with.ref.to-??-SHIFT-REL.3 say-SHIFT curved.part curved.part say-SHIFT
 both.sides.can.be.seen what.you.might.call when.it.is.thick the.side.of.a.canoe ~ the.one.I.could.be.referring.to it.is.said curved.part curved.part it.is.said
 You check the thickness of the sides of the canoe: 'curves' are what I am talking about. It's called _ƛ̓ačii_.
 
@@ -559,7 +559,7 @@ You are going to take it [the canoe] out of the woods.
 # 089
 ?u?u?iihh?at, ?un'aahh?at  yaayaquwa?aahhi.
 DUP-?u-'i:hh-'at ?u-n'a*hh-'at DUP:-yaqw-uwa-?a:hhi
-<-it-collecting-SHIFT it-seeking-SHIFT ??-who-acting.together.with-<
+??-it-collecting-SHIFT it-seeking-SHIFT ??-who-acting.together.with-<
 one.collects.it one.seeks those.who.help.with
 Find someone to help you.
 
@@ -896,7 +896,7 @@ Now, when it is completed, the gunwale is curved down.
 # 145
 qwaqwaa?at ?appii, curve
 DUP#-qwa:-'at ?ap-pi*
-<-thus-SHIFT LOC-on.the.back
+??-thus-SHIFT LOC-on.the.back
 do.thus the.bottom
 Make the bottom of the canoe curve [by chipping the edges].
 
@@ -1029,7 +1029,7 @@ it.is.slanted.on.both.sides say both.sides
 # 165
 tl'aatlaay'ixwaputls.
 DUP:-tl'ay'ixw-L-aputl-s
-<-fast-GRAD-MOM?-1SG
+??-fast-GRAD-MOM?-1SG
 Im.getting.too.fast
 I'm going a little too fast [in telling you this story].
 \n The narrator's comment on himself.
@@ -1247,7 +1247,7 @@ When you have attached them [the two end pieces], it is finished.
 # 202
 tl'aatl'aay'ixwaputls qwaa?ap'a?itq.
 DUP:-tl'ay'ixw-aputl-s qwa:-'ap-'at-?i*tq
-<-fast-MOM?-1SG thus-CAUS-SHIFT-REL.3
+??-fast-MOM?-1SG thus-CAUS-SHIFT-REL.3
 I.am.going.too.fast it.is.done.so
 I am going too fast [in telling the story].
 \n The speaker's comment on himself.
@@ -1262,7 +1262,7 @@ Put the end pieces on.
 # 204
 c'ic'iqink'at. c'ic'iqink'at chachimhhi?aqtl qwaa.
 DUP-c'iq-ink-'at DUP-c'iq-ink-'at chachim-hhi*-'a*qtl qwa:
-<-pray-converse.with-SHIFT ??-pray-converse.with-SHIFT proper-DUR-FUT thus
+??-pray-converse.with-SHIFT ??-pray-converse.with-SHIFT proper-DUR-FUT thus
 say.prayer say.prayer it.will.be.perfect thus
 Say a prayer. Say a prayer so that it will be perfect.
 

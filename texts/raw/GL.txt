@@ -139,8 +139,8 @@ So was the one whose name was _w̓iikinaniš_—he was from Kelsomat.
 # 020
 ?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya<atl'itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
 ?a:nahha-'atl ?in  kwa:tya nani*qsu-?a*k   nani*qsu-?a*k-?i*tq    his-taq-shi(tl)     yaq?atl-?i*tq-?a*l ?achaq m'ukwina m'ukwina ?a:sha:sh-taqiml ?u-kla*
-<-FIN        that NAME    granparent-POSS grandparent-POSS-REL.3 there-come.from-MOM who-FIN.REL.3-PL   who    NAME     NAME     NAME-family      it-having.as.name
-<-FIN        that NAME    her.grandparent her.grandparent        came.from           ones.who           who    NAME     NAME     ʔaašaaš.clan     being.named
+??-FIN        that NAME    granparent-POSS grandparent-POSS-REL.3 there-come.from-MOM who-FIN.REL.3-PL   who    NAME     NAME     NAME-family      it-having.as.name
+??-FIN        that NAME    her.grandparent her.grandparent        came.from           ones.who           who    NAME     NAME     ʔaašaaš.clan     being.named
 _kwaatya_'s grandparent was from the lineage of Maquinna—by the name of _ʔaašaaš_ clan.
 
 # 021
@@ -638,8 +638,8 @@ We worked for eight hours a day. (?)
 # 093
 <aciishh wiiqsii?atlquu wik'iit [time-off] \logging, huu?ak ?uyi
 <aci:s-(q)hh wi:qsi:-'atl-qu:  wik'i:t ~ ~ hu:?ak ?uyi
-<-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.the.time
-<-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.that.time
+??-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.the.time
+??-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.that.time
 Even in stormy weather there was no time off from logging a long time ago.
 
 # 094
@@ -834,7 +834,7 @@ We went fishing, but we couldn't get any at first.
 # 122
 ?ayaqshi?atlqun 50, 60 ton
 ?ayaq-shi(tl)-'atl-qwin ~ ~ ~
-<-MOM-FIN-COND.1PL ~ ~ ~
+??-MOM-FIN-COND.1PL ~ ~ ~
 we.could.barely ~ ~ ~
 We would barely get 50, 60 ton.
 

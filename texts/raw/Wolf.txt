@@ -510,7 +510,7 @@ He wouldn't eat too much so as not to get tired or get out of breath: because wo
 # 074
 ch'iich'iikhhta hhuul. wik kamatquk.
 DUP-ch'i:k-hhta hhu:l wik kamatq-uk
-<-fast-on.the.foot there not running-DUR
+??-fast-on.the.foot there not running-DUR
 gallop they not be.running
 They (the wolves) move their feet fast, but they don't run.
 
@@ -888,7 +888,7 @@ He returned all the way along the same trail.
 # 128
 hihinatahh?atl kwiikwiisahhi.
 DUP-hin-atahh-'atl DUP-kwis-ahhi
-<-there.MOM-trying.to.catch-FIN DISTR-different-<
+??-there.MOM-trying.to.catch-FIN DISTR-different-<
 they.tried.to.catch.him best.hunters
 The very best hunters were trying to catch him.
 
@@ -1056,7 +1056,7 @@ The knot appeared to be the same all the time — it only showed little flashes 
 # 152
 ?ii?iiqm'ac'u.
 DUP-?iq-m'a*-c'u*
-<-same-amount-inside.container
+??-same-amount-inside.container
 keeping.the.same.size
 The knots remained the same in the fireplace.
 

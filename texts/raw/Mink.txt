@@ -167,14 +167,14 @@ Some days have passed.
 # 024
 ?ux?ukwachinks ciiqciiqa waa?atl.
 DUP-<x>-?ukwa-(ch)ink-s DUP-ciq-a wa:-'atl
-<-MINK-onself-converse.with-1SG ??-speak-REP say-FIN
+??-MINK-onself-converse.with-1SG ??-speak-REP say-FIN
 I.do.with.myself speaking he.said
 "I keep talking to myself," he said.
 
 # 025
 ?ux?ukwachink ?ahh.
 DUP-?ukwa-(ch)ink ?ahh
-<-oneself-converse.with this
+??-oneself-converse.with this
 doing.with.oneself he
 He was talking to himself.
 
@@ -412,7 +412,7 @@ He cannot fight.
 # 059
 ?u?u?iihhshitl hisit t'apsshi?atlquuch m'aaqsuul.
 DUP-?u-'i:hh-shi(tl) hisit t'aps-shi(tl)-'atl-qu:-ch m'a:-aqsu:l
-<-it-persuing-MOM sockeye.salmon dive-MOM-FIN-COND.3-INF bite-at.the.mouth
+??-it-persuing-MOM sockeye.salmon dive-MOM-FIN-COND.3-INF bite-at.the.mouth
 caught.it sockeye he.would.dive.into.the.water hold.in.the.mouth
 He (Mink) got sockeye by diving into the water and taking salmon in his mouth [to the shore].
 
@@ -948,7 +948,7 @@ He was going to run frantically.
 # 136
 ?a?aanisapi c'a?ak?i.
 DUP-?ani-sapi c'a?ak-?i*
-<-only-having.as.backing river-DEF
+??-only-having.as.backing river-DEF
 only.counting.on the.river
 His only hope was the river. (He was only counting on the river.)
 
@@ -1361,7 +1361,7 @@ They (the wolves) are in close pursuit.
 # 195
 ?ukwinu?atl, ?aahh?asa cha?akquu, chahhtaakquu.
 ?ukw-in-u(tl)-'atl ?a:hh?asa cha?ak-qu: cha-hhta*k-qu:
-<-come-MOM-FIN it.seems.as.if island-COND.3 island-out.to.sea-COND.3
+??-come-MOM-FIN it.seems.as.if island-COND.3 island-out.to.sea-COND.3
 arrived it.seems.as.if island reef.of.the.beach
 He arrived at what appeared to be an island or an offshore reef.
 
@@ -1828,7 +1828,7 @@ I.didnt.do say.something.bad
 # 262
 tlutlulwas?aal suutil, waa?atl c'awaak. qwiqitiit hhaakwaatl.
 DUP-tlul-wa*-s-?a:l sut-(ch)il wa*-'atl c'awa:k qwiq-it-(y)i:-t hha:kwa:tl
-<-nice-say-1SG-always you-doing.to say-FIN one that.which-PAST-INDF.3-?? girl
+??-nice-say-1SG-always you-doing.to say-FIN one that.which-PAST-INDF.3-?? girl
 I.always.say.nice.things to.you said one whatever.might.have.been girl
 I always say nice things to you," said one — maybe it was a girl.
 
@@ -2031,7 +2031,7 @@ The only time you can gather things from low tide, such as various kinds of sea 
 # 291
 hhachiy'imshtup?i, p'a<im, ?aya, <iichnuu ?uhhuk ha?um.
 hhachy'im-shtu*p-?i* p'a<im ?aya <i:chnu: ?uhh-uk ha?um
-<-species-DEF limpet many bullhead being.he-POSS food
+??-species-DEF limpet many bullhead being.he-POSS food
 foods.from.low.tides limpet many bullhead his food
 Food from low tide, such as limpet, various kinds of bullhead, was his food.
 
