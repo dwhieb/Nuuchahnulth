@@ -57,12 +57,16 @@ function convertText(text) {
 
     const [,, morphemes, glosses, literal, translation, note] = lines;
 
-    return [
-      num,
+    const words = [
       transliterate(transcript, substitutions),
       transliterate(morphemes, substitutions),
       glosses,
       literal,
+    ];
+
+    return [
+      num,
+      ...alignWords(words),
       convertQuotes(translation),
       convertQuotes(note || ``),
     ];
