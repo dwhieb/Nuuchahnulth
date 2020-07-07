@@ -36,17 +36,22 @@ function convertText(text) {
   .map(u => u.map(line => line.trim()))
   .map(lines => {
 
-    const [num, transcript] = lines;
+    const [num] = lines;
+    let [, transcript] = lines;
+
+    if (transcript.includes(`"`)) {
+      transcript = transcript.replace(`"`, `“`).replace(`"`, `”`);
+    }
 
     if (transcript.startsWith(`\\trs`)) {
 
       const [,, tln] = lines;
 
-      const trs = transcript.startsWith(`\\trs-en`) ?
+      transcript = transcript.startsWith(`\\trs-en`) ?
         convertQuotes(transcript) :
         transliterate(transcript, substitutions);
 
-      return [num, trs, convertQuotes(tln)];
+      return [num, transcript, convertQuotes(tln)];
 
     }
 
