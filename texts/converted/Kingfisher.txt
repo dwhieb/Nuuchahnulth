@@ -4,8 +4,8 @@ abbreviation: Kingfisher
 ID:           GL6
 ---
 # 001
-qiiʔaƛ,             qiit̓an̓aƛ,                    qʷiyuckʷiʔitq     qʷis        ʔaḥ.
-qiː-ʼaƛ             qiː-t̓an̓a-ʼaƛ                 qʷiyu-ckʷi·-ʔi·tq qʷis        ʔaḥ
+qiiʔaƛ,             qiit̓an̓aƛ,                    qʷiyuckʷiʔitq     qʷis        ʔaḥ.
+qiː-ʼaƛ             qiː-t̓an̓a-ʼaƛ                 qʷiyu-ckʷi·-ʔi·tq qʷis        ʔaḥ
 for.a.long.time-FIN for.a.long.time-slightly-FIN time-done-REL.3   happen.thus this
 happened.long.ago   quite.a.while.ago            when.it.occurred  happen.thus this
 This happened a long time ago.
@@ -39,22 +39,22 @@ NAME   we.also.call.it        also
 We also call it (the bay) “hitac̓u”.
 
 # 006
-waɬyuu,      maaqtusiis, wiiḥaaqsusiis.
-waɬ-yu·      maːqtusiːs  wiːḥaːqsusiːs
+waɬyuu,      maaqtusiis, wiiḥaaqsusiis.
+waɬ-yu·      maːqtusiːs  wiːḥaːqsusiːs
 go.home-done NAME        NAME
 gone.home    NAME        NAME
 They went to Maaqtusiis — [to be exact,] _wiiḥaaqsusiis_.
 
 # 007
-ʔuʔiiyačištckʷi          wiiḥaaqsusiis, t̓ayuukʷiƛ,   kuunaa.
-ʔu-ʔi·ya-ačišt-ckʷi·     wiːḥaːqsusiːs  t̓ayuː-kʷi(ƛ) kuːnaː
+ʔuʔiiyačištckʷi          wiiḥaaqsusiis, t̓ayuukʷiƛ,   kuunaa.
+ʔu-ʔi·ya-ačišt-ckʷi·     wiːḥaːqsusiːs  t̓ayuː-kʷi(ƛ) kuːnaː
 it-reach-on.the.sea-done NAME           anchored-MOM schooner
 reached                  NAME           anchored     schooner
 The schooner reached _wiiḥaaqsusiis_ and dropped anchor.
 
 # 008
-wik ʔiiḥ. wikckʷii  ʔiiḥ.
-wik ʔiːḥ  wik-ckʷi· ʔiːḥ
+wik ʔiiḥ. wikckʷii  ʔiiḥ.
+wik ʔiːḥ  wik-ckʷi· ʔiːḥ
 not large not-done  large
 not large was.not   large
 It (the schooner) was not so big.
@@ -74,15 +74,15 @@ they.go.out.to.meet         whoever.it.was
 Some people went out to meet them (the people on the schooner).
 
 # 011
-ʔin   ʔutwiickʷiʔaaɬ          hinaačiƛ,                wiʔakʔi,      wiiʔaksaʔi,     ḥaaʔak̓atʔi              ɬim̓aqsti.
-ʔin   ʔutwiː-ckʷi·-ʔaːɬ       hin-a·či(ƛ)              wiʔak-ʔi·     wiʔak-sa-ʔi·    ḥaːʔak-ʼat-ʔi·          ɬim̓aqsti
+ʔin   ʔutwiickʷiʔaaɬ          hinaačiƛ,                wiʔakʔi,      wiiʔaksaʔi,     ḥaaʔak̓atʔi              ɬim̓aqsti.
+ʔin   ʔutwiː-ckʷi·-ʔaːɬ       hin-a·či(ƛ)              wiʔak-ʔi·     wiʔak-sa-ʔi·    ḥaːʔak-ʼat-ʔi·          ɬim̓aqsti
 since first-done-always       there.MOM-go.out.to.meet brave-DEF     brave-real-DEF  strong-POSS-DEF         mind
 since they.were.the.first.one go.out.to.meet           the.brave.one the.bravest.one the.one.with.strong.one mind
 The first ones to go out were the bravest ones, the ones with strong minds.
 
 # 012
-ʔin naʔaackʷaƛ,     ʔaya, mamaɬn̓i,  hisiickʷiʔitqʔaɬ       hiistiƛ ciqy̓ak,          čiinuukʔatḥ.
-ʔin naʔaː-ckʷi·-ʼaƛ ʔaya  mamaɬn̓i   hisiː-ckʷi·-ʔi·tq-ʔa·ɬ hiːstiƛ ciq-y̓akʷ         č̓iːnuːk-ʼatḥ
+ʔin naʔaackʷaƛ,     ʔaya, mamaɬn̓i,  hisiickʷiʔitqʔaɬ       hiistiƛ ciqy̓ak,          čiinuukʔatḥ.
+ʔin naʔaː-ckʷi·-ʼaƛ ʔaya  mamaɬn̓i   hisiː-ckʷi·-ʔi·tq-ʔa·ɬ hiːstiƛ ciq-y̓akʷ         č̓iːnuːk-ʼatḥ
 ??  hear-done-FIN   many  white.man ??-done-REL.3-PL       from    speak-instrument Chinook-belonging.to
 ??  understood      many  white.man the.way.they.spoke     from    language         Chinook
 Many white men could understand Chinook Jargon.
@@ -95,8 +95,8 @@ spoke.Chinook.Jargon             some
 Some of them spoke Chinook Jargon.
 
 # 014
-hist̓atḥckʷaƛukʔaɬ                   ʔaḥ. [Hudson Bay] .
-hist-ʼatḥ-ckʷi·-ʼaƛ-uk-ʔa·ɬ         ʔaḥ  ~
+hist̓atḥckʷaƛukʔaɬ                   ʔaḥ. [Hudson Bay] .
+hist-ʼatḥ-ckʷi·-ʼaƛ-uk-ʔa·ɬ         ʔaḥ  ~
 there-belonging.to-done-FIN-POSS-PL this ~
 they.got.theirs.from.there          they ~            ~
 They got theirs (= their knowledge of Chinook Jargon) from Hudson Bay Company.
@@ -116,22 +116,22 @@ anchored
 They (white men) dropped anchor.
 
 # 017
-ʔun̓aaḥniš,         haptuup,  waaʔat.
-ʔu-n̓a·ḥ-ni·š       hap-tu·p  wa·-ʼat
+ʔun̓aaḥniš,         haptuup,  waaʔat.
+ʔu-n̓a·ḥ-ni·š       hap-tu·p  wa·-ʼat
 it-seeking-IND.1PL fur-thing say-SHIFT
 we.are.looking.for fur       it.is.said
 They said [to the people of the village], “We want to get fur,
 
 # 018
-haptuup.  ʕaḥmis,    ʕaḥmis     waaʔatƛa        ḥaaɬ, histaqšiƛ̓i                  tup̓aɬ.
-hap-tu·p  ʕaḥmis     ʕaḥmis     waː-ʼat-ƛa·     ḥaːɬ  his-taq-ši(ƛ)-ʔi·           tup̓aɬ
+haptuup.  ʕaḥmis,    ʕaḥmis     waaʔatƛa        ḥaaɬ, histaqšiƛ̓i                  tup̓aɬ.
+hap-tu·p  ʕaḥmis     ʕaḥmis     waː-ʼat-ƛa·     ḥaːɬ  his-taq-ši(ƛ)-ʔi·           tup̓aɬ
 fur-thing sea.mammal sea.mammal say-SHIFT-again there there.MOM-come.from-MOM-DEF sea
 fur       sea.mammal sea.mammal also.said       there one.that.come.from          sea
 the fur of sea mammals there from the ocean,
 
 # 019
-haptuup            waa ʔuḥ      hitaaqƛ̓as,             [fur-bearing animals] waa, waaʔatquu.
-hap-tu·p           wa· ʔuḥ      hita-ʼa·qƛ̓as           ~                     wa·  waː-ʼat-quː
+haptuup            waa ʔuḥ      hitaaqƛ̓as,             [fur-bearing animals] waa, waaʔatquu.
+hap-tu·p           wa· ʔuḥ      hita-ʼa·qƛ̓as           ~                     wa·  waː-ʼat-quː
 fur-species        say being.it there.MOM-in.the.woods ~                     say  say-SHIFT-COND.3
 fur.bearing.animal say being.it up.in.the.woods        ~                     say  you.could.say
 fur of fur-bearing animals up in the woods.”
@@ -144,8 +144,8 @@ now.then they.go.out.to.meet         trading          sea.otter various.kinds.of
 Then they (native people) went out to meet them (European traders) and traded sea otters and various kinds of land otters.
 
 # 021
-ʔuušckʷii  ʔunaak    ƛ̓itḥaq.   yaaqʷiɬqin                ƛ̓itḥaq,   čimsaʔaq  waa.
-ʔuːš-ckʷi· ʔu-na·k   ƛ̓itḥaq    yaqʷ-(č)iɬ-qin            ƛ̓itḥaq    čims-aʔaq wa·
+ʔuušckʷii  ʔunaak    ƛ̓itḥaq.   yaaqʷiɬqin                ƛ̓itḥaq,   čimsaʔaq  waa.
+ʔuːš-ckʷi· ʔu-na·k   ƛ̓itḥaq    yaqʷ-(č)iɬ-qin            ƛ̓itḥaq    čims-aʔaq wa·
 some-done  it-having bear.skin which-with.ref.to-REL.1PL bear.skin bear-hide say
 some.did   having    bear.skin to.which.we               bear.skin bear.hide say
 [And] some had bear skin [to trade] — we call bear hide _ƛ̓itḥaq_.
@@ -158,8 +158,8 @@ which      what.they.own           Indian  sold
 The native people sold what they had, whatever they owned.
 
 # 023
-čaanimtwaʔiš         ʔaapḥii.   mamaɬn̓imtquu          ʔaapḥii.
-čaːni-imt-wa·ʔi·š    ʔap-ḥi·    mamaɬn̓i-imt-quː       ʔap-ḥi·
+čaanimtwaʔiš         ʔaapḥii.   mamaɬn̓imtquu          ʔaapḥii.
+čaːni-imt-wa·ʔi·š    ʔap-ḥi·    mamaɬn̓i-imt-quː       ʔap-ḥi·
 at.first-PAST-QUOT.3 proper-DUR white.man-PAST-COND.3 proper-DUR
 at.first.he.was      friendly   white.man             friendly
 At first they were friendly; the white men were friendly.
@@ -172,15 +172,15 @@ they.were.given.to.drink              water
 They (native people) were served water.
 
 # 025
-kʷiiṣ̌iip̓aɬ             č̓aʔak.
-kʷis-ḥi·-p̓aɬ           č̓aʔak
+kʷiisḥiip̓aɬ            č̓aʔak.
+kʷis-ḥi·-p̓aɬ           č̓aʔak
 different-DUR-taste.of water
 taste.differently      water
 The water tasted strange.
 
 # 026
-waa, ʔuušyuuyaƛ           ʔaḥʔaa, tea, ʔuʔiic̓ap̓at,           naqšiƛ.
-waː  ʔuːš-yuːya-ʼaƛ       ʔaḥʔaː  ~    ʔu-ʼi·č-ʼap-ʼat       naq-ši(ƛ)
+waa, ʔuušyuuyaƛ           ʔaḥʔaa, tea, ʔuʔiic̓ap̓at,           naqšiƛ.
+waː  ʔuːš-yuːya-ʼaƛ       ʔaḥʔaː  ~    ʔu-ʼi·č-ʼap-ʼat       naq-ši(ƛ)
 and  some-at.the.time-FIN that    ~    it-consume-CAUS-SHIFT drink-MOM
 and  sometimes            that    ~    they.were.served      drink
 And sometimes they were given tea to drink.
@@ -193,8 +193,8 @@ they.had.many       white.man biscuit one.resembling.a.sand.dollar we.say  one.r
 White men had many biscuits — we call them “one-that-looks-like-a-Sand-Dollar”.
 
 # 028
-qʷaaʔap    hiinačiiɬ,                ḥaʔuyat,            yaaqʷiɬitiiʔaɬ                   quuʔas …
-qʷaː-ʼap   hin-ačiːɬ                 ḥaʔu-ayi·-ʼat       yaqʷ-iɬ-it-(y)iː-ʔa·ɬ            quːʔas ~
+qʷaaʔap    hiinačiiɬ,                ḥaʔuyat,            yaaqʷiɬitiiʔaɬ                   quuʔas …
+qʷaː-ʼap   hin-ačiːɬ                 ḥaʔu-ayi·-ʼat       yaqʷ-iɬ-it-(y)iː-ʔa·ɬ            quːʔas ~
 thus-CAUS  there.MOM-go.out.to.meet  exchange-gave-SHIFT which-with.ref.to-PAST-INDF.3-PL Indian ~
 doing.that go.out.repeatedly.to.meet given.in.exchange   whatever                         Indian ~
 They [native people] went out repeatedly to meet white people and were given whatever they traded for.
@@ -207,8 +207,8 @@ twiidin waa. twiidin. twiidin waaʔaaɬ,
 They called it _twiidin_.
 
 # 030
-ʔuušckʷiiʔaƛ   nanaʔa,         [trading post] ,              waaqḥ. twiidin. twiidin.
-ʔuːš-ckʷi·-ʼaƛ DUP-naʔa·       ~              wa·-(q)ḥ       ~      ~
+ʔuušckʷiiʔaƛ   nanaʔa,         [trading post] ,              waaqḥ. twiidin. twiidin.
+ʔuːš-ckʷi·-ʼaƛ DUP-naʔa·       ~              wa·-(q)ḥ       ~      ~
 some-done-FIN  DISTR-hear      ~              say-SIM        ~      ~
 some.did       they.understood ~              when.they.said ~      ~
 Some of the white people understood it as ‘trading post’ when they (Indian people) said _twiidin_.
@@ -228,8 +228,8 @@ having    sea.otter
 They had sea otter hides.
 
 # 033
-wiiksaʔiš      ʔiiqḥuk     yaqukʷitiis            naniiqsu.
-wik-sa-ʔi·š    ʔiːqḥ-uk    yaq-ukʷ-it-(y)iːs      naniːqsu
+wiiksaʔiš      ʔiiqḥuk     yaqukʷitiis            naniiqsu.
+wik-sa-ʔi·š    ʔiːqḥ-uk    yaq-ukʷ-it-(y)iːs      naniːqsu
 not-just-IND.3 telling-DUR who-POSS-PAST-INDF.1SG grandparent
 not.to.me      narrating   who.was.mine           grandparent
 My grandmother didn’t tell me [what they had for trade].
@@ -242,15 +242,15 @@ only.said mentioned   a.couple.on.board      couple
 She only mentioned that there was a couple on the ship.
 
 # 035
-nay̓iik̓atwaʔiš        kʷiiṣ̌iiʔat.
-nay̓iːk-ʼat-wa·ʔi·š   kʷis-ḥi·-ʼat
+nay̓iik̓atwaʔiš        kʷiisḥiiʔat.
+nay̓iːk-ʼat-wa·ʔi·š   kʷis-ḥi·-ʼat
 at.once-SHIFT-QUOT.3 different-DUR-SHIFT
 at.once              different
 [When the Captain saw the couple,] he suddenly acted strangely.
 
 # 036
-hinaasipḥʔat̓aɬ,                         kʷiscaʔapʔaƛ̓at                 ɬuucmaʔi,  kʷiscaʔap̓at                čakupʔi.
-hin-a·s-ip-(q)ḥ-ʼat-ʔa·ɬ                kʷis-ca-ʼap-ʼaƛ-ʼat            ɬuːcma-ʔi· kʷis-ca-ʼap-ʼat            čakup-ʔi·
+hinaasipḥʔat̓aɬ,                         kʷiscaʔapʔaƛ̓at                 ɬuucmaʔi,  kʷiscaʔap̓at                čakupʔi.
+hin-a·s-ip-(q)ḥ-ʼat-ʔa·ɬ                kʷis-ca-ʼap-ʼaƛ-ʼat            ɬuːcma-ʔi· kʷis-ca-ʼap-ʼat            čakup-ʔi·
 there.MOM-on.board-MOMCAUS-SIM-SHIFT-PL different-go.to-CAUS-FIN-SHIFT wife-DEF   different-go.to-CAUS-SHIFT husband-DEF
 as.they.were.taken.on.board             taken.to.a.different.place     the.wife   taken.to.a.different.place the.husband
 As they (white men) took them (the man and the wife) on board the ship, they took the husband and the wife to different places.
@@ -263,22 +263,22 @@ suspicious      the.man    suspicious
 The man was suspicious.
 
 # 038
-ʔanasiɬat           hiniiʔat             qʷiyiiʔanitii               k̓ač̣aq.  qum̓aamitii                    k̓ač̣aq.
-ʔana-siɬa-ʼat       hin-(y)i·-ʼat        qʷi-(y)i·-ʼat-it-(y)iː      k̓ač̣aq   qum̓aː-mit-(y)iː               k̓ač̣aq
+ʔanasiɬat           hiniiʔat             qʷiyiiʔanitii               k̓acḥaq. qum̓aamitii                    k̓acḥaq.
+ʔana-siɬa-ʼat       hin-(y)i·-ʼat        qʷi-(y)i·-ʼat-it-(y)iː      k̓acḥaq  qum̓aː-mit-(y)iː               k̓acḥaq
 only-act.like-SHIFT there.MOM-give-SHIFT what-give-SHIFT-PAST-INDF.3 blanket amount-PAST-INDF.3            blanket
 done.only           given                gave.him.whatever.item      blanket how.many.they.might.have.been blanket
 He was only given some kind of blanket. Some blankets.
 
 # 039
-wik ʔiiqḥuk.    ʔaniwa    waa.
-wik ʔiːqḥ-uk    ʔani-wa·  wa·
+wik ʔiiqḥuk.    ʔaniwa    waa.
+wik ʔiːqḥ-uk    ʔani-wa·  wa·
 not telling-DUR only-say  say
 not narrating   only.said say
 She (my grandmother who told me the story) didn’t tell me. This is all she said.
 
 # 040
-k̓ač̣aqstup,   hiyiqstup,     ƛišƛiqy̓ak.
-k̓ač̣aq-stup   hiyiq-stup     ƛišƛiq-y̓ak
+k̓acḥaqstup,  hiyiqstup,     ƛišƛiqy̓ak.
+k̓acḥaq-stup  hiyiq-stup     ƛišƛiq-y̓ak
 blanket-kind various-thing  foot-thing.for
 blanket      various.things pant
 [He got] blankets, pants and other things.
@@ -291,22 +291,22 @@ might.have.said  pants          long.ago
 This is how pants were long ago.
 
 # 042
-ʔiinaxyaƛquuč                  ʔuušyuuya,       ʔiiḥ  ḥaw̓iɬ, yaqʷacʔitq             šipʔii.
-ʔiːnax-yu·-ʼaƛ-quː-č           ʔuːš-yuːya       ʔiːḥ  ḥaw̓iɬ  yaqʷ-ac-ʔi·tq          šip-ʔi·
+ʔiinaxyaƛquuč                  ʔuušyuuya,       ʔiiḥ  ḥaw̓iɬ, yaqʷacʔitq             šipʔii.
+ʔiːnax-yu·-ʼaƛ-quː-č           ʔuːš-yuːya       ʔiːḥ  ḥaw̓iɬ  yaqʷ-ac-ʔi·tq          šip-ʔi·
 dressed.up-done-FIN-COND.3-INF some-at.the.time great leader who-belonging.to-REL.3 ship-DEF
 wore.uniform                   sometimes        great leader one.in.charge          the.ship
 A high-ranking leader, i.e., captain of the ship, would sometimes dress up [in his uniform].
 
 # 043
-ʕiḥak   ɬuucmaʔi   hiniiʔas.            ʕiḥak.
-ʕiḥ-ak  ɬuːcma-ʔi· hin-iːʔas            ʕiḥ-ak
+ʕiḥak   ɬuucmaʔi   hiniiʔas.            ʕiḥak.
+ʕiḥ-ak  ɬuːcma-ʔi· hin-iːʔas            ʕiḥ-ak
 cry-DUR woman-DEF  there.MOM-go.outside cry-DUR
 crying  the.woman  go.out               crying
 The woman came out crying.
 
 # 044
-ʔaaʔaaʔišaʔi   waa čakupuk,     ʔaaʔaa hitaqsiƛ                  č̓apac, ƛiḥšiƛ.
-ʔaːʔaːʔiša-ʔi· wa· čakup-uk     ~      hita-qs-i(ƛ)              č̓apac  ƛiḥ-ši(ƛ)
+ʔaaʔaaʔišaʔi   waa čakupuk,     ʔaaʔaa hitaqsiƛ                  č̓apac, ƛiḥšiƛ.
+ʔaːʔaːʔiša-ʔi· wa· čakup-uk     ~      hita-qs-i(ƛ)              č̓apac  ƛiḥ-ši(ƛ)
 hurry-IMP.2SG  say husband-POSS ~      there.MOM-in.a.vessel-MOM canoe  traveling.in.canoe-MOM
 hurry          say her.husband  ~      get.into.the.canoe        canoe  paddled.away
 “Hurry! Get in the canoe! Now!” she said to her husband. They got in the canoe and left.
@@ -333,15 +333,15 @@ in.the.bay
 They went into the bay.
 
 # 048
-p̓iyačiƛw̓it̓asʔaaš       ʔiiqḥy̓ak,
-p̓iš-ʽači(ƛ)-w̓it̓as-ʔaːš ʔiːqḥ-y̓ak
+p̓iyačiƛw̓it̓asʔaaš       ʔiiqḥy̓ak,
+p̓iš-ʽači(ƛ)-w̓it̓as-ʔaːš ʔiːqḥ-y̓ak
 bad-MOM-about.to-INF.3 telling-thing.for
 will.get.bad           story
 This story gets nasty from here on.
 
 # 049
-ʔatquu          čačimḥimt       čaani,   p̓iyačiƛ,    wičsiɬa.
-ʔat-quː         čačim-ḥi·-imt   čaːni    p̓iš-ʽači(ƛ) wič-siɬa
+ʔatquu          čačimḥimt       čaani,   p̓iyačiƛ,    wičsiɬa.
+ʔat-quː         čačim-ḥi·-imt   čaːni    p̓iš-ʽači(ƛ) wič-siɬa
 although-COND.3 proper-DUR-PAST at.first bad-MOM     improper?-act.like
 although        was.friendly    at.first get.angry   make.a.mistake
 Although they (Ahousaht people) were friendly [toward English people] at first, [when they heard of the incident] they got angry and made a mistake.
@@ -361,8 +361,8 @@ at.once at.once get.angry       the.man    at.once get.angry
 Suddenly the native people got angry.
 
 # 052
-ƛiḥšiƛ.
-ƛiḥ-ši(ƛ)
+ƛiḥšiƛ.
+ƛiḥ-ši(ƛ)
 traveling.in.canoe-MOM
 paddled.away
 They left in their canoes.
@@ -375,8 +375,8 @@ made.a.mistake                make.a.mistake
 They made a mistake.
 
 # 054
-ʔunicuk̓ʷaaɬitii,              wiiqḥap,   wiiqsiɬa,        witwaakʔi.
-ʔunic-u·k̓ʷaːɬ-it-(y)iː        wiːq-ḥap   wiːq-siɬa        witwaːk-ʔi·
+ʔunicuk̓ʷaaɬitii,              wiiqḥap,   wiiqsiɬa,        witwaakʔi.
+ʔunic-u·k̓ʷaːɬ-it-(y)iː        wiːq-ḥap   wiːq-siɬa        witwaːk-ʔi·
 time.taken-absent-PAST-INDF.3 do.harm-do do.harm-act.like warrior-DEF
 however.long.they.were.gone   do.harm    do.harm          the.warrior
 For some time the warriors were gone, attacking them (English people).
@@ -396,8 +396,8 @@ sank.down            sank.down
 “It (the English Navy ship) sank into the water! The ship sank!”
 
 # 057
-p̓atʕaḥs,               qʷiqitii                      m̓uč̓ičtup.
-p̓atqʷ-ʼaḥs             qʷiq-it-(y)iː                 m̓uč̓ič-tu·p
+p̓atʕaḥs,               qʷiqitii                      m̓uč̓ičtup.
+p̓atqʷ-ʼaḥs             qʷiq-it-(y)iː                 m̓uč̓ič-tu·p
 load-in.a.vessel       what-PAST-INDF.3              clothed-thing
 having.load.in.a.canoe whatever.they.might.have.been clothes
 The canoe was loaded with some kind of clothes [they took from the ship].
@@ -410,50 +410,50 @@ sank          the.schooner
 The schooner sank.
 
 # 059
-caqšiƛ.       wiiḥaaqsusiis hiɬqḥ.
-caq-ši(ƛ)     wiːḥaːqsusiːs hiɬ-(q)ḥ
+caqšiƛ.       wiiḥaaqsusiis hiɬqḥ.
+caq-ši(ƛ)     wiːḥaːqsusiːs hiɬ-(q)ḥ
 head.down-MOM NAME          here-SIM
 sank          NAME          there
 It sank at _wiiḥaaqsusiis_.
 
 # 060
-wiiḥaaqsusiis ʔukɬaa.
-wiːḥaːqsusiːs ʔu-kɬa·
+wiiḥaaqsusiis ʔukɬaa.
+wiːḥaːqsusiːs ʔu-kɬa·
 NAME          it-called
 NAME          being.named
 The place is called _wiiḥaaqsusiis_.
 
 # 061
-čuu,     ƛ̓aaʔinuʔat̓aɬ,      ƛ̓aaʔinƛ,    n̓uʕasaqḥ, ʕaaḥuus, hitaaqƛis.
-čuː      ƛ̓aː-ʔinu-ʼaƛ-ʔa·ɬ  ƛ̓aː-ʔin(ƛ)  n̓uʕasaqḥ  ʕaːḥuːs  hitaːqƛis
+čuu,     ƛ̓aaʔinuʔat̓aɬ,      ƛ̓aaʔinƛ,    n̓uʕasaqḥ, ʕaaḥuus, hitaaqƛis.
+čuː      ƛ̓aː-ʔinu-ʼaƛ-ʔa·ɬ  ƛ̓aː-ʔin(ƛ)  n̓uʕasaqḥ  ʕaːḥuːs  hitaːqƛis
 now.then outside-MOM-FIN-PL outside-MOM NAME      NAME     NAME(?)
 now.then they.went.outside  went.out    NAME      NAME     NAME
 Then they went out to the open sea to _n̓uʕasaqḥ_, Ahous, or _hit:qƛis_. (?)
 
 # 062
-č̓itaapi ʔuḥ      waɬyuu.
-č̓itaːpi ʔuḥ      waɬ-yu·
+č̓itaapi ʔuḥ      waɬyuu.
+č̓itaːpi ʔuḥ      waɬ-yu·
 NAME    being.it go.home-done
 NAME    being.it homeland
 Chetarpe was their home village.
 
 # 063
-č̓itaapi ʔaḥ  ʔaqʔištiik,   hiɬukʔaɬ                        mamaʔuu,   waa      qiɬcmaʕatḥ.
-č̓itaːpi ʔaḥ  ~             hiɬ-uk-ʔa·ɬ                     DUP-ma-ʼuː wa·      qiɬcmaʕatḥ
+č̓itaapi ʔaḥ  ʔaqʔištiik,   hiɬukʔaɬ                        mamaʔuu,   waa      qiɬcmaʕatḥ.
+č̓itaːpi ʔaḥ  ~             hiɬ-uk-ʔa·ɬ                     DUP-ma-ʼuː wa·      qiɬcmaʕatḥ
 NAME    here here-POSS-PL  DISTR-dwell-camp.out.for        and        Kelsomat
 NAME    here this.is.their set.up.summer.camps.for.fishing and        Kelsomat
 Chetarpe was the place where they (Ahousaht people) had their summer camp for fishing. And so did Kelsomats.
 
 # 064
-waa ƛ̓aaʔaatḥ            qiɬcmaʕatḥ.
-waː ƛ̓aːʔaː-ʼatḥ         qiɬcmaʕatḥ
+waa ƛ̓aaʔaatḥ            qiɬcmaʕatḥ.
+waː ƛ̓aːʔaː-ʼatḥ         qiɬcmaʕatḥ
 and outside-people.from Kelsomat
 and people.from.outside Kelsomat
 We call Kelsomats “people from outside”.
 
 # 065
-wik, wik, wik niiy̓aaqsta    qiɬcmaʕatḥ qʷisʔiitq     ʕaaḥuusʔatḥ.
-wik  wik  wik hiɬ-ʼa·qsta   qiɬcmaʕatḥ qʷis-ʔi·tq    ʕaːḥuːsʔatḥ
+wik, wik, wik niiy̓aaqsta    qiɬcmaʕatḥ qʷisʔiitq     ʕaaḥuusʔatḥ.
+wik  wik  wik hiɬ-ʼa·qsta   qiɬcmaʕatḥ qʷis-ʔi·tq    ʕaːḥuːsʔatḥ
 not  not  not there-amongst Kelsomat   do.so-REL.3   Ahousaht
 not  not  not among.them    Kelsomat   what.they.did Ahousaht
 [Although they had the camp there with the Ahousahts,] the Kelsomat didn’t take part in the business of the Ahousaht band.
@@ -466,22 +466,22 @@ annihilate       annihilate       the.people.on.the.schooner
 They (Ahousahts) killed all the crewmen on the schooner.
 
 # 067
-wik ʔunic,     ʔunicitii,             hitasaƛ,               č̓apac, ʕaaḥuus.
-wik ʔunic      ʔunic-it-(y)iː         hita-ʽsa(ƛ)            č̓apac  ʕaːḥuːs
+wik ʔunic,     ʔunicitii,             hitasaƛ,               č̓apac, ʕaaḥuus.
+wik ʔunic      ʔunic-it-(y)iː         hita-ʽsa(ƛ)            č̓apac  ʕaːḥuːs
 not time.taken time.taken-PAST-INDF.3 there.MOM-on.the.beach canoe  Ahous
 not took.long  however.long.it.took   land.on.the.beach      canoe  Ahous
 Soon after the incident a canoe came to the beach of Ahous.
 
 # 068
-x̣unusčiʔatḥ. niiyya   histaqšiƛ,          hinataʔas.            hinataʔas.
-x̣unusčiʔatḥ  niːyaː   his-aq-ši(ƛ)        hinata-ʼas            hinata-ʼas
+x̣unusčiʔatḥ. niiyya   histaqšiƛ,          hinataʔas.            hinataʔas.
+x̣unusčiʔatḥ  niːyaː   his-aq-ši(ƛ)        hinata-ʼas            hinata-ʼas
 Makah        Neah.Bay there-come.from-MOM invite-in.the.village invite-in.the.village
 Makah        Neah.Bay came.from           send.out.to.invite    send.out.to.invite
 Makah people came from Neah Bay to invite the village for a feast.
 
 # 069
-čuu,     čuu,     ƛiiḥšiƛ,                     siikšiƛ.
-čuː      čuː      ƛiḥ-L-ši(ƛ)                  siːk-ši(ƛ)
+čuu,     čuu,     ƛiiḥšiƛ,                     siikšiƛ.
+čuː      čuː      ƛiḥ-L-ši(ƛ)                  siːk-ši(ƛ)
 now.then now.then traveling.in.canoe-GRAD-GRAD sailing-MOM
 now.then now.then started.to.travel.in.canoe   sailing
 And they (Ahousahts) left home in their canoes.
@@ -494,15 +494,15 @@ sailing      they.were.sailing     west.wind.blowing referring.to.it     westerl
 They sailed on a westerly wind.
 
 # 071
-ʔaniyat               čačimḥat         k̓uučukʔic̓at                 hačɬiiʔaƛquu                     qʷaa. huuʔaciiy̓ukʔaƛquu        tuč̓ii.
-ʔana-iya-ʼat          čačim-ḥi·-ʼat    k̓uː-čuk-ʔic-ʼat             hačɬiː(ƛ)-ʼaƛ-quː                qʷaː  huʔa-ca-iːy̓uk-ʼaƛ-quː    tuč̓iː
+ʔaniyat               čačimḥat         k̓uučukʔic̓at                 hačɬiiʔaƛquu                     qʷaa. huuʔaciiy̓ukʔaƛquu        tuč̓ii.
+ʔana-iya-ʼat          čačim-ḥi·-ʼat    k̓uː-čuk-ʔic-ʼat             hačɬiː(ƛ)-ʼaƛ-quː                qʷaː  huʔa-ca-iːy̓uk-ʼaƛ-quː    tuč̓iː
 only-at.time.of-SHIFT proper-DUR-SHIFT short.distance-??-DIM-SHIFT westerly-wind.blowing-FIN-COND.3 thus  back-go.to-??-FIN-COND.3 southeast.wind
 only.time.it.is.done  properly         in.a.short.time             when.westerly.wind.is.blowing    thus  on.return.trip           southeast.wind
 They only time you can quickly get there (Neah Bay) is when a westerly wind is blowing. On the way back, a southeast wind.
 
 # 072
-ʔunicitii.             ƛ̓iipiƛ,                             ʕaaḥuusʔatḥ. ƛiipiƛ.
-ʔunic-it-(y)iː         ƛ̓iː-pi(ƛ)                           ʕaːḥuːsʔatḥ  ƛ̓iː-pi(ƛ)
+ʔunicitii.             ƛ̓iipiƛ,                             ʕaaḥuusʔatḥ. ƛiipiƛ.
+ʔunic-it-(y)iː         ƛ̓iː-pi(ƛ)                           ʕaːḥuːsʔatḥ  ƛ̓iː-pi(ƛ)
 time.taken-PAST-INDF.3 partaking.in.the.feast-in.the.house Ahousaht     partaking.in.the.feast-in.the.house
 however.long.it.took   partaking.in.the.feast              Ahousaht     partaking.in.the.feast
 After some time [of traveling on the ocean they finally got there, and] Ahousaht people partook in a feast.
@@ -536,43 +536,43 @@ missing   schooner missing
 The schooner was missing.
 
 # 077
-n̓aacsiičiƛ,   ḥamipšiƛ        qʷik̓ʷičʔitq,          kinčoočʔatḥiicckʷi.
-n̓aːcsiː-či(ƛ) ḥamip-ši(ƛ)     qʷi-k̓ʷič-ʔi·tq        kinčoːč-ʼatḥ-iːc-ckʷi·
+n̓aacsiičiƛ,   ḥamipšiƛ        qʷik̓ʷičʔitq,          kinčoočʔatḥiicckʷi.
+n̓aːcsiː-či(ƛ) ḥamip-ši(ƛ)     qʷi-k̓ʷič-ʔi·tq        kinčoːč-ʼatḥ-iːc-ckʷi·
 spotted-MOM   recognizing-MOM what-clothed.in-REL.3 King.George-one.from-belonging.to-remains.of
 spotted       recognized      what.he.was.wearing   one.that.belonged.to.a.deceased.man.from.England
 They spotted it and recognized the clothing of the dead Englishman.
 
 # 078
-kinčoočʔatḥ,         yaqitii         ḥaw̓iɬ  yaqukʷitiiʔaɬ            ḥaw̓iɬ  England ʔaḥʔaa ʔuyi.
-kinčoːč-ʼatḥ         yaq-it-(y)iː    ḥaw̓iɬ  yaq-uk-it-(y)iː-ʔa·ɬ     ḥaw̓iɬ  ~       ʔaḥʔaː ʔuyi
+kinčoočʔatḥ,         yaqitii         ḥaw̓iɬ  yaqukʷitiiʔaɬ            ḥaw̓iɬ  England ʔaḥʔaa ʔuyi.
+kinčoːč-ʼatḥ         yaq-it-(y)iː    ḥaw̓iɬ  yaq-uk-it-(y)iː-ʔa·ɬ     ḥaw̓iɬ  ~       ʔaḥʔaː ʔuyi
 King.George-one.from who-PAST-INDF.3 leader who-POSS-PAST-INDF.3-PL  leader ~       that   at.that.time
 one.from.England     whoever.it.was  leader whoever.their.leader.was leader ~       that   at.that.time
 [We called Englishmen] “King George man” no matter who was the king of England at that time.
 
 # 079
-kʷisuuqʔatḥ,          waaʔat.    kʷisuuqʔatḥ,          Europeans.
-kʷis-uːq-ʼatḥ         wa·-ʼat    kʷis-uːq-ʼatḥ         ~
+kʷisuuqʔatḥ,          waaʔat.    kʷisuuqʔatḥ,          Europeans.
+kʷis-uːq-ʼatḥ         wa·-ʼat    kʷis-uːq-ʼatḥ         ~
 different-??-one.from say-SHIFT  different-??-one.from ~
 people.from.overseas  it.is.said people.from.overseas  ~
 Europeans are called “people from overseas”.
 
 # 080
-waamitʔiš      ʔaḥʔaa naniiqsakitqs,                kʷaatya Annie ʔukɬaa.
-waː-mit-ʔi·š   ʔaḥʔaː naniːqsu-ʔa·k-it-qs           kʷaːtya ~     ʔu-kɬa·
+waamitʔiš      ʔaḥʔaa naniiqsakitqs,                kʷaatya Annie ʔukɬaa.
+waː-mit-ʔi·š   ʔaḥʔaː naniːqsu-ʔa·k-it-qs           kʷaːtya ~     ʔu-kɬa·
 say-PAST-IND.3 that   grandmother-POSS-PAST-SUB.1SG NAME    ~     it-having.as.name
 said           that   my.late.grandmother           NAME    ~     being.named
 That’s how my late grandmother by the name of _kʷaatya_, or Annie, used to call them.
 
 # 081
-ʔuḥuk          n̓uw̓iiqsu w̓iikinaniš.
-ʔuḥ-uk         n̓uw̓iːqsu w̓iːkinaniš
+ʔuḥuk          n̓uw̓iiqsu w̓iikinaniš.
+ʔuḥ-uk         n̓uw̓iːqsu w̓iːkinaniš
 being.she-POSS father   NAME
 her            father   NAME
 Her father was Wiikinanish.
 
 # 082
-qʷaʔiɬʔaƛquu                     ʔaḥʔaa ʔiicʔiiqḥaƛquu       yaqukʷitii           naniiqsu,   kʷaatya. ʔiicʔiiqḥaƛquu.
-qʷa-ʽiɬ-ʼaƛ-quː                  ʔaḥʔaː ʔiːcʔiːqḥ-ʼaƛ-quː    yaq-uk-it-(y)iː      naniːqsu    ~        ʔiːcʔiːqḥ-ʼaƛ-quː
+qʷaʔiɬʔaƛquu                     ʔaḥʔaa ʔiicʔiiqḥaƛquu       yaqukʷitii           naniiqsu,   kʷaatya. ʔiicʔiiqḥaƛquu.
+qʷa-ʽiɬ-ʼaƛ-quː                  ʔaḥʔaː ʔiːcʔiːqḥ-ʼaƛ-quː    yaq-uk-it-(y)iː      naniːqsu    ~        ʔiːcʔiːqḥ-ʼaƛ-quː
 thus-in.the.house-FIN-COND.3     that   narrate-FIN-COND.3   who-POSS-PAST-INDF.3 grandmother ~        narrate-FIN-COND.3
 this.is.how.she.did.in.the.house that   when.telling.a.story of.whomever.it.was   grandmother ~        when.telling.a.story
 This was how (in this kind of posture) my grandmother _kʷaatya_ used to tell me stories.
@@ -599,29 +599,29 @@ it.became.the.next.day partaking.in.the.feast.again
 It became the next day and they gathered again in the house for a feast.
 
 # 086
-ʔuuṣ̌hy̓imsʔi,         ƛiḥšiƛcuu,                        ƛiḥšiƛcuu.
-ʔuːš-ḥy̓ims-ʔi·       ƛiḥ-ši(ƛ)-cuː                     ƛiḥ-ši(ƛ)-čuː
+ʔuusḥhy̓imsʔi,        ƛiḥšiƛcuu,                        ƛiḥšiƛcuu.
+ʔuːš-ḥy̓ims-ʔi·       ƛiḥ-ši(ƛ)-cuː                     ƛiḥ-ši(ƛ)-čuː
 some-related.to?-DEF traveling.in.canoe-MOM-go.IMP.2PL traveling.in.canoe-MOM-go.IMP.2PL
 relatives            you.leave                         you.leave
 “My relatives, leave the village!”
 
 # 087
-ḥamipšiƛ̓iš,           yaqʷʔičʔitq            quuʔasʔi,  waaʔaƛ  kaʔupšiʔat.       kaʔupšiƛ.
-ḥampi-ši(ƛ)-ʔi·š      yaqʷ-ʔič-ʔi·tq         quːʔas-ʔi· wa·-ʼaƛ kaʔup-ši(ƛ)-ʼat   kaʔup-ši(ƛ)
+ḥamipšiƛ̓iš,           yaqʷʔičʔitq            quuʔasʔi,  waaʔaƛ  kaʔupšiʔat.       kaʔupšiƛ.
+ḥampi-ši(ƛ)-ʔi·š      yaqʷ-ʔič-ʔi·tq         quːʔas-ʔi· wa·-ʼaƛ kaʔup-ši(ƛ)-ʼat   kaʔup-ši(ƛ)
 recognizing-MOM-IND.3 which-clothed.in-REL.3 person-DEF say-FIN mention-MOM-SHIFT mention-MOM
 recognized            what.he.was.wearing    the.man    said    address.to        addressed.to
 He (Makah man) recognized the thing he was wearing and said to the Ahousaht man.
 
 # 088
-ʔuyiʔičim                ƛiiḥšiƛ                     tuupšiʔaƛquu.
+ʔuyiʔičim                ƛiiḥšiƛ                     tuupšiʔaƛquu.
 ʔuyi-ʼi·čim              ƛih-L-ši(ƛ)                 tuːpši(ƛ)-ʼaƛ-quː
 at.that.time-IMP.2PL.FUT traveling.in.canoe-GRAD-MOM evening-FIN-COND.3
 you.do.it.when           set.out.in.canoe            when.it.gets.evening
 “Depart when it gets dark.”
 
 # 089
-waa ƛiḥšiƛ.
-wa· ƛiḥ-ši(ƛ)
+waa ƛiḥšiƛ.
+wa· ƛiḥ-ši(ƛ)
 and traveling.in.canoe-MOM
 and paddled.away
 So they (Ahousaht people) left in canoes.
@@ -648,8 +648,8 @@ hit.the.right.timing              wind.started.to.blow
 They were just right in time for the [favorable] wind to start blowing.
 
 # 093
-qʷiyumtii        ʔimc̓ak,    waa ʔucuut.    ʔatḥii.
-qʷiyu-imt-(y)iː  ʔimc̓ak     wa· ʔucuːt     ʔatḥiː
+qʷiyumtii        ʔimc̓ak,    waa ʔucuut.    ʔatḥii.
+qʷiyu-imt-(y)iː  ʔimc̓ak     wa· ʔucuːt     ʔatḥiː
 when-PAST-INDF.3 late.night or  late.night night
 whenever.it.was  late.night or  late.night night
 It might have been close to midnight.
@@ -662,8 +662,8 @@ sailing
 They were sailing.
 
 # 095
-ʔuʔumḥičiƛ,        hitaquuʔa                        ʕaaḥuus, c̓iiqaa.    c̓iiqaa.
-ʔuʔumḥi-či(ƛ)      hita-quː-ʼa·                     ʕaːḥuːs  c̓iːq-(y)a· c̓iːq-(y)a·
+ʔuʔumḥičiƛ,        hitaquuʔa                        ʕaaḥuus, c̓iiqaa.    c̓iiqaa.
+ʔuʔumḥi-či(ƛ)      hita-quː-ʼa·                     ʕaːḥuːs  c̓iːq-(y)a· c̓iːq-(y)a·
 just.right-MOM     there.MOM-at.a.point-on.the.rock Ahous    chant-CONT chant-CONT
 reach.just.in.time be.at.the.point                  Ahous    chanting   chanting
 They got to Ahous Point just in time. They were singing [a paddling song].
@@ -683,8 +683,8 @@ I.am.in.trouble    say
 “I am in serious trouble,” he (the one who was wearing the Admiral’s uniform) said.
 
 # 098
-y̓imqimy̓uuƛneeš     waa. p̓išaqʔiš   ʔiiqḥy̓ak.
-y̓imqimy̓uːƛ-ni·š    wa·  p̓išaq-ʔi·š ʔiːqḥ-y̓ak
+y̓imqimy̓uuƛneeš     waa. p̓išaqʔiš   ʔiiqḥy̓ak.
+y̓imqimy̓uːƛ-ni·š    wa·  p̓išaq-ʔi·š ʔiːqḥ-y̓ak
 in.trouble-IND.1PL say  bad-IND.3  telling-instrument
 we.are.in.trouble  say  it.is.bad  news
 “We are in serious trouble. There is bad news,” he said.
@@ -704,50 +704,50 @@ moved.into.the.inlet moved.into.the.inlet
 [And] they all headed for the inlets.
 
 # 101
-hač̓a  ḥaʔiičḥšiʔaƛit,        ʔin     ʕaakʷaašt             ʔukʷiiɬckʷat       ƛ̓uukʷiɬ   ʔaya.
-hač̓a  ḥaʔiːčḥ-ši(ƛ)-ʼaƛ-it   ʔin     ʕaːkʷ-a·št            ʔu-kʷiːɬ-ckʷi·-ʼat ƛ̓uː-kʷiɬ  ʔaya
+hač̓a  ḥaʔiičḥšiʔaƛit,        ʔin     ʕaakʷaašt             ʔukʷiiɬckʷat       ƛ̓uukʷiɬ   ʔaya.
+hač̓a  ḥaʔiːčḥ-ši(ƛ)-ʼaƛ-it   ʔin     ʕaːkʷ-a·št            ʔu-kʷiːɬ-ckʷi·-ʼat ƛ̓uː-kʷiɬ  ʔaya
 maybe September-MOM-FIN-PAST because dog.salmon-dried.food it-make-done-SHIFT drying-?? many
 maybe it.was.in.September    because dried.salmon          they.made          drying    many
 Maybe it was in September, since many people were making dried salmon [in the village].
 
 # 102
-ʔucačiƛ,     c̓ikt̓aqis,   mučačiɬḥ,        wap̓uuqḥ,    ʕaaḥuusʔatḥ.
-ʔu-ca-či(ƛ)  c̓ikt̓aqis    muičačiɬḥ        wap̓uːqḥ     ʕaːḥuːsʔatḥ
+ʔucačiƛ,     c̓ikt̓aqis,   mučačiɬḥ,        wap̓uuqḥ,    ʕaaḥuusʔatḥ.
+ʔu-ca-či(ƛ)  c̓ikt̓aqis    muičačiɬḥ        wap̓uːqḥ     ʕaːḥuːsʔatḥ
 it-go.to-MOM Atheo.River Pretty.Girl.Cove Magin.River Ahousaht
 went.there   Atheo.River Pretty.Girl.Cove Magin.River Ahousaht
 The Ahousahts went to Atheo River, Pretty Girl Cove, and the Magin River area.
 
 # 103
-waʔuus. waʔuus hiiɬsasakʔaɬ       mamaʔuu,                 ʕaaḥuusʔatḥ waʔuuc.
-waʔuːs  waʔuːs hiɬ-sasa-ʔa·k-ʔa·ɬ DUP-ma-ʼu·               ʕaːḥuːsʔatḥ waʔu-iːc
+waʔuus. waʔuus hiiɬsasakʔaɬ       mamaʔuu,                 ʕaaḥuusʔatḥ waʔuuc.
+waʔuːs  waʔuːs hiɬ-sasa-ʔa·k-ʔa·ɬ DUP-ma-ʼu·               ʕaːḥuːsʔatḥ waʔu-iːc
 Wahous  Wahous here-real-POSS-PL  DISTR-dwell-camp.out.for Ahousaht    ??-belonging.to
 Wahous  Wahous their.real.place   summer.camp.for.fishing  Ahousaht    belongs.to.them
 Wahous was the base summer camp from the Ahousahts.
 
 # 104
-hiʔiis              ʔaḥʔaa, kapčaa. kapčaamitquu.    kapčaa. kapčuk.
-hiʔiːs              ʔaḥʔaː  kapčaː  kapčaː-mit-quː   kapčaː  kapčuk
+hiʔiis              ʔaḥʔaa, kapčaa. kapčaamitquu.    kapčaa. kapčuk.
+hiʔiːs              ʔaḥʔaː  kapčaː  kapčaː-mit-quː   kapčaː  kapčuk
 there.on.the.ground that    NAME    NAME-PAST-COND.3 NAME    NAME
 there.on.the.ground that    NAME    late.Kapchaa     NAME    NAME
 This is where the late _kapčaa_, a.k.a. _kapčuk_, lived.
 
 # 105
-ḥaw̓iɬ, ʔuuc            nuučaan̓uɬ,              kapčuk.
-ḥaw̓iɬ  ʔu-iːc          nuč-a·n̓uɬ               kapčuk
+ḥaw̓iɬ, ʔuuc            nuučaan̓uɬ,              kapčuk.
+ḥaw̓iɬ  ʔu-iːc          nuč-a·n̓uɬ               kapčuk
 chief  it-belonging.to mountain-all.along      NAME
 chief  his             all.along.the.mountains NAME
 _kapčuk_ was a chief and owned everything along the mountains.
 
 # 106
-yaaqʷiɬʔitq             nuučaan̓uɬ               waa, ƛaaḥaqsak.           nuučaan̓uɬ.
-yaqʷ-(č)iɬ-ʔi·tq        nuč-a·n̓uɬ               wa·  ƛaḥ-aqsak            nuč-a·n̓uɬ
+yaaqʷiɬʔitq             nuučaan̓uɬ               waa, ƛaaḥaqsak.           nuučaan̓uɬ.
+yaqʷ-(č)iɬ-ʔi·tq        nuč-a·n̓uɬ               wa·  ƛaḥ-aqsak            nuč-a·n̓uɬ
 which-with.ref.to-REL.3 mountain-all.along      say  recent-in.generation mountain-all.along
 with.ref.to.which       all.along.the.mountains say  young.generation     all.along.the.mountains
 You people today call it ‘Nuu-chah-nulth’.
 
 # 107
-ʔiiḥcamisukƛaʔaɬ         ʔaḥ  ḥaw̓iiḥ.
-ʔiːḥ-camis-uk-ƛa·-ʔa·ɬ   ʔaḥ  ḥaw̓iːḥ
+ʔiiḥcamisukƛaʔaɬ         ʔaḥ  ḥaw̓iiḥ.
+ʔiːḥ-camis-uk-ƛa·-ʔa·ɬ   ʔaḥ  ḥaw̓iːḥ
 great-thing-POSS-also-PL this chiefs
 they.take.it.seriously   this chiefs
 Chiefs took it (the ownership within their territories) seriously.
@@ -767,8 +767,8 @@ they.arrived.in.a.vessel
 They (British Navy) arrived.
 
 # 110
-hašiičiʔaƛ,           hupic̓atḥ,
-hašiː-či(ƛ)-ʼaƛ       hupic̓atḥ
+hašiičiʔaƛ,           hupic̓atḥ,
+hašiː-či(ƛ)-ʼaƛ       hupic̓atḥ
 knowing.about-MOM-FIN Opetchesaht
 had.heard.about.it    Opetchesaht
 Opetchesaht people heard about their arrival.
@@ -781,8 +781,8 @@ Tofino  British.soldiers anchored                    British.soldiers
 The British Navy anchored at Tofino [which is just across from the Opetchesaht area].
 
 # 112
-wiina  ʕaaḥuusʔatḥ ʔuuciy̓uk.   wiksan̓apw̓it̓as.
-wiːna  ʕaːḥuːsʔatḥ ʔuː-ci·y̓uk  wik-san̓ap-w̓it̓as
+wiina  ʕaaḥuusʔatḥ ʔuuciy̓uk.   wiksan̓apw̓it̓as.
+wiːna  ʕaːḥuːsʔatḥ ʔuː-ci·y̓uk  wik-san̓ap-w̓it̓as
 invade Ahousaht    it-going.to not-MOMCAUS?-about.to
 invade Ahousaht    going.to    there.going.to.be.nobody.left
 They were going to invade the Ahousaht people. There was going to be nobody left.
@@ -802,8 +802,8 @@ went.there   Wahous
 They went to Wahous.
 
 # 115
-n̓aacsa, hitac̓usat̓itq.                         kaƛḥak.
-n̓aːcsa  hita-c̓u·-sa(ƛ)-ʔi·tq                  kaƛḥak
+n̓aacsa, hitac̓usat̓itq.                         kaƛḥak.
+n̓aːcsa  hita-c̓u·-sa(ƛ)-ʔi·tq                  kaƛḥak
 see     there.MOM-in.a.bay-on.the.beach-REL.3 visible
 see     arrived.in.the.bay                    visible
 They (Ahousaht people) saw the (the British Navy) coming into the bay very clearly.
@@ -837,15 +837,15 @@ fled.into.the.woods             ran.in.the.woods     ran.in.the.woods
 People fled into the woods.
 
 # 120
-hiɬ   qaaḥma.
-hiɬ   qaːḥma
+hiɬ   qaaḥma.
+hiɬ   qaːḥma
 there NAME
 there NAME
 _qaaḥma_ was there.
 
 # 121
-ḥaaw̓iɬaƛ̓aƛ    qaaḥma.
-ḥaːw̓iɬaƛ-ʼaƛ  qaːḥma
+ḥaaw̓iɬaƛ̓aƛ    qaaḥma.
+ḥaːw̓iɬaƛ-ʼaƛ  qaːḥma
 young.man-FIN NAME
 be.young      NAME
 _qaaḥma_ was young.
@@ -858,8 +858,8 @@ fifteen, sixteen, seventeen, eighteen yearsʔaƛquu,     twenty.
 Fifteen, sixteen, seventeen, he could have been eighteen years old. Or [maybe] twenty.
 
 # 123
-ḥaaw̓iɬaƛ̓aƛ    qaaḥma.
-ḥaːw̓iɬaƛ-ʼaƛ  qaːḥma
+ḥaaw̓iɬaƛ̓aƛ    qaaḥma.
+ḥaːw̓iɬaƛ-ʼaƛ  qaːḥma
 young.man-FIN NAME
 be.yong       NAME
 _qaaḥma_ was young.
@@ -872,7 +872,7 @@ doesnt.mind
 He wasn’t scared.
 
 # 125
-ƛiiḥšiƛ                       minwaaʔath.      c̓aʔak ʔucačiƛ.
+ƛiiḥšiƛ                       minwaaʔath.      c̓aʔak ʔucačiƛ.
 ƛih-ši(ƛ)                     minwaːʔath       c̓aʔak ʔu-ca-či(ƛ)
 traveling.in.vessel-GRAD      British.soldiers river it-go.to-MOM
 started.to.travel.in.a.vessel British.soldiers river went.to
@@ -893,22 +893,22 @@ running.across
 He ran over the hill to the other side of the island.
 
 # 128
-kaamatʕiiḥšiʔat.
-kamatqʷ-ʼiːḥ-ši(ƛ)-ʼat
+kaamatʕiiḥšiʔat.
+kamatqʷ-ʼiːḥ-ši(ƛ)-ʼat
 running-pursuing-MOM-SHIFT
 they.are.running.after.him
 They (the British soldiers) ran after him (_qaaḥma_).
 
 # 129
-qaaḥma ʔukɬaamit,             yaqitii            t̓an̓ackʷi,        qaaḥma. saaʕaʔaaɬ.
-qaːḥma ʔu-kɬa·-mit            yaq-it-(y)iː       t̓an̓a-ckʷi·       qaːḥma  saːʕaʔaːɬ
+qaaḥma ʔukɬaamit,             yaqitii            t̓an̓ackʷi,        qaaḥma. saaʕaʔaaɬ.
+qaːḥma ʔu-kɬa·-mit            yaq-it-(y)iː       t̓an̓a-ckʷi·       qaːḥma  saːʕaʔaːɬ
 NAME   it-having.as.name-PAST he.who-PAST-INDF.3 child-remains.of NAME    NAME
 NAME   was.called             whoever.he.was     it.was.child     NAME    NAME
 His child’s name was _qaaḥma_ [Big Paul] {_qaaḥma_′s child was named after him}, a.k.a. _sa:ʕaʔa:ɬ_ {his family/ancestor’s name}.
 
 # 130
-t̓aapsʔatu       qaaḥma, č̓uq!
-t̓aps-ʼatu       qaːḥma  ~
+t̓aapsʔatu       qaaḥma, č̓uq!
+t̓aps-ʼatu       qaːḥma  ~
 dive-sink       NAME    ~
 dive.into.water NAME    ~
 _qaaḥma_ dove into the water. Chuq!
@@ -921,15 +921,15 @@ they.shot.him   ~     ~
 They (the British solders) shot at him.
 
 # 132
-qacc̓iiqp̓it         ʔuḥʔiš ʔaƛa, qum̓aakʷiʔat     ʔaḥʔaa, bullet yaaqḥʷʼaɬʔitq,    ƛ̓ičiʔat.
-qacc̓a-i·q-p̓it      ʔuḥʔiš ʔaƛa  qum̓aː-kʷi-ʼat   ʔaḥʔaː  ~      yaqʷ-ḥʷʼaɬ-ʔi·tq  ƛ̓i-či(ƛ)-ʼat
+qacc̓iiqp̓it         ʔuḥʔiš ʔaƛa, qum̓aakʷiʔat     ʔaḥʔaa, bullet yaaqḥʷʼaɬʔitq,    ƛ̓ičiʔat.
+qacc̓a-i·q-p̓it      ʔuḥʔiš ʔaƛa  qum̓aː-kʷi-ʼat   ʔaḥʔaː  ~      yaqʷ-ḥʷʼaɬ-ʔi·tq  ƛ̓i-či(ƛ)-ʼat
 three-scores-times and    two   amount-??-SHIFT that    ~      which-using-REL.3 shoot-MOM-SHIFT
 sixty.times        and    two   that.amount     that    ~      which.they.used   they.shot.him
 Sixty-two — that is the number of bullets they used to shoot him.
 
 # 133
-ʔana puxʷ̓isaʔi                      k̓ač̣aq.
-ʔana pux-w̓isa·-ʔi·                  k̓ač̣aq
+ʔana puxʷ̓isaʔi                      k̓acḥaq.
+ʔana pux-w̓isa·-ʔi·                  k̓acḥaq
 only float?-come.to.the.surface-DEF blanket
 only one.that.came.to.the.surface   blanket
 The only thing that came up to the surface was a blanket.
@@ -949,8 +949,8 @@ dove       ~    ~
 He (_qaaḥma_) dove. Chuq!
 
 # 136
-ʔaaḥʔasa       waaxniiʔis          č̓aastimcʔiṣ̌quu        t̓apsčiƛ.
-ʔaːḥʔasa       waːxniː-ʔis         č̓aːstimc-ʔis-(q)ḥ-quː t̓aps-či(ƛ)
+ʔaaḥʔasa       waaxniiʔis          č̓aastimcʔisḥquu       t̓apsčiƛ.
+ʔaːḥʔasa       waːxniː-ʔis         č̓aːstimc-ʔis-(q)ḥ-quː t̓aps-či(ƛ)
 it.seems.as.if land.otter-DIM      mink-DIM-SIM-COND.3   dive-MOM
 it.seems.as.if a.little.land.otter like.a.little.mink    dove
 He dove [really quick] just like a land otter or a mink.
@@ -963,15 +963,15 @@ it.was.far the.place.where at.the.rocky.point
 The rocky point [he was heading for] was far.
 
 # 138
-sayaa ḥaaɬ  nism̓a. c̓aaʔuʕaqƛis.
-saya· ḥaːɬ  nism̓a  c̓a-ʔuq-ʼaqƛ-ʔis
+sayaa ḥaaɬ  nism̓a. c̓aaʔuʕaqƛis.
+saya· ḥaːɬ  nism̓a  c̓a-ʔuq-ʼaqƛ-ʔis
 far   there land   flowing-??-inside-on.the.beach
 far   there land   slough
 That land, slough, was quite far.
 
 # 139
-huḥtak qaaḥma ʔin, qʷaaqʷaacy̓akʔitq       c̓aʔak.
-huḥtak qaːḥma ʔin  DUP-qʷaːc-y̓ak-ʔi·tq    c̓aʔak
+huḥtak qaaḥma ʔin, qʷaaqʷaacy̓akʔitq       c̓aʔak.
+huḥtak qaːḥma ʔin  DUP-qʷaːc-y̓ak-ʔi·tq    c̓aʔak
 know   NAME   that ??-??-useful.for-REL.3 river
 know   NAME   that its.condition          river
 _qaaḥma_ knew every inch of the river.
@@ -1005,8 +1005,8 @@ on.the.rock      the.small.island
 They (the British soldiers) were on the rock {the Napnit area}.
 
 # 145
-piḥšiƛits.
-piḥ-ši(ƛ)-it-s
+piḥšiƛits.
+piḥ-ši(ƛ)-it-s
 observe-MOM-PAST-1SG
 I.observed.it
 “I picked out the right one,” [_qaaḥma_ said.]
@@ -1040,8 +1040,8 @@ not all     not all     long.winded
 Not all of them were long-winded.
 
 # 150
-kamatʕaqƛ̓iƛ,         qaaḥma.
-kamatqʷ-ʼa·qƛ̓i(ƛ)    qaːḥma
+kamatʕaqƛ̓iƛ,         qaaḥma.
+kamatqʷ-ʼa·qƛ̓i(ƛ)    qaːḥma
 running-in.the.woods NAME
 ran.in.the.woods     NAME
 _qaaḥma_ ran into the woods.
@@ -1068,8 +1068,8 @@ alive alive
 He was alive.
 
 # 154
-kamatqšiƛ,    ʔucačiƛ      ḥuuɬ, hiɬḥuuʔasʔi.
-kamatqʷ-ši(ƛ) ʔu-ca-či(ƛ)  ḥuːɬ  hiɬ-ḥu·-ʼas-ʔi·
+kamatqšiƛ,    ʔucačiƛ      ḥuuɬ, hiɬḥuuʔasʔi.
+kamatqʷ-ši(ƛ) ʔu-ca-či(ƛ)  ḥuːɬ  hiɬ-ḥu·-ʼas-ʔi·
 running-MOM   it-go.to-MOM there there-in.front-on.the.ground-DEF
 run           went.to      there the.foot.of.the.mountain
 He ran over there to the foot of the mountain.
@@ -1082,8 +1082,8 @@ far   little.farther       however.far.it.was
 [Then] he went a little further.
 
 # 156
-čuu,     kʷisutaqtinƛ̓aqniš                      waaʔaƛ  ƛaʔuukʷiʔatḥʔi.
-čuː      kʷis-ut-a·qtu·-in(ƛ)-ʔaq-ni·š          wa·-ʼaƛ ƛaʔuːkʷiʔatḥ-ʔi·
+čuu,     kʷisutaqtinƛ̓aqniš                      waaʔaƛ  ƛaʔuukʷiʔatḥʔi.
+čuː      kʷis-ut-a·qtu·-in(ƛ)-ʔaq-ni·š          wa·-ʼaƛ ƛaʔuːkʷiʔatḥ-ʔi·
 now.then different-??-go.across-MOM-FUT-IND.1PL say-FIN Clayoquot-DEF
 now.then we.will.go.across.the.hill             said    the.Clayoquot.man
 “Now, we will go across the hill,” said the Clayoquot man.
@@ -1103,43 +1103,43 @@ walk.over      they.were.caught.doing    whoever.he.was  Indian  NAME    it.was.
 The British people walked over and got there when the native people — probably uncles of _yuxsitk_ (Big Jackson) — were there [= British people caught native people being there].
 
 # 159
-ʔaʔiič̓imckʷak             yuxsitk, ʔuč̣imtʔiš                yuxsitk yaqukʷitiis            naniiqsu,   kʷaatya.
-DUP-ʔiːč̓im-ckʷi·-ʔa·k     yuxsitk  ʔu-č̣i-imt-ʔi·š           yuxsitk yaqʷ-ukʷ-it-(y)iːs     naniːqsu    kʷaːtya
+ʔaʔiič̓imckʷak             yuxsitk, ʔucḥimtʔiš               yuxsitk yaqukʷitiis            naniiqsu,   kʷaatya.
+DUP-ʔiːč̓im-ckʷi·-ʔa·k     yuxsitk  ʔu-cḥi-imt-ʔi·š          yuxsitk yaqʷ-ukʷ-it-(y)iːs     naniːqsu    kʷaːtya
 DISTR-old-remains.of-POSS NAME     it-married.to-PAST-IND.3 NAME    who-POSS-PAST-INDF.1SG grandmother NAME
 his.ancestors             NAME     he.was.married.to.her    NAME    who.was.mine           grandmother NAME
 _yuxsitk_′s ancestor was married to my grandmother _kʷaatya_.
 
 # 160
-ḥaʔukʕiʔat,             mačinƛ      ƛaʔuukʷiʔatḥʔi.
-ḥaʔuk-ʕi(ƛ)-ʼat         mač-inƛ     ƛaʔuːkʷiʔatḥ-ʔi·
+ḥaʔukʕiʔat,             mačinƛ      ƛaʔuukʷiʔatḥʔi.
+ḥaʔuk-ʕi(ƛ)-ʼat         mač-inƛ     ƛaʔuːkʷiʔatḥ-ʔi·
 eat-come.upon-SHIFT     enter-MOM   Clayoquot-DEF
 they.caught.them.eating enter.house the.Clayoquot.man
 The Clayoquot man came into the house when they were eating.
 
 # 161
-k̓aḥkʷaʔap̓atuk                  ƛ̓aḥiqs       qʷinaakitiiʔaɬ,            qʷic̓uuʔakitiiʔaɬ                          huupaqʷanim.
-k̓aḥ-kʷa-ʼap-ʼat-uk             ƛ̓aḥ-iqs      qʷi-na·k-it-(y)iː-ʔa·ɬ     qʷi-c̓u·-ʔa·k-it-(y)iː-ʔa·ɬ                hupaqʷ-anim
+k̓aḥkʷaʔap̓atuk                  ƛ̓aḥiqs       qʷinaakitiiʔaɬ,            qʷic̓uuʔakitiiʔaɬ                          huupaqʷanim.
+k̓aḥ-kʷa-ʼap-ʼat-uk             ƛ̓aḥ-iqs      qʷi-na·k-it-(y)iː-ʔa·ɬ     qʷi-c̓u·-ʔa·k-it-(y)iː-ʔa·ɬ                hupaqʷ-anim
 split-dispersed-CAUS-SHIFT-DUR flatwise-box what-having-PAST-INDF.3-PL what-inside.container-POSS-PAST-INDF.3-PL ??-bring.along
 broke.into.pieces              box          whatever.they.own          whatever.theirs.in.the.box                chest.box
 They broke into pieces all the boxes and whatever [valuable things] they kept in their chests.
 
 # 162
-wukʷiƛ   ƛaʔuukʷiʔatḥʔi,   ʕakʷaašt              ʔaaniiƛ.
-sukʷi(ƛ) ƛaʔuːkʷiʔatḥ-ʔi·  ʕaːkʷ-a·št            ʔana-i·ƛ
+wukʷiƛ   ƛaʔuukʷiʔatḥʔi,   ʕakʷaašt              ʔaaniiƛ.
+sukʷi(ƛ) ƛaʔuːkʷiʔatḥ-ʔi·  ʕaːkʷ-a·št            ʔana-i·ƛ
 take     Clayoquot-DEF     dog.salmon-dried.food only-take
 take     the.Clayoquot.man dried.salmon          took.only
 The Clayoquot man only took dried salmon.
 
 # 163
-waasiḥ        waaʔat     kaʔupšiʔat,       waasiḥ        kapčaa.
-waːsi-ḥ       wa·-ʼat    kaʔup-ši(ƛ)-ʼat   waːsi-ḥ       kapčaː
+waasiḥ        waaʔat     kaʔupšiʔat,       waasiḥ        kapčaa.
+waːsi-ḥ       wa·-ʼat    kaʔup-ši(ƛ)-ʼat   waːsi-ḥ       kapčaː
 where-INTER.3 say-SHIFT  mention-MOM-SHIFT where-INTER.3 NAME
 where.is.he   they.asked mentioned         where.is.he   NAME
 “Where is he,” they asked them, mentioning his name, “Where is _kapčaa_.”
 
 # 164
-waa hayimḥiniš              hiɬii        waaʔaƛ.
-wa· hayim-ḥi·-ni·š          hiɬ-(y)iː    wa·-ʼaƛ
+waa hayimḥiniš              hiɬii        waaʔaƛ.
+wa· hayim-ḥi·-ni·š          hiɬ-(y)iː    wa·-ʼaƛ
 and not.knowing-DUR-IND.1PL there-INDF.3 say-FIN
 and we.dont.know            wherever     said
 Then they said, “We don’t know where he would be.”
@@ -1152,22 +1152,22 @@ they.went.back.over.the.hill the.British.soldiers go.back.over.the.hill early.ev
 The British soldiers went back over the hill when it got dark.
 
 # 166
-x̣ickʷaʔap̓atuk                     maḥt̓iiʔakitʔi.      x̣ickʷačiƛ.            wik̓iitšiƛ.
-šic-kʷa-ʼap-ʼat-uk                maḥt̓iː-ʔa·k-it-ʔi·  x̣ic-kʷa-či(ƛ)         wik̓iːt-ši(ƛ)
+x̣ickʷaʔap̓atuk                     maḥt̓iiʔakitʔi.      x̣ickʷačiƛ.            wik̓iitšiƛ.
+šic-kʷa-ʼap-ʼat-uk                maḥt̓iː-ʔa·k-it-ʔi·  x̣ic-kʷa-či(ƛ)         wik̓iːt-ši(ƛ)
 crushed-dispersed-CAUS-SHIFT-POSS house-POSS-PAST-DEF crushed-dispersed-MOM none.present-MOM
 crushed.into.pieces               their.houses        crushed.into.pieces   become.none
 They completely demolished all of their (native people’s) houses and killed off the people.
 
 # 167
-k̓aḥšiƛ.   k̓aḥkʷačiƛ       č̓apac qum̓aamitii.                   k̓aḥkʷaʔap̓atuk,
-k̓aḥ-ši(ƛ) k̓aḥ-kʷa-či(ƛ)   č̓apac qum̓aː-mit-(y)iː               k̓aḥ-kʷa-ʼap-ʼat-uk
+k̓aḥšiƛ.   k̓aḥkʷačiƛ       č̓apac qum̓aamitii.                   k̓aḥkʷaʔap̓atuk,
+k̓aḥ-ši(ƛ) k̓aḥ-kʷa-či(ƛ)   č̓apac qum̓aː-mit-(y)iː               k̓aḥ-kʷa-ʼap-ʼat-uk
 split-MOM split-apart-MOM canoe amount-PAST-INDF.3            split-apart-CAUS-SHIFT-DUR
 split     split.up        canoe how.many.they.might.have.been split.apart
 They split up all of the canoes. They split them in half.
 
 # 168
-ʔuʔumḥičiƛwaʔiš         quuʔasʔi.      takstiisckʷi.
-ʔuʔumḥi-či(ƛ)-wa·ʔi·š   quːʔas-ʔi·     tak-sti·s-ckʷi·
+ʔuʔumḥičiƛwaʔiš         quuʔasʔi.      takstiisckʷi.
+ʔuʔumḥi-či(ƛ)-wa·ʔi·š   quːʔas-ʔi·     tak-sti·s-ckʷi·
 just.right-MOM-QUOT.3   Indian-DEF     headed.to-move.into.the.interior-done
 he.was.just.in.time.for the.Indian.man went.into.the.inlet
 The Indian man [who happened to be away from the village] came at the right moment [for the favorable tide] and got into the inlet.
@@ -1208,8 +1208,8 @@ went.to      NAME          called
 He went there — it’s called _ʕiiʕiiɬmak̓ʷas_.
 
 # 175
-c̓aaʔuʕaqƛisʔiš                       ʔaḥ.
-c̓a-ʔuq-ʼaqƛ-ʔis-ʔi·š                 ʔaḥ
+c̓aaʔuʕaqƛisʔiš                       ʔaḥ.
+c̓a-ʔuq-ʼaqƛ-ʔis-ʔi·š                 ʔaḥ
 flowing-??-inside-on.the.beach-IND.3 this
 the.tide.goes.in                     this
 Here the current goes in and out [as the tide changes].
@@ -1222,15 +1222,15 @@ went.just.in.time.again          the.tide.gets.high high.tide
 He got there just in time for the high tide. {One can only go through the channel when the tide is high.}
 
 # 177
-haptšiƛ       ḥuuɬ   hiinaan̓uɬ.
-hapt-ši(ƛ)    ḥuːɬ   hin-a·n̓uɬ
+haptšiƛ       ḥuuɬ   hiinaan̓uɬ.
+hapt-ši(ƛ)    ḥuːɬ   hin-a·n̓uɬ
 in.hiding-MOM yonder there.MOM-up.the.river
 hid           yonder up.the.river
 He hid over there up river.
 
 # 178
-c̓aʔakʔisʔiš            ʔaḥʔaa. haptšiƛ.
-c̓aʔak-ʔis-ʔi·š         ʔaḥʔaː  hapt-ši(ƛ)
+c̓aʔakʔisʔiš            ʔaḥʔaa. haptšiƛ.
+c̓aʔak-ʔis-ʔi·š         ʔaḥʔaː  hapt-ši(ƛ)
 river-DIM-IND.3        that    in.hiding-MOM
 there.is.a.small.river that    hid
 This is a little creek. {GL indicated the position by drawing a map.} He hid there.
@@ -1243,8 +1243,8 @@ went.back             Chetarpe
 He went back to Chetarpe.
 
 # 180
-hity̓atḥ,       ʔayaʔatḥ,     č̓itaapi.
-hiɬ-ʼatḥ       ʔaya-ʼatḥ     č̓itaːpi
+hity̓atḥ,       ʔayaʔatḥ,     č̓itaapi.
+hiɬ-ʼatḥ       ʔaya-ʼatḥ     č̓itaːpi
 here-residing  many-residing Chetarpe
 where.he.lives many.live     Chetarpe
 He and many other people lived in Chetarpe.
@@ -1257,22 +1257,22 @@ shooting.repeatedly land.on.the.beach
 They were shooting repeatedly [to give signals] and landed on the beach.
 
 # 182
-k̓aḥkʷačiƛ       č̓apac.
-k̓aḥ-kʷa-či(ƛ)   č̓apac
+k̓aḥkʷačiƛ       č̓apac.
+k̓aḥ-kʷa-či(ƛ)   č̓apac
 split-apart-MOM canoe
 split.up        canoe
 They split up canoes.
 
 # 183
-ƛaʔasitwaʔiš                          hiy̓iis             ʔaḥʔaa. yaaqʷiɬʔanitiiʔaaɬ                         waaʔat,      ƛaakišpiʔiɬ.                                ƛaakišipiʔiɬ.                  [totem pole.]
-ƛa-ʼas-it-wa·ʔi·š                     hiɬ-ʽi·s           ʔaḥʔaː  yaqʷ-iɬ-ʼat-it-(y)iː-ʔaːɬ                  wa·-ʼat      ƛakiš-pi-ʽiɬ                                ƛakiš-pi-ʽiɬ                   ~
+ƛaʔasitwaʔiš                          hiy̓iis             ʔaḥʔaa. yaaqʷiɬʔanitiiʔaaɬ                         waaʔat,      ƛaakišpiʔiɬ.                                ƛaakišipiʔiɬ.                  [totem pole.]
+ƛa-ʼas-it-wa·ʔi·š                     hiɬ-ʽi·s           ʔaḥʔaː  yaqʷ-iɬ-ʼat-it-(y)iː-ʔaːɬ                  wa·-ʼat      ƛakiš-pi-ʽiɬ                                ƛakiš-pi-ʽiɬ                   ~
 sticking.up-on.the.ground-PAST-QUOT.3 there-on.the.beach that    which-with.ref.to-SHIFT-PAST-INDF.3-always say-SHIFT    standing-upright?-in.the.house              standing-upright?-in.the.house ~
 it.was.standing.up.on.the.ground      on.the.beach       that    to.which.they                              it.is.called standing.upright.at.the.center.of.the.house ~
 There was a post, a totem pole, standing on the beach which they called Standing-Up-At-The-Center-Of-The-House.
 
 # 185
-c̓awaak nay̓aqak    ʔuuḥuuɬitwaʔiš.
-c̓awaːk nay̓aq-ak   ʔu-L-ḥu·ɬ-it-wa·ʔi·š
+c̓awaak nay̓aqak    ʔuuḥuuɬitwaʔiš.
+c̓awaːk nay̓aq-ak   ʔu-L-ḥu·ɬ-it-wa·ʔi·š
 one    child-POSS it-??-in.front-PAST-QUOT.3
 one    his.child  holding.in.front
 [On the pole] there was [the crest which has] one child in front held in arms.
@@ -1292,15 +1292,15 @@ burned.down.the.house
 The houses burned down.
 
 # 188
-wiikmaɬ       maḥt̓ii. wiikmaɬ.
-wik-maɬ       maḥt̓iː  wik-maɬ
+wiikmaɬ       maḥt̓ii. wiikmaɬ.
+wik-maɬ       maḥt̓iː  wik-maɬ
 not-surviving house   not-surviving
 none.survived house   none.survived
 There were none left. None.
 
 # 189
-kamatʕaqƛ̓asitʔaɬ,            ʔucačiʔaƛ        maaqtusiis, ʕaaḥuusʔatḥ yaaqʷiɬʔitq             waaʔat,      qucačiƛ.
-kamatqʷ-ʼa·qƛ̓as-it-ʔa·ɬ      ʔu-ca-či(ƛ)-ʼaƛ  maːqtusiːs  ʕaːḥuːsʔatḥ yaqʷ-(č)iɬ-ʔi·tq        wa·-ʼat      ʔu-ca-či(ƛ)
+kamatʕaqƛ̓asitʔaɬ,            ʔucačiʔaƛ        maaqtusiis, ʕaaḥuusʔatḥ yaaqʷiɬʔitq             waaʔat,      qucačiƛ.
+kamatqʷ-ʼa·qƛ̓as-it-ʔa·ɬ      ʔu-ca-či(ƛ)-ʼaƛ  maːqtusiːs  ʕaːḥuːsʔatḥ yaqʷ-(č)iɬ-ʔi·tq        wa·-ʼat      ʔu-ca-či(ƛ)
 running-in.the.woods-PAST-PL it-go.to-MOM-FIN Maaqtusiis  Ahousaht    which-with.ref.to-REL.3 say-SHIFT    it-go.to-MOM
 they.ran.into.the.woods      went.to          Maaqtusiis  Ahousaht    with.ref.to.which       it.is.called went.to
 They (villagers) ran into the woods headed for Maaqtusiis, the place they call Ahousat.
@@ -1334,8 +1334,8 @@ hear   watch                       it.is.done.so
 He heard and saw whatever they (the British people) were doing.
 
 # 194
-wiikmaɬ       maḥt̓ii. wik̓iit       maḥt̓ii. hišuk   č̓apac, kiƛkʷačiƛ,                    k̓aḥyaqis.
-wik-maɬ       maḥt̓iː  wik̓iːt       maḥt̓iː  hiš-uk  č̓apac  kiƛ-kʷa-či(ƛ)                 k̓aḥ-yaq-ʔis
+wiikmaɬ       maḥt̓ii. wik̓iit       maḥt̓ii. hišuk   č̓apac, kiƛkʷačiƛ,                    k̓aḥyaqis.
+wik-maɬ       maḥt̓iː  wik̓iːt       maḥt̓iː  hiš-uk  č̓apac  kiƛ-kʷa-či(ƛ)                 k̓aḥ-yaq-ʔis
 not-surviving house   none.present house   all-DUR canoe  get.shattered-in.pieces-MOM   split-done-on.the.beach
 none.survived house   none.present house   all     canoe  it.became.shattered.in.pieces split.into.half
 They demolished all the houses, killed everybody, and broke all the canoes into pieces or split them in half.
@@ -1376,15 +1376,15 @@ returned
 They (the British soldiers) went back [to the Tofino area].
 
 # 200
-ƛaʔuukʷiʔatḥ ʔuusʔaƛƛa.
-ƛaʔuːkʷiʔatḥ ʔu-a·s-ʼaƛ-ƛa·
+ƛaʔuukʷiʔatḥ ʔuusʔaƛƛa.
+ƛaʔuːkʷiʔatḥ ʔu-a·s-ʼaƛ-ƛa·
 Clayoquot    it-on.board-FIN-again
 Clayoquot    got.on.board.again
 The Clayoquot man came on board again.
 
 # 201
-ḥampi       yaqʔiitq, ʕaaḥuusʔatḥ. ḥamip.
-ḥamip       yaq-ʔi·tq ʕaːḥuːsʔatḥ  ḥamip
+ḥampi       yaqʔiitq, ʕaaḥuusʔatḥ. ḥamip.
+ḥamip       yaq-ʔi·tq ʕaːḥuːsʔatḥ  ḥamip
 recognizing who-REL.3 Ahousaht     recognizing
 recognized  one.who   Ahousaht     recognized
 He recognized the Ahousaht boy.
@@ -1404,15 +1404,15 @@ Tofino ʔuʔiiyačišt
 They were at Tofino.
 
 # 204
-hinaačiʔaƛ                   ƛaʔuukʷiʔatḥ. hinaačiƛ,                minwaaʔathʔi.
-hin-a·či(ƛ)-ʼaƛ              ƛaʔuːkʷiʔatḥ  hin-a·či(ƛ)              minwaːʔath-ʔi·
+hinaačiʔaƛ                   ƛaʔuukʷiʔatḥ. hinaačiƛ,                minwaaʔathʔi.
+hin-a·či(ƛ)-ʼaƛ              ƛaʔuːkʷiʔatḥ  hin-a·či(ƛ)              minwaːʔath-ʔi·
 there.MOM-go.out.to.meet-FIN Clayoquot     there.MOM-go.out.to.meet British.soldiers-DEF
 went.out.to.meet             Clayoquot     went.out.to.meet         the.British.soldiers
 The Clayoquots went [in their canoes] out to sea to meet the British soldiers.
 
 # 205
-ḥamipšiʔat,           miimixt.
-ḥamip-ši(ƛ)-ʼat       miːmixt
+ḥamipšiʔat,           miimixt.
+ḥamip-ši(ƛ)-ʼat       miːmixt
 recognizing-MOM-SHIFT NAME
 recognized.him        NAME
 They recognized _miimixt_.
@@ -1432,15 +1432,15 @@ NAME  being.named       NAME
 His [other] name was Keitlah, or _kiɬamaxin_.
 
 # 208
-sukʷiƛ,  ḥaw̓iɬuk     ƛaʔuukʷiʔatḥ,. yaqckʷiiʔaƛii             [Chief Joseph] waaʔanitʔišʔaaɬ,            m̓ukʷina. sukʷiƛ,  miimixt.
-sikʷi(ƛ) ḥaw̓iɬ-uk    ƛaʔuːkʷiʔatḥ   yaq-ckʷi·-ʼaƛ-(y)iː       ~              wa·-ʼat-it-ʔi·š-ʔaːɬ        m̓ukʷina  sukʷi(ƛ) miːmixt
+sukʷiƛ,  ḥaw̓iɬuk     ƛaʔuukʷiʔatḥ,. yaqckʷiiʔaƛii             [Chief Joseph] waaʔanitʔišʔaaɬ,            m̓ukʷina. sukʷiƛ,  miimixt.
+sikʷi(ƛ) ḥaw̓iɬ-uk    ƛaʔuːkʷiʔatḥ   yaq-ckʷi·-ʼaƛ-(y)iː       ~              wa·-ʼat-it-ʔi·š-ʔaːɬ        m̓ukʷina  sukʷi(ƛ) miːmixt
 take     chief-POSS  Clayoquot      who-remains.of-FIN-INDF.3 ~              say-SHIFT-PAST-IND.3-always NAME     take     NAME
 take     their.chief Clayoquot      who.is.the.descendant.of  ~              they.called.him             Maquinna take     NAME
 The Clayoquot chief — who is a descendant of the chief is called Chief Joseph, a.k.a. Maquinna — he took the boy with him. He took _miimixt_.
 
 # 209
-tuuḥšiƛ,   čuuwin. tuuḥšiƛ.
-tuːḥ-ši(ƛ) čuːwin  tuːḥ-ši(ƛ)
+tuuḥšiƛ,   čuuwin. tuuḥšiƛ.
+tuːḥ-ši(ƛ) čuːwin  tuːḥ-ši(ƛ)
 afraid-MOM NAME    afraid-MOM
 got.scared NAME    got.scared
 [The Clayoquot chief tried to take _čuuwin_, too, but] _čuuwin_ got scared [and kept eluding the Clayoquot chief].
@@ -1460,8 +1460,8 @@ I.am.old     I.dont.care        said
 “I am an old man. I don’t care [what happens to me],” he said.
 
 # 212
-yaqy̓iiḥaʔitq              čuuwin, ḥaʔak̓at        ɬim̓aqsti, ḥaaw̓iɬaƛ̓i.
-yaq-y̓i·ḥa-ʔi·tq           čuːwin  ḥaʔak-ʼat      ɬim̓aqsti  ḥaːw̓iɬaƛ-ʔi·
+yaqy̓iiḥaʔitq              čuuwin, ḥaʔak̓at        ɬim̓aqsti, ḥaaw̓iɬaƛ̓i.
+yaq-y̓i·ḥa-ʔi·tq           čuːwin  ḥaʔak-ʼat      ɬim̓aqsti  ḥaːw̓iɬaƛ-ʔi·
 which-on.account.of-REL.3 NAME    strong-POSS    mind      young.man-DEF
 on.account.of.which       NAME    his.was.strong mind      the.young.man
 Young _čuuwin_ felt brave thanks to him [the old man].
@@ -1474,8 +1474,8 @@ they.took.him
 They took him.
 
 # 214
-ḥaʔakʔanits          ɬim̓aqsti waaʔaƛquuč         mixtukʔi,      ʔuyiʔaƛ̓atquuč                 naqsaap̓at,          qʷišaa.
-ḥaʔak-ʼat-it-s       ɬim̓aqsti waː-ʼaƛ-quː-č      mixt-uk-ʔi·    ʔu-yi-ʼaƛ-ʼat-quː-č           naq-sa·p-ʼat        qʷiš-(y)a·
+ḥaʔakʔanits          ɬim̓aqsti waaʔaƛquuč         mixtukʔi,      ʔuyiʔaƛ̓atquuč                 naqsaap̓at,          qʷišaa.
+ḥaʔak-ʼat-it-s       ɬim̓aqsti waː-ʼaƛ-quː-č      mixt-uk-ʔi·    ʔu-yi-ʼaƛ-ʼat-quː-č           naq-sa·p-ʼat        qʷiš-(y)a·
 strong-POSS-PAST-1SG mind     say-FIN-COND.3-INF aged-DUR-DEF   it-give?-FIN-SHIFT-COND.3-INF drink-MOMCAUS-SHIFT smoking-CONT
 I.was.strong         mind     used.to.say        the.old.person they.used.to.give             serve.a.drink       tobacco
 “I was brave. They made me drink tabacco [and I was brave enough to actually drink it],” the old man used to say.
@@ -1488,15 +1488,15 @@ tea he.was.probably.served        thus  drink.tea
 It was probably tea that he was served. He had tea.
 
 # 216
-ʔuqɬaap̓aƛwaʔiš       ʔaḥ  ʔuʔiic̓ap̓atq,                [chewing tobacco] quuʔasʔi.
-ʔuqɬaːp-ʼaƛ-wa·ʔi·š  ʔaḥ  ʔu-ʼi·c-ʼap-ʼat-q           ~                 quːʔas-ʔi·
+ʔuqɬaap̓aƛwaʔiš       ʔaḥ  ʔuʔiic̓ap̓atq,                [chewing tobacco] quuʔasʔi.
+ʔuqɬaːp-ʼaƛ-wa·ʔi·š  ʔaḥ  ʔu-ʼi·c-ʼap-ʼat-q           ~                 quːʔas-ʔi·
 believing-FIN-QUOT.3 this it-consume-CAUS-SHIFT-SUB.3 ~                 Indian-DEF
 thought              this he.was.served.it            ~                 the.native.person
 This native man thought he was given chewing tobacco [when he saw tea leaves at the bottom of his cup].
 
 # 217
-qaaḥsap̓atsaaš                         waaʔaƛquuč.
-qaḥ-sap-ʼat-saːš                      wa·-ʼaƛ-quː-č
+qaaḥsap̓atsaaš                         waaʔaƛquuč.
+qaḥ-sap-ʼat-saːš                      wa·-ʼaƛ-quː-č
 dead-GRADCAUS-SHIFT-INFER.1SG?        say-FIN-COND.3-INF
 apparently.they.were.going.to.kill.me he.used.to.say
 “They must have been trying to kill me,” he used to say.
@@ -1530,43 +1530,43 @@ sail.out
 They departed.
 
 # 222
-ƛiḥšiƛ                  waaʔap̓is,
-ƛiḥ-ši(ƛ)               wa·-ʼap-ʼi·s
+ƛiḥšiƛ                  waaʔap̓is,
+ƛiḥ-ši(ƛ)               wa·-ʼap-ʼi·s
 traveling.in.vessel-MOM say-CAUS-IMP.1SG
 sailed.away             suppose.I.say
 I could say “sailed away”.
 
 # 223
-ƛiiḥšiƛ,                      qʷaamitii          ʔinkʷasitquu.             ʔinkʷasckʷimatakʔaƛ,            pitišʔatḥ.
-ƛiḥ-ši(ƛ)                     qʷaː-mit-(y)iː     ʔinkʷ-as-it-quː           ʔinkʷ-as-ckʷi·-matak-ʼaƛ        pitiš-ʼatḥ
+ƛiiḥšiƛ,                      qʷaamitii          ʔinkʷasitquu.             ʔinkʷasckʷimatakʔaƛ,            pitišʔatḥ.
+ƛiḥ-ši(ƛ)                     qʷaː-mit-(y)iː     ʔinkʷ-as-it-quː           ʔinkʷ-as-ckʷi·-matak-ʼaƛ        pitiš-ʼatḥ
 traveling.in.vessel-GRAD      thus-PAST-INDF.3   fire-on.board-PAST-COND.3 fire-on.board-done-probably-FIN British-people.from
 started.to.travel.in.a.vessel it.might.have.been steam.boat                it.was.probably.a.steam.boat    British.people
 The British people were sailing away — maybe on a steam boat. It was probably a steam boat.
 
 # 224
-pitiš.  pitiš   waa, minwaaʔatḥ.      pitiš.  wicikʔaɬ               Britiš waa. pitiš.  pitiš.
+pitiš.  pitiš   waa, minwaaʔatḥ.      pitiš.  wicikʔaɬ               Britiš waa. pitiš.  pitiš.
 pitiš   pitiš   wa·  minwaːʔath       pitiš   wicik-ʔa·ɬ             ~      wa·  pitiš   pitiš
 British British say  British.soldiers British incapable.of-PL        ~      say  British British
 British British say  British.soldiers British they.were.incapable.of ~      say  British British
 They called British Navy soldiers “_pitiš_”. They couldn’t say “British”.
 
 # 225
-aqukʷitii,           yaqckʷiiyii,          [King George] waaʔaƛ̓anitʔaaɬ            ƛaḥ,   [nineteen twenty] , [early nineteen twenties]
-yaq-ukʷ-it-(y)iː     yaq-ckʷi·-(y)iː       ~             wa·-ʼaƛ-ʼat-it-ʔaːɬ       ƛaḥ    ~                 ~
+aqukʷitii,           yaqckʷiiyii,          [King George] waaʔaƛ̓anitʔaaɬ            ƛaḥ,   [nineteen twenty] , [early nineteen twenties]
+yaq-ukʷ-it-(y)iː     yaq-ckʷi·-(y)iː       ~             wa·-ʼaƛ-ʼat-it-ʔaːɬ       ƛaḥ    ~                 ~
 who-POSS-PAST-INDF.3 who-remains.of-INDF.3 ~             say-FIN-SHIFT-PAST-always recent ~                 ~
 whoever.owns         descendants.of.whom   ~             they.used.to.call         recent ~                 ~
 The person on the throne and his descendants were called “King George” recently — early 1920′s.
 
 # 226
-kinčoočʔatḥniš                  waaʔaƛquu      quuʔas.
-kinčoːč-ʼatḥ-ni·š               waː-ʼaƛ-quː    quːʔas
+kinčoočʔatḥniš                  waaʔaƛquu      quuʔas.
+kinčoːč-ʼatḥ-ni·š               waː-ʼaƛ-quː    quːʔas
 King.George-people.from-IND.1PL say-FIN-COND.3 Indian
 we.are.King.George.people       used.to.say    Indian
 Native people used to say “We are King George people”.
 
 # 227
-ʔiiḥcamisʔap.    ʔuy̓iiḥaƛƛa                ʔiḥcamisʔap,     ƛ̓iḥmaɬqim.
-ʔiːḥʷ-camis-ʼap  ʔu-y̓i·ḥa-ʼaƛ-ƛa·          ʔiːḥʷ-camis-ʼap  ƛ̓iḥmaɬqim
+ʔiiḥcamisʔap.    ʔuy̓iiḥaƛƛa                ʔiḥcamisʔap,     ƛ̓iḥmaɬqim.
+ʔiːḥʷ-camis-ʼap  ʔu-y̓i·ḥa-ʼaƛ-ƛa·          ʔiːḥʷ-camis-ʼap  ƛ̓iḥmaɬqim
 great-thing-CAUS it-on.account.of-FIN-also great-thing-CAUS flag
 took.seriously   also.on.account.of.it     took.seriously   flag
 They took the [British] flag very seriously.
@@ -1586,15 +1586,15 @@ something.extraordinary.happened.again
 They were also really excited [about the flag].
 
 # 230
-ḥaw̓iɬukʷit,     yaʕaƛitii           Benson kapčaa, ʔunaak    ʔuyiiʔaƛ̓atƛa,          [Union Jack] .
-ḥaw̓iɬ-uk-it     yaq-ʼaƛ-it-(y)iː    ~      kapčaː  ʔu-na·k   ʔu-(y)i·-ʼaƛ-ʼat-ƛa·   ~
+ḥaw̓iɬukʷit,     yaʕaƛitii           Benson kapčaa, ʔunaak    ʔuyiiʔaƛ̓atƛa,          [Union Jack] .
+ḥaw̓iɬ-uk-it     yaq-ʼaƛ-it-(y)iː    ~      kapčaː  ʔu-na·k   ʔu-(y)i·-ʼaƛ-ʼat-ƛa·   ~
 chief-POSS-PAST who-FIN-PAST-INDF.3 ~      NAME    it-having it-give-FIN-SHIFT-also ~
 former.chief.of who.was             ~      NAME    having    he.was.also.given      ~
 The former chief Benson, _kapčaa_ had one. He was also given the Union Jack.
 
 # 231
-ʔuḥʷaaʔiš    ʔaqʔištiik,      sword.
-ʔuḥ-wa·-ʔi·š ʔaqi-ʔišt-(y)iːk ~
+ʔuḥʷaaʔiš    ʔaqʔištiik,      sword.
+ʔuḥ-wa·-ʔi·š ʔaqi-ʔišt-(y)iːk ~
 ??-??-??     what-??-INDF.2SG ~
 and.also     what.do.you.call ~
 He had a sword, too.
@@ -1621,15 +1621,15 @@ they.took.him.back.to taken.as.far.as            Tofino  they.dropped.him.off
 They took him back as far as Tofino and dropped him off there.
 
 # 235
-ʔiicʔiiqḥaƛ    qʷaaʔap̓anitiič.
-ʔiːcʔiːqḥ-ʼaƛ  qʷaː-ʼap-ʼat-it-(y)iː-č
+ʔiicʔiiqḥaƛ    qʷaaʔap̓anitiič.
+ʔiːcʔiːqḥ-ʼaƛ  qʷaː-ʼap-ʼat-it-(y)iː-č
 tell.story-FIN thus-CAUS-SHIFT-PAST-INDF.3-INF
 tell.a.story   how.they.treated.him
 He told his people about the way they treated him.
 
 # 236
-ʔuqɬaapckʷi    qaḥsaapw̓it̓asʔatq,                 ʔatquu          ʔaniic̓ap̓at,             tea waaʔatquu.       tea.
-ʔuqɬaːp-ckʷi·  qaḥ-sa·p-w̓it̓as-ʼat-q              ʔat-quː         ʔana-ʼi·c-ʼap-ʼat       ~   waː-ʼat-quː      ~
+ʔuqɬaapckʷi    qaḥsaapw̓it̓asʔatq,                 ʔatquu          ʔaniic̓ap̓at,             tea waaʔatquu.       tea.
+ʔuqɬaːp-ckʷi·  qaḥ-sa·p-w̓it̓as-ʼat-q              ʔat-quː         ʔana-ʼi·c-ʼap-ʼat       ~   waː-ʼat-quː      ~
 believing-done dead-MOMCAUS-about.to-SHIFT-SUB.3 although-COND.3 only-consume-CAUS-SHIFT ~   say-SHIFT-COND.3 ~
 thought        they.are.going.to.kill.him        although        being.served.only       ~   you.could.say    ~
 He thought they were going to kill him [by making him drink tobacco] although they only served him tea.
@@ -1649,15 +1649,15 @@ because only      only.thing.they.had drink       British.soldiers rum     say  
 Because the only thing British Navy soldiers had was liquor, i.e. rum — Indian people called it “_nam_”.
 
 # 239
-ʔuʔiic̓ap̓aƛ̓atquuč                     c̓aaḥʔii,       x̣ax̣ašk̓uk                   ʔuʔukʷiɬna.              piskitckʷimatakuk.
-ʔu-ʼi·c-ʼap-ʼaƛ-ʼat-quː-č            c̓aːḥ-ʔi·       x̣ax̣aš-k̓uk                  DUP-ʔu-kʷiɬ-na           piskit-ckʷi·-matak-uk
+ʔuʔiic̓ap̓aƛ̓atquuč                     c̓aaḥʔii,       x̣ax̣ašk̓uk                   ʔuʔukʷiɬna.              piskitckʷimatakuk.
+ʔu-ʼi·c-ʼap-ʼaƛ-ʼat-quː-č            c̓aːḥ-ʔi·       x̣ax̣aš-k̓uk                  DUP-ʔu-kʷiɬ-na           piskit-ckʷi·-matak-uk
 it-consume-CAUS-FIN-SHIFT-COND.3-INF hard-DEF       sand.dollar-resembling     DISTR-it-with.ref.to-1PL biscuit-done-probably-DUR
 they.used.to.serve.him               the.hard.thing one.resembling.sand.dollar we.call                  it.was.probably.biscuit
 They used to serve him the hard thing — we called it Thing-Resembling-Sand-Dollar — it was probably biscuits.
 
 # 240
-ʔuʔiic̓ap̓aƛ̓atquuč                     ḥusp̓aɬʔi.          c̓isqmis    ḥusp̓aɬ.
-ʔu-ʼi·c-ʼap-ʼaƛ-ʼat-quː-č            ḥus-p̓aɬ-ʔi·        c̓isq-mis   ḥus-p̓aɬ
+ʔuʔiic̓ap̓aƛ̓atquuč                     ḥusp̓aɬʔi.          c̓isqmis    ḥusp̓aɬ.
+ʔu-ʼi·c-ʼap-ʼaƛ-ʼat-quː-č            ḥus-p̓aɬ-ʔi·        c̓isq-mis   ḥus-p̓aɬ
 it-consume-CAUS-FIN-SHIFT-COND.3-INF salty-taste.of-DEF meat-thing salty-taste.of
 they.used.to.serve.him               the.salty.thing    meat       salty
 They used to serve him salty things — salty meat.
@@ -1670,29 +1670,29 @@ They used to serve him salty things — salty meat.
 Probably he was served salt pork.
 
 # 242
-ʔaḥʔaa qʷisitwaʔiš.      c̓awaakitwaʔišča       ɬuucma, ɬuucmumtquu,        k̓aḥyaqisʔap̓anitwaʔiš.                          k̓aḥyuu.
-ʔaḥʔaː qʷis-it-wa·ʔi·š   c̓awaːk-it-wa·ʔi·š-ča  ɬuːcma  ɬuːcma-umt-quː      k̓aḥ-yaq-ʔis-ʼap-ʼat-it-wa·ʔi·š                 k̓aḥ-yu·
+ʔaḥʔaa qʷisitwaʔiš.      c̓awaakitwaʔišča       ɬuucma, ɬuucmumtquu,        k̓aḥyaqisʔap̓anitwaʔiš.                          k̓aḥyuu.
+ʔaḥʔaː qʷis-it-wa·ʔi·š   c̓awaːk-it-wa·ʔi·š-ča  ɬuːcma  ɬuːcma-umt-quː      k̓aḥ-yaq-ʔis-ʼap-ʼat-it-wa·ʔi·š                 k̓aḥ-yu·
 that   do.so-PAST-QUOT.3 one-PAST-QUOT.3-maybe woman   woman-PAST?-COND.3  split-done-on.the.beach-CAUS-SHIFT-PAST-QUOT.3 split-done
 that   what.happened     there.was.maybe.one   woman   one.who.was.a.woman she.was.split.in.half.on.the.beach             split
 This actually happened. It was probably a woman — a female body was split right in half.
 
 # 243
-n̓usx̣is           niiʕaḥs.
-n̓usx̣-is          hiːʕaḥs
+n̓usx̣is           niiʕaḥs.
+n̓usx̣-is          hiːʕaḥs
 get.scattered-?? innards
 get.scattered    innards
 Her innards were scattered all over on the side.
 
 # 244
-ʔiič̓imʔis  k̓aḥyaqisʔap̓anitwaʔiš                           niistiƛ ʔaḥ  qaan̓imʔatʔi.
-ʔiːč̓im-ʔis k̓aḥ-yaq-ʔis-ʼap-ʼat-it-wa·ʔi·š                 hiːstiƛ ʔaḥ  qaːn̓im-ʼat-ʔi·
+ʔiič̓imʔis  k̓aḥyaqisʔap̓anitwaʔiš                           niistiƛ ʔaḥ  qaan̓imʔatʔi.
+ʔiːč̓im-ʔis k̓aḥ-yaq-ʔis-ʼap-ʼat-it-wa·ʔi·š                 hiːstiƛ ʔaḥ  qaːn̓im-ʼat-ʔi·
 old-DIM    split-done-on.the.beach-CAUS-SHIFT-PAST-QUOT.3 from    here private.part-POSS-DEF
 very.old   she.was.split.into.half.on.the.beach           from    here her.private.part
 She was a very old woman. She was split right in half from here — from her private part [toward her head].
 
 # 245
-waa, t̓uḥc̓iti, k̓aḥkʷačiƛ           y̓uuqʷaa. k̓aḥyuu.
-wa·  t̓uḥc̓iti  k̓aḥ-kʷa-či(ƛ)       y̓uːqʷaː  k̓aḥ-yu·
+waa, t̓uḥc̓iti, k̓aḥkʷačiƛ           y̓uuqʷaa. k̓aḥyuu.
+wa·  t̓uḥc̓iti  k̓aḥ-kʷa-či(ƛ)       y̓uːqʷaː  k̓aḥ-yu·
 and  head     split-in.pieces-MOM also     split-done
 and  head     shattered           also     split
 And also her head was shattered. It was smashed open.
@@ -1726,22 +1726,22 @@ they.did.only.with                 another     who  whoever.it.was  trading
 They only traded with other people.
 
 # 250
-waa quʔacasitwaʔiš,             quuʔas c̓awaak ʔaḥ  hiɬaas,        yaaqʷiɬʔanitiič                       qaḥsaap̓at.
-wa· quʔac-a·s-it-wa·ʔi·š        quːʔas c̓awa·k ʔaḥ  hiɬ-a·s        yaqʷ-iɬ-ʼat-it-(y)iː-č                qaḥ-sa·p-ʼat
+waa quʔacasitwaʔiš,             quuʔas c̓awaak ʔaḥ  hiɬaas,        yaaqʷiɬʔanitiič                       qaḥsaap̓at.
+wa· quʔac-a·s-it-wa·ʔi·š        quːʔas c̓awa·k ʔaḥ  hiɬ-a·s        yaqʷ-iɬ-ʼat-it-(y)iː-č                qaḥ-sa·p-ʼat
 and Indian-on.board-PAST-QUOT.3 Indian one    this there-on.board who-with.ref.to-SHIFT-PAST-INDF.3-INF dead-MOMCAUS-SHIFT
 and native.man.on.board         Indian one    this on.board       who.was.done                          killed
 And the native man on board the Kingfisher was also killed [by the Ahousaht warriors who attacked the ship].
 
 # 251
-tiičmaḥsamitwaʔiš                 c̓awaak.
-tiːč-maḥsa-ʼap-it-wa·ʔi·š         c̓awaːk
+tiičmaḥsamitwaʔiš                 c̓awaak.
+tiːč-maḥsa-ʼap-it-wa·ʔi·š         c̓awaːk
 live-desiring.to-CAUS-PAST-QUOT.3 one
 wanted.to.save                    one
 One [of the warriors] wanted to save the native man’s life.
 
 # 252
-wiiqsiɬaƛwaʔiš              qaaḥsaap.    ḥačatsuup.
-wiːq-siɬa-ʼaƛ-wa·ʔi·š       qaḥ-sa·p     ḥačat-suːp
+wiiqsiɬaƛwaʔiš              qaaḥsaap.    ḥačatsuup.
+wiːq-siɬa-ʼaƛ-wa·ʔi·š       qaḥ-sa·p     ḥačat-suːp
 do.harm-act.like-FIN-QUOT.3 dead-MOMCAUS all-kill
 did.harm                    kill         kill.all
 [But] they (the warriors) killed them (people on board the Kingfisher) all.
@@ -1754,8 +1754,8 @@ we.might.have.some.trouble   they.said.to.him although        they.were.already.
 They (the warriors who opposed the idea of saving the native person on board the Kingfisher) said to him (the one who wanted to save the native person’s life), “we may have some trouble in the future [if we keep him alive].” But they were already in trouble [by killing the Englishmen on the ship].
 
 # 254
-ʔaḥʔaa kʷisckʷii.
-ʔaḥʔaː kʷis-ckʷi·
+ʔaḥʔaa kʷisckʷii.
+ʔaḥʔaː kʷis-ckʷi·
 that   different-done
 that   happened
 This is what happened.

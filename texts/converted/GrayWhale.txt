@@ -4,8 +4,8 @@ abbreviation: GrayWhale
 ID:           GL3
 ---
 # 001
-maaʔak     maaʔuk maaʔukʷis                 haʔumn̓aḥ.
-maːʔak     maːʔuk maːʔuk-ʔis                haʔum-n̓a·ḥ
+maaʔak     maaʔuk maaʔukʷis                 haʔumn̓aḥ.
+maːʔak     maːʔuk maːʔuk-ʔis                haʔum-n̓a·ḥ
 gray.whale travel travel-DIM                food-seeking
 gray.whale travel stop.by.at.various.places searching.for.food
 The gray whale while traveling stops by at various places to search for food.
@@ -25,8 +25,8 @@ would.watch                    person plants see    when.it.sprouts             
 Men would watch the plant(s) to see when the nettle first sprouts.
 
 # 004
-čuu,     waa quuʔasʔi   ḥamat ƛ̓aqswaasʔaƛ̓iš                                  ʕiiɬmakt.
-čuː      wa· quːʔas-ʔi· ḥamat ƛ̓aq-swi·-ʼas-ʼaƛ-ʔi·š                          ʕiːɬmakt
+čuu,     waa quuʔasʔi   ḥamat ƛ̓aqswaasʔaƛ̓iš                                  ʕiiɬmakt.
+čuː      wa· quːʔas-ʔi· ḥamat ƛ̓aq-swi·-ʼas-ʼaƛ-ʔi·š                          ʕiːɬmakt
 now.then and person-DEF plain grow-extending.through-on.the.ground-FIN-IND.3 nettle
 now.then and the.man    plain have.started.to.sprout                         nettle
 Now [my] people, you can plainly see that the nettle(s) have started to grow.
@@ -46,8 +46,8 @@ at.that.time gray.whale begin.to.move begin.to.walk came.from           Californ
 It is the time when the gray whale(s) start to move, to migrate from [some place around] California.
 
 # 007
-maaʔak     ʔuʔiic  ƛičḥsa,  cacak̓is.
-maːʔak     qu-ʼi·c ƛičḥsa   cacak̓is
+maaʔak     ʔuʔiic  ƛičḥsa,  cacak̓is.
+maːʔak     qu-ʼi·c ƛičḥsa   cacak̓is
 gray.whale it-eat  plankton razor.clam
 gray.whale eat.it  plankton razor.clam
 The gray whale feeds on plankton and razor clams.
@@ -60,15 +60,15 @@ barnacle they.get.them.attached.on.the.body      gray.whale
 The gray whales get barnacles on the body.
 
 # 009
-qʷaawaaʔiš            qʷaaʔiitq  quuʔas č̓iḥsuuqƛiič.
-qʷaː-wa·-ʔi·š         qʷaː-ʔi·tq quːʔas č̓iḥ-su·qƛ-(y)iː-č
+qʷaawaaʔiš            qʷaaʔiitq  quuʔas č̓iḥsuuqƛiič.
+qʷaː-wa·-ʔi·š         qʷaː-ʔi·tq quːʔas č̓iḥ-su·qƛ-(y)iː-č
 thus-say-IND.3        thus-REL.3 person spirit-inside.the.body-INDF-INF
 to.be.thus.it.is.said like       person having.spirit.inside.the.body
 They say that, like a human, they have a spirit inside the body.
 
 # 010
-wiḥiʔuƛwaʔišʔaaɬ                           maaʔak     ʔuušyuuya.
-wiḥi-ʼu·ƛ-wa·-ʔi·š-ʔaːɬ                    maːʔak     ʔuːš-yuːya
+wiḥiʔuƛwaʔišʔaaɬ                           maaʔak     ʔuušyuuya.
+wiḥi-ʼu·ƛ-wa·-ʔi·š-ʔaːɬ                    maːʔak     ʔuːš-yuːya
 on.dry.land-on.the.rocks-QUOT-IND.3-always gray.whale some-at.the.time
 goes.ashore                                gray.whale sometimes
 They sometimes would go to the rocky shoreline.
@@ -102,8 +102,8 @@ take.off         rubbish  roll.repeatedly
 They roll repeatedly on the rocks to remove the rubbish [on their body].
 
 # 015
-ʔacʔin                     ʔukɬaaʔakʷaʔiš                    hiy̓aḥsʔitq.
-ʔac-ʔin                    ʔu-kɬaː-ʔak-wa·-ʔi·š              hiɬ-ʼaḥs-ʔi·tq
+ʔacʔin                     ʔukɬaaʔakʷaʔiš                    hiy̓aḥsʔitq.
+ʔac-ʔin                    ʔu-kɬaː-ʔak-wa·-ʔi·š              hiɬ-ʼaḥs-ʔi·tq
 go.out.hunting-costume.for it-having.as.name-POSS-QUOT-IND.3 LOC-in.a.vessel-REL.3
 hunting.suit               they.say.his.is.called            where.they.sit.in
 They say that [the whale’s body] is called the ‘hunting suits’ where he is inside [the whale]. (?)
@@ -116,15 +116,15 @@ now.then walking    begin.to.walk
 Now he is ready to depart.
 
 # 017
-wiḥisaƛ                  maʔasʔi
-wiḥi-sa(ƛ)               maʔas-ʔi·
+wiḥisaƛ                  maʔasʔi
+wiḥi-sa(ƛ)               maʔas-ʔi·
 on.dry.land-on.the.beach village-DEF
 land.on.the.beach        the.village
 He goes ashore at places where there is a village.
 
 # 018
-maaʔukʷis.                qun̓aaḥ      čamp̓uuqsquu           quuʔas maatmaas.
-maːʔuk-ʔis                ʔu-n̓a·ḥ     čam-p̓u·qs-quː         quːʔas maːtmaːs
+maaʔukʷis.                qun̓aaḥ      čamp̓uuqsquu           quuʔas maatmaas.
+maːʔuk-ʔis                ʔu-n̓a·ḥ     čam-p̓u·qs-quː         quːʔas maːtmaːs
 travel-DIM                it-seeking  good-smelling.of-COND person villages
 stop.by.at.various.places looking.for what.smells.good      person villages
 It stops by at various places, looking for a village where people smell good — i.e. have bathed every day to get rid of odor, and thus are ritually pure and well prepared.
@@ -158,8 +158,8 @@ they.did.not.have watch
 They did not have a watch.
 
 # 023
-ʔuuktisʔaɬ                   ḥaay̓iis  muuɬisʔaƛquu.
-ʔu-ktis-ʔa·ɬ                 ḥaːy̓iːs  muːɬ-ʔis-ʼaƛ-quː
+ʔuuktisʔaɬ                   ḥaay̓iis  muuɬisʔaƛquu.
+ʔu-ktis-ʔa·ɬ                 ḥaːy̓iːs  muːɬ-ʔis-ʼaƛ-quː
 it-acting.by.reference.to-PL low.tide tide.is.up-on.the.beach-FIN-COND
 they.are.guided.by           low.tide high.tides
 They acted by reference to low and high tides.
