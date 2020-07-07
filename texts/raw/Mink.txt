@@ -12,14 +12,14 @@ This happened a long, long time ago.
 
 # 002
 hixy'aa?ic'atlwa?ish, ch'aaxstimcm'it.
-hil-<x>-'a*-?ic-'atl-wa*?i*sh ch'a:stimc-<x>-m'i*t
+hil-|x|-'a*-?ic-'atl-wa*?i*sh ch'a:stimc-|x|-m'i*t
 there-MINK-on.the.rock-DIM-FIN-QUOT.3 mink-MINKN-son.of
 little.one.was.sitting.there.on.the.rock Son.of.Mink
 There was a small Son of Mink sitting on the rock.
 
 # 003
 ch'aaxstimcm'it waa?at, himwic'atl'atquu.
-ch'a:stimc-<x>-m'i*t wa:-'at himwic'a-'atl-'at-qu:
+ch'a:stimc-|x|-m'i*t wa:-'at himwic'a-'atl-'at-qu:
 mink-MINK-son.of say-SHIFT story-FIN-SHIFT-COND.3
 Son.of.Mink it.is.said when.you.tell.a.story
 "_č̓aaxstimcm̓it_" — this is how you say it when you tell a story.
@@ -75,7 +75,7 @@ He could see far, clearly seeing everything.
 
 # 011
 hixy'aa?a?iswa?ish ?ahh, qwax?aamitii. qwa?aamitii qwaa ?ahh.
-hil-<x>-'a*?a-?is-wa*?i*sh ?ahh qwa-<x>-'a*p-it-(y)i: qwa-'a*p-it-(y)i: qwa: ?ahh
+hil-|x|-'a*?a-?is-wa*?i*sh ?ahh qwa-|x|-'a*p-it-(y)i: qwa-'a*p-it-(y)i: qwa: ?ahh
 there-MINK-on.the.rock-DIM-QUOT.3 he thus-MINK-CAUS-PAST-INDF.3 thus-CAUS-PAST-INDF.3 like this
 little.one.sitting.there.on.the.rock he doing.like.thus might.have.been.doing.so like this
 He was sitting there on the rock, probably doing like this. {with gesture}
@@ -89,7 +89,7 @@ And he did this. {with gesture of looking far away}
 
 # 013
 heey, ?u?umhhimataks kwixsaqsitl waa?atl.
-~ ?u?umhhi-matak-s kwis-<x>-aqs-itl wa:-'atl
+~ ?u?umhhi-matak-s kwis-|x|-aqs-itl wa:-'atl
 ~ able.to-probably-1SG different-MINK-on.the.side-MOM say-FIN
 ~ maybe.I.can.do reach.the.opposite.shore said.it
 "Hmm, maybe I can go across the strait," he said.
@@ -103,7 +103,7 @@ There (in the strait) the current was always swift and going back and forth.
 
 # 015
 chuu, hitap?il ch'aaxstimcm'it, wik ?uuc\hha, saaxyapanachshitl'aqtlquu.
-chu: hita-p?il ch'a:stimc-<x>-m'i*t wik ?u-c\hha saya-<x>-panach-shi(tl)-'aqtl-qu:
+chu: hita-p?il ch'a:stimc-|x|-m'i*t wik ?u-c\hha saya-|x|-panach-shi(tl)-'aqtl-qu:
 now.then there.MOM-across.a.strait mink-MINK-son.of not it-go.in.order.to far.off-MINK-move.about.randomly-MOM-FUT-COND.3
 now.then go.across.a.strait Son.of.Monk not go.for.it he.would.go.distant.places
 Then, Son of Mink went across the strait but not for the purpose of going to far-off places.
@@ -166,7 +166,7 @@ Some days have passed.
 
 # 024
 ?ux?ukwachinks ciiqciiqa waa?atl.
-DUP-<x>-?ukwa-(ch)ink-s DUP-ciq-a wa:-'atl
+DUP-|x|-?ukwa-(ch)ink-s DUP-ciq-a wa:-'atl
 ??-MINK-onself-converse.with-1SG ??-speak-REP say-FIN
 I.do.with.myself speaking he.said
 "I keep talking to myself," he said.
@@ -187,14 +187,14 @@ He he was alone.
 
 # 027
 yaaxcshitl'ic'aqtls waa?atl.
-ya:c-<x>-shi(tl)-'aqtl-s wa:-'atl
+ya:c-|x|-shi(tl)-'aqtl-s wa:-'atl
 walk-MINK-MOM-FUT-1SG say-FIN
 I.will.walk he.said.it
 "I shall go on," he said.
 
 # 028
 yaaxcshitl.
-ya:c-<x>-shi(tl)
+ya:c-|x|-shi(tl)
 walk-MINK-MOM
 walked
 He departed.
@@ -243,7 +243,7 @@ Mink woke up during this {with gesture} — maybe he extended his arms.
 
 # 035
 yaaxcshitl.
-ya:c-<x>-shi(tl)
+ya:c-|x|-shi(tl)
 walk-MINK-MOM
 walked
 He started walking.
@@ -264,7 +264,7 @@ He does that — running on all fours.
 
 # 038
 ?uux?iiyaqsi c'a?ak?i n'aacsii, txtxtxtxtx. txtxtxtxtx.
-?u-<x>-?i*ya-aqsi c'a?ak-?i* n'a:csi: ~ ~
+?u-|x|-?i*ya-aqsi c'a?ak-?i* n'a:csi: ~ ~
 it-MINK-get.to.be.at-at.the.bank river-DEF see ~ ~
 sit.on.the.bank the.river see ~ ~
 He sat on the bank of the river and saw _txtxtxtxtx_ [fish jumping].
@@ -320,7 +320,7 @@ Now, he was making a house quickly in a short period of time, and it became a ho
 
 # 046
 ?inixkwiilshitl'is ch'aasta, tl'uuyiipitl.
-?inkw-<x>-(ch)i:l-shi(tl)-?is ch'a:sta tl'u:yi:-`(i)pi(tl)
+?inkw-|x|-(ch)i:l-shi(tl)-?is ch'a:sta tl'u:yi:-`(i)pi(tl)
 fire-MINK-make-MOM-DIM mink dry.fish-in.the.house
 made.fire mink put.fish.up.on.the.rack
 Little Mink made a fire, and put fish up on the rack (to dry).
@@ -341,14 +341,14 @@ He rolled a log — who knows how big it was — which is sometimes called "drif
 
 # 049
 hhaax?ak?is.
-hha:?ak-<x>-?is
+hha:?ak-|x|-?is
 strong-MINK-DIM
 little.one.is.strong
 He was strong.
 
 # 050
 ?uchknahh?is ch'aastimcm'it, kw'itxak ?u?inkwit?is ?ahh qaaty'apt'a?i.
-?unahh-<chk>-?is ch'a:stimc-m'i*t kw'itx-ak ?u?inkwit-?is ?ahh qay'apt'a-<Lt>-?i*
+?unahh-|chk|-?is ch'a:stimc-m'i*t kw'itx-ak ?u?inkwit-?is ?ahh qay'apt'a-|Lt|-?i*
 size-DIM-DIM mink-son.of skinny-DUR ??-DIM this leg-PL-DEF
 very.small Son.of.Mink skinny small this legs
 Son of Mink was very small. His legs were small.
@@ -369,7 +369,7 @@ Hm! (sniffing sound) — He would say "Hm!"
 
 # 053
 qux?ac'athhqach'a, waa?atl
-qu?ac-<x>-'athh-qa*ch'a wa:-'atl
+qu?ac-|x|-'athh-qa*ch'a wa:-'atl
 human-MINK-residing-DUB.3 say-FIN
 maybe.a.man.is.living said.it
 "Maybe there is a man living there," he said.
@@ -432,7 +432,7 @@ He [Mink] heard him [Wolf] howling.
 
 # 062
 hhaa y'uuxqwaaquu?is,
-hha: y'u:qwa:-<x>-qu:-?is
+hha: y'u:qwa:-|x|-qu:-?is
 there also-MINK-COND.3-DIM
 there the.little.one.also
 The little one [Mink] also howled.
@@ -509,7 +509,7 @@ He said, "You go to sleep!"
 
 # 073
 huhhtak ch'aasta ?in wax?ichitlw'it'as qwaxyaac'ikm'it.
-huhhtak ch'a:sta ?in wa?ich-<x>-itl-w'it'as qwaya:c'ik-<x>-m'i*t
+huhhtak ch'a:sta ?in wa?ich-|x|-itl-w'it'as qwaya:c'ik-|x|-m'i*t
 know mink that sleeping-MINK-about.to wolf-MINK-son.of
 know mink that.is.going.to.sleep Son.of.Wolf
 The mink knew that Son of Wolf was going to sleep.
@@ -586,7 +586,7 @@ He said, _xuxuuwuwu xuu_.
 
 # 084
 sixy'aaqseesh ch'aaxstimcm'iit qax\hhsaamiits qwaxyaac'ikm'iit, wawaa.
-siy'a:q-<x>-si*sh-VOC ch'a:stimc-<x>-m'i*t-VOC qahh-<x>-sa*p-it-s-VOC qwaya:c'ik-<x>-m'i*t-[+] wawa:
+siy'a:q-|x|-si*sh-VOC ch'a:stimc-|x|-m'i*t-VOC qahh-|x|-sa*p-it-s-VOC qwaya:c'ik-|x|-m'i*t-[+] wawa:
 it.is.I-MINK-IND.1SG-VOC mink-MINK-son.of-VOC dead-MINK-MOMCAUS-PAST-1SG-VOC wolf-MINK-son.of-VOC say
 I.am.the.one Son.of.Mink I.killed.him Son.of.Wolf say
 "I, Son of Mink, am the one who killed Son of Wolf!" he said.
@@ -628,14 +628,14 @@ Son of Mink had a comb.
 
 # 090
 saxchkshitl'ixc'atlquuch tluyachitl n'aach?atu ?uuktis hhaal puul?ii, c'a?ak.
-sachk-<x>-shi(tl)-?ic-'atl-qu:-ch tlul-`achitl n'ach-'atu ?uk-(k)tis hha:l pu:l-?i* c'a?ak
+sachk-|x|-shi(tl)-?ic-'atl-qu:-ch tlul-`achitl n'ach-'atu ?uk-(k)tis hha:l pu:l-?i* c'a?ak
 comb-MINK-MOM-DIM-FIN-COND.3-INF nice-MOM see-sink.into.water oneself-acting.by.ref.to there pool-DEF river
 little.one.would.comb get.nice seeing.down.on.the.water by.looking.at.himself there the.pool.of.water river
 The little one would comb his hair to get pretty by looking at his reflection in the pool of water or the river.
 
 # 091
 n'aaxch?atu?is, hheey, saaxchksaachka?is.
-n'ach-<x>-'atu-?is ~ DUP#-<x>-sachk-a-?is
+n'ach-|x|-'atu-?is ~ DUP#-|x|-sachk-a-?is
 see-MINK-sink.into.water-DIM ~ IT-MINK-comb-REP-DIM
 little.one.is.looking.down.to.the.water ~ little.one.is.combing
 The little one (Mink) was looking down into the water and combing.
@@ -670,7 +670,7 @@ you.killed.him Son.of.Wolf said ~
 
 # 096
 ?m?mm, waamitquu, wiixksas.
-~ wa*-mit-qu: wik-<x>-sa-s
+~ wa*-mit-qu: wik-|x|-sa-s
 ~ say-PAST-COND.3 not-MINK-??-1SG
 ~ he.might.have.said I.didnt.do
 "m-mm," he said, "I didn't do it."
@@ -740,7 +740,7 @@ Now it became warm. It was so warm that the wolves were sweating like this.
 
 # 106
 chuu, waa?atl ch'aaxstimcm'it, [You are surrounded by the wolf. You had no way of try to escape. You killed him!] qahhsaap?ick.
-chu: wa*-'atl ch'a:stimc-<x>-m'i*t ~ qahh-sa*p-?ick
+chu: wa*-'atl ch'a:stimc-|x|-m'i*t ~ qahh-sa*p-?ick
 now.then say-FIN mink-MINK-son.of ~ dead-MOMCAUS-IND.2SG
 now.then said Son.of.Mink ~ you.killed.him
 "Now," the wolf said to Son of Mink, "you are surrounded by wolves. You have no way of escaping. You killed him!"
@@ -817,7 +817,7 @@ That's how wolves eat. They never eat the whole fish.
 
 # 117
 chuu, waa?atl. nuux?it'aqsish, waa?atl.
-chu: wa*-'atl nu-<x>-'itl-?aq-si*sh wa*-'atl
+chu: wa*-'atl nu-|x|-'itl-?aq-si*sh wa*-'atl
 now.then say-FIN sink-MINK-go.for-FUT-IND.1SG say-FIN
 now.then said.it I.will.sing said.it
 "Well then, I will sing for you," he said.
@@ -877,7 +877,7 @@ He was singing.
 
 # 126
 ?axniyas ?aniyas hoo
-?ana-<x>-iya-s ?ana-iya-s ~
+?ana-|x|-iya-s ?ana-iya-s ~
 only-MINK-at.time.of-1SG only-at.time.of-1SG ~
 if.only.I.have if.only.I.have ~
 [Song] "If only I reach _ho_…"
@@ -891,7 +891,7 @@ This is how he did — he had his bow like that.
 
 # 128
 ?aniyas ?aniyas [hoo hoo hoo] n'upxc'iqiiyasquus huxyuulquus,
-?ana-iya-s ?ana-iya-s ~ n'up-<x>-c'iq-i:yas-qu:s huyu:l-<x>-qu:s
+?ana-iya-s ?ana-iya-s ~ n'up-|x|-c'iq-i:yas-qu:s huyu:l-|x|-qu:s
 only-at.time.of-1SG only-at.time.of-1SG ~ one-MINK-long.object-on.the.shoulder?-COND.1SG dance-MINK-COND.1SG
 if.only.I if.only.I ~ if.I.had.one.on.the.shoulder I.would.dance
 [Song] "If only I reach _ho ho ho_; if only I reach _ho ho ho_; if I had one on my shoulder, I would dance."
@@ -905,7 +905,7 @@ Son of Mink is about to kill the leader of all the wolves that is all white.
 
 # 130
 huuxlshi?atl
-hul-<x>-shi(tl)-'atl
+hul-|x|-shi(tl)-'atl
 dance-MINK-GRAD-FIN
 now.he.is.starting.to.dance
 Now he is starting to dance.
@@ -975,7 +975,7 @@ It was a direct hit.
 
 # 140
 kaxmatqshitl qw'aaxtii
-kamatq-<x>-shi(tl) qw'a:xti:
+kamatq-|x|-shi(tl) qw'a:xti:
 running-MINK-MOM NAME
 run NAME
 _q̓ʷa:xtii_ ran.
@@ -1010,7 +1010,7 @@ Mink was smart.
 
 # 145
 suxsaa hisiikwasu
-sus-<x>-(y)a* his-i*kw-asu*
+sus-|x|-(y)a* his-i*kw-asu*
 swim-MINK-CONT there-going.along-under.water
 swimming move.under.water
 He swam under water.
@@ -1073,7 +1073,7 @@ The wolves started to swim.
 
 # 154
 kaxmatqshi?atl qw'aaxtii.
-kamatq-<x>-shi(tl)-'atl qw'a:xti:
+kamatq-|x|-shi(tl)-'atl qw'a:xti:
 running-MINK-MOM-FIN NAME
 ran NAME
 _q̓ʷaaxtii_ ran.
@@ -1101,7 +1101,7 @@ He came upon a beautiful place.
 
 # 158
 suxkwitl <uy'ic'ak?i, hiist'itl ?ahh p'atqsac'isuk?i.
-sukwi(tl)-<x> <uy'i-c'u*-?a*k-?i* hist-'itl ?ahh p'atqw-sac-?is-uk-?i*
+sukwi(tl)-|x| <uy'i-c'u*-?a*k-?i* hist-'itl ?ahh p'atqw-sac-?is-uk-?i*
 take-MINK medicine-inside.container-POSS-DEF there-take here goods-receptacle-DIM-POSS-DEF
 take his.medicine.bottle taken.from.there here his.little.bag
 He took the medicine bottle from his little bag.
@@ -1115,7 +1115,7 @@ They were on the other side of the river.
 
 # 160
 c'ixchi?atl ?ahh?aa qwis, ?iiwachi?im c'a?ak. ?iiwachi?im.
-c'i-<x>-chi(tl)?atl ?ahh?a: qwis ?i:hhw-`achi(tl)-'i*m c'a?ak ?i:hhw-`achi(tl)-'i*m
+c'i-|x|-chi(tl)?atl ?ahh?a: qwis ?i:hhw-`achi(tl)-'i*m c'a?ak ?i:hhw-`achi(tl)-'i*m
 splash-MINK-MOM-FIN that do.so big-INC-IMP.2SG.FUT river big-INC-IMP.2SG.FUT
 splashed that do.so you.will.become.large river you.become.large
 He splashed it (the medicine) like this {with gesture of shaking a bottle} [into a little creek], [casting a spell] "You become a large river!"
@@ -1346,7 +1346,7 @@ When drinking, they never drink with a utensil, rather they only use their tongu
 
 # 193
 kaxmatqshi?atl wiikst'iihh.
-kamatq-<x>-shi(tl)-'atl wik-st'i:hh
+kamatq-|x|-shi(tl)-'atl wik-st'i:hh
 running-MINK-MOM-FIN not-take.direction
 ran without.taking.direction
 He ran for dear life.
@@ -1367,14 +1367,14 @@ He arrived at what appeared to be an island or an offshore reef.
 
 # 196
 kaxmatquk?is.
-kamatq-<x>-uk-?is
+kamatq-|x|-uk-?is
 running-MINK-DUR-DIM
 running
 The little one (Mink) was running.
 
 # 197
 wiinap'i?atl ch'aaxstimchm'it. cusshitl. cusshitl.
-wi:nap-?i*(tl)-'atl ch'a:stimc-<x>-m'i*t cus-shi(tl) cus-shi(tl)
+wi:nap-?i*(tl)-'atl ch'a:stimc-|x|-m'i*t cus-shi(tl) cus-shi(tl)
 stopping-on.the.ground-FIN mink-MINK-son.of dig-MOM dig-MOM
 stopped.on.the.ground Son.of.Mink dug dug
 Son of Mink stopped and dug holes.
@@ -1493,7 +1493,7 @@ It was so close.
 
 # 214
 saxyackshi?i, saya?ii?isqak, k'uu?ii, nism'a?i.
-saya-<x>-ck-shi(tl)-?i* saya-?i:-?is-qak k'u:-?i: nism'a-?i*
+saya-|x|-ck-shi(tl)-?i* saya-?i:-?is-qak k'u:-?i: nism'a-?i*
 far.off-MINK-DIM-IMP.2SG far.off-get.to.be.at-DIM-?? short-distance-get.to.be.at land-DEF
 move.away.a.little be.far.away.a.little little.farther the.land
 "Land, move far away a little!"
@@ -1563,7 +1563,7 @@ And he found another pack of wolves.
 
 # 224
 wik ?iihh, ?uchknahh?is qwaa?iitq chamihhta?i qwayac'iik
-wik ?i:hh ?unahh-<chk>-?is qwa:-?i*tq chamihhta-?i* qwayac'i:k
+wik ?i:hh ?unahh-|chk|-?is qwa:-?i*tq chamihhta-?i* qwayac'i:k
 not big size-DIM-DIM thus-REL.3 proper-DEF wolf
 not big very.small like the.real.one wolf
 They were not big; they were much smaller than the real wolves.
@@ -1630,7 +1630,7 @@ I.am.not I.am.not I.am.not
 
 # 234
 <uxyaayiswa?ish ch'aastimchm'it.
-<uya:s-<x>-?is-wa*?i*sh ch'a:stimc-m'i*t
+|uya:s-<x|-?is-wa*?i*sh ch'a:stimc-m'i*t
 move-MINK-on.the.beach-QUOT.3 mink-son.of
 move.on.the.beach Son.of.Mink
 Son of Mink shifted his body a little on the beach.
@@ -1686,7 +1686,7 @@ He bit out the innards (out of the limpets) and wrapped them around the pole.
 
 # 242
 haa qax\hhshitl'is?ish, qahhshitl'ish qw'aaxtii, waa?atl.
-~ qahh-<x>-shi(tl)-?is-?i*sh qahh-shi(tl)-?i*sh qw'a:xti: wa*-'atl
+~ qahh-|x|-shi(tl)-?is-?i*sh qahh-shi(tl)-?i*sh qw'a:xti: wa*-'atl
 ~ dead-MINK-MOM-DIM-IND.3 dead-MOM-IND.3 NAME say-FIN
 ~ little.one.is.dead he.is.dead NAME said
 "Look! He is dead! _q̓ʷaaxtii_ is dead!" they said.
@@ -1721,7 +1721,7 @@ _Wooox_, he took a peek.
 
 # 247
 ?aax?anihhtaak, laaxqla<ihhtaa, c'iixc'iyupuuk, p'aaxp'a<im?aay waa?atl.
-DUP:-<x>-?ana-i*hhtak-[L] DUP:-<x>-laqw-'ihhta-[L] DUP:-<x>-c'iyup-uk-[L] DUP:-<x>-p'a<im-?a:y wa*-'atl
+DUP:-|x|-?ana-i*hhtak-[L] DUP:-|x|-laqw-'ihhta-[L] DUP:-|x|-c'iyup-uk-[L] DUP:-|x|-p'a<im-?a:y wa*-'atl
 SONG-MINK-only-??-VOC SONG-MINK-throw.soft.yielding.mass-at.the.point-VOC SONG-MINK-innards-POSS-VOC SONG-MINK-limpet-VOC say-FIN
 you.only.have put.soft.yielding.thing.at.the.point its.innards limpet said
 "You only have innards of limpets on the pole!" he said.
@@ -1771,7 +1771,7 @@ He went down the rocks toward the water and there were many little crabs.
 
 # 254
 Woo, qaxhhshitlwa?een, waa.
-~ qahh-<x>-shi(tl)-wa*?in-VOC wa:
+~ qahh-|x|-shi(tl)-wa*?in-VOC wa:
 ~ dead-MINK-MOM-QUOT?-VOC say
 ~ died say
 "Well! You people thought I was dead, didn't you!" he (Mink) said.
@@ -1953,14 +1953,14 @@ Now there is only one [possibility] left. He is the only possibility.
 
 # 280
 hitinqsa?ee ch'aastimcm'eet qwaaxyiik ?aani suxw'aas t'an'ee.
-hita-inq-`sa(tl)-'i*-VOC ch'a:stimc-m'i*t-VOC qwa:-<x>-(y)i:k ?aani suxw'aas t'an'ee.
+hita-inq-`sa(tl)-'i*-VOC ch'a:stimc-m'i*t-VOC qwa:-|x|-(y)i:k ?aani suxw'aas t'an'ee.
 there.MOM-down.a.slope-on.the.beach-IMP.2SG-SONG mink-son.of-SONG thus-MINK-INDF.2SG really yours-MINK child-SONG
 come.down.to.the.beach Son.of.Mink maybe.you.are.so. is.it.true yours child
 "Come down to the beach, Son of Mink, because you might be responsible for the child."
 
 # 281
 lixcw'isee lixcw'isee muux\hhintlas, [taa taa taa].
-lic-<x>-w'isa-VOC lic-<x>-w'isa mu:hhintl-<x>-as ~
+lic-|x|-w'isa-VOC lic-|x|-w'isa mu:hhintl-|x|-as ~
 pregnant-MINK-??-SONG pregant-MINK-?? sawbill-MINK-female ~
 give.birth.to.illegitimate.child give.birth.to.illegitimate.child Sawbill.woman ~
 "Sawbill Woman gave birth to an illegitimate child." [they sang, and the baby also called him] "Daddy, Daddy, Daddy."
@@ -1974,7 +1974,7 @@ Qwaaxtii went down to the beach and walked with smile on his face.
 
 # 283
 yaacshitl, waa ?atquu wiiy'a yaacuk. muuxkmuukwa?is.
-ya:c-shi(tl) wa: ?at-qu: wi:y'a ya:c-uk DUP#-<x>-muk-(y)a-?is
+ya:c-shi(tl) wa: ?at-qu: wi:y'a ya:c-uk DUP#-|x|-muk-(y)a-?is
 walk-MOM say although-COND.3 never walk-DUR IT-MINK-run.on.fours-REP-DIM
 walked say although never walk running.on.fours
 We say "walk", although it (Mink) never "walks", but rather "runs on fours".
@@ -2079,7 +2079,7 @@ He came back ashore and said "I didn't catch any."
 
 # 298
 wixk'iit?ish, wixk'ii?ish.
-wik'i:t-<x>-?i*sh wik'i:t-<x>-?i*sh
+wik'i:t-|x|-?i*sh wik'i:t-|x|-?i*sh
 no.one.present-MINK-IND.3 no.one.present-MINK-IND.3
 there.is.nothing there.is.nothing
 "There is nothing!"
@@ -2149,7 +2149,7 @@ The child was moving his elbows up and down.
 
 # 308
 qachaa ?u?ukwil?atlnish?aal ?uchknahh?is?i maamaati.
-qacha: DUP-?u-kwil-'atl-ni*sh-?a:l ?unahh-<chk>-?is-?i* ma:ma:ti
+qacha: DUP-?u-kwil-'atl-ni*sh-?a:l ?unahh-|chk|-?is-?i* ma:ma:ti
 duckling ??-it-with.ref.to-FIN-IND.1PL-always size-DIM-DIM-DEF bird
 duckling this.is.what.we.usually.call the.child bird
 We call the baby bird "_qačaa_".
