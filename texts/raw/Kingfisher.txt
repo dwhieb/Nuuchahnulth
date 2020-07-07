@@ -188,7 +188,7 @@ And sometimes they were given tea to drink.
 # 027
 ?ayimsckwak, mamaln'i piskit, xhaxhashk'uk waanaa, xhaxhashk'uk.
 ?aya-ims-ckwi*-?a*k mamaln'i piskit xhaxhash-k'uk wa:-na* xhaxhash-k'uk
-many-<-done-POSS white.man biscuit sand.dollar-resembling say-1PL sand.dollar-resembling
+many-??-done-POSS white.man biscuit sand.dollar-resembling say-1PL sand.dollar-resembling
 they.had.many white.man biscuit one.resembling.a.sand.dollar we.say one.resembling.a.sand.dollar
 White men had many biscuits — we call them "one-that-looks-like-a-Sand-Dollar".
 
@@ -321,7 +321,7 @@ They went into the bay — the bay that we call _kʷispaa_.
 # 046
 kwisutaqtu?i maaqtusiis.
 kwis-ut-a*qtu*-?i* ma:qtusi:s
-different-<-go.over-DEF NAME
+different-??-go.over-DEF NAME
 the.place.over.the.hill NAME
 It is the place across the hill from Maaqtusiis.
 
@@ -496,7 +496,7 @@ They sailed on a westerly wind.
 # 071
 ?aniyat chachimhhat k'uuchuk?ic'at hachlii?atlquu qwaa. huu?aciiy'uk?atlquu tuch'ii.
 ?ana-iya-'at chachim-hhi*-'at k'u:-chuk-?ic-'at hachli:(tl)-'atl-qu: qwa: hu?a-ca-i:y'uk-'atl-qu: tuch'i:
-only-at.time.of-SHIFT proper-DUR-SHIFT short.distance-<-DIM-SHIFT westerly-wind.blowing-FIN-COND.3 thus back-go.to-<-FIN-COND.3 southeast.wind
+only-at.time.of-SHIFT proper-DUR-SHIFT short.distance-??-DIM-SHIFT westerly-wind.blowing-FIN-COND.3 thus back-go.to-??-FIN-COND.3 southeast.wind
 only.time.it.is.done properly in.a.short.time when.westerly.wind.is.blowing thus on.return.trip southeast.wind
 They only time you can quickly get there (Neah Bay) is when a westerly wind is blowing. On the way back, a southeast wind.
 
@@ -552,7 +552,7 @@ one.from.England whoever.it.was leader whoever.their.leader.was leader ~ that at
 # 079
 kwisuuq?athh, waa?at. kwisuuq?athh, Europeans.
 kwis-u:q-'athh wa*-'at kwis-u:q-'athh ~
-different-<-one.from say-SHIFT different-<-one.from ~
+different-??-one.from say-SHIFT different-??-one.from ~
 people.from.overseas it.is.said people.from.overseas ~
 Europeans are called "people from overseas".
 
@@ -580,7 +580,7 @@ This was how (in this kind of posture) my grandmother _kʷaatya_ used to tell me
 # 083
 wik tl'iixsnacul. ?uushmaqul.
 wik tl'i:xw-snac-u*l ?u:shmaq-u*l
-not smile-<-on.the.face serious-on.the.face
+not smile-??-on.the.face serious-on.the.face
 not smile.on.the.face real.stern.face
 She didn't smile at all [while telling this story, although sometimes she smiled telling other stories]. Her face was really serious.
 
@@ -671,7 +671,7 @@ They got to Ahous Point just in time. They were singing [a paddling song].
 # 096
 yaaqwin'akitii?aal kwaatkwaatya, ["waxwaa, waa waawuu, wuu"]
 yaqw-in'ak-it-(y)i:-?a:l DUP#-kwa:tya ~
-which-<-PAST-INDF.3-always ??-NAME ~
+which-??-PAST-INDF.3-always ??-NAME ~
 she.used.to.sing Kwaatya ~
 _kʷaatya_ used to sing…
 
@@ -881,7 +881,7 @@ The British Navy sailed out for the river.
 # 126
 cha?is?ish, ?achaq?ishtiik, [Trout River] waa?at?ish?aal. cha?is.
 ch-?is-?i*sh ?achaq-?isht-(y)i:k ~ wa*-'at-?i*sh-?a:l cha-?is
-island-DIM-IND.3 who-<-INDF.2SG ~ say-SHIFT-IND.3-always island-DIM
+island-DIM-IND.3 who-??-INDF.2SG ~ say-SHIFT-IND.3-always island-DIM
 there.is.a.little.island that.is ~ it.is.called little.island
 There is a little island [at the mouth of] the so-called Trout River.
 
@@ -923,7 +923,7 @@ They (the British solders) shot at him.
 # 132
 qacc'iiqp'it ?uhh?ish ?atla, qum'aakwi?at ?ahh?aa, bullet yaaqhhw'al?itq, tl'ichi?at.
 qacc'a-i*q-p'it ?uhh?ish ?atla qum'a:-kwi-'at ?ahh?a: ~ yaqw-hhw'al-?i*tq tl'i-chi(tl)-'at
-three-scores-times and two amount-<-SHIFT that ~ which-using-REL.3 shoot-MOM-SHIFT
+three-scores-times and two amount-??-SHIFT that ~ which-using-REL.3 shoot-MOM-SHIFT
 sixty.times and two that.amount that ~ which.they.used they.shot.him
 Sixty-two — that is the number of bullets they used to shoot him.
 
@@ -965,14 +965,14 @@ The rocky point [he was heading for] was far.
 # 138
 sayaa hhaal nism'a. c'aa?u<aqtlis.
 saya* hha:l nism'a c'a-?uq-'aqtl-?is
-far there land flowing-<-inside-on.the.beach
+far there land flowing-??-inside-on.the.beach
 far there land slough
 That land, slough, was quite far.
 
 # 139
 huhhtak qaahhma ?in, qwaaqwaacy'ak?itq c'a?ak.
 huhhtak qa:hhma ?in DUP-qwa:c-y'ak-?i*tq c'a?ak
-know NAME that ??-<-useful.for-REL.3 river
+know NAME that ??-??-useful.for-REL.3 river
 know NAME that its.condition river
 _qaaḥma_ knew every inch of the river.
 
@@ -1084,14 +1084,14 @@ far little.farther however.far.it.was
 # 156
 chuu, kwisutaqtintl'aqnish waa?atl tla?uukwi?athh?i.
 chu: kwis-ut-a*qtu*-in(tl)-?aq-ni*sh wa*-'atl tla?u:kwi?athh-?i*
-now.then different-<-go.across-MOM-FUT-IND.1PL say-FIN Clayoquot-DEF
+now.then different-??-go.across-MOM-FUT-IND.1PL say-FIN Clayoquot-DEF
 now.then we.will.go.across.the.hill said the.Clayoquot.man
 "Now, we will go across the hill," said the Clayoquot man.
 
 # 157
 ?unachaqtu?is?ish pin?iitl, [Whitepine Cove]. ?unachaqtu?is.
 ?una-ch-a*qtu*-?is-?i*sh pin'i:tl ~ ?una-ch-a*qtu*-?is
-that.much-<-go.across-DIM-IND.3 NAME ~ that.much-<-go.across-DIM
+that.much-??-go.across-DIM-IND.3 NAME ~ that.much-??-go.across-DIM
 near.across NAME ~ near.across
 "It is close across to Whitepine Cove."
 
@@ -1210,7 +1210,7 @@ He went there — it's called _ʕiiʕiiɬmak̓ʷas_.
 # 175
 c'aa?u<aqtlis?ish ?ahh.
 c'a-?uq-'aqtl-?is-?i*sh ?ahh
-flowing-<-inside-on.the.beach-IND.3 this
+flowing-??-inside-on.the.beach-IND.3 this
 the.tide.goes.in this
 Here the current goes in and out [as the tide changes].
 
@@ -1273,7 +1273,7 @@ There was a post, a totem pole, standing on the beach which they called Standing
 # 185
 c'awaak nay'aqak ?uuhhuulitwa?ish.
 c'awa:k nay'aq-ak ?u-L-hhu*l-it-wa*?i*sh
-one child-POSS it-<-in.front-PAST-QUOT.3
+one child-POSS it-??-in.front-PAST-QUOT.3
 one his.child holding.in.front
 [On the pole] there was [the crest which has] one child in front held in arms.
 
@@ -1595,7 +1595,7 @@ The former chief Benson, _kapčaa_ had one. He was also given the Union Jack.
 # 231
 ?uhhwaa?ish ?aq?ishtiik, sword.
 ?uhh-wa*-?i*sh ?aqi-?isht-(y)i:k ~
-<-<-?? what-<-INDF.2SG ~
+<-??-?? what-??-INDF.2SG ~
 and.also what.do.you.call ~
 He had a sword, too.
 
@@ -1749,7 +1749,7 @@ did.harm kill kill.all
 # 253
 ?uushmisnakcimnis waa?at. ?atquu ?uushmisnak'atl'al.
 ?u:sh-mis-na*k-cim-ni*sh wa*-'at ?at-qu: ?u:sh-mis-na*k-'atl-?a*l
-some-thing-having-<-IND.1PL say-SHIFT although-COND.3 some-thing-having-FIN-PL
+some-thing-having-??-IND.1PL say-SHIFT although-COND.3 some-thing-having-FIN-PL
 we.might.have.some.trouble they.said.to.him although they.were.already.in.trouble
 They (the warriors who opposed the idea of saving the native person on board the Kingfisher) said to him (the one who wanted to save the native person's life), "we may have some trouble in the future [if we keep him alive]." But they were already in trouble [by killing the Englishmen on the ship].
 

@@ -287,7 +287,7 @@ I understood what the teachers, principal and staff people were saying.
 # 042
 ?uushc'alit ciiqciiqat
 ?u:sh-c'al-it DUP#-ciq-a-'at
-some-<-PAST IT-speak-REP-SHIFT
+some-??-PAST IT-speak-REP-SHIFT
 it.was.prohibited speaking
 We weren't allowed to talk (in our native language).
 
@@ -308,7 +308,7 @@ Sometimes we got cod
 # 045
 waa ?ahh?aatl <ay'iichhh ?aya muwach susaa, suusilaya
 wa* ?ahh?a:-'atl <ay'i:chhh ?aya muwach sus-(y)a* sus-il-aya
-and then-FIN autumn many deer swim-CONT swim-<-continuously.doing
+and then-FIN autumn many deer swim-CONT swim-??-continuously.doing
 and then autumn many deer swimming continuously.swimming
 and then in spring(?) many deer swam across.
 
@@ -385,14 +385,14 @@ Sometimes we caught deer.
 # 056
 waa, wiktimnish kinhhak, kinhhak
 wa* wik-tim-nish kinhh-ak kinhh-ak
-and not-<-IND.1PL starve-DUR starve-DUR
+and not-??-IND.1PL starve-DUR starve-DUR
 and we.didn't starving starving
 We never went hungry.
 
 # 057
 wik?aatimnish
 wik-?a*ta-im-nish
-not-lacking-<-IND.1PL
+not-lacking-??-IND.1PL
 we.never.lack
 We never ran out of things.
 
@@ -420,7 +420,7 @@ They are like pitch gum. (They taste like pitch gum.)
 # 061
 ?uy'iihhinch ?uhhtinmit ?ishc'iipm'ititquu
 ?u-y'i*hha-in-ch ?u-hhtin-mit ?ishc'i:p-m'i*t-it-qu:
-it-because.of-<-INF it-made.of-PAST gum-son.of-PAST-COND.3
+it-because.of-??-INF it-made.of-PAST gum-son.of-PAST-COND.3
 it.might.be.because.of made.of Son.of.Gum.Woman
 This (the fact that _ʔiʔišpaaɬ_ tastes like pitch gum) is because _ʔiʔišpaaɬ_ is made of pitch gum.
 
@@ -462,7 +462,7 @@ He would go out fishing for red snapper.
 # 067
 ?uyi?isim tlimksaap hupkwista?atlquu hupal waa, hupkwista?atlquu hupal
 ?uyi-'i*sim                 tlimk-sa*p     hupkw-ista-'atl-qu:          hupal wa* hupkw-ista-'atl-qu:          hupal
-at.the.time-IMP.2SG>1SG.FUT awake-MOM.CAUS roundish.thing-<-FIN-COND.3 sun   say roundish.thing-<-FIN-COND.3 sun
+at.the.time-IMP.2SG>1SG.FUT awake-MOM.CAUS roundish.thing-??-FIN-COND.3 sun   say roundish.thing-??-FIN-COND.3 sun
 do.for.me.at                wake           when.the.sun.is.rising       sun   say when.the.sun.is.rising       sun
 He (Son of Gum Woman) said to her (his wife), "Wake me up when the sun is rising."
 
@@ -557,7 +557,7 @@ Now, some time elapsed.
 # 081
 kwiisqshi?atl ?iiqhhap'atltla ?utl'ucach kwaciinu
 kwis-q-shi(tl)-'atl ?iq-hhap-'atl-tla* DUP.tl-?u-ca-ch kwaci:nu
-different-<-MOM-FIN same-do?-FIN-again IT-it-go.to-REP NAME
+different-??-MOM-FIN same-do?-FIN-again IT-it-go.to-REP NAME
 it.became.another.year doing.the.same going.repeatedly.to NAME
 The following year I did the same thing going back to the same place at Quatsino.
 
@@ -666,7 +666,7 @@ it.has.changed
 # 097
 kwiisqshi?atl ?aya, ?aya, ?aya
 kwis-q-shi(tl)-'atl ?aya ?aya ?aya
-different-<-MOM-FIN many many many
+different-??-MOM-FIN many many many
 it.became.another.year many many many
 The following year there were so many.
 
@@ -715,7 +715,7 @@ I worked at various places in Kyuquot. (?)
 # 104
 ?ahh?aatls hu?acachitl hiistanam?atls Saba\l\las t'ashiis, [saw mill] ?ukwiilna
 ?ahh?a:-'atl-s hu?a-ca-chi(tl) hist-anam-'atl-s ~ t'ashi:s ~ qu-(kw)i:l-na*
-then-FIN-1SG back-go.to-MOM there-<-FIN-1SG ~ Tahsis ~ it-make-1PL
+then-FIN-1SG back-go.to-MOM there-??-FIN-1SG ~ Tahsis ~ it-make-1PL
 then.I.did returned I.came.to ~ Tahsis ~ we.build
 Then I went back and ended up at Saballas, Tahsis, and we made a sawmill.
 
@@ -869,7 +869,7 @@ George Sye got 750 ton.
 # 127
 qum'aac'aqitii [tender boats] k'amintl
 qum'a:-c'aq-it-(y)i: ~ k'ama-in(tl)
-how.many-<-PAST-INDF.3 ~ full-MOM
+how.many-??-PAST-INDF.3 ~ full-MOM
 however.many ~ got.full
 All the tender boats became full.
 
@@ -1051,7 +1051,7 @@ Then I graduated in 1987.
 # 153
 hiist'i?atls ?ahh?aa hil ?ahh
 hist-'i-'atl-s ?ahh?a: hil ?ahh
-there-<-FIN-1SG there there here
+there-??-FIN-1SG there there here
 I.took.it.from there there here
 I took it from there to be here.
 
@@ -1132,7 +1132,7 @@ you.are.right ~
 # 165
 kwiisqshitl'aash ?atlin,
 kwis-q-shi(tl)-?a:sh ?atla-in
-different-<-MOM-INF.3 two-come
+different-??-MOM-INF.3 two-come
 next.year two.came
 The following year, the two came.
 
@@ -1174,7 +1174,7 @@ It has been two years for his wife.
 # 171
 [Three years]?atls?al huhhtak Toshi, yaqchiil?atl'itq, [his wife]
 [three years]-'atl-s-?a*l huhhtak ~ yaq-chi:l-'atl-?i*tq ~
-[three years]-FIN-1SG-PL know ~ who-<-FIN-REL.3 ~
+[three years]-FIN-1SG-PL know ~ who-??-FIN-REL.3 ~
 I.them.for.three.years know ~ his ~
 I have known Toshi and his wife for three years.
 
@@ -1230,7 +1230,7 @@ We call our private parts of our body _qaanim_.
 # 179
 ?ahh?aa, hiishilsa huhhtak <aa<imt'at  ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa?at ch'alch'a, hishuk ch'alch'a
 ?ahh?a: hish-(ch)il-sa huhhtak DUP:-<imt-'at ?usit-'at-qin ?una-`ichi(tl)-qin hist-'itl t'uhhc'iti hapsy'up hap-ca*sqi* hhu:l tlishtlin DUP-ch'isa*q-hhtim wa*-'at ch'alch'a hish-uk ch'alch'a
-then all-with.ref.to-1SG know IT-name-POSS body-POSS-REL.1PL that.much-INC-REL.1PL there-take head hair hair-head? there foot DISTR-<-?? say-SHIFT fingernail all-DUR fingernail
+then all-with.ref.to-1SG know IT-name-POSS body-POSS-REL.1PL that.much-INC-REL.1PL there-take head hair hair-head? there foot DISTR-??-?? say-SHIFT fingernail all-DUR fingernail
 then everything.I know their.names our.body our.whole.body taken.from.there head hair head.hair there foot toes it.is.called nails all nails
 I know the names of different parts of our body — the whole body, starting from our head and head hair, to feet, toes, nails, all nails.
 

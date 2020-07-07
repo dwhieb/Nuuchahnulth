@@ -96,8 +96,8 @@ heey, ?u?umhhimataks kwixsaqsitl waa?atl.
 
 # 014
 c'aanititwa?ish ?ahh qwaasasa, c'aanit, hu?ap'in c'aa, c'aa.
-c'a:nit-it-wa*?i*sh ?ahh qwa:-sasa c'a:nit hu?a-<-in c'a: c'a:
-strong.current.flowing-PAST-QUOT.3 here thus-just strong.current.flowing back-<-come current current
+c'a:nit-it-wa*?i*sh ?ahh qwa:-sasa c'a:nit hu?a-??-in c'a: c'a:
+strong.current.flowing-PAST-QUOT.3 here thus-just strong.current.flowing back-??-come current current
 current.was.strong here always.like.that strong.current.flowing circle.around current current
 There (in the strait) the current was always swift and going back and forth.
 
@@ -300,14 +300,14 @@ He filleted fish.
 # 043
 ?aya, kinaahhckwi hhaal hitinqis?i, m'uukwaquk.
 ?aya, kina:hh-ckwi* hha:l hita-inq-?is-?i* m'ukw-aqa-uk
-many shell-remains.of there there.MOM-down.a.slope-on.the.beach-DEF stone-<-DUR
+many shell-remains.of there there.MOM-down.a.slope-on.the.beach-DEF stone-??-DUR
 many open.shells there on.the.beach stony
 There were many open shells (which he could use to fillet fish) on the stony beach.
 
 # 044
 sachka?ap, ch'ichitl, qum'aakitii.
 sachk-a-'ap ch'i-chitl qum'a:-?a*k-it-(y)i:
-sharp-<-CAUS cut-MOM amount-POSS-PAST-INDF.3
+sharp-??-CAUS cut-MOM amount-POSS-PAST-INDF.3
 sharpened cut how.many.he.might.have.had
 He sharpened the knife and cut all [the fish] he had (whatever he might have had).
 
@@ -356,7 +356,7 @@ Son of Mink was very small. His legs were small.
 # 051
 ?uushyuuya, c'ishp'uuqsmip'it?atquu ?in c'awaaqtl'as
 ?u:sh-yu:ya c'ish-p'u*qs-mip'it-'at-qu: ?in c'awa*-'a*qtl'as
-some-at.the.time filth-smelling.of-<-SHIFT-COND.3 although one-in.the.woods
+some-at.the.time filth-smelling.of-??-SHIFT-COND.3 although one-in.the.woods
 sometimes stinky.smell.in.the.house although all.alone.in.the.woods
 Although he was all alone in the woods, sometimes there was a peculiar smell in his house.
 
@@ -384,7 +384,7 @@ He put his fish up on the rack (to dry).
 # 055
 tlimkshitlwa?ish ?uuyu?aalshitlwa?ish quu?as hhaal ?iihh sukwi?atuk yuul?atl'atl.
 tlimk-shi(tl)-wa*?i*sh ?u-L-yu?a:l-shi(tl)-wa*?i*sh qu:?as hha:l ?i:hh sukwi(tl)-'atuk yu:l-'atl-'atl
-awake-MOM-QUOT.3 it-<-aware.of-MOM-QUOT.3 person there big took-?? over.there-<-FIN
+awake-MOM-QUOT.3 it-??-aware.of-MOM-QUOT.3 person there big took-?? over.there-??-FIN
 woke.up.it.is.said realized.it.is.said person there big reach.for went.over there
 He work up and realized that there was a big person. Suddenly he reached for something (the fish) and left with it.
 
@@ -671,7 +671,7 @@ you.killed.him Son.of.Wolf said ~
 # 096
 ?m?mm, waamitquu, wiixksas.
 ~ wa*-mit-qu: wik-<x>-sa-s
-~ say-PAST-COND.3 not-MINK-<-1SG
+~ say-PAST-COND.3 not-MINK-??-1SG
 ~ he.might.have.said I.didnt.do
 "m-mm," he said, "I didn't do it."
 
@@ -706,7 +706,7 @@ He said to him, "We shall kill you."
 # 101
 haptsaap ?aq?ishtiik, haptaa?ak hhaa muustatak?i.
 hapt-sa*p ?aqi-?isht-(y)i:k hapt-(y)a*-?a*k hha: mu:stati-?a*k-?i*
-in.hiding-MOMCAUS what-<-INDF.2SG in.hiding-CONT-POSS there bow-POSS-DEF
+in.hiding-MOMCAUS what-??-INDF.2SG in.hiding-CONT-POSS there bow-POSS-DEF
 hid what.do.you.call he.had.it.hidden there his.bow
 He hid, you know, he had his bow hidden.
 
@@ -899,7 +899,7 @@ if.only.I if.only.I ~ if.I.had.one.on.the.shoulder I.would.dance
 # 129
 qahhsaapw'it'as ch'aastimcm'it. hhaw'ilisim?i, tl'isiml.
 qahh-sa*p-w'it'as ch'a:stimc-m'i*t hhaw'il-isim-?i* tl'is-iml
-dead-MOMCAUS-about.to mink-son.of chief-<-DEF white-all.over
+dead-MOMCAUS-about.to mink-son.of chief-??-DEF white-all.over
 about.to.kill Son.of.Mink head.chief all.white
 Son of Mink is about to kill the leader of all the wolves that is all white.
 
@@ -1053,7 +1053,7 @@ There were many wolves way down there — down river.
 # 151
 [hoo hoo] waa?atl. ?ahhkuuseesh, tushaakit?ii. waa?atl. waamitii.
 ~ wa:-'atl ?ahhku:-si*sh-VOC tusha:k-it-?i*-VOC wa*-'atl wa*-mit-(y)i:
-~ say-FIN here-IND.1SG-VOC dead-<-DEF-VOC say-FIN say-PAST-INDF.3
+~ say-FIN here-IND.1SG-VOC dead-??-DEF-VOC say-FIN say-PAST-INDF.3
 ~ said I.am.here corpse it.is.said he.might.have.said
 "Heey!" he said, "I am here, you dead meat!" he might have said.
 
@@ -1151,7 +1151,7 @@ it.became.land it.became.mountain.range many.obstructions
 # 165
 na?aa. na?aatl qw'aaxtii, ?uuuu, sayiihhst<atl.
 na?a: na?a:-'atl qw'a:xti: ~ saya-i:hhst-<atl
-hear hear-FIN NAME ~ far.off-<-making.sound.of
+hear hear-FIN NAME ~ far.off-??-making.sound.of
 hear heard NAME ~ sounded.from.a.distance
 _q̓ʷaaxtii_ heard [howling] _woo=_ at a distance.
 
@@ -1312,7 +1312,7 @@ He stopped and urinated.
 # 188
 hhuspiichi?im waa?atl, ?iiwachitl.
 hhus-p-`i*chi(tl)-'i*m wa*-'atl ?i:hhw-`achi(tl)
-salty-<-INC-IMP.2SG.FUT say-FIN large-MOM
+salty-??-INC-IMP.2SG.FUT say-FIN large-MOM
 you.will.become.salty said it.got.large
 "You become salty," he said, and it [the pond of urine] got large [into a body of salt water].
 
@@ -1354,7 +1354,7 @@ He ran for dear life.
 # 194
 tlawachatl'at.
 tlawa-chatl-'at
-near-<-SHIFT
+near-??-SHIFT
 they.are.closer
 They (the wolves) are in close pursuit.
 
@@ -1396,7 +1396,7 @@ you.will.do.thus this how.many another.year periodically do.the.same
 # 200
 susp'il?atl. ?ayiiy'ap'atl nuuchyuu.
 sus-p?il-'atl ?aya-i:y'ap-'atl nu:chyu:
-swim-across.a.channel-FIN many-<-FIN mountain.range
+swim-across.a.channel-FIN many-??-FIN mountain.range
 swam.across.a.channel made.many mountain.range
 He swam across channels and made many mountains.
 
@@ -1557,7 +1557,7 @@ The wolves did not know what Son of Mink _q̓ʷaaxtii_, was doing.
 # 223
 ?uuwa?atltla tla?uu, tlaa?uktaqapi?i qwayac'iik.
 ?u-(w)a(tl)-'atl-tla* tla?u: tla?u-(k)taq-api-?i* qwayac'i:k
-it-come.upon-FIN-again another another-unit-<-DEF wolf
+it-come.upon-FIN-again another another-unit-??-DEF wolf
 found.again another different.kind.of wolf
 And he found another pack of wolves.
 
@@ -1645,7 +1645,7 @@ There he saw a crack [in a boulder].
 # 236
 ch'uq! liphhii?itl'isquu. ch'uq!
 ~ liphh-i:-'itl-?is-qu: ~
-~ slip.in.swiftly-<-<-DIM-COND.3 ~
+~ slip.in.swiftly-??-<-DIM-COND.3 ~
 ~ little.one.slipped.in.swiftly ~
 Chuq! He quickly slipped through into the hole. Chuq!
 
@@ -1722,7 +1722,7 @@ _Wooox_, he took a peek.
 # 247
 ?aax?anihhtaak, laaxqla<ihhtaa, c'iixc'iyupuuk, p'aaxp'a<im?aay waa?atl.
 DUP:-<x>-?ana-i*hhtak-[L] DUP:-<x>-laqw-'ihhta-[L] DUP:-<x>-c'iyup-uk-[L] DUP:-<x>-p'a<im-?a:y wa*-'atl
-SONG-MINK-only-<-VOC SONG-MINK-throw.soft.yielding.mass-at.the.point-VOC SONG-MINK-innards-POSS-VOC SONG-MINK-limpet-VOC say-FIN
+SONG-MINK-only-??-VOC SONG-MINK-throw.soft.yielding.mass-at.the.point-VOC SONG-MINK-innards-POSS-VOC SONG-MINK-limpet-VOC say-FIN
 you.only.have put.soft.yielding.thing.at.the.point its.innards limpet said
 "You only have innards of limpets on the pole!" he said.
 
@@ -1821,7 +1821,7 @@ haa, tiich'ap'is, waa?at.
 # 261
 wiiksas p'ip'ishwa.
 wik-sa-s DUP-p'ish-wa*
-not-<-1SG ??-bad-say
+not-??-1SG ??-bad-say
 I.didnt.do say.something.bad
 "I didn't say anything bad.
 
@@ -1898,7 +1898,7 @@ Sawbill Woman had a baby.
 # 272
 hiitinqsa?ee hhaawim'eet ?aaniik suuw'aas t'aan'ee, licw'isee licw'isee muuhhintlas. waa?atlquuch.
 hita-inq-`sa(tl)-?i*-VOC hha:wi-m'i*t-VOC ?ani-k-VOC suw'a:s-VOC t'an'a-VOC lic-w'isa-VOC lic-w'isa-VOC mu:hhintl-as wa:-'atl-qu:-ch
-there.MOM-down.a.slope-on.the.beach-IMP.2SG-SONG loon-son.of-SONG because-2SG-SONG yours-SONG child-SONG pregnant-<-SONG pregnant-<-SONG sawbill-female say-FIN-COND.3-INF
+there.MOM-down.a.slope-on.the.beach-IMP.2SG-SONG loon-son.of-SONG because-2SG-SONG yours-SONG child-SONG pregnant-??-SONG pregnant-??-SONG sawbill-female say-FIN-COND.3-INF
 come.down.to.the.beach Son.of.Loon because.you yours child give.birth.to.illegitimate.child give.birth.to.illegitimate.child Sawbill.woman used.to.say
 "Come down to the beach, Son of Loon. Because you might be responsible for Sawbill Woman bearing an illegitimate child," they (family of the Sawbill Woman) said.
 
@@ -1912,7 +1912,7 @@ he.wouldnt.be.satisfied that the.baby grabbing.on.to Sawbill.woman there ~ say
 # 274
 chiskatshi?atlquuch hhakwaatl'i.
 chisk-at-shi(tl)-'atl-qu:-ch hha:kwa:tl-?i*
-shake.the.head-<-MOM-FIN-COND.3-INF girl-DEF
+shake.the.head-??-MOM-FIN-COND.3-INF girl-DEF
 would.shake.the.head.slowly the.girl
 The girl kept shaking her head slowly [indicating that they were not the child's father].
 
@@ -1933,7 +1933,7 @@ not.mine father many
 # 277
 ?iinaxy'atl hhaaw'iihhatl, hiyiqsathh, naahhtach tluttluul?i hhaaw'iihhatl, naahhtachm'it, hhuksumm'it, muuch?aa?a, qwishtuup?itq.
 ?i:nax-y'atl hha:w'i:hhatl hish-`iqsa-'athh na:hhtach tlut-tlul-?i* hha:w'i:hhatl na:hhtach-m'i*t hhuksum-m'i*t mu:ch?a:?a qwish-tu*p-?i*tq
-dressed.up-?? young.men all-<-come.from mallard ??-nice-DEF young.men mallard-son.of goose-son.of grebe all?-species-REL.3
+dressed.up-?? young.men all-??-come.from mallard ??-nice-DEF young.men mallard-son.of goose-son.of grebe all?-species-REL.3
 dressed.up young.men from.all.over mallard the.handsome.ones young.men Son.of.Mallard Son.of.Goose grebe all.kinds.of.species
 Many of them, dressed young men, coming from all over the place: handsome young men — mallards, geese, grebes, and all other kinds of bird.
 
@@ -1961,14 +1961,14 @@ come.down.to.the.beach Son.of.Mink maybe.you.are.so. is.it.true yours child
 # 281
 lixcw'isee lixcw'isee muux\hhintlas, [taa taa taa].
 lic-<x>-w'isa-VOC lic-<x>-w'isa mu:hhintl-<x>-as ~
-pregnant-MINK-<-SONG pregant-MINK-?? sawbill-MINK-female ~
+pregnant-MINK-??-SONG pregant-MINK-?? sawbill-MINK-female ~
 give.birth.to.illegitimate.child give.birth.to.illegitimate.child Sawbill.woman ~
 "Sawbill Woman gave birth to an illegitimate child." [they sang, and the baby also called him] "Daddy, Daddy, Daddy."
 
 # 282
 hitinqsatlwa?ish qw'aaxtii tl'iixmaqul yaacshitl.
 hita-inq-`sa(tl)-wa*?i*sh qw'a:xti: tl'i:xw-ma-(q)u*l ya:c-shi(tl)
-there.MOM-down.a.slope-on.the.beach-QUOT.3 NAME smile-<-on.the.face walk-MOM
+there.MOM-down.a.slope-on.the.beach-QUOT.3 NAME smile-??-on.the.face walk-MOM
 went.down.to.the.beach name have.smile.on.the.face walked
 Qwaaxtii went down to the beach and walked with smile on his face.
 
@@ -2045,7 +2045,7 @@ Mink dove into the water. He was diving.
 # 293
 qiiyuukw'alshi?atl. n'aacsiichitl luucma?i ?in chimc'aqak.
 qi:-(y)u*kw'al-shi(tl)-'atl n'a:csi:-chitl lu:cma-?i* ?in chim-c'aq-ak
-for.a.long.time-absent-MOM-FIN see-MOM wife-DEF because proper-<-DUR
+for.a.long.time-absent-MOM-FIN see-MOM wife-DEF because proper-??-DUR
 has.been.gone.for.a.long.time could.see the.wife because water.is.clear
 He was away for a long time. She (Sawbill Woman) could see him because the water was clear.
 
@@ -2129,7 +2129,7 @@ I.divorce to.you said
 # 305
 c'iishhhii?ick. <a<aqtl'aktlee waa?anitquu.
 c'ish-hhi*-?ick <a-<aqtl-'aktli-VOC wa*-'at-it-qu:
-filth-DUR-IND.2SG DUP-<-at.the.rear-VOC say-SHIFT-PAST-COND.3
+filth-DUR-IND.2SG DUP-??-at.the.rear-VOC say-SHIFT-PAST-COND.3
 you.obnoxious.one stupid might.have.been.said.to.him
 "You are dirt! You are stupid!" she might have said to him.
 
@@ -2143,7 +2143,7 @@ Sawbill Woman was paddling the canoe away but didn't go far.
 # 307
 qaacuk qaachuk hhaal t'an'a?is?i.
 qach-L-uk qach-L-uk hha:l t'an'a-?is-?i*
-extend.the.elbow-<-DUR extend.the.elbow-<-DUR that child-DIM-DEF
+extend.the.elbow-??-DUR extend.the.elbow-??-DUR that child-DIM-DEF
 moving.elbows.up.and.down moving.elbows.up.and.down that the.child
 The child was moving his elbows up and down.
 
@@ -2157,6 +2157,6 @@ We call the baby bird "_qačaa_".
 # 309
 qwaa?uk?al mataa qachaa.
 qwa:-?uk-?a*l mat-(y)a* qach-(y)a*
-thus-<-PL fly-CONT extend.the.elbow-CONT
+thus-??-PL fly-CONT extend.the.elbow-CONT
 how.they.are flying.distant move.elbows.up.and.down
 [Because] they fly moving the wings up and down.

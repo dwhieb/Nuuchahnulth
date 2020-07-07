@@ -41,7 +41,7 @@ The man spoke, saying that there is going to be a Wolf Ceremony.
 # 006
 haa chachamhhi?ick waa?atl ?iihhp'iit?i.
 ha: chacham-hhi*-?ick wa:-'atl ?i:hh-p'i*t-?i*
-yes proper-DUR-IND.2SG say-FIN big-<-DEF
+yes proper-DUR-IND.2SG say-FIN big-??-DEF
 yes you.are.right said.it the.high.ranking.person
 "Very well," the high-ranking person said.
 
@@ -83,7 +83,7 @@ A long time ago women, as well as men, used to take off the headbans and put the
 # 012
 ch'ihhiy'ap t'i?uup ?uushtup qwaa?iitq, ?aq?ishtiik, tl'uchum.
 ch'uhh-iy'ap t'i-?u:p ?u:shtup qwa:-?i*tq ?aqi-?isht-(y)i:k tl'uchum
-extinguished-MOMCAUS throw-MOMCAUS something thus-REL.3 what-<-INDF.2SG blue.mussel
+extinguished-MOMCAUS throw-MOMCAUS something thus-REL.3 what-??-INDF.2SG blue.mussel
 extinguish throw something like such.as blue.mussel
 The fire was extinguished by throwing something, such as blue mussels.
 
@@ -125,7 +125,7 @@ The wolves took him out and went out of the Big House.
 # 018
 na?aa?at, m'aasuulshitl hiltqyaapal?i ?ahh.
 na?a:-'at m'a:su:l-shi(tl) hil-tqya:pal-?i* ?ahh
-hear-SHIFT howl-GRAD there-<-DEF here
+hear-SHIFT howl-GRAD there-??-DEF here
 it.was.heard was.howling behind here
 People heard them (the wolves) howling behind the village.
 
@@ -167,14 +167,14 @@ It became daylight.
 # 024
 sa<aaquwa?ish.
 sa-<a:q-ulw-'a?-?i*sh?
-crawl-<-place.of-on.the.rock-IND.3
+crawl-??-place.of-on.the.rock-IND.3
 it.is.the.place.for.the.wolf.ceremony
 This is the place for the Wolf Ceremony. {with picture}
 
 # 025
 nism'a hil?atl ?ahh sa<aaquwa?a.
 nism'a hil-'atl ?ahh sa-<a:q-ulw-'a*?a*
-land here-FIN this crawl-<-place.of-on.the.rock
+land here-FIN this crawl-??-place.of-on.the.rock
 land there this place.for.the.wolf.ceremony
 There is a place here for the Wolf Ceremony.
 
@@ -195,14 +195,14 @@ They (village people) saw wolves and many things in the sea and also behind the 
 # 028
 hiiniicc'i?at sukwi?at wihhi?utl qwayac'iik, susw'ischa?a.
 hini:c-c'i(tl)-'at su-kwi(tl)-'at wihhi-'u*tl qwayac'i:k sus-w'isch-'a?a*
-bring-<-SHIFT holding-MOM-SHIFT on.dry.land-on.the.rocks wolf swim-move.up.the.bank-on.the.rock
+bring-??-SHIFT holding-MOM-SHIFT on.dry.land-on.the.rocks wolf swim-move.up.the.bank-on.the.rock
 they.took.him.away they.grabbed.him swam.ashore wolf swam.to.the.rock.and.move.up
 The wolves grabbed away and took the young man through the water to the shore. They swam ashore on the rock.
 
 # 029
 ?aya, hiiniicc'i?at.
 ?aya hini:c-c'i-'at
-many bring-<-SHIFT
+many bring-??-SHIFT
 many they.took.him.away
 He was taken away by many.
 
@@ -223,7 +223,7 @@ Again the Wolves howled four times.
 # 032
 heey maasuulshitl y'uuqwaa kwiis\hhinatuk. awayaatukwitii, [uu: uu: uu: uu:].
 ~ ma:su:l-shi(tl) y'u:qwa: kwis-hhi*-n'-a*tuk qwa-(y)a*tukw-it-(y)i: ~
-~ howl-MOM also different-DUR-<-making.sound.of thus-making.sound.of-PAST-INDF.3 ~
+~ howl-MOM also different-DUR-??-making.sound.of thus-making.sound.of-PAST-INDF.3 ~
 ~ howled also making.strange.noise thus.it.might.have.sounded ~
 _Wooo_, they also howled in a strange way. They sounded like this …
 
@@ -244,7 +244,7 @@ He noticed something was wrong [about his ritual].
 # 035
 takaas?atltla ?ahh hiitaahht'uul yaqii sa<aaquw'a?a.
 taka:s-'atl-tla* ?ahh hita-hht-'u*l yaqw-(y)i: sa-<a:q-ulw-'a*?a
-still-FIN-again this there.MOM-move.downstream-on.the.rocks which-INDF.3 crawl-<-place.of-on.the.rock
+still-FIN-again this there.MOM-move.downstream-on.the.rocks which-INDF.3 crawl-??-place.of-on.the.rock
 they.are.doing.the.same this come.down.frequently the.place.where have.the.wolf.ceremony
 They (the wolves) kept coming down to the place where they do their ritual.
 
@@ -363,7 +363,7 @@ And the people finished the Wolf Ceremony.
 # 052
 ?iiqhhukw'atl ?in hiniicc'i?at qwayac'iik, qwayaac'iksa?i, sashtup?i chamihhta.
 ?i:qhh-ukw-'atl ?in hin-i:c-c'i-'at qwayac'i:k qwaya:c'ik-sa-?i* sa-shtu*p-?i* chamihhta
-telling-DUR-FIN that there.MOM-take-<-SHIFT wolf wolf-real-DEF crawl-thing-DEF proper
+telling-DUR-FIN that there.MOM-take-??-SHIFT wolf wolf-real-DEF crawl-thing-DEF proper
 told that they.took.him.away wolf the.real.wolf the.animal real.one
 He (the chief) told his people that his son was taken by a pack of wolves, the real wolves, the real animals [not the ceremonial performers].
 
@@ -657,7 +657,7 @@ When the wolves hunted, they sent the ones that ran fastest.
 # 095
 k'uuch'iihh?ic'atlquuch?al qahhsaap, wa?ichup.
 k'u:-ch-'i:hh-?ic-'atl-qu:-ch-?a*l muwach qahh-sa:p wa?ich-up
-short.distance-<-persuing-DIM?-FIN-COND.3-INF-PL deer dead-CAUS sleeping-MOMCAUS
+short.distance-??-persuing-DIM?-FIN-COND.3-INF-PL deer dead-CAUS sleeping-MOMCAUS
 they.would.get.up.to.it.in.no.time deer kill put.him.into.sleep
 It didn't take them long to catch a deer and kill it, or 'put it to sleep'.
 
@@ -685,7 +685,7 @@ It is the same with mammals. Never say "kill".
 # 099
 ?uu<iichi?i. ?uu<iichi?apikqs wawaa.
 ?u:q-'i*chi-?i* ?u:q-'i*chi-'ap-ik-qs wawa:
-nice-INC?-IMP.2SG nice-INC?-CAUS-<-SUB.1SG say
+nice-INC?-IMP.2SG nice-INC?-CAUS-??-SUB.1SG say
 you.become.tame I.will.make.it.tame say
 Say "You become tame!" or "I will make you tame."
 
@@ -706,14 +706,14 @@ Wolves would say that lisping.
 # 102
 wik qwaa qwaaqin chamihhta niiw'a ciiqciiqa ?u<iichi?atikqs.
 wik qwa: qwa:-qin chamihhta ni:w'a DUP#-ciq-a* ?u:q-'i*chi-'ap-ik-qs
-not thus thus-REL.1PL properly we IT-speak-REP nice-INC?-CAUS-<-SUB.1SG
+not thus thus-REL.1PL properly we IT-speak-REP nice-INC?-CAUS-??-SUB.1SG
 not thus like.us properly we speaking I.will.make.it.tame
 They are unlike us who speak properly as "_ʔuʕiičiʔatikqs_".
 
 # 103
 ?u<iichi?atikqs waa waanaa niiw'a.
 ?u:q-'i*chi-'ap-ik-qs wa: wa*-na* ni:w'a
-nice-INC?-CAUS-<-SUB.1SG say say-1PL we
+nice-INC?-CAUS-??-SUB.1SG say say-1PL we
 I.will.make.it.tame say we.say we
 We will say, "_ʔuʕiičiʔatikqs_."
 
@@ -741,7 +741,7 @@ Now they departed.
 # 107
 ?u?iiyis ?achaq?ishtiik hii<ii?athh, hil qii.
 ?u-?i*ya-?is ?achaq-?isht-(y)i:k hu:<i:?athh hil qi:
-it-reach-on.the.beach who-<-INDF.2SG Ohiat there for.a.long.time
+it-reach-on.the.beach who-??-INDF.2SG Ohiat there for.a.long.time
 landed.on.the.beach place.called Ohiat there for.a.long.time
 They went to a seaside village called Ohiat and stayed there for quite a while.
 
@@ -804,7 +804,7 @@ it.was.as.if go.through.bushes
 # 116
 hhimqshitlquu ?u?inkwi?is?i such'as hhimqhhimqsh hisiik?itq.
 hhimq-shi(tl)-qu: ?u-?inkw-it-?is-?i* such'as DUP#-hhimq-sh his-i*k-?i*tq
-dodge-MOM-COND.3 it-<-PAST-DIM-DEF tree IT-dodge-SPOR there-going.along-REL.3
+dodge-MOM-COND.3 it-??-PAST-DIM-DEF tree IT-dodge-SPOR there-going.along-REL.3
 as.if.they.got.out.of.the.way saplings tree keep.dodging.away his.path
 Tree branches [that would obstruct the path] would get out of his way.
 
@@ -853,7 +853,7 @@ Makah was very close [to Victoria].
 # 123
 kwisilatlna tlahh hhuu sayackshi?atlna ?aa?iiktaqshitlckwi.
 kwis-sila-'atl-na* tlahh hhu: saya-ck-shi(tl)-'atl-na* ?a:?i:ktaq-shi(tl)-ckwi*
-different-act.like-FIN-1PL now over.there far-<-MOM-FIN-1PL happen.miraculously-MOM-happened
+different-act.like-FIN-1PL now over.there far-??-MOM-FIN-1PL happen.miraculously-MOM-happened
 we.changed.again now over.there we.are.far.apart.now something.miraculous.happened
 [But] it has changed and now we are far apart [from Makah]. Something extraordinary happened.
 
@@ -951,14 +951,14 @@ _n̓upčiiɬ_ is "one day".
 # 137
 hinasi?atl hu?ap'in ?u?ii?as hiiltqyaap'ii?as?i
 hin-as-i(tl)-'atl hu?a-p'in ?u-?i:-'as hil-tqya:p'i:-'as-?i* <upnit
-there.MOM-reaching.to-MOM-FIN back-?? it-reach-on.the.ground there-<-in.the.village?-DEF Opnit
+there.MOM-reaching.to-MOM-FIN back-?? it-reach-on.the.ground there-??-in.the.village?-DEF Opnit
 reached circle.around landed behind.the.village Opnit
 They had come all the way back to the spot behind the Opnit village.
 
 # 138
 wik?ii sayaach'a kwisutaqtu. wikmatak sayaa. [like three hundred feet], ?unaach'a ?ahh qwaa.
 wik-?i: saya-a*ch'a kwis-ut-a*qtu* wik-matak saya-(y)a* ~ ?una-ch'a ?ahh qwa:
-not-reach far-height different-<-go.over not-probably far-CONT ~ that.much-?? this so
+not-reach far-height different-??-go.over not-probably far-CONT ~ that.much-?? this so
 not high over.the.hill probably.not far ~ height this so
 It was not high over the hill, it couldn't be that high up — like three hundred feet high.
 
@@ -1063,7 +1063,7 @@ The knots remained the same in the fireplace.
 # 153
 ?anat'uu?at hhamip'at quu?as yaqchiil hhaal ma?as?i ?iihh, ?unahhit?i mahht'iimitquu. mahht'iimitquu.
 ?anat'u:-'at hhamip-'at qu:?as yaqw-chi:-`il hha:l ma?as-?i* ?i:hh ?una-hh-it-?i* mahht'i:-mit-qu: mahht'i:-mit-qu:
-barely-SHIFT knowing-SHIFT person who-<-in.the.house there house-DEF big that.much-size-PAST-DEF house-PAST-COND.3 house-PAST-COND.3
+barely-SHIFT knowing-SHIFT person who-??-in.the.house there house-DEF big that.much-size-PAST-DEF house-PAST-COND.3 house-PAST-COND.3
 barely recognizable person who.they.might.have.been.sitting.with there the.house big whatever.size.it.might.have.been the.house the.house
 They could barely recognize people sitting together in the Big House — however big the house was.
 
@@ -1119,7 +1119,7 @@ The wolves crawled out of the woods to the rocky point.
 # 161
 hil?atl kwiikwiisahhi histakshitl, hishsy'ihhtaqshitl.
 hil-'atl DUP-kwis-?? hist-ak-shi(tl) hish-sy'i-hht-taq-shi(tl)
-there-FIN DISTR-different-?? there-DUR-MOM all-<-<-come.from-MOM
+there-FIN DISTR-different-?? there-DUR-MOM all-??-<-come.from-MOM
 there best.hunteres be.at.the.place came.from.everywhere
 The best hunters were there, coming from everywhere.
 
@@ -1133,7 +1133,7 @@ The hunters threw spears and they aimed their spears at his shoulder.
 # 163
 kiitxukchikmatakckwi?aal hamuut.
 kitxw-uk-chik-matak-ckwi*-?a:l hamu:t
-scrape.off-<-<-probably-done-always bone
+scrape.off-??-<-probably-done-always bone
 would.probably.have.scraped.the.target bone
 Spears might have [penetrated his skin and] scraped his bone [but they didn't make any serious damage on the bone].
 
@@ -1182,7 +1182,7 @@ People tried to club the wolves, but the wolves would bite the clubs and take th
 # 170
 hiniip'al, hu?aasshi?atl tluukwaana.
 hini:p-?a*l hu?a-a:s-shi(tl)-'atl tlu:kwa:na
-catch-PL back-<-MOM-FIN Wolf.Ceremony
+catch-PL back-??-MOM-FIN Wolf.Ceremony
 they.captured started.over.again Wolf.Ceremony
 People captured him (the young man). They started the ritual all over again.
 
@@ -1231,7 +1231,7 @@ The young man was taken away so that he could not do anything [that ordinary peo
 # 177
 ch'itiityaqpitl hhaaw'ilat'i, qwaaquu cubiclequu, qwaa?iitq ?ahh hiil?iitq wa?ich.
 ch'it-i:t-yaq-pi(tl) hha:w'ilatl-?i* qwa:-qu: cubicle-qu: qwa:-?i*tq ?ahh hil-L-?i*tq wa?ich
-partition-<-have.done-in.the.house young.man-DEF thus-COND.3 cubicle-COND.3 thus-REL.3 this there-<-REL.3 sleeping
+partition-??-have.done-in.the.house young.man-DEF thus-COND.3 cubicle-COND.3 thus-REL.3 this there-??-REL.3 sleeping
 they.have.put.him.into.a.cell the.young.man like thing.like.cubicle like this where.he sleeping
 They put him (the young man) into a cell, like a cubicle like this. This was how his sleeping place looked. {with a picture}
 

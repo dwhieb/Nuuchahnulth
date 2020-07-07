@@ -104,7 +104,7 @@ They say the dogs keep the evil away.
 # 015
 tutuhhst'uu?ak ?in, ?ayackwi sashtup huu?ak.
 DUP-tuhh-st'u:-?a*k ?in ?aya-ckwi* sa-shtu*p hu:?ak
-<-afraid-<-POSS so many-happened crawl-species long.ago
+<-afraid-??-POSS so many-happened crawl-species long.ago
 keep.evil.away so there.were.many animal long.ago
 They say the dogs keep the evil away, so there were many dogs before.
 
@@ -307,7 +307,7 @@ You will know how the dog life would be."
 # 044
 laqwayat m'uch'ic'acy'a?i.
 laqw-ayi*-'at m'uch'ich-?ac-y'ak-?i*
-throw.soft.yielding.mass-give-SHIFT clothed-<-instrument-DEF
+throw.soft.yielding.mass-give-SHIFT clothed-??-instrument-DEF
 it.was.tossed its.clothing
 He tossed his clothing [to the chief].
 
@@ -349,7 +349,7 @@ He lay on all fours right beside the bed.
 # 050
 ?aa ?aathhshitl, hinaspitl ?iinitl'i, chim?il? citkpitl.
 ~ ?athh-shi(tl) hin-as-pi(tl) <ini:tl-?i* chim?il-?i* citk-pi(tl)
-~ night-GRAD there.MOM-<-in.the.house dog-DEF bed-DEF lay.down-in.the.house
+~ night-GRAD there.MOM-??-in.the.house dog-DEF bed-DEF lay.down-in.the.house
 ~ it.becomes.night got.on.the.bed the.dog the.bed lay.down.in.the.house
 It became night, and the dog got on and lay down on the bed.
 
@@ -475,7 +475,7 @@ Then he went home.
 # 068
 ?ucahhta?ap'at, chim?ilukwit?i, hiil?iitq?aal t'iqwil.
 ?u-ca-hhta-'ap-'at chim?il-ukw-it-?i* hil-L-?i*tq-?a:l t'iqw-`il
-it-go.to-headed.for-CAUS-SHIFT bed-POSS-PAST-DEF there-<-REL.3-always sit-on.the.floor
+it-go.to-headed.for-CAUS-SHIFT bed-POSS-PAST-DEF there-??-REL.3-always sit-on.the.floor
 they.brought.him to.his.bed where.he.used.to.be sitting.on.the.floor
 They brought him to his bed where he used to be. He sat on the bed.
 
@@ -517,7 +517,7 @@ Now it became the fourth year.
 # 074
 muuq?ichhh hiinasit.
 mu:-q?ichhh hin-as-it
-four-years there-<-PAST
+four-years there-??-PAST
 four.years it.reached?
 It became the fourth year. (?)
 
@@ -531,7 +531,7 @@ They [the family of the head chief] gathered whatever things they served to peop
 # 076
 kwiikwiisahhickwi muuwach'athh, tl'aaq, ?ayimsuk?al tl'aaq, maa?ak, ha?ukshitl.
 DUP:-kwis-ahhi-ckwi* mu:wach-'athh tl'a:q ?aya-imsuk-?a*l tl'a:q ma:?ak ha?uk-shi(tl)
-DISTR-different-<-having.happened NAME-residing animal.fat many-<-PL animal.fat gray.whale eat-MOM
+DISTR-different-??-having.happened NAME-residing animal.fat many-??-PL animal.fat gray.whale eat-MOM
 group.of.hunters Mowachaht animal.fat plenty animal.fat gray.whale ate
 The distinguished Mowachaht hunters feasted on blubber, lots of blubber from the gray whale.
 
