@@ -341,10 +341,10 @@ for.ten.days  ~          three.times.per   one       moon
 I finished (came out of) school in 1927.
 
 # 050
-ʔacyuu              ʕ ʔacyuu,             fišing yaaqʷiɬʔitq                    mamaɬn̓i         waa, kʷacinu  hiistiɬ,                ʔacyuu
-ʔac-yu·             ~ ʔac-yu·             ~      yaqʷ-(č)iɬ-ʔi·tq               ma-maɬ-n̓i·      wa·  kʷaciːnu hist-(č)iɬ              ʔac-yu·
-go.out.fishing-done ~ go.out.fishing-done ~      which-with.reference.to-REFL.3 dwell-move-come say  NAME     there-with.reference.to go.out.fishing-done
-be.out.hunting      ~ be.out.hunting      ~      with.reference.to.which        white.man       say  NAME     at                      be.out.hunting
+ʔacyuu              ?? ʔacyuu,             fišing yaaqʷiɬʔitq                    mamaɬn̓i         waa, kʷacinu  hiistiɬ,                ʔacyuu
+ʔac-yu·             ~  ʔac-yu·             ~      yaqʷ-(č)iɬ-ʔi·tq               ma-maɬ-n̓i·      wa·  kʷaciːnu hist-(č)iɬ              ʔac-yu·
+go.out.fishing-done ~  go.out.fishing-done ~      which-with.reference.to-REFL.3 dwell-move-come say  NAME     there-with.reference.to go.out.fishing-done
+be.out.hunting      ~  be.out.hunting      ~      with.reference.to.which        white.man       say  NAME     at                      be.out.hunting
 I was out fishing at Quatsiino
 
 # 051
@@ -521,7 +521,7 @@ The canoe got capsized.
 
 # 076
 wiyaqḥʔisim            ʔukɬaa            ʔiʔišpaaɬ
-ʕ                      ʔu-kɬa·           ʔiʔišpaːɬ
+??                     ʔu-kɬa·           ʔiʔišpaːɬ
 ??                     it-having.as.name (fish.name)
 he.accidentally.became being.named
 (Through this unfortunate incident) he ended up becoming _ʔiʔišpaaɬ_.
@@ -542,7 +542,7 @@ Its broth also tastes like pitch gum.
 
 # 079
 qaani čaanits             qaɬcačiƛ
-ʕ     čaːni-it-s          qaɬ-ca-či(ƛ)
+??    čaːni-it-s          qaɬ-ca-či(ƛ)
 ??    temporally-PAST-1SG branching.off-go.to-MOM
 ??    I.for.now           branched.off
 I side-tracked a little.
@@ -630,7 +630,7 @@ I ended up in a logging camp.
 
 # 092
 suučiƛ waa. suučiƛ. [Eight hours] ,        ʔaƛakʷaɬ. [Eight hours] qum̓aa.
-ʕ      ʕ    ʕ       ~             ʔaƛakʷaɬ ~         qum̓aː
+??     ??   ??      ~             ʔaƛakʷaɬ ~         qum̓aː
 ??     ??   ??      ~             eight    ~         how.many
 ??     ??   ??      ~             eight    ~         how.many
 We worked for eight hours a day. (?)
@@ -707,7 +707,7 @@ Then after some time, I went to Kyuquot for a long time — four years.
 
 # 103
 ʔuuncpanač qaay̓uuk̓ʷatḥ mamuuk
-ʕ          qaːy̓uːk̓ʷatḥ mamuuk
+??         qaːy̓uːk̓ʷatḥ mamuuk
 ??         Kyuquot     working
 ??         Kyuquot     working
 I worked at various places in Kyuquot. (?)
@@ -1092,7 +1092,7 @@ During summer, (I have been working with) a couple.
 
 # 159
 c̓aašaa c̓awaak Toši
-ʕ      c̓awaːk ~
+??     c̓awaːk ~
 ??     one    ~
 ??     one    ~
 First Toshi was alone.

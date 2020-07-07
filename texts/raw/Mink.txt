@@ -1630,7 +1630,7 @@ I.am.not I.am.not I.am.not
 
 # 234
 ?_uxyaayiswa?ish ch'aastimchm'it.
-<uya:s-?_x>-?is-wa*?i*sh ch'a:stimc-m'i*t
+?_uya:s-<x>-`is-wa*?i*sh ch'a:stimc-m'i*t
 move-MINK-on.the.beach-QUOT.3 mink-son.of
 move.on.the.beach Son.of.Mink
 Son of Mink shifted his body a little on the beach.
@@ -1645,7 +1645,7 @@ There he saw a crack [in a boulder].
 # 236
 ch'uq! liphhii?itl'isquu. ch'uq!
 ~ liphh-i:-'itl-?is-qu: ~
-~ slip.in.swiftly-??-?_-DIM-COND.3 ~
+~ slip.in.swiftly-??-??-DIM-COND.3 ~
 ~ little.one.slipped.in.swiftly ~
 Chuq! He quickly slipped through into the hole. Chuq!
 

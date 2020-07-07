@@ -6,8 +6,8 @@ abbreviation: Afterbirth
 ID:           CL11
 ---
 # 001
-?aamuml?atlquu nay'aqak, ?ayaakit?aal qwaqwaa?aahhii ?uuksna??aal c'ahhwackwi. ?an ?uutaqit?aal walyaqilhh.
-?am-uml-'atl-qu: nay'aqak ?aya-?a*k-it-?a:l DUP.CV-qwa:-'a:hh-(y)i: ?u-ksna??a:l c'ahhwackwi ?an ?u-taq-it-?a:l wal-yaq-`il-(q)hh
+?aamuml?atlquu nay'aqak, ?ayaakit?aal qwaqwaa?aahhii ?uuksna?_aal c'ahhwackwi. ?an ?uutaqit?aal walyaqilhh.
+?am-uml-'atl-qu: nay'aqak ?aya-?a*k-it-?a:l DUP.CV-qwa:-'a:hh-(y)i: ?u-ksna?_a:l c'ahhwackwi ?an ?u-taq-it-?a:l wal-yaq-`il-(q)hh
 first-be.born-FINITE-COND baby many-POSS-PAST-always DISTR-thus-perhaps-INDF.3 it-handling afterbirth because it-take.care.of-PAST-always go.home-done-in.the.house-SIM
 when.first.born baby there.are.many they.used.to.do handling.it afterbirth because they.used.to.take.care.of at.home
 When a baby was born, they used to do many things with the afterbirth, since they used to take care of it at home.
@@ -20,8 +20,8 @@ buried.it not doing.only bury.in.the.ground get.rid.of
 They buried it [carefully]. They didn't just bury it or throw it away.
 
 # 003
-?uuksna??aal?atlquu qwiima??ukmahhsa?itq hhaakwaatl. tl'a??iiksap t'ut'unaxk'uk, pic'up, ch'itapt. qwiq?iitq pika?uuqiily'ak (paaskitiily'ak). tl'a??iiksap'atl, c'uy'iitap'atl.
-?u-ksna??a:l-'atl-qu: qwi-ma??uk-mahhsa-?i*tq hha:kwa*tl tl'a??i:k-sa*p t'ut'unaxk'uk pic'up ch'itapt qwiq-?i*tq pika?u:q-i:l y'akw pa:skit-i:l-y'akw tl'a??i:k-sa*p-'atl c'us-'i*tap-'atl
+?uuksna?_aal?atlquu qwiima?_ukmahhsa?itq hhaakwaatl. tl'a?_iiksap t'ut'unaxk'uk, pic'up, ch'itapt. qwiq?iitq pika?uuqiily'ak (paaskitiily'ak). tl'a?_iiksap'atl, c'uy'iitap'atl.
+?u-ksna?_a:l-'atl-qu: qwi-ma?_uk-mahhsa-?i*tq hha:kwa*tl tl'a?_i:k-sa*p t'ut'unaxk'uk pic'up ch'itapt qwiq-?i*tq pika?u:q-i:l y'akw pa:skit-i:l-y'akw tl'a?_i:k-sa*p-'atl c'us-'i*tap-'atl
 it-handling-FINITE-COND that.which-one.skilled.in-designing.to-REL.3 girl wrapped-MOMCAUS tule.grass bark swamp.grass that.which-REL.3 basket-make-useful.for basket-make-useful.for wrapped-MOMCAUS-FINITE dig-on.the.ground-FINITE
 they.would.take.it what.they.want.her.to.be.talented.at girl wrap tule.grass bark swamp.grass that.which for.making.baskets for.making.baskets wrap.up buried.it
 They took whatever they wanted the girl to be talented at and wrap it [with the afterbirth]: they put things like tule grass, cedar bark, swamp grass, or whatever they used to make baskets with.
@@ -41,15 +41,15 @@ and boys also doing.various.things.to.him also
 And for boys too, they did all sorts of things.
 
 # 006
-?uuwink'ap'at chiicy'akshtup, qwaaqhhcum?itq wiicahhi ?u?$1?$2ihh?atlquu muwach hihiqtup.
+?uuwink'ap'at chiicy'akshtup, qwaaqhhcum?itq wiicahhi ?u?u?iihh?atlquu muwach hihiqtup.
 ?u-wink-'ap-'at chi:c-y'akw-shtu*p qwa:-(q)hh-cum-?i*tq wica-hhi* ?u-'i:hh-'atl-qu: muwach hihiq-tu*p
 it-mix.with-MOMCAUS-SHIFT go.fishing-thing.for-thing thus-SIM-should-REL.3 wealth-DUR it-hunting-FINITE-COND deer various-thing
 mix.with fishing.gear whatever.that.would.make.him well.off.person when.he.hunted.for deer various.things
 They used to put fishing gear or whatever that would make him well-off when he hunted for deer and so on.
 
 # 007
-y'uuqwaa ?uuksna??aal?at c'uy'iitapw'it'as?atlquu c'ahhwackwi. y'uuqwaa ch'iima, qwiima??ukmahhsap'at?itq ??aak??aakwa.
-y'u:qwa: ?u-ksna??a:l-'at c'us-'i*tap-w'it'as-'atl-qu: c'ahhwackwi y'u:qwa: ch'i:ma qwi-ma??uk-mahhsa-'ap-'at-?i*tq ??akw-(y)a
+y'uuqwaa ?uuksna?_aal?at c'uy'iitapw'it'as?atlquu c'ahhwackwi. y'uuqwaa ch'iima, qwiima?_ukmahhsap'at?itq ?_aak?_aakwa.
+y'u:qwa: ?u-ksna?_a:l-'at c'us-'i*tap-w'it'as-'atl-qu: c'ahhwackwi y'u:qwa: ch'i:ma qwi-ma?_uk-mahhsa-'ap-'at-?i*tq ?_akw-(y)a
 also it-handling-SHIFT dig-on.the.ground-about.to-FINITE-COND afterbirth also knife that.which-one.skilled.in-desiring.to-MOMCAUS-SHIFT-REL.3 cut-REP
 also they.would.take they.would.be.burying.it afterbirth also knife what.they.want.him.to.be.talented.at carving
 Also they used to bury with the afterbirth a knife and whatever you would want him to be talented at carving.
@@ -69,8 +69,8 @@ just.recently still doing.that
 People were still doing that until recently.
 
 # 010
-?uukwil huhhtak hhaakwaatl histaqshitl ??aahhuus?athh.
-?u-kwil huhhtak hha:kwa*tl his-taq-shitl ??a:hhu:s?athh
+?uukwil huhhtak hhaakwaatl histaqshitl ?_aahhuus?athh.
+?u-kwil huhhtak hha:kwa*tl his-taq-shitl ?_a:hhu:s?athh
 she-with.ref.to know.how girl there-come.from-MOM Ahousaht
 about.her know.how girl came.from Ahousaht
 I know one girl from Ahousaht.
@@ -138,8 +138,8 @@ she.was.working.on.the.floor mother it.was.a.hot.day
 The mother was working on a mat sitting on the floor. It was a hot day.
 
 # 002
-hila??aqilhh?atl ma?itlqac?is ?um?iiqsak ?uukwiil c'iihhati.
-hil-a??aq-`il-(q)hh-'atl ma?itlqac-?is ?um?i*qsu-?a*k ?u-kwi:l c'i:hhati
+hila?_aqilhh?atl ma?itlqac?is ?um?iiqsak ?uukwiil c'iihhati.
+hil-a?_aq-`il-(q)hh-'atl ma?itlqac-?is ?um?i*qsu-?a*k ?u-kwi:l c'i:hhati
 there-beside-on.the.floor-SIM-FINITE young.boy-DIM mother-POSS it-make arrow
 he.sat.during.it.by.her.on.the.floor little.boy his.mother make.it arrow
 A little boy was beside his mother making arrows.
@@ -194,8 +194,8 @@ go.and go.ahead.and.turn.into.a.bluejay I.dont.care he.said.again the.child
 Go ahead and turn into a blue jay. I don't care," the child repeated.
 
 # 010
-?anasilap'at wik??atlshitl.
-?ana-sila-'ap-'at wik-??atl-shitl
+?anasilap'at wik?_atlshitl.
+?ana-sila-'ap-'at wik-?_atl-shitl
 only-do-MOMCAUS-SHIFT not-make.sound-MOM
 he.just.did become.silent
 He had just stopped talking.
@@ -271,8 +271,8 @@ whenever.he.would.get.close the.boy she.just.did.that go.different.places flew.o
 Whenever the little boy got close, it would just fly away to another tree.
 
 # 021
-wik wiik??atlp'ichhh ma?itlqac?i, maa, ?uum naqshi?i, wawaa ??iihhp'ichhh.
-wik wi-??atl-p'ichhh ma?itlqac-?i* ma: ?u:m naq-shi(tl)-'i* wawa: ??ihh-p'ichhh
+wik wiik?_atlp'ichhh ma?itlqac?i, maa, ?uum naqshi?i, wawaa ?_iihhp'ichhh.
+wik wi-?_atl-p'ichhh ma?itlqac-?i* ma: ?u:m naq-shi(tl)-'i* wawa: ?_ihh-p'ichhh
 not not-make.sound-doing.while young.boy-DEF here! Mom drink-MOM-IMP say cry-doing.while
 not keep.silent.while.doing.it the.boy here! Mom drink say crying.while.doing.it
 The little boy did not stop and kept saying while crying, "Here, mom, have a drink."
@@ -285,8 +285,8 @@ know the.boy that really his.turned.into.a.bluejay mother
 The little boy knew now that his mother really turned into a blue jay.
 
 # 023
-t'i??itl ??iihhp'ichhh, ?uu ?uum, wiiksas ?aa?aanaqhhwa, wawaa ??ihhak.
-t'iqw-'i*(tl) ??ihh-p'ichhh ?u: ?u:m wik-sa-s DUPCV:-?a:ni-(q)hh-wa* wawa: ??ihh-ak
+t'i?_itl ?_iihhp'ichhh, ?uu ?uum, wiiksas ?aa?aanaqhhwa, wawaa ?_ihhak.
+t'iqw-'i*(tl) ?_ihh-p'ichhh ?u: ?u:m wik-sa-s DUPCV:-?a:ni-(q)hh-wa* wawa: ?_ihh-ak
 sit.down-on.the.ground cry-doing.while oh Mom not-real-1SG DISTR?-really-SIM-say say cry-DUR
 sit.down crying.while.doing.it oh Mom I.didnt.do I.didnt.really.mean.it say crying
 He sat down and cried; "Oh, mother, I did not really mean it," he said crying.
@@ -306,8 +306,8 @@ teachings you.listen when.someone.does.to do.it it.is.said
 Lesson — You listen when someone tells you to do something.
 
 # 026
-wik naaw'ahhi qiip'at??atl'atquuk ?an ?uushsuuqstu?aqtl'atsuu ?ayup'it??atl'atquu.
-wik na:w'ahhi qi:-p'it-??atl-'at-qu:-k ?an ?u:sh-su*qstu(tl)-?aqtl-'at-su: ?ayu-p'it-??atl-'at-qu:
+wik naaw'ahhi qiip'at?_atl'atquuk ?an ?uushsuuqstu?aqtl'atsuu ?ayup'it?_atl'atquu.
+wik na:w'ahhi qi:-p'it-?_atl-'at-qu:-k ?an ?u:sh-su*qstu(tl)-?aqtl-'at-su: ?ayu-p'it-?_atl-'at-qu:
 not waiting for.long-times-make.sound-SHIFT-COND-2SG because some-in.mind-FUT-SHIFT-2PL many-times-make.sound-SHIFT-COND
 not waiting until.they.repeated.many.times.to.you because they.will.get.angry.at.you when.they.have.to.keep.repeating
 Don't wait until they have to repeat it to you, because they will get angry at you when they have to keep repeating.
@@ -324,8 +324,8 @@ abbreviation: Canoe
 ID:           GL4
 ---
 # 001
-??as??assh, ch'aapaciilw'it'as.
-DUP#-??as-sh ch'apac-i:l-w'it'as
+?_as?_assh, ch'aapaciilw'it'as.
+DUP#-?_as-sh ch'apac-i:l-w'it'as
 IT-do.carpenter.work-SPOR canoe-make-about.to
 doing.carpenter.work about.to.make.a.canoe
 He is going to build a canoe.
@@ -366,8 +366,8 @@ one.always.does one.speaks.to one.communicates.with above the.chief
 You always pray to and communicate with the Chief Above.
 
 # 007
-laaklaakw'at, wikp'i??atquu, wik'atquu ?uusuqtat, wik'atquu ??achuu?at.
-DUP#-la:kw-'at wik-p'iq-'at-qu: wik-'at-qu: ?u:suqta-'at wik-'at-qu: ??achu:-'at
+laaklaakw'at, wikp'i?_atquu, wik'atquu ?uusuqtat, wik'atquu ?_achuu?at.
+DUP#-la:kw-'at wik-p'iq-'at-qu: wik-'at-qu: ?u:suqta-'at wik-'at-qu: ?_achu:-'at
 ??-please.do-SHIFT not-??-SHIFT-COND.3 not-SHIFT-COND.3 hurt-SHIFT not-SHIFT-COND.3 be.wounded-SHIFT
 please.do so.nothing.would.happen may.nothing.happen one.gets.hurt may.nothing.happen one.gets.wounded
 "May there not be an accident. May there be no wounds."
@@ -380,8 +380,8 @@ please.do watch.over so.it.moves.properly.in.the.air fall and wherever.it.will.l
 "Please watch over [me] (= hear my prayer) so it [will] fall gently. [Gently it will fall] wherever on the ground it will land."
 
 # 009
-qu?ac'aqtl, wikyuuquu quw'iitl such'as?i ch'aapaciilma??uk ??iiq??atl, "[huu! huu!]".
-qu?ac-'aqtl wik-yu*-qu: ?uxw-'i*tl such'as-?i* ch'apac0i:l-ma??uk ??iq-??atl ~
+qu?ac'aqtl, wikyuuquu quw'iitl such'as?i ch'aapaciilma?_uk ?_iiq?_atl, "[huu! huu!]".
+qu?ac-'aqtl wik-yu*-qu: ?uxw-'i*tl such'as-?i* ch'apac0i:l-ma?_uk ?_iq-?_atl ~
 human-inside not-have.done-COND.3 topple.over-on.the.ground tree-DEF canoe-make-one.skilled.in yell.out-make.sound ~
 there.is.a.man.inside before fell.on.the.ground the.tree canoe.maker cries ~
 There is a man inside. Before felling the tree, the canoe make cries "ho! ho!"
@@ -408,8 +408,8 @@ spirit.inside elbow.joints from to hand
 The spirit inside [the tree] is [as tall as] from the elbow to the fingertips.
 
 # 013
-?atlac'asqi tl'ihhuk ??iyaal t'uhhc'iti,
-?atla-c'as-qi* tl'ihh-uk ??iya:l t'uhhc'iti
+?atlac'asqi tl'ihhuk ?_iyaal t'uhhc'iti,
+?atla-c'as-qi* tl'ihh-uk ?_iya:l t'uhhc'iti
 two-at.the.crown-on.top red-DUR feather head
 two.at.the.crown.of.the.head red feather head
 There are two red featheres at the crown of his head.
@@ -422,8 +422,8 @@ go.out fly.out the.top
 He flies out from the top [of the tree].
 
 # 015
-ch'aapacma??uk?i, wik n'achmisintl ?unw'iitl qin ch'ihh?aqtl such'as?i.
-ch'apac-ma??uk-?i* wik n'ach-nmisa-in(tl) ?unw'i:tl ?in ch'ihh-'aqtl such'as-?i*
+ch'aapacma?_uk?i, wik n'achmisintl ?unw'iitl qin ch'ihh?aqtl such'as?i.
+ch'apac-ma?_uk-?i* wik n'ach-nmisa-in(tl) ?unw'i:tl ?in ch'ihh-'aqtl such'as-?i*
 canoe-maker.of-DEF not look-on.top-MOM because that spirit-inside tree-DEF
 canoe.maker not look.up because that spirit.inside the.tree
 The canoe builder is not supposed to look up [when the tree is falling]. Because there is a spirit in the tree.
@@ -436,7 +436,7 @@ teachings
 [This is the] teaching.
 
 # 017
-k'ahhshitl'aal ?uush hhumiis ?uw'ii?atlquu, ?uusaya??as.
+k'ahhshitl'aal ?uush hhumiis ?uw'ii?atlquu, ?uusaya?_as.
 k'ahh-shi(tl)-?a:l ?u:sh hhumi:s ?uxw-?i*(tl)-'atl-qu: ?u:sa-yaq-'as
 split-MOM-always some cedar toppled.over-on.the.ground.MOM-FIN-COND.3 with.force-having.done-on.the.ground
 it.always.breaks some cedar when.it.falls.on.the.ground having.(fallen).on.the.ground.with.force
@@ -492,8 +492,8 @@ it.is.always.done one.has rope stone at.the.end
 They always put a string and a sstone [as a plumb] at the end of it.
 
 # 025
-t'i??aa?at'ap'at hiishcutil?at kachi?at, tliisshi?at, XXX hhuul qwaa?itq p\lumb.
-t'i-??a*?at-'ap-'at hish-chut-il-'at ka-chi(tl)-'at tli:s-shi(tl)-'at ~ hhu:l qwa:-?i*tq ~
+t'i?_aa?at'ap'at hiishcutil?at kachi?at, tliisshi?at, XXX hhuul qwaa?itq p\lumb.
+t'i-?_a*?at-'ap-'at hish-chut-il-'at ka-chi(tl)-'at tli:s-shi(tl)-'at ~ hhu:l qwa:-?i*tq ~
 throw-move.down-CAUS-SHIFT all-on.end-with.ref.to-SHIFT measure-MOM-SHIFT write-MOM-SHIFT ~ yonder thus-REL.3 ~
 one.drops.a.plumb both.ends one.measures one.marks ~ yonder like ~
 Drop it [the string with the stone] at both ends, get the measurements, and mark [the measurements] — it's like a plumb.
@@ -569,8 +569,8 @@ and long.ago at.that.time happened.long.ago long.long.ago whenever.it.might.be m
 And a very long time ago, they once made _ƛ̓icuuɬ_.
 
 # 034
-ch'apac ?iihhs, ??a??aachi, siich'ak.
-ch'apac ?i:hh-s ??a??a:chi si:ch'ak
+ch'apac ?iihhs, ?_a?_aachi, siich'ak.
+ch'apac ?i:hh-s ?_a?_a:chi si:ch'ak
 canoe large-vessel wide high
 canoe large.vessel wide high
 It's a big canoe, [which is] wide and deep.
@@ -583,8 +583,8 @@ they.use.it whenever.it.might.be flooded
 They used it at the time of the Flood.
 
 # 036
-waa, ?ahh?aa?atl ??as??asshitl'asatlitquu. ??as??assh waa?at, ??aasuk. ch'aahhch'aahha.
-wa*?ahh?a:-'atl DUP#-??as-sh-shi(tl)-'as-'atl-it-qu: DUP#-??as-sh wa*-'at ??a:s-uk DUP#-ch'ahh-(y)a
+waa, ?ahh?aa?atl ?_as?_asshitl'asatlitquu. ?_as?_assh waa?at, ?_aasuk. ch'aahhch'aahha.
+wa*?ahh?a:-'atl DUP#-?_as-sh-shi(tl)-'as-'atl-it-qu: DUP#-?_as-sh wa*-'at ?_a:s-uk DUP#-ch'ahh-(y)a
 and this-FIN IT-do.carpenter.work-SPOR-MOM-on.the.ground-FIN-PAST-COND.3 IT-do.carpenter.work-SPOR say-SHIFT do.carpenter.work-DUR IT-cut.with.adze-REP
 and then when.carpentrying.a.canoe doing.carpenter.work it.is.called working.on.canoe cutting.with.an.adze
 And then, when you work on a canoe, you say _ʕaʕasš_ ('doing carpenter's work'), _ʕaasuk_ ('working on a canoe'), or _č̓aaḥč̓aaḥa_ ('cutting with an adze').
@@ -686,8 +686,8 @@ heavy long.vessel one.pries
 Pry up the heavy vessel.
 
 # 052
-?uhh?atl ?ahh kwatyiik?i t'i??aa?atu  kwist?iitl.
-?uhh-'atl ?ahh kwatyi:k-?i* t'i-??a*?atu kwist-'i*tl
+?uhh?atl ?ahh kwatyiik?i t'i?_aa?atu  kwist?iitl.
+?uhh-'atl ?ahh kwatyi:k-?i* t'i-?_a*?atu kwist-'i*tl
 being.it-FIN this heavy-DEF throw-move.down different-on.the.ground.MOM
 the.one this the.heavy.one drop turn.over
 This heavy one drops [and] turns over.
@@ -756,8 +756,8 @@ over.there as.its.bow canoe always.gets.hard
 There at the bow of the canoe it gets hard.
 
 # 064
-titin??inchitl.
-DUP-tin-??in-chi(tl)
+titin?_inchitl.
+DUP-tin-?_in-chi(tl)
 ??-make.pinging.sound-make.sound-MOM
 it.makes.a.pinging.sound
 It makes a pinging sound (= sound of hard wood).
@@ -792,7 +792,7 @@ one.has.it measuring.stick thickness.is.up.to.you according.to.it size.of canoe
 Take a measuring stick and measure however thick you want it to be on the basis of the length of the canoe.
 
 # 069
-hawilchaqshi?atlquu ?ust??ahhs?i.
+hawilchaqshi?atlquu ?ust?_ahhs?i.
 hawil-chaq-shi(tl)-'atl-qu: ?ust-q-'ahhs-?i*
 finish-done-MOM-FIN-COND.3 LOC-??-in.a.vessel-DEF
 when.having.finished the.bottom.of.the.canoe
@@ -841,8 +841,8 @@ both.sides.can.be.seen what.you.might.call when.it.is.thick the.side.of.a.canoe 
 You check the thickness of the sides of the canoe: 'curves' are what I am talking about. It's called _ƛ̓ačii_.
 
 # 079
-waa ?ahhkuu, cikimin waa?at. ch'ahhy'ak, hiis\hiisach'ak. ??akm'alst'uqsy'ak. ?uch'ak  hilyin. qwaa y'uuqwaa tlichaa.
-wa* ?ahhku* cikimin wa*-'at ch'ahh-y'ak DUP#-his-(y)a-ch'ak ??ak-m'al-st'uqs-y'ak ?u-ch'ak hil-yin qwa: y'u:qwa: tlicha*
+waa ?ahhkuu, cikimin waa?at. ch'ahhy'ak, hiis\hiisach'ak. ?_akm'alst'uqsy'ak. ?uch'ak  hilyin. qwaa y'uuqwaa tlichaa.
+wa* ?ahhku* cikimin wa*-'at ch'ahh-y'ak DUP#-his-(y)a-ch'ak ?_ak-m'al-st'uqs-y'ak ?u-ch'ak hil-yin qwa: y'u:qwa: tlicha*
 and this steel say-SHIFT adze-instrument.for IT-beat-REP-instruments cut-??-inside.corners.of.canoe-instrument it-instruments there-at.the.bow thus also stern
 and this steel it.is.said adze axe draw.knife tool.for.it at.the.bow thus also stern
 And this one is called _cikimin_ ('steel knife'); [this one is] _č̓aḥy̓ak_ ('D-adze'); _hiishiisač̓ak_ ('axe'); _ʕakm̓aɬst̓uqsy̓ak_ ('draw-knife'), which is used for the bow and also the stern.
@@ -989,7 +989,7 @@ heey! maatlshi?at.
 Now, you are going to tow it.
 
 # 109
-hinin?atl hilhhw'it'as?itq ?uushta??at.
+hinin?atl hilhhw'it'as?itq ?uushta?_at.
 hin-in-'atl hil-(q)hh-w'it'as-?i*tq ?u:sh-taq-'at
 there.MOM-come-FIN there-SIM-about.to-REL.3 some-working.on-SHIFT
 arrived place.where.one.is.about.to one.does.some.work.on
@@ -1031,14 +1031,14 @@ heey, chuu chamaas?atl.
 Now, it is ready.
 
 # 115
-histaqiis?atl. hhu??itap.
+histaqiis?atl. hhu?_itap.
 his-taq-i:s-'atl hhuq-'itap
 there-come.from-??-FIN hallowed.object-on.the.ground.MOMCAUS
 start.from.there put.a.hallowed.object.on.the.ground
 [You] first put the canoe on the ground.
 
 # 116
-hhu??as ch'apac?i, tlaam'aqak?i.
+hhu?_as ch'apac?i, tlaam'aqak?i.
 hhuq-'as ch'apac-?i* tla:m'aq-ak-?i*
 hallowed.object-on.the.ground canoe-DEF partly.finished.canoe-POSS-DEF
 a.hallowed.object.on.the.ground the.canoe partly.finished.canoe
@@ -1116,7 +1116,7 @@ weey kwist?itap'at.
 Now, turn it over (to the upright position).
 
 # 130
-?ahh?aatl ch'ahhshi?attla hhu??aas.
+?ahh?aatl ch'ahhshi?attla hhu?_aas.
 ?ahh?a:-'atl ch'ahh-shi(tl)-'at-tla* hhuq-'a*s
 then-FIN adze-MOM-SHIFT-again hallowed.object-on.the.ground.DUR
 then you.hew.it.out.again being.on.the.ground
@@ -1172,15 +1172,15 @@ also port
 [You start with the starboard side and then] Do the same for the port.
 
 # 138
-??ac'ik ?uush quu?as.
-??ac'ik ?u:sh qu:?as
+?_ac'ik ?uush quu?as.
+?_ac'ik ?u:sh qu:?as
 expert.at some person
 expert.at some person
 Some men are good at it.
 
 # 139
-??ac'ikits hihishcuqumts?aal, [\left and right], qaaqaay'axwa.
-??ac'ik-it-s DUP-hish-cuq-umt-s-?a:l ~ DUP:-qay'a*xw-a
+?_ac'ikits hihishcuqumts?aal, [\left and right], qaaqaay'axwa.
+?_ac'ik-it-s DUP-hish-cuq-umt-s-?a:l ~ DUP:-qay'a*xw-a
 expert.at-PAST-1SG DISTR-all-in.hand-PAST-1SG-always ~ IT-adzing-REP
 I.was.good.at always.in.both.hands ~ adzing
 I was good at both left- and right-handed adzing.
@@ -1242,29 +1242,29 @@ do.to.it thwart
 Take care of thwarts.
 
 # 149
-saach'inik'at tap??aqshi?at
-sa:ch'a-ink-'at tap??aq-shi(tl)-'at
+saach'inik'at tap?_aqshi?at
+sa:ch'a-ink-'at tap?_aq-shi(tl)-'at
 unceasingly-??-SHIFT thwart-MOM-SHIFT
 never.fail.to.do thwarts.are.put.in
 Never forget to put in thwarts.
 
 # 150
 one, c'awaak, ?atla, qacc'a, waa muuquu. taap?im. ?uuktis?at ?unahh?itq.
-~ c'awa:k ?atla qacc'a wa* mu:-qu: ta:p??im ?u-ktis-'at ?una-hh-?i*tq
+~ c'awa:k ?atla qacc'a wa* mu:-qu: ta:p?_im ?u-ktis-'at ?una-hh-?i*tq
 ~ one two three and four-COND.3 thwart it-acting.by.ref.to-SHIFT that.much-size-REL.3
 ~ one two three and it.could.be.four thwart according.to.it size.of
 One, two, three, or four thwarts, depending on the size of the canoe.
 
 # 151
-yaqsiikit?ish ch'apac hilhh Denmark, [forty-two feet] ?uuna hiikwal [six feet wide]. ?unaa??achi.
-yaqw-si:k-it-?i*sh ch'apac hil-(q)hh ~ ~ ?u:na hi:kwal ~ ?una:-??a*chi
+yaqsiikit?ish ch'apac hilhh Denmark, [forty-two feet] ?uuna hiikwal [six feet wide]. ?unaa?_achi.
+yaqw-si:k-it-?i*sh ch'apac hil-(q)hh ~ ~ ?u:na hi:kwal ~ ?una:-?_a*chi
 which-make-PAST-IND.3 canoe there-SIM ~ ~ in.length nearly ~ size-wide
 one.I.made canoe there.by ~ ~ in.length nearly ~ width
 The canoe I made in Denmark was forty-two feet long and almost six feet wide.
 
 # 152
 ?atlakwalukwit?ish, hhaa ?atlakwal taataap?im. qatlakwal.
-?atlakwal-ukw-it-?i*sh hha: ?atlakwal DUP-ta:p??im ?atlakwal
+?atlakwal-ukw-it-?i*sh hha: ?atlakwal DUP-ta:p?_im ?atlakwal
 eight-POSS-PAST-IND.3 there eight DISTR-thwart eight
 it.had.eight there eight thwarts eight
 That one had eight: there were eight thwarts.
@@ -1305,8 +1305,8 @@ this the.way.it.is one.makes.canoe the.way.to.finish
 That is how we make a canoe.
 
 # 159
-tap??aqshitl. tap??aqshitl waa hawilchaqshi?atlquu tap??aqshitl.
-tap??aq-shi(tl) tap??aq-shi(tl) wa* hawil-chaq-shi(tl)-'atl-qu: tap??aq-shi(tl)
+tap?_aqshitl. tap?_aqshitl waa hawilchaqshi?atlquu tap?_aqshitl.
+tap?_aq-shi(tl) tap?_aq-shi(tl) wa* hawil-chaq-shi(tl)-'atl-qu: tap?_aq-shi(tl)
 thwart-MOM thwart-MOM there! finish-done-MOM-FIN-COND.3 thwart-MOM
 put.thwart put.thwart there! when.having.finished put.thwart
 Put [in] thwarts. There! You have finished putting thwarts [in].
@@ -1720,15 +1720,15 @@ I.did.about.it not.putting.mind.on
 I forgot about something.
 
 # 225
-hawilchaqshi?atlquu ??iiqshitlckwi?ish?aal quu?as chamaqtl.
-hawil-chaq-shi(tl)-'atl-qu: ??i:q-shi(tl)-ckwi*-?i*sh-?a:l qu:?as chamaqtl
+hawilchaqshi?atlquu ?_iiqshitlckwi?ish?aal quu?as chamaqtl.
+hawil-chaq-shi(tl)-'atl-qu: ?_i:q-shi(tl)-ckwi*-?i*sh-?a:l qu:?as chamaqtl
 finish-done-MOM-FIN-COND.3 charring-MOM-happened-IND.3-always person take.time
 when.it.has.been.finished one.always.charred.the.bottom.of.the.canoe person take.time
 When it is finished, they always charred the canoe bottom carefully [to harden and smooth the surface].
 
 # 226
-??iiqaa hhuu hiist'itl hilyin tlichaa ??iiqshitl.
-??i:q-(y)a* hhu: hist-'itl hil-yin tlicha* ??i:q-shi(tl)
+?_iiqaa hhuu hiist'itl hilyin tlichaa ?_iiqshitl.
+?_i:q-(y)a* hhu: hist-'itl hil-yin tlicha* ?_i:q-shi(tl)
 charring-CONT over.there there-go.for there-at.the.bow stern charring-MOM
 charring over.there take.from.there at.the.bow stern char
 It is charred from the bow to the stern.
@@ -1748,8 +1748,8 @@ brushing if.you.head.toward the.bow disturb.the.surface
 If you brush towards the bow, it will disturb the surface.
 
 # 229
-?unwii?atl'ish ch'apac ??iiqshi?at ?in c'aahhachitl hhumiis?i.
-?unwi:-'atl-?i*sh ch'apac ??i:q-shi(tl)-'at ?in c'a:hh-`achi(tl) hhumi:s-?i*
+?unwii?atl'ish ch'apac ?_iiqshi?at ?in c'aahhachitl hhumiis?i.
+?unwi:-'atl-?i*sh ch'apac ?_i:q-shi(tl)-'at ?in c'a:hh-`achi(tl) hhumi:s-?i*
 because.of-FIN-IND.3 canoe charring-MOM-SHIFT that hard-MOM cedar-DEF
 it.is.why canoe it.is.charred that get.hard the.cedar
 The reason why it is charred is so that the cedar becomes hard.
@@ -1873,8 +1873,8 @@ they.say.it.was.very.calm morning woke.up Son.of.Deer
 It was a very calm morning. Son of Deer woke up.
 
 # 002
-??aasiqnakshitl liliitapi?aqtl.
-??a*siq-na*k-shitl lili:tapi-?a*qtl
+?_aasiqnakshitl liliitapi?aqtl.
+?_a*siq-na*k-shitl lili:tapi-?a*qtl
 plan-having-MOM go.jigging-FUT
 he.got.a.plan he.was.going.jigging
 He got a plan: he was going jigging.
@@ -2055,15 +2055,15 @@ sometimes.he.would he.did.together.with the.wolf.cubs
 Sometimes he had to play with the little wolves.
 
 # 028
-kwiitlkwiiyaqil?atlwa?ish tl'uch'umckwi ch'iimaqiil hila??aqilhh ?inkwil?i, nunuukhh.
-DUPCVtl-kwi-yaq-`il-'atl-wa*?i*sh tl'uch'um-ckwi* ch'i:maq-i:l hil-a??aq-`il-(q)hh ?inkw-`il-?i* nunu:k-(q)hh
+kwiitlkwiiyaqil?atlwa?ish tl'uch'umckwi ch'iimaqiil hila?_aqilhh ?inkwil?i, nunuukhh.
+DUPCVtl-kwi-yaq-`il-'atl-wa*?i*sh tl'uch'um-ckwi* ch'i:maq-i:l hil-a?_aq-`il-(q)hh ?inkw-`il-?i* nunu:k-(q)hh
 SPOR-sharpening-REP?-on.the.floor-FINITE-QUOT.3 blue.mussel-remains.of knife-make there-beside-on.the.floor-SIM fire-on.the.floor-DEF singing-SIM
 he.kept.sharpening.on.the.floor mussel.shell making.a.knife while.sitting.beside.it.on.the.floor the.fire.on.the.floor while.singing
 He sat sharpening some mussel shells making knives beside the fire, singing.
 
 # 029
-??aasiqnakshitl.
-??a*siq-na*k-shitl
+?_aasiqnakshitl.
+?_a*siq-na*k-shitl
 plan-having-MOM
 he.got.a.plan
 He got a plan.
@@ -2090,8 +2090,8 @@ come.here Son.of.Deer sing.to.me so.I.can.sleep said the.chief
 "Come here, Son of Deer. Sing to me so I can go to sleep," said the chief.
 
 # 033
-tlawa?ii muwaachm'it, tl'ika??aqpitl nuu??itl.
-tlawa-?i: muwach-m'i*t tl'ik-a??aq-`pitl nu-??itl
+tlawa?ii muwaachm'it, tl'ika?_aqpitl nuu?_itl.
+tlawa-?i: muwach-m'i*t tl'ik-a?_aq-`pitl nu-?_itl
 near-reach deer-son.of kneel-beside-in.house sing-??
 approach Son.of.Deer knelt.by.on.the.floor started.to.sing
 Son of Deer went near him, knelt down and started to sing.
@@ -2104,8 +2104,8 @@ sleeping sleeping SONG SONG his.says song
 "Sleep, sleep, hauy, hauy," his song said.
 
 # 035
-nasatls wa?ichutl. ??aqc'aqhht'ana?i, waa?atl'atla.
-nas-'atl-s wa?ich-utl ??aq-c'aqhh-t'a*na-'i* wa*-'atl-'at-tla*
+nasatls wa?ichutl. ?_aqc'aqhht'ana?i, waa?atl'atla.
+nas-'atl-s wa?ich-utl ?_aq-c'aqhh-t'a*na-'i* wa*-'atl-'at-tla*
 try.in.vain-FINITE-1SG sleeping-MOM make.loud.noise-??-slightly-IMP say-FINITE-SHIFT-also
 I.cant slept sing.a.little.louder they.said.to.him.again
 "I can't go to sleep. Sing louder," he was told.
@@ -2118,8 +2118,8 @@ first.do.it move.up.a.little.bit.on.the.floor said Son.of.Deer put.your.head.bac
 "First, move up a little bit, and put your head back a little bit," Son of Deer said.
 
 # 037
-nunuukshitl hu?aas, kuw'ilatl ??aqc'aqhhshitl.
-nunu:k-shitl hu?a-a:s kuw'ila-'atl ??aq-c'aqhh-shitl
+nunuukshitl hu?aas, kuw'ilatl ?_aqc'aqhhshitl.
+nunu:k-shitl hu?a-a:s kuw'ila-'atl ?_aq-c'aqhh-shitl
 singing-MOM again obey-FINITE make.loud.noise-??-MOM
 sing again do.as.told sang.louder
 He started to sing agian; he sang louder as told.
@@ -2160,8 +2160,8 @@ ran.out carrying.along the.head
 He ran out carrying the head.
 
 # 043
-hitaa??atap ch'apac?isuk?i.
-hita-a*??atu-'ap ch'apac-?is-uk-?i*
+hitaa?_atap ch'apac?isuk?i.
+hita-a*?_atu-'ap ch'apac-?is-uk-?i*
 LOC-move.down-MOMCAUS canoe-DIM-POSS-DEF
 took.it.down his.little.canoe
 He took down his little canoe.
@@ -2202,8 +2202,8 @@ realize that wet.on.the.bed
 She realized that she was wet.
 
 # 049
-chatshitl chakupuk tlumkshi?i, tlumkshi?i w'aaw'aakumsasila?ick ??uqwil.
-chat-shitl chakup-uk tlumk-shitl-'i* tlumk-shitl-'i* w'a:-kum-sa-sila-?ick ??uq-`il
+chatshitl chakupuk tlumkshi?i, tlumkshi?i w'aaw'aakumsasila?ick ?_uqwil.
+chat-shitl chakup-uk tlumk-shitl-'i* tlumk-shitl-'i* w'a:-kum-sa-sila-?ick ?_uq-`il
 push-MOM husband-POSS awoke-MOM-IMP awoke-MOM-IMP ashamed-??-precisely-do-IND.2SG urinate-on.the.bed
 pushed her.husband wake.up wake.up you.have.done.a.shameful.thing wet.the.bed
 She pushed her husband, "Wake up! Wake up! You have done a shameful thing. You wet the bed."
@@ -2244,7 +2244,7 @@ rushed.around.in.the.house wolf.tribe they.lit.the.fire
 The wolf tribe rushed around. They lit the fires.
 
 # 055
-?acha??atch qwis?at, wawaacst'al?atl'al.
+?acha?_atch qwis?at, wawaacst'al?atl'al.
 ?achaq-'at-ch qwis-'at wawa:-cst'al-'atl-?a*l
 who-SHIFT-INF.3 do.so-SHIFT say-each.other-FINITE-PL
 I.wonder.who.did.it.to.him did.so.to.him they.said.to.each.other
@@ -2293,8 +2293,8 @@ they.started.thinking what.they.should.do
 They thought about what should be done.
 
 # 062
-chuu ?a?aatuu?in ?ak'ulatqwin ?uchqc'uu?ak?i ??aanism'it.
-chu: ?a?a:tu:-'in ?ak'uli-'at-qwin ?uchq-c'u*-?a*k-?i* ??a:nis-m'i*t
+chuu ?a?aatuu?in ?ak'ulatqwin ?uchqc'uu?ak?i ?_aanism'it.
+chu: ?a?a:tu:-'in ?ak'uli-'at-qwin ?uchq-c'u*-?a*k-?i* ?_a:nis-m'i*t
 OK ask-IMP.1PL-3 lend-SHIFT-COND.1PL fog-inside-POSS-DEF crane-son.of
 OK lets.ask so.that.he.lend.it.to.us his.fog.bag Son.of.Crane
 "OK, let's ask Son of Crane to lend us his fog bag."
@@ -2307,15 +2307,15 @@ go.and.get
 "Go get him."
 
 # 064
-kamatqshitlnak sukwitl'as ??aanism'it.
-kamatqw-shitl-na*k sukwi(tl)-'a*s ??a:nis-m'i*t
+kamatqshitlnak sukwitl'as ?_aanism'it.
+kamatqw-shitl-na*k sukwi(tl)-'a*s ?_a:nis-m'i*t
 running-MOM-having take-go.in.order.to crane-son.of
 someone.ran.in.order.to went.to.fetch Son.of.Crane
 Someone ran to get Son of Crane.
 
 # 065
-hinin ??aanism'it.
-hin-in ??a:nis-m'i*t
+hinin ?_aanism'it.
+hin-in ?_a:nis-m'i*t
 there-come crane-son.of
 arrived Son.of.Crane
 Son of Crane arrived.
@@ -2335,8 +2335,8 @@ now.then we.ask.for.borrowing to.you your.fog.bag said the.speaker
 "Well, we want to ask you to lend us your fog bag," said the speaker.
 
 # 068
-hiilapil?atlwa?ish hhaa ??aanism'it, t'aat'aapata, chaayixwapil.
-hil-api-`il-'atl-wa*?i*sh hha: ??a:nis-m'i*t DUPCV-t'apat-(y)a cha:yixw-api-`il
+hiilapil?atlwa?ish hhaa ?_aanism'it, t'aat'aapata, chaayixwapil.
+hil-api-`il-'atl-wa*?i*sh hha: ?_a:nis-m'i*t DUPCV-t'apat-(y)a cha:yixw-api-`il
 there-erect-on.the.floor-FINITE-QUOT.3 there crane-son.of REP-think-REP stand.on.one.leg-erect-on.the.floor
 he.stood.up.on.the.floor there Son.of.Crane thinking standing.up.on.one.leg.on.the.floor
 Son of Crane stood there, thinking about it, standing on one leg.
@@ -2356,8 +2356,8 @@ OK said
 "OK," he said.
 
 # 071
-?aanahhi?aqtl'icuush ?uu?aalukhh tluulhhap'ap kuhhiqsip ?ahh yaqchi?itq wik'aa?it hishsaacintl ?uchqshitl, waa?atl ??aanism'it.
-?a:nahhi-?a*qtl-?icu:sh ?u-'a*luk-(q)hh tlu:l-hhap-'ap kuhhw-iqs-ip ?ahh yaq-chi-?i*tq wik-'a*?it hish-sa*cu-intl ?uchq-shitl wa*-'atl ??a:nis-m'i*t
+?aanahhi?aqtl'icuush ?uu?aalukhh tluulhhap'ap kuhhiqsip ?ahh yaqchi?itq wik'aa?it hishsaacintl ?uchqshitl, waa?atl ?_aanism'it.
+?a:nahhi-?a*qtl-?icu:sh ?u-'a*luk-(q)hh tlu:l-hhap-'ap kuhhw-iqs-ip ?ahh yaq-chi-?i*tq wik-'a*?it hish-sa*cu-intl ?uchq-shitl wa*-'atl ?_a:nis-m'i*t
 only-FUT-IND.2PL it-looking.after-SIM slowly-do?-MOMCAUS open-on.top.of-MOMCAUS this which-in-REL.3 not-PURP all-at.a.place-MOM foggy-MOM say-FINITE crane-son.of
 but.you.all.will.be take.care.of.it.when do.it.slowly open.it.at.the.top this container so.that.it.wont.be go.all.over it.gets.foggy said Son.of.Crane
 "But you all will be very careful when you open this container so it won't get foggy all over," said Son of Crane.
@@ -2384,22 +2384,22 @@ it.gets.foggy it.gets.foggy it.got.impossible.for.them.to.see.each.other
 It got foggy and foggy, and they couldn't see each other.
 
 # 075
-n'itlkwaqshitl'al, sukwitlchi ??aanism'it.
-n'itlkwaq-shitl-?a*l sukwitl-chi* ??a:nis-m'i*t
+n'itlkwaqshitl'al, sukwitlchi ?_aanism'it.
+n'itlkwaq-shitl-?a*l sukwitl-chi* ?_a:nis-m'i*t
 excited-MOM-PL take-go.and crane-son.of
 they.got.all.panicked go.and.get Son.of.Crane
 They all panicked, [and said] "Go get Son of Crane!"
 
 # 076
-?uush hahaa??inyuchitl, ??aanism'eet hupii?inak!
-?u:sh DUPCV-ha:??in-yu-chitl ??a:nis-m'i*t hupi*-'in-?ak
+?uush hahaa?_inyuchitl, ?_aanism'eet hupii?inak!
+?u:sh DUPCV-ha:?_in-yu-chitl ?_a:nis-m'i*t hupi*-'in-?ak
 some DISTR-call.out-several.doing-MOM crane-son.of helping-IMP.2SG>1PL-??
 some some.started.calling.out Son.of.Crane come.help.us
 Someone started to call out, "Son of Crane, help us!"
 
 # 077
-na?iichitl ??aanism'it, n'ashitl'as.
-na?a*-`i*chitl ??a:nis-m'i*t n'ash-itl-'a*s
+na?iichitl ?_aanism'it, n'ashitl'as.
+na?a*-`i*chitl ?_a:nis-m'i*t n'ash-itl-'a*s
 hear-INC crane-son.of go.to.see-MOM-go.in.order.to
 heard Son.of.Crane come.to.see
 Son of Crane heard them and went to see.
@@ -2461,8 +2461,8 @@ nobody.did.it.to.him nobody.paid.attention.to.him
 Nobody paid attention to him.
 
 # 086
-??achshatl sukwitl sup'icmis ??upkswii??aqtln'uk.
-??ach-`satl sukwitl sup'icmis ??up-kswi*q-'aqtl-n'uk
+?_achshatl sukwitl sup'icmis ?_upkswii?_aqtln'uk.
+?_ach-`satl sukwitl sup'icmis ?_up-kswi*q-'aqtl-n'uk
 grab-on.the.beach take sand flow-go.through-inside-in.hand
 grabbed.on.the.beach take sand ran.it.through.his.fingers
 He grabbed some sand off the beach and ran it through his fingers.
@@ -2482,8 +2482,8 @@ landed.on.the.same.beach where.he.took.off.from
 He landed on the same beach that he started off from.
 
 # 089
-?anasila wik??atlshitl, tuxkwisatl qwayac'iikshtaquml m'a?akwa?ap'at.
-?ana-sila wik-??atl-shitl tuxw-kwi-`satl qwayac'i:k-shtaquml m'a-?akwa-'ap-'at
+?anasila wik?_atlshitl, tuxkwisatl qwayac'iikshtaquml m'a?akwa?ap'at.
+?ana-sila wik-?_atl-shitl tuxw-kwi-`satl qwayac'i:k-shtaquml m'a-?akwa-'ap-'at
 only-do not-make.sound-MOM jump-on-on.the.beach wolf-groups bite-apart-MOMCAUS-SHIFT
 doing.only become.silent they.jumped.on.him.on.the.beach wolf.tribe they.tore.him.up.by.biting
 As soon as he finished talking, the wolf tribe jumped on him and tore him up.
@@ -2510,7 +2510,7 @@ that.is.why.they.always.do one.just.leave.it belly when.you.get.deer
 That is the reason you leave only the stomach of the deer on the beach when you get deer.
 
 # 093
-hhaahhuupay'ak — wiksuuk suukwinkhhi yaa??aalchiqhh?itk quu?as. hha?ukwitlcum?at?ick ?uushhh?at.
+hhaahhuupay'ak — wiksuuk suukwinkhhi yaa?_aalchiqhh?itk quu?as. hha?ukwitlcum?at?ick ?uushhh?at.
 hha:hhu:p-(y)a*-y'akw — wik-su:k sukwink-hhi* yaq-'a*lchiqhh-?itk qu:?as hha?u-kwitl-cum-'at-?uck ?u:sh-(q)hh-'at
 teaching-DUR-device not-2SG put.a.person.down-DUR who-together.with-POSS.2SG person do.in.turn-MOM-should-SHIFT-IND.2SG some-SIM-SHIFT
 teachings dont.you.ever put.down your.fellowmen person he.may.pay.you.back by.someone
@@ -2639,8 +2639,8 @@ abbreviation: Dog
 ID:           GL9
 ---
 # 001
-qwaa?atl ??iniitl, yaaqtlst'al ?uy'iihha, ?unaak?is?al hilhh?iitq, ??imsshitl.
-qwa:-'atl ??ini:tl ya:-'aqtl-st'al ?u-y'i*hha ?u-na*k-?is-?a*l hil-(q)hh-?i*tq ??ims-shi(tl)
+qwaa?atl ?_iniitl, yaaqtlst'al ?uy'iihha, ?unaak?is?al hilhh?iitq, ?_imsshitl.
+qwa:-'atl ?_ini:tl ya:-'aqtl-st'al ?u-y'i*hha ?u-na*k-?is-?a*l hil-(q)hh-?i*tq ?_ims-shi(tl)
 thus-FIN dog say.harsh.words-inside-reciprocally it-because.of it-having-DIM-PL there-SIM-REL.3 urinate.to.mark.the.boundary-MOM
 like.this dog hate.each.other on.account.of.it they.have wherever urinate.to.mark.the.boundary
 Dogs hate each other, because they have a special territory where they mark with their urine.
@@ -2653,22 +2653,22 @@ this they.have marker forbidden animal go.across
 They have their markings [indicating their territories] and it is against their system to go across the territorial boundary.
 
 # 003
-qwaatlaa ?uushiic?atlquu ??iniitl ?unaakquuk tlaqimy'as. wik'ap hiniip, kaamat??iihhshitl'aal.
-qwa:-tla* ?u:sh-i:c-'atl-qu: ??ini:tl ?u-na*k-qu:k tla-qiml-'as wik-'ap hini:p kamatq-'i:hh-shi(tl)-?a:l
+qwaatlaa ?uushiic?atlquu ?_iniitl ?unaakquuk tlaqimy'as. wik'ap hiniip, kaamat?_iihhshitl'aal.
+qwa:-tla* ?u:sh-i:c-'atl-qu: ?_ini:tl ?u-na*k-qu:k tla-qiml-'as wik-'ap hini:p kamatq-'i:hh-shi(tl)-?a:l
 thus-also some-belonging.to-FIN-COND.3 dog it-having-COND.2SG sticking.up-all.about-on.the.ground not-CAUS enter running-pursuing-MOM-always
 also if.it.belongs.to.some.one dog if.you.have put.fence.around dont.do enter always.run.after.it
 In the same way, if you put someone's dog in a fence, they [other dogs] won't go into the fence. It [the dog inside] will always run after him [the intruder].
 
 # 004
-wiiqch'ap, yaaqtlst'al?al, ??iniitl.
-wi:q-ch'ap ya:-'aqtl-st'al-?a*l ??ini:tl
+wiiqch'ap, yaaqtlst'al?al, ?_iniitl.
+wi:q-ch'ap ya:-'aqtl-st'al-?a*l ?_ini:tl
 unpleasant-?? say.harsh.words-inside-reciprocally-PL dog
 dislike they.hate.each.other dog
 The dogs hate each other.
 
 # 005
-rrrr waa. ??iniitl, hinqaa. rrrr qwayaatuk ?ahh?aa.
-~ wa* ??ini:tl hinq-(y)a* ~ qwa-ya*tuk ?ahh?a:
+rrrr waa. ?_iniitl, hinqaa. rrrr qwayaatuk ?ahh?aa.
+~ wa* ?_ini:tl hinq-(y)a* ~ qwa-ya*tuk ?ahh?a:
 ~ say dog growling-CONT ~ thus-making.sounds.of that
 ~ say dog growling ~ sound.thus that
 Dogs say, _rrrrr_, growling: _rrrrr_, they sound like that.
@@ -2702,29 +2702,29 @@ forbidden give.them variey.of.food
 It is forbidden to given them food.
 
 # 010
-?in hixwaa quu?as ?un'aahh ha?um ?inchil?aal, ha?ukw'ap ??iniitluk?i, ??iniitluk?i.
-?in hixw-(y)a* qu:?as ?u-n'a*hh ha?um ?inchil-?a:l ha?ukw-'ap ??ini:tl-uk-?i* ??ini:tl-uk-?i*
+?in hixwaa quu?as ?un'aahh ha?um ?inchil?aal, ha?ukw'ap ?_iniitluk?i, ?_iniitluk?i.
+?in hixw-(y)a* qu:?as ?u-n'a*hh ha?um ?inchil-?a:l ha?ukw-'ap ?_ini:tl-uk-?i* ?_ini:tl-uk-?i*
 because exerting.effort-CONT person it-seeking food ??-always eat-CAUS dog-POSS-DEF dog-POSS-DEF
 because exerting.effort person looking.for food only.do.to feed his.dog
 This is because a man should work hard to get food only for his own dog.
 
 # 011
-?uushi?iish ??iniitl ?uushhhtinqak. ?uushhhtin.
-?u:sh-?i*sh ??ini:tl ?u:sh-hhtin-qak ?u:sh-hhtin
+?uushi?iish ?_iniitl ?uushhhtinqak. ?uushhhtin.
+?u:sh-?i*sh ?_ini:tl ?u:sh-hhtin-qak ?u:sh-hhtin
 some-IND.3 dog some-made.of-?? some-made.of
 some.are dog smart smart
 Some dogs are smart.
 
 # 012
-?unw'iitlckwi?aal ?uch'akckwak?ish quu?as, ?unaak ??iniitl, wiinaquu. wiinaquu.
-?unw'i:tl-ckwi*-?a:l ?u-ch'ak-ckwi*-ak-?i*sh qu:?as ?u-na*k ??ini:tl wi:na-qu: wi:na-qu:
+?unw'iitlckwi?aal ?uch'akckwak?ish quu?as, ?unaak ?_iniitl, wiinaquu. wiinaquu.
+?unw'i:tl-ckwi*-?a:l ?u-ch'ak-ckwi*-ak-?i*sh qu:?as ?u-na*k ?_ini:tl wi:na-qu: wi:na-qu:
 because-happened-always it-instruments-happened-DUR-IND.3 human it-having dog invade-COND.3 invade-COND.3
 this.is.because useful.to human having dog when.they.invade when.they.invade
 This is the reason that they are useful to people at the time of invasion.
 
 # 013
-waa ?uushcapanach'atlquu hiniic ??iniitluk?i.
-wa* ?u:sh-ca-panach-'atl-qu: hini:c ??ini:tl-uk-?i*
+waa ?uushcapanach'atlquu hiniic ?_iniitluk?i.
+wa* ?u:sh-ca-panach-'atl-qu: hini:c ?_ini:tl-uk-?i*
 and some-go.to-move.about-FIN-COND.3 bring dog-POSS-DEF
 and wander.around bring his.dog
 And people bring along their dogs.
@@ -2744,8 +2744,8 @@ keep.evil.away so there.were.many animal long.ago
 They say the dogs keep the evil away, so there were many dogs before.
 
 # 016
-?ahh qwaa?iish ??iniitl. ?unaak'at.
-qahh qwa:-?i*sh ??ini:tl ?u-na*k-'at
+?ahh qwaa?iish ?_iniitl. ?unaak'at.
+qahh qwa:-?i*sh ?_ini:tl ?u-na*k-'at
 this thus-IND.3 dog it-having-POSS
 this thus.they.are dog have.it
 This is the way the dogs are. They owned dogs.
@@ -2877,8 +2877,8 @@ naked
 He [the young man] took off his clothing.
 
 # 035
-m'uch'ich?in?ak?i ??iniitl hhan'ahhtutl.
-m'uch'ich-?in-?a*k-?i* ??ini:tl hhan'ahh-tutl
+m'uch'ich?in?ak?i ?_iniitl hhan'ahhtutl.
+m'uch'ich-?in-?a*k-?i* ?_ini:tl hhan'ahh-tutl
 clothed-costume.for-POSS-DEF dog naked-MOM?
 the.attire.of dog naked
 He took off his dog attire.
@@ -2898,15 +2898,15 @@ thus also another in.bluish.color
 The other one was also the same [in bruised color].
 
 # 038
-waa ciqshi?atl tla?uu?i ??iniitl.
-wa* ciq-shi(tl)-'atl tla?u:-?i* ??ini:tl
+waa ciqshi?atl tla?uu?i ?_iniitl.
+wa* ciq-shi(tl)-'atl tla?u:-?i* ?_ini:tl
 well speak-MOM-FIN another-DEF dog
 well he.spoke another dog
 The other dog spoke,
 
 # 039
-wiiy'aats qwaa?ap'at, hhaw'ilukqs, yaqwaciis ??iniitl, hhaw'ilukqs, waa.
-wi:y'a:-'at-s qwa:-'ap-'at hhaw'il-uk-qs yaqw-ac-(y)i:s ??ini:tl hhaw'il-uk-qs wa*
+wiiy'aats qwaa?ap'at, hhaw'ilukqs, yaqwaciis ?_iniitl, hhaw'ilukqs, waa.
+wi:y'a:-'at-s qwa:-'ap-'at hhaw'il-uk-qs yaqw-ac-(y)i:s ?_ini:tl hhaw'il-uk-qs wa*
 never-SHIFT-1SG thus-CAUS-SHIFT chief-POSS-REL.1SG who-belonging.to-INDF.1SG dog chief-POSS-REL.1SG say
 it.never.happened.to.me how.it.is.done my.chief my.owner dog our.chief say
 "My chief, my owner never does that to me," the dog said.
@@ -2933,8 +2933,8 @@ here!
 "Here!
 
 # 043
-huhhtakshitl'aqtlick qwaa?at, qwaayii ??iniitl tiich.
-huhhtak-shi(tl)-?a*qtl-?ick qwa:-'at qwa:-(y)i: ??ini:tl ti:ch
+huhhtakshitl'aqtlick qwaa?at, qwaayii ?_iniitl tiich.
+huhhtak-shi(tl)-?a*qtl-?ick qwa:-'at qwa:-(y)i: ?_ini:tl ti:ch
 know-MOM-FUT-IND.2SG thus-SHIFT thus-INDF.3 dog live
 you.will.know thus.to.him how.it.would.be dog live
 You will know how the dog life would be."
@@ -2947,15 +2947,15 @@ it.was.tossed its.clothing
 He tossed his clothing [to the chief].
 
 # 045
-hii, m'uch'ichutl, ??iniitlshitl.
-~ m'uch'ich-utl ??ini:tl-shi(tl)
+hii, m'uch'ichutl, ?_iniitlshitl.
+~ m'uch'ich-utl ?_ini:tl-shi(tl)
 ~ clothed-MOM dog-MOM
 ~ got.clothed become.a.dog
 Wow, he put it on and became a dog.
 
 # 046
-machinttlwa?ish ??iniitl'i.
-mach-intl-wa*?i*sh ??ini:tl-?i*
+machinttlwa?ish ?_iniitl'i.
+mach-intl-wa*?i*sh ?_ini:tl-?i*
 enter-MOM-QUOT.3 dog-DEF
 entered.the.house the.dog
 The dog entered the house.
@@ -2983,7 +2983,7 @@ He lay on all fours right beside the bed.
 
 # 050
 ?aa ?aathhshitl, hinaspitl ?iinitl'i, chim?il? citkpitl.
-~ ?athh-shi(tl) hin-as-pi(tl) ??ini:tl-?i* chim?il-?i* citk-pi(tl)
+~ ?athh-shi(tl) hin-as-pi(tl) ?_ini:tl-?i* chim?il-?i* citk-pi(tl)
 ~ night-GRAD there.MOM-??-in.the.house dog-DEF bed-DEF lay.down-in.the.house
 ~ it.becomes.night got.on.the.bed the.dog the.bed lay.down.in.the.house
 It became night, and the dog got on and lay down on the bed.
@@ -2996,8 +2996,8 @@ lay.down.in.the.house
 He lay down.
 
 # 052
-hiitkin?ish ??iniitl'i, waa ch'uushukwitl.
-hi:tkin-?i*sh ??ini:tl-?i* wa* ch'ush-L-ukw-itl
+hiitkin?ish ?_iniitl'i, waa ch'uushukwitl.
+hi:tkin-?i*sh ?_ini:tl-?i* wa* ch'ush-L-ukw-itl
 strange-IND.3 dog-DEF well suspicious.of-GRAD-DUR-MOM
 it.was.very.odd the.dog well became.suspicious
 There was something strange about the dog. The people became suspicious.
@@ -3010,8 +3010,8 @@ became.suspicious
 People became suspicious.
 
 # 054
-qii, kwiscachi?atlquuch ??iniitl'i.
-qi: kwis-ca-chi(tl)-'atl-qu:-ch ??ini:tl-?i*
+qii, kwiscachi?atlquuch ?_iniitl'i.
+qi: kwis-ca-chi(tl)-'atl-qu:-ch ?_ini:tl-?i*
 for.a.long.time different-go.to-MOM-FIN-COND.3-INF dog-DEF
 for.a.long.time would.wander.around
 For a long time the dog would wander around [the house].
@@ -3185,8 +3185,8 @@ it.is.the.teaching this said
 This is our teaching, he [the chief who became the dog] said.
 
 # 079
-wiksuu wiiqhhaap ??iniitluk?itqsuu.
-wik-su: wi:q-hha:p ??ini:tl-uk-?itqsu:
+wiksuu wiiqhhaap ?_iniitluk?itqsuu.
+wik-su: wi:q-hha:p ?_ini:tl-uk-?itqsu:
 not-2PL unpleasant-?? dog-POSS-REL.2PL
 you.do.not do.harm your.dog
 Don't you harm your dog.
@@ -3213,8 +3213,8 @@ whatever.you.ate you.give
 Whatever you ate, you give.
 
 # 083
-?uyiisuu ??iniitluk?itqsuu.
-?u-(y)i*-su: ??ini:tl-uk-?itqsu:
+?uyiisuu ?_iniitluk?itqsuu.
+?u-(y)i*-su: ?_ini:tl-uk-?itqsu:
 it-give-2PL dog-POSS-REL.2PL
 you.give your.dog
 You give it to your dog.
@@ -3227,8 +3227,8 @@ tell.story.about.it what.he.did
 They [the dogs] told him what he had done. (?)
 
 # 085
-hhimchi?anit, ?in kin'uckwachyimt ?uush ??iniitl.
-hhim-chi(tl)-'at-it ?in kin'uc-kwachyu-imt ?u:sh ??ini:tl
+hhimchi?anit, ?in kin'uckwachyimt ?uush ?_iniitl.
+hhim-chi(tl)-'at-it ?in kin'uc-kwachyu-imt ?u:sh ?_ini:tl
 show-MOM-SHIFT-PAST that blue-completely-PAST some dog
 show that all.bruised some dog
 They showed him that some were bruised all over.
@@ -3247,8 +3247,8 @@ they.had.a.daughter the.household
 This family had a daughter.
 
 # 002
-sach'ica?ap'atlquuch ?uksna??aal ??iniitl, ?atquu hawilshitlshi?i?aal ??iilchsna??aal, wawaa?at nananiqsak.
-sach'ica-'ap-'atl-qu:-ch ?u-ksna??a:l ??ini:tl ?at-qu: hawil-shi(tl)-shi(tl)-?a:l ??ilch-sna??a:l wawa:-'at DUPCV-nani*qsu-?a*k
+sach'ica?ap'atlquuch ?uksna?_aal ?_iniitl, ?atquu hawilshitlshi?i?aal ?_iilchsna?_aal, wawaa?at nananiqsak.
+sach'ica-'ap-'atl-qu:-ch ?u-ksna?_a:l ?_ini:tl ?at-qu: hawil-shi(tl)-shi(tl)-?a:l ?_ilch-sna?_a:l wawa:-'at DUPCV-nani*qsu-?a*k
 unceasingly-MOMCAUS-FINITE-COND-INF.3 it-handling dog although-COND finish-MOM-MOM-always dog-playing.with say-SHIFT REP-grandparent-POSS
 she.would.constantly.do playing.with.it dog although stop.doing.it.all.the.time plaing.with.a.dog it.was.said her.grandparents
 She used to play with dogs all the time, although her grandparents said to her, "Stop playing with dogs all the time."
@@ -3261,8 +3261,8 @@ not pay.attention.to
 She never listened.
 
 # 004
-hhaakwaatlshitl. takaa ??iilchsna??aal.
-hha:kwa*tl-shi(tl) taka: ??ilch-sna??a:l
+hhaakwaatlshitl. takaa ?_iilchsna?_aal.
+hha:kwa*tl-shi(tl) taka: ?_ilch-sna?_a:l
 girl-MOM still dog-playing.with
 she.grew.up still playing.with.a.dog
 She grew up, and still she played with dogs.
@@ -3275,8 +3275,8 @@ she.got.pregnant the.girl give.birth.to.illegitimate.child
 This girl got pregnant with an illegitimate child.
 
 # 006
-nay'aqnakshitl muu?ak, ??iniitlm'inhhuk.
-nay'aq-na*k-shi(tl) mu:-?a*k ??ini:tl-m'inhh-uk
+nay'aqnakshitl muu?ak, ?_iniitlm'inhhuk.
+nay'aq-na*k-shi(tl) mu:-?a*k ?_ini:tl-m'inhh-uk
 baby-having-MOM four-POSS dog-PL-POSS
 had.a.baby she.had.four hers.were.dogs
 She had four babies, all dogs.
@@ -3296,8 +3296,8 @@ they.made.her.move they.made.her.live.alone
 They moved her so that she would live alone.
 
 # 009
-?anaschi?athh maaty'aqakuk?i ??iniitlm'inhh?i.
-?ana-schi-'athh na:ty'aqak-uk-?i* ??ini:tl-m'inhh-?i*
+?anaschi?athh maaty'aqakuk?i ?_iniitlm'inhh?i.
+?ana-schi-'athh na:ty'aqak-uk-?i* ?_ini:tl-m'inhh-?i*
 only-along.with-residing babes-POSS-DEF dog-PL-DEF
 lived.only.with her.babies the.dogs
 She lived there alone with her babies, the dogs.
@@ -3310,8 +3310,8 @@ there.was.one.who.did.it.to.her looking.after.her her.uncle go.to.see.every.once
 There was just one that looked after her; her uncle used to go see her and bring her food.
 
 # 011
-?a?iiwachitl ??iniitlm'inhh?i.
-DUPCV-?i*hhw-`a*chi(tl) ??ini:tl-m'inhh-?i*
+?a?iiwachitl ?_iniitlm'inhh?i.
+DUPCV-?i*hhw-`a*chi(tl) ?_ini:tl-m'inhh-?i*
 REP-large-INC dog-PL-DEF
 they.grew.up the.dogs
 The dogs grew up.
@@ -3338,15 +3338,15 @@ maybe.I.will.go.and.see said
 "Maybe I will go see," she said.
 
 # 015
-?a?imshtip'atl'atquuch tlaawulshitl hiy'athh?itq, wik??atlshi?atlquuch nunuuk?i.
-?a?im-shti*p-'atl-'at-qu:-ch tlawa-ul-shi(tl) hil-'athh-?i*tq wik-??atl-shi(tl)-qu:-ch nunu:k-?i*
+?a?imshtip'atl'atquuch tlaawulshitl hiy'athh?itq, wik?_atlshi?atlquuch nunuuk?i.
+?a?im-shti*p-'atl-'at-qu:-ch tlawa-ul-shi(tl) hil-'athh-?i*tq wik-?_atl-shi(tl)-qu:-ch nunu:k-?i*
 immediately-do.while-FINITE-SHIFT-COND-INF.3 near-place.of-MOM there-residing-REL.3 not-make.sound-MOM-COND-INF.3 singing-DEF
 as.soon.as.she.did got.close.to where.she.lives they.would.get.quiet one.who.is.singing
 Whenever she got close to her house, the ones who were singing would all get quiet.
 
 # 016
-??aasiqnakshi?atl. tlasan'ap ch'iity'akuk?i laqaqtinup lihhiyasum?ak?i.
-??a*siq-na*k-shi(tl)-'atl tla-san'ap ch'i:t-y'akw-uk-?i* laqw-aqti-nup lihhiyasum-?a*k-?i*
+?_aasiqnakshi?atl. tlasan'ap ch'iity'akuk?i laqaqtinup lihhiyasum?ak?i.
+?_a*siq-na*k-shi(tl)-'atl tla-san'ap ch'i:t-y'akw-uk-?i* laqw-aqti-nup lihhiyasum-?a*k-?i*
 plan-having-MOM-FINITE sticking.up-on.the.beach digging.claims-instrument-POSS-DEF throw.soft.yielding.mass-covering-MOMCAUS cape-POSS-DEF
 she.got.a.plan put.a.stick.up.on.the.beach her.digging.stick throw.cloth.cover her.cape
 She got a plan. She put her stick in the sand and threw her cape over it.
@@ -3373,8 +3373,8 @@ they.were.all.singing dont.cry dont.cry she.is.still.on.the.beach digging.clams 
 They were all singing, "Don't cry. Don't cry. Your mother is still on the beach digging clams. Don't cry." That was how their song went.
 
 # 020
-?u?ukwink?al y'uukwiiqsusa?i, ??iihh?iik?i.
-DUPCV-?u-kwinkw-?a*l y'u:kwi:qsu-sa-?i* ??ihh-'i:k-?i*
+?u?ukwink?al y'uukwiiqsusa?i, ?_iihh?iik?i.
+DUPCV-?u-kwinkw-?a*l y'u:kwi:qsu-sa-?i* ?_ihh-'i:k-?i*
 DISTR?-he-converse.with-PL younger.brother-real-DEF cry-always.doing-DEF
 they.were.speaking.to.him the.youngest.brother one.who.always.cries
 They were singing to the youngest brother, the cry baby.
@@ -3443,8 +3443,8 @@ they.got.all.excited went.down.on.the.beach
 They were all excited and went down on the beach.
 
 # 030
-chuu qwis?aqtlin hashiiy'ap maschum?akqin ya??atqin wima??in?ap'at, waanaak'atl.
-chu: qwis-?aqtl-in hashi*-y'ap maschum-?a*k-qin yaqw-'at-qin wima??in-'ap-'at wa*-na*k-'atl
+chuu qwis?aqtlin hashiiy'ap maschum?akqin ya?_atqin wima?_in?ap'at, waanaak'atl.
+chu: qwis-?aqtl-in hashi*-y'ap maschum-?a*k-qin yaqw-'at-qin wima?_in-'ap-'at wa*-na*k-'atl
 OK do.so-FUT-1PL knowing.about-MOMCAUS tribesmen-POSS-REL.1PL he.who-SHIFT-REL.1PL unwanted-MOMCAUS-SHIFT say-having-FINITE
 OK how.we.will let.them.know our.tribesmen one.who.did.to.us not.wanting one.of.them.said
 "OK, how can we let our tribe, who did not want us, know about this," said one of them.
@@ -3478,22 +3478,22 @@ put.it.in.the.beak animal.fat
 He (the boy) put a piece of blubber in its mouth.
 
 # 035
-cha?aalchi ?ucahhtachitl hhuu matshitl, waa?atl ?uhhtaa maamaati?i, ?uuwatl'aqtl'ick luucma hiln'iis ??ihhak. t'iwa??aqis?ap'um ?ahh tl'aaq?ii, ?ahh?aa?atlsuuk hu?acachitl matshitl.
-cha?a:l-chi* ?u-ca-hhta-chi(tl) hhu: mat-shi(tl) wa*-'atl ?u-hhta* ma:ma:ti-?i* ?u-(w)a(tl)-?aqtl-?ick lu:cma hil-n'i*-`is ??ihh-ak t'i-(w)a??aq-`is-'ap-um ?ahh tl'a:q-?i* ?ahh?a:-'atl-su:k hu?a-ca-chi(tl) mat-shi(tl)
+cha?aalchi ?ucahhtachitl hhuu matshitl, waa?atl ?uhhtaa maamaati?i, ?uuwatl'aqtl'ick luucma hiln'iis ?_ihhak. t'iwa?_aqis?ap'um ?ahh tl'aaq?ii, ?ahh?aa?atlsuuk hu?acachitl matshitl.
+cha?a:l-chi* ?u-ca-hhta-chi(tl) hhu: mat-shi(tl) wa*-'atl ?u-hhta* ma:ma:ti-?i* ?u-(w)a(tl)-?aqtl-?ick lu:cma hil-n'i*-`is ?_ihh-ak t'i-(w)a?_aq-`is-'ap-um ?ahh tl'a:q-?i* ?ahh?a:-'atl-su:k hu?a-ca-chi(tl) mat-shi(tl)
 ??-go.and it-go.to-apart-MOM over.there fly-MOM say-FINITE it-doing.to bird-DEF she-find-FUT-IND.2SG woman there-down.a.slope-on.the.beach cry-DUR throw-beside-on.the.beach-MOMCAUS-FUT.IMP.2SG>3 this animal.fat-DEF then-FINITE-2SG back-go.to-MOM fly-MOM
 go.and departed.for over.there fly said to.her the.bird you.will.find woman down.on.the.beach crying drop.it.beside.her.on.the.beach this the.fat then.you.do return fly
 He told the bird, "Go fly over that way. You will see a woman on the beach crying. Drop this blubber beside her. Then you will fly back to us."
 
 # 036
-t'aaqaak matshitl maamaati?i. hinasitl qwis?atl waa?anit?itq t'iwa??aqsan'ap ??ihhakyaqis?i luucma tl'aaq?ii. hu?acachitl matshitl.
-t'a:qa:k mat-shitl ma:ma:ti-?i* hin-as-itl qwis-'atl wa*-'at-it-?i*tq t'i-(w)a??aq-san'ap ??ihh-ak-yaq-`is-?i* lu:cma tl'a:q-?i* hu?a-ca-chitl mat-shitl
+t'aaqaak matshitl maamaati?i. hinasitl qwis?atl waa?anit?itq t'iwa?_aqsan'ap ?_ihhakyaqis?i luucma tl'aaq?ii. hu?acachitl matshitl.
+t'a:qa:k mat-shitl ma:ma:ti-?i* hin-as-itl qwis-'atl wa*-'at-it-?i*tq t'i-(w)a?_aq-san'ap ?_ihh-ak-yaq-`is-?i* lu:cma tl'a:q-?i* hu?a-ca-chitl mat-shitl
 obeying fly-MOM bird-DEF there-reaching.to-MOM do.so-FINITE say-SHIFT-PAST-REL.3 throw-beside-on.the.beach.MOMCAUS cry-DUR-done-on.the.beach-DEF woman animal.fat-DEF back-go.to-MOM fly-MOM
 obeying fly the.bird reached doing.so what.it.was.told dropped.it.beside.her.on.the.beach the.woman.crying.on.the.beach woman the.fat return fly
 The bird did as told: it flew away; it reached there [the place it was supposed to go] and did what it was told to to — it dropped the blubber beside the crying woman. It flew back.
 
 # 037
-n'achiis?atl luucma?i ?an ?ucahhtachitl qwica?amit?itq?al ??ilchnaakshitlit?i.
-n'ach-i*s-'atl lu:cma-?i* ?an ?u-ca-hhta-chitl qwi-ca-'ap-it-?i*tq-?a*l ??ilch-na*k-shitl-it-?i*
+n'achiis?atl luucma?i ?an ?ucahhtachitl qwica?amit?itq?al ?_ilchnaakshitlit?i.
+n'ach-i*s-'atl lu:cma-?i* ?an ?u-ca-hhta-chitl qwi-ca-'ap-it-?i*tq-?a*l ?_ilch-na*k-shitl-it-?i*
 look-following?-FINITE woman-DEF that it-go.to-out.to.sea-MOM that.which-go.to-MOMCAUS-PAST-REL.3-PL dog-having-MOM-PAST-DEF
 followed.with.the.eyes the.woman that departed.for wherever.they.sent.her the.one.who.had.dogs
 The lady followed it with the eyes. It headed for the place that they had put the girl who gave birth to dogs.
@@ -3534,8 +3534,8 @@ they.were.starting.out
 They started out.
 
 # 043
-wik saya?ii, n'aacsiichitl hiy'athh?itq ??ilchnaakshitlit?i.
-wik saya*-?i: n'a:csi:-chitl hil-'athh-?i*tq ??ilch-na*k-shitl-it-?i*
+wik saya?ii, n'aacsiichitl hiy'athh?itq ?_ilchnaakshitlit?i.
+wik saya*-?i: n'a:csi:-chitl hil-'athh-?i*tq ?_ilch-na*k-shitl-it-?i*
 not far.off-reach spotted-MOM there-residing-REL.3 dog-having-MOM-PAST-DEF
 not went.far saw where.she.lives the.one.who.had.dogs
 Before long they saw the place where the one who got dogs lived.
@@ -3562,7 +3562,7 @@ they.all.died drowned got.caught.in.a.storm
 They all drowned in the stormy sea.
 
 # 047
-hhaahhuupay'ak — ?unw'iitlhh?atwa?ish wiiy'aat laakwiil?at yaa??aalchiqhh?at?itq quu?as. hha?ukwitl'aal n'aas.
+hhaahhuupay'ak — ?unw'iitlhh?atwa?ish wiiy'aat laakwiil?at yaa?_aalchiqhh?at?itq quu?as. hha?ukwitl'aal n'aas.
 hha:hhu:p-(y)a*-y'akw — ?unw'i:tl-(q)hh-'at-wa*?i*sh wyi:y'a-'at lakw-i:l-'at yaqw-'a*lchiqhh-'at-?i*tq qu:?as hha?u-kwitl-?a:l n'a:s
 teaching-REP-thing.for because.of-SIM-SHIFT-QUOT.3 never-SHIFT treat.badly-IT-SHIFT he.who-together.with-SHIFT-REL.3 person do.in.turn-MOM-always creator
 teachings it.is.the.reason.why never keeping.treating.badly fellow.people person pay.back creator
@@ -3601,15 +3601,15 @@ it.seems as.if.it.bit
 It appears as if the earth bit off the sun.
 
 # 005
-?iihhckwii?al hayaaqtl tup??aqstutl,
-?i:hhw-ckwi*-?a*l haya:qtl tup??aqstutl
+?iihhckwii?al hayaaqtl tup?_aqstutl,
+?i:hhw-ckwi*-?a*l haya:qtl tup?_aqstutl
 great-having.happened-PL scared become.dark
 they.were.very scared it.became.dark
 They were really scared when it became dark.
 
 # 006
-tup??aqtl qii ?uushyuuya hhaa?i?at, hhaa?i?at?ish  watqshitl. watqshi?at?ish waa?at
-tup??aqtl qi: ?u:sh-yu:ya hha-'itl-'at hha-'itl-'at hha-'itl-'at-?i*sh watq-shi(tl) watq-shi(tl)-'at-?i*sh wa:-'at
+tup?_aqtl qii ?uushyuuya hhaa?i?at, hhaa?i?at?ish  watqshitl. watqshi?at?ish waa?at
+tup?_aqtl qi: ?u:sh-yu:ya hha-'itl-'at hha-'itl-'at hha-'itl-'at-?i*sh watq-shi(tl) watq-shi(tl)-'at-?i*sh wa:-'at
 be.dark for.a.long.time some-at.the.time completely-take-SHIFT completely-take-SHIFT-IND.3 swallow-MOM swallow-MOM-IND.3 say-SHIFT
 it.is.dark for.a.long.time sometimes completely.taken it.is.completely.taken completely.swallowed it.is.completely.swallowed it.is.said
 It was dark for a long time, it sometimes got completely dark — or "completely swallowed" they said.
@@ -3664,7 +3664,7 @@ they.were.very frightened
 They were very scared.
 
 # 014
-waa ?uushckwii?al ch'apac ?ukwiqsitl, hat'iis, hat'in??aqa.
+waa ?uushckwii?al ch'apac ?ukwiqsitl, hat'iis, hat'in?_aqa.
 wa: ?u:sh-ckwi*-?a*l ch'apac ?ukwa-iqs-i(tl) hat'i:s hat'inq-'aqa
 and someone-having.happened-PL canoe oneself-into.vessel-MOM bathing bathing-severally.doing
 and some.did canoe got.on.a.vessel bathing severally-bathing
@@ -3691,8 +3691,8 @@ never do.alone when.they.have.a.potlatch
 People never had a potlatch alone by themselves.
 
 # 003
-haa??inchi?atlquu ya?aayaqhhy'u?itq hishumyipitap qwaa?apmahhsas waa.
-ha:??in-chi(tl)-'atl-qu: ya?a*ya-qhhy'u*-?i*tq hish-uml-`ipitap qwa:-'ap-mahhsa-s wa*
+haa?_inchi?atlquu ya?aayaqhhy'u?itq hishumyipitap qwaa?apmahhsas waa.
+ha:?_in-chi(tl)-'atl-qu: ya?a*ya-qhhy'u*-?i*tq hish-uml-`ipitap qwa:-'ap-mahhsa-s wa*
 invite-MOM-FINITE-COND ??-related.to-REL.3 all-in.a.group-put.inside thus-MOMCAUS-desiring.to-1SG say
 they.would.call.for those.who.are.related.to.them gather.together.inside I.want.to.do say
 They would call and gather their relatives and say, “we would like to do it (hold a potlatch).”
@@ -3872,8 +3872,8 @@ they.laughed.at.him Son.of.Deer
 They laughed at Son of Deer.
 
 # 013
-?aqis\hhcumch ?u??asht waa?atl'at, wim'aaqtlukna haa ?a?iihhp'itukqin hiinip ?ink?ii, tl'iixc'uy'in?atl.
-?aqis\hh-cum-ch ?u-??asht wa*-'atl-'at wim'a:qtl-uk-na* ha: DUPCV-?i*hhw-p'it-uk-qin hi:nip ?inkw-?i* tl'i:xw-c'us-'in-'atl
+?aqis\hhcumch ?u?_asht waa?atl'at, wim'aaqtlukna haa ?a?iihhp'itukqin hiinip ?ink?ii, tl'iixc'uy'in?atl.
+?aqis\hh-cum-ch ?u-?_asht wa*-'atl-'at wim'a:qtl-uk-na* ha: DUPCV-?i*hhw-p'it-uk-qin hi:nip ?inkw-?i* tl'i:xw-c'us-'in-'atl
 how-might-INF.3 it-?? say-FINITE-SHIFT incapable.of-POSS-1PL the.ones DISTR-large-size-POSS-REL.1PL obtain fire-DEF laugh-laugh.at-treated.as-FINITE
 how.can.it.be be.the.one they.said.to.him ours.cannot the.ones our.big.guys obtain the.fire they.laughed.at.him
 "How can he be the one to get [the fire for us] when our big guys could not get it?" they said laughing at him.
@@ -4166,8 +4166,8 @@ take.flame the.fire obtained arrived where.they.live
 Son of Deer took the flame and obtained the fire and got back to where humans live.
 
 # 055
-?iihh?atl'al nuchhhak ?u?umhhichitl'al siqiil, ?u?umhhichitl katlhh??aqstutluk ?u?umhhichitltaal?is.
-?i*hhw-'atl-?a*l nuchhh-ak ?u?umhhi-chitl-?a*l siqa-i:l ?u?umhhi-chitl katlhh-??aqstutl-uk ?u?umhhi-chitl ta:l-`is
+?iihh?atl'al nuchhhak ?u?umhhichitl'al siqiil, ?u?umhhichitl katlhh?_aqstutluk ?u?umhhichitltaal?is.
+?i*hhw-'atl-?a*l nuchhh-ak ?u?umhhi-chitl-?a*l siqa-i:l ?u?umhhi-chitl katlhh-?_aqstutl-uk ?u?umhhi-chitl ta:l-`is
 very-FINITE-PL proud-DUR able.to-MOM-PL cooked-make able.to-MOM daylight-??-POSS able.to-MOM warmed-on.the.beach
 they.were.very be.proud they.became.able.to cook became.able.to have.light became.able.to warm.on.the.beach
 People were very happy — now they can cook, have light and heat.
@@ -4193,29 +4193,29 @@ abbreviation: Flood
 ID:           CL8
 ---
 # 001
-waay'aqstutlwa?ish ??aanism'it ?an ?u?umhhichi?atl luchnaakshitlquu.
-wa*l-'aqstutl-wa*?i*sh ??a:nis-m'i*t ?an ?u?umhhi-chi(tl)-'atl luch-na*k-shitl-qu:
+waay'aqstutlwa?ish ?_aanism'it ?an ?u?umhhichi?atl luchnaakshitlquu.
+wa*l-'aqstutl-wa*?i*sh ?_a:nis-m'i*t ?an ?u?umhhi-chi(tl)-'atl luch-na*k-shitl-qu:
 say-inside-QUOT.3 crane-son.of that fit.right-MOM-FINITE wife-having-MOM-COND
 he.thought.to.himself Son.of.Crane that it.was.the.right.time.for he.would.get.a.wife
 Son of Crane thought to himself that it was time for him to get a wife.
 
 # 002
-?ucachitl saapinqas ci??asw'it'as.
-?u-ca-chitl sa:pinq-as ci??as-w'it'as
+?ucachitl saapinqas ci?_asw'it'as.
+?u-ca-chitl sa:pinq-as ci?_as-w'it'as
 it-go.to-MOM sawbill-female propose-about.to
 went.to Sawbill.woman he.was.going.to.propose
 He went to Daughter of Sawbill to propose.
 
 # 003
-wim'aaqtl yawaachi?atquu ??aanism'it ?an qwac'alaq tluly'iihha hhaakwaatl saapinqas.
-wim'a:qtl yawa:-chi(tl)-'at-qu: ??a:nis-m'i*t ?an qwac'al-aq tlul-y'i*hha hha:kwa*tl sa:pinq-as
+wim'aaqtl yawaachi?atquu ?_aanism'it ?an qwac'alaq tluly'iihha hhaakwaatl saapinqas.
+wim'a:qtl yawa:-chi(tl)-'at-qu: ?_a:nis-m'i*t ?an qwac'al-aq tlul-y'i*hha hha:kwa*tl sa:pinq-as
 incapable.of disagree-MOM-SHIFT-COND crane-son.of because pretty-very good-doing.excessively girl sawbill-female
 incapable.of he.would.disagree.with.her Son.of.Crane because very.pretty very.beautiful girl Sawbill.woman
 No one could disagree with Son of Crane because of Daughter of Sawbill was a very pretty girl.
 
 # 004
-ci??ass suutil, suc\hhintlmahhsas, waa?atl ??aanism'it.
-ci??as-s sut-(ch)il su-c\hhintl-mahhsa-s wa*-'atl ??a:nis-m'i*t
+ci?_ass suutil, suc\hhintlmahhsas, waa?atl ?_aanism'it.
+ci?_as-s sut-(ch)il su-c\hhintl-mahhsa-s wa*-'atl ?_a:nis-m'i*t
 propose-1SG you-doing.to you-marry.to-desiring.to-1SG say-FINITE crane-son.of
 I.propose to.you I.want.to.marry.you said Son.of.Crane
 "I came to propose to you; I want to marry  you," said Son of Crane.
@@ -4228,29 +4228,29 @@ I.do.not wanting.to.be.married.to.you you.are.worthless you.are.too.ugly
 "I don't want to marry you; you are nothing; you are too ugly," [said Daughter of Sawbill].
 
 # 006
-ha! witq, wikstup, waa?atl ??aanism'it.
-ha witq wikstup, wa*-'atl ??a:nis-m'i*t
+ha! witq, wikstup, waa?atl ?_aanism'it.
+ha witq wikstup, wa*-'atl ?_a:nis-m'i*t
 INTJ ugly nothing say-FINITE crane-son.of
 INTJ ugly nothing said Son.of.Crane
 "Ha! Ugly? Nothing?" said Son of Crane.
 
 # 007
-?uushsuuqstutl ??aanism'it ?an wikhhsaa?at, wiitqp'aa?at.
-?u:sh-su*qstu(tl) ??a:nis-m'i*t ?an wik-hhsa*-'at witq-p'a*-'at
+?uushsuuqstutl ?_aanism'it ?an wikhhsaa?at, wiitqp'aa?at.
+?u:sh-su*qstu(tl) ?_a:nis-m'i*t ?an wik-hhsa*-'at witq-p'a*-'at
 some-in.mind crane-son.of that not-longing.for-SHIFT ugly-dislike.because.of.excessive-SHIFT
 get.angry Son.of.Crane that he.got.refused she.didnt.like.him.because.he.was.too.ugly
 Son of Crane got really angry about the fact that she refused him and that she considered him too ugly.
 
 # 009
-?inis?aqtl'aahh?ish wiiksaquu waa, waa?atl ??aanism'it.
-?inis-?a*qtl-'a:hh-?i*sh wik-sa-qu: wa* wa*-'atl ??a:nis-m'i*t
+?inis?aqtl'aahh?ish wiiksaquu waa, waa?atl ?_aanism'it.
+?inis-?a*qtl-'a:hh-?i*sh wik-sa-qu: wa* wa*-'atl ?_a:nis-m'i*t
 wishing-FUT-perhaps-IND.3 not-real-COND say say-FINITE crane-son.of
 she.will.wish she.never.said say said Son.of.Crane
 "She will wish she had never said that," Son of Crane said.
 
 # 010
-?un'aahhshitl ya??at'aahhii ??asayat, n'ashitl'as?atl ?uukwil ch'ikn'am'it.
-?u-n'a*hh-shitl yaq-'at-'a:hh-(y)i: ??as-ayi*-'at n'ash-itl-'a*s-'atl ?u-kwil ch'ikn'a-m'i*t
+?un'aahhshitl ya?_at'aahhii ?_asayat, n'ashitl'as?atl ?uukwil ch'ikn'am'it.
+?u-n'a*hh-shitl yaq-'at-'a:hh-(y)i: ?_as-ayi*-'at n'ash-itl-'a*s-'atl ?u-kwil ch'ikn'a-m'i*t
 it-seeking-MOM who-SHIFT-perhaps-INDF.3 plan-give-SHIFT go.to.see-MOM-go.in.order.to-FINITE he-doing.to wren-son.of
 seeking.for who.would.do.to.him he.gives.him.a.plan he.went.to.see to.him Son.of.Wren
 He went to find someone who could give him advice. He went to see Son of Wren.
@@ -4284,8 +4284,8 @@ it.is.simple he.said.to.him
 "It's easy," he told him.
 
 # 015
-?ucachi?um nuchii?i, tl'amaassitlsuuk ?iihhquu ??almapt, hitaqinu?um, tl'uulapiqhh?atlsuuk, n'achhhtaakhh ?ahh waa.
-?u-ca-chi(tl)-'um nuchi:-?i* tl'am-a*s-itl-su:k ?i*hhw-qu: ??almapt hita-qinu-'um tl'ul-api-(q)hh-'atl-su:k n'ach-hhta*kw-(q)hh ?ahh wa*
+?ucachi?um nuchii?i, tl'amaassitlsuuk ?iihhquu ?_almapt, hitaqinu?um, tl'uulapiqhh?atlsuuk, n'achhhtaakhh ?ahh waa.
+?u-ca-chi(tl)-'um nuchi:-?i* tl'am-a*s-itl-su:k ?i*hhw-qu: ?_almapt hita-qinu-'um tl'ul-api-(q)hh-'atl-su:k n'ach-hhta*kw-(q)hh ?ahh wa*
 it-go.to-MOM-FUT.IMP.2SG mountain-DEF straddling-on.a.tree-MOM-2SG large-COND yellow.cedar LOC-on.top-FUT.IMP.2SG touch-up.in.the.air-SIM-FINITE-2SG look-out.to.sea-SIM this say
 go.there the.mountain you.climb.onto.a.tree big yellow.cedar go.to.the.top raising.the.arms.up look.out.to.the.sea this say
 "Go to the mountain; you climb on top of a big yellow cedar tree; stretch your arms out and look to the sea; and say this,"
@@ -4302,8 +4302,8 @@ when.you.have.done.this this you.will.see rise sea there.will.be.a.flood
 "When you have done this, you will see the sea rise. There will be a flood."
 
 # 018
-qwis ??aanism'it waa?at?itq, hinumsintl nuchii, ?uuwatl ?iihhs ??almapt, ?iihhs ??almapt, tl'amaasitl, tl'uulaputl, n'achhhtaakhh?atl waa waamahhsap'anit?itq,
-qwis ??a:nis-m'i*t wa*-'at-?i*tq hinumsintl nuchi: ?u-watl ?i:hhw-s ??almapt ?i:hhw-s ??almapt tl'am-a*s-itl tl'ul-aputl n'ach-hhta*kw-(q)hh-'atl wa* wa*-mahhsa-'ap-'at-it-?i*tq
+qwis ?_aanism'it waa?at?itq, hinumsintl nuchii, ?uuwatl ?iihhs ?_almapt, ?iihhs ?_almapt, tl'amaasitl, tl'uulaputl, n'achhhtaakhh?atl waa waamahhsap'anit?itq,
+qwis ?_a:nis-m'i*t wa*-'at-?i*tq hinumsintl nuchi: ?u-watl ?i:hhw-s ?_almapt ?i:hhw-s ?_almapt tl'am-a*s-itl tl'ul-aputl n'ach-hhta*kw-(q)hh-'atl wa* wa*-mahhsa-'ap-'at-it-?i*tq
 do.so crane-son.of say-SHIFT-REL.3 climb mountain it-find suddenly-1SG yellow.cedar suddenly-1SG yellow.cedar straddling-on.a.tree-MOM touch-in.the.air.MOMCAUS look-out.to.sea-SIM-FINITE say say-desiring.to-MOMCAUS-SHIFT-PAST-REL.3
 do.so Son.of.Crane what.was.said.to.her climb mountain found large yellow.cedar large yellow.cedar climbed.onto.a.tree put.the.hands.up looking.out.to.sea say what.he.wanted.him.to.say
 Son of Crane did as he was told. He went up the mountain, and found a big yellow cedar tree; he climbed the tree, raised his hands, looking out to sea, he said what he was told to say:
@@ -4313,8 +4313,8 @@ Son of Crane did as he was told. He went up the mountain, and found a big yellow
 \tln "She said to me* she said to me* Let the sea rise* let the tide come in."
 
 # 020
-muup'it??atl'ap'at. n'aacsaatl ?uyaasila hilachishit?i ?ich'achitl tup'al.
-mu:-p'it-??atl-'ap-'at n'a:csa-'atl ?uya:-sila hil-achisht-it-?i* ?ich'a-chitl tup'al
+muup'it?_atl'ap'at. n'aacsaatl ?uyaasila hilachishit?i ?ich'achitl tup'al.
+mu:-p'it-?_atl-'ap-'at n'a:csa-'atl ?uya:-sila hil-achisht-it-?i* ?ich'a-chitl tup'al
 four-times-make.sound-MOMCAUS-SHIFT see-FINITE unusual-act.like there-on.the.sea-PAST-DEF lifted.up-MOM salt.water
 he.did.it.four.times watched something.strange.happened the.ocean rise salt.water
 He chanted this for four times, and something started to happen to the ocean: the water rose.
@@ -4334,8 +4334,8 @@ nothing.could.be.seen various.things
 You could not see anything.
 
 # 024
-hha?ii nuchii?i, ?ana wihh?aa?a hiy'aa?a?itq ??aanism'it.
-hha-?i: nuchi:-?i* ?ana wihh-'a*?a hil-'a*?a-?i*tq ??a:nis-m'i*t
+hha?ii nuchii?i, ?ana wihh?aa?a hiy'aa?a?itq ?_aanism'it.
+hha-?i: nuchi:-?i* ?ana wihh-'a*?a hil-'a*?a-?i*tq ?_a:nis-m'i*t
 completely-reach mountain-DEF only dry-on.the.rock there-on.the.rock-REL.3 crane-son.of
 go.all.the.way the.mountain only dry.on.the.rock place.on.the.rock.where.he.was Son.of.Crane
 All the way to the mountain, the only place dry was where Son of Crane was.
@@ -4369,8 +4369,8 @@ did.it.slowly water.slowly.went.down
 The water slowly went down.
 
 # 029
-hin?alshitl ??aanism'it ?an ?ii?iihhsilapi.
-hin-?al-shitl ??a:nis-m'i*t ?an ?i*hhw-sila-api
+hin?alshitl ?_aanism'it ?an ?ii?iihhsilapi.
+hin-?al-shitl ?_a:nis-m'i*t ?an ?i*hhw-sila-api
 there-aware.of-MOM crane-son.of that great-do-excessively
 realize Son.of.Crane that he.has.done.an.extraordinary.thing
 Son of Crane realized that he had done great damage.
@@ -4383,8 +4383,8 @@ saw that all.died all.kinds.of.birds robin wren bald.eagle all they.died.out
 He saw that all the birds had died: robin, wren, and eagle — all of them died.
 
 # 031
-waay'aqstutl tiicha?apquu ??aanism'it.
-wa*l-'aqstutl ti*cha-'ap-qu: ??a:nis-m'i*t
+waay'aqstutl tiicha?apquu ?_aanism'it.
+wa*l-'aqstutl ti*cha-'ap-qu: ?_a:nis-m'i*t
 say-inside alive?-MOMCAUS-COND crane-son.of
 thought.to.himself bring.back.to.life Son.of.Crane
 Son of Crane throught to himself that he would bring them back to life.
@@ -4411,8 +4411,8 @@ drifted being.she Sawbill.woman went.far moving.around.alone
 Daughter of Sawbill drifted far away, all by herself.
 
 # 035
-?unw'iitlhh?atl qwis ?an wikhhsaamit ??aanism'it.
-?unw'i:tl-(q)hh-'atl qwis ?an wik-hhsa*-'ap-it ??a:nis-m'i*t
+?unw'iitlhh?atl qwis ?an wikhhsaamit ?_aanism'it.
+?unw'i:tl-(q)hh-'atl qwis ?an wik-hhsa*-'ap-it ?_a:nis-m'i*t
 because.of-SIM-FINITE do.so that not-longing.for-MOMCAUS-PAST crane-son.of
 it.is.the.reason do.so that she.didnt.want.him Son.of.Crane
 All of this happened because she refused to marry Son of Crane.
@@ -4494,8 +4494,8 @@ saw the.man something moved.on.the.rock
 The man saw something move on the rocks.
 
 # 008
-hiy'aaqstas ??ama??as?i.
-hil-'a*qsta-'as ??ama??as-?i*
+hiy'aaqstas ?_ama?_as?i.
+hil-'a*qsta-'as ?_ama?_as-?i*
 there-amongst-on.the.ground grassy.area-DEF
 lie.in the.grassy.area
 He lay in the grassy area.
@@ -4592,8 +4592,8 @@ run.on.the.fours the.wolves into.the.woods
 The wolf ran off into the woods.
 
 # 022
-mamaasulqchik haa??in yaa??aalchiqhh?itq.
-ma*su*l-qchik ha:??in yaqw-'a*lchiqhh-?i*tq
+mamaasulqchik haa?_in yaa?_aalchiqhh?itq.
+ma*su*l-qchik ha:?_in yaqw-'a*lchiqhh-?i*tq
 howl-going.along invite he.who-together.with-REL.3
 howled.while invite fellow.people
 It howled as it went inviting the other wolves.
@@ -4641,14 +4641,14 @@ take.along one.he.did.it.to invite.for.eating
 He brought the ones that he invited.
 
 # 029
-wikis??i?atl kuukuhhw'isak?i.
-wik-`is-??i(tl)-'atl ku:kuhhw'isa-?a*k-?i*
+wikis?_i?atl kuukuhhw'isak?i.
+wik-`is-?_i(tl)-'atl ku:kuhhw'isa-?a*k-?i*
 not-on.the.beach-find-FINITE hair.seal-POSS-DEF
 found.it.gone.on.the.beach his.hair.seal
 It (the wolf) found its seal gone.
 
 # 030
-mismiis?atl'at qwicahhtachitlit?itq ya??atuk?itq kuuw'il?at ha?um.
+mismiis?atl'at qwicahhtachitlit?itq ya?_atuk?itq kuuw'il?at ha?um.
 mis-ma*-`is-'atl-'at qwi-ca-hhta-chitl-?i*tq yaq-'at-uk-?i*tq ku:w'il-'at ha?um
 smell-going.toward?-on.the.beach-FINITE-SHIFT he.who-go.to-out.to.sea-MOM-REL.3 who-SHIFT-POSS-REL.3 steal-SHIFT food
 sniff.out.the.way.to where.he.went one.who.did.it.to.his was.stolen food
@@ -4795,15 +4795,15 @@ now.then what.should.we.do said the.husband
 "Now, what should I do," said the husband.
 
 # 051
-wik?aqtl'atsa lachi?at ??aciis qwicachitluusin.
-wik-?aqtl-'at-sa lach-i(tl)-'at ??aci:s qwi-ca-chi(tl)-u:sin
+wik?aqtl'atsa lachi?at ?_aciis qwicachitluusin.
+wik-?aqtl-'at-sa lach-i(tl)-'at ?_aci:s qwi-ca-chi(tl)-u:sin
 not-FUT-SHIFT-1SG let.go-MOM-SHIFT regardless what-go.to-MOM-REL.DUB.1PL?
 they.will.not.let.me.do they.let.me.go regardless no.matter.where.we.go
 They wouldn't leave me alone no matter where we go.
 
 # 052
-haa??inchi?i t'apathhsim'inhhukqin.
-ha:??in-chi(tl)-'i* t'apathhsi-m'inhh-uk-qin
+haa?_inchi?i t'apathhsim'inhhukqin.
+ha:?_in-chi(tl)-'i* t'apathhsi-m'inhh-uk-qin
 invite-MOM-IMP advisors-PL-POSS-REL.1PL
 call.on our.advisors
 Call on our advisors.
@@ -4823,8 +4823,8 @@ they.gathered.in.the.house many.people.thinking
 They gathered around and started thinking.
 
 # 055
-?un'aahh?i numackwiqalquu hiilcii??as?ap.
-?u-n'a*hh-'i* numa-ckwi*q-al-qu: hi:l-ci:??as-'ap
+?un'aahh?i numackwiqalquu hiilcii?_as?ap.
+?u-n'a*hh-'i* numa-ckwi*q-al-qu: hi:l-ci:?_as-'ap
 it-seeking-IMP menstruating-remains.of-attached.on-COND there.in.a.house-at.the.outside.wall-MOMCAUS
 find.it pad.from.a.period in.front.of.the.house
 "You look for a pad from a monthly period and put it on your doorstep," [the advisors told him].
@@ -4967,8 +4967,8 @@ and NAME being.named NAME being.named
 His name was _č̓iḥtaap_.
 
 # 016
-tla?uu?ak ??imtii.
-tla?u:-?a*k ??imti*
+tla?uu?ak ?_imtii.
+tla?u:-?a*k ?_imti*
 another-POSS name
 have.another name
 He had another name.
@@ -4981,7 +4981,7 @@ came.from           NAME          NAME          which          [~] [~]
 He was from _ƛ̓ic̓aaʔatḥ_ — from which James Adams and Carl Jumbo came.
 
 # 018
-haa qwaaniish. haa qwaaniish n'uw'iiqsakqs nananiqsakqs, kwaatya, kinhhuul yaqukwitii luucma, qilsma??aqsup, qilsma??aqsup.
+haa qwaaniish. haa qwaaniish n'uw'iiqsakqs nananiqsakqs, kwaatya, kinhhuul yaqukwitii luucma, qilsma?_aqsup, qilsma?_aqsup.
 ha: qwa:-ni*sh   ha: qwa:-ni*sh   n'uw'i*qsu-?a*k-qs  DUP-nani*qsu-?a*k-qs           kwa:tya kinhhuul yaq-ukw-it-(y)i:     luucma qilsmaq-'aqsup    qilsmaq-'aqsup.
 yes thus-IND.1PL yes thus-IND.1PL father-POSS-SUB.1SG DISTR-grandparent-POSS-SUB.1SG NAME    NAME     who-POSS-PAST-INDF.3 wife   Kelsomat-woman.of Kelsomat-woman.of
 yes thus.we.are  yes thus.we.are  my.father           my.grandparents                NAME    NAME     who.was.his          wife   Kelsomat.woman    Kelsomat.woman
@@ -4995,7 +4995,7 @@ thus also who.was.w̓iikinaniš late.Kelsomat.man
 So was the one whose name was _w̓iikinaniš_—he was from Kelsomat.
 
 # 020
-?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya??atl'itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
+?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya?_atl'itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
 ?a:nahha-'atl ?in  kwa:tya nani*qsu-?a*k   nani*qsu-?a*k-?i*tq    his-taq-shi(tl)     yaq?atl-?i*tq-?a*l ?achaq m'ukwina m'ukwina ?a:sha:sh-taqiml ?u-kla*
 ??-FIN        that NAME    granparent-POSS grandparent-POSS-REL.3 there-come.from-MOM who-FIN.REL.3-PL   who    NAME     NAME     NAME-family      it-having.as.name
 ??-FIN        that NAME    her.grandparent her.grandparent        came.from           ones.who           who    NAME     NAME     ʔaašaaš.clan     being.named
@@ -5034,29 +5034,29 @@ It was snowing.
 Month of February, 1912—that's when I was born.
 
 # 026
-waa haa  hiisa?ac'atlits   ??upnit
-wa* ha:  hi:sa?ac'atl-it-s ??upnit
+waa haa  hiisa?ac'atlits   ?_upnit
+wa* ha:  hi:sa?ac'atl-it-s ?_upnit
 and DISC grow.up-PAST-1SG  Opnit
 and ahh  I.grew.up         Opnit
 And I grew up at Opnit.
 
 # 027
-?uniciis quu?ichitlit ??upnit
-?unic-(y)i:s          qu:?ichitl-it ??upnit
+?uniciis quu?ichitlit ?_upnit
+?unic-(y)i:s          qu:?ichitl-it ?_upnit
 time.spent-INDF.1SG   grow.up-PAST  Opnit
 for.some.time.I.spent I.grew.up     Opnit
 For some years I grew up at Opnit
 
 # 028
-waa, ?ahh?aatls ?ucachitl ??a?uknak, tliistliisa
-wa* ?ahh?a:-'atl-s ?u-ca-chi(tl) ??a?uknak DUP#-tli:s-a
+waa, ?ahh?aatls ?ucachitl ?_a?uknak, tliistliisa
+wa* ?ahh?a:-'atl-s ?u-ca-chi(tl) ?_a?uknak DUP#-tli:s-a
 and then-FIN-1SG it-go.to-MOM NAME IT-write-REP
 and then.I.did went.to NAME going.to.school
 and then I went to _ʕaʔuknak_ to attend school.
 
 # 029
-?a?ums walaak ??a?uknak 1919
-?a?um-s wala:k ??a?uknak ~
+?a?ums walaak ?_a?uknak 1919
+?a?um-s wala:k ?_a?uknak ~
 at.first-1SG go NAME ~
 I.first went NAME ~
 I first went to _ʕaʔuknak_ in 1919.
@@ -5083,8 +5083,8 @@ she.got.married.to.another
 She had got remarried.
 
 # 033
-??ihhshitls, ??ihhshitls
-??ihh-shi(tl)-s ??ihh-shi(tl)-s
+?_ihhshitls, ?_ihhshitls
+?_ihh-shi(tl)-s ?_ihh-shi(tl)-s
 cry-GRAD-1SG cry-GRAD-1SG
 I.was.crying I.was.crying
 I cried and cried.
@@ -5164,15 +5164,15 @@ ling.cod sometimes catch
 Sometimes we got cod
 
 # 045
-waa ?ahh?aatl ??ay'iichhh ?aya muwach susaa, suusilaya
-wa* ?ahh?a:-'atl ??ay'i:chhh ?aya muwach sus-(y)a* sus-il-aya
+waa ?ahh?aatl ?_ay'iichhh ?aya muwach susaa, suusilaya
+wa* ?ahh?a:-'atl ?_ay'i:chhh ?aya muwach sus-(y)a* sus-il-aya
 and then-FIN autumn many deer swim-CONT swim-??-continuously.doing
 and then autumn many deer swimming continuously.swimming
 and then in spring(?) many deer swam across.
 
 # 046
-?ahh qwaanaa ha?uk ??a?uknak hilhh
-?ahh qwa:-na* ha?uk ??a?uknak hil-(q)hh
+?ahh qwaanaa ha?uk ?_a?uknak hilhh
+?ahh qwa:-na* ha?uk ?_a?uknak hil-(q)hh
 this thus-1PL eat NAME there-SIM
 this how.we.are eat NAME there
 That's how we ate at _ʕaʔuknak_.
@@ -5290,8 +5290,8 @@ then    I.do.for.now start.telling.a.story what.happened
 Now I have started telling a story about what happened.
 
 # 063
-hi?iisitwa?ish ?ishc'iipm'it nism'a?i hil tlawaaquhhaa, ?alma??a ?uklaa
-hi?i:s-it-wa*?i*sh              ?ishc'i:p-m'i*t  nism'a-?i* hil   tlawa: quhha: ?alma?? ?u-kla*
+hi?iisitwa?ish ?ishc'iipm'it nism'a?i hil tlawaaquhhaa, ?alma?_a ?uklaa
+hi?i:s-it-wa*?i*sh              ?ishc'i:p-m'i*t  nism'a-?i* hil   tlawa: quhha: ?alma?_ ?u-kla*
 there.on.the.ground-PAST-QUOT.3 gum-son.of       land-DEF   there near   NAME   NAME    it-named
 it.was.there                    Son.of.Gum.Woman the.land   there near   NAME   NAME    being.named
 Son of Gum Woman lived at the place near _qaḥaa_, a place named _ʔaɬmaʕa_.
@@ -5494,8 +5494,8 @@ suuchitl waa. suuchitl. [Eight hours], ?atlakwal. [Eight hours] qum'aa.
 We worked for eight hours a day. (?)
 
 # 093
-??aciishh wiiqsii?atlquu wik'iit [time-off] \logging, huu?ak ?uyi
-??aci:s-(q)hh wi:qsi:-'atl-qu:  wik'i:t ~ ~ hu:?ak ?uyi
+?_aciishh wiiqsii?atlquu wik'iit [time-off] \logging, huu?ak ?uyi
+?_aci:s-(q)hh wi:qsi:-'atl-qu:  wik'i:t ~ ~ hu:?ak ?uyi
 ??-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.the.time
 ??-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.that.time
 Even in stormy weather there was no time off from logging a long time ago.
@@ -5592,8 +5592,8 @@ It was a long time ago in 1945.
 I worked with Gordon Gibson.
 
 # 107
-?unaakit?ish mill, [Gordon Gibson], [Matilda Creek], ??aahhuus?athh hil
-?u-na*k-it-?i*sh ~ ~ ~ ??a:hhu:s?athh hil
+?unaakit?ish mill, [Gordon Gibson], [Matilda Creek], ?_aahhuus?athh hil
+?u-na*k-it-?i*sh ~ ~ ~ ?_a:hhu:s?athh hil
 it-having-PAST-IND.3 ~ ~ ~ Ahousaht there
 he.had ~ ~ ~ Ahousaht there
 Gordon Gibson owned the mill on the Matilda Creek in Ahousat.
@@ -5746,8 +5746,8 @@ and then went.home
 and then I went home.
 
 # 130
-chaani?aqtls walshitl, walshi?atls  ??aahhuus?athh
-cha:ni-'aqtl-s wal-shi(tl) wal-shi(tl)-'atl-s ??a:hhu:s?athh
+chaani?aqtls walshitl, walshi?atls  ?_aahhuus?athh
+cha:ni-'aqtl-s wal-shi(tl) wal-shi(tl)-'atl-s ?_a:hhu:s?athh
 for.now-FUT-1SG go.home-MOM go.home-MOM-FIN-1SG Ahousaht
 for.now.I.will go.home I.went.home Ahousaht
 For now I went home. I went back to Ahousaht.
@@ -5760,15 +5760,15 @@ I.for.long at.home
 I stayed home for a long time.
 
 # 132
-??uyaasatl'in waa?atl'ats Viola
-??uya:s-'atl-'in wa:-'atl-'at-s ~
+?_uyaasatl'in waa?atl'ats Viola
+?_uya:s-'atl-'in wa:-'atl-'at-s ~
 move-FIN-IMP.1PL say-FIN-SHIFT-1SG ~
 lets.move it.was.said.to.me ~
 "Let's move to a different place," Viola said to me.
 
 # 133
-??uyaasatlna Alberni walaak, Alberni, [Port Alberni]
-??uya:s-'atl-na* Alberni wala:k Alberni ~
+?_uyaasatlna Alberni walaak, Alberni, [Port Alberni]
+?_uya:s-'atl-na* Alberni wala:k Alberni ~
 move-FIN-1PL Alberni go Alberni ~
 we.moved ~ go ~ ~
 We went to Port Alberni.
@@ -6086,8 +6086,8 @@ with.reference.to.which ~ private we.say
 We call our private parts of our body _qaanim_.
 
 # 179
-?ahh?aa, hiishilsa huhhtak ??aa??imt'at  ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa?at ch'alch'a, hishuk ch'alch'a
-?ahh?a: hish-(ch)il-sa huhhtak DUP:-??imt-'at ?usit-'at-qin ?una-`ichi(tl)-qin hist-'itl t'uhhc'iti hapsy'up hap-ca*sqi* hhu:l tlishtlin DUP-ch'isa*q-hhtim wa*-'at ch'alch'a hish-uk ch'alch'a
+?ahh?aa, hiishilsa huhhtak ?_aa?_imt'at  ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa?at ch'alch'a, hishuk ch'alch'a
+?ahh?a: hish-(ch)il-sa huhhtak DUP:-?_imt-'at ?usit-'at-qin ?una-`ichi(tl)-qin hist-'itl t'uhhc'iti hapsy'up hap-ca*sqi* hhu:l tlishtlin DUP-ch'isa*q-hhtim wa*-'at ch'alch'a hish-uk ch'alch'a
 then all-with.ref.to-1SG know IT-name-POSS body-POSS-REL.1PL that.much-INC-REL.1PL there-take head hair hair-head? there foot DISTR-??-?? say-SHIFT fingernail all-DUR fingernail
 then everything.I know their.names our.body our.whole.body taken.from.there head hair head.hair there foot toes it.is.called nails all nails
 I know the names of different parts of our body — the whole body, starting from our head and head hair, to feet, toes, nails, all nails.
@@ -6132,15 +6132,15 @@ gray.whale they.come.from.there southern.area
 Gray whales are from the southern area.
 
 # 003
-n'aach'alukw'atlquuch quu?as tl'aqapt n'aacsa tl'aqswaas?atlquu ?a?um ??iilmakt.
-n'ach-'aluk-'atl-qu:-ch qu:?as tl'aqapt n'a:csa tl'aq-swi*-'as-'atl-qu: ?a?um ??i:lmakt
+n'aach'alukw'atlquuch quu?as tl'aqapt n'aacsa tl'aqswaas?atlquu ?a?um ?_iilmakt.
+n'ach-'aluk-'atl-qu:-ch qu:?as tl'aqapt n'a:csa tl'aq-swi*-'as-'atl-qu: ?a?um ?_i:lmakt
 see-looking.after-FIN-COND-INF person plants see grow-extending.through-on.the.ground-FIN-COND at.first nettle
 would.watch person plants see when.it.sprouts at.first nettle
 Men would watch the plant(s) to see when the nettle first sprouts.
 
 # 004
-chuu, waa quu?as?i hhamat tl'aqswaas?atl'ish ??iilmakt.
-chu: wa* qu:?as-?i* hhamat tl'aq-swi*-'as-'atl-?i*sh ??i:lmakt
+chuu, waa quu?as?i hhamat tl'aqswaas?atl'ish ?_iilmakt.
+chu: wa* qu:?as-?i* hhamat tl'aq-swi*-'as-'atl-?i*sh ?_i:lmakt
 now.then and person-DEF plain grow-extending.through-on.the.ground-FIN-IND.3 nettle
 now.then and the.man plain have.started.to.sprout nettle
 Now [my] people, you can plainly see that the nettle(s) have started to grow.
@@ -6265,8 +6265,8 @@ always look.out the.old.person sitting.idly.outside
 The old men were always sitting looking about.
 
 # 022
-wik'iituk?al ??i??iqat??in.
-wik'i:t-uk-?a*l DUP-??iqat-??in
+wik'iituk?al ?_i?_iqat?_in.
+wik'i:t-uk-?a*l DUP-?_iqat-?_in
 absent-DUR-PL DISTR-drip-make.sound
 they.did.not.have watch
 They did not have a watch.
@@ -6409,8 +6409,8 @@ we.are.looking.for fur it.is.said
 They said [to the people of the village], "We want to get fur,
 
 # 018
-haptuup. ??ahhmis, ??ahhmis waa?attla hhaal, histaqshitl'i tup'al.
-hap-tu*p ??ahhmis ??ahhmis wa:-'at-tla* hha:l his-taq-shi(tl)-?i* tup'al
+haptuup. ?_ahhmis, ?_ahhmis waa?attla hhaal, histaqshitl'i tup'al.
+hap-tu*p ?_ahhmis ?_ahhmis wa:-'at-tla* hha:l his-taq-shi(tl)-?i* tup'al
 fur-thing sea.mammal sea.mammal say-SHIFT-again there there.MOM-come.from-MOM-DEF sea
 fur sea.mammal sea.mammal also.said there one.that.come.from sea
 the fur of sea mammals there from the ocean,
@@ -6584,8 +6584,8 @@ wore.uniform sometimes great leader one.in.charge the.ship
 A high-ranking leader, i.e., captain of the ship, would sometimes dress up [in his uniform].
 
 # 043
-??ihhak luucma?i hinii?as. ??ihhak.
-??ihh-ak lu:cma-?i* hin-i:?as ??ihh-ak
+?_ihhak luucma?i hinii?as. ?_ihhak.
+?_ihh-ak lu:cma-?i* hin-i:?as ?_ihh-ak
 cry-DUR woman-DEF there.MOM-go.outside cry-DUR
 crying the.woman go.out crying
 The woman came out crying.
@@ -6682,7 +6682,7 @@ sank.down sank.down
 "It (the English Navy ship) sank into the water! The ship sank!"
 
 # 057
-p'at??ahhs, qwiqitii m'uch'ichtup.
+p'at?_ahhs, qwiqitii m'uch'ichtup.
 p'atqw-'ahhs qwiq-it-(y)i: m'uch'ich-tu*p
 load-in.a.vessel what-PAST-INDF.3 clothed-thing
 having.load.in.a.canoe whatever.they.might.have.been clothes
@@ -6710,8 +6710,8 @@ NAME being.named
 The place is called _wiiḥaaqsusiis_.
 
 # 061
-chuu, tl'aa?inu?at'al, tl'aa?intl, n'u??asaqhh, ??aahhuus, hitaaqtlis.
-chu: tl'a:-?inu-'atl-?a*l tl'a:-?in(tl) n'u??asaqhh ??a:hhu:s hita:qtlis
+chuu, tl'aa?inu?at'al, tl'aa?intl, n'u?_asaqhh, ?_aahhuus, hitaaqtlis.
+chu: tl'a:-?inu-'atl-?a*l tl'a:-?in(tl) n'u?_asaqhh ?_a:hhu:s hita:qtlis
 now.then outside-MOM-FIN-PL outside-MOM NAME NAME NAME(?)
 now.then they.went.outside went.out NAME NAME NAME
 Then they went out to the open sea to _n̓uʕasaqḥ_, Ahous, or _hit:qƛis_. (?)
@@ -6724,22 +6724,22 @@ NAME being.it homeland
 Chetarpe was their home village.
 
 # 063
-ch'itaapi ?ahh ?aq?ishtiik, hiluk?al mama?uu, waa qilcma??athh.
-ch'ita:pi ?ahh ~ hil-uk-?a*l DUP-ma-'u: wa* qilcma??athh
+ch'itaapi ?ahh ?aq?ishtiik, hiluk?al mama?uu, waa qilcma?_athh.
+ch'ita:pi ?ahh ~ hil-uk-?a*l DUP-ma-'u: wa* qilcma?_athh
 NAME here here-POSS-PL DISTR-dwell-camp.out.for and Kelsomat
 NAME here this.is.their set.up.summer.camps.for.fishing and Kelsomat
 Chetarpe was the place where they (Ahousaht people) had their summer camp for fishing. And so did Kelsomats.
 
 # 064
-waa tl'aa?aathh qilcma??athh.
-wa: tl'a:?a:-'athh qilcma??athh
+waa tl'aa?aathh qilcma?_athh.
+wa: tl'a:?a:-'athh qilcma?_athh
 and outside-people.from Kelsomat
 and people.from.outside Kelsomat
 We call Kelsomats "people from outside".
 
 # 065
-wik, wik, wik niiy'aaqsta qilcma??athh qwis?iitq ??aahhuus?athh.
-wik wik wik hil-'a*qsta qilcma??athh qwis-?i*tq ??a:hhu:s?athh
+wik, wik, wik niiy'aaqsta qilcma?_athh qwis?iitq ?_aahhuus?athh.
+wik wik wik hil-'a*qsta qilcma?_athh qwis-?i*tq ?_a:hhu:s?athh
 not not not there-amongst Kelsomat do.so-REL.3 Ahousaht
 not not not among.them Kelsomat what.they.did Ahousaht
 [Although they had the camp there with the Ahousahts,] the Kelsomat didn't take part in the business of the Ahousaht band.
@@ -6752,8 +6752,8 @@ annihilate annihilate the.people.on.the.schooner
 They (Ahousahts) killed all the crewmen on the schooner.
 
 # 067
-wik ?unic, ?unicitii, hitasatl, ch'apac, ??aahhuus.
-wik ?unic ?unic-it-(y)i: hita-`sa(tl) ch'apac ??a:hhu:s
+wik ?unic, ?unicitii, hitasatl, ch'apac, ?_aahhuus.
+wik ?unic ?unic-it-(y)i: hita-`sa(tl) ch'apac ?_a:hhu:s
 not time.taken time.taken-PAST-INDF.3 there.MOM-on.the.beach canoe Ahous
 not took.long however.long.it.took land.on.the.beach canoe Ahous
 Soon after the incident a canoe came to the beach of Ahous.
@@ -6787,15 +6787,15 @@ only.time.it.is.done properly in.a.short.time when.westerly.wind.is.blowing thus
 They only time you can quickly get there (Neah Bay) is when a westerly wind is blowing. On the way back, a southeast wind.
 
 # 072
-?unicitii. tl'iipitl, ??aahhuus?athh. tliipitl.
-?unic-it-(y)i: tl'i:-pi(tl) ??a:hhu:s?athh tl'i:-pi(tl)
+?unicitii. tl'iipitl, ?_aahhuus?athh. tliipitl.
+?unic-it-(y)i: tl'i:-pi(tl) ?_a:hhu:s?athh tl'i:-pi(tl)
 time.taken-PAST-INDF.3 partaking.in.the.feast-in.the.house Ahousaht partaking.in.the.feast-in.the.house
 however.long.it.took partaking.in.the.feast Ahousaht partaking.in.the.feast
 After some time [of traveling on the ocean they finally got there, and] Ahousaht people partook in a feast.
 
 # 073
-wichsila?aash quu?as?i, ?iinaxyu, ?ukwich ?iinaxyu, Admiral waacim??at m'uch'ichtupukwitquu.
-wich-sila-??a:sh qu:?as-?i* ?i:nax-yu* ?u-kw'ich ?i:nax-yu* ~ wa:-?? m'uch'ich-tu*p-uk-it-qu:
+wichsila?aash quu?as?i, ?iinaxyu, ?ukwich ?iinaxyu, Admiral waacim?_at m'uch'ichtupukwitquu.
+wich-sila-?_a:sh qu:?as-?i* ?i:nax-yu* ?u-kw'ich ?i:nax-yu* ~ wa:-?? m'uch'ich-tu*p-uk-it-qu:
 improper?-act.like-INF.3 person-DEF dressed.up-done it-clothed.in dressed.up-have.done ~ say-?? clothed-thing-POSS-PAST-COND.3
 do.the.wrong the.man dressed.up wearing dressed.up ~ how.you.could.call clothes.that.used.to.be.his
 An [Ahousaht] man made a mistake: he was dressed up in the Admiral's clothing.
@@ -6948,8 +6948,8 @@ sailing
 They were sailing.
 
 # 095
-?u?umhhichitl, hitaquu?a ??aahhuus, c'iiqaa. c'iiqaa.
-?u?umhhi-chi(tl) hita-qu:-'a* ??a:hhu:s c'i:q-(y)a* c'i:q-(y)a*
+?u?umhhichitl, hitaquu?a ?_aahhuus, c'iiqaa. c'iiqaa.
+?u?umhhi-chi(tl) hita-qu:-'a* ?_a:hhu:s c'i:q-(y)a* c'i:q-(y)a*
 just.right-MOM there.MOM-at.a.point-on.the.rock Ahous chant-CONT chant-CONT
 reach.just.in.time be.at.the.point Ahous chanting chanting
 They got to Ahous Point just in time. They were singing [a paddling song].
@@ -6990,22 +6990,22 @@ moved.into.the.inlet moved.into.the.inlet
 [And] they all headed for the inlets.
 
 # 101
-hach'a hha?iichhhshi?atlit, ?in ??aakwaasht ?ukwiilckwat tl'uukwil ?aya.
-hach'a hha?i:chhh-shi(tl)-'atl-it ?in ??a:kw-a*sht ?u-kwi:l-ckwi*-'at tl'u:-kwil ?aya
+hach'a hha?iichhhshi?atlit, ?in ?_aakwaasht ?ukwiilckwat tl'uukwil ?aya.
+hach'a hha?i:chhh-shi(tl)-'atl-it ?in ?_a:kw-a*sht ?u-kwi:l-ckwi*-'at tl'u:-kwil ?aya
 maybe September-MOM-FIN-PAST because dog.salmon-dried.food it-make-done-SHIFT drying-?? many
 maybe it.was.in.September because dried.salmon they.made drying many
 Maybe it was in September, since many people were making dried salmon [in the village].
 
 # 102
-?ucachitl, c'ikt'aqis, muchachilhh, wap'uuqhh, ??aahhuus?athh.
-?u-ca-chi(tl) c'ikt'aqis muichachilhh wap'u:qhh ??a:hhu:s?athh
+?ucachitl, c'ikt'aqis, muchachilhh, wap'uuqhh, ?_aahhuus?athh.
+?u-ca-chi(tl) c'ikt'aqis muichachilhh wap'u:qhh ?_a:hhu:s?athh
 it-go.to-MOM Atheo.River Pretty.Girl.Cove Magin.River Ahousaht
 went.there Atheo.River Pretty.Girl.Cove Magin.River Ahousaht
 The Ahousahts went to Atheo River, Pretty Girl Cove, and the Magin River area.
 
 # 103
-wa?uus. wa?uus hiilsasak?al mama?uu, ??aahhuus?athh wa?uuc.
-wa?u:s wa?u:s hil-sasa-?a*k-?a*l DUP-ma-'u* ??a:hhu:s?athh wa?u-i:c
+wa?uus. wa?uus hiilsasak?al mama?uu, ?_aahhuus?athh wa?uuc.
+wa?u:s wa?u:s hil-sasa-?a*k-?a*l DUP-ma-'u* ?_a:hhu:s?athh wa?u-i:c
 Wahous Wahous here-real-POSS-PL DISTR-dwell-camp.out.for Ahousaht ??-belonging.to
 Wahous Wahous their.real.place summer.camp.for.fishing Ahousaht belongs.to.them
 Wahous was the base summer camp from the Ahousahts.
@@ -7067,8 +7067,8 @@ Tofino British.soldiers anchored British.soldiers
 The British Navy anchored at Tofino [which is just across from the Opetchesaht area].
 
 # 112
-wiina ??aahhuus?athh ?uuciy'uk. wiksan'apw'it'as.
-wi:na ??a:hhu:s?athh ?u:-ci*y'uk wik-san'ap-w'it'as
+wiina ?_aahhuus?athh ?uuciy'uk. wiksan'apw'it'as.
+wi:na ?_a:hhu:s?athh ?u:-ci*y'uk wik-san'ap-w'it'as
 invade Ahousaht it-going.to not-MOMCAUS?-about.to
 invade Ahousaht going.to there.going.to.be.nobody.left
 They were going to invade the Ahousaht people. There was going to be nobody left.
@@ -7116,7 +7116,7 @@ fled and fled.in.all.directions
 They got scared and fled in all directions.
 
 # 119
-puuqtl'itl, kamat??aqtl'itl. kamat??aqtl'itl.
+puuqtl'itl, kamat?_aqtl'itl. kamat?_aqtl'itl.
 pu-'a*qtl'i(tl) kamatq-'a*qtl'i(tl) kamatq-'a*qtl'i(tl)
 running.as.a.group-in.the.woods running-in.the.woods running.in.the.woods
 fled.into.the.woods ran.in.the.woods ran.in.the.woods
@@ -7179,15 +7179,15 @@ running.across
 He ran over the hill to the other side of the island.
 
 # 128
-kaamat??iihhshi?at.
+kaamat?_iihhshi?at.
 kamatqw-'i:hh-shi(tl)-'at
 running-pursuing-MOM-SHIFT
 they.are.running.after.him
 They (the British soldiers) ran after him (_qaaḥma_).
 
 # 129
-qaahhma ?uklaamit, yaqitii t'an'ackwi, qaahhma. saa??a?aal.
-qa:hhma ?u-kla*-mit yaq-it-(y)i: t'an'a-ckwi* qa:hhma sa:??a?a:l
+qaahhma ?uklaamit, yaqitii t'an'ackwi, qaahhma. saa?_a?aal.
+qa:hhma ?u-kla*-mit yaq-it-(y)i: t'an'a-ckwi* qa:hhma sa:?_a?a:l
 NAME it-having.as.name-PAST he.who-PAST-INDF.3 child-remains.of NAME NAME
 NAME was.called whoever.he.was it.was.child NAME NAME
 His child's name was _qaaḥma_ [Big Paul] {_qaaḥma_'s child was named after him}, a.k.a. _sa:ʕaʔa:ɬ_ {his family/ancestor's name}.
@@ -7249,7 +7249,7 @@ it.was.far the.place.where at.the.rocky.point
 The rocky point [he was heading for] was far.
 
 # 138
-sayaa hhaal nism'a. c'aa?u??aqtlis.
+sayaa hhaal nism'a. c'aa?u?_aqtlis.
 saya* hha:l nism'a c'a-?uq-'aqtl-?is
 far there land flowing-??-inside-on.the.beach
 far there land slough
@@ -7326,7 +7326,7 @@ not all not all long.winded
 Not all of them were long-winded.
 
 # 150
-kamat??aqtl'itl, qaahhma.
+kamat?_aqtl'itl, qaahhma.
 kamatqw-'a*qtl'i(tl) qa:hhma
 running-in.the.woods NAME
 ran.in.the.woods NAME
@@ -7382,8 +7382,8 @@ near.across NAME ~ near.across
 "It is close across to Whitepine Cove."
 
 # 158
-yacaaqtu, ?u??i?atwa?ish, yaqitii quu?as, yuxsitk ?uucitwa?ish, nana?iqsu.
-yac-a*qtu* ?u-??i(tl)-'at-wa*?i*sh yaq-it-(y)i: qu:?as yuxsitk ?u-i:c-it-wa*?i*sh DUP-na?i*qsu
+yacaaqtu, ?u?_i?atwa?ish, yaqitii quu?as, yuxsitk ?uucitwa?ish, nana?iqsu.
+yac-a*qtu* ?u-?_i(tl)-'at-wa*?i*sh yaq-it-(y)i: qu:?as yuxsitk ?u-i:c-it-wa*?i*sh DUP-na?i*qsu
 step-go.across it-come.upon-SHIFT-QUOT.3 who-PAST-INDF.3 Indian NAME it-belonging.to-PAST-QUOT.3 DISTR-uncle
 walk.over they.were.caught.doing whoever.he.was Indian NAME it.was.his uncles
 The British people walked over and got there when the native people — probably uncles of _yuxsitk_ (Big Jackson) — were there [= British people caught native people being there].
@@ -7396,8 +7396,8 @@ his.ancestors NAME he.was.married.to.her NAME who.was.mine grandmother NAME
 _yuxsitk_'s ancestor was married to my grandmother _kʷaatya_.
 
 # 160
-hha?uk??i?at, machintl tla?uukwi?athh?i.
-hha?uk-??i(tl)-'at mach-intl tla?u:kwi?athh-?i*
+hha?uk?_i?at, machintl tla?uukwi?athh?i.
+hha?uk-?_i(tl)-'at mach-intl tla?u:kwi?athh-?i*
 eat-come.upon-SHIFT enter-MOM Clayoquot-DEF
 they.caught.them.eating enter.house the.Clayoquot.man
 The Clayoquot man came into the house when they were eating.
@@ -7410,8 +7410,8 @@ broke.into.pieces box whatever.they.own whatever.theirs.in.the.box chest.box
 They broke into pieces all the boxes and whatever [valuable things] they kept in their chests.
 
 # 162
-wukwitl tla?uukwi?athh?i, ??akwaasht ?aaniitl.
-sukwi(tl) tla?u:kwi?athh-?i* ??a:kw-a*sht ?ana-i*tl
+wukwitl tla?uukwi?athh?i, ?_akwaasht ?aaniitl.
+sukwi(tl) tla?u:kwi?athh-?i* ?_a:kw-a*sht ?ana-i*tl
 take Clayoquot-DEF dog.salmon-dried.food only-take
 take the.Clayoquot.man dried.salmon took.only
 The Clayoquot man only took dried salmon.
@@ -7487,14 +7487,14 @@ they.hid.dispersedly they.hid
 The native people hid all over the place.
 
 # 174
-?ucachitl, ??ii??iilmakw'as ?uklaa?ish.
-?u-ca-chi(tl) ??i:??i:lmakw'as ?u-kla*-?i*sh
+?ucachitl, ?_ii?_iilmakw'as ?uklaa?ish.
+?u-ca-chi(tl) ?_i:?_i:lmakw'as ?u-kla*-?i*sh
 it-go.to-MOM NAME it-having.as.name-IND.3
 went.to NAME called
 He went there — it's called _ʕiiʕiiɬmak̓ʷas_.
 
 # 175
-c'aa?u??aqtlis?ish ?ahh.
+c'aa?u?_aqtlis?ish ?ahh.
 c'a-?uq-'aqtl-?is-?i*sh ?ahh
 flowing-??-inside-on.the.beach-IND.3 this
 the.tide.goes.in this
@@ -7585,8 +7585,8 @@ none.survived house none.survived
 There were none left. None.
 
 # 189
-kamat??aqtl'asit?al, ?ucachi?atl maaqtusiis, ??aahhuus?athh yaaqwil?itq waa?at, qucachitl.
-kamatqw-'a*qtl'as-it-?a*l ?u-ca-chi(tl)-'atl ma:qtusi:s ??a:hhu:s?athh yaqw-(ch)il-?i*tq wa*-'at ?u-ca-chi(tl)
+kamat?_aqtl'asit?al, ?ucachi?atl maaqtusiis, ?_aahhuus?athh yaaqwil?itq waa?at, qucachitl.
+kamatqw-'a*qtl'as-it-?a*l ?u-ca-chi(tl)-'atl ma:qtusi:s ?_a:hhu:s?athh yaqw-(ch)il-?i*tq wa*-'at ?u-ca-chi(tl)
 running-in.the.woods-PAST-PL it-go.to-MOM-FIN Maaqtusiis Ahousaht which-with.ref.to-REL.3 say-SHIFT it-go.to-MOM
 they.ran.into.the.woods went.to Maaqtusiis Ahousaht with.ref.to.which it.is.called went.to
 They (villagers) ran into the woods headed for Maaqtusiis, the place they call Ahousat.
@@ -7634,8 +7634,8 @@ and they.captured NAME small.boy NAME
 And they captured _miimixt_. _miimixt_ was a small boy.
 
 # 196
-waa tla?uu, chuuwin waa?at. chuuwin, qu?aciicuk y'uuqwaa ??imtii chuuwin.
-wa* tla?u: chu:win wa*-'at chu:win qu?ac-i:c-uk y'u:qwa: ??imti* chu:win
+waa tla?uu, chuuwin waa?at. chuuwin, qu?aciicuk y'uuqwaa ?_imtii chuuwin.
+wa* tla?u: chu:win wa*-'at chu:win qu?ac-i:c-uk y'u:qwa: ?_imti* chu:win
 and another NAME call-SHIFT NAME Indian-belonging.to-POSS also name NAME
 and another NAME it.is.called NAME Indian.name also name NAME
 And [they] also [captured] another one called _čuuwin_ — he also had an Indian name, _čuuwin_.
@@ -7669,8 +7669,8 @@ Clayoquot got.on.board.again
 The Clayoquot man came on board again.
 
 # 201
-hhampi yaq?iitq, ??aahhuus?athh. hhamip.
-hhamip yaq-?i*tq ??a:hhu:s?athh hhamip
+hhampi yaq?iitq, ?_aahhuus?athh. hhamip.
+hhamip yaq-?i*tq ?_a:hhu:s?athh hhamip
 recognizing who-REL.3 Ahousaht recognizing
 recognized one.who Ahousaht recognized
 He recognized the Ahousaht boy.
@@ -7767,8 +7767,8 @@ I.was.strong mind used.to.say the.old.person they.used.to.give serve.a.drink tob
 "I was brave. They made me drink tabacco [and I was brave enough to actually drink it]," the old man used to say.
 
 # 215
-tea ?u?iic'ap'atch'a??ash qwaa. tea?iic.
-tea ?u-'i*c-'ap-'at-ch'a*??ash qwa: tea-'i*c
+tea ?u?iic'ap'atch'a?_ash qwaa. tea?iic.
+tea ?u-'i*c-'ap-'at-ch'a*?_ash qwa: tea-'i*c
 tea it-consume-CAUS-SHIFT-INFER.3 thus tea-consume
 tea he.was.probably.served thus drink.tea
 It was probably tea that he was served. He had tea.
@@ -7872,7 +7872,7 @@ something.extraordinary.happened.again
 They were also really excited [about the flag].
 
 # 230
-hhaw'ilukwit, ya??atlitii Benson kapchaa, ?unaak ?uyii?atl'attla, [Union Jack].
+hhaw'ilukwit, ya?_atlitii Benson kapchaa, ?unaak ?uyii?atl'attla, [Union Jack].
 hhaw'il-uk-it yaq-'atl-it-(y)i: ~ kapcha: ?u-na*k ?u-(y)i*-'atl-'at-tla* ~
 chief-POSS-PAST who-FIN-PAST-INDF.3 ~ NAME it-having it-give-FIN-SHIFT-also ~
 former.chief.of who.was ~ NAME having he.was.also.given ~
@@ -7963,8 +7963,8 @@ that what.happened there.was.maybe.one woman one.who.was.a.woman she.was.split.i
 This actually happened. It was probably a woman — a female body was split right in half.
 
 # 243
-n'usxhis nii??ahhs.
-n'usxh-is hi:??ahhs
+n'usxhis nii?_ahhs.
+n'usxh-is hi:?_ahhs
 get.scattered-?? innards
 get.scattered innards
 Her innards were scattered all over on the side.
@@ -8074,8 +8074,8 @@ there.used.to.be.many girls go.different.places
 Many women used to go to different places (when they got married).
 
 # 003
-histaqshitl tla?uukwi?athh ?ucachitl qaay'uukw'athh. histaqshitl ??aahhuus?athh hinatshitl ?ahh c'ishaa?athh.
-his-taq-shitl tla?u:kwi?athh ?u-ca-chitl qa:y'u:kw'athh his-taq-shitl ??a:hhu:s?athh hin-at-shitl ?ahh c'isha:?athh
+histaqshitl tla?uukwi?athh ?ucachitl qaay'uukw'athh. histaqshitl ?_aahhuus?athh hinatshitl ?ahh c'ishaa?athh.
+his-taq-shitl tla?u:kwi?athh ?u-ca-chitl qa:y'u:kw'athh his-taq-shitl ?_a:hhu:s?athh hin-at-shitl ?ahh c'isha:?athh
 there-come.from-MOM Clayoquot it-go.to-MOM Kyuquot there-come.from-MOM Ahousaht there-come-MOM here NAME
 came.from Clayoquot to Kyuquot came.from Ahousaht come.here here NAME
 They came from Clayoquot to Kyuquot, or from Ahousaht to Tseshaht.
@@ -8151,7 +8151,7 @@ they.say.it.wrong
 They say it wrong now [they cannot pronounce words correctly].
 
 # 014
-?uy'iihha?al ?an wik'atl'at?al hhaay'a??aal?at hiniiy'ul qwayaatukqin niiw'a.
+?uy'iihha?al ?an wik'atl'at?al hhaay'a?_aal?at hiniiy'ul qwayaatukqin niiw'a.
 ?u-y'i*hha-?a*l ?an wik-'atl-'at-?a*l hha:y'aq-'a:l-'at hini:y'ul qwa-(y)a*tuk-qin ni:w'a
 it-because.of-PL because not-FINITE-POSS-PL used.to?-??-POSS throat thus-making.sound.of-REL.1PL we
 because.of.it because theirs.are.no.longer used.to.it throat the.way.ours.sounds we
@@ -8185,35 +8185,35 @@ long.ago at.that.time I.will.tell.about how.they.would marry.each.other
 I will talk about how people got married long ago.
 
 # 002
-hiist'i?atlquuch hhuu nay'aqak'atlquu, ?uhh ?a?iich'um?i ??a??aas\hhi yaqc\hhintl'aqtluk?itq hhaakwaatl.
-hist-'i(tl)-'atl-qu:-ch hhu: nay'aqak-'atl-qu: ?uhh DUP-?i:ch'um-?i* ??a??a*s\hhi yaqw-c\hhintl-?aqtl-uk-?i*tq hha:kwa:tl
+hiist'i?atlquuch hhuu nay'aqak'atlquu, ?uhh ?a?iich'um?i ?_a?_aas\hhi yaqc\hhintl'aqtluk?itq hhaakwaatl.
+hist-'i(tl)-'atl-qu:-ch hhu: nay'aqak-'atl-qu: ?uhh DUP-?i:ch'um-?i* ?_a?_a*s\hhi yaqw-c\hhintl-?aqtl-uk-?i*tq hha:kwa:tl
 there-take-FINITE-COND-INF.3 yonder baby-FINITE-COND being.they DISTR-parent-DEF make.plan he.who-marry.to-FUT-POSS-REL.3 daughter
 they.would.take.from yonder when.they.were.babies being.they the.parents making.plans one.whom.theirs.will.marry daughter
 It used to be the case that parents arranged for marriage long before [the actual marriage], when their daughter is a baby.
 
 # 003
-ci??as nay'aqakshtip ?iiqhhii.
+ci?_as nay'aqakshtip ?iiqhhii.
 ciq-'as nay'aqak-shti*p ?iq-hhi*
 speak-go.in.order.to baby-do.while still
 propose while.she.is.a.baby still
 They would propose while [their daughter] was still a baby.
 
 # 004
-chuu, tl'aqachitl hhaakwaatl'i luucmiichitl, ??ic'aatshitl.
-chu: tl'aq-achitl hha:kwa*tl-?i* lu:cma-`i*chitl ??ic'a:t-shitl
+chuu, tl'aqachitl hhaakwaatl'i luucmiichitl, ?_ic'aatshitl.
+chu: tl'aq-achitl hha:kwa*tl-?i* lu:cma-`i*chitl ?_ic'a:t-shitl
 now.then grow-INC? girl-DEF woman-INC menstruate.for.the.first.time-MOM
 now.then grow.up the.girl become.woman menstruate.for.the.first.time
 Then, the girl grew up and became a woman, menstruating for the first time.
 
 # 005
-?uyaatl ?ahh?aa ??iict'uulatl'atquu hin?alshi?atl'al ?an luucmiichitl maatmaas. hin?alshitl ?an luucmiichitl.
-?uyi-'atl ?ahh?a: ??ic-t'u:la-'atl-'at-qu: hin-?al-shitl-?a*l ?an lu:cma-`i*chitl ma:tma:s hin-?al-shitl ?an lu:cma-`i*chitl
+?uyaatl ?ahh?aa ?_iict'uulatl'atquu hin?alshi?atl'al ?an luucmiichitl maatmaas. hin?alshitl ?an luucmiichitl.
+?uyi-'atl ?ahh?a: ?_ic-t'u:la-'atl-'at-qu: hin-?al-shitl-?a*l ?an lu:cma-`i*chitl ma:tma:s hin-?al-shitl ?an lu:cma-`i*chitl
 at.that.time-FINITE then menstruate.for.the.first.time-give.feast.in.honor.of-FINITE-SHIFT-person there-aware.of-MOM-PL that woman-INC villages there-aware.of-MOM that woman-INC
 at.that.time then when.they.would.give.a.feast.for.the.first.menstruation they.recognize that become.woman villages recognize that become.woman
 When they gave a feast celebrating her first menstruation, people of the village recognized that she had become a woman.
 
 # 006
-ci??as?atl chaapxcuw'at?i tlihhsatl hiy'athh?itq hhaakwaatl'i.
+ci?_as?atl chaapxcuw'at?i tlihhsatl hiy'athh?itq hhaakwaatl'i.
 ciq-'as-'atl chapxw-cuw'at-?i* tlihh-`satl hil-'athh-?i*tq hha:kwa*tl-?i*
 speak-go.in.order.to-FINITE man-on.side.of-DEF traveling.in.vessel-on.the.beach there-residing-REL.3 girl-DEF
 ask.for the.mans.side land.on.the.beach where.she.lives the.girl
@@ -8241,8 +8241,8 @@ last.long.time there.on.the.beach chanting tell.about the.way.they.will.be all.r
 They remained there on the beach for a long time chanting, saying how they will take care of the girl properly.
 
 # 010
-chuu, ?am'in?atlquuch, tla?itap'atlquuch, hiilcii??as?ap hiy'athh?itq hhaakwaatl'i.
-chu: ?am'a-in-'atl-qu:-ch tla-'itap-'atl-qu:-ch hi:l-chi:??as-'ap hil-'athh-?i*tq hha:kwa*tl-?i*
+chuu, ?am'in?atlquuch, tla?itap'atlquuch, hiilcii?_as?ap hiy'athh?itq hhaakwaatl'i.
+chu: ?am'a-in-'atl-qu:-ch tla-'itap-'atl-qu:-ch hi:l-chi:?_as-'ap hil-'athh-?i*tq hha:kwa*tl-?i*
 now.then at.first-come-FINITE-COND-INF.3 sticking.up-on.the.ground-FINITE-COND-INF.3 there.in.a.house-at.the.outside.wall-MOMCAUS there-residing-REL.3 girl-DEF
 now.then when.they.first.arrived would.put.a.stick.on.the.ground in.front.of.the.house where.she.lives the.girl
 Now, when they first arrived, they would put up a stick in front of the girl's house.
@@ -8346,8 +8346,8 @@ they.would.stand.up the.mans.side going.to.take the.girl
 The man's side would stand up to go to take the girl.
 
 # 025
-?iihh?iihha ?uushyuuya qwaayac'iiksna??aal, ?unaak'atlquu hhaw'iihh qwayac'iik sukwitl'as hhaakwaatl'i.
-DUP.#-?i:hhw-a ?u:sh-yu:ya qwayac'i:k-sna??a:l ?u-na*kw-'atl-qu: hhaw'i:hh qwayac'i:k sukwi(tl)-'as hha:kwa*tl-?i*
+?iihh?iihha ?uushyuuya qwaayac'iiksna?_aal, ?unaak'atlquu hhaw'iihh qwayac'iik sukwitl'as hhaakwaatl'i.
+DUP.#-?i:hhw-a ?u:sh-yu:ya qwayac'i:k-sna?_a:l ?u-na*kw-'atl-qu: hhaw'i:hh qwayac'i:k sukwi(tl)-'as hha:kwa*tl-?i*
 DISTR-suddenly-REP some-at.the.time wolf-handling.with it-having-FINITE-COND chiefs wolf take-about.to girl-DEF
 making.a.big.deal.out.of.it sometimes handling.with if.he.has.it chiefs wolf going.to.take the.girl
 Sometimes they made a big deal out of it when taking the girl by using wolves if the chiefs had wolves.
@@ -8479,8 +8479,8 @@ very.important.thing
 It was a serious matter.
 
 # 044
-?aniyumttla?aal hu?aca?ap'at hhaakwaatl'i qwiqwiiqsak, wiikma??ukw'atlquu, wic'ikquu kuuchil, wic'ikquu haa?umtaq.
-?ani-iya-umt-tla*-?a:l hu?a-ca-'ap-'at hha:kwa*tl-?i* DUP.CV-qwi:qsu-?a*k wik-ma??uk-'atl-qu: wic'ik-qu: ku:chil wic'ik-qu: ha?um-taq
+?aniyumttla?aal hu?aca?ap'at hhaakwaatl'i qwiqwiiqsak, wiikma?_ukw'atlquu, wic'ikquu kuuchil, wic'ikquu haa?umtaq.
+?ani-iya-umt-tla*-?a:l hu?a-ca-'ap-'at hha:kwa*tl-?i* DUP.CV-qwi:qsu-?a*k wik-ma?_uk-'atl-qu: wic'ik-qu: ku:chil wic'ik-qu: ha?um-taq
 only-at.the.time-PAST?-also-always back-go.to-MOMCAUS-SHIFT girl-DEF DISTR-in.law-POSS not-one.skilled.in-FINITE-COND incapable.of-COND filleting.fish incapable.of-COND food-working.on
 the.only.time.they.would.also bring.her.back the.girl in.laws when.she.cannot.do.anything when.she.cannot filleting.fish when.she.cannot cook.food
 The only time they would send the girl back to her in-laws was when she did not know how to do anything, such as filleting fish and cooking.
@@ -8500,15 +8500,15 @@ here! take.her say to.them the.mother the.father
 They would say to her mother and father, "Here, take her."
 
 # 047
-wiikma??uk?ish waa huuhhtakshiihh?ap?i.
-wik-ma??uk-?i*sh wa* huhhtak-shi:hh-'ap-'i*
+wiikma?_uk?ish waa huuhhtakshiihh?ap?i.
+wik-ma?_uk-?i*sh wa* huhhtak-shi:hh-'ap-'i*
 not-one.skilled.in-IND.3 say know.how-IT.PL-MOMCAUS-IMP
 she.doesnt.know.anything say teach.her
 They would say, "She doesn't know anything. Teach her."
 
 # 048
-walsaap'atlquu, waa hu?acachitl, hiihiishma??ukshi?atlquu
-wal-sa*p-'atl-qu: wa* hu?a-ca-chitl DUP.CV-hish-ma??uk-shitl-'atl-qu:
+walsaap'atlquu, waa hu?acachitl, hiihiishma?_ukshi?atlquu
+wal-sa*p-'atl-qu: wa* hu?a-ca-chitl DUP.CV-hish-ma?_uk-shitl-'atl-qu:
 go.home-MOMCAUS-FINITE-COND say back-go.to-MOM DISTR-all-one.skilled.in-MOM-FINITE-COND
 they.would.send.her.home say bring.her.back when.she.learned.to.do.things
 They would send her home and say, "Bring her back [to us] when she learns to do things."
@@ -8602,7 +8602,7 @@ it.was.warm
 It was warm.
 
 # 008
-tl'up'iichhhiyimtquu, tl'up'iichhhiyimtquu hat'in??aqa luucsaamiihh.
+tl'up'iichhhiyimtquu, tl'up'iichhhiyimtquu hat'in?_aqa luucsaamiihh.
 tl'up-`i*chhh-iya-imt-qu: tl'up-`i*chhh-iya-imt-qu: hat'inq-'aqa lu:csa:mi:hh
 warm-season.of-at.time.of-PAST-COND.3 warm-season.of-at.time.of-PAST-COND.3 bathing-severally.doing women
 it.might.have.been.in.summer it.might.have.been.in.summer severally.bathing women
@@ -8665,8 +8665,8 @@ that in.every.place mink
 Now minks are everywhere [although they weren't numerous before].
 
 # 017
-??ac'ik haptshitl, hitaqtl'utl.
-??ac'ik hapt-shi(tl) hita-'aqtl-u*(tl)
+?_ac'ik haptshitl, hitaqtl'utl.
+?_ac'ik hapt-shi(tl) hita-'aqtl-u*(tl)
 expert.at hide-MOM there.MOM-inside-on.the.rock
 expert.at hide go.behind.the.boulder
 He is very good at hiding behind the boulder [on the coast].
@@ -8952,7 +8952,7 @@ incapable.of confront black.bear because weak
 He cannot confront a bear because he is weak.
 
 # 058
-wim'aaqtl ch'ii??aqa.
+wim'aaqtl ch'ii?_aqa.
 wim'a:qtl ch'i*q-'aqa
 incapable.of hurt-severally-doing
 incapable.of fight
@@ -8987,8 +8987,8 @@ there the.little.one.also
 The little one [Mink] also howled.
 
 # 063
-xuxuuu, qwii??atl.
-~ qwi-??atl
+xuxuuu, qwii?_atl.
+~ qwi-?_atl
 ~ that.which-make.sound
 ~ how.it.sounded
 _xuxuuu_ — this is how it sounded.
@@ -9120,8 +9120,8 @@ not once.in.a.long.while so.many.days fourth.day
 This happened soon after the incident: it was on the fourth day since then.
 
 # 082
-?iqsilatltla, hwooowa, maasuulshitl, muup'it??atl,
-?iq-sila-'atl-tla* ~ ma:su:l-shi(tl) mu:-p'it-??atl
+?iqsilatltla, hwooowa, maasuulshitl, muup'it?_atl,
+?iq-sila-'atl-tla* ~ ma:su:l-shi(tl) mu:-p'it-?_atl
 same-act.like-FIN-again ~ howl-MOM four-times-make.sound
 did.the.same.again ~ howled sounded.four.times
 He [Mink] howled again: _hwo=wa_. He howled four times.
@@ -9225,7 +9225,7 @@ you.killed.him Son.of.Wolf said ~
 "m-mm," he said, "I didn't do it."
 
 # 097
-t'i??as hi?iis hhaal, ?atquu hiilc'apula hhaa qwayaac'ikm'itckwi.
+t'i?_as hi?iis hhaal, ?atquu hiilc'apula hhaa qwayaac'ikm'itckwi.
 t'iqw-'as hi?i:s hha:l ?atqu: hil-c-'apula hha: qwaya:c'ik-m'i*t-ckwi*
 sit.down-on.the.ground there.on.the.ground there although? there-facing-underneath there wolf-son.of-remains.of
 sit.on.the.ground there.on.the.groundthere although? underneath there corpse.of.the.Son.of.Wolf
@@ -9260,7 +9260,7 @@ hid what.do.you.call he.had.it.hidden there his.bow
 He hid, you know, he had his bow hidden.
 
 # 102
-hitaatu??ihhtap sha?ihhtim?i, yaaqhhw'al?itq qahhsaap, qwayaac'ikm'it. haptsaap.
+hitaatu?_ihhtap sha?ihhtim?i, yaaqhhw'al?itq qahhsaap, qwayaac'ikm'it. haptsaap.
 hita-?a*tqu-'ihhta-'ap sha-'ihhta-im-?i* yaqw-hhw'al-?i*tq qahh-sa*p qwaya:c'ik-m'i*t hapt-sa*p
 there.MOM-come.off?-at.the.point-CAUS ??-at.the.point-thing-DEF which-using-REL.3 dead-MOMCAUS wolf-son.of in.hiding-MOMCAUS
 remove.from.the.point arrowhead which.he.used kill Son.of.Wolf hid
@@ -9330,8 +9330,8 @@ you.all.get.out.of.the.way you.all.move.apart said.it
 "You people step aside and let there be space," he said.
 
 # 112
-heey ??iita??iita?ick, waa?atl'at.
-~ DUP#-??ita-?ick wa*-'atl-'at
+heey ?_iita?_iita?ick, waa?atl'at.
+~ DUP#-?_ita-?ick wa*-'atl-'at
 ~ IT-tell.a.lie-IND.2SG say-FIN-SHIFT
 ~ you.are.telling.a.lie they.said.to.him
 "You are telling a lie!" they (wolves) said to him (Mink).
@@ -9351,8 +9351,8 @@ being.a.reason dislike Son.of.Wolf that being.fed.only head
 The reason why he hated Son of Wolf was that the wolf only fed him fish heads.
 
 # 115
-?aniic'ap'atuk?aal ??awatk ?u?iic.
-?ana-'i*c-'ap-'at-uk-?a:l ??awatk ?u-'i*c
+?aniic'ap'atuk?aal ?_awatk ?u?iic.
+?ana-'i*c-'ap-'at-uk-?a:l ?_awatk ?u-'i*c
 only-eat-CAUS-SHIFT-POSS-always snout.of.fish it-eat
 that.is.always.the.only.thing.eaten.of.it snout.of.fish eat.it
 The only thing they fed him was the snout of the fish.
@@ -9530,8 +9530,8 @@ run NAME
 _q̓ʷa:xtii_ ran.
 
 # 141
-?ayaak ??imtii, qw'aaxtii
-?aya-?a*k ??imti: qw'a:xti:
+?ayaak ?_imtii, qw'aaxtii
+?aya-?a*k ?_imti: qw'a:xti:
 many-POSS name NAME
 having.many name NAME
 _q̓ʷa:xtii_ has many names.
@@ -9628,8 +9628,8 @@ ran NAME
 _q̓ʷaaxtii_ ran.
 
 # 155
-?ayaak ??imtii. kwatyaat, ?uklaa qalaatik.
-?aya-?a*k ??imti: kwatya:t ?u-kla* qala:tik
+?ayaak ?_imtii. kwatyaat, ?uklaa qalaatik.
+?aya-?a*k ?_imti: kwatya:t ?u-kla* qala:tik
 many-POSS name NAME it-having.as.name younger.brother
 having.many name NAME being.named younger.brother
 He had many names: his brother was called _kʷatyaat_.
@@ -9649,8 +9649,8 @@ found.it beautiful
 He came upon a beautiful place.
 
 # 158
-suxkwitl ??uy'ic'ak?i, hiist'itl ?ahh p'atqsac'isuk?i.
-sukwi(tl)-<x> ??uy'i-c'u*-?a*k-?i* hist-'itl ?ahh p'atqw-sac-?is-uk-?i*
+suxkwitl ?_uy'ic'ak?i, hiist'itl ?ahh p'atqsac'isuk?i.
+sukwi(tl)-<x> ?_uy'i-c'u*-?a*k-?i* hist-'itl ?ahh p'atqw-sac-?is-uk-?i*
 take-MINK medicine-inside.container-POSS-DEF there-take here goods-receptacle-DIM-POSS-DEF
 take his.medicine.bottle taken.from.there here his.little.bag
 He took the medicine bottle from his little bag.
@@ -9698,8 +9698,8 @@ it.became.land it.became.mountain.range many.obstructions
 [And then] it became land and mountain range and obstructions.
 
 # 165
-na?aa. na?aatl qw'aaxtii, ?uuuu, sayiihhst??atl.
-na?a: na?a:-'atl qw'a:xti: ~ saya-i:hhst-??atl
+na?aa. na?aatl qw'aaxtii, ?uuuu, sayiihhst?_atl.
+na?a: na?a:-'atl qw'a:xti: ~ saya-i:hhst-?_atl
 hear hear-FIN NAME ~ far.off-??-making.sound.of
 hear heard NAME ~ sounded.from.a.distance
 _q̓ʷaaxtii_ heard [howling] _woo=_ at a distance.
@@ -9782,8 +9782,8 @@ not slept
 He didn't get any sleep.
 
 # 177
-heey, huuxs?atu, sukwi?atl ??uy'aak?i tlaqmisuk?i,
-~ hu:xs?atu sukwi(tl)-'atl ??uy'i-?a*k-?i* tlaqmis-uk-?i*
+heey, huuxs?atu, sukwi?atl ?_uy'aak?i tlaqmisuk?i,
+~ hu:xs?atu sukwi(tl)-'atl ?_uy'i-?a*k-?i* tlaqmis-uk-?i*
 ~ resting take-FIN medicine-POSS-DEF oil-POSS-DEF
 ~ resting took his.medicine his.oil
 Now he took a rest and took out his medicine oil.
@@ -9796,8 +9796,8 @@ splash this do.so on.the.side this on.southeast.side ~
 He sprinkled the oil doing like this {with the gesture of sprinkling liquid from a bottle} on this side — east side.
 
 # 179
-?aay n'aacsa ??a?ukshitl ?ahh ?a?iihh.
-~ n'a:csa ??a?uk-shi(tl) ?ahh DUP-'i:hhw
+?aay n'aacsa ?_a?ukshitl ?ahh ?a?iihh.
+~ n'a:csa ?_a?uk-shi(tl) ?ahh DUP-'i:hhw
 ~ see lake-MOM here DISTR-large
 ~ see it.became.lake here large
 Now he saw large lakes appear there.
@@ -9817,8 +9817,8 @@ might.have.come.from here in.a.sound
 He could have started from here — the Puget Sound area.
 
 # 182
-hu?acaqsit, qwaaqchiik'atl ?ahh?aa ??umaa?ap, ??uy'aak?i, tlaqmisuk?i.
-hu?a-ca*qs-it qwa:-qchik-L-'atl ?ahh?a: ??uma:-'ap ??uy'i-?a*k-?i* tlaqmis-uk-?i*
+hu?acaqsit, qwaaqchiik'atl ?ahh?aa ?_umaa?ap, ?_uy'aak?i, tlaqmisuk?i.
+hu?a-ca*qs-it qwa:-qchik-L-'atl ?ahh?a: ?_uma:-'ap ?_uy'i-?a*k-?i* tlaqmis-uk-?i*
 back-on.the.side-PAST thus-going.along-GRAD-FIN this running.water-CAUS medicine-POSS-DEF oil-POSS-DEF
 went.back.to.the.other.side thus.he.was.moving this let.water.run his.medicine.oil his.oil
 He went to the other side of the sound, running this way {with the gesture of stooping over and sprinkling oil by shaking the bottle in his hand} and let his medicine oil run onto the ground.
@@ -9852,8 +9852,8 @@ he.knew Son.of.Mink NAME that got.tired the.wolves
 Son of Mink, _q̓ʷaaxtii_, knew that the wolves were tired.
 
 # 187
-wiinap'itl ??uqshitl,
-wi:nap-'i*tl ??uq-shi(tl)
+wiinap'itl ?_uqshitl,
+wi:nap-'i*tl ?_uq-shi(tl)
 stopping-on.the.ground urinate-MOM
 stopped urinated
 He stopped and urinated.
@@ -10153,8 +10153,8 @@ my.name.is NAME
 "My name is _kapkimyis_."
 
 # 230
-?uu?ii?atl'ish ??imtii qalaatikuk?i.
-?u-'i(tl)-'atl-?i*sh ??imti* qala:tik-uk-?i*
+?uu?ii?atl'ish ?_imtii qalaatikuk?i.
+?u-'i(tl)-'atl-?i*sh ?_imti* qala:tik-uk-?i*
 it-take-FIN-IND.3 name younger.brother-POSS-DEF
 picked.it name his.younger.brother
 He took his younger brother's name.
@@ -10178,8 +10178,8 @@ I.am.not I.am.not I.am.not
 "I am not! I am not! I am not!"
 
 # 234
-??uxyaayiswa?ish ch'aastimchm'it.
-??uya:s-<x>-?is-wa*?i*sh ch'a:stimc-m'i*t
+?_uxyaayiswa?ish ch'aastimchm'it.
+?_uya:s-<x>-`is-wa*?i*sh ch'a:stimc-m'i*t
 move-MINK-on.the.beach-QUOT.3 mink-son.of
 move.on.the.beach Son.of.Mink
 Son of Mink shifted his body a little on the beach.
@@ -10220,8 +10220,8 @@ dying
 He was dying.
 
 # 240
-n'aacsiichitlwa?ish p'a??im?i, hiilapi hhaa
-n'a:csi:-chi(tl)-wa*?i*sh p'a??im-?i* hil-api hha:
+n'aacsiichitlwa?ish p'a?_im?i, hiilapi hhaa
+n'a:csi:-chi(tl)-wa*?i*sh p'a?_im-?i* hil-api hha:
 see-MOM-QUOT.3 limpet-DEF there-up.in.the.air there
 saw the.limpet hanging there
 He saw limpets stuck on the rock surface above him [looked as if they were suspended in the air].
@@ -10269,15 +10269,15 @@ Wooox qwaay'akshitl'is.
 _Wooox_, he took a peek.
 
 # 247
-?aax?anihhtaak, laaxqla??ihhtaa, c'iixc'iyupuuk, p'aaxp'a??im?aay waa?atl.
-DUP:-<x>-?ana-i*hhtak-[L] DUP:-<x>-laqw-'ihhta-[L] DUP:-<x>-c'iyup-uk-[L] DUP:-<x>-p'a??im-?a:y wa*-'atl
+?aax?anihhtaak, laaxqla?_ihhtaa, c'iixc'iyupuuk, p'aaxp'a?_im?aay waa?atl.
+DUP:-<x>-?ana-i*hhtak-[L] DUP:-<x>-laqw-'ihhta-[L] DUP:-<x>-c'iyup-uk-[L] DUP:-<x>-p'a?_im-?a:y wa*-'atl
 SONG-MINK-only-??-VOC SONG-MINK-throw.soft.yielding.mass-at.the.point-VOC SONG-MINK-innards-POSS-VOC SONG-MINK-limpet-VOC say-FIN
 you.only.have put.soft.yielding.thing.at.the.point its.innards limpet said
 "You only have innards of limpets on the pole!" he said.
 
 # 248
-haa haa ?aax?anihhtaak, haa haa c'iic'iiyupuuk, huu huu p'aap'a??im?ay, waa
-~ ~ ?ana-i:hhtak ~ ~ c'iyup-uk ~ ~ p'a??im wa*
+haa haa ?aax?anihhtaak, haa haa c'iic'iiyupuuk, huu huu p'aap'a?_im?ay, waa
+~ ~ ?ana-i:hhtak ~ ~ c'iyup-uk ~ ~ p'a?_im wa*
 ~ ~ only-?? ~ ~ innards-POSS ~ ~ limpet say
 ~ ~ you.only.have ~ ~ its innards ~ ~ limpet say
 He sang, "You only have innards of limpets on the pole!"
@@ -10298,7 +10298,7 @@ dirty said
 "You, dirty scum!" he said.
 
 # 251
-kamat??aqtl'itl ch'aastimcm'it
+kamat?_aqtl'itl ch'aastimcm'it
 kamatq-'a*qtl'i(tl) ch'a:stimc-m'i*t
 running-in.the.woods mink-son.of
 ran.in.the.woods Son.of.Mink
@@ -10312,7 +10312,7 @@ got.hungry early morning
 He got hungry in the early morning.
 
 # 253
-hitin??u?atl yaalwaa?ish ?ahh hask'aamac ?aya.
+hitin?_u?atl yaalwaa?ish ?ahh hask'aamac ?aya.
 hita-inq-'u*(tl)-'atl ya:l-wa*?i*sh ?ahh hask'a:mac ?aya
 there.MOM-down.a.slope-on.the.rocks-FIN there-QUOT.3 this little.crab many
 go.down.on.the.rocks they.say.there this little.crab many
@@ -10578,8 +10578,8 @@ only.time be.gathered sea.urchins when.the.tide.is.low there when.the.tide.is.lo
 The only time you can gather things from low tide, such as various kinds of sea urchins, is when the tide is low.
 
 # 291
-hhachiy'imshtup?i, p'a??im, ?aya, ??iichnuu ?uhhuk ha?um.
-hhachy'im-shtu*p-?i* p'a??im ?aya ??i:chnu: ?uhh-uk ha?um
+hhachiy'imshtup?i, p'a?_im, ?aya, ?_iichnuu ?uhhuk ha?um.
+hhachy'im-shtu*p-?i* p'a?_im ?aya ?_i:chnu: ?uhh-uk ha?um
 ??-species-DEF limpet many bullhead being.he-POSS food
 foods.from.low.tides limpet many bullhead his food
 Food from low tide, such as limpet, various kinds of bullhead, was his food.
@@ -10606,8 +10606,8 @@ eat eat
 He ate and ate [sea urchins unde the water].
 
 # 295
-wichsila??aash.
-wich-sila-??a:sh
+wichsila?_aash.
+wich-sila-?_a:sh
 inappropriate?-act.like-EVID.3?
 do.the.wrong
 Apparently (?) he did the wrong thing.
@@ -10676,8 +10676,8 @@ I.divorce to.you said
 "I divorce you!" she said.
 
 # 305
-c'iishhhii?ick. ??a??aqtl'aktlee waa?anitquu.
-c'ish-hhi*-?ick ??a-??aqtl-'aktli-VOC wa*-'at-it-qu:
+c'iishhhii?ick. ?_a?_aqtl'aktlee waa?anitquu.
+c'ish-hhi*-?ick ?_a-?_aqtl-'aktli-VOC wa*-'at-it-qu:
 filth-DUR-IND.2SG DUP-??-at.the.rear-VOC say-SHIFT-PAST-COND.3
 you.obnoxious.one stupid might.have.been.said.to.him
 "You are dirt! You are stupid!" she might have said to him.
@@ -10717,8 +10717,8 @@ abbreviation: NameTaboo
 ID:           CL15
 ---
 # 001
-chuu qwis\hhitii?aal ch'ich'iihhliichitl ??imtii ?uuqhhli?atls.
-chu: qwis\hh-it-(y)i:-?a:l DUPCV-ch'ihh-hhli-`i*chitl ??imti* ?u-qhhli-'atl-s
+chuu qwis\hhitii?aal ch'ich'iihhliichitl ?_imtii ?uuqhhli?atls.
+chu: qwis\hh-it-(y)i:-?a:l DUPCV-ch'ihh-hhli-`i*chitl ?_imti* ?u-qhhli-'atl-s
 now.then how-PAST-INDF.3-always ??-supernatural-doing.excessively?-INC NAME it-tell.about-FINITE-1SG
 now.then how.it.used.to become.tabooed name I.will.tell.about
 Now, I will talk about how names used to get tabooed.
@@ -10752,8 +10752,8 @@ they.would.take.along corpse make.her.go.to where it.is.going.to.be.buried
 They would take the deceased to where s/he was going to be buried.
 
 # 006
-c'uy'ii?atlquu hu?acachi?atlquu, quu?as ?uhh yaqit?itq ?uuksna??aal piicksy'i yaqit?itq m'uch'ichup, yaqit?itq m'u?akway'ap m'uch'ichtup ch'ichmaqshitl.
-c'us-'i*(tl)-'atl-qu: hu?a-ca-chitl-'atl-qu: qu:?as ?uhh yaqw-it-?i*tq ?u-ksna??a:l pi:cksy'i yaqw-it-?i*tq m'uch'ich-u*p yaqw-it-?i*tq m'u-?akwa-y'a*p m'uch'ich-tu*p ch'ichmaq-shitl
+c'uy'ii?atlquu hu?acachi?atlquu, quu?as ?uhh yaqit?itq ?uuksna?_aal piicksy'i yaqit?itq m'uch'ichup, yaqit?itq m'u?akway'ap m'uch'ichtup ch'ichmaqshitl.
+c'us-'i*(tl)-'atl-qu: hu?a-ca-chitl-'atl-qu: qu:?as ?uhh yaqw-it-?i*tq ?u-ksna?_a:l pi:cksy'i yaqw-it-?i*tq m'uch'ich-u*p yaqw-it-?i*tq m'u-?akwa-y'a*p m'uch'ich-tu*p ch'ichmaq-shitl
 dig-on.the.ground-FINITE-COND back-go.to-MOM-FINITE-COND person being.they he.who-PAST-REL.3 it-handling corpse he.who-PAST-REL.3 clothed-MOMCAUS he.who-PAST-REL.3 burning-apart-MOMCAUS clothed-thing burn.the.belongings-MOM
 when.they.buried they.would.return person being.they who.did take.care.of.it corpse who.did clothe whodid burned clothes burn.the.belongings.of.the.deceased
 When they buried the deceased, people would return — the one who looked after the body, the one who clothed the deceased, and the one burned the clothing and other belongings.
@@ -10794,8 +10794,8 @@ they.would.pay to.everyone
 They would pay everyone.
 
 # 012
-?uyaatl ?ahh?aa ?iiqhhuk, chuu, ch'ich'iihhliichitl'aqtl'ish ?ahh ??imtii?i. wik?aqtlnish ?uuhhw'al ?ahh nuuknuukukqin.
-?uyi-'atl ?ahh?a: ?i:qhh-uk chu: DUPCV-ch'ihh-hhli*-chitl-?aqtl-?i*sh ?ahh ??imti*-?i* wik-?aqtl-ni*sh ?u-hhw'al ?ahh nu:k-uk-qin
+?uyaatl ?ahh?aa ?iiqhhuk, chuu, ch'ich'iihhliichitl'aqtl'ish ?ahh ?_imtii?i. wik?aqtlnish ?uuhhw'al ?ahh nuuknuukukqin.
+?uyi-'atl ?ahh?a: ?i:qhh-uk chu: DUPCV-ch'ihh-hhli*-chitl-?aqtl-?i*sh ?ahh ?_imti*-?i* wik-?aqtl-ni*sh ?u-hhw'al ?ahh nu:k-uk-qin
 at.that.time-FINITE that telling-DUR now.then ??-supernatural-doing.excessively?-MOM-FUT-IND.3 this name-DEF not-FUT-IND.1PL it-using this song-POSS-REL.1PL
 at.that.time that tell now.then it.will.be.tabooed this the.name we.will.not using.it this our.songs
 This is when they say, "OK, this name would be tabooed. And we would not use our (family's) song."
@@ -10808,15 +10808,15 @@ one.year two.years three.years four.years however.long.it.would.be theirs.would.
 It could be one year, two years, three years, or four years. For however long they decided they would hide them away.
 
 # 014
-wik'atl'at kuw'ila ?uhhw'al?at ??imtii?akit?i qwiquusii tlawaaqchik, miilhhiit'ana ??imtii. wikiichi?at kuw'ila ?uuhhw'al?at.
-wik-'atl-'at kuw'ila ?u-hhw'al-'at ??imti*-?a*k-it-?i* qwiq-u:si: tlawa-qchik mil-hhi*-t'a*n'a ??imti* wik-`i*chitl-'at kuw'ila ?u-hhw'al-'at
+wik'atl'at kuw'ila ?uhhw'al?at ?_imtii?akit?i qwiquusii tlawaaqchik, miilhhiit'ana ?_imtii. wikiichi?at kuw'ila ?uuhhw'al?at.
+wik-'atl-'at kuw'ila ?u-hhw'al-'at ?_imti*-?a*k-it-?i* qwiq-u:si: tlawa-qchik mil-hhi*-t'a*n'a ?_imti* wik-`i*chitl-'at kuw'ila ?u-hhw'al-'at
 not-FINITE-SHIFT doing.as.directed it-using-SHIFT name-POSS-PAST-DEF that.which-REL.DUB.3 near-going.along alike-DUR-slightly name not-INC-SHIFT doing.as.directed it-using-SHIFT
 not doing.as.directed using.it his.name whatever close.to similar name would.not doing.as.directed it.is.used
 And as instructed they would not use the name of the deceased or whatever words that were close or similar to that name.
 
 # 015
-waa, ?atlq?ichhhshi?atlquu, muuq?ichhh ?unicukuusii ?uushc'al, tl'iic'uu?atlquu, hu?aas y'aksaap nuuknuukuk?i, hu?aas ?uuhhw'al ??imtii.
-wa* ?atl-q?ichhh-shitl-'atl-qu: mu:-q?ichhh ?unic-uk-u:si: ?u:shc'al tl'i:c'u:-'atl-qu: hu?a-a:s y'ak-sa*p DUPCV-nu:k-uk-?i* hu?a-a:s ?u-hhw'al ??imti*
+waa, ?atlq?ichhhshi?atlquu, muuq?ichhh ?unicukuusii ?uushc'al, tl'iic'uu?atlquu, hu?aas y'aksaap nuuknuukuk?i, hu?aas ?uuhhw'al ?_imtii.
+wa* ?atl-q?ichhh-shitl-'atl-qu: mu:-q?ichhh ?unic-uk-u:si: ?u:shc'al tl'i:c'u:-'atl-qu: hu?a-a:s y'ak-sa*p DUPCV-nu:k-uk-?i* hu?a-a:s ?u-hhw'al ?_imti*
 and two-year-MOM-FINITE-COND four-year time.spent-POSS-REL.DUB.3 forbidden feast-FINITE-COND back-?? ine.view-MOMCAUS DISTR-song-POSS-DEF back-?? it-using NAME
 and when.two.years.passed four.years whatever.length.it.would.be forbidden they.would.give.a.feast again bring.out their.songs again using.it name
 And after two, four, or however many years of the forbidden period, they would give a feast and bring back their songs and start using the name again.
@@ -10910,15 +10910,15 @@ would.never.be.invited Qawiqaalth although proper person Qawiqaalth
 They would never invite Qawiqaalth to feasts, although he was a proper person.
 
 # 012
-histaqshitl hhuu hilin??atu.
-his-taq-shi(tl) hhu: hil-in??atu
+histaqshitl hhuu hilin?_atu.
+his-taq-shi(tl) hhu: hil-in?_atu
 there-come.from-MOM over.there there-towards.west
 came.from over.there way.far.west
 Qawiqaalth is from the far west.
 
 # 013
-hilin??atu waana?aal hhuu ?uuc'iqwa?i, hachliitlspa.
-hil-in??atu wa:-na-?a:l hhu: ?u:c'uqwa?i hachli:tl-spa
+hilin?_atu waana?aal hhuu ?uuc'iqwa?i, hachliitlspa.
+hil-in?_atu wa:-na-?a:l hhu: ?u:c'uqwa?i hachli:tl-spa
 there-towards.west say-1PL-always over.there ?? west-vicinity.of
 way.far.west we.would.call over.there a.little.further westerly.position
 "_hiɬinʕatu_" is what we say to refer to a distant location in the west.
@@ -10959,7 +10959,7 @@ would.do.it.alone.with eat his.mother
 He (Qawiqaalth) used to eat alone with his mother.
 
 # 019
-?iihh?at kwiishhii, y'uuqwatla tla?ukta??as?i.
+?iihh?at kwiishhii, y'uuqwatla tla?ukta?_as?i.
 ?i:hh-'at kwis-hhi* y'u:qwa:-tla* tla?u-(k)taq-'as-?i*
 very-SHIFT different-DUR also-again another-family.groups-in.the.village-DEF
 very strange also nextdoor.neighbors
@@ -11190,8 +11190,8 @@ couple
 It was a couple.
 
 # 052
-?aa, ?anaqsish ?ahh waa?atl. qwiqukwitii ??iichnuu.
-~ ?ana-qs-si*sh ?ahh wa:-'atl qwiq-ukw-it-(y)i: ??i:chnu:
+?aa, ?anaqsish ?ahh waa?atl. qwiqukwitii ?_iichnuu.
+~ ?ana-qs-si*sh ?ahh wa:-'atl qwiq-ukw-it-(y)i: ?_i:chnu:
 ~ only-in.a.vessel-IND.1SG he say-FIN that.which-POSS-PAST-INDF.3 bullhead
 ~ only.thing.I.have.in.a.canoe he said whatever.ours bullhead
 "Well, the only thing I've got is bullheads [which are from shallow water along the coast]," he (one of the sea lions) said.
@@ -11407,8 +11407,8 @@ however.long.they.stayed returned
 They stayed there for some time [no one knows for sure how long it might have been], and they returned.
 
 # 083
-chuu, ?ucachitl'aqtlnish hhuu. hilin??atu waa?atl.
-chu: ?u-ca-chi(tl)-'aqtl-nish hhu: hil-in??atu wa:-'atl
+chuu, ?ucachitl'aqtlnish hhuu. hilin?_atu waa?atl.
+chu: ?u-ca-chi(tl)-'aqtl-nish hhu: hil-in?_atu wa:-'atl
 now it-go.to-MOM-FUT-IND.1PL over.there there-towards.west say-FIN
 now we.will.go.there over.there west said
 "Now, we shall head yonder [toward] the west," they said.
@@ -11561,7 +11561,7 @@ used.to.tag.along killer.whale
 He used to tag along with killer whales.
 
 # 105
-ch'ii??aqatlquuch?al,
+ch'ii?_aqatlquuch?al,
 ch'i:q-'aqa-'atl-qu:-ch-?a*l
 attack-severally.doing-FIN-COND.3-INF-PL
 they.would.fight
@@ -11736,8 +11736,8 @@ also.have.many.in.a.canoe ling.cod
 They also got many cod.
 
 # 130
-??ac'iktla tutushk'iihh qawiqaal.
-??ac'ik-tla* DUP-tushk-'i:hh qawiqa:l
+?_ac'iktla tutushk'iihh qawiqaal.
+?_ac'ik-tla* DUP-tushk-'i:hh qawiqa:l
 expert.at-again ??-cod-hunting Qawiqaalth
 also.expert.at fishing.for.cod Qawiqaalth
 Qawiqaalth was also good at fishing for cod.
@@ -11820,8 +11820,8 @@ speared Qawiqaalth sea.lion to.it the.biggest.one speared
 Qawiqaalth threw a spear at the sea lions, aiming at the biggest one.
 
 # 142
-sukwitl. hhaa ??ahhmis?i, qaahhiita?i.
-su-kwi(tl) ~ ??ahhmis-?i* qa:hhi:ta-?i*
+sukwitl. hhaa ?_ahhmis?i, qaahhiita?i.
+su-kwi(tl) ~ ?_ahhmis-?i* qa:hhi:ta-?i*
 holding-MOM ~ mammal-DEF spearhead-DEF
 grabbed ~ the.mammal the.spearhead
 [But] the mammal grabbed the spearhead (shaft?).
@@ -11978,8 +11978,8 @@ hair.seal hunting.for.it
 [Qawiqaalth] was hunting harbor seals.
 
 # 165
-?ucachi?atl ??a??itlquu, ?am'aqtl'ihhta?i.
-?u-ca-chi(tl) ??a??itl-qu: ?am-'aqtl-'ihhta-?i*
+?ucachi?atl ?_a?_itlquu, ?am'aqtl'ihhta?i.
+?u-ca-chi(tl) ?_a?_itl-qu: ?am-'aqtl-'ihhta-?i*
 it-go.to-MOM-FIN cave-COND.3 LOC-inside-at.the.point-DEF
 went.there cave inside.of.the.tip.of.the.point
 [Qawiqaalth] went to the cave at the tip of the point.
@@ -12174,8 +12174,8 @@ that what.happened.to.him Qawiqaalth
 This is what happened to Qawiqaalth.
 
 # 192
-histaqshitlckwi, chiiqtlis?athh, qawiqaal, ??imtii?ak, ??imtii?ak, qawiqaalmitquu.
-his-taq-shi(tl)-ckwi* chi:qtlis-'athh qawiqa:l ??imti:-?a*k ??imti:-?a*k qawiqa:l-mit-qu:
+histaqshitlckwi, chiiqtlis?athh, qawiqaal, ?_imtii?ak, ?_imtii?ak, qawiqaalmitquu.
+his-taq-shi(tl)-ckwi* chi:qtlis-'athh qawiqa:l ?_imti:-?a*k ?_imti:-?a*k qawiqa:l-mit-qu:
 there-come.from-MOM-happened NAME-people.from Qawiqaalth name-POSS name-POSS Qawiqaalth-PAST-COND.3
 have.come.from.there Checleset Qawiqaalth his.name his.name one.who.was.named.Qawiqaalth
 He came from Checleset. Qawiqaalth, that's his name, the one who was named Qawiqaalth.
@@ -12250,8 +12250,8 @@ go.and look.for.salmon said his.little.wife go.out Son.of.Bear
 "Go and gt some salmon," Bear's little wife told him [her husband]. And Bear went out.
 
 # 009
-?ucachitl c'a?ak?i. suuhhiip, ??achshitl suuhhaa. machintl.
-?u-ca-chitl c'a?ak-?i* su:hhw-i:p ??ach-shitl su:hha: mach-intl
+?ucachitl c'a?ak?i. suuhhiip, ?_achshitl suuhhaa. machintl.
+?u-ca-chitl c'a?ak-?i* su:hhw-i:p ?_ach-shitl su:hha: mach-intl
 it-go.to-MOM river-DEF salmon-obtain hold.in.hands-MOM salmon enter-MOM
 went.to the.river get.salmon holding.in.hands salmon enter.house
 He went to the river. He grabbed salmon and went back in the house.
@@ -12271,8 +12271,8 @@ watched Son.of.Raven the.way.they.do Son.of.Bear examining
 Raven was watching what Bear was doing. He was watching carefully.
 
 # 012
-k'iicnuuxwil kaa?a, kaa?a ??am'iit waa?atl.
-k'ic-nu*xwil ka:?a ka:?a ??am'i:t wa*-'atl
+k'iicnuuxwil kaa?a, kaa?a ?_am'iit waa?atl.
+k'ic-nu*xwil ka:?a ka:?a ?_am'i:t wa*-'atl
 close.the.eye-?? hand.me hand.me clam.shell say-FINITE
 partly.closing.the.eyes hand.me hand.me clam.shell said
 He (Bear) closed his eyes partially and said [to his wife], "Get me a clam shell."
@@ -12285,8 +12285,8 @@ hear what.was.said.to.her went.to.fetch
 [Bear's wife] followed what he (Bear) told her to do and went out to get it.
 
 # 014
-sukwitl ??am'iit.
-sukwi(tl) ??am'i:t
+sukwitl ?_am'iit.
+sukwi(tl) ?_am'i:t
 fetch clam.shell
 fetch clam.shell
 She came back with a clam shell.
@@ -12313,8 +12313,8 @@ put.out.the.hands.over toward hand there the.fire
 He (Bear) put out his hands towards the fire.
 
 # 018
-ch'aam'iitlil?atl hhaa ??am'iit?i.
-ch'am-'i*tlil-'atl hha: ??am'i:t-?i*
+ch'aam'iitlil?atl hhaa ?_am'iit?i.
+ch'am-'i*tlil-'atl hha: ?_am'i:t-?i*
 rounded.vessel-underneath-FINITE there clam.shell-DEF
 set.down there the.clam.shell
 He set down the clam shell there [to collect oil by melting the fat on his hands].
@@ -12327,15 +12327,15 @@ watched what.he.did
 He (Raven) watched what he did.
 
 # 020
-??ii??iiqatshitl tlaqmis histaqshitl kukwinksat chums.
-??iqat-shitl tlaqmis his-taq-shitl kukwinksi-'at chums
+?_ii?_iiqatshitl tlaqmis histaqshitl kukwinksat chums.
+?_iqat-shitl tlaqmis his-taq-shitl kukwinksi-'at chums
 drip-GRAD oil there-come.from-MOM hand-POSS bear
 got.started.to.drip oil came.from his.hands bear
 Oil started dripping from Bear's hands.
 
 # 021
-k'uushitl'is ?ahh k'amintl ??am'iitm'inhh?i.
-k'u:-shitl-?is ?ahh k'ama-in(tl) ??am'i:t-m'inhh-?i*
+k'uushitl'is ?ahh k'amintl ?_am'iitm'inhh?i.
+k'u:-shitl-?is ?ahh k'ama-in(tl) ?_am'i:t-m'inhh-?i*
 short.time-MOM-DIM here-full-MOM clam.shell-PL-DEF
 after.a.short.while here got.full the.clam.shells
 After a little while the shells got full [with oil].
@@ -12397,7 +12397,7 @@ INTJ go.along Son.of.Bear
 "Oh, I will accept the invitation," said Bear.
 
 # 030
-hishukwatl'at huhhtak'at qwaa?iitq qu?ushinm'it, ?ayisa??aqtl, c'iic'ikiik qwaan'ak'uuhh?itq.
+hishukwatl'at huhhtak'at qwaa?iitq qu?ushinm'it, ?ayisa?_aqtl, c'iic'ikiik qwaan'ak'uuhh?itq.
 hishuk-'atl-'at huhhtak-'at qwa:-?i*tq qu?ushin-m'i*t ?ayisaq-'aqtl DUPCV:0c'i:k-i:k qwa:-in'ak'u:hh-?i*tq
 all-FINITE-SHIFT know.how-SHIFT thus-REL.3 raven-son.of decieve-inside ??-imitate-one.who.always.does how-see-REL.3
 all.did know.it how.it.is Son.of.Raven cunning imitator whatever.he.saw
@@ -12453,7 +12453,7 @@ now.then go.find.it what.he.can.eat
 "OK, go find something to eat," [Raven said to his wife].
 
 # 038
-wiiy'umt ha?umnak'ap luucmaak. wiwish??aqtl.
+wiiy'umt ha?umnak'ap luucmaak. wiwish?_aqtl.
 wi:y'a-umt ha?um-na*k-'ap lu:cma-?a*k DUP-wishq-'aqtl
 never-PAST? food-having-MOMCAUS wife-POSS DISTR-lazy-inside
 it.was.never had.food.for his.wife lazy
@@ -12467,8 +12467,8 @@ took roasted dried.salmon
 He took [from someone else] and toasted dried salmon.
 
 # 040
-kaa?a ??am'iit waa?atl.
-ka:?a ??am'i:t wa*-'atl
+kaa?a ?_am'iit waa?atl.
+ka:?a ?_am'i:t wa*-'atl
 hand.me clam.shell say-FINITE
 hand.me clam.shell said
 "Get me clam shells," he said.
@@ -12488,8 +12488,8 @@ hear she.always.listened
 She obeyed him. She always listens to him.
 
 # 043
-m'aw'aa?atl ??am'iit chakupuk.
-m'aw'a:-'atl ??am'i:t chakup-uk
+m'aw'aa?atl ?_am'iit chakupuk.
+m'aw'a:-'atl ?_am'i:t chakup-uk
 delivering-FINITE clam.shell husband-POSS
 brought.to clam.shell her.husband
 She brought clam shells to her husband.
@@ -12502,8 +12502,8 @@ INTJ get.close the.fire
 Now, he (Raven) went close to the fire.
 
 # 045
-ch'aam'iitlil?atl ??am'iitm'inhh?i.
-ch'am-'i*tlil-'atl ??am'i:t-m'inhh-?i*
+ch'aam'iitlil?atl ?_am'iitm'inhh?i.
+ch'am-'i*tlil-'atl ?_am'i:t-m'inhh-?i*
 rounded.vessel-underneath-FINITE clam.shell-PL-DEF
 set.down the.clam.shells
 He set the shells down.
@@ -12564,8 +12564,8 @@ he.went.for.a.walk.they.say Son.of.Raven as.he.usually.did when.he.got.hungry
 Son of Raven went for a walk as he usually did when he got hungry.
 
 # 002
-??ac'ikckwi ?uuwatl hil?aahhi ha?uk haw'iiqstu?atlquu.
-??ac'ik-ckwi* ?u-watl hil-?a:hhi ha?uk haw'i:qstu(tl)-'atl-qu:
+?_ac'ikckwi ?uuwatl hil?aahhi ha?uk haw'iiqstu?atlquu.
+?_ac'ik-ckwi* ?u-watl hil-?a:hhi ha?uk haw'i:qstu(tl)-'atl-qu:
 know.how.to-happened it-find there-?? eat get.hungry-FINITE-COND
 he.knew.how found where.he.can eat when.he.got.hungry
 He knew how to find a place where he could get food when he got hungry.
@@ -12655,8 +12655,8 @@ take the.bowl stepped.into.the.container
 He took the bowl and stepped into it.
 
 # 015
-sukwi?atl m'uksy'i, hisshi?atl ??ishii?at?i.
-sukwi(tl)-'atl m'uksy'i his-shi(tl)-'atl ??ishi:-'at-?i*
+sukwi?atl m'uksy'i, hisshi?atl ?_ishii?at?i.
+sukwi(tl)-'atl m'uksy'i his-shi(tl)-'atl ?_ishi:-'at-?i*
 take-FINITE stone beat-MOM-FINITE shin-POSS-DEF
 took stone hit his.shin
 Then he took a rock and hit his shin bone.
@@ -12711,8 +12711,8 @@ they.did.it.to.his.thing.again filled.up.his.thing it.took.a.short.time.again em
 They filled his dish again, and again he finished them in no time.
 
 # 023
-haahaaw'apu?atl'um, puu??al?atuuchitl, c'itkpitl wa?ichutl.
-DUPCV:-haw'a-api-u(tl)-'atl-?um pu??al?atu-`i*chitl c'itkw-`pitl wa?ich-utl
+haahaaw'apu?atl'um, puu?_al?atuuchitl, c'itkpitl wa?ichutl.
+DUPCV:-haw'a-api-u(tl)-'atl-?um pu?_al?atu-`i*chitl c'itkw-`pitl wa?ich-utl
 DISTR?-eat-excessively-MOM-FINITE-as.usual get.sleepy-INC roll.over-on.the.bed sleeping-MOM
 he.ate.too.much.as.usual getting.sleepy lie.down.on.the.bed slept
 He ate too much as usual. He got sleepy, lay down and went to sleep.
@@ -12823,36 +12823,36 @@ stepped.into.the.container the.bowl Son.of.Raven take stone
 Son of Raven stepped into the bowl, and took a rock.
 
 # 039
-hisshi?atl, hisshitl ??ishii?at?i, wik'iit nixtinquu.
-his-shi(tl)-'atl his-shitl ??ishi:-'at-?i* wik'i:t nixtin-qu:
+hisshi?atl, hisshitl ?_ishii?at?i, wik'iit nixtinquu.
+his-shi(tl)-'atl his-shitl ?_ishi:-'at-?i* wik'i:t nixtin-qu:
 beat-MOM-FINITE beat-MOM shin-POSS-DEF none.present salmon.eggs-COND
 hit hit his.shin none.present salmon.roes
 He hit and hit his shin bone, but there was no egg.
 
 # 040
-waalak ??aa??iqshitla, xwakshi?atl'at ??ishii.
-wa:lak DUPCV:-??iq-shitl-(y)a xwak-shi(tl)-'atl-'at ??ishi:
+waalak ?_aa?_iqshitla, xwakshi?atl'at ?_ishii.
+wa:lak DUPCV:-?_iq-shitl-(y)a xwak-shi(tl)-'atl-'at ?_ishi:
 gradually REP-do.it.hard?-GRAD-REP swollen-MOM-FINITE-POSS shin
 gradually start.to.do.it.harder.and.harder his.got.swollen shin
 He started to hit harder and harder, and his shin got swollen.
 
 # 041
-wim'aaqst?atl wik??atlquu, ?aaw ?aaw ?aaw ?aaw wawaa tuxtuxmis suu ??ishii?at?i.
-wim'a:qstu(tl)-'atl wik-??atl-qu: ?a:w ?a:w ?a:w ?a:w wawa: DUP#-tuxw-mi*s su: ??ishi:-'at-?i*
+wim'aaqst?atl wik?_atlquu, ?aaw ?aaw ?aaw ?aaw wawaa tuxtuxmis suu ?_ishii?at?i.
+wim'a:qstu(tl)-'atl wik-?_atl-qu: ?a:w ?a:w ?a:w ?a:w wawa: DUP#-tuxw-mi*s su: ?_ishi:-'at-?i*
 become.unable.to-FINITE not-make.sound-COND EXP EXP EXP EXP say REP-jump-move.about.on.the.beach hold shin-POSS-DEF
 he.became.unable.to keep.silent EXP EXP EXP EXP say jumped.around.on.the.beach hold his.shin
 He couldn't keep quiet any longer, and said "ouch, ouch, ouch, ouch" as he hopped around  holding his shin.
 
 # 042
-wiiy'a?aash ??am'aakw'al qu?ushinm'it, waanaak'atl'al, c'iic'ik'iik, walkwachitl tl'iiw'aaqichiilqchik.
-wi:y'a-?a:sh ??am'a:kw'al qu?ushin-m'i*t wa*-na*k-'atl-?a*l DUPCV-c'i:k-'i:k wal-kwa-chitl tl'i:xw-'a*qa-ichi:l-qchik
+wiiy'a?aash ?_am'aakw'al qu?ushinm'it, waanaak'atl'al, c'iic'ik'iik, walkwachitl tl'iiw'aaqichiilqchik.
+wi:y'a-?a:sh ?_am'a:kw'al qu?ushin-m'i*t wa*-na*k-'atl-?a*l DUPCV-c'i:k-'i:k wal-kwa-chitl tl'i:xw-'a*qa-ichi:l-qchik
 never-INF.3 know.the.consequence raven-son.of say-having-FINITE-PL REP-imitate-always.doing go.home-dispersed-MOM laugh-severally-IT.INC-doing.while.goin
 he.sure.doesnt know.the.consequence Son.of.Raven some.of.them.said imitator they.went.their.own.ways.to.home they.started.laughing.as.they.did.so
 "Son of Raven certainly never learns," someone said. "Copy cat," they kept laughing as they went home.
 
 # 043
-?unw'iitlhhwa?ish xwakyuu?at ??ishii qu?ushinm'it.
-?unw'i:tl-(q)hh-wa*?i*sh xwak-yu*-'at ??ishi: qu?ushin-m'i*t
+?unw'iitlhhwa?ish xwakyuu?at ?_ishii qu?ushinm'it.
+?unw'i:tl-(q)hh-wa*?i*sh xwak-yu*-'at ?_ishi: qu?ushin-m'i*t
 because.of-SIM-QUOT.3 swollen-done-POSS ankle raven-son.of
 being.the.reason his.is.swollen ankle Son.of.Raven
 That is the reason Son of Raven's ankle is swollen.
@@ -12941,7 +12941,7 @@ what.will.you.do when.he.comes.along he.also.said the.stranger
 "What are you going to do when he comes here?" asked the stranger.
 
 # 011
-ch'ii??aqiichitl'aqtls ?uuhhw'al ?ahh yaaqwiilqs ch'iimam'inhh, wim'aaqtl'ats kwistuupsap'at, waa?atl muwaachm'it yaaxmalapap ch'iimam'inhhuk?i.
+ch'ii?_aqiichitl'aqtls ?uuhhw'al ?ahh yaaqwiilqs ch'iimam'inhh, wim'aaqtl'ats kwistuupsap'at, waa?atl muwaachm'it yaaxmalapap ch'iimam'inhhuk?i.
 ch'i:q-'aqa-`i*chitl-?aqtl-s ?u-hhw'al ?ahh yaqw-i:l-qs ch'i:ma-minhh wim'a:qtl-'at-s kwis-tu*p-sa*p-'at wa*-'atl muwach-m'i*t yaxw-mal-api-'ap ch'i:ma-m'inhh-uk-?i*
 attack-severally.doing-INC-FUT-1SG it-using this that.which-make-REL.1SG knife-PL incapable.of-SHIFT-1SG different-thing-MOMCAUS-SHIFT say-FINITE deer-son.of sweep-move.about-up.in.the.air-MOMCAUS knife-PL-POSS-DEF
 I.will.fight.him using.it this what.I.am.making knives he.cannot.to.me turn.me.into.something.different said Son.of.Deer waving.around his.knives
@@ -12969,8 +12969,8 @@ give his.knives Son.of.Deer
 He (Deer) gave him (the stranger) his knives.
 
 # 015
-sukwitl ch'iimam'inhh?i kwisaathh?i. n'an'aan'ichshitl kwiiscmalsna??aal.
-sukwi(tl) ch'i:ma-m'inhh-?i* kwis-'a*thh-?i* DUPCV-n'a*n'ich-shitl kwi*sc-mal-sna??a:l
+sukwitl ch'iimam'inhh?i kwisaathh?i. n'an'aan'ichshitl kwiiscmalsna?_aal.
+sukwi(tl) ch'i:ma-m'inhh-?i* kwis-'a*thh-?i* DUPCV-n'a*n'ich-shitl kwi*sc-mal-sna?_a:l
 take knife-PL-DEF different-come.from-DEF DISTR-examine?-MOM turn.around?-move.about-handling.with
 take the.knives the.stranger started.to.look.at turning.it.over.and.over
 The stranger took the knives, and he started to look at it turning it over and over.
@@ -13060,8 +13060,8 @@ started.to.walk the.stranger
 The stranger started to walk.
 
 # 028
-?uuwa?atltla ??at'uum'it ?uxwaapiqiil.
-?u-watl-'atl-tla* ??at'u:-m'i*t ?uxwa:piq-i:l
+?uuwa?atltla ?_at'uum'it ?uxwaapiqiil.
+?u-watl-'atl-tla* ?_at'u:-m'i*t ?uxwa:piq-i:l
 it-find-FINITE-also beaver-son.of paddle-make
 also.found Son.of.Beaver making.a.paddle
 This time he came across Son of Beaver making a paddle.
@@ -13074,8 +13074,8 @@ approach the.stranger
 The stranger approached him.
 
 # 030
-ha, mamuuk?ick, ?aaqichiilk, waa?atl'at ??at'uum'it.
-ha mamu:k-?ick ?aqi-chi:l-k wa*-'atl-'at ??at'u:-m'i*t
+ha, mamuuk?ick, ?aaqichiilk, waa?atl'at ?_at'uum'it.
+ha mamu:k-?ick ?aqi-chi:l-k wa*-'atl-'at ?_at'u:-m'i*t
 INTJ work-IND.2SG what-make-2SG say-FINITE-SHIFT beaver-son.of
 INTJ you.are.working what.are.you.making? it.is.said.to.him Son.of.Beaver
 "Oh, you are working. What are you making?" he said to Son of Beaver.
@@ -13088,8 +13088,8 @@ Im.doing.for.it making.a.paddle the.one.that.might.be.coming changing.things per
 "I am making a paddle in preparation for the transformer.
 
 # 032
-wim'aaqtl'ats kwistuupsap'at ?ans hitachinkshitl'atl, waa?atl ??at'uum'it.
-wim'a:qtl-'at-s kwis-tu*p-sa*p-'at ?an-s hita-chink-shitl-?aqtl wa*-'atl ??at'u:-m'i*t
+wim'aaqtl'ats kwistuupsap'at ?ans hitachinkshitl'atl, waa?atl ?_at'uum'it.
+wim'a:qtl-'at-s kwis-tu*p-sa*p-'at ?an-s hita-chink-shitl-?aqtl wa*-'atl ?_at'u:-m'i*t
 incapable.of-SHIFT-1SG different-thing-MOMCAUS-SHIFT because-1SG LOC-fight.against-MOM-FUT say-FINITE beaver-son.of
 he.cannot.to.me turn.me.into.something.different because.I I.will.fight.him said Son.of.Beaver
 He cannot change me into anything, because I will fight him," said Son of Beaver.
@@ -13109,8 +13109,8 @@ lets.see let.me.look.at.it how.yours.would.be
 Now, let me see how yours is."
 
 # 035
-sukwi?atuk ?uxwaapi ??at'uum'it.
-sukwi(tl)-'at-uk ?uxwa:pi ??at'u:-m'i*t
+sukwi?atuk ?uxwaapi ?_at'uum'it.
+sukwi(tl)-'at-uk ?uxwa:pi ?_at'u:-m'i*t
 take-SHIFT-POSS paddle beaver-son.of
 snatched.it paddle Son.of.Beaver
 He took the paddle from Son of Beaver.
@@ -13123,8 +13123,8 @@ started.to.look.at the.stranger the.paddle
 The stranger examined the paddle.
 
 # 037
-?aanaak?ick tlul, waa?atl'at ??at'uum'it.
-?a:na-na*k-?ick tlul wa*-'atl-'at ??at'u:-m'i*t
+?aanaak?ick tlul, waa?atl'at ?_at'uum'it.
+?a:na-na*k-?ick tlul wa*-'atl-'at ?_at'u:-m'i*t
 really-having-IND.2SG nice say-FINITE-SHIFT beaver-son.of
 you.really.have.something nice it.is.said.to.him Son.of.Beaver
 "Yours is really nice," the stranger said to Son of Beaver.
@@ -13137,15 +13137,15 @@ turn.around
 "Turn around," [said the stranger].
 
 # 039
-t'aaqaak kwiiscaaputl ??at'uum'it.
-t'a:qa:k kwis-ca-?a*p-utl ??at'u:-m'i*t
+t'aaqaak kwiiscaaputl ?_at'uum'it.
+t'a:qa:k kwis-ca-?a*p-utl ?_at'u:-m'i*t
 go.along different-go.to-??-mom beaver-son.of
 go.along turn.around Son.of.Beaver
 Son of Beaver turned around as told.
 
 # 040
-chatas?aktlinup'at ?uxwaapak?i ??at'uum'it, tl'uhhas?aktlinu?at.
-chat-as-'aktli-nup-'at ?uxwa:pi-?a*k-?i* ??at'u:-m'i*t tl'uhh-as-'aktli-inu-'at
+chatas?aktlinup'at ?uxwaapak?i ?_at'uum'it, tl'uhhas?aktlinu?at.
+chat-as-'aktli-nup-'at ?uxwa:pi-?a*k-?i* ?_at'u:-m'i*t tl'uhh-as-'aktli-inu-'at
 press-on.the.surface?-at.the.rear-MOMCAUS-SHIFT paddle-POSS-DEF beaver-son.of press.against-on.the.surface?-at.the.rear-MOM-SHIFT
 he.placed.it.on.his.behind his.paddle Son.of.Beaver slapped.on.his.behind
 [The stranger] put the paddle on Son of Beaver's bottom and slapped on it.
@@ -13158,15 +13158,15 @@ OK go.and swim.in.the.water
 "OK, go and swim in the water.
 
 # 042
-??at'uuchi?atl'ick waa?atl'at.
-??at'u:-chi(tl)-'atl-?ick wa*-'atl-'at
+?_at'uuchi?atl'ick waa?atl'at.
+?_at'u:-chi(tl)-'atl-?ick wa*-'atl-'at
 beaver-MOM-FINITE-IND.2SG say-FINITE-SHIFT
 you.have.become.a.beaver it.is.said.to.him
 You are now a beaver," the stranger said to him.
 
 # 043
-?unw'iitlhhwa?ish tl'u??at sit'a ??at'uu.
-?unw'i:tl-(q)hh-wa*?i*sh tl'uq-'at sit'a ??at'u:
+?unw'iitlhhwa?ish tl'u?_at sit'a ?_at'uu.
+?unw'i:tl-(q)hh-wa*?i*sh tl'uq-'at sit'a ?_at'u:
 there.is.a.reason-SIM-QUOT.3 wide-POSS tail beaver
 being.the.reason wide tail beaver
 This is why beavers have the broad tail.
@@ -13344,15 +13344,15 @@ it.became.daylight
 It became daylight.
 
 # 024
-sa??aaquwa?ish.
-sa-??a:q-ulw-'a?-?i*sh?
+sa?_aaquwa?ish.
+sa-?_a:q-ulw-'a?-?i*sh?
 crawl-??-place.of-on.the.rock-IND.3
 it.is.the.place.for.the.wolf.ceremony
 This is the place for the Wolf Ceremony. {with picture}
 
 # 025
-nism'a hil?atl ?ahh sa??aaquwa?a.
-nism'a hil-'atl ?ahh sa-??a:q-ulw-'a*?a*
+nism'a hil?atl ?ahh sa?_aaquwa?a.
+nism'a hil-'atl ?ahh sa-?_a:q-ulw-'a*?a*
 land here-FIN this crawl-??-place.of-on.the.rock
 land there this place.for.the.wolf.ceremony
 There is a place here for the Wolf Ceremony.
@@ -13421,8 +13421,8 @@ he.knew that changed
 He noticed something was wrong [about his ritual].
 
 # 035
-takaas?atltla ?ahh hiitaahht'uul yaqii sa??aaquw'a?a.
-taka:s-'atl-tla* ?ahh hita-hht-'u*l yaqw-(y)i: sa-??a:q-ulw-'a*?a
+takaas?atltla ?ahh hiitaahht'uul yaqii sa?_aaquw'a?a.
+taka:s-'atl-tla* ?ahh hita-hht-'u*l yaqw-(y)i: sa-?_a:q-ulw-'a*?a
 still-FIN-again this there.MOM-move.downstream-on.the.rocks which-INDF.3 crawl-??-place.of-on.the.rock
 they.are.doing.the.same this come.down.frequently the.place.where have.the.wolf.ceremony
 They (the wolves) kept coming down to the place where they do their ritual.
@@ -13491,7 +13491,7 @@ they.did.a.Wolf.Ritual take.up.another
 They did the Wolf Ceremony with another person taking the place of the young man [who had been taken away by the wolves].
 
 # 045
-waa ?ahh?aa?atl, ch'apyii??atl hhaaw'ilatl. ch'apyiiq.
+waa ?ahh?aa?atl, ch'apyii?_atl hhaaw'ilatl. ch'apyiiq.
 wa: ?ahh?a:-'atl ch'ap-yi:q-'atl hha:w'ilatl ch'ap-yi:q
 and then-FIN canoe-travel.in-FIN young.man canoe-travel.in
 and then traveled.in.a.canoe young.man traveled.in.a.canoe
@@ -13631,7 +13631,7 @@ alert because peculiar strange strange day
 The people were alert because it was peculiar and strange — it was a strange day every day .
 
 # 065
-?aahh?asa wii??aqtl'al hishuk, wii??aqtl hinaas?at, hinaas, ?in ?uushhhii qwayac'iik?i.
+?aahh?asa wii?_aqtl'al hishuk, wii?_aqtl hinaas?at, hinaas, ?in ?uushhhii qwayac'iik?i.
 ?a:hh?asa wi:q-'aqtl-?a*l hish-uk wi:q-'aqtl hina:s-'at hina:s ?in ?u:sh-hhi* qwayac'i:k-?i*
 it.seems unpleasant-inside-PL all-DUR unpleasant-inside dwelling.on-SHIFT dwelling.on because something-DUR wolf-DEF
 it.seems they.were.depressed all depressed worried.about dwelling.on because strange the.wolves
@@ -13659,8 +13659,8 @@ used.to.sing.songs becoming.night
 He used to sing his song at night.
 
 # 069
-??ac'ikshitl hhaaw'ilatl'i ch'a?uy'ic qwi?ii?itq qwayac'iik?i, muwach.
-??ac'ik-shi(tl) hha:w'ilatl-?i* ch'a?ush-'i*c qwi-'i*c-?i*tq qwayac'i:k-?i* muwach
+?_ac'ikshitl hhaaw'ilatl'i ch'a?uy'ic qwi?ii?itq qwayac'iik?i, muwach.
+?_ac'ik-shi(tl) hha:w'ilatl-?i* ch'a?ush-'i*c qwi-'i*c-?i*tq qwayac'i:k-?i* muwach
 know.how.to-MOM young.man-DEF raw-eat that.which-eat-REL.3 wolf-DEF deer
 learned.how.to the.young.man eat.raw.food things.he.eats the.wolves deer
 The young man learned to eat raw food that wolves would eat, such as deer meat.
@@ -13722,8 +13722,8 @@ reach.the.tip the.isle the.mountain.range and returned going.back.the.same.trail
 He reached the tip of the island (= Vancouver Island) and the mountain range, and then they came back to the starting point, following the same route.
 
 # 079
-waa ?ucachi?atl hiy'athhuusitii ??uc'uus?athh, ??uc'uus?athh, w'apuukhh.
-wa: ?u=ca-chi(tl)-'atl hil-'athh-(w)u:si-it-(y)i: ??uc'u:s?athh ??uc'u:s?athh w'apu:khh
+waa ?ucachi?atl hiy'athhuusitii ?_uc'uus?athh, ?_uc'uus?athh, w'apuukhh.
+wa: ?u=ca-chi(tl)-'atl hil-'athh-(w)u:si-it-(y)i: ?_uc'u:s?athh ?_uc'u:s?athh w'apu:khh
 and it-go.to-MOM-FIN there-residing-REL.DUB.3-PAST-INDF.3 Otsosat Otsosat Wapuukh
 and they.went where.he.might.have.been.lived Otsosat Otsosat Wapuukh
 And then they went back to places where the young man lived, Otsosat and _w̓apuukḥ_.
@@ -13750,7 +13750,7 @@ reached.the.tip.of.the.isle went.to Nitinat
 They reached the [other] tip of the isle, to Nitinaht.
 
 # 083
-?aniyatlquuch wiinaputl tup??aqstu?atlquu.
+?aniyatlquuch wiinaputl tup?_aqstu?atlquu.
 ?ana-iya-'atl-qu:-ch wi:nap-u(tl) tupq-'aqstu(tl)-'atl-qu:
 only-at.times-FIN-COND.3-INF stopping-MOM dark-inside-FIN-COND.3
 only.time.they.would.do stop when.it.got.dark
@@ -13799,8 +13799,8 @@ this.is.how.long.it.took.along.the.coast four.months moon
 They traveled along the coast for four months.
 
 # 090
-chuu, wiinapu?atl ?uushsaac'u hilhhitii ??a?uk ?iihh ??a?ukwaq wiinaputl'al.
-chu: wi:nap-u(tl)-'atl ?u:sh-sa:c'u hil-(q)hh-it-(y)i: ??a?uk ?i:hh ??a?uk-aq wi:nap-utl-?a*l
+chuu, wiinapu?atl ?uushsaac'u hilhhitii ?_a?uk ?iihh ?_a?ukwaq wiinaputl'al.
+chu: wi:nap-u(tl)-'atl ?u:sh-sa:c'u hil-(q)hh-it-(y)i: ?_a?uk ?i:hh ?_a?uk-aq wi:nap-utl-?a*l
 now.then stopping-MOM-FIN somewhere-at.a.place there-SIM-PAST-INDF.3 lake big lake-big stopping-MOM-PL
 now.then they.had.stopped at.some.place wherever.there.was lake big huge.lake they.stopped
 Then they made stops at places where there was a big lake.
@@ -13820,8 +13820,8 @@ they.would.let.him.first eating then the.wolves they.ate
 Each time he was fed first, and then the wolves ate.
 
 # 093
-hiilaqsi?is?atlquuch qwayac'iik?i ??a?uk?i, ?iihh ??a?uk.
-hil-aqsi-?is-'atl-qu:-ch qwayac'i:k-?i* ??a?uk-?i* ?ii:hh ??a?uk
+hiilaqsi?is?atlquuch qwayac'iik?i ?_a?uk?i, ?iihh ?_a?uk.
+hil-aqsi-?is-'atl-qu:-ch qwayac'i:k-?i* ?_a?uk-?i* ?ii:hh ?_a?uk
 there-at.the.bank-on.the.beach-FIN-COND.3-INF wolf-DEF lake-DEF big lake
 stay.along.a.lake.shore the.wolf the.lake big lake
 The wolves would stop by the shoreline of a like, a big lake.
@@ -13855,14 +13855,14 @@ never kill it.is.said animal when.you.kill
 Never say "kill" when you kill animals.
 
 # 098
-qwaa y'uuqwaa ??ahhmis. wiiy'aat qahhsaap waa?at,
-qwa: y'u:qwa: ??ahhmis wi:y'a-'at qahh-sa*p wa:-'at
+qwaa y'uuqwaa ?_ahhmis. wiiy'aat qahhsaap waa?at,
+qwa: y'u:qwa: ?_ahhmis wi:y'a-'at qahh-sa*p wa:-'at
 so also mammals never-SHIFT dead-MOMCAUS say-SHIFT
 so also mammals never kill it.is.said
 It is the same with mammals. Never say "kill".
 
 # 099
-?uu??iichi?i. ?uu??iichi?apikqs wawaa.
+?uu?_iichi?i. ?uu?_iichi?apikqs wawaa.
 ?u:q-'i*chi-?i* ?u:q-'i*chi-'ap-ik-qs wawa:
 nice-INC?-IMP.2SG nice-INC?-CAUS-??-SUB.1SG say
 you.become.tame I.will.make.it.tame say
@@ -13883,14 +13883,14 @@ Wolves would say that lisping.
 "_ʔuʔiič̓eepiks_, _ʔuʔiič̓eepiks_" — that is how wolves would talk.
 
 # 102
-wik qwaa qwaaqin chamihhta niiw'a ciiqciiqa ?u??iichi?atikqs.
+wik qwaa qwaaqin chamihhta niiw'a ciiqciiqa ?u?_iichi?atikqs.
 wik qwa: qwa:-qin chamihhta ni:w'a DUP#-ciq-a* ?u:q-'i*chi-'ap-ik-qs
 not thus thus-REL.1PL properly we IT-speak-REP nice-INC?-CAUS-??-SUB.1SG
 not thus like.us properly we speaking I.will.make.it.tame
 They are unlike us who speak properly as "_ʔuʕiičiʔatikqs_".
 
 # 103
-?u??iichi?atikqs waa waanaa niiw'a.
+?u?_iichi?atikqs waa waanaa niiw'a.
 ?u:q-'i*chi-'ap-ik-qs wa: wa*-na* ni:w'a
 nice-INC?-CAUS-??-SUB.1SG say say-1PL we
 I.will.make.it.tame say we.say we
@@ -13918,8 +13918,8 @@ now.then they.departed departed
 Now they departed.
 
 # 107
-?u?iiyis ?achaq?ishtiik hii??ii?athh, hil qii.
-?u-?i*ya-?is ?achaq-?isht-(y)i:k hu:??i:?athh hil qi:
+?u?iiyis ?achaq?ishtiik hii?_ii?athh, hil qii.
+?u-?i*ya-?is ?achaq-?isht-(y)i:k hu:?_i:?athh hil qi:
 it-reach-on.the.beach who-??-INDF.2SG Ohiat there for.a.long.time
 landed.on.the.beach place.called Ohiat there for.a.long.time
 They went to a seaside village called Ohiat and stayed there for quite a while.
@@ -13939,15 +13939,15 @@ hear they.are.afraid because strange the.wolves ~ making.strange.noise when.they
 They heard him (the wolves) and got afraid because the wolves were strange, making strange noise when they howled.
 
 # 110
-qwii??atl'atlquuch ?ahh muup'it??atl, woo
-qwi-??atl-'atl-qu:-ch ?ahh mu:-p'it-??atl ~
+qwii?_atl'atlquuch ?ahh muup'it?_atl, woo
+qwi-?_atl-'atl-qu:-ch ?ahh mu:-p'it-?_atl ~
 what-make.sound-FIN-COND.3-INF this four-times-make.sound ~
 how.they.would.sound this sounded.four.times ~
 They sounded like this for four times: _woo_.
 
 # 111
-qwii??in ?ahh, muup'it??atl.
-qwi-??in ?ahh mu:-p'it-??atl mu:-p'it-??atl
+qwii?_in ?ahh, muup'it?_atl.
+qwi-?_in ?ahh mu:-p'it-?_atl mu:-p'it-?_atl
 what-make.sound this four-times-make.sound four-times-make.sound
 how.it.sounds this sounded.four.times sounded.four.times
 This is how they sounded and they did it four times.
@@ -13960,8 +13960,8 @@ it.was.strange said
 "It's very strange," they said.
 
 # 113
-hashil?atl ??imtnaak ??imtnaak hhaaw'ilatl'i.
-hashil-'atl ??imt-na*k ??imt-na*k hha:w'ilatl-?i*
+hashil?atl ?_imtnaak ?_imtnaak hhaaw'ilatl'i.
+hashil-'atl ?_imt-na*k ?_imt-na*k hha:w'ilatl-?i*
 hear.about-FIN name-having name-having young.man-DEF
 knew having.a.name having.a.name the.young.man
 They knew that the young man had a name (the young man had been initiated).
@@ -14086,8 +14086,8 @@ threw.a.spear they.would.miss.him some.would it.would.glanced.off
 They threw spears at him (the young man) but couldn't get direct hits: some just glanced off.
 
 # 131
-hil?anitwa?ish ??aa?ii?at ?ahh. ?iihh ??aa?ii
-hil-'at-it-wa*?i*sh ??a:?i:-'at ?ahh ?i:hh ??a:?i:
+hil?anitwa?ish ?_aa?ii?at ?ahh. ?iihh ?_aa?ii
+hil-'at-it-wa*?i*sh ?_a:?i:-'at ?ahh ?i:hh ?_a:?i:
 there-POSS-PAST-QUOT.3 scar-POSS this big scar
 it.was.the.place his.scar this big scar
 This [referring to the upper arm] is where his car was. It was a big scar.
@@ -14129,7 +14129,7 @@ _n̓upčiiɬ_ is "one day".
 
 # 137
 hinasi?atl hu?ap'in ?u?ii?as hiiltqyaap'ii?as?i
-hin-as-i(tl)-'atl hu?a-p'in ?u-?i:-'as hil-tqya:p'i:-'as-?i* ??upnit
+hin-as-i(tl)-'atl hu?a-p'in ?u-?i:-'as hil-tqya:p'i:-'as-?i* ?_upnit
 there.MOM-reaching.to-MOM-FIN back-?? it-reach-on.the.ground there-??-in.the.village?-DEF Opnit
 reached circle.around landed behind.the.village Opnit
 They had come all the way back to the spot behind the Opnit village.
@@ -14317,15 +14317,15 @@ would.probably.have.scraped.the.target bone
 Spears might have [penetrated his skin and] scraped his bone [but they didn't make any serious damage on the bone].
 
 # 164
-nay'iik qwayac'iik?i nakshitl ??aa?ii.
-nay'i:k qwayac'i:k-?i* nak-shi(tl) ??a:?i:
+nay'iik qwayac'iik?i nakshitl ?_aa?ii.
+nay'i:k qwayac'i:k-?i* nak-shi(tl) ?_a:?i:
 at.once wolf-DEF lick-MOM scar
 at.once the.wolves licked scar
 [Whenever the young man got wounded,] the wolves immediately licked the wound.
 
 # 165
-?aahh?asa ??uy'inakquu.
-?a:hh?asa ??uy'i-na*k-qu:
+?aahh?asa ?_uy'inakquu.
+?a:hh?asa ?_uy'i-na*k-qu:
 it.seems medicine-having-COND.3
 it.seems as.if.they.had.medicine
 It seems as though they had medicine.
@@ -14373,15 +14373,15 @@ didnt.know where.they.had.gone the.wolves go.into.woods
 They didn't know where those wolves had gone in the woods.
 
 # 172
-maasuulshi?atltla muup'it??atl,
-ma:su:l-shi(tl)-'atl-tla* mu:-p'it-??atl
+maasuulshi?atltla muup'it?_atl,
+ma:su:l-shi(tl)-'atl-tla* mu:-p'it-?_atl
 howl-MOM-FIN-again four-times-make.sound
 they.howled.again sounded.four.times
 Again they howled four times.
 
 # 173
-[?wooo wooo wooo wooo], qwi??atl ?ahh?aa.
-~ qwi-??atl ?ahh?a:
+[?wooo wooo wooo wooo], qwi?_atl ?ahh?aa.
+~ qwi-?_atl ?ahh?a:
 ~ that.which-make.sound that
 ~ how.it.sounded that
 _woo_ _woo_ _woo_ _woo_ — this is how they sounded.
@@ -14436,8 +14436,8 @@ he doing.that only.eat fat and plants what.he.was.given wolf
 He only ate blubber and plants that he was fed by the wolves.
 
 # 181
-??uy'aatl tlah. ?atlakwaltaqiml ??uy'i
-??uy'i-a:tl tlahh ?atlakwal-taqiml ??uy'i
+?_uy'aatl tlah. ?atlakwaltaqiml ?_uy'i
+?_uy'i-a:tl tlahh ?atlakwal-taqiml ?_uy'i
 medicine-?? now eight-bundle medicine
 became.medicine now eight.bundles medicine
 Now there was medicine — eight bundles of medicine.
@@ -14450,8 +14450,8 @@ Now there was medicine — eight bundles of medicine.
 Eight kinds.
 
 # 183
-?u?inhh?is ?ahh ??uy'i, herbs, [eight bundles].
-?u-?inhh-?is ?ahh ??uy'i ~ ~
+?u?inhh?is ?ahh ?_uy'i, herbs, [eight bundles].
+?u-?inhh-?is ?ahh ?_uy'i ~ ~
 it-size?-DIM this medicine ~ ~
 being.small this medicine ~ ~
 These medicines were small — these herbs, eight bundles.
@@ -14478,8 +14478,8 @@ then when.they.do.Wolf.Ritual was.taken.to it.is.said was.taken.to Checleset was
 Then during the Wolf Ceremony, they announced that he had been taken away to Checleset, to Machalat, to Nuchalath, and there to the land on the other shore.
 
 # 187
-?uhhuk?al tlawaamaan'uu?is?athh, t'ukw'aa?athh, yuulu?il?athh, waa huu??i?athh,
-?uhh-uk-?a*l tlawa: ma:n'u:?is?athh t'ukw'a:?athh yu:lu?il?athh wa: hu:??i?athh
+?uhhuk?al tlawaamaan'uu?is?athh, t'ukw'aa?athh, yuulu?il?athh, waa huu?_i?athh,
+?uhh-uk-?a*l tlawa: ma:n'u:?is?athh t'ukw'a:?athh yu:lu?il?athh wa: hu:?_i?athh
 being.it-POSS-PL near Manhousat Toquaht Ucluelet and Ohiat
 it.is.his close Mahousat Toquaht Ucluelet and Ohiat
 Manhousats were close to Toquaht, Ucluelet, and Ohiat.
@@ -14527,8 +14527,8 @@ also young.man make.proposal went.there the.chief one.who.has.a.daughter
 On the other hand, when a young man gets his wife, [his delegates] go to the chief who has a daughter. (= On the other hand, a young man proposes by going to the chief who has a daughter.)
 
 # 194
-?uustukhh wikmahhsap pawalshitl ??imtii.
-?u-stukhh wik-mahhsa-'ap pawal-shi(tl) ??imti:
+?uustukhh wikmahhsap pawalshitl ?_imtii.
+?u-stukhh wik-mahhsa-'ap pawal-shi(tl) ?_imti:
 it-for.the.reason.of not-desiring.to-CAUS lost-MOM name
 so.that so.it.wouldnt get.lost name
 [They do that] so that their name will not be lost.
@@ -14590,8 +14590,8 @@ I.was.bathing
 I was bathing.
 
 # 202
-hiiniic yaqukwitiis ??iniitl, ??iniitl Adanac ?uklaa.
-hin-i:c yaqw-ukw-it-(y)i:s ??ini:tl ??ini:tl ~ ?u-kla*
+hiiniic yaqukwitiis ?_iniitl, ?_iniitl Adanac ?uklaa.
+hin-i:c yaqw-ukw-it-(y)i:s ?_ini:tl ?_ini:tl ~ ?u-kla*
 there.MOM-?? which-POSS-PAST-INDF.1SG dog dog ~ it-having.as.name
 take.along I.had.before dog dog ~ being.named
 I was taking along the dog I had before, whose name as Adanac.
@@ -14604,8 +14604,8 @@ he.would.sit.there.on.the.ground there bathing
 There he was sitting on the ground while I was bathing.
 
 # 204
-?uyaasila ??iniitl'i.
-?uya:-sila ??ini:tl-?i*
+?uyaasila ?_iniitl'i.
+?uya:-sila ?_ini:tl-?i*
 peculiar-act.like dog-DEF
 act.strangely the.dog
 There was something wrong with the dog.
