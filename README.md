@@ -62,9 +62,9 @@ The following table shows the consonant sounds of Nuuchahnulth, arranged by plac
 
 Manner            | Labial | Apical | Alveolar | Lateral | Palatal | Velar | Labio-Velar | Uvular | Labio-Uvular | Pharyngeal | Glottal
 ------------------|:------:|:------:|:--------:|:-------:|:-------:|:-----:|:-----------:|:------:|:------------:|:----------:|:------:
-Stops             |   p    |   t    |    c     |    ƛ    |    č    |   k   |     kʷ      |   q    |      qʷ      |     ʕ      |    ʔ
-Ejectives         |   p̓    |   t̓    |    c̓     |    ƛ̓   |    č̓    |   k̓   |     k̓ʷ      |        |     (q̓ʷ)     |            |
-Fricatives        |        |        |    s     |    ɬ    |    š    |   x   |     xʷ      |   x̣    |              |     ḥ      |    h
+Stops             |   p    |   t    |    c     |    ƛ    |    č    |   k   |     kʷ      |   q    |      qʷ      |     ʕ      |    ʔ
+Ejectives         |   p̓    |   t̓    |    c̓     |    ƛ̓   |    č̓    |   k̓   |     k̓ʷ      |        |     (q̓ʷ)     |            |
+Fricatives        |        |        |    s     |    ɬ    |    š    |   x   |     xʷ      |   x̣    |              |     ḥ      |    h
 Resonants         |   m    |   n    |          |         |    y    |       |     w       |        |              |            |
 Glottal Resonants |   m̓    |   n̓    |          |         |    y̓    |       |     w̓       |        |              |            |
 
