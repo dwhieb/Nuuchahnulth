@@ -662,7 +662,7 @@ now.then he.spoke      the.leader
 Now, the leader [of wolves] spoke.
 
 # 095
-qaḥsaamitʔick             qʷayaac̓ikm̓it,  waaʔaƛ. [“You kiɬɬed him!”]
+qaḥsaamitʔick             qʷayaac̓ikm̓it,  waaʔaƛ. [“You killed him!”]
 qaḥ-sa·p-it-ʔick          qʷayaːc̓ik-m̓i·t wa·-ʼaƛ ~
 dead-MOMCAUS-PAST-IND.2SG wolf-son.of    say-FIN ~
 you.killed.him            Son.of.Wolf    said    ~
@@ -739,7 +739,7 @@ haax̣aa, ƛ̓upiičiʔaƛ.      ƛ̓upaa,    qʷaaʔaƛ   ʔaḥʔaa, qʷayac�
 Now it became warm. It was so warm that the wolves were sweating like this.
 
 # 106
-čuu,     waaʔaƛ  č̓aaxstimcm̓it,     [You are surrounded by the woɬf. You had no way of try to escape. You kiɬɬed him!] qaḥsaapʔick.
+čuu,     waaʔaƛ  č̓aaxstimcm̓it,     [You are surrounded by the wolf. You had no way of try to escape. You killed him!] qaḥsaapʔick.
 čuː      wa·-ʼaƛ č̓aːstimc-<x>-m̓i·t ~                                                                                  qaḥ-sa·p-ʔick
 now.then say-FIN mink-MINK-son.of  ~                                                                                  dead-MOMCAUS-IND.2SG
 now.then said    Son.of.Mink       ~                                                                                  you.killed.him
@@ -869,7 +869,7 @@ if.only.I           if.only.I           ~             if.only.I           if.onl
 \tln What he meant was he wanted a bow and an arrow.
 
 # 125
-nunuuk. [He is singing away]
+nunuuk. [He is singing away] ,
 nunuːk  ~
 singing
 singing
@@ -883,7 +883,7 @@ if.only.I.have           if.only.I.have      ~
 [Song] “If only I reach _ho_…”
 
 # 127
-qʷaaʔamitii           [he had his bow ɬike that.]
+qʷaaʔamitii           [he had his bow like that.]
 qʷaː-ʼap-it-(y)iː     ~
 thus-CAUS-PAST-INDF.3 ~
 so.he.did             ~
@@ -1128,10 +1128,10 @@ heey c̓aačiƛ.
 Now the current started to flow.
 
 # 162
-ʔuḥʔat.        ʔuḥmatak̓aƛ            yaaqʷiɬʔitq             Coɬumba waaʔat,    [Coɬumba River] .
-ʔuḥ-ʼat        ʔuḥ-matak-ʼaƛ         yaqʷ-(č)iɬ-ʔi·tq        ~       wa·-ʼat    ~
-being.it-SHIFT being.it-probably-FIN which-with.ref.to-REL.3 ~       say-SHIFT  ~
-it.is.the.one  it.may.be             with.ref.to.which       ~       it.is.said ~
+ʔuḥʔat.        ʔuḥmatak̓aƛ            yaaqʷiɬʔitq             Columbia waaʔat,    [Columbia River] .
+ʔuḥ-ʼat        ʔuḥ-matak-ʼaƛ         yaqʷ-(č)iɬ-ʔi·tq        ~        wa·-ʼat    ~
+being.it-SHIFT being.it-probably-FIN which-with.ref.to-REL.3 ~        say-SHIFT  ~
+it.is.the.one  it.may.be             with.ref.to.which       ~        it.is.said ~
 This is the one — this is probably the one that it is called Columbia river.
 
 # 163
@@ -1657,8 +1657,8 @@ heey taaƛtaaya                    qʷaqʷaasʔi.
 Those people [the wolves are taking human shape now] poked at him repeatedly with sticks.
 
 # 238
-taamiiqƛ̓a,       xaw xaw xaw xaw.
-taː-miːqƛa       ~   ~ ~ ~
+taamiiqƛ̓a,       [xaw xaw xaw xaw] .
+taː-miːqƛa       ~
 poke-??          ~
 poke.into.a.hole
 They poked into the hole and [the mink cried], “_xaw xaw_…”
@@ -1692,7 +1692,7 @@ haa qax̣̣šiƛ̓isʔiš,            qaḥšiƛ̓iš       q̓ʷaaxtii, waa
 “Look! He is dead! _q̓ʷaaxtii_ is dead!” they said.
 
 # 243
-[Heʼs dead!] qaḥšiƛ.
+[He’s dead!] qaḥšiƛ.
 ~            qaḥ-ši(ƛ)
 ~            dead-MOM
 ~            died
@@ -1791,7 +1791,7 @@ died.it.is.said   one.who.always.say.nasty.things
 ″[You thought] the one with a bad mouth was dead!” [Mink yelled at them sarcastically].
 
 # 257
-ʔee qaḥtak  qʷaqʔisqač̓a      waaʔaƛ̓at        hask̓aamacʔi     [ɬitƛe crabs] .
+ʔee qaḥtak  qʷaqʔisqač̓a      waaʔaƛ̓at        hask̓aamacʔi     [little crabs] .
 ~   qaḥ-tak qʷaq-ʔis-qa·č̓a   wa·-ʼaƛ-ʼat     hask̓aːmac-ʔi·   ~
 ~   dead-?? ??-DIM-DUB.3     say-FIN-SHIFT   little.crab-DEF ~
 ~   ??      they.said.to.him the.little.crab ~
@@ -1805,10 +1805,10 @@ heey taačkʷaʔap̓ič              ḥiyiiḥi, waaʔaƛ.
 “I’ll wipe all of these little ones!” he said.
 
 # 259
-tuxʷiičiƛ         haʔukšiƛ,   xaw xaw                xaw  pisatšiʔaƛ ʔaḥ.
-tuxʷ-i·č-iƛ       haʔuk-ši(ƛ) ~   ~                  ~    pisat-ši(ƛ)-ʼaƛ
-jump-covering-MOM eat-MOM     ~   move.about-MOM-FIN this
-jumped.on         ate         ~   moved.around       this
+tuxʷiičiƛ         haʔukšiƛ,   [xaw xaw xaw] pisatšiʔaƛ         ʔaḥ.
+tuxʷ-i·č-iƛ       haʔuk-ši(ƛ) ~             pisat-ši(ƛ)-ʼaƛ
+jump-covering-MOM eat-MOM     ~             move.about-MOM-FIN this
+jumped.on         ate         ~             moved.around       this
 He jumped on them (the little crabs) and ate them all over the place.
 
 # 260
