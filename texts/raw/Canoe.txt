@@ -559,7 +559,7 @@ You are going to take it [the canoe] out of the woods.
 # 089
 ?u?u?iihh?at, ?un'aahh?at  yaayaquwa?aahhi.
 DUP-?u-'i:hh-'at ?u-n'a*hh-'at DUP:-yaqw-uwa-?a:hhi
-??-it-collecting-SHIFT it-seeking-SHIFT ??-who-acting.together.with-<
+??-it-collecting-SHIFT it-seeking-SHIFT ??-who-acting.together.with-??
 one.collects.it one.seeks those.who.help.with
 Find someone to help you.
 

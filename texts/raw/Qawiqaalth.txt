@@ -62,7 +62,7 @@ Men would go hunting.
 # 009
 ?acyuu, kwiikwiisahhi.
 ?ac-yu* DUP-kwis-sa*hhi
-go.out.hunting-done ??-different-<
+go.out.hunting-done ??-different-??
 be.out.hunting good.hunters
 Good hunters are out hunting.
 
@@ -559,7 +559,7 @@ now we.will.start.migrating said
 # 080
 ?ucahhtachi?atl, tuch'acsi?il.
 ?u-ca-hhta-chi(tl)-'atl tuch'a-csi?il
-it-go.to-out.to.sea-MOM-FIN east-<
+it-go.to-out.to.sea-MOM-FIN east-??
 headed.out.in.the.direction.of southeast
 They are headed in a general southeast direction.
 
@@ -713,7 +713,7 @@ Qawiqaalth prefers to go deeper [to keep away from the storm] rather than to sta
 # 102
 y'aaqnaq. y'aaqnaq qawiqaal. y'aaqnaq.
 y'a*q-naq y'a*q-naq qawiqa:l y'a*q-naq
-long-?? long-?? Qawiqaalth long-<
+long-?? long-?? Qawiqaalth long-??
 long.winded long.winded Qawiqaalth long.winded
 Qawiqaalth was long-winded. [He could stay much longer than the other sea lions.]
 
