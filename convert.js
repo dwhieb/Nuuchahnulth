@@ -7,6 +7,7 @@
   no-await-in-loop,
 */
 
+import alignWords        from '@digitallinguistics/word-aligner';
 import convertQuotes     from 'smartquotes';
 import { createRequire } from 'module';
 import fs                from 'fs-extra';
@@ -33,31 +34,41 @@ function convertText(text) {
   .map(u => u.split(newLineRegExp))
   .map(u => u.filter(Boolean))
   .map(u => u.map(line => line.trim()))
-  .map(([num, trs, morphemes, ...lines]) => {
+  .map(lines => {
 
-    if (trs.startsWith(`\\trs`)) {
-      return [num, convertQuotes(trs), morphemes, ...lines];
+    const [, transcript] = lines;
+
+    if (transcript.startsWith(`\\trs`)) {
+
+      const [num,, tln] = lines;
+
+      const trs = transcript.startsWith(`\\trs-en`) ?
+        convertQuotes(transcript) :
+        transliterate(transcript, substitutions);
+
+      return [num, trs, convertQuotes(tln)];
+
     }
+
+    const [num,, morphemes, glosses, literal, translation, note] = lines;
 
     return [
       num,
-      transliterate(trs, substitutions),
+      transliterate(transcript, substitutions),
       transliterate(morphemes, substitutions),
-      ...lines,
+      glosses,
+      literal,
+      convertQuotes(translation),
+      convertQuotes(note || ``),
     ];
 
   })
-  .map(u => {
-    let translation = u.pop();
-    translation     = convertQuotes(translation);
-    return [...u, translation];
-  })
-  .map(u => u.join(`\r\n`))
+  .map(u => u.join(`\r\n`).trim())
   .join(`\r\n\r\n`);
 
 }
 
-void async function convertFiles() {
+async function convertFiles() {
 
   await emptyDir(`texts/converted`);
 
@@ -88,4 +99,6 @@ void async function convertFiles() {
   await writeFile(`texts/combined-converted.txt`, combinedConvertedTexts);
   await writeFile(`texts/combined-raw.txt`, combinedRawTexts);
 
-}();
+}
+
+convertFiles().catch(console.error);
