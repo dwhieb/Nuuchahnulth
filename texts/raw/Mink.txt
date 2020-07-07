@@ -201,8 +201,8 @@ He departed.
 
 # 029
 yaacpanach, wikckwii sasaa?ii sayaap'inch ?ahh nism'a?i ?unahhit?itq, [North America], yaaqwil mamaln'i waa.
-yac-panach wik-ckwi* < saya-p'inch ?ahh nism'a-?i* ?una-hh-it-?i*tq ~ yaqw-(ch)il mamaln'i wa:
-step-move.about.randomly not-having.happened < far.off-?? this land-DEF that.much-size-PAST-REL.3 ~ which-with.ref.to white.man say
+yac-panach wik-ckwi* ?? saya-p'inch ?ahh nism'a-?i* ?una-hh-it-?i*tq ~ yaqw-(ch)il mamaln'i wa:
+step-move.about.randomly not-having.happened ?? far.off-?? this land-DEF that.much-size-PAST-REL.3 ~ which-with.ref.to white.man say
 go.for.a.walk didn't go.a.little.farther go.very.far this the.land as.large.as ~ in.ref.to.which white.man say
 He went for a walk: He didn't go very far in this land, which the white men call North America.
 
@@ -1794,7 +1794,7 @@ died.it.is.said one.who.always.say.nasty.things
 ?ee qahhtak qwaq?isqach'a waa?atl'at hask'aamac?i [little crabs].
 ~ qahh-tak qwaq-?is-qa*ch'a wa*-'atl-'at hask'a:mac-?i* ~
 ~ dead-?? ??-DIM-DUB.3 say-FIN-SHIFT little.crab-DEF ~
-~ < they.said.to.him the.little.crab ~
+~ ?? they.said.to.him the.little.crab ~
 "We thought you were dead!" said to him, the little crabs.
 
 # 258

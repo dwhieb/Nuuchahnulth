@@ -90,7 +90,7 @@ Qawiqaalth is from the far west.
 # 013
 hilin<atu waana?aal hhuu ?uuc'iqwa?i, hachliitlspa.
 hil-in<atu wa:-na-?a:l hhu: ?u:c'uqwa?i hachli:tl-spa
-there-towards.west say-1PL-always over.there < west-vicinity.of
+there-towards.west say-1PL-always over.there ?? west-vicinity.of
 way.far.west we.would.call over.there a.little.further westerly.position
 "_hiɬinʕatu_" is what we say to refer to a distant location in the west.
 
@@ -370,7 +370,7 @@ It was a couple.
 # 053
 wi?ii nasatlitsish ?aqi?ishtiik hhacxwintl'aqtl.
 wi-?i: nas-'atl-it-si*sh ?aqi?ishti:k hhacxwintl-'aqtl
-insufficient-reach try.in.vain-FIN-PAST-IND.1SG < deep.down-FUT
+insufficient-reach try.in.vain-FIN-PAST-IND.1SG ?? deep.down-FUT
 didnt.reach I.failed something go.deep.down
 I couldn't go far enough. I couldn't go much deeper (to get things from the deep water).
 
@@ -390,9 +390,9 @@ He dove into the water too.
 
 # 056
 ?uuwatltla, qawiqaal ?aqtl'i m'uksy'i.
-?u-(w)atl-tla* qawiqa:l < m'uksy'i
-it-find-again Qawiqaalth < rock
-found.it.again Qawiqaalth < rock
+?u-(w)atl-tla* qawiqa:l ?? m'uksy'i
+it-find-again Qawiqaalth ?? rock
+found.it.again Qawiqaalth ?? rock
 Qawiqaalth found rocks.
 
 # 057
@@ -621,9 +621,9 @@ Now, they are migrating far, far away.
 
 # 089
 ?uuy'ip'atlquu chaa, p'uu?i, tushkuuhh. tushkuuhh ?aya.
-?u-i:y'ip-'atl-qu: < p'u:?i tushku:hh tushku:hh ?aya
-it-obtain-FIN-COND.3 < halibut ling.cod ling.cod many
-caught < halibut ling.cod ling.cod many
+?u-i:y'ip-'atl-qu: ?? p'u:?i tushku:hh tushku:hh ?aya
+it-obtain-FIN-COND.3 ?? halibut ling.cod ling.cod many
+caught ?? halibut ling.cod ling.cod many
 [They got] plenty of cod.
 
 # 090
@@ -1256,7 +1256,7 @@ That was a beautiful, very beautiful beach. That's what my (GL's) father used to
 # 179
 ?uu?uu?uqukwis hhuul. ?ucpaa?i, yaaqwil?itq mamaln'i south waa, ?ucachitlckwi ?ahh?aa qawiqaal, south, waa, hachlatuqwak, westerly.
 ?u:-?u:-?u*q-ukw-?is hhu:l ?u-cpa*-?i* yaqw-(ch)il-?i*tq mamaln'i ~ wa* ?u-ca-chi(tl)-ckwi* ?ahh?a: qawiqa:l ~ wa: hachlatuqwak ~
-??-??-good-DUR-on.the.beach there it-go.over-DEF which-with.ref.to-REL.3 white.man ~ say it-go.to-MOM-happened that Qawiqaalth ~ and < ~
+??-??-good-DUR-on.the.beach there it-go.over-DEF which-with.ref.to-REL.3 white.man ~ say it-go.to-MOM-happened that Qawiqaalth ~ and ?? ~
 beautiful.beaches there on.the.other.side with.ref.to.which white.man ~ say must.have.gone that Qawiqaalth ~ and westerly ~
 There is a very beautiful beach down there on the other side — south, white men would say. Qawiqaalth must have gone there, down south and towards the west.
 
