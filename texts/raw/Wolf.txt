@@ -165,15 +165,15 @@ it.became.daylight
 It became daylight.
 
 # 024
-sa<aaquwa?ish.
-sa-<a:q-ulw-'a?-?i*sh?
+sa?_aaquwa?ish.
+sa-?_a:q-ulw-'a?-?i*sh?
 crawl-??-place.of-on.the.rock-IND.3
 it.is.the.place.for.the.wolf.ceremony
 This is the place for the Wolf Ceremony. {with picture}
 
 # 025
-nism'a hil?atl ?ahh sa<aaquwa?a.
-nism'a hil-'atl ?ahh sa-<a:q-ulw-'a*?a*
+nism'a hil?atl ?ahh sa?_aaquwa?a.
+nism'a hil-'atl ?ahh sa-?_a:q-ulw-'a*?a*
 land here-FIN this crawl-??-place.of-on.the.rock
 land there this place.for.the.wolf.ceremony
 There is a place here for the Wolf Ceremony.
@@ -242,8 +242,8 @@ he.knew that changed
 He noticed something was wrong [about his ritual].
 
 # 035
-takaas?atltla ?ahh hiitaahht'uul yaqii sa<aaquw'a?a.
-taka:s-'atl-tla* ?ahh hita-hht-'u*l yaqw-(y)i: sa-<a:q-ulw-'a*?a
+takaas?atltla ?ahh hiitaahht'uul yaqii sa?_aaquw'a?a.
+taka:s-'atl-tla* ?ahh hita-hht-'u*l yaqw-(y)i: sa-?_a:q-ulw-'a*?a
 still-FIN-again this there.MOM-move.downstream-on.the.rocks which-INDF.3 crawl-??-place.of-on.the.rock
 they.are.doing.the.same this come.down.frequently the.place.where have.the.wolf.ceremony
 They (the wolves) kept coming down to the place where they do their ritual.
@@ -312,7 +312,7 @@ they.did.a.Wolf.Ritual take.up.another
 They did the Wolf Ceremony with another person taking the place of the young man [who had been taken away by the wolves].
 
 # 045
-waa ?ahh?aa?atl, ch'apyii<atl hhaaw'ilatl. ch'apyiiq.
+waa ?ahh?aa?atl, ch'apyii?_atl hhaaw'ilatl. ch'apyiiq.
 wa: ?ahh?a:-'atl ch'ap-yi:q-'atl hha:w'ilatl ch'ap-yi:q
 and then-FIN canoe-travel.in-FIN young.man canoe-travel.in
 and then traveled.in.a.canoe young.man traveled.in.a.canoe
@@ -452,7 +452,7 @@ alert because peculiar strange strange day
 The people were alert because it was peculiar and strange — it was a strange day every day .
 
 # 065
-?aahh?asa wii<aqtl'al hishuk, wii<aqtl hinaas?at, hinaas, ?in ?uushhhii qwayac'iik?i.
+?aahh?asa wii?_aqtl'al hishuk, wii?_aqtl hinaas?at, hinaas, ?in ?uushhhii qwayac'iik?i.
 ?a:hh?asa wi:q-'aqtl-?a*l hish-uk wi:q-'aqtl hina:s-'at hina:s ?in ?u:sh-hhi* qwayac'i:k-?i*
 it.seems unpleasant-inside-PL all-DUR unpleasant-inside dwelling.on-SHIFT dwelling.on because something-DUR wolf-DEF
 it.seems they.were.depressed all depressed worried.about dwelling.on because strange the.wolves
@@ -480,8 +480,8 @@ used.to.sing.songs becoming.night
 He used to sing his song at night.
 
 # 069
-<ac'ikshitl hhaaw'ilatl'i ch'a?uy'ic qwi?ii?itq qwayac'iik?i, muwach.
-<ac'ik-shi(tl) hha:w'ilatl-?i* ch'a?ush-'i*c qwi-'i*c-?i*tq qwayac'i:k-?i* muwach
+?_ac'ikshitl hhaaw'ilatl'i ch'a?uy'ic qwi?ii?itq qwayac'iik?i, muwach.
+?_ac'ik-shi(tl) hha:w'ilatl-?i* ch'a?ush-'i*c qwi-'i*c-?i*tq qwayac'i:k-?i* muwach
 know.how.to-MOM young.man-DEF raw-eat that.which-eat-REL.3 wolf-DEF deer
 learned.how.to the.young.man eat.raw.food things.he.eats the.wolves deer
 The young man learned to eat raw food that wolves would eat, such as deer meat.
@@ -543,8 +543,8 @@ reach.the.tip the.isle the.mountain.range and returned going.back.the.same.trail
 He reached the tip of the island (= Vancouver Island) and the mountain range, and then they came back to the starting point, following the same route.
 
 # 079
-waa ?ucachi?atl hiy'athhuusitii <uc'uus?athh, <uc'uus?athh, w'apuukhh.
-wa: ?u=ca-chi(tl)-'atl hil-'athh-(w)u:si-it-(y)i: <uc'u:s?athh <uc'u:s?athh w'apu:khh
+waa ?ucachi?atl hiy'athhuusitii ?_uc'uus?athh, ?_uc'uus?athh, w'apuukhh.
+wa: ?u=ca-chi(tl)-'atl hil-'athh-(w)u:si-it-(y)i: ?_uc'u:s?athh ?_uc'u:s?athh w'apu:khh
 and it-go.to-MOM-FIN there-residing-REL.DUB.3-PAST-INDF.3 Otsosat Otsosat Wapuukh
 and they.went where.he.might.have.been.lived Otsosat Otsosat Wapuukh
 And then they went back to places where the young man lived, Otsosat and _w̓apuukḥ_.
@@ -571,7 +571,7 @@ reached.the.tip.of.the.isle went.to Nitinat
 They reached the [other] tip of the isle, to Nitinaht.
 
 # 083
-?aniyatlquuch wiinaputl tup<aqstu?atlquu.
+?aniyatlquuch wiinaputl tup?_aqstu?atlquu.
 ?ana-iya-'atl-qu:-ch wi:nap-u(tl) tupq-'aqstu(tl)-'atl-qu:
 only-at.times-FIN-COND.3-INF stopping-MOM dark-inside-FIN-COND.3
 only.time.they.would.do stop when.it.got.dark
@@ -620,8 +620,8 @@ this.is.how.long.it.took.along.the.coast four.months moon
 They traveled along the coast for four months.
 
 # 090
-chuu, wiinapu?atl ?uushsaac'u hilhhitii <a?uk ?iihh <a?ukwaq wiinaputl'al.
-chu: wi:nap-u(tl)-'atl ?u:sh-sa:c'u hil-(q)hh-it-(y)i: <a?uk ?i:hh <a?uk-aq wi:nap-utl-?a*l
+chuu, wiinapu?atl ?uushsaac'u hilhhitii ?_a?uk ?iihh ?_a?ukwaq wiinaputl'al.
+chu: wi:nap-u(tl)-'atl ?u:sh-sa:c'u hil-(q)hh-it-(y)i: ?_a?uk ?i:hh ?_a?uk-aq wi:nap-utl-?a*l
 now.then stopping-MOM-FIN somewhere-at.a.place there-SIM-PAST-INDF.3 lake big lake-big stopping-MOM-PL
 now.then they.had.stopped at.some.place wherever.there.was lake big huge.lake they.stopped
 Then they made stops at places where there was a big lake.
@@ -641,8 +641,8 @@ they.would.let.him.first eating then the.wolves they.ate
 Each time he was fed first, and then the wolves ate.
 
 # 093
-hiilaqsi?is?atlquuch qwayac'iik?i <a?uk?i, ?iihh <a?uk.
-hil-aqsi-?is-'atl-qu:-ch qwayac'i:k-?i* <a?uk-?i* ?ii:hh <a?uk
+hiilaqsi?is?atlquuch qwayac'iik?i ?_a?uk?i, ?iihh ?_a?uk.
+hil-aqsi-?is-'atl-qu:-ch qwayac'i:k-?i* ?_a?uk-?i* ?ii:hh ?_a?uk
 there-at.the.bank-on.the.beach-FIN-COND.3-INF wolf-DEF lake-DEF big lake
 stay.along.a.lake.shore the.wolf the.lake big lake
 The wolves would stop by the shoreline of a like, a big lake.
@@ -676,14 +676,14 @@ never kill it.is.said animal when.you.kill
 Never say "kill" when you kill animals.
 
 # 098
-qwaa y'uuqwaa <ahhmis. wiiy'aat qahhsaap waa?at,
-qwa: y'u:qwa: <ahhmis wi:y'a-'at qahh-sa*p wa:-'at
+qwaa y'uuqwaa ?_ahhmis. wiiy'aat qahhsaap waa?at,
+qwa: y'u:qwa: ?_ahhmis wi:y'a-'at qahh-sa*p wa:-'at
 so also mammals never-SHIFT dead-MOMCAUS say-SHIFT
 so also mammals never kill it.is.said
 It is the same with mammals. Never say "kill".
 
 # 099
-?uu<iichi?i. ?uu<iichi?apikqs wawaa.
+?uu?_iichi?i. ?uu?_iichi?apikqs wawaa.
 ?u:q-'i*chi-?i* ?u:q-'i*chi-'ap-ik-qs wawa:
 nice-INC?-IMP.2SG nice-INC?-CAUS-??-SUB.1SG say
 you.become.tame I.will.make.it.tame say
@@ -704,14 +704,14 @@ Wolves would say that lisping.
 "_ʔuʔiič̓eepiks_, _ʔuʔiič̓eepiks_" — that is how wolves would talk.
 
 # 102
-wik qwaa qwaaqin chamihhta niiw'a ciiqciiqa ?u<iichi?atikqs.
+wik qwaa qwaaqin chamihhta niiw'a ciiqciiqa ?u?_iichi?atikqs.
 wik qwa: qwa:-qin chamihhta ni:w'a DUP#-ciq-a* ?u:q-'i*chi-'ap-ik-qs
 not thus thus-REL.1PL properly we IT-speak-REP nice-INC?-CAUS-??-SUB.1SG
 not thus like.us properly we speaking I.will.make.it.tame
 They are unlike us who speak properly as "_ʔuʕiičiʔatikqs_".
 
 # 103
-?u<iichi?atikqs waa waanaa niiw'a.
+?u?_iichi?atikqs waa waanaa niiw'a.
 ?u:q-'i*chi-'ap-ik-qs wa: wa*-na* ni:w'a
 nice-INC?-CAUS-??-SUB.1SG say say-1PL we
 I.will.make.it.tame say we.say we
@@ -739,8 +739,8 @@ now.then they.departed departed
 Now they departed.
 
 # 107
-?u?iiyis ?achaq?ishtiik hii<ii?athh, hil qii.
-?u-?i*ya-?is ?achaq-?isht-(y)i:k hu:<i:?athh hil qi:
+?u?iiyis ?achaq?ishtiik hii?_ii?athh, hil qii.
+?u-?i*ya-?is ?achaq-?isht-(y)i:k hu:?_i:?athh hil qi:
 it-reach-on.the.beach who-??-INDF.2SG Ohiat there for.a.long.time
 landed.on.the.beach place.called Ohiat there for.a.long.time
 They went to a seaside village called Ohiat and stayed there for quite a while.
@@ -760,15 +760,15 @@ hear they.are.afraid because strange the.wolves ~ making.strange.noise when.they
 They heard him (the wolves) and got afraid because the wolves were strange, making strange noise when they howled.
 
 # 110
-qwii<atl'atlquuch ?ahh muup'it<atl, woo
-qwi-<atl-'atl-qu:-ch ?ahh mu:-p'it-<atl ~
+qwii?_atl'atlquuch ?ahh muup'it?_atl, woo
+qwi-?_atl-'atl-qu:-ch ?ahh mu:-p'it-?_atl ~
 what-make.sound-FIN-COND.3-INF this four-times-make.sound ~
 how.they.would.sound this sounded.four.times ~
 They sounded like this for four times: _woo_.
 
 # 111
-qwii<in ?ahh, muup'it<atl.
-qwi-<in ?ahh mu:-p'it-<atl mu:-p'it-<atl
+qwii?_in ?ahh, muup'it?_atl.
+qwi-?_in ?ahh mu:-p'it-?_atl mu:-p'it-?_atl
 what-make.sound this four-times-make.sound four-times-make.sound
 how.it.sounds this sounded.four.times sounded.four.times
 This is how they sounded and they did it four times.
@@ -781,8 +781,8 @@ it.was.strange said
 "It's very strange," they said.
 
 # 113
-hashil?atl <imtnaak <imtnaak hhaaw'ilatl'i.
-hashil-'atl <imt-na*k <imt-na*k hha:w'ilatl-?i*
+hashil?atl ?_imtnaak ?_imtnaak hhaaw'ilatl'i.
+hashil-'atl ?_imt-na*k ?_imt-na*k hha:w'ilatl-?i*
 hear.about-FIN name-having name-having young.man-DEF
 knew having.a.name having.a.name the.young.man
 They knew that the young man had a name (the young man had been initiated).
@@ -907,8 +907,8 @@ threw.a.spear they.would.miss.him some.would it.would.glanced.off
 They threw spears at him (the young man) but couldn't get direct hits: some just glanced off.
 
 # 131
-hil?anitwa?ish <aa?ii?at ?ahh. ?iihh <aa?ii
-hil-'at-it-wa*?i*sh <a:?i:-'at ?ahh ?i:hh <a:?i:
+hil?anitwa?ish ?_aa?ii?at ?ahh. ?iihh ?_aa?ii
+hil-'at-it-wa*?i*sh ?_a:?i:-'at ?ahh ?i:hh ?_a:?i:
 there-POSS-PAST-QUOT.3 scar-POSS this big scar
 it.was.the.place his.scar this big scar
 This [referring to the upper arm] is where his car was. It was a big scar.
@@ -950,7 +950,7 @@ _n̓upčiiɬ_ is "one day".
 
 # 137
 hinasi?atl hu?ap'in ?u?ii?as hiiltqyaap'ii?as?i
-hin-as-i(tl)-'atl hu?a-p'in ?u-?i:-'as hil-tqya:p'i:-'as-?i* <upnit
+hin-as-i(tl)-'atl hu?a-p'in ?u-?i:-'as hil-tqya:p'i:-'as-?i* ?_upnit
 there.MOM-reaching.to-MOM-FIN back-?? it-reach-on.the.ground there-??-in.the.village?-DEF Opnit
 reached circle.around landed behind.the.village Opnit
 They had come all the way back to the spot behind the Opnit village.
@@ -1119,7 +1119,7 @@ The wolves crawled out of the woods to the rocky point.
 # 161
 hil?atl kwiikwiisahhi histakshitl, hishsy'ihhtaqshitl.
 hil-'atl DUP-kwis-?? hist-ak-shi(tl) hish-sy'i-hht-taq-shi(tl)
-there-FIN DISTR-different-?? there-DUR-MOM all-??-<-come.from-MOM
+there-FIN DISTR-different-?? there-DUR-MOM all-??-?_-come.from-MOM
 there best.hunteres be.at.the.place came.from.everywhere
 The best hunters were there, coming from everywhere.
 
@@ -1133,20 +1133,20 @@ The hunters threw spears and they aimed their spears at his shoulder.
 # 163
 kiitxukchikmatakckwi?aal hamuut.
 kitxw-uk-chik-matak-ckwi*-?a:l hamu:t
-scrape.off-??-<-probably-done-always bone
+scrape.off-??-?_-probably-done-always bone
 would.probably.have.scraped.the.target bone
 Spears might have [penetrated his skin and] scraped his bone [but they didn't make any serious damage on the bone].
 
 # 164
-nay'iik qwayac'iik?i nakshitl <aa?ii.
-nay'i:k qwayac'i:k-?i* nak-shi(tl) <a:?i:
+nay'iik qwayac'iik?i nakshitl ?_aa?ii.
+nay'i:k qwayac'i:k-?i* nak-shi(tl) ?_a:?i:
 at.once wolf-DEF lick-MOM scar
 at.once the.wolves licked scar
 [Whenever the young man got wounded,] the wolves immediately licked the wound.
 
 # 165
-?aahh?asa <uy'inakquu.
-?a:hh?asa <uy'i-na*k-qu:
+?aahh?asa ?_uy'inakquu.
+?a:hh?asa ?_uy'i-na*k-qu:
 it.seems medicine-having-COND.3
 it.seems as.if.they.had.medicine
 It seems as though they had medicine.
@@ -1194,15 +1194,15 @@ didnt.know where.they.had.gone the.wolves go.into.woods
 They didn't know where those wolves had gone in the woods.
 
 # 172
-maasuulshi?atltla muup'it<atl,
-ma:su:l-shi(tl)-'atl-tla* mu:-p'it-<atl
+maasuulshi?atltla muup'it?_atl,
+ma:su:l-shi(tl)-'atl-tla* mu:-p'it-?_atl
 howl-MOM-FIN-again four-times-make.sound
 they.howled.again sounded.four.times
 Again they howled four times.
 
 # 173
-[?wooo wooo wooo wooo], qwi<atl ?ahh?aa.
-~ qwi-<atl ?ahh?a:
+[?wooo wooo wooo wooo], qwi?_atl ?ahh?aa.
+~ qwi-?_atl ?ahh?a:
 ~ that.which-make.sound that
 ~ how.it.sounded that
 _woo_ _woo_ _woo_ _woo_ — this is how they sounded.
@@ -1257,8 +1257,8 @@ he doing.that only.eat fat and plants what.he.was.given wolf
 He only ate blubber and plants that he was fed by the wolves.
 
 # 181
-<uy'aatl tlah. ?atlakwaltaqiml <uy'i
-<uy'i-a:tl tlahh ?atlakwal-taqiml <uy'i
+?_uy'aatl tlah. ?atlakwaltaqiml ?_uy'i
+?_uy'i-a:tl tlahh ?atlakwal-taqiml ?_uy'i
 medicine-?? now eight-bundle medicine
 became.medicine now eight.bundles medicine
 Now there was medicine — eight bundles of medicine.
@@ -1271,8 +1271,8 @@ Now there was medicine — eight bundles of medicine.
 Eight kinds.
 
 # 183
-?u?inhh?is ?ahh <uy'i, herbs, [eight bundles].
-?u-?inhh-?is ?ahh <uy'i ~ ~
+?u?inhh?is ?ahh ?_uy'i, herbs, [eight bundles].
+?u-?inhh-?is ?ahh ?_uy'i ~ ~
 it-size?-DIM this medicine ~ ~
 being.small this medicine ~ ~
 These medicines were small — these herbs, eight bundles.
@@ -1299,8 +1299,8 @@ then when.they.do.Wolf.Ritual was.taken.to it.is.said was.taken.to Checleset was
 Then during the Wolf Ceremony, they announced that he had been taken away to Checleset, to Machalat, to Nuchalath, and there to the land on the other shore.
 
 # 187
-?uhhuk?al tlawaamaan'uu?is?athh, t'ukw'aa?athh, yuulu?il?athh, waa huu<i?athh,
-?uhh-uk-?a*l tlawa: ma:n'u:?is?athh t'ukw'a:?athh yu:lu?il?athh wa: hu:<i?athh
+?uhhuk?al tlawaamaan'uu?is?athh, t'ukw'aa?athh, yuulu?il?athh, waa huu?_i?athh,
+?uhh-uk-?a*l tlawa: ma:n'u:?is?athh t'ukw'a:?athh yu:lu?il?athh wa: hu:?_i?athh
 being.it-POSS-PL near Manhousat Toquaht Ucluelet and Ohiat
 it.is.his close Mahousat Toquaht Ucluelet and Ohiat
 Manhousats were close to Toquaht, Ucluelet, and Ohiat.
@@ -1315,7 +1315,7 @@ They are close to us.
 # 189
 qwaatlaa niitiina?athh. ?aya ?uuy'aashhhy'ims. hha?ii niiyaa, ?uuy'aashhy'ims. yaaqwil?itq relatives waa?at. relation. hha?ii.
 qwa:tla: ni:ti:na?athh ?aya ?u:y'a:sh-hhy'u*-ims hha-?i: ni:ya: ?u:y'a:sh-hhy'u*-ims yaqw-(ch)il-?i*tq ~ wa:-'at ~ hha-?i:
-also Nitinat many<-related.to-?? completely-reach Neah.Bay<-related.to-?? who-with.ref.to-REL.3 ~ say-SHIFT ~ completely-reach
+also Nitinat many?_-related.to-?? completely-reach Neah.Bay?_-related.to-?? who-with.ref.to-REL.3 ~ say-SHIFT ~ completely-reach
 also Nitinat many relatives as.far.as Neah.Bay relatives to.whom ~ it.is.said ~ go.all.the.way
 Also Nitinat [are close]. There are many relatives. All the way down to Neah Bay there are our relatives.
 
@@ -1348,8 +1348,8 @@ also young.man make.proposal went.there the.chief one.who.has.a.daughter
 On the other hand, when a young man gets his wife, [his delegates] go to the chief who has a daughter. (= On the other hand, a young man proposes by going to the chief who has a daughter.)
 
 # 194
-?uustukhh wikmahhsap pawalshitl <imtii.
-?u-stukhh wik-mahhsa-'ap pawal-shi(tl) <imti:
+?uustukhh wikmahhsap pawalshitl ?_imtii.
+?u-stukhh wik-mahhsa-'ap pawal-shi(tl) ?_imti:
 it-for.the.reason.of not-desiring.to-CAUS lost-MOM name
 so.that so.it.wouldnt get.lost name
 [They do that] so that their name will not be lost.
@@ -1411,8 +1411,8 @@ I.was.bathing
 I was bathing.
 
 # 202
-hiiniic yaqukwitiis <iniitl, <iniitl Adanac ?uklaa.
-hin-i:c yaqw-ukw-it-(y)i:s <ini:tl <ini:tl ~ ?u-kla*
+hiiniic yaqukwitiis ?_iniitl, ?_iniitl Adanac ?uklaa.
+hin-i:c yaqw-ukw-it-(y)i:s ?_ini:tl ?_ini:tl ~ ?u-kla*
 there.MOM-?? which-POSS-PAST-INDF.1SG dog dog ~ it-having.as.name
 take.along I.had.before dog dog ~ being.named
 I was taking along the dog I had before, whose name as Adanac.
@@ -1425,8 +1425,8 @@ he.would.sit.there.on.the.ground there bathing
 There he was sitting on the ground while I was bathing.
 
 # 204
-?uyaasila <iniitl'i.
-?uya:-sila <ini:tl-?i*
+?uyaasila ?_iniitl'i.
+?uya:-sila ?_ini:tl-?i*
 peculiar-act.like dog-DEF
 act.strangely the.dog
 There was something wrong with the dog.

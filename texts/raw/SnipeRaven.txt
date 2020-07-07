@@ -13,8 +13,8 @@ he.went.for.a.walk.they.say Son.of.Raven as.he.usually.did when.he.got.hungry
 Son of Raven went for a walk as he usually did when he got hungry.
 
 # 002
-<ac'ikckwi ?uuwatl hil?aahhi ha?uk haw'iiqstu?atlquu.
-<ac'ik-ckwi* ?u-watl hil-?a:hhi ha?uk haw'i:qstu(tl)-'atl-qu:
+?_ac'ikckwi ?uuwatl hil?aahhi ha?uk haw'iiqstu?atlquu.
+?_ac'ik-ckwi* ?u-watl hil-?a:hhi ha?uk haw'i:qstu(tl)-'atl-qu:
 know.how.to-happened it-find there-?? eat get.hungry-FINITE-COND
 he.knew.how found where.he.can eat when.he.got.hungry
 He knew how to find a place where he could get food when he got hungry.
@@ -104,8 +104,8 @@ take the.bowl stepped.into.the.container
 He took the bowl and stepped into it.
 
 # 015
-sukwi?atl m'uksy'i, hisshi?atl <ishii?at?i.
-sukwi(tl)-'atl m'uksy'i his-shi(tl)-'atl <ishi:-'at-?i*
+sukwi?atl m'uksy'i, hisshi?atl ?_ishii?at?i.
+sukwi(tl)-'atl m'uksy'i his-shi(tl)-'atl ?_ishi:-'at-?i*
 take-FINITE stone beat-MOM-FINITE shin-POSS-DEF
 took stone hit his.shin
 Then he took a rock and hit his shin bone.
@@ -160,8 +160,8 @@ they.did.it.to.his.thing.again filled.up.his.thing it.took.a.short.time.again em
 They filled his dish again, and again he finished them in no time.
 
 # 023
-haahaaw'apu?atl'um, puu<al?atuuchitl, c'itkpitl wa?ichutl.
-DUPCV:-haw'a-api-u(tl)-'atl-?um pu<al?atu-`i*chitl c'itkw-`pitl wa?ich-utl
+haahaaw'apu?atl'um, puu?_al?atuuchitl, c'itkpitl wa?ichutl.
+DUPCV:-haw'a-api-u(tl)-'atl-?um pu?_al?atu-`i*chitl c'itkw-`pitl wa?ich-utl
 DISTR?-eat-excessively-MOM-FINITE-as.usual get.sleepy-INC roll.over-on.the.bed sleeping-MOM
 he.ate.too.much.as.usual getting.sleepy lie.down.on.the.bed slept
 He ate too much as usual. He got sleepy, lay down and went to sleep.
@@ -272,36 +272,36 @@ stepped.into.the.container the.bowl Son.of.Raven take stone
 Son of Raven stepped into the bowl, and took a rock.
 
 # 039
-hisshi?atl, hisshitl <ishii?at?i, wik'iit nixtinquu.
-his-shi(tl)-'atl his-shitl <ishi:-'at-?i* wik'i:t nixtin-qu:
+hisshi?atl, hisshitl ?_ishii?at?i, wik'iit nixtinquu.
+his-shi(tl)-'atl his-shitl ?_ishi:-'at-?i* wik'i:t nixtin-qu:
 beat-MOM-FINITE beat-MOM shin-POSS-DEF none.present salmon.eggs-COND
 hit hit his.shin none.present salmon.roes
 He hit and hit his shin bone, but there was no egg.
 
 # 040
-waalak <aa<iqshitla, xwakshi?atl'at <ishii.
-wa:lak DUPCV:-<iq-shitl-(y)a xwak-shi(tl)-'atl-'at <ishi:
+waalak ?_aa?_iqshitla, xwakshi?atl'at ?_ishii.
+wa:lak DUPCV:-?_iq-shitl-(y)a xwak-shi(tl)-'atl-'at ?_ishi:
 gradually REP-do.it.hard?-GRAD-REP swollen-MOM-FINITE-POSS shin
 gradually start.to.do.it.harder.and.harder his.got.swollen shin
 He started to hit harder and harder, and his shin got swollen.
 
 # 041
-wim'aaqst?atl wik<atlquu, ?aaw ?aaw ?aaw ?aaw wawaa tuxtuxmis suu <ishii?at?i.
-wim'a:qstu(tl)-'atl wik-<atl-qu: ?a:w ?a:w ?a:w ?a:w wawa: DUP#-tuxw-mi*s su: <ishi:-'at-?i*
+wim'aaqst?atl wik?_atlquu, ?aaw ?aaw ?aaw ?aaw wawaa tuxtuxmis suu ?_ishii?at?i.
+wim'a:qstu(tl)-'atl wik-?_atl-qu: ?a:w ?a:w ?a:w ?a:w wawa: DUP#-tuxw-mi*s su: ?_ishi:-'at-?i*
 become.unable.to-FINITE not-make.sound-COND EXP EXP EXP EXP say REP-jump-move.about.on.the.beach hold shin-POSS-DEF
 he.became.unable.to keep.silent EXP EXP EXP EXP say jumped.around.on.the.beach hold his.shin
 He couldn't keep quiet any longer, and said "ouch, ouch, ouch, ouch" as he hopped around  holding his shin.
 
 # 042
-wiiy'a?aash <am'aakw'al qu?ushinm'it, waanaak'atl'al, c'iic'ik'iik, walkwachitl tl'iiw'aaqichiilqchik.
-wi:y'a-?a:sh <am'a:kw'al qu?ushin-m'i*t wa*-na*k-'atl-?a*l DUPCV-c'i:k-'i:k wal-kwa-chitl tl'i:xw-'a*qa-ichi:l-qchik
+wiiy'a?aash ?_am'aakw'al qu?ushinm'it, waanaak'atl'al, c'iic'ik'iik, walkwachitl tl'iiw'aaqichiilqchik.
+wi:y'a-?a:sh ?_am'a:kw'al qu?ushin-m'i*t wa*-na*k-'atl-?a*l DUPCV-c'i:k-'i:k wal-kwa-chitl tl'i:xw-'a*qa-ichi:l-qchik
 never-INF.3 know.the.consequence raven-son.of say-having-FINITE-PL REP-imitate-always.doing go.home-dispersed-MOM laugh-severally-IT.INC-doing.while.goin
 he.sure.doesnt know.the.consequence Son.of.Raven some.of.them.said imitator they.went.their.own.ways.to.home they.started.laughing.as.they.did.so
 "Son of Raven certainly never learns," someone said. "Copy cat," they kept laughing as they went home.
 
 # 043
-?unw'iitlhhwa?ish xwakyuu?at <ishii qu?ushinm'it.
-?unw'i:tl-(q)hh-wa*?i*sh xwak-yu*-'at <ishi: qu?ushin-m'i*t
+?unw'iitlhhwa?ish xwakyuu?at ?_ishii qu?ushinm'it.
+?unw'i:tl-(q)hh-wa*?i*sh xwak-yu*-'at ?_ishi: qu?ushin-m'i*t
 because.of-SIM-QUOT.3 swollen-done-POSS ankle raven-son.of
 being.the.reason his.is.swollen ankle Son.of.Raven
 That is the reason Son of Raven's ankle is swollen.

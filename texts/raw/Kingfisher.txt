@@ -123,8 +123,8 @@ we.are.looking.for fur it.is.said
 They said [to the people of the village], "We want to get fur,
 
 # 018
-haptuup. <ahhmis, <ahhmis waa?attla hhaal, histaqshitl'i tup'al.
-hap-tu*p <ahhmis <ahhmis wa:-'at-tla* hha:l his-taq-shi(tl)-?i* tup'al
+haptuup. ?_ahhmis, ?_ahhmis waa?attla hhaal, histaqshitl'i tup'al.
+hap-tu*p ?_ahhmis ?_ahhmis wa:-'at-tla* hha:l his-taq-shi(tl)-?i* tup'al
 fur-thing sea.mammal sea.mammal say-SHIFT-again there there.MOM-come.from-MOM-DEF sea
 fur sea.mammal sea.mammal also.said there one.that.come.from sea
 the fur of sea mammals there from the ocean,
@@ -298,8 +298,8 @@ wore.uniform sometimes great leader one.in.charge the.ship
 A high-ranking leader, i.e., captain of the ship, would sometimes dress up [in his uniform].
 
 # 043
-<ihhak luucma?i hinii?as. <ihhak.
-<ihh-ak lu:cma-?i* hin-i:?as <ihh-ak
+?_ihhak luucma?i hinii?as. ?_ihhak.
+?_ihh-ak lu:cma-?i* hin-i:?as ?_ihh-ak
 cry-DUR woman-DEF there.MOM-go.outside cry-DUR
 crying the.woman go.out crying
 The woman came out crying.
@@ -396,7 +396,7 @@ sank.down sank.down
 "It (the English Navy ship) sank into the water! The ship sank!"
 
 # 057
-p'at<ahhs, qwiqitii m'uch'ichtup.
+p'at?_ahhs, qwiqitii m'uch'ichtup.
 p'atqw-'ahhs qwiq-it-(y)i: m'uch'ich-tu*p
 load-in.a.vessel what-PAST-INDF.3 clothed-thing
 having.load.in.a.canoe whatever.they.might.have.been clothes
@@ -424,8 +424,8 @@ NAME being.named
 The place is called _wiiḥaaqsusiis_.
 
 # 061
-chuu, tl'aa?inu?at'al, tl'aa?intl, n'u<asaqhh, <aahhuus, hitaaqtlis.
-chu: tl'a:-?inu-'atl-?a*l tl'a:-?in(tl) n'u<asaqhh <a:hhu:s hita:qtlis
+chuu, tl'aa?inu?at'al, tl'aa?intl, n'u?_asaqhh, ?_aahhuus, hitaaqtlis.
+chu: tl'a:-?inu-'atl-?a*l tl'a:-?in(tl) n'u?_asaqhh ?_a:hhu:s hita:qtlis
 now.then outside-MOM-FIN-PL outside-MOM NAME NAME NAME(?)
 now.then they.went.outside went.out NAME NAME NAME
 Then they went out to the open sea to _n̓uʕasaqḥ_, Ahous, or _hit:qƛis_. (?)
@@ -438,22 +438,22 @@ NAME being.it homeland
 Chetarpe was their home village.
 
 # 063
-ch'itaapi ?ahh ?aq?ishtiik, hiluk?al mama?uu, waa qilcma<athh.
-ch'ita:pi ?ahh ~ hil-uk-?a*l DUP-ma-'u: wa* qilcma<athh
+ch'itaapi ?ahh ?aq?ishtiik, hiluk?al mama?uu, waa qilcma?_athh.
+ch'ita:pi ?ahh ~ hil-uk-?a*l DUP-ma-'u: wa* qilcma?_athh
 NAME here here-POSS-PL DISTR-dwell-camp.out.for and Kelsomat
 NAME here this.is.their set.up.summer.camps.for.fishing and Kelsomat
 Chetarpe was the place where they (Ahousaht people) had their summer camp for fishing. And so did Kelsomats.
 
 # 064
-waa tl'aa?aathh qilcma<athh.
-wa: tl'a:?a:-'athh qilcma<athh
+waa tl'aa?aathh qilcma?_athh.
+wa: tl'a:?a:-'athh qilcma?_athh
 and outside-people.from Kelsomat
 and people.from.outside Kelsomat
 We call Kelsomats "people from outside".
 
 # 065
-wik, wik, wik niiy'aaqsta qilcma<athh qwis?iitq <aahhuus?athh.
-wik wik wik hil-'a*qsta qilcma<athh qwis-?i*tq <a:hhu:s?athh
+wik, wik, wik niiy'aaqsta qilcma?_athh qwis?iitq ?_aahhuus?athh.
+wik wik wik hil-'a*qsta qilcma?_athh qwis-?i*tq ?_a:hhu:s?athh
 not not not there-amongst Kelsomat do.so-REL.3 Ahousaht
 not not not among.them Kelsomat what.they.did Ahousaht
 [Although they had the camp there with the Ahousahts,] the Kelsomat didn't take part in the business of the Ahousaht band.
@@ -466,8 +466,8 @@ annihilate annihilate the.people.on.the.schooner
 They (Ahousahts) killed all the crewmen on the schooner.
 
 # 067
-wik ?unic, ?unicitii, hitasatl, ch'apac, <aahhuus.
-wik ?unic ?unic-it-(y)i: hita-`sa(tl) ch'apac <a:hhu:s
+wik ?unic, ?unicitii, hitasatl, ch'apac, ?_aahhuus.
+wik ?unic ?unic-it-(y)i: hita-`sa(tl) ch'apac ?_a:hhu:s
 not time.taken time.taken-PAST-INDF.3 there.MOM-on.the.beach canoe Ahous
 not took.long however.long.it.took land.on.the.beach canoe Ahous
 Soon after the incident a canoe came to the beach of Ahous.
@@ -501,15 +501,15 @@ only.time.it.is.done properly in.a.short.time when.westerly.wind.is.blowing thus
 They only time you can quickly get there (Neah Bay) is when a westerly wind is blowing. On the way back, a southeast wind.
 
 # 072
-?unicitii. tl'iipitl, <aahhuus?athh. tliipitl.
-?unic-it-(y)i: tl'i:-pi(tl) <a:hhu:s?athh tl'i:-pi(tl)
+?unicitii. tl'iipitl, ?_aahhuus?athh. tliipitl.
+?unic-it-(y)i: tl'i:-pi(tl) ?_a:hhu:s?athh tl'i:-pi(tl)
 time.taken-PAST-INDF.3 partaking.in.the.feast-in.the.house Ahousaht partaking.in.the.feast-in.the.house
 however.long.it.took partaking.in.the.feast Ahousaht partaking.in.the.feast
 After some time [of traveling on the ocean they finally got there, and] Ahousaht people partook in a feast.
 
 # 073
-wichsila?aash quu?as?i, ?iinaxyu, ?ukwich ?iinaxyu, Admiral waacim<at m'uch'ichtupukwitquu.
-wich-sila-<a:sh qu:?as-?i* ?i:nax-yu* ?u-kw'ich ?i:nax-yu* ~ wa:-?? m'uch'ich-tu*p-uk-it-qu:
+wichsila?aash quu?as?i, ?iinaxyu, ?ukwich ?iinaxyu, Admiral waacim?_at m'uch'ichtupukwitquu.
+wich-sila-?_a:sh qu:?as-?i* ?i:nax-yu* ?u-kw'ich ?i:nax-yu* ~ wa:-?? m'uch'ich-tu*p-uk-it-qu:
 improper?-act.like-INF.3 person-DEF dressed.up-done it-clothed.in dressed.up-have.done ~ say-?? clothed-thing-POSS-PAST-COND.3
 do.the.wrong the.man dressed.up wearing dressed.up ~ how.you.could.call clothes.that.used.to.be.his
 An [Ahousaht] man made a mistake: he was dressed up in the Admiral's clothing.
@@ -662,8 +662,8 @@ sailing
 They were sailing.
 
 # 095
-?u?umhhichitl, hitaquu?a <aahhuus, c'iiqaa. c'iiqaa.
-?u?umhhi-chi(tl) hita-qu:-'a* <a:hhu:s c'i:q-(y)a* c'i:q-(y)a*
+?u?umhhichitl, hitaquu?a ?_aahhuus, c'iiqaa. c'iiqaa.
+?u?umhhi-chi(tl) hita-qu:-'a* ?_a:hhu:s c'i:q-(y)a* c'i:q-(y)a*
 just.right-MOM there.MOM-at.a.point-on.the.rock Ahous chant-CONT chant-CONT
 reach.just.in.time be.at.the.point Ahous chanting chanting
 They got to Ahous Point just in time. They were singing [a paddling song].
@@ -704,22 +704,22 @@ moved.into.the.inlet moved.into.the.inlet
 [And] they all headed for the inlets.
 
 # 101
-hach'a hha?iichhhshi?atlit, ?in <aakwaasht ?ukwiilckwat tl'uukwil ?aya.
-hach'a hha?i:chhh-shi(tl)-'atl-it ?in <a:kw-a*sht ?u-kwi:l-ckwi*-'at tl'u:-kwil ?aya
+hach'a hha?iichhhshi?atlit, ?in ?_aakwaasht ?ukwiilckwat tl'uukwil ?aya.
+hach'a hha?i:chhh-shi(tl)-'atl-it ?in ?_a:kw-a*sht ?u-kwi:l-ckwi*-'at tl'u:-kwil ?aya
 maybe September-MOM-FIN-PAST because dog.salmon-dried.food it-make-done-SHIFT drying-?? many
 maybe it.was.in.September because dried.salmon they.made drying many
 Maybe it was in September, since many people were making dried salmon [in the village].
 
 # 102
-?ucachitl, c'ikt'aqis, muchachilhh, wap'uuqhh, <aahhuus?athh.
-?u-ca-chi(tl) c'ikt'aqis muichachilhh wap'u:qhh <a:hhu:s?athh
+?ucachitl, c'ikt'aqis, muchachilhh, wap'uuqhh, ?_aahhuus?athh.
+?u-ca-chi(tl) c'ikt'aqis muichachilhh wap'u:qhh ?_a:hhu:s?athh
 it-go.to-MOM Atheo.River Pretty.Girl.Cove Magin.River Ahousaht
 went.there Atheo.River Pretty.Girl.Cove Magin.River Ahousaht
 The Ahousahts went to Atheo River, Pretty Girl Cove, and the Magin River area.
 
 # 103
-wa?uus. wa?uus hiilsasak?al mama?uu, <aahhuus?athh wa?uuc.
-wa?u:s wa?u:s hil-sasa-?a*k-?a*l DUP-ma-'u* <a:hhu:s?athh wa?u-i:c
+wa?uus. wa?uus hiilsasak?al mama?uu, ?_aahhuus?athh wa?uuc.
+wa?u:s wa?u:s hil-sasa-?a*k-?a*l DUP-ma-'u* ?_a:hhu:s?athh wa?u-i:c
 Wahous Wahous here-real-POSS-PL DISTR-dwell-camp.out.for Ahousaht ??-belonging.to
 Wahous Wahous their.real.place summer.camp.for.fishing Ahousaht belongs.to.them
 Wahous was the base summer camp from the Ahousahts.
@@ -781,8 +781,8 @@ Tofino British.soldiers anchored British.soldiers
 The British Navy anchored at Tofino [which is just across from the Opetchesaht area].
 
 # 112
-wiina <aahhuus?athh ?uuciy'uk. wiksan'apw'it'as.
-wi:na <a:hhu:s?athh ?u:-ci*y'uk wik-san'ap-w'it'as
+wiina ?_aahhuus?athh ?uuciy'uk. wiksan'apw'it'as.
+wi:na ?_a:hhu:s?athh ?u:-ci*y'uk wik-san'ap-w'it'as
 invade Ahousaht it-going.to not-MOMCAUS?-about.to
 invade Ahousaht going.to there.going.to.be.nobody.left
 They were going to invade the Ahousaht people. There was going to be nobody left.
@@ -830,7 +830,7 @@ fled and fled.in.all.directions
 They got scared and fled in all directions.
 
 # 119
-puuqtl'itl, kamat<aqtl'itl. kamat<aqtl'itl.
+puuqtl'itl, kamat?_aqtl'itl. kamat?_aqtl'itl.
 pu-'a*qtl'i(tl) kamatq-'a*qtl'i(tl) kamatq-'a*qtl'i(tl)
 running.as.a.group-in.the.woods running-in.the.woods running.in.the.woods
 fled.into.the.woods ran.in.the.woods ran.in.the.woods
@@ -893,15 +893,15 @@ running.across
 He ran over the hill to the other side of the island.
 
 # 128
-kaamat<iihhshi?at.
+kaamat?_iihhshi?at.
 kamatqw-'i:hh-shi(tl)-'at
 running-pursuing-MOM-SHIFT
 they.are.running.after.him
 They (the British soldiers) ran after him (_qaaḥma_).
 
 # 129
-qaahhma ?uklaamit, yaqitii t'an'ackwi, qaahhma. saa<a?aal.
-qa:hhma ?u-kla*-mit yaq-it-(y)i: t'an'a-ckwi* qa:hhma sa:<a?a:l
+qaahhma ?uklaamit, yaqitii t'an'ackwi, qaahhma. saa?_a?aal.
+qa:hhma ?u-kla*-mit yaq-it-(y)i: t'an'a-ckwi* qa:hhma sa:?_a?a:l
 NAME it-having.as.name-PAST he.who-PAST-INDF.3 child-remains.of NAME NAME
 NAME was.called whoever.he.was it.was.child NAME NAME
 His child's name was _qaaḥma_ [Big Paul] {_qaaḥma_'s child was named after him}, a.k.a. _sa:ʕaʔa:ɬ_ {his family/ancestor's name}.
@@ -963,7 +963,7 @@ it.was.far the.place.where at.the.rocky.point
 The rocky point [he was heading for] was far.
 
 # 138
-sayaa hhaal nism'a. c'aa?u<aqtlis.
+sayaa hhaal nism'a. c'aa?u?_aqtlis.
 saya* hha:l nism'a c'a-?uq-'aqtl-?is
 far there land flowing-??-inside-on.the.beach
 far there land slough
@@ -1040,7 +1040,7 @@ not all not all long.winded
 Not all of them were long-winded.
 
 # 150
-kamat<aqtl'itl, qaahhma.
+kamat?_aqtl'itl, qaahhma.
 kamatqw-'a*qtl'i(tl) qa:hhma
 running-in.the.woods NAME
 ran.in.the.woods NAME
@@ -1096,8 +1096,8 @@ near.across NAME ~ near.across
 "It is close across to Whitepine Cove."
 
 # 158
-yacaaqtu, ?u<i?atwa?ish, yaqitii quu?as, yuxsitk ?uucitwa?ish, nana?iqsu.
-yac-a*qtu* ?u-<i(tl)-'at-wa*?i*sh yaq-it-(y)i: qu:?as yuxsitk ?u-i:c-it-wa*?i*sh DUP-na?i*qsu
+yacaaqtu, ?u?_i?atwa?ish, yaqitii quu?as, yuxsitk ?uucitwa?ish, nana?iqsu.
+yac-a*qtu* ?u-?_i(tl)-'at-wa*?i*sh yaq-it-(y)i: qu:?as yuxsitk ?u-i:c-it-wa*?i*sh DUP-na?i*qsu
 step-go.across it-come.upon-SHIFT-QUOT.3 who-PAST-INDF.3 Indian NAME it-belonging.to-PAST-QUOT.3 DISTR-uncle
 walk.over they.were.caught.doing whoever.he.was Indian NAME it.was.his uncles
 The British people walked over and got there when the native people — probably uncles of _yuxsitk_ (Big Jackson) — were there [= British people caught native people being there].
@@ -1110,8 +1110,8 @@ his.ancestors NAME he.was.married.to.her NAME who.was.mine grandmother NAME
 _yuxsitk_'s ancestor was married to my grandmother _kʷaatya_.
 
 # 160
-hha?uk<i?at, machintl tla?uukwi?athh?i.
-hha?uk-<i(tl)-'at mach-intl tla?u:kwi?athh-?i*
+hha?uk?_i?at, machintl tla?uukwi?athh?i.
+hha?uk-?_i(tl)-'at mach-intl tla?u:kwi?athh-?i*
 eat-come.upon-SHIFT enter-MOM Clayoquot-DEF
 they.caught.them.eating enter.house the.Clayoquot.man
 The Clayoquot man came into the house when they were eating.
@@ -1124,8 +1124,8 @@ broke.into.pieces box whatever.they.own whatever.theirs.in.the.box chest.box
 They broke into pieces all the boxes and whatever [valuable things] they kept in their chests.
 
 # 162
-wukwitl tla?uukwi?athh?i, <akwaasht ?aaniitl.
-sukwi(tl) tla?u:kwi?athh-?i* <a:kw-a*sht ?ana-i*tl
+wukwitl tla?uukwi?athh?i, ?_akwaasht ?aaniitl.
+sukwi(tl) tla?u:kwi?athh-?i* ?_a:kw-a*sht ?ana-i*tl
 take Clayoquot-DEF dog.salmon-dried.food only-take
 take the.Clayoquot.man dried.salmon took.only
 The Clayoquot man only took dried salmon.
@@ -1201,14 +1201,14 @@ they.hid.dispersedly they.hid
 The native people hid all over the place.
 
 # 174
-?ucachitl, <ii<iilmakw'as ?uklaa?ish.
-?u-ca-chi(tl) <i:<i:lmakw'as ?u-kla*-?i*sh
+?ucachitl, ?_ii?_iilmakw'as ?uklaa?ish.
+?u-ca-chi(tl) ?_i:?_i:lmakw'as ?u-kla*-?i*sh
 it-go.to-MOM NAME it-having.as.name-IND.3
 went.to NAME called
 He went there — it's called _ʕiiʕiiɬmak̓ʷas_.
 
 # 175
-c'aa?u<aqtlis?ish ?ahh.
+c'aa?u?_aqtlis?ish ?ahh.
 c'a-?uq-'aqtl-?is-?i*sh ?ahh
 flowing-??-inside-on.the.beach-IND.3 this
 the.tide.goes.in this
@@ -1299,8 +1299,8 @@ none.survived house none.survived
 There were none left. None.
 
 # 189
-kamat<aqtl'asit?al, ?ucachi?atl maaqtusiis, <aahhuus?athh yaaqwil?itq waa?at, qucachitl.
-kamatqw-'a*qtl'as-it-?a*l ?u-ca-chi(tl)-'atl ma:qtusi:s <a:hhu:s?athh yaqw-(ch)il-?i*tq wa*-'at ?u-ca-chi(tl)
+kamat?_aqtl'asit?al, ?ucachi?atl maaqtusiis, ?_aahhuus?athh yaaqwil?itq waa?at, qucachitl.
+kamatqw-'a*qtl'as-it-?a*l ?u-ca-chi(tl)-'atl ma:qtusi:s ?_a:hhu:s?athh yaqw-(ch)il-?i*tq wa*-'at ?u-ca-chi(tl)
 running-in.the.woods-PAST-PL it-go.to-MOM-FIN Maaqtusiis Ahousaht which-with.ref.to-REL.3 say-SHIFT it-go.to-MOM
 they.ran.into.the.woods went.to Maaqtusiis Ahousaht with.ref.to.which it.is.called went.to
 They (villagers) ran into the woods headed for Maaqtusiis, the place they call Ahousat.
@@ -1348,8 +1348,8 @@ and they.captured NAME small.boy NAME
 And they captured _miimixt_. _miimixt_ was a small boy.
 
 # 196
-waa tla?uu, chuuwin waa?at. chuuwin, qu?aciicuk y'uuqwaa <imtii chuuwin.
-wa* tla?u: chu:win wa*-'at chu:win qu?ac-i:c-uk y'u:qwa: <imti* chu:win
+waa tla?uu, chuuwin waa?at. chuuwin, qu?aciicuk y'uuqwaa ?_imtii chuuwin.
+wa* tla?u: chu:win wa*-'at chu:win qu?ac-i:c-uk y'u:qwa: ?_imti* chu:win
 and another NAME call-SHIFT NAME Indian-belonging.to-POSS also name NAME
 and another NAME it.is.called NAME Indian.name also name NAME
 And [they] also [captured] another one called _čuuwin_ — he also had an Indian name, _čuuwin_.
@@ -1383,8 +1383,8 @@ Clayoquot got.on.board.again
 The Clayoquot man came on board again.
 
 # 201
-hhampi yaq?iitq, <aahhuus?athh. hhamip.
-hhamip yaq-?i*tq <a:hhu:s?athh hhamip
+hhampi yaq?iitq, ?_aahhuus?athh. hhamip.
+hhamip yaq-?i*tq ?_a:hhu:s?athh hhamip
 recognizing who-REL.3 Ahousaht recognizing
 recognized one.who Ahousaht recognized
 He recognized the Ahousaht boy.
@@ -1481,8 +1481,8 @@ I.was.strong mind used.to.say the.old.person they.used.to.give serve.a.drink tob
 "I was brave. They made me drink tabacco [and I was brave enough to actually drink it]," the old man used to say.
 
 # 215
-tea ?u?iic'ap'atch'a<ash qwaa. tea?iic.
-tea ?u-'i*c-'ap-'at-ch'a*<ash qwa: tea-'i*c
+tea ?u?iic'ap'atch'a?_ash qwaa. tea?iic.
+tea ?u-'i*c-'ap-'at-ch'a*?_ash qwa: tea-'i*c
 tea it-consume-CAUS-SHIFT-INFER.3 thus tea-consume
 tea he.was.probably.served thus drink.tea
 It was probably tea that he was served. He had tea.
@@ -1586,7 +1586,7 @@ something.extraordinary.happened.again
 They were also really excited [about the flag].
 
 # 230
-hhaw'ilukwit, ya<atlitii Benson kapchaa, ?unaak ?uyii?atl'attla, [Union Jack].
+hhaw'ilukwit, ya?_atlitii Benson kapchaa, ?unaak ?uyii?atl'attla, [Union Jack].
 hhaw'il-uk-it yaq-'atl-it-(y)i: ~ kapcha: ?u-na*k ?u-(y)i*-'atl-'at-tla* ~
 chief-POSS-PAST who-FIN-PAST-INDF.3 ~ NAME it-having it-give-FIN-SHIFT-also ~
 former.chief.of who.was ~ NAME having he.was.also.given ~
@@ -1677,8 +1677,8 @@ that what.happened there.was.maybe.one woman one.who.was.a.woman she.was.split.i
 This actually happened. It was probably a woman — a female body was split right in half.
 
 # 243
-n'usxhis nii<ahhs.
-n'usxh-is hi:<ahhs
+n'usxhis nii?_ahhs.
+n'usxh-is hi:?_ahhs
 get.scattered-?? innards
 get.scattered innards
 Her innards were scattered all over on the side.

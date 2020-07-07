@@ -109,8 +109,8 @@ and NAME being.named NAME being.named
 His name was _č̓iḥtaap_.
 
 # 016
-tla?uu?ak <imtii.
-tla?u:-?a*k <imti*
+tla?uu?ak ?_imtii.
+tla?u:-?a*k ?_imti*
 another-POSS name
 have.another name
 He had another name.
@@ -123,7 +123,7 @@ came.from           NAME          NAME          which          [~] [~]
 He was from _ƛ̓ic̓aaʔatḥ_ — from which James Adams and Carl Jumbo came.
 
 # 018
-haa qwaaniish. haa qwaaniish n'uw'iiqsakqs nananiqsakqs, kwaatya, kinhhuul yaqukwitii luucma, qilsma<aqsup, qilsma<aqsup.
+haa qwaaniish. haa qwaaniish n'uw'iiqsakqs nananiqsakqs, kwaatya, kinhhuul yaqukwitii luucma, qilsma?_aqsup, qilsma?_aqsup.
 ha: qwa:-ni*sh   ha: qwa:-ni*sh   n'uw'i*qsu-?a*k-qs  DUP-nani*qsu-?a*k-qs           kwa:tya kinhhuul yaq-ukw-it-(y)i:     luucma qilsmaq-'aqsup    qilsmaq-'aqsup.
 yes thus-IND.1PL yes thus-IND.1PL father-POSS-SUB.1SG DISTR-grandparent-POSS-SUB.1SG NAME    NAME     who-POSS-PAST-INDF.3 wife   Kelsomat-woman.of Kelsomat-woman.of
 yes thus.we.are  yes thus.we.are  my.father           my.grandparents                NAME    NAME     who.was.his          wife   Kelsomat.woman    Kelsomat.woman
@@ -137,7 +137,7 @@ thus also who.was.w̓iikinaniš late.Kelsomat.man
 So was the one whose name was _w̓iikinaniš_—he was from Kelsomat.
 
 # 020
-?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya<atl'itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
+?aanahhatl ?in kwaatya. naniiqsak, naniiqsakitq histaqshitl ya?_atl'itq?al ?achaq m'ukwina, m'ukwina. ?aashaashtaqiml ?uklaa
 ?a:nahha-'atl ?in  kwa:tya nani*qsu-?a*k   nani*qsu-?a*k-?i*tq    his-taq-shi(tl)     yaq?atl-?i*tq-?a*l ?achaq m'ukwina m'ukwina ?a:sha:sh-taqiml ?u-kla*
 ??-FIN        that NAME    granparent-POSS grandparent-POSS-REL.3 there-come.from-MOM who-FIN.REL.3-PL   who    NAME     NAME     NAME-family      it-having.as.name
 ??-FIN        that NAME    her.grandparent her.grandparent        came.from           ones.who           who    NAME     NAME     ʔaašaaš.clan     being.named
@@ -176,29 +176,29 @@ It was snowing.
 Month of February, 1912—that's when I was born.
 
 # 026
-waa haa  hiisa?ac'atlits   <upnit
-wa* ha:  hi:sa?ac'atl-it-s <upnit
+waa haa  hiisa?ac'atlits   ?_upnit
+wa* ha:  hi:sa?ac'atl-it-s ?_upnit
 and DISC grow.up-PAST-1SG  Opnit
 and ahh  I.grew.up         Opnit
 And I grew up at Opnit.
 
 # 027
-?uniciis quu?ichitlit <upnit
-?unic-(y)i:s          qu:?ichitl-it <upnit
+?uniciis quu?ichitlit ?_upnit
+?unic-(y)i:s          qu:?ichitl-it ?_upnit
 time.spent-INDF.1SG   grow.up-PAST  Opnit
 for.some.time.I.spent I.grew.up     Opnit
 For some years I grew up at Opnit
 
 # 028
-waa, ?ahh?aatls ?ucachitl <a?uknak, tliistliisa
-wa* ?ahh?a:-'atl-s ?u-ca-chi(tl) <a?uknak DUP#-tli:s-a
+waa, ?ahh?aatls ?ucachitl ?_a?uknak, tliistliisa
+wa* ?ahh?a:-'atl-s ?u-ca-chi(tl) ?_a?uknak DUP#-tli:s-a
 and then-FIN-1SG it-go.to-MOM NAME IT-write-REP
 and then.I.did went.to NAME going.to.school
 and then I went to _ʕaʔuknak_ to attend school.
 
 # 029
-?a?ums walaak <a?uknak 1919
-?a?um-s wala:k <a?uknak ~
+?a?ums walaak ?_a?uknak 1919
+?a?um-s wala:k ?_a?uknak ~
 at.first-1SG go NAME ~
 I.first went NAME ~
 I first went to _ʕaʔuknak_ in 1919.
@@ -225,8 +225,8 @@ she.got.married.to.another
 She had got remarried.
 
 # 033
-<ihhshitls, <ihhshitls
-<ihh-shi(tl)-s <ihh-shi(tl)-s
+?_ihhshitls, ?_ihhshitls
+?_ihh-shi(tl)-s ?_ihh-shi(tl)-s
 cry-GRAD-1SG cry-GRAD-1SG
 I.was.crying I.was.crying
 I cried and cried.
@@ -306,15 +306,15 @@ ling.cod sometimes catch
 Sometimes we got cod
 
 # 045
-waa ?ahh?aatl <ay'iichhh ?aya muwach susaa, suusilaya
-wa* ?ahh?a:-'atl <ay'i:chhh ?aya muwach sus-(y)a* sus-il-aya
+waa ?ahh?aatl ?_ay'iichhh ?aya muwach susaa, suusilaya
+wa* ?ahh?a:-'atl ?_ay'i:chhh ?aya muwach sus-(y)a* sus-il-aya
 and then-FIN autumn many deer swim-CONT swim-??-continuously.doing
 and then autumn many deer swimming continuously.swimming
 and then in spring(?) many deer swam across.
 
 # 046
-?ahh qwaanaa ha?uk <a?uknak hilhh
-?ahh qwa:-na* ha?uk <a?uknak hil-(q)hh
+?ahh qwaanaa ha?uk ?_a?uknak hilhh
+?ahh qwa:-na* ha?uk ?_a?uknak hil-(q)hh
 this thus-1PL eat NAME there-SIM
 this how.we.are eat NAME there
 That's how we ate at _ʕaʔuknak_.
@@ -432,8 +432,8 @@ then    I.do.for.now start.telling.a.story what.happened
 Now I have started telling a story about what happened.
 
 # 063
-hi?iisitwa?ish ?ishc'iipm'it nism'a?i hil tlawaaquhhaa, ?alma<a ?uklaa
-hi?i:s-it-wa*?i*sh              ?ishc'i:p-m'i*t  nism'a-?i* hil   tlawa: quhha: ?alma< ?u-kla*
+hi?iisitwa?ish ?ishc'iipm'it nism'a?i hil tlawaaquhhaa, ?alma?_a ?uklaa
+hi?i:s-it-wa*?i*sh              ?ishc'i:p-m'i*t  nism'a-?i* hil   tlawa: quhha: ?alma?_ ?u-kla*
 there.on.the.ground-PAST-QUOT.3 gum-son.of       land-DEF   there near   NAME   NAME    it-named
 it.was.there                    Son.of.Gum.Woman the.land   there near   NAME   NAME    being.named
 Son of Gum Woman lived at the place near _qaḥaa_, a place named _ʔaɬmaʕa_.
@@ -636,8 +636,8 @@ suuchitl waa. suuchitl. [Eight hours], ?atlakwal. [Eight hours] qum'aa.
 We worked for eight hours a day. (?)
 
 # 093
-<aciishh wiiqsii?atlquu wik'iit [time-off] \logging, huu?ak ?uyi
-<aci:s-(q)hh wi:qsi:-'atl-qu:  wik'i:t ~ ~ hu:?ak ?uyi
+?_aciishh wiiqsii?atlquu wik'iit [time-off] \logging, huu?ak ?uyi
+?_aci:s-(q)hh wi:qsi:-'atl-qu:  wik'i:t ~ ~ hu:?ak ?uyi
 ??-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.the.time
 ??-SIM stormy-FIN-COND.3 absent ~ ~ long.ago at.that.time
 Even in stormy weather there was no time off from logging a long time ago.
@@ -734,8 +734,8 @@ It was a long time ago in 1945.
 I worked with Gordon Gibson.
 
 # 107
-?unaakit?ish mill, [Gordon Gibson], [Matilda Creek], <aahhuus?athh hil
-?u-na*k-it-?i*sh ~ ~ ~ <a:hhu:s?athh hil
+?unaakit?ish mill, [Gordon Gibson], [Matilda Creek], ?_aahhuus?athh hil
+?u-na*k-it-?i*sh ~ ~ ~ ?_a:hhu:s?athh hil
 it-having-PAST-IND.3 ~ ~ ~ Ahousaht there
 he.had ~ ~ ~ Ahousaht there
 Gordon Gibson owned the mill on the Matilda Creek in Ahousat.
@@ -888,8 +888,8 @@ and then went.home
 and then I went home.
 
 # 130
-chaani?aqtls walshitl, walshi?atls  <aahhuus?athh
-cha:ni-'aqtl-s wal-shi(tl) wal-shi(tl)-'atl-s <a:hhu:s?athh
+chaani?aqtls walshitl, walshi?atls  ?_aahhuus?athh
+cha:ni-'aqtl-s wal-shi(tl) wal-shi(tl)-'atl-s ?_a:hhu:s?athh
 for.now-FUT-1SG go.home-MOM go.home-MOM-FIN-1SG Ahousaht
 for.now.I.will go.home I.went.home Ahousaht
 For now I went home. I went back to Ahousaht.
@@ -902,15 +902,15 @@ I.for.long at.home
 I stayed home for a long time.
 
 # 132
-<uyaasatl'in waa?atl'ats Viola
-<uya:s-'atl-'in wa:-'atl-'at-s ~
+?_uyaasatl'in waa?atl'ats Viola
+?_uya:s-'atl-'in wa:-'atl-'at-s ~
 move-FIN-IMP.1PL say-FIN-SHIFT-1SG ~
 lets.move it.was.said.to.me ~
 "Let's move to a different place," Viola said to me.
 
 # 133
-<uyaasatlna Alberni walaak, Alberni, [Port Alberni]
-<uya:s-'atl-na* Alberni wala:k Alberni ~
+?_uyaasatlna Alberni walaak, Alberni, [Port Alberni]
+?_uya:s-'atl-na* Alberni wala:k Alberni ~
 move-FIN-1PL Alberni go Alberni ~
 we.moved ~ go ~ ~
 We went to Port Alberni.
@@ -1228,8 +1228,8 @@ with.reference.to.which ~ private we.say
 We call our private parts of our body _qaanim_.
 
 # 179
-?ahh?aa, hiishilsa huhhtak <aa<imt'at  ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa?at ch'alch'a, hishuk ch'alch'a
-?ahh?a: hish-(ch)il-sa huhhtak DUP:-<imt-'at ?usit-'at-qin ?una-`ichi(tl)-qin hist-'itl t'uhhc'iti hapsy'up hap-ca*sqi* hhu:l tlishtlin DUP-ch'isa*q-hhtim wa*-'at ch'alch'a hish-uk ch'alch'a
+?ahh?aa, hiishilsa huhhtak ?_aa?_imt'at  ?usit'atqin ?unichitlqin, hiist'itl t'uhhc'iti, hapsy'up hapcaasqi hhuul tlishtlin, ch'ich'isaqhhtim waa?at ch'alch'a, hishuk ch'alch'a
+?ahh?a: hish-(ch)il-sa huhhtak DUP:-?_imt-'at ?usit-'at-qin ?una-`ichi(tl)-qin hist-'itl t'uhhc'iti hapsy'up hap-ca*sqi* hhu:l tlishtlin DUP-ch'isa*q-hhtim wa*-'at ch'alch'a hish-uk ch'alch'a
 then all-with.ref.to-1SG know IT-name-POSS body-POSS-REL.1PL that.much-INC-REL.1PL there-take head hair hair-head? there foot DISTR-??-?? say-SHIFT fingernail all-DUR fingernail
 then everything.I know their.names our.body our.whole.body taken.from.there head hair head.hair there foot toes it.is.called nails all nails
 I know the names of different parts of our body — the whole body, starting from our head and head hair, to feet, toes, nails, all nails.

@@ -20,8 +20,8 @@ there.used.to.be.many girls go.different.places
 Many women used to go to different places (when they got married).
 
 # 003
-histaqshitl tla?uukwi?athh ?ucachitl qaay'uukw'athh. histaqshitl <aahhuus?athh hinatshitl ?ahh c'ishaa?athh.
-his-taq-shitl tla?u:kwi?athh ?u-ca-chitl qa:y'u:kw'athh his-taq-shitl <a:hhu:s?athh hin-at-shitl ?ahh c'isha:?athh
+histaqshitl tla?uukwi?athh ?ucachitl qaay'uukw'athh. histaqshitl ?_aahhuus?athh hinatshitl ?ahh c'ishaa?athh.
+his-taq-shitl tla?u:kwi?athh ?u-ca-chitl qa:y'u:kw'athh his-taq-shitl ?_a:hhu:s?athh hin-at-shitl ?ahh c'isha:?athh
 there-come.from-MOM Clayoquot it-go.to-MOM Kyuquot there-come.from-MOM Ahousaht there-come-MOM here NAME
 came.from Clayoquot to Kyuquot came.from Ahousaht come.here here NAME
 They came from Clayoquot to Kyuquot, or from Ahousaht to Tseshaht.
@@ -97,7 +97,7 @@ they.say.it.wrong
 They say it wrong now [they cannot pronounce words correctly].
 
 # 014
-?uy'iihha?al ?an wik'atl'at?al hhaay'a<aal?at hiniiy'ul qwayaatukqin niiw'a.
+?uy'iihha?al ?an wik'atl'at?al hhaay'a?_aal?at hiniiy'ul qwayaatukqin niiw'a.
 ?u-y'i*hha-?a*l ?an wik-'atl-'at-?a*l hha:y'aq-'a:l-'at hini:y'ul qwa-(y)a*tuk-qin ni:w'a
 it-because.of-PL because not-FINITE-POSS-PL used.to?-??-POSS throat thus-making.sound.of-REL.1PL we
 because.of.it because theirs.are.no.longer used.to.it throat the.way.ours.sounds we

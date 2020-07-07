@@ -6,8 +6,8 @@ abbreviation: Afterbirth
 ID:           CL11
 ---
 # 001
-?aamuml?atlquu nay'aqak, ?ayaakit?aal qwaqwaa?aahhii ?uuksna<aal c'ahhwackwi. ?an ?uutaqit?aal walyaqilhh.
-?am-uml-'atl-qu: nay'aqak ?aya-?a*k-it-?a:l DUP.CV-qwa:-'a:hh-(y)i: ?u-ksna<a:l c'ahhwackwi ?an ?u-taq-it-?a:l wal-yaq-`il-(q)hh
+?aamuml?atlquu nay'aqak, ?ayaakit?aal qwaqwaa?aahhii ?uuksna?_aal c'ahhwackwi. ?an ?uutaqit?aal walyaqilhh.
+?am-uml-'atl-qu: nay'aqak ?aya-?a*k-it-?a:l DUP.CV-qwa:-'a:hh-(y)i: ?u-ksna?_a:l c'ahhwackwi ?an ?u-taq-it-?a:l wal-yaq-`il-(q)hh
 first-be.born-FINITE-COND baby many-POSS-PAST-always DISTR-thus-perhaps-INDF.3 it-handling afterbirth because it-take.care.of-PAST-always go.home-done-in.the.house-SIM
 when.first.born baby there.are.many they.used.to.do handling.it afterbirth because they.used.to.take.care.of at.home
 When a baby was born, they used to do many things with the afterbirth, since they used to take care of it at home.
@@ -20,8 +20,8 @@ buried.it not doing.only bury.in.the.ground get.rid.of
 They buried it [carefully]. They didn't just bury it or throw it away.
 
 # 003
-?uuksna<aal?atlquu qwiima<ukmahhsa?itq hhaakwaatl. tl'a<iiksap t'ut'unaxk'uk, pic'up, ch'itapt. qwiq?iitq pika?uuqiily'ak (paaskitiily'ak). tl'a<iiksap'atl, c'uy'iitap'atl.
-?u-ksna<a:l-'atl-qu: qwi-ma<uk-mahhsa-?i*tq hha:kwa*tl tl'a<i:k-sa*p t'ut'unaxk'uk pic'up ch'itapt qwiq-?i*tq pika?u:q-i:l y'akw pa:skit-i:l-y'akw tl'a<i:k-sa*p-'atl c'us-'i*tap-'atl
+?uuksna?_aal?atlquu qwiima?_ukmahhsa?itq hhaakwaatl. tl'a?_iiksap t'ut'unaxk'uk, pic'up, ch'itapt. qwiq?iitq pika?uuqiily'ak (paaskitiily'ak). tl'a?_iiksap'atl, c'uy'iitap'atl.
+?u-ksna?_a:l-'atl-qu: qwi-ma?_uk-mahhsa-?i*tq hha:kwa*tl tl'a?_i:k-sa*p t'ut'unaxk'uk pic'up ch'itapt qwiq-?i*tq pika?u:q-i:l y'akw pa:skit-i:l-y'akw tl'a?_i:k-sa*p-'atl c'us-'i*tap-'atl
 it-handling-FINITE-COND that.which-one.skilled.in-designing.to-REL.3 girl wrapped-MOMCAUS tule.grass bark swamp.grass that.which-REL.3 basket-make-useful.for basket-make-useful.for wrapped-MOMCAUS-FINITE dig-on.the.ground-FINITE
 they.would.take.it what.they.want.her.to.be.talented.at girl wrap tule.grass bark swamp.grass that.which for.making.baskets for.making.baskets wrap.up buried.it
 They took whatever they wanted the girl to be talented at and wrap it [with the afterbirth]: they put things like tule grass, cedar bark, swamp grass, or whatever they used to make baskets with.
@@ -48,8 +48,8 @@ mix.with fishing.gear whatever.that.would.make.him well.off.person when.he.hunte
 They used to put fishing gear or whatever that would make him well-off when he hunted for deer and so on.
 
 # 007
-y'uuqwaa ?uuksna<aal?at c'uy'iitapw'it'as?atlquu c'ahhwackwi. y'uuqwaa ch'iima, qwiima<ukmahhsap'at?itq <aak<aakwa.
-y'u:qwa: ?u-ksna<a:l-'at c'us-'i*tap-w'it'as-'atl-qu: c'ahhwackwi y'u:qwa: ch'i:ma qwi-ma<uk-mahhsa-'ap-'at-?i*tq <akw-(y)a
+y'uuqwaa ?uuksna?_aal?at c'uy'iitapw'it'as?atlquu c'ahhwackwi. y'uuqwaa ch'iima, qwiima?_ukmahhsap'at?itq ?_aak?_aakwa.
+y'u:qwa: ?u-ksna?_a:l-'at c'us-'i*tap-w'it'as-'atl-qu: c'ahhwackwi y'u:qwa: ch'i:ma qwi-ma?_uk-mahhsa-'ap-'at-?i*tq ?_akw-(y)a
 also it-handling-SHIFT dig-on.the.ground-about.to-FINITE-COND afterbirth also knife that.which-one.skilled.in-desiring.to-MOMCAUS-SHIFT-REL.3 cut-REP
 also they.would.take they.would.be.burying.it afterbirth also knife what.they.want.him.to.be.talented.at carving
 Also they used to bury with the afterbirth a knife and whatever you would want him to be talented at carving.
@@ -69,8 +69,8 @@ just.recently still doing.that
 People were still doing that until recently.
 
 # 010
-?uukwil huhhtak hhaakwaatl histaqshitl <aahhuus?athh.
-?u-kwil huhhtak hha:kwa*tl his-taq-shitl <a:hhu:s?athh
+?uukwil huhhtak hhaakwaatl histaqshitl ?_aahhuus?athh.
+?u-kwil huhhtak hha:kwa*tl his-taq-shitl ?_a:hhu:s?athh
 she-with.ref.to know.how girl there-come.from-MOM Ahousaht
 about.her know.how girl came.from Ahousaht
 I know one girl from Ahousaht.
