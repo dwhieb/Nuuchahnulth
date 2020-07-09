@@ -79,7 +79,7 @@ function convertText(text) {
 
 async function convertFiles() {
 
-  await emptyDir(`texts/converted`);
+  await emptyDir(`texts/interlinear`);
 
   const rawTextFilePaths = await readDir(`texts/raw`);
   let   combinedConvertedTexts = ``;
@@ -98,14 +98,14 @@ async function convertFiles() {
     text           = convertText(text);
     text           = `${header}\r\n${text}`;
 
-    await writeFile(`texts/converted/${filename}`, text, `utf8`);
+    await writeFile(`texts/interlinear/${filename}`, text, `utf8`);
 
     combinedConvertedTexts += text;
     combinedConvertedTexts += `\r\n`;
 
   }
 
-  await writeFile(`texts/combined-converted.txt`, combinedConvertedTexts);
+  await writeFile(`texts/combined-interlinear.txt`, combinedConvertedTexts);
   await writeFile(`texts/combined-raw.txt`, combinedRawTexts);
 
 }

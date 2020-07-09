@@ -2,8 +2,6 @@
 
 This repository contains linguistic texts in Nuuchahnulth, a language of the Wakashan language family, spoken in the Pacific Northwest. These texts are digitally-searchable versions of those prepared by Toshihide Nakayama (Tokyo University of Foreign Studies), and published as volumes A2-027 and A2-028 of the series _Endangered Languages of the Pacific Rim_. The texts were dictated by George Louie and Caroline Little to Toshihide Nakayama, who then transcribed, analyzed, and prepared the edited versions.
 
-The texts are available in the `texts/converted` folder.
-
 ## Contents
 
 <!-- TOC -->
@@ -37,24 +35,30 @@ For other uses of this data, please contact [Toshihide Nakayama](mailto:nakayama
 
 To report a typo or other problem, please email [Daniel W. Hieber](mailto:dwhieb@gmail.com).
 
-## Text Format
+## Text Formats
 
-Each text displays utterances using an [<dfn>interlinear gloss format</dfn>][IGL] (<abbr title='interlinear gloss'>IGL</abbr>) — a format used by linguists to represent data in a way that can be read and understood by anyone. Each document itself follows a format called [scription][scription], which enforces consistency in the structure of the text, making it computationally parseable.
+The texts are available in three formats:
 
-At the top of each text is a header (between the two sets of dashes `---`), which provides the title in English (and sometimes Nuuchahnulth), the abbreviation, and the unique ID for each text.
+* The "raw" versions of the texts, in a practical writing system used for the purpose of quickly typing in the data. These versions are used to produce the other versions of the texts. These versions are located in the folder `texts/raw`.
 
-Beneath the header are utterances (sentences) in the text. Each utterance is separated from the next by a blank line.
+* An [<dfn>interlinear gloss format</dfn>][IGL] (<abbr title='interlinear gloss'>IGL</abbr>) — a format used by linguists to represent data in a way that can be read and understood by anyone. Each document itself follows a format called [scription][scription], which enforces consistency in the structure of the text, making it computationally parseable. These versions are located in the folder `texts/interlinear`.
 
-Each utterance has 5 lines, which contain the following kinds of information:
+  At the top of each text is a header (between the two sets of dashes `---`), which provides the title in English (and sometimes Nuuchahnulth), the abbreviation, and the unique ID for each text.
 
-1. **Utterance Number:** The number of the utterance within the text.
-1. **Transcript:** A transcription of each utterance using the Nuuchahnulth writing system, along with punctuation.
-1. **Morphemes:** A list of each <dfn>morpheme</dfn> (meaningful part) of each word, where morphemes are separated by hyphens.
-1. **Glosses:** A short <dfn>gloss</dfn> (abbreviation) indicating the meaning of each morpheme in the word, separated by hyphens. See the [Abbreviations](#abbreviations) section below.
-1. **Literal Translations:** Literal translations of each word.
-1. **Free Translations:** A free (loose) translation for the utterance.
+  Beneath the header are utterances (sentences) in the text. Each utterance is separated from the next by a blank line.
 
-For more information about the scription format, visit [https://scription.digitallinguistics.io][scription].
+  Each utterance has 5 lines, which contain the following kinds of information:
+
+  1. **Utterance Number:** The number of the utterance within the text.
+  1. **Transcript:** A transcription of each utterance using the Nuuchahnulth writing system, along with punctuation.
+  1. **Morphemes:** A list of each <dfn>morpheme</dfn> (meaningful part) of each word, where morphemes are separated by hyphens.
+  1. **Glosses:** A short <dfn>gloss</dfn> (abbreviation) indicating the meaning of each morpheme in the word, separated by hyphens. See the [Abbreviations](#abbreviations) section below.
+  1. **Literal Translations:** Literal translations of each word.
+  1. **Free Translations:** A free (loose) translation for the utterance.
+
+  For more information about the scription format, visit [https://scription.digitallinguistics.io][scription].
+
+* A [JSON][JSON] version, formatted according to the [Data Format for Digital Linguistics][DaFoDiL] (<abbr>DaFoDiL</abbr>). This version of the corpus is most useful for programmatically interacting with the texts. See the [DaFoDiL page][DaFoDiL] for more information about how this data is formatted.
 
 ## Sounds of Nuuchahnulth
 
@@ -126,13 +130,16 @@ SUB          | subordinate mood
 
 ## Converting the Corpus
 
-To transcribe the corpus, a simplified writing system with no special characters was used, and then the entire corpus was converted to its original <dfn>orthography</dfn> (a language's writing system) using the [Digital Linguistics][DLx] [transliterate library][transliterate].
+To run the scripts that convert the corpus for yourself, you will need to 1) install [Node.js][Node], 2) [clone this repository][clone] to your computer, 3) install the necessary scripts by running `npm install` from the command line in the folder for the repository, and 4) then run the command `npm build` from the command line in the folder for this repository.
 
-If you would like to run the conversion script used to convert the texts from their simplified format to the original orthography, you will need to install [Node.js][Node], clone this repository to your computer, and then run the command `npm transliterate` from the command line in this repository.
+You can also run just the transliteration step (`npm run transliterate`) or the conversion step (`npm run convert`).
 
+[clone]:         https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
+[DaFoDiL]:       https://format.digitallinguistics.io
 [DLx]:           https://digitallinguistics.io
 [IGL]:           https://www.eva.mpg.de/lingua/resources/glossing-rules.php
 [IPA]:           https://www.internationalphoneticalphabet.org/
+[JSON]:          https://en.wikipedia.org/wiki/JSON#Example
 [new-issue]:     https://github.com/dwhieb/Nuuchahnulth/issues/new
 [Node]:          https://nodejs.org/en/
 [scription]:     https://scription.digitallinguistics.io
