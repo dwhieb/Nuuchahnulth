@@ -10,7 +10,9 @@
 import alignWords        from '@digitallinguistics/word-aligner';
 import convertQuotes     from 'smartquotes';
 import { createRequire } from 'module';
+import createSpinner     from 'ora';
 import fs                from 'fs-extra';
+import ProgressBar       from 'progress';
 import { transliterate } from '@digitallinguistics/transliterate/transliterate.js';
 
 const require = createRequire(import.meta.url);
@@ -24,6 +26,8 @@ const {
 
 const substitutions = require(`../transliteration.json`);
 
+const spinner = createSpinner(`Transliterating texts`).start();
+
 function convertText(text) {
 
   const newLineRegExp      = /(?:\r\n)+/gu;
@@ -34,7 +38,7 @@ function convertText(text) {
   .map(u => u.split(newLineRegExp))
   .map(u => u.filter(Boolean))
   .map(u => u.map(line => line.trim()))
-  .map(lines => {
+  .map((lines, i) => {
 
     const [num] = lines;
     let [, transcript] = lines;
@@ -43,7 +47,7 @@ function convertText(text) {
       transcript = transcript.replace(`"`, `“`).replace(`"`, `”`);
     }
 
-    if (transcript.startsWith(`\\trs`)) {
+    if (i !== 0 && transcript.startsWith(`\\trs`)) {
 
       const [,, tln] = lines;
 
@@ -85,6 +89,8 @@ async function convertFiles() {
   let   combinedConvertedTexts = ``;
   let   combinedRawTexts       = ``;
 
+  const progressBar = new ProgressBar(`:bar :current :total :percent :eta`, { total: rawTextFilePaths.length });
+
   for (const filename of rawTextFilePaths) {
 
     const headerRegExp = /---.+---/gsu;
@@ -103,6 +109,8 @@ async function convertFiles() {
     combinedConvertedTexts += text;
     combinedConvertedTexts += `\r\n`;
 
+    progressBar.tick();
+
   }
 
   await writeFile(`texts/combined-interlinear.txt`, combinedConvertedTexts);
@@ -110,4 +118,9 @@ async function convertFiles() {
 
 }
 
-convertFiles().catch(console.error);
+convertFiles()
+.then(() => spinner.succeed(`All files transliterated`))
+.catch(e => {
+  spinner.fail(e.message);
+  throw e;
+});

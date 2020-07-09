@@ -62,3 +62,6 @@ typings/
 
 *.aiff
 *.mp3
+
+# Custom
+nodemon.json

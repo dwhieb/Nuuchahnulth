@@ -9,6 +9,7 @@ env:
   es6:     true
   jasmine: false
   node:    false
+  shared-node-browser: true
 rules:
   id-blacklist:
   - error

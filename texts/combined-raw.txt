@@ -6,11 +6,11 @@ abbreviation: Afterbirth
 ID:           CL11
 ---
 # 001
-?aamuml?atlquu nay'aqak, ?ayaakit?aal qwaqwaa?aahhii ?uuksna?_aal c'ahhwackwi. ?an ?uutaqit?aal walyaqilhh.
-?am-uml-'atl-qu: nay'aqak ?aya-?a*k-it-?a:l DUP.CV-qwa:-'a:hh-(y)i: ?u-ksna?_a:l c'ahhwackwi ?an ?u-taq-it-?a:l wal-yaq-`il-(q)hh
-first-be.born-FINITE-COND baby many-POSS-PAST-always DISTR-thus-perhaps-INDF.3 it-handling afterbirth because it-take.care.of-PAST-always go.home-done-in.the.house-SIM
-when.first.born baby there.are.many they.used.to.do handling.it afterbirth because they.used.to.take.care.of at.home
-When a baby was born, they used to do many things with the afterbirth, since they used to take care of it at home.
+\trs ?aamuml?atlquu nay'aqak, ?ayaakit?aal qwaqwaa?aahhii ?uuksna?_aal c'ahhwackwi. ?an ?uutaqit?aal walyaqilhh.
+\m   ?am-uml-'atl-qu: nay'aqak ?aya-?a*k-it-?a:l DUP.CV-qwa:-'a:hh-(y)i: ?u-ksna?_a:l c'ahhwackwi ?an ?u-taq-it-?a:l wal-yaq-`il-(q)hh
+\gl  first-be.born-FINITE-COND baby many-POSS-PAST-always DISTR-thus-perhaps-INDF.3 it-handling afterbirth because it-take.care.of-PAST-always go.home-done-in.the.house-SIM
+\wlt when.first.born baby there.are.many they.used.to.do handling.it afterbirth because they.used.to.take.care.of at.home
+\tln When a baby was born, they used to do many things with the afterbirth, since they used to take care of it at home.
 
 # 002
 c'uy'iitap'atl, wik, ?anasila c'uy'iitap wahhshitl.
@@ -131,11 +131,11 @@ abbreviation: Bluejay
 ID:           CL6
 ---
 # 001
-mamuukyaqilitwa?ish ?um?iiqsu. tl'upiiya.
-mamu:k-yaq-`il-it-wa*?i*sh ?um?i*qsu tl'up-(y)a*-iya
-work-done-on.the.floor-PAST-QUOT.3 mother warm-DUR-at.the.time
-she.was.working.on.the.floor mother it.was.a.hot.day
-The mother was working on a mat sitting on the floor. It was a hot day.
+\trs mamuukyaqilitwa?ish ?um?iiqsu. tl'upiiya.
+\m   mamu:k-yaq-`il-it-wa*?i*sh ?um?i*qsu tl'up-(y)a*-iya
+\gl  work-done-on.the.floor-PAST-QUOT.3 mother warm-DUR-at.the.time
+\wlt she.was.working.on.the.floor mother it.was.a.hot.day
+\tln The mother was working on a mat sitting on the floor. It was a hot day.
 
 # 002
 hila?_aqilhh?atl ma?itlqac?is ?um?iiqsak ?uukwiil c'iihhati.
@@ -324,11 +324,11 @@ abbreviation: Canoe
 ID:           GL4
 ---
 # 001
-?_as?_assh, ch'aapaciilw'it'as.
-DUP#-?_as-sh ch'apac-i:l-w'it'as
-IT-do.carpenter.work-SPOR canoe-make-about.to
-doing.carpenter.work about.to.make.a.canoe
-He is going to build a canoe.
+\trs ?_as?_assh, ch'aapaciilw'it'as.
+\m   DUP#-?_as-sh ch'apac-i:l-w'it'as
+\gl  IT-do.carpenter.work-SPOR canoe-make-about.to
+\wlt doing.carpenter.work about.to.make.a.canoe
+\tln He is going to build a canoe.
 
 # 002
 hhumiis ?un'aahh hitaaqtl'itl.
@@ -1866,11 +1866,11 @@ abbreviation: DeerJigging
 ID:           CL2
 ---
 # 001
-?uuqumhhiqaqwa?ish katlhhshitl, tlumkshitl muwaachm'it.
-?u*qumhhi-qaq-wa*?i*sh katlhh-shitl tlumk-shitl muwach-m'i*t
-calm-very-QUOT.3 daylight-MOM awoke-MOM deer-son.of
-they.say.it.was.very.calm morning woke.up Son.of.Deer
-It was a very calm morning. Son of Deer woke up.
+\trs ?uuqumhhiqaqwa?ish katlhhshitl, tlumkshitl muwaachm'it.
+\m   ?u*qumhhi-qaq-wa*?i*sh katlhh-shitl tlumk-shitl muwach-m'i*t
+\gl  calm-very-QUOT.3 daylight-MOM awoke-MOM deer-son.of
+\wlt they.say.it.was.very.calm morning woke.up Son.of.Deer
+\tln It was a very calm morning. Son of Deer woke up.
 
 # 002
 ?_aasiqnakshitl liliitapi?aqtl.
@@ -2523,11 +2523,11 @@ abbreviation: Discipline
 ID:           CL13
 ---
 # 001
-chuu ?uuqhhli?aqtls qwisqhhin kwiis\hhinchitl quu?asqin.
-chu: ?u-qhhli-?aqtl-s qwis-(q)hh-hhin kwi:s\hhin-chitl qu:?as-qin
-now.then it-tell.about-FUT-1SG do.so-SIM-INTER.1PL different-MOM Indian-REL.1PL
-now.then I.will.tell.about why.we changed we.Indians
-Now, I will talk about why we Indians changed.
+\trs chuu ?uuqhhli?aqtls qwisqhhin kwiis\hhinchitl quu?asqin.
+\m   chu: ?u-qhhli-?aqtl-s qwis-(q)hh-hhin kwi:s\hhin-chitl qu:?as-qin
+\gl  now.then it-tell.about-FUT-1SG do.so-SIM-INTER.1PL different-MOM Indian-REL.1PL
+\wlt now.then I.will.tell.about why.we changed we.Indians
+\tln Now, I will talk about why we Indians changed.
 
 # 002
 ?uuy'intlnish hhaahhuupach'akukqin wikiichitlna.
@@ -2639,11 +2639,11 @@ abbreviation: Dog
 ID:           GL9
 ---
 # 001
-qwaa?atl ?_iniitl, yaaqtlst'al ?uy'iihha, ?unaak?is?al hilhh?iitq, ?_imsshitl.
-qwa:-'atl ?_ini:tl ya:-'aqtl-st'al ?u-y'i*hha ?u-na*k-?is-?a*l hil-(q)hh-?i*tq ?_ims-shi(tl)
-thus-FIN dog say.harsh.words-inside-reciprocally it-because.of it-having-DIM-PL there-SIM-REL.3 urinate.to.mark.the.boundary-MOM
-like.this dog hate.each.other on.account.of.it they.have wherever urinate.to.mark.the.boundary
-Dogs hate each other, because they have a special territory where they mark with their urine.
+\trs qwaa?atl ?_iniitl, yaaqtlst'al ?uy'iihha, ?unaak?is?al hilhh?iitq, ?_imsshitl.
+\m   qwa:-'atl ?_ini:tl ya:-'aqtl-st'al ?u-y'i*hha ?u-na*k-?is-?a*l hil-(q)hh-?i*tq ?_ims-shi(tl)
+\gl  thus-FIN dog say.harsh.words-inside-reciprocally it-because.of it-having-DIM-PL there-SIM-REL.3 urinate.to.mark.the.boundary-MOM
+\wlt like.this dog hate.each.other on.account.of.it they.have wherever urinate.to.mark.the.boundary
+\tln Dogs hate each other, because they have a special territory where they mark with their urine.
 
 # 002
 ?ahh ?unaak?al, hhahhumt'uu, ?uushc'aluk sashtup hitacpa.
@@ -3240,11 +3240,11 @@ abbreviation: DogChildren
 ID:           CL7
 ---
 # 001
-hhakwatlnakitwa?ish?al ma?ayil?i.
-hhakwatl-na*k-it-wa*?i*sh-?a*l ma-?ayil-?i*
-daughter-having-PAST-QUOT.3-PL dwell-in.a.house-DEF
-they.had.a.daughter the.household
-This family had a daughter.
+\trs hhakwatlnakitwa?ish?al ma?ayil?i.
+\m   hhakwatl-na*k-it-wa*?i*sh-?a*l ma-?ayil-?i*
+\gl  daughter-having-PAST-QUOT.3-PL dwell-in.a.house-DEF
+\wlt they.had.a.daughter the.household
+\tln This family had a daughter.
 
 # 002
 sach'ica?ap'atlquuch ?uksna?_aal ?_iniitl, ?atquu hawilshitlshi?i?aal ?_iilchsna?_aal, wawaa?at nananiqsak.
@@ -3573,11 +3573,11 @@ abbreviation: Eclipse
 ID:           GL2
 ---
 # 001
-huu?ak ?uyi qiisasatl.
-hu:?ak ?uyi qi:-sasatl-'atl
-long.ago at.that.time for.a.long.time-precisely-FIN
-long.ago at.that.time long.long.ago
-That happened a long, long time ago.
+\trs huu?ak ?uyi qiisasatl.
+\m   hu:?ak ?uyi qi:-sasatl-'atl
+\gl  long.ago at.that.time for.a.long.time-precisely-FIN
+\wlt long.ago at.that.time long.long.ago
+\tln That happened a long, long time ago.
 
 # 002
 yaqwii?itq quu?as ?uuqhhlatlquu m'achi?at
@@ -3677,11 +3677,11 @@ abbreviation: Feasts
 ID:           CL12
 ---
 # 001
-chuu ?uumac'uk?aqtlsish tl'iic'uumis n'ushitl.
-chu: ?u-mac'uk-?aqtl-si*sh tl'i:c'u:-mis n'ushitl
-now.then it-talking.about-FUT-IND.1SG feast-thing potlatch
-now.then I.will.talk.about
-Now, I will talk about feasts and potlatches.
+\trs chuu ?uumac'uk?aqtlsish tl'iic'uumis n'ushitl.
+\m   chu: ?u-mac'uk-?aqtl-si*sh tl'i:c'u:-mis n'ushitl
+\gl  now.then it-talking.about-FUT-IND.1SG feast-thing potlatch
+\wlt now.then I.will.talk.about
+\tln Now, I will talk about feasts and potlatches.
 
 # 002
 wiiy'umt?ish c'aawuu n'ushitlnak'atlquu.
@@ -3788,11 +3788,11 @@ abbreviation: FirstFire
 ID:           CL3
 ---
 # 001
-chuu ?uuqhhli?aqtls qwis\hhitiich quu?as hiniip ?ink.
-chuu: ?u-qhhli-?aqtl-s qwis-(q)hh-it-(y)i:-ch qu:?as hini:p ?inkw
-OK it-tell.about-FUT-1SG do.so-SIM-PAST-INDF.3-INF.3 human catch fire
-OK I.will.tell.about how.they.got human catch fire
-OK, I will talk about how people got fire.
+\trs chuu ?uuqhhli?aqtls qwis\hhitiich quu?as hiniip ?ink.
+\m   chuu: ?u-qhhli-?aqtl-s qwis-(q)hh-it-(y)i:-ch qu:?as hini:p ?inkw
+\gl  OK it-tell.about-FUT-1SG do.so-SIM-PAST-INDF.3-INF.3 human catch fire
+\wlt OK I.will.tell.about how.they.got human catch fire
+\tln OK, I will talk about how people got fire.
 
 # 002
 wik'iitukwitwa?ish ?ink quu?as huu?ak ?uyi.
@@ -4193,11 +4193,11 @@ abbreviation: Flood
 ID:           CL8
 ---
 # 001
-waay'aqstutlwa?ish ?_aanism'it ?an ?u?umhhichi?atl luchnaakshitlquu.
-wa*l-'aqstutl-wa*?i*sh ?_a:nis-m'i*t ?an ?u?umhhi-chi(tl)-'atl luch-na*k-shitl-qu:
-say-inside-QUOT.3 crane-son.of that fit.right-MOM-FINITE wife-having-MOM-COND
-he.thought.to.himself Son.of.Crane that it.was.the.right.time.for he.would.get.a.wife
-Son of Crane thought to himself that it was time for him to get a wife.
+\trs waay'aqstutlwa?ish ?_aanism'it ?an ?u?umhhichi?atl luchnaakshitlquu.
+\m   wa*l-'aqstutl-wa*?i*sh ?_a:nis-m'i*t ?an ?u?umhhi-chi(tl)-'atl luch-na*k-shitl-qu:
+\gl  say-inside-QUOT.3 crane-son.of that fit.right-MOM-FINITE wife-having-MOM-COND
+\wlt he.thought.to.himself Son.of.Crane that it.was.the.right.time.for he.would.get.a.wife
+\tln Son of Crane thought to himself that it was time for him to get a wife.
 
 # 002
 ?ucachitl saapinqas ci?_asw'it'as.
@@ -4445,11 +4445,11 @@ abbreviation: FoodThief
 ID:           CL9
 ---
 # 001
-qwiinuutlhhiich wiiy'aat haw'aahhin?at sashtup.
-qwi-a*nu:tl-(q)hh-(y)i:-ch wi:y'a-'at haw'-a*hhin-'at sa-shtu*p
-that.which-because.of-SIM-INDF.3-INF.3 never-SHIFT eat-deprive.of-SHIFT crawl-species
-why.you.would never take.food.away.from animal
-The reason why you never take food away from animals.
+\trs qwiinuutlhhiich wiiy'aat haw'aahhin?at sashtup.
+\m   qwi-a*nu:tl-(q)hh-(y)i:-ch wi:y'a-'at haw'-a*hhin-'at sa-shtu*p
+\gl  that.which-because.of-SIM-INDF.3-INF.3 never-SHIFT eat-deprive.of-SHIFT crawl-species
+\wlt why.you.would never take.food.away.from animal
+\tln The reason why you never take food away from animals.
 
 # 002
 tlaac'umwa?ish ?ahh qwisnaak.
@@ -4862,11 +4862,11 @@ abbreviation: GL
 ID:           GL1
 ---
 # 001
-?uckwiis             kinhhuul.
-?u-ckwi*-s           kinhhu:l
-he-remains.of-1SG    NAME
-I.am.a.descendent.of NAME
-I am a descendent of _kinḥuuɬ_.
+\trs ?uckwiis             kinhhuul.
+\m   ?u-ckwi*-s           kinhhu:l
+\gl  he-remains.of-1SG    NAME
+\wlt I.am.a.descendent.of NAME
+\tln I am a descendent of _kinḥuuɬ_.
 
 # 002
 ?uckwiis             kinhhuul, ?ukchiil                      kwaatya, yaqukwitii           luucma, kwaatya ?uklaa.
@@ -6118,11 +6118,11 @@ abbreviation: GrayWhale
 ID:           GL3
 ---
 # 001
-maa?ak maa?uk maa?ukwis ha?umn'ahh.
-ma:?ak ma:?uk ma:?uk-?is ha?um-n'a*hh
-gray.whale travel travel-DIM food-seeking
-gray.whale travel stop.by.at.various.places searching.for.food
-The gray whale while traveling stops by at various places to search for food.
+\trs maa?ak maa?uk maa?ukwis ha?umn'ahh.
+\m   ma:?ak ma:?uk ma:?uk-?is ha?um-n'a*hh
+\gl  gray.whale travel travel-DIM food-seeking
+\wlt gray.whale travel stop.by.at.various.places searching.for.food
+\tln The gray whale while traveling stops by at various places to search for food.
 
 # 002
 maa?ak histaqshitl'al t'aqsii?il.
@@ -6290,11 +6290,11 @@ abbreviation: Kingfisher
 ID:           GL6
 ---
 # 001
-qii?atl, qiit'an'atl, qwiyuckwi?itq qwis ?ahh.
-qi:-'atl qi:-t'an'a-'atl qwiyu-ckwi*-?i*tq qwis ?ahh
-for.a.long.time-FIN for.a.long.time-slightly-FIN time-done-REL.3 happen.thus this
-happened.long.ago quite.a.while.ago when.it.occurred happen.thus this
-This happened a long time ago.
+\trs qii?atl, qiit'an'atl, qwiyuckwi?itq qwis ?ahh.
+\m   qi:-'atl qi:-t'an'a-'atl qwiyu-ckwi*-?i*tq qwis ?ahh
+\gl  for.a.long.time-FIN for.a.long.time-slightly-FIN time-done-REL.3 happen.thus this
+\wlt happened.long.ago quite.a.while.ago when.it.occurred happen.thus this
+\tln This happened a long time ago.
 
 # 002
 siikc'intl, siikaa hitac'intl maaqtusiis.
@@ -8060,11 +8060,11 @@ abbreviation: LgChange
 ID:           CL14
 ---
 # 001
-chuu, ?uqhhli?aqtls qwis\hhin kwiis\hhiichitluk ciqy'ak.
-chu: ?u-qhhli-?aqtl-s qwis\hh-(y)in kwis-hhi*-chitl-uk ciq-y'akw
-now.then it-tell.about-FUT-1SG how-INDF.1PL different-DUR-MOM-POSS speak-device
-now.then I.will.tell.about how.we ours.got.changed language
-Now, I will talk about how our language has changed.
+\trs chuu, ?uqhhli?aqtls qwis\hhin kwiis\hhiichitluk ciqy'ak.
+\m   chu: ?u-qhhli-?aqtl-s qwis\hh-(y)in kwis-hhi*-chitl-uk ciq-y'akw
+\gl  now.then it-tell.about-FUT-1SG how-INDF.1PL different-DUR-MOM-POSS speak-device
+\wlt now.then I.will.tell.about how.we ours.got.changed language
+\tln Now, I will talk about how our language has changed.
 
 # 002
 ?ayumt?aal hhaathhaakwatl kwiscachitl.
@@ -8178,11 +8178,11 @@ abbreviation: Marriage
 ID:           CL10
 ---
 # 001
-huu?ak ?uyi ?uuqhhli?aqtl, qwis\hhitii?aal?al ?uc\hhintlst'al.
-hu:?ak ?uyi ?u-qhhli-?aqtl qwis\hh-it-(y)i:-?a:l-?a*l ?u-c\hhintl-st'al
-long.ago at.the.time it-tell.about-FUT how-PAST-INDF.3-always-PL they-marry.to-to.each.other
-long.ago at.that.time I.will.tell.about how.they.would marry.each.other
-I will talk about how people got married long ago.
+\trs huu?ak ?uyi ?uuqhhli?aqtl, qwis\hhitii?aal?al ?uc\hhintlst'al.
+\m   hu:?ak ?uyi ?u-qhhli-?aqtl qwis\hh-it-(y)i:-?a:l-?a*l ?u-c\hhintl-st'al
+\gl  long.ago at.the.time it-tell.about-FUT how-PAST-INDF.3-always-PL they-marry.to-to.each.other
+\wlt long.ago at.that.time I.will.tell.about how.they.would marry.each.other
+\tln I will talk about how people got married long ago.
 
 # 002
 hiist'i?atlquuch hhuu nay'aqak'atlquu, ?uhh ?a?iich'um?i ?_a?_aas\hhi yaqc\hhintl'aqtluk?itq hhaakwaatl.
@@ -8553,11 +8553,11 @@ abbreviation: Mink
 ID:           GL8
 ---
 # 001
-qii?atl, huu?ak, qiisasa.
-qi:-'atl hu:?ak qi:-sasa
-for.a.long.time-FIN long.ago for.a.long.time-precisely
-happened.long.ago long.ago long.time.ago
-This happened a long, long time ago.
+\trs qii?atl, huu?ak, qiisasa.
+\m   qi:-'atl hu:?ak qi:-sasa
+\gl  for.a.long.time-FIN long.ago for.a.long.time-precisely
+\wlt happened.long.ago long.ago long.time.ago
+\tln This happened a long, long time ago.
 
 # 002
 hixy'aa?ic'atlwa?ish, ch'aaxstimcm'it.
@@ -10717,11 +10717,11 @@ abbreviation: NameTaboo
 ID:           CL15
 ---
 # 001
-chuu qwis\hhitii?aal ch'ich'iihhliichitl ?_imtii ?uuqhhli?atls.
-chu: qwis\hh-it-(y)i:-?a:l DUPCV-ch'ihh-hhli-`i*chitl ?_imti* ?u-qhhli-'atl-s
-now.then how-PAST-INDF.3-always ??-supernatural-doing.excessively?-INC NAME it-tell.about-FINITE-1SG
-now.then how.it.used.to become.tabooed name I.will.tell.about
-Now, I will talk about how names used to get tabooed.
+\trs chuu qwis\hhitii?aal ch'ich'iihhliichitl ?_imtii ?uuqhhli?atls.
+\m   chu: qwis\hh-it-(y)i:-?a:l DUPCV-ch'ihh-hhli-`i*chitl ?_imti* ?u-qhhli-'atl-s
+\gl  now.then how-PAST-INDF.3-always ??-supernatural-doing.excessively?-INC NAME it-tell.about-FINITE-1SG
+\wlt now.then how.it.used.to become.tabooed name I.will.tell.about
+\tln Now, I will talk about how names used to get tabooed.
 
 # 002
 chuu hishukwit?aal walyaqilhh qahhshitl.
@@ -10833,11 +10833,11 @@ abbreviation: Qawiqaalth
 ID:           GL7
 ---
 # 001
-qii?atl, huu?ak, qiisasa.
-qi:-'atl hu:?ak qi:-sasa
-for.a.long-time-FIN long.ago for.a.long.time-precisely
-happened.long.ago long.ago long.time.ago
-It happened a long, long time ago.
+\trs qii?atl, huu?ak, qiisasa.
+\m   qi:-'atl hu:?ak qi:-sasa
+\gl  for.a.long-time-FIN long.ago for.a.long.time-precisely
+\wlt happened.long.ago long.ago long.time.ago
+\tln It happened a long, long time ago.
 
 # 002
 qawiqaal ?uklaa hhaaw'ilatl.
@@ -12194,11 +12194,11 @@ abbreviation: RavenFinger
 ID:           CL1
 ---
 # 001
-chuu, humwic'a?aqtls ?uuqhhli qwishhitiich kumtkwachi?at qu?ushin kukwinksi ?an c'iic'ikiikit na?aa?at.
-chu: humwic'a-?aqtl-s ?u-qhhli qwishh-it-(y)i:-ch kumt-kwa-chitl-'at qu?ushin kukwinksi ?an c'i:k-i:kw-it na?a*-'at
-now.then telling.myth-FUT-1SG it-tell.about how-PAST-INDF.3-INF.3 curl-completely-MOM-PASS raven finger because intimate-one.who.always.does-PAST hear-SHIFT
-now.then I.will.tell.a.story.about tell.about how.he.did his.got.curled.up raven finger because he.was.imitator it.was.heard
-Now then, I will tell you a story about how Raven got crooked fingers as a result of imitating what he heard.
+\trs chuu, humwic'a?aqtls ?uuqhhli qwishhitiich kumtkwachi?at qu?ushin kukwinksi ?an c'iic'ikiikit na?aa?at.
+\m   chu: humwic'a-?aqtl-s ?u-qhhli qwishh-it-(y)i:-ch kumt-kwa-chitl-'at qu?ushin kukwinksi ?an c'i:k-i:kw-it na?a*-'at
+\gl  now.then telling.myth-FUT-1SG it-tell.about how-PAST-INDF.3-INF.3 curl-completely-MOM-PASS raven finger because intimate-one.who.always.does-PAST hear-SHIFT
+\wlt now.then I.will.tell.a.story.about tell.about how.he.did his.got.curled.up raven finger because he.was.imitator it.was.heard
+\tln Now then, I will tell you a story about how Raven got crooked fingers as a result of imitating what he heard.
 
 # 002
 wik'atlquuch wikiichitl ?un'aahh qwishh?aahhii ha?uk.
@@ -12557,11 +12557,11 @@ abbreviation: SnipeRaven
 ID:           CL4
 ---
 # 001
-yaacpanach'atlwa?ish qu?ushinm'it qwaa?amitiich?aal haw'iiqstu?atlquu.
-yac-panach-'atl-wa*?i*sh qu?ushin-m'i*t qwa:-'ap-it-(y)i:-ch-?a:l haw'i:qstu(tl)-'atl-qu:
-step-move.about.randomly-FINITE-QUOT.3 raven-son.of thus-MOMCAUS-PAST-INDF.3-INF.3-always get.hungry-FINITE-COND
-he.went.for.a.walk.they.say Son.of.Raven as.he.usually.did when.he.got.hungry
-Son of Raven went for a walk as he usually did when he got hungry.
+\trs yaacpanach'atlwa?ish qu?ushinm'it qwaa?amitiich?aal haw'iiqstu?atlquu.
+\m   yac-panach-'atl-wa*?i*sh qu?ushin-m'i*t qwa:-'ap-it-(y)i:-ch-?a:l haw'i:qstu(tl)-'atl-qu:
+\gl  step-move.about.randomly-FINITE-QUOT.3 raven-son.of thus-MOMCAUS-PAST-INDF.3-INF.3-always get.hungry-FINITE-COND
+\wlt he.went.for.a.walk.they.say Son.of.Raven as.he.usually.did when.he.got.hungry
+\tln Son of Raven went for a walk as he usually did when he got hungry.
 
 # 002
 ?_ac'ikckwi ?uuwatl hil?aahhi ha?uk haw'iiqstu?atlquu.
@@ -12871,11 +12871,11 @@ abbreviation: Transformer
 ID:           CL5
 ---
 # 001
-hashiy'inchitlwa?ish kwiikwistupsamitch'a ?an hintshitlis. hashiichitl muwaachm'it.
-hashiy'in-chitl-wa*?i*sh DUP-kwis-tu*p-sa*p-it-ch'a ?an hint-shit-?is hashi*-chitl muwach-m'i*t
-hear.about-MOM-QUOT.3 DISTR-different-thing-MOMCAUS-PAST-DUB that come-MOM-DIM hear.about-MOM deer-son.of
-heard.about.it one.that.might.change.things.into.different.things that comes.this.way heard.about.it Son.of.Deer
-Son of Deer heard that the Transformer was coming this way.
+\trs hashiy'inchitlwa?ish kwiikwistupsamitch'a ?an hintshitlis. hashiichitl muwaachm'it.
+\m   hashiy'in-chitl-wa*?i*sh DUP-kwis-tu*p-sa*p-it-ch'a ?an hint-shit-?is hashi*-chitl muwach-m'i*t
+\gl  hear.about-MOM-QUOT.3 DISTR-different-thing-MOMCAUS-PAST-DUB that come-MOM-DIM hear.about-MOM deer-son.of
+\wlt heard.about.it one.that.might.change.things.into.different.things that comes.this.way heard.about.it Son.of.Deer
+\tln Son of Deer heard that the Transformer was coming this way.
 
 # 002
 ha wim'aaqtls qwistuupsap'atquus, waa?ic'atl. ?uun'ahhiichitl'aqtl, ?un'aahhshitl qwis?aahhii hitachinkshitl.
@@ -13183,11 +13183,11 @@ abbreviation: Wolf
 ID:           GL5
 ---
 # 001
-qii?atl huu?ak ?uyi qiisasa.
-qi:-'atl hu:?ak ?uyi qi:-sasa
-for.a.long.time-FIN long.ago at.that.time for.a.long.time-precisely
-happened.long.ago long.ago at.that.time long.time.ago
-This happened a very long time ago.
+\trs qii?atl huu?ak ?uyi qiisasa.
+\m   qi:-'atl hu:?ak ?uyi qi:-sasa
+\gl  for.a.long.time-FIN long.ago at.that.time for.a.long.time-precisely
+\wlt happened.long.ago long.ago at.that.time long.time.ago
+\tln This happened a very long time ago.
 
 # 002
 wikyuuyiich hinatshitl ?ahh Europeans, mamaln'i.
