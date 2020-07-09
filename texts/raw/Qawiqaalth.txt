@@ -4,11 +4,11 @@ abbreviation: Qawiqaalth
 ID:           GL7
 ---
 # 001
-qii?atl, huu?ak, qiisasa.
-qi:-'atl hu:?ak qi:-sasa
-for.a.long-time-FIN long.ago for.a.long.time-precisely
-happened.long.ago long.ago long.time.ago
-It happened a long, long time ago.
+\trs qii?atl, huu?ak, qiisasa.
+\m   qi:-'atl hu:?ak qi:-sasa
+\gl  for.a.long-time-FIN long.ago for.a.long.time-precisely
+\wlt happened.long.ago long.ago long.time.ago
+\tln It happened a long, long time ago.
 
 # 002
 qawiqaal ?uklaa hhaaw'ilatl.

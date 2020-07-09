@@ -6,11 +6,11 @@ abbreviation: Feasts
 ID:           CL12
 ---
 # 001
-chuu ?uumac'uk?aqtlsish tl'iic'uumis n'ushitl.
-chu: ?u-mac'uk-?aqtl-si*sh tl'i:c'u:-mis n'ushitl
-now.then it-talking.about-FUT-IND.1SG feast-thing potlatch
-now.then I.will.talk.about
-Now, I will talk about feasts and potlatches.
+\trs chuu ?uumac'uk?aqtlsish tl'iic'uumis n'ushitl.
+\m   chu: ?u-mac'uk-?aqtl-si*sh tl'i:c'u:-mis n'ushitl
+\gl  now.then it-talking.about-FUT-IND.1SG feast-thing potlatch
+\wlt now.then I.will.talk.about
+\tln Now, I will talk about feasts and potlatches.
 
 # 002
 wiiy'umt?ish c'aawuu n'ushitlnak'atlquu.

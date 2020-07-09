@@ -4,11 +4,11 @@ abbreviation: Dog
 ID:           GL9
 ---
 # 001
-qwaa?atl ?_iniitl, yaaqtlst'al ?uy'iihha, ?unaak?is?al hilhh?iitq, ?_imsshitl.
-qwa:-'atl ?_ini:tl ya:-'aqtl-st'al ?u-y'i*hha ?u-na*k-?is-?a*l hil-(q)hh-?i*tq ?_ims-shi(tl)
-thus-FIN dog say.harsh.words-inside-reciprocally it-because.of it-having-DIM-PL there-SIM-REL.3 urinate.to.mark.the.boundary-MOM
-like.this dog hate.each.other on.account.of.it they.have wherever urinate.to.mark.the.boundary
-Dogs hate each other, because they have a special territory where they mark with their urine.
+\trs qwaa?atl ?_iniitl, yaaqtlst'al ?uy'iihha, ?unaak?is?al hilhh?iitq, ?_imsshitl.
+\m   qwa:-'atl ?_ini:tl ya:-'aqtl-st'al ?u-y'i*hha ?u-na*k-?is-?a*l hil-(q)hh-?i*tq ?_ims-shi(tl)
+\gl  thus-FIN dog say.harsh.words-inside-reciprocally it-because.of it-having-DIM-PL there-SIM-REL.3 urinate.to.mark.the.boundary-MOM
+\wlt like.this dog hate.each.other on.account.of.it they.have wherever urinate.to.mark.the.boundary
+\tln Dogs hate each other, because they have a special territory where they mark with their urine.
 
 # 002
 ?ahh ?unaak?al, hhahhumt'uu, ?uushc'aluk sashtup hitacpa.

@@ -6,11 +6,11 @@ abbreviation: RavenFinger
 ID:           CL1
 ---
 # 001
-chuu, humwic'a?aqtls ?uuqhhli qwishhitiich kumtkwachi?at qu?ushin kukwinksi ?an c'iic'ikiikit na?aa?at.
-chu: humwic'a-?aqtl-s ?u-qhhli qwishh-it-(y)i:-ch kumt-kwa-chitl-'at qu?ushin kukwinksi ?an c'i:k-i:kw-it na?a*-'at
-now.then telling.myth-FUT-1SG it-tell.about how-PAST-INDF.3-INF.3 curl-completely-MOM-PASS raven finger because intimate-one.who.always.does-PAST hear-SHIFT
-now.then I.will.tell.a.story.about tell.about how.he.did his.got.curled.up raven finger because he.was.imitator it.was.heard
-Now then, I will tell you a story about how Raven got crooked fingers as a result of imitating what he heard.
+\trs chuu, humwic'a?aqtls ?uuqhhli qwishhitiich kumtkwachi?at qu?ushin kukwinksi ?an c'iic'ikiikit na?aa?at.
+\m   chu: humwic'a-?aqtl-s ?u-qhhli qwishh-it-(y)i:-ch kumt-kwa-chitl-'at qu?ushin kukwinksi ?an c'i:k-i:kw-it na?a*-'at
+\gl  now.then telling.myth-FUT-1SG it-tell.about how-PAST-INDF.3-INF.3 curl-completely-MOM-PASS raven finger because intimate-one.who.always.does-PAST hear-SHIFT
+\wlt now.then I.will.tell.a.story.about tell.about how.he.did his.got.curled.up raven finger because he.was.imitator it.was.heard
+\tln Now then, I will tell you a story about how Raven got crooked fingers as a result of imitating what he heard.
 
 # 002
 wik'atlquuch wikiichitl ?un'aahh qwishh?aahhii ha?uk.

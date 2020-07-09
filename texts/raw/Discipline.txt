@@ -6,11 +6,11 @@ abbreviation: Discipline
 ID:           CL13
 ---
 # 001
-chuu ?uuqhhli?aqtls qwisqhhin kwiis\hhinchitl quu?asqin.
-chu: ?u-qhhli-?aqtl-s qwis-(q)hh-hhin kwi:s\hhin-chitl qu:?as-qin
-now.then it-tell.about-FUT-1SG do.so-SIM-INTER.1PL different-MOM Indian-REL.1PL
-now.then I.will.tell.about why.we changed we.Indians
-Now, I will talk about why we Indians changed.
+\trs chuu ?uuqhhli?aqtls qwisqhhin kwiis\hhinchitl quu?asqin.
+\m   chu: ?u-qhhli-?aqtl-s qwis-(q)hh-hhin kwi:s\hhin-chitl qu:?as-qin
+\gl  now.then it-tell.about-FUT-1SG do.so-SIM-INTER.1PL different-MOM Indian-REL.1PL
+\wlt now.then I.will.tell.about why.we changed we.Indians
+\tln Now, I will talk about why we Indians changed.
 
 # 002
 ?uuy'intlnish hhaahhuupach'akukqin wikiichitlna.

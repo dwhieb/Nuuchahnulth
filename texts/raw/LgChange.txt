@@ -6,11 +6,11 @@ abbreviation: LgChange
 ID:           CL14
 ---
 # 001
-chuu, ?uqhhli?aqtls qwis\hhin kwiis\hhiichitluk ciqy'ak.
-chu: ?u-qhhli-?aqtl-s qwis\hh-(y)in kwis-hhi*-chitl-uk ciq-y'akw
-now.then it-tell.about-FUT-1SG how-INDF.1PL different-DUR-MOM-POSS speak-device
-now.then I.will.tell.about how.we ours.got.changed language
-Now, I will talk about how our language has changed.
+\trs chuu, ?uqhhli?aqtls qwis\hhin kwiis\hhiichitluk ciqy'ak.
+\m   chu: ?u-qhhli-?aqtl-s qwis\hh-(y)in kwis-hhi*-chitl-uk ciq-y'akw
+\gl  now.then it-tell.about-FUT-1SG how-INDF.1PL different-DUR-MOM-POSS speak-device
+\wlt now.then I.will.tell.about how.we ours.got.changed language
+\tln Now, I will talk about how our language has changed.
 
 # 002
 ?ayumt?aal hhaathhaakwatl kwiscachitl.

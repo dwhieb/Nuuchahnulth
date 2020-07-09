@@ -6,11 +6,11 @@ abbreviation: DeerJigging
 ID:           CL2
 ---
 # 001
-?uuqumhhiqaqwa?ish katlhhshitl, tlumkshitl muwaachm'it.
-?u*qumhhi-qaq-wa*?i*sh katlhh-shitl tlumk-shitl muwach-m'i*t
-calm-very-QUOT.3 daylight-MOM awoke-MOM deer-son.of
-they.say.it.was.very.calm morning woke.up Son.of.Deer
-It was a very calm morning. Son of Deer woke up.
+\trs ?uuqumhhiqaqwa?ish katlhhshitl, tlumkshitl muwaachm'it.
+\m   ?u*qumhhi-qaq-wa*?i*sh katlhh-shitl tlumk-shitl muwach-m'i*t
+\gl  calm-very-QUOT.3 daylight-MOM awoke-MOM deer-son.of
+\wlt they.say.it.was.very.calm morning woke.up Son.of.Deer
+\tln It was a very calm morning. Son of Deer woke up.
 
 # 002
 ?_aasiqnakshitl liliitapi?aqtl.

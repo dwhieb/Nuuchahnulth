@@ -6,11 +6,11 @@ abbreviation: NameTaboo
 ID:           CL15
 ---
 # 001
-chuu qwis\hhitii?aal ch'ich'iihhliichitl ?_imtii ?uuqhhli?atls.
-chu: qwis\hh-it-(y)i:-?a:l DUPCV-ch'ihh-hhli-`i*chitl ?_imti* ?u-qhhli-'atl-s
-now.then how-PAST-INDF.3-always ??-supernatural-doing.excessively?-INC NAME it-tell.about-FINITE-1SG
-now.then how.it.used.to become.tabooed name I.will.tell.about
-Now, I will talk about how names used to get tabooed.
+\trs chuu qwis\hhitii?aal ch'ich'iihhliichitl ?_imtii ?uuqhhli?atls.
+\m   chu: qwis\hh-it-(y)i:-?a:l DUPCV-ch'ihh-hhli-`i*chitl ?_imti* ?u-qhhli-'atl-s
+\gl  now.then how-PAST-INDF.3-always ??-supernatural-doing.excessively?-INC NAME it-tell.about-FINITE-1SG
+\wlt now.then how.it.used.to become.tabooed name I.will.tell.about
+\tln Now, I will talk about how names used to get tabooed.
 
 # 002
 chuu hishukwit?aal walyaqilhh qahhshitl.

@@ -6,11 +6,11 @@ abbreviation: DogChildren
 ID:           CL7
 ---
 # 001
-hhakwatlnakitwa?ish?al ma?ayil?i.
-hhakwatl-na*k-it-wa*?i*sh-?a*l ma-?ayil-?i*
-daughter-having-PAST-QUOT.3-PL dwell-in.a.house-DEF
-they.had.a.daughter the.household
-This family had a daughter.
+\trs hhakwatlnakitwa?ish?al ma?ayil?i.
+\m   hhakwatl-na*k-it-wa*?i*sh-?a*l ma-?ayil-?i*
+\gl  daughter-having-PAST-QUOT.3-PL dwell-in.a.house-DEF
+\wlt they.had.a.daughter the.household
+\tln This family had a daughter.
 
 # 002
 sach'ica?ap'atlquuch ?uksna?_aal ?_iniitl, ?atquu hawilshitlshi?i?aal ?_iilchsna?_aal, wawaa?at nananiqsak.

@@ -6,11 +6,11 @@ abbreviation: Afterbirth
 ID:           CL11
 ---
 # 001
-?aamuml?atlquu nay'aqak, ?ayaakit?aal qwaqwaa?aahhii ?uuksna?_aal c'ahhwackwi. ?an ?uutaqit?aal walyaqilhh.
-?am-uml-'atl-qu: nay'aqak ?aya-?a*k-it-?a:l DUP.CV-qwa:-'a:hh-(y)i: ?u-ksna?_a:l c'ahhwackwi ?an ?u-taq-it-?a:l wal-yaq-`il-(q)hh
-first-be.born-FINITE-COND baby many-POSS-PAST-always DISTR-thus-perhaps-INDF.3 it-handling afterbirth because it-take.care.of-PAST-always go.home-done-in.the.house-SIM
-when.first.born baby there.are.many they.used.to.do handling.it afterbirth because they.used.to.take.care.of at.home
-When a baby was born, they used to do many things with the afterbirth, since they used to take care of it at home.
+\trs ?aamuml?atlquu nay'aqak, ?ayaakit?aal qwaqwaa?aahhii ?uuksna?_aal c'ahhwackwi. ?an ?uutaqit?aal walyaqilhh.
+\m   ?am-uml-'atl-qu: nay'aqak ?aya-?a*k-it-?a:l DUP.CV-qwa:-'a:hh-(y)i: ?u-ksna?_a:l c'ahhwackwi ?an ?u-taq-it-?a:l wal-yaq-`il-(q)hh
+\gl  first-be.born-FINITE-COND baby many-POSS-PAST-always DISTR-thus-perhaps-INDF.3 it-handling afterbirth because it-take.care.of-PAST-always go.home-done-in.the.house-SIM
+\wlt when.first.born baby there.are.many they.used.to.do handling.it afterbirth because they.used.to.take.care.of at.home
+\tln When a baby was born, they used to do many things with the afterbirth, since they used to take care of it at home.
 
 # 002
 c'uy'iitap'atl, wik, ?anasila c'uy'iitap wahhshitl.

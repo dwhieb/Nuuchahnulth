@@ -4,11 +4,11 @@ abbreviation: Wolf
 ID:           GL5
 ---
 # 001
-qii?atl huu?ak ?uyi qiisasa.
-qi:-'atl hu:?ak ?uyi qi:-sasa
-for.a.long.time-FIN long.ago at.that.time for.a.long.time-precisely
-happened.long.ago long.ago at.that.time long.time.ago
-This happened a very long time ago.
+\trs qii?atl huu?ak ?uyi qiisasa.
+\m   qi:-'atl hu:?ak ?uyi qi:-sasa
+\gl  for.a.long.time-FIN long.ago at.that.time for.a.long.time-precisely
+\wlt happened.long.ago long.ago at.that.time long.time.ago
+\tln This happened a very long time ago.
 
 # 002
 wikyuuyiich hinatshitl ?ahh Europeans, mamaln'i.
