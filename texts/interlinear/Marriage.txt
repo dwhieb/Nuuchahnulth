@@ -6,11 +6,11 @@ abbreviation: Marriage
 ID:           CL10
 ---
 # 001
-huuʔak   ʔuyi         ʔuuqḥɬiʔaqƛ,      qʷisḥitiiʔaaɬʔaɬ          ʔucḥinƛst̓aɬ.
-huːʔak   ʔuyi         ʔu-qḥɬi-ʔaqƛ      qʷisḥ-it-(y)iː-ʔaːɬ-ʔa·ɬ  ʔu-cḥinƛ-st̓aɬ
-long.ago at.the.time  it-tell.about-FUT how-PAST-INDF.3-always-PL they-marry.to-to.each.other
-long.ago at.that.time I.will.tell.about how.they.would            marry.each.other
-I will talk about how people got married long ago.
+\trs huuʔak   ʔuyi         ʔuuqḥɬiʔaqƛ,      qʷisḥitiiʔaaɬʔaɬ          ʔucḥinƛst̓aɬ.
+\m   huːʔak   ʔuyi         ʔu-qḥɬi-ʔaqƛ      qʷisḥ-it-(y)iː-ʔaːɬ-ʔa·ɬ  ʔu-cḥinƛ-st̓aɬ
+\gl  long.ago at.the.time  it-tell.about-FUT how-PAST-INDF.3-always-PL they-marry.to-to.each.other
+\wlt long.ago at.that.time I.will.tell.about how.they.would            marry.each.other
+\tln I will talk about how people got married long ago.
 
 # 002
 hiist̓iʔaƛquuč                ḥuu    nay̓aqak̓aƛquu,         ʔuḥ        ʔaʔiič̓umʔi       ʕaʕaasḥi     yaqcḥinƛ̓aqƛukʔitq              ḥaakʷaaƛ.

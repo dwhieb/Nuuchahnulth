@@ -4,11 +4,11 @@ abbreviation: GrayWhale
 ID:           GL3
 ---
 # 001
-maaʔak     maaʔuk maaʔukʷis                 haʔumn̓aḥ.
-maːʔak     maːʔuk maːʔuk-ʔis                haʔum-n̓a·ḥ
-gray.whale travel travel-DIM                food-seeking
-gray.whale travel stop.by.at.various.places searching.for.food
-The gray whale while traveling stops by at various places to search for food.
+\trs maaʔak     maaʔuk maaʔukʷis                 haʔumn̓aḥ.
+\m   maːʔak     maːʔuk maːʔuk-ʔis                haʔum-n̓a·ḥ
+\gl  gray.whale travel travel-DIM                food-seeking
+\wlt gray.whale travel stop.by.at.various.places searching.for.food
+\tln The gray whale while traveling stops by at various places to search for food.
 
 # 002
 maaʔak     histaqšiƛ̓aɬ            t̓aqsiiʔiɬ.

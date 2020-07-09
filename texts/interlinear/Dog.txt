@@ -4,11 +4,11 @@ abbreviation: Dog
 ID:           GL9
 ---
 # 001
-qʷaaʔaƛ   ʕiniiƛ, yaaqƛst̓aɬ                           ʔuy̓iiḥa,         ʔunaakʔisʔaɬ     hiɬḥʔiitq,      ʕimsšiƛ.
-qʷaː-ʼaƛ  ʕiniːƛ  yaː-ʼaqƛ-st̓aɬ                       ʔu-y̓i·ḥa         ʔu-na·k-ʔis-ʔa·ɬ hiɬ-(q)ḥ-ʔi·tq  ʕims-ši(ƛ)
-thus-FIN  dog     say.harsh.words-inside-reciprocally it-because.of    it-having-DIM-PL there-SIM-REL.3 urinate.to.mark.the.boundary-MOM
-like.this dog     hate.each.other                     on.account.of.it they.have        wherever        urinate.to.mark.the.boundary
-Dogs hate each other, because they have a special territory where they mark with their urine.
+\trs qʷaaʔaƛ   ʕiniiƛ, yaaqƛst̓aɬ                           ʔuy̓iiḥa,         ʔunaakʔisʔaɬ     hiɬḥʔiitq,      ʕimsšiƛ.
+\m   qʷaː-ʼaƛ  ʕiniːƛ  yaː-ʼaqƛ-st̓aɬ                       ʔu-y̓i·ḥa         ʔu-na·k-ʔis-ʔa·ɬ hiɬ-(q)ḥ-ʔi·tq  ʕims-ši(ƛ)
+\gl  thus-FIN  dog     say.harsh.words-inside-reciprocally it-because.of    it-having-DIM-PL there-SIM-REL.3 urinate.to.mark.the.boundary-MOM
+\wlt like.this dog     hate.each.other                     on.account.of.it they.have        wherever        urinate.to.mark.the.boundary
+\tln Dogs hate each other, because they have a special territory where they mark with their urine.
 
 # 002
 ʔaḥ  ʔunaakʔaɬ,   ḥaḥumt̓uu, ʔuušc̓aɬuk saštup        hitacpa.

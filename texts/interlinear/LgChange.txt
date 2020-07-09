@@ -6,11 +6,11 @@ abbreviation: LgChange
 ID:           CL14
 ---
 # 001
-čuu,     ʔuqḥɬiʔaqƛs           qʷisḥin      kʷiisḥiičiƛuk          ciqy̓ak.
-čuː      ʔu-qḥɬi-ʔaqƛ-s        qʷisḥ-(y)in  kʷis-ḥi·-čiƛ-uk        ciq-y̓akʷ
-now.then it-tell.about-FUT-1SG how-INDF.1PL different-DUR-MOM-POSS speak-device
-now.then I.will.tell.about     how.we       ours.got.changed       language
-Now, I will talk about how our language has changed.
+\trs čuu,     ʔuqḥɬiʔaqƛs           qʷisḥin      kʷiisḥiičiƛuk          ciqy̓ak.
+\m   čuː      ʔu-qḥɬi-ʔaqƛ-s        qʷisḥ-(y)in  kʷis-ḥi·-čiƛ-uk        ciq-y̓akʷ
+\gl  now.then it-tell.about-FUT-1SG how-INDF.1PL different-DUR-MOM-POSS speak-device
+\wlt now.then I.will.tell.about     how.we       ours.got.changed       language
+\tln Now, I will talk about how our language has changed.
 
 # 002
 ʔayumtʔaaɬ            ḥaatḥaakʷaƛ kʷiscačiƛ.

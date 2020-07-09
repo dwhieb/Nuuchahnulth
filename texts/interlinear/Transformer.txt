@@ -6,11 +6,11 @@ abbreviation: Transformer
 ID:           CL5
 ---
 # 001
-hašiy̓inčiƛwaʔiš       kʷiikʷistupsamitč̓a                                 ʔan  hintšiƛis.     hašiičiƛ       muwaačm̓it.
-hašiy̓in-čiƛ-wa·ʔi·š   DUP-kʷis-tu·p-sa·p-it-č̓a                           ʔan  hint-šit-ʔis   haši·-čiƛ      muwač-m̓i·t
-hear.about-MOM-QUOT.3 DISTR-different-thing-MOMCAUS-PAST-DUB             that come-MOM-DIM   hear.about-MOM deer-son.of
-heard.about.it        one.that.might.change.things.into.different.things that comes.this.way heard.about.it Son.of.Deer
-Son of Deer heard that the Transformer was coming this way.
+\trs hašiy̓inčiƛwaʔiš       kʷiikʷistupsamitč̓a                                 ʔan  hintšiƛis.     hašiičiƛ       muwaačm̓it.
+\m   hašiy̓in-čiƛ-wa·ʔi·š   DUP-kʷis-tu·p-sa·p-it-č̓a                           ʔan  hint-šit-ʔis   haši·-čiƛ      muwač-m̓i·t
+\gl  hear.about-MOM-QUOT.3 DISTR-different-thing-MOMCAUS-PAST-DUB             that come-MOM-DIM   hear.about-MOM deer-son.of
+\wlt heard.about.it        one.that.might.change.things.into.different.things that comes.this.way heard.about.it Son.of.Deer
+\tln Son of Deer heard that the Transformer was coming this way.
 
 # 002
 ha   wim̓aaqƛs         qʷistuupsap̓atquus,                 waaʔic̓aƛ.       ʔuun̓aḥiičiƛ̓aqƛ,            ʔun̓aaḥšiƛ      qʷisʔaaḥii             hitačinkšiƛ.

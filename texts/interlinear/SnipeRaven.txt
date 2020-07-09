@@ -6,11 +6,11 @@ abbreviation: SnipeRaven
 ID:           CL4
 ---
 # 001
-yaacpanač̓aƛwaʔiš                       quʔušinm̓it   qʷaaʔamitiičʔaaɬ                      haw̓iiqstuʔaƛquu.
-yac-panač-ʼaƛ-wa·ʔi·š                  quʔušin-m̓i·t qʷaː-ʼap-it-(y)iː-č-ʔaːɬ              haw̓iːqstu(ƛ)-ʼaƛ-quː
-step-move.about.randomly-FINITE-QUOT.3 raven-son.of thus-MOMCAUS-PAST-INDF.3-INF.3-always get.hungry-FINITE-COND
-he.went.for.a.walk.they.say            Son.of.Raven as.he.usually.did                     when.he.got.hungry
-Son of Raven went for a walk as he usually did when he got hungry.
+\trs yaacpanač̓aƛwaʔiš                       quʔušinm̓it   qʷaaʔamitiičʔaaɬ                      haw̓iiqstuʔaƛquu.
+\m   yac-panač-ʼaƛ-wa·ʔi·š                  quʔušin-m̓i·t qʷaː-ʼap-it-(y)iː-č-ʔaːɬ              haw̓iːqstu(ƛ)-ʼaƛ-quː
+\gl  step-move.about.randomly-FINITE-QUOT.3 raven-son.of thus-MOMCAUS-PAST-INDF.3-INF.3-always get.hungry-FINITE-COND
+\wlt he.went.for.a.walk.they.say            Son.of.Raven as.he.usually.did                     when.he.got.hungry
+\tln Son of Raven went for a walk as he usually did when he got hungry.
 
 # 002
 ʕac̓ikckʷi            ʔuuwaƛ  hiɬʔaaḥi     haʔuk haw̓iiqstuʔaƛquu.

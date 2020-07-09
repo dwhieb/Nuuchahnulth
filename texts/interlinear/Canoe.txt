@@ -4,11 +4,11 @@ abbreviation: Canoe
 ID:           GL4
 ---
 # 001
-ʕasʕasš,                  č̓aapaciiɬw̓it̓as.
-DUP#-ʕas-š                č̓apac-iːɬ-w̓it̓as
-IT-do.carpenter.work-SPOR canoe-make-about.to
-doing.carpenter.work      about.to.make.a.canoe
-He is going to build a canoe.
+\trs ʕasʕasš,                  č̓aapaciiɬw̓it̓as.
+\m   DUP#-ʕas-š                č̓apac-iːɬ-w̓it̓as
+\gl  IT-do.carpenter.work-SPOR canoe-make-about.to
+\wlt doing.carpenter.work      about.to.make.a.canoe
+\tln He is going to build a canoe.
 
 # 002
 ḥumiis ʔun̓aaḥ      hitaaqƛ̓iƛ.

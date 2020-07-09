@@ -6,11 +6,11 @@ abbreviation: FirstFire
 ID:           CL3
 ---
 # 001
-čuu  ʔuuqḥɬiʔaqƛs          qʷisḥitiič                  quuʔas hiniip ʔink.
-čuuː ʔu-qḥɬi-ʔaqƛ-s        qʷis-(q)ḥ-it-(y)iː-č        quːʔas hiniːp ʔinkʷ
-OK   it-tell.about-FUT-1SG do.so-SIM-PAST-INDF.3-INF.3 human  catch  fire
-OK   I.will.tell.about     how.they.got                human  catch  fire
-OK, I will talk about how people got fire.
+\trs čuu  ʔuuqḥɬiʔaqƛs          qʷisḥitiič                  quuʔas hiniip ʔink.
+\m   čuuː ʔu-qḥɬi-ʔaqƛ-s        qʷis-(q)ḥ-it-(y)iː-č        quːʔas hiniːp ʔinkʷ
+\gl  OK   it-tell.about-FUT-1SG do.so-SIM-PAST-INDF.3-INF.3 human  catch  fire
+\wlt OK   I.will.tell.about     how.they.got                human  catch  fire
+\tln OK, I will talk about how people got fire.
 
 # 002
 wik̓iitukʷitwaʔiš              ʔink  quuʔas huuʔak   ʔuyi.

@@ -6,11 +6,11 @@ abbreviation: Afterbirth
 ID:           CL11
 ---
 # 001
-ʔaamumɬʔaƛquu             nay̓aqak, ʔayaakitʔaaɬ          qʷaqʷaaʔaaḥii             ʔuuksnaʕaaɬ c̓aḥʷackʷi. ʔan     ʔuutaqitʔaaɬ                waɬyaqiɬḥ.
-ʔam-umɬ-ʼaƛ-quː           nay̓aqak  ʔaya-ʔa·k-it-ʔaːɬ     DUP.CV-qʷaː-ʼaːḥ-(y)iː    ʔu-ksnaʕaːɬ c̓aḥʷackʷi  ʔan     ʔu-taq-it-ʔaːɬ              waɬ-yaq-ʽiɬ-(q)ḥ
-first-be.born-FINITE-COND baby     many-POSS-PAST-always DISTR-thus-perhaps-INDF.3 it-handling afterbirth because it-take.care.of-PAST-always go.home-done-in.the.house-SIM
-when.first.born           baby     there.are.many        they.used.to.do           handling.it afterbirth because they.used.to.take.care.of   at.home
-When a baby was born, they used to do many things with the afterbirth, since they used to take care of it at home.
+\trs ʔaamumɬʔaƛquu             nay̓aqak, ʔayaakitʔaaɬ          qʷaqʷaaʔaaḥii             ʔuuksnaʕaaɬ c̓aḥʷackʷi. ʔan     ʔuutaqitʔaaɬ                waɬyaqiɬḥ.
+\m   ʔam-umɬ-ʼaƛ-quː           nay̓aqak  ʔaya-ʔa·k-it-ʔaːɬ     DUP.CV-qʷaː-ʼaːḥ-(y)iː    ʔu-ksnaʕaːɬ c̓aḥʷackʷi  ʔan     ʔu-taq-it-ʔaːɬ              waɬ-yaq-ʽiɬ-(q)ḥ
+\gl  first-be.born-FINITE-COND baby     many-POSS-PAST-always DISTR-thus-perhaps-INDF.3 it-handling afterbirth because it-take.care.of-PAST-always go.home-done-in.the.house-SIM
+\wlt when.first.born           baby     there.are.many        they.used.to.do           handling.it afterbirth because they.used.to.take.care.of   at.home
+\tln When a baby was born, they used to do many things with the afterbirth, since they used to take care of it at home.
 
 # 002
 c̓uy̓iitap̓aƛ,              wik, ʔanasiɬa   c̓uy̓iitap           waḥšiƛ.

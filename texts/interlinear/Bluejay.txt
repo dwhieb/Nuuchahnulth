@@ -6,11 +6,11 @@ abbreviation: Bluejay
 ID:           CL6
 ---
 # 001
-mamuukyaqiɬitwaʔiš                 ʔumʔiiqsu. ƛ̓upiiya.
-mamuːk-yaq-ʽiɬ-it-wa·ʔi·š          ʔumʔi·qsu  ƛ̓up-(y)a·-iya
-work-done-on.the.floor-PAST-QUOT.3 mother     warm-DUR-at.the.time
-she.was.working.on.the.floor       mother     it.was.a.hot.day
-The mother was working on a mat sitting on the floor. It was a hot day.
+\trs mamuukyaqiɬitwaʔiš                 ʔumʔiiqsu. ƛ̓upiiya.
+\m   mamuːk-yaq-ʽiɬ-it-wa·ʔi·š          ʔumʔi·qsu  ƛ̓up-(y)a·-iya
+\gl  work-done-on.the.floor-PAST-QUOT.3 mother     warm-DUR-at.the.time
+\wlt she.was.working.on.the.floor       mother     it.was.a.hot.day
+\tln The mother was working on a mat sitting on the floor. It was a hot day.
 
 # 002
 hiɬaʕaqiɬḥʔaƛ                        maʔiƛqacʔis   ʔumʔiiqsak     ʔuukʷiiɬ c̓iiḥati.

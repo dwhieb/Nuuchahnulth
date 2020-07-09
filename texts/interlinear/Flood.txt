@@ -6,11 +6,11 @@ abbreviation: Flood
 ID:           CL8
 ---
 # 001
-waay̓aqstuƛwaʔiš       ʕaanism̓it    ʔan  ʔuʔumḥičiʔaƛ              ɬučnaakšiƛquu.
-wa·ɬ-ʼaqstuƛ-wa·ʔi·š  ʕaːnis-m̓i·t  ʔan  ʔuʔumḥi-či(ƛ)-ʼaƛ         ɬuč-na·k-šiƛ-quː
-say-inside-QUOT.3     crane-son.of that fit.right-MOM-FINITE      wife-having-MOM-COND
-he.thought.to.himself Son.of.Crane that it.was.the.right.time.for he.would.get.a.wife
-Son of Crane thought to himself that it was time for him to get a wife.
+\trs waay̓aqstuƛwaʔiš       ʕaanism̓it    ʔan  ʔuʔumḥičiʔaƛ              ɬučnaakšiƛquu.
+\m   wa·ɬ-ʼaqstuƛ-wa·ʔi·š  ʕaːnis-m̓i·t  ʔan  ʔuʔumḥi-či(ƛ)-ʼaƛ         ɬuč-na·k-šiƛ-quː
+\gl  say-inside-QUOT.3     crane-son.of that fit.right-MOM-FINITE      wife-having-MOM-COND
+\wlt he.thought.to.himself Son.of.Crane that it.was.the.right.time.for he.would.get.a.wife
+\tln Son of Crane thought to himself that it was time for him to get a wife.
 
 # 002
 ʔucačiƛ      saapinqas      ciʕasw̓it̓as.

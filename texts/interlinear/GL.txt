@@ -4,11 +4,11 @@ abbreviation: GL
 ID:           GL1
 ---
 # 001
-ʔuckʷiis             kinḥuuɬ.
-ʔu-ckʷi·-s           kinḥuːɬ
-he-remains.of-1SG    NAME
-I.am.a.descendent.of NAME
-I am a descendent of _kinḥuuɬ_.
+\trs ʔuckʷiis             kinḥuuɬ.
+\m   ʔu-ckʷi·-s           kinḥuːɬ
+\gl  he-remains.of-1SG    NAME
+\wlt I.am.a.descendent.of NAME
+\tln I am a descendent of _kinḥuuɬ_.
 
 # 002
 ʔuckʷiis             kinḥuuɬ, ʔukčiiɬ                       kʷaatya, yaqukʷitii           ɬuucma, kʷaatya ʔukɬaa.

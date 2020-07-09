@@ -4,11 +4,11 @@ abbreviation: Kingfisher
 ID:           GL6
 ---
 # 001
-qiiʔaƛ,             qiit̓an̓aƛ,                    qʷiyuckʷiʔitq     qʷis        ʔaḥ.
-qiː-ʼaƛ             qiː-t̓an̓a-ʼaƛ                 qʷiyu-ckʷi·-ʔi·tq qʷis        ʔaḥ
-for.a.long.time-FIN for.a.long.time-slightly-FIN time-done-REL.3   happen.thus this
-happened.long.ago   quite.a.while.ago            when.it.occurred  happen.thus this
-This happened a long time ago.
+\trs qiiʔaƛ,             qiit̓an̓aƛ,                    qʷiyuckʷiʔitq     qʷis        ʔaḥ.
+\m   qiː-ʼaƛ             qiː-t̓an̓a-ʼaƛ                 qʷiyu-ckʷi·-ʔi·tq qʷis        ʔaḥ
+\gl  for.a.long.time-FIN for.a.long.time-slightly-FIN time-done-REL.3   happen.thus this
+\wlt happened.long.ago   quite.a.while.ago            when.it.occurred  happen.thus this
+\tln This happened a long time ago.
 
 # 002
 siikc̓inƛ,          siikaa       hitac̓inƛ             maaqtusiis.

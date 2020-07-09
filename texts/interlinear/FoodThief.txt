@@ -6,11 +6,11 @@ abbreviation: FoodThief
 ID:           CL9
 ---
 # 001
-qʷiinuuƛḥiič                           wiiy̓aat     haw̓aaḥinʔat          saštup.
-qʷi-a·nuːƛ-(q)ḥ-(y)iː-č                wiːy̓a-ʼat   haw̓-a·ḥin-ʼat        sa-štu·p
-that.which-because.of-SIM-INDF.3-INF.3 never-SHIFT eat-deprive.of-SHIFT crawl-species
-why.you.would                          never       take.food.away.from  animal
-The reason why you never take food away from animals.
+\trs qʷiinuuƛḥiič                           wiiy̓aat     haw̓aaḥinʔat          saštup.
+\m   qʷi-a·nuːƛ-(q)ḥ-(y)iː-č                wiːy̓a-ʼat   haw̓-a·ḥin-ʼat        sa-štu·p
+\gl  that.which-because.of-SIM-INDF.3-INF.3 never-SHIFT eat-deprive.of-SHIFT crawl-species
+\wlt why.you.would                          never       take.food.away.from  animal
+\tln The reason why you never take food away from animals.
 
 # 002
 ƛaac̓umwaʔiš     ʔaḥ  qʷisnaak.

@@ -4,11 +4,11 @@ abbreviation: Eclipse
 ID:           GL2
 ---
 # 001
-huuʔak   ʔuyi         qiisasaƛ.
-huːʔak   ʔuyi         qiː-sasaƛ-ʼaƛ
-long.ago at.that.time for.a.long.time-precisely-FIN
-long.ago at.that.time long.long.ago
-That happened a long, long time ago.
+\trs huuʔak   ʔuyi         qiisasaƛ.
+\m   huːʔak   ʔuyi         qiː-sasaƛ-ʼaƛ
+\gl  long.ago at.that.time for.a.long.time-precisely-FIN
+\wlt long.ago at.that.time long.long.ago
+\tln That happened a long, long time ago.
 
 # 002
 yaqʷiiʔitq      quuʔas ʔuuqḥɬaƛquu        m̓ačiʔat
