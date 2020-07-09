@@ -22,7 +22,7 @@ const {
   writeFile,
 } = fs;
 
-const substitutions = require(`./transliteration.json`);
+const substitutions = require(`../transliteration.json`);
 
 function convertText(text) {
 
