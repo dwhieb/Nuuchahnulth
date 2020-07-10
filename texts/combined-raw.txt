@@ -8913,7 +8913,7 @@ Although he was all alone in the woods, sometimes there was a peculiar smell in 
 hm! waa?atlquuch, hm!
 ~ wa:-'atl-qu:-ch ~
 ~ say-FIN-COND.3-INF ~
-~ he.would.say
+~ he.would.say ~
 Hm! (sniffing sound) — He would say "Hm!"
 
 # 053
@@ -8934,8 +8934,8 @@ He put his fish up on the rack (to dry).
 tlimkshitlwa?ish ?uuyu?aalshitlwa?ish quu?as hhaal ?iihh sukwi?atuk yuul?atl'atl.
 tlimk-shi(tl)-wa*?i*sh ?u-L-yu?a:l-shi(tl)-wa*?i*sh qu:?as hha:l ?i:hh sukwi(tl)-'atuk yu:l-'atl-'atl
 awake-MOM-QUOT.3 it-??-aware.of-MOM-QUOT.3 person there big took-?? over.there-??-FIN
-woke.up.it.is.said realized.it.is.said person there big reach.for went.over there
-He work up and realized that there was a big person. Suddenly he reached for something (the fish) and left with it.
+woke.up.it.is.said realized.it.is.said person there big reach.for went.over.there
+He woke up and realized that there was a big person. Suddenly he reached for something (the fish) and left with it.
 
 # 056
 ku?iichitl hi?iiswa?ish yacckwii, chims.
@@ -8954,7 +8954,7 @@ He cannot confront a bear because he is weak.
 # 058
 wim'aaqtl ch'ii?_aqa.
 wim'a:qtl ch'i*q-'aqa
-incapable.of hurt-severally-doing
+incapable.of hurt-severally.doing
 incapable.of fight
 He cannot fight.
 
@@ -9059,8 +9059,8 @@ He said, "You go to sleep!"
 # 073
 huhhtak ch'aasta ?in wax?ichitlw'it'as qwaxyaac'ikm'it.
 huhhtak ch'a:sta ?in wa?ich-<x>-itl-w'it'as qwaya:c'ik-<x>-m'i*t
-know mink that sleeping-MINK-about.to wolf-MINK-son.of
-know mink that.is.going.to.sleep Son.of.Wolf
+know mink that sleeping-MINK-??-about.to wolf-MINK-son.of
+know mink that is.going.to.sleep Son.of.Wolf
 The mink knew that Son of Wolf was going to sleep.
 
 # 074
@@ -9101,7 +9101,7 @@ Since the biggest part of his [Wolf's] body was his head, he [Mink] cut the head
 # 079
 haptsaap, hi?iis, hi?iis?itq wa?ich'as, hiilc'apula.
 hapt-sa*p hi?i:s hi?i:s-?i*tq wa?ich-'as hil-c-'apula
-in.hiding-MOMCAUS there.on.the.ground there.on.the.ground-REL.3
+in.hiding-MOMCAUS there.on.the.ground there.on.the.ground-REL.3 sleeping-on.the.ground there-facing-underneath
 hide.it there.on.the.ground wherever.on.the.ground he.sleeps underneath
 He hid the corpse on the ground, where he sleeps — underneath the sleeping place.
 
@@ -9129,8 +9129,8 @@ He [Mink] howled again: _hwo=wa_. He howled four times.
 # 083
 xuxuuwuwu xuu, waa?atlquuch.
 ~ ~ wa:-'atl-qu:-ch
-~ say-FIN-COND.3-INF
-~ he.used.to.say
+~ ~ say-FIN-COND.3-INF
+~ ~ he.used.to.say
 He said, _xuxuuwuwu xuu_.
 
 # 084
@@ -9192,7 +9192,7 @@ The little one (Mink) was looking down into the water and combing.
 # 092
 wiiy'a tl'uutxhik qwaa?ap ?ahh?aa
 wi:y'a tl'utxh-i:k' qwa:-'ap ?ahh?a:
-never stick.out?-on.the.head-thus-CAUS that
+never stick.out?-on.the.head thus-CAUS that
 never hair.sticks.out doing.that that
 His (Mink's) hair was never sticking out: his hair was always as if it was combed neatly — like this. {with picture?}
 
@@ -9228,7 +9228,7 @@ you.killed.him Son.of.Wolf said ~
 t'i?_as hi?iis hhaal, ?atquu hiilc'apula hhaa qwayaac'ikm'itckwi.
 t'iqw-'as hi?i:s hha:l ?atqu: hil-c-'apula hha: qwaya:c'ik-m'i*t-ckwi*
 sit.down-on.the.ground there.on.the.ground there although? there-facing-underneath there wolf-son.of-remains.of
-sit.on.the.ground there.on.the.groundthere although? underneath there corpse.of.the.Son.of.Wolf
+sit.on.the.ground there.on.the.ground there although? underneath there corpse.of.the.Son.of.Wolf
 He was sitting there on the ground. There was the corpse of Wolf underneath.
 
 # 098
@@ -9409,7 +9409,7 @@ start.another say there.is.none.present another
 # 123
 ?aniyas ?aniyas [hoo hoo hoo] ?aniyas ?aniyas [hoo hoo hoo] mustatiiyasquus huyuulquus
 ?ana-iya-s ?ana-iya-s ~ ?ana-iya-s ?ana-iya-s ~ mustati-i:yas-qu:s huyu:l-qu:s
-only-at.time.of-1SG only-at.time.of-1SG ~ only-at.time.of-1SG only-at.time.of-1SG bow-on.the.shoulder?-COND.1SG dance-COND.1SG
+only-at.time.of-1SG only-at.time.of-1SG ~ only-at.time.of-1SG only-at.time.of-1SG ~ bow-on.the.shoulder?-COND.1SG dance-COND.1SG
 if.only.I if.only.I ~ if.only.I if.only.I ~ if.I.have.a.bow.on.my.shoulder I.would.dance
 [Song] "If only I _ho ho ho_; if only I _ho ho ho_; if I had a bow on my shoulder, I would dance."
 
@@ -9420,8 +9420,8 @@ if.only.I if.only.I ~ if.only.I if.only.I ~ if.I.have.a.bow.on.my.shoulder I.wou
 # 125
 nunuuk. [He is singing away],
 nunu:k ~
-singing
-singing
+singing ~
+singing ~
 He was singing.
 
 # 126
@@ -9664,7 +9664,7 @@ They were on the other side of the river.
 
 # 160
 c'ixchi?atl ?ahh?aa qwis, ?iiwachi?im c'a?ak. ?iiwachi?im.
-c'i-<x>-chi(tl)?atl ?ahh?a: qwis ?i:hhw-`achi(tl)-'i*m c'a?ak ?i:hhw-`achi(tl)-'i*m
+c'i-<x>-chi(tl)-'atl ?ahh?a: qwis ?i:hhw-`achi(tl)-'i*m c'a?ak ?i:hhw-`achi(tl)-'i*m
 splash-MINK-MOM-FIN that do.so big-INC-IMP.2SG.FUT river big-INC-IMP.2SG.FUT
 splashed that do.so you.will.become.large river you.become.large
 He splashed it (the medicine) like this {with gesture of shaking a bottle} [into a little creek], [casting a spell] "You become a large river!"
@@ -9930,7 +9930,7 @@ Son of Mink stopped and dug holes.
 
 # 198
 kwa?iitl waxshitl'ic'atlwa?ishtla huf! mushsaap, wimacsap.
-kwa-?i*(tl) waxw-shi(tl)-?ic-'atl-wa*?i*sh-tla* huf! mush-sa*p wimac-sa*p
+kwa-?i*(tl) waxw-shi(tl)-?ic-'atl-wa*?i*sh-tla* ~ mush-sa*p wimac-sa*p
 sit.down-on.the.ground break.wind-MOM-DIM-FIN-QUOT.3-again ~ cover-MOMCAUS obscure-MOMCAUS
 sit.down.on.the.ground broke.wind.again.it.is.said ~ cover.up make.it.obscure
 He squatted on the ground again and farted, Poop!, to cover up, to make it (his route) obscure.
@@ -10042,8 +10042,8 @@ It was so close.
 
 # 214
 saxyackshi?i, saya?ii?isqak, k'uu?ii, nism'a?i.
-saya-<x>-ck-shi(tl)-?i* saya-?i:-?is-qak k'u:-?i: nism'a-?i*
-far.off-MINK-DIM-IMP.2SG far.off-get.to.be.at-DIM-?? short-distance-get.to.be.at land-DEF
+saya-<x>-ck-shi(tl)-'i* saya-?i:-?is-qak k'u:-?i: nism'a-?i*
+far.off-MINK-DIM-MOM-IMP.2SG far.off-get.to.be.at-DIM-?? short.distance-get.to.be.at land-DEF
 move.away.a.little be.far.away.a.little little.farther the.land
 "Land, move far away a little!"
 
@@ -10162,7 +10162,7 @@ He took his younger brother's name.
 # 231
 suw'aaq?ick, waa?at.
 suw'a:q-?ick wa*-'at
-you IND.2SG say-SHIFT
+you-IND.2SG say-SHIFT
 it.is.you it.is.said
 "It's you!" they said to him.
 
@@ -10209,7 +10209,7 @@ Those people [the wolves are taking human shape now] poked at him repeatedly wit
 taamiiqtl'a, [xaw xaw xaw xaw].
 ta:-mi:qtla ~
 poke-?? ~
-poke.into.a.hole
+poke.into.a.hole ~
 They poked into the hole and [the mink cried], "_xaw xaw_…"
 
 # 239
@@ -10279,7 +10279,7 @@ you.only.have put.soft.yielding.thing.at.the.point its.innards limpet said
 haa haa ?aax?anihhtaak, haa haa c'iic'iiyupuuk, huu huu p'aap'a?_im?ay, waa
 ~ ~ ?ana-i:hhtak ~ ~ c'iyup-uk ~ ~ p'a?_im wa*
 ~ ~ only-?? ~ ~ innards-POSS ~ ~ limpet say
-~ ~ you.only.have ~ ~ its innards ~ ~ limpet say
+~ ~ you.only.have ~ ~ its.innards ~ ~ limpet say
 He sang, "You only have innards of limpets on the pole!"
 
 # 249
@@ -10343,7 +10343,7 @@ died.it.is.said one.who.always.say.nasty.things
 ?ee qahhtak qwaq?isqach'a waa?atl'at hask'aamac?i [\litt\le crabs].
 ~ qahh-tak qwaq-?is-qa*ch'a wa*-'atl-'at hask'a:mac-?i* ~
 ~ dead-?? ??-DIM-DUB.3 say-FIN-SHIFT little.crab-DEF ~
-~ ?? they.said.to.him the.little.crab ~
+~ ?? one.who.always.say.nasty.things they.said.to.him the.little.crab ~
 "We thought you were dead!" said to him, the little crabs.
 
 # 258
@@ -10355,7 +10355,7 @@ heey taachkwa?ap'ich hhiyiihhi, waa?atl.
 
 # 259
 tuxwiichitl ha?ukshitl, [xaw xaw xaw] pisatshi?atl ?ahh.
-tuxw-i*ch-itl ha?uk-shi(tl) ~ pisat-shi(tl)-'atl
+tuxw-i*ch-itl ha?uk-shi(tl) ~ pisat-shi(tl)-'atl ?ahh
 jump-covering-MOM eat-MOM ~ move.about-MOM-FIN this
 jumped.on ate ~ moved.around this
 He jumped on them (the little crabs) and ate them all over the place.
@@ -10502,7 +10502,7 @@ Now there is only one [possibility] left. He is the only possibility.
 
 # 280
 hitinqsa?ee ch'aastimcm'eet qwaaxyiik ?aani suxw'aas t'an'ee.
-hita-inq-`sa(tl)-'i*-VOC ch'a:stimc-m'i*t-VOC qwa:-<x>-(y)i:k ?aani suxw'aas t'an'ee.
+hita-inq-`sa(tl)-'i*-VOC ch'a:stimc-m'i*t-VOC qwa:-<x>-(y)i:k ?aani suw'a:s-<x> t'an'a-VOC.
 there.MOM-down.a.slope-on.the.beach-IMP.2SG-SONG mink-son.of-SONG thus-MINK-INDF.2SG really yours-MINK child-SONG
 come.down.to.the.beach Son.of.Mink maybe.you.are.so. is.it.true yours child
 "Come down to the beach, Son of Mink, because you might be responsible for the child."
@@ -10558,14 +10558,14 @@ He got married to very beautiful Sawbill Woman.
 
 # 288
 chuu, ma?iichitl ?acshi?in, ?acyuu?atlquuch.
-chu: ma-`i*chi(tl) ?ac-shi(tl)-'in ?ac-yu*'atl-qu:-ch
-now.then dwell-INC go.out.hunting-MOM-IMP.1PL>3
+chu: ma-`i*chi(tl) ?ac-shi(tl)-'in ?ac-yu*-'atl-qu:-ch
+now.then dwell-INC go.out.hunting-MOM-IMP.1PL>3 go.out.hunting-have.done-FIN-COND.3-INF
 now.then set.up.household lets.go.out.for.food would.be.out.for.food
 Now, he set up a household and [said] "Let's go out for food," and would go out for food (fishing).
 
 # 289
 ?uqs?atlquuch ch'aastimcm'it hhiix hishyuuya muuluk?atlquu.
-?u-qs'atl-qu:-ch ch'a:stimc-m'i*t hhi:x hish-yu:ya mu:l-uk-'atl-qu:
+?u-qs-'atl-qu:-ch ch'a:stimc-m'i*t hhi:x hish-yu:ya mu:l-uk-'atl-qu:
 it-in.a.vessel-FIN-COND.3-INF mink-son.of sea.urchins all-at.the.time tide.is.up-DUR-FIN-COND.3
 would.catch.fish.in.a.vessel Son.of.Mink sea.urchins always even.if.the.tide.is.high
 Son of Mink would fill the canoe with small purple sea urchins [which can be collected only at low tide] all the time even at high tide.
@@ -10636,7 +10636,7 @@ there.is.nothing there.is.nothing
 # 299
 hee, t'apschi?i, chaaq?atap. t'apschitl.
 ~ t'aps-chi(tl)-'i* chaq-?atu-'ap t'aps-chi(tl)
-dive-MOM-IMP.2SG shove-sinkn.into.water-CAUS dive-MOM
+~ dive-MOM-IMP.2SG shove-sinkn.into.water-CAUS dive-MOM
 ~ dive push.him.into.the.water dove
 "What? Go back in the water!" She (Sawbill Woman) pushed him into the water and he (Mink) dove in.
 

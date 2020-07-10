@@ -364,7 +364,7 @@ Although he was all alone in the woods, sometimes there was a peculiar smell in 
 hm! waaʔaƛquuč,        hm!
 ~   waː-ʼaƛ-quː-č      ~
 ~   say-FIN-COND.3-INF ~
-~   he.would.say
+~   he.would.say       ~
 Hm! (sniffing sound) — He would say “Hm!”
 
 # 053
@@ -385,8 +385,8 @@ He put his fish up on the rack (to dry).
 ƛimkšiƛwaʔiš       ʔuuyuʔaaɬšiƛwaʔiš         quuʔas ḥaaɬ  ʔiiḥ sukʷiʔatuk     yuuɬʔaƛ̓aƛ.
 ƛimk-ši(ƛ)-wa·ʔi·š ʔu-L-yuʔaːɬ-ši(ƛ)-wa·ʔi·š quːʔas ḥaːɬ  ʔiːḥ sukʷi(ƛ)-ʼatuk yuːɬ-ʼaƛ-ʼaƛ
 awake-MOM-QUOT.3   it-??-aware.of-MOM-QUOT.3 person there big  took-??        over.there-??-FIN
-woke.up.it.is.said realized.it.is.said       person there big  reach.for      went.over         there
-He work up and realized that there was a big person. Suddenly he reached for something (the fish) and left with it.
+woke.up.it.is.said realized.it.is.said       person there big  reach.for      went.over.there
+He woke up and realized that there was a big person. Suddenly he reached for something (the fish) and left with it.
 
 # 056
 kuʔiičiƛ        hiʔiiswaʔiš                yacckʷii,       čims.
@@ -405,7 +405,7 @@ He cannot confront a bear because he is weak.
 # 058
 wim̓aaqƛ      č̓iiʕaqa.
 wim̓aːqƛ      č̓i·q-ʼaqa
-incapable.of hurt-severally-doing
+incapable.of hurt-severally.doing
 incapable.of fight
 He cannot fight.
 
@@ -508,10 +508,10 @@ you.sleep            said
 He said, “You go to sleep!”
 
 # 073
-huḥtak č̓aasta ʔin                    waxʔičiƛw̓it̓as          qʷaxyaac̓ikm̓it.
-huḥtak č̓aːsta ʔin                    waʔič-<x>-iƛ-w̓it̓as     qʷayaːc̓ik-<x>-m̓i·t
-know   mink   that                   sleeping-MINK-about.to wolf-MINK-son.of
-know   mink   that.is.going.to.sleep Son.of.Wolf
+huḥtak č̓aasta ʔin  waxʔičiƛw̓it̓as             qʷaxyaac̓ikm̓it.
+huḥtak č̓aːsta ʔin  waʔič-<x>-iƛ-w̓it̓as        qʷayaːc̓ik-<x>-m̓i·t
+know   mink   that sleeping-MINK-??-about.to wolf-MINK-son.of
+know   mink   that is.going.to.sleep         Son.of.Wolf
 The mink knew that Son of Wolf was going to sleep.
 
 # 074
@@ -550,10 +550,10 @@ because only big  head     amputate.his            bury.in.the.ground
 Since the biggest part of his [Wolf’s] body was his head, he [Mink] cut the head off and buried it in the ground.
 
 # 079
-haptsaap,         hiʔiis,             hiʔiisʔitq                waʔič̓as,  hiiɬc̓apuɬa.
-hapt-sa·p         hiʔiːs              hiʔiːs-ʔi·tq              waʔič-ʼas hiɬ-c-ʼapuɬa
-in.hiding-MOMCAUS there.on.the.ground there.on.the.ground-REL.3
-hide.it           there.on.the.ground wherever.on.the.ground    he.sleeps underneath
+haptsaap,         hiʔiis,             hiʔiisʔitq                waʔič̓as,               hiiɬc̓apuɬa.
+hapt-sa·p         hiʔiːs              hiʔiːs-ʔi·tq              waʔič-ʼas              hiɬ-c-ʼapuɬa
+in.hiding-MOMCAUS there.on.the.ground there.on.the.ground-REL.3 sleeping-on.the.ground there-facing-underneath
+hide.it           there.on.the.ground wherever.on.the.ground    he.sleeps              underneath
 He hid the corpse on the ground, where he sleeps — underneath the sleeping place.
 
 # 080
@@ -578,10 +578,10 @@ did.the.same.again      ~        howled        sounded.four.times
 He [Mink] howled again: _hwo=wa_. He howled four times.
 
 # 083
-xuxuuwuwu xuu,               waaʔaƛquuč.
-~         ~                  waː-ʼaƛ-quː-č
-~         say-FIN-COND.3-INF
-~         he.used.to.say
+xuxuuwuwu xuu, waaʔaƛquuč.
+~         ~    waː-ʼaƛ-quː-č
+~         ~    say-FIN-COND.3-INF
+~         ~    he.used.to.say
 He said, _xuxuuwuwu xuu_.
 
 # 084
@@ -641,10 +641,10 @@ little.one.is.looking.down.to.the.water ~     little.one.is.combing
 The little one (Mink) was looking down into the water and combing.
 
 # 092
-wiiy̓a ƛ̓uutx̣ik                          qʷaaʔap    ʔaḥʔaa
-wiːy̓a ƛ̓utx̣-iːk̓                         qʷaː-ʼap   ʔaḥʔaː
-never stick.out?-on.the.head-thus-CAUS that
-never hair.sticks.out                  doing.that that
+wiiy̓a ƛ̓uutx̣ik                qʷaaʔap    ʔaḥʔaa
+wiːy̓a ƛ̓utx̣-iːk̓               qʷaː-ʼap   ʔaḥʔaː
+never stick.out?-on.the.head thus-CAUS  that
+never hair.sticks.out        doing.that that
 His (Mink’s) hair was never sticking out: his hair was always as if it was combed neatly — like this. {with picture?}
 
 # 093
@@ -676,10 +676,10 @@ you.killed.him            Son.of.Wolf    said    ~
 “m-mm,” he said, “I didn’t do it.”
 
 # 097
-t̓iʕas                  hiʔiis                   ḥaaɬ,     ʔatquu     hiiɬc̓apuɬa              ḥaa                       qʷayaac̓ikm̓itckʷi.
-t̓iqʷ-ʼas               hiʔiːs                   ḥaːɬ      ʔatquː     hiɬ-c-ʼapuɬa            ḥaː                       qʷayaːc̓ik-m̓i·t-ckʷi·
-sit.down-on.the.ground there.on.the.ground      there     although?  there-facing-underneath there                     wolf-son.of-remains.of
-sit.on.the.ground      there.on.the.groundthere although? underneath there                   corpse.of.the.Son.of.Wolf
+t̓iʕas                  hiʔiis              ḥaaɬ, ʔatquu    hiiɬc̓apuɬa              ḥaa   qʷayaac̓ikm̓itckʷi.
+t̓iqʷ-ʼas               hiʔiːs              ḥaːɬ  ʔatquː    hiɬ-c-ʼapuɬa            ḥaː   qʷayaːc̓ik-m̓i·t-ckʷi·
+sit.down-on.the.ground there.on.the.ground there although? there-facing-underneath there wolf-son.of-remains.of
+sit.on.the.ground      there.on.the.ground there although? underneath              there corpse.of.the.Son.of.Wolf
 He was sitting there on the ground. There was the corpse of Wolf underneath.
 
 # 098
@@ -858,10 +858,10 @@ start.another           say  there.is.none.present another
 “Do another song,” they said. “Don’t you have another one?”
 
 # 123
-ʔaniyas             ʔaniyas             [hoo hoo hoo] ʔaniyas             ʔaniyas             [hoo hoo hoo]                 mustatiiyasquus                huyuuɬquus
-ʔana-iya-s          ʔana-iya-s          ~             ʔana-iya-s          ʔana-iya-s          ~                             mustati-iːyas-quːs             huyuːɬ-quːs
-only-at.time.of-1SG only-at.time.of-1SG ~             only-at.time.of-1SG only-at.time.of-1SG bow-on.the.shoulder?-COND.1SG dance-COND.1SG
-if.only.I           if.only.I           ~             if.only.I           if.only.I           ~                             if.I.have.a.bow.on.my.shoulder I.would.dance
+ʔaniyas             ʔaniyas             [hoo hoo hoo] ʔaniyas             ʔaniyas             [hoo hoo hoo] mustatiiyasquus                huyuuɬquus
+ʔana-iya-s          ʔana-iya-s          ~             ʔana-iya-s          ʔana-iya-s          ~             mustati-iːyas-quːs             huyuːɬ-quːs
+only-at.time.of-1SG only-at.time.of-1SG ~             only-at.time.of-1SG only-at.time.of-1SG ~             bow-on.the.shoulder?-COND.1SG  dance-COND.1SG
+if.only.I           if.only.I           ~             if.only.I           if.only.I           ~             if.I.have.a.bow.on.my.shoulder I.would.dance
 [Song] “If only I _ho ho ho_; if only I _ho ho ho_; if I had a bow on my shoulder, I would dance.”
 
 # 124
@@ -871,8 +871,8 @@ if.only.I           if.only.I           ~             if.only.I           if.onl
 # 125
 nunuuk. [He is singing away] ,
 nunuːk  ~
-singing
-singing
+singing ~
+singing ~
 He was singing.
 
 # 126
@@ -1115,7 +1115,7 @@ They were on the other side of the river.
 
 # 160
 c̓ixčiʔaƛ            ʔaḥʔaa qʷis, ʔiiwačiʔim            c̓aʔak. ʔiiwačiʔim.
-c̓i-<x>-či(ƛ)ʔaƛ     ʔaḥʔaː qʷis  ʔiːḥʷ-ʽači(ƛ)-ʼi·m    c̓aʔak  ʔiːḥʷ-ʽači(ƛ)-ʼi·m
+c̓i-<x>-či(ƛ)-ʼaƛ    ʔaḥʔaː qʷis  ʔiːḥʷ-ʽači(ƛ)-ʼi·m    c̓aʔak  ʔiːḥʷ-ʽači(ƛ)-ʼi·m
 splash-MINK-MOM-FIN that   do.so big-INC-IMP.2SG.FUT   river  big-INC-IMP.2SG.FUT
 splashed            that   do.so you.will.become.large river  you.become.large
 He splashed it (the medicine) like this {with gesture of shaking a bottle} [into a little creek], [casting a spell] “You become a large river!”
@@ -1381,7 +1381,7 @@ Son of Mink stopped and dug holes.
 
 # 198
 kʷaʔiiƛ                waxšiƛ̓ic̓aƛwaʔišƛa                   huf! mušsaap,      wimacsap.
-kʷa-ʔi·(ƛ)             waxʷ-ši(ƛ)-ʔic-ʼaƛ-wa·ʔi·š-ƛa·      huf! muš-sa·p      wimac-sa·p
+kʷa-ʔi·(ƛ)             waxʷ-ši(ƛ)-ʔic-ʼaƛ-wa·ʔi·š-ƛa·      ~    muš-sa·p      wimac-sa·p
 sit.down-on.the.ground break.wind-MOM-DIM-FIN-QUOT.3-again ~    cover-MOMCAUS obscure-MOMCAUS
 sit.down.on.the.ground broke.wind.again.it.is.said         ~    cover.up      make.it.obscure
 He squatted on the ground again and farted, Poop!, to cover up, to make it (his route) obscure.
@@ -1492,10 +1492,10 @@ it.was.very.close
 It was so close.
 
 # 214
-saxyackšiʔi,             sayaʔiiʔisqak,              k̓uuʔii,                     nism̓aʔi.
-saya-<x>-ck-ši(ƛ)-ʔi·    saya-ʔiː-ʔis-qak            k̓uː-ʔiː                     nism̓a-ʔi·
-far.off-MINK-DIM-IMP.2SG far.off-get.to.be.at-DIM-?? short-distance-get.to.be.at land-DEF
-move.away.a.little       be.far.away.a.little        little.farther              the.land
+saxyackšiʔi,                 sayaʔiiʔisqak,              k̓uuʔii,                     nism̓aʔi.
+saya-<x>-ck-ši(ƛ)-ʼi·        saya-ʔiː-ʔis-qak            k̓uː-ʔiː                     nism̓a-ʔi·
+far.off-MINK-DIM-MOM-IMP.2SG far.off-get.to.be.at-DIM-?? short.distance-get.to.be.at land-DEF
+move.away.a.little           be.far.away.a.little        little.farther              the.land
 “Land, move far away a little!”
 
 # 215
@@ -1613,7 +1613,7 @@ He took his younger brother’s name.
 # 231
 suw̓aaqʔick, waaʔat.
 suw̓aːq-ʔick wa·-ʼat
-you         IND.2SG    say-SHIFT
+you-IND.2SG say-SHIFT
 it.is.you   it.is.said
 “It’s you!” they said to him.
 
@@ -1660,7 +1660,7 @@ Those people [the wolves are taking human shape now] poked at him repeatedly wit
 taamiiqƛ̓a,       [xaw xaw xaw xaw] .
 taː-miːqƛa       ~
 poke-??          ~
-poke.into.a.hole
+poke.into.a.hole ~
 They poked into the hole and [the mink cried], “_xaw xaw_…”
 
 # 239
@@ -1727,10 +1727,10 @@ you.only.have            put.soft.yielding.thing.at.the.point                its
 “You only have innards of limpets on the pole!” he said.
 
 # 248
-haa haa ʔaaxʔaniḥtaak, haa haa c̓iic̓iiyupuuk, huu     huu p̓aap̓aʕimʔay, waa
-~   ~   ʔana-iːḥtak    ~   ~   c̓iyup-uk      ~       ~   p̓aʕim        wa·
-~   ~   only-??        ~   ~   innards-POSS  ~       ~   limpet       say
-~   ~   you.only.have  ~   ~   its           innards ~   ~            limpet say
+haa haa ʔaaxʔaniḥtaak, haa haa c̓iic̓iiyupuuk, huu huu p̓aap̓aʕimʔay, waa
+~   ~   ʔana-iːḥtak    ~   ~   c̓iyup-uk      ~   ~   p̓aʕim        wa·
+~   ~   only-??        ~   ~   innards-POSS  ~   ~   limpet       say
+~   ~   you.only.have  ~   ~   its.innards   ~   ~   limpet       say
 He sang, “You only have innards of limpets on the pole!”
 
 # 249
@@ -1791,10 +1791,10 @@ died.it.is.said   one.who.always.say.nasty.things
 ″[You thought] the one with a bad mouth was dead!” [Mink yelled at them sarcastically].
 
 # 257
-ʔee qaḥtak  qʷaqʔisqač̓a      waaʔaƛ̓at        hask̓aamacʔi     [little crabs] .
-~   qaḥ-tak qʷaq-ʔis-qa·č̓a   wa·-ʼaƛ-ʼat     hask̓aːmac-ʔi·   ~
-~   dead-?? ??-DIM-DUB.3     say-FIN-SHIFT   little.crab-DEF ~
-~   ??      they.said.to.him the.little.crab ~
+ʔee qaḥtak  qʷaqʔisqač̓a                     waaʔaƛ̓at         hask̓aamacʔi     [little crabs] .
+~   qaḥ-tak qʷaq-ʔis-qa·č̓a                  wa·-ʼaƛ-ʼat      hask̓aːmac-ʔi·   ~
+~   dead-?? ??-DIM-DUB.3                    say-FIN-SHIFT    little.crab-DEF ~
+~   ??      one.who.always.say.nasty.things they.said.to.him the.little.crab ~
 “We thought you were dead!” said to him, the little crabs.
 
 # 258
@@ -1806,7 +1806,7 @@ heey taačkʷaʔap̓ič              ḥiyiiḥi, waaʔaƛ.
 
 # 259
 tuxʷiičiƛ         haʔukšiƛ,   [xaw xaw xaw] pisatšiʔaƛ         ʔaḥ.
-tuxʷ-i·č-iƛ       haʔuk-ši(ƛ) ~             pisat-ši(ƛ)-ʼaƛ
+tuxʷ-i·č-iƛ       haʔuk-ši(ƛ) ~             pisat-ši(ƛ)-ʼaƛ    ʔaḥ
 jump-covering-MOM eat-MOM     ~             move.about-MOM-FIN this
 jumped.on         ate         ~             moved.around       this
 He jumped on them (the little crabs) and ate them all over the place.
@@ -1953,7 +1953,7 @@ Now there is only one [possibility] left. He is the only possibility.
 
 # 280
 hitinqsaʔee                                      č̓aastimcm̓eet      qʷaaxyiik          ʔaani      suxʷ̓aas    t̓an̓ee.
-hita-inq-ʽsa(ƛ)-ʼi·-VOC                          č̓aːstimc-m̓i·t-VOC qʷaː-<x>-(y)iːk    ʔaani      suxʷ̓aas    t̓an̓ee.
+hita-inq-ʽsa(ƛ)-ʼi·-VOC                          č̓aːstimc-m̓i·t-VOC qʷaː-<x>-(y)iːk    ʔaani      suw̓aːs-<x> t̓an̓a-VOC.
 there.MOM-down.a.slope-on.the.beach-IMP.2SG-SONG mink-son.of-SONG  thus-MINK-INDF.2SG really     yours-MINK child-SONG
 come.down.to.the.beach                           Son.of.Mink       maybe.you.are.so.  is.it.true yours      child
 “Come down to the beach, Son of Mink, because you might be responsible for the child.”
@@ -2009,14 +2009,14 @@ He got married to very beautiful Sawbill Woman.
 
 # 288
 čuu,     maʔiičiƛ         ʔacšiʔin,                    ʔacyuuʔaƛquuč.
-čuː      ma-ʽi·či(ƛ)      ʔac-ši(ƛ)-ʼin                ʔac-yu·ʼaƛ-quː-č
-now.then dwell-INC        go.out.hunting-MOM-IMP.1PL>3
+čuː      ma-ʽi·či(ƛ)      ʔac-ši(ƛ)-ʼin                ʔac-yu·-ʼaƛ-quː-č
+now.then dwell-INC        go.out.hunting-MOM-IMP.1PL>3 go.out.hunting-have.done-FIN-COND.3-INF
 now.then set.up.household lets.go.out.for.food         would.be.out.for.food
 Now, he set up a household and [said] “Let’s go out for food,” and would go out for food (fishing).
 
 # 289
 ʔuqsʔaƛquuč                   č̓aastimcm̓it   ḥiix        hišyuuya        muuɬukʔaƛquu.
-ʔu-qsʼaƛ-quː-č                č̓aːstimc-m̓i·t ḥiːx        hiš-yuːya       muːɬ-uk-ʼaƛ-quː
+ʔu-qs-ʼaƛ-quː-č               č̓aːstimc-m̓i·t ḥiːx        hiš-yuːya       muːɬ-uk-ʼaƛ-quː
 it-in.a.vessel-FIN-COND.3-INF mink-son.of   sea.urchins all-at.the.time tide.is.up-DUR-FIN-COND.3
 would.catch.fish.in.a.vessel  Son.of.Mink   sea.urchins always          even.if.the.tide.is.high
 Son of Mink would fill the canoe with small purple sea urchins [which can be collected only at low tide] all the time even at high tide.
@@ -2085,10 +2085,10 @@ there.is.nothing          there.is.nothing
 “There is nothing!”
 
 # 299
-hee,             t̓apsčiʔi,                   čaaqʔatap.              t̓apsčiƛ.
-~                t̓aps-či(ƛ)-ʼi·              čaq-ʔatu-ʼap            t̓aps-či(ƛ)
-dive-MOM-IMP.2SG shove-sinkn.into.water-CAUS dive-MOM
-~                dive                        push.him.into.the.water dove
+hee, t̓apsčiʔi,        čaaqʔatap.                  t̓apsčiƛ.
+~    t̓aps-či(ƛ)-ʼi·   čaq-ʔatu-ʼap                t̓aps-či(ƛ)
+~    dive-MOM-IMP.2SG shove-sinkn.into.water-CAUS dive-MOM
+~    dive             push.him.into.the.water     dove
 “What? Go back in the water!” She (Sawbill Woman) pushed him into the water and he (Mink) dove in.
 
 # 300
