@@ -1,252 +1,419 @@
 ---
 title:
-  en:         When there was a flood
-  nuk:        muuɬšiƛiič
-abbreviation: Flood
-ID:           CL8
+  en:         Never take food away from animals
+  nuk:        qʷiinuuƛḥiič wiiy̓aat haw̓aaḥinʔat saštup
+abbreviation: FoodThief
+ID:           CL9
 ---
 # 001
-\trs waay̓aqstuƛwaʔiš       ʕaanism̓it    ʔan  ʔuʔumḥičiʔaƛ              ɬučnaakšiƛquu.
-\m   wa·ɬ-ʼaqstuƛ-wa·ʔi·š  ʕaːnis-m̓i·t  ʔan  ʔuʔumḥi-či(ƛ)-ʼaƛ         ɬuč-na·k-šiƛ-quː
-\gl  say-inside-QUOT.3     crane-son.of that fit.right-MOM-FINITE      wife-having-MOM-COND
-\wlt he.thought.to.himself Son.of.Crane that it.was.the.right.time.for he.would.get.a.wife
-\tln Son of Crane thought to himself that it was time for him to get a wife.
+\trs qʷiinuuƛḥiič                           wiiy̓aat     haw̓aaḥinʔat          saštup.
+\m   qʷi-a·nuːƛ-(q)ḥ-(y)iː-č                wiːy̓a-ʼat   haw̓-a·ḥin-ʼat        sa-štu·p
+\gl  that.which-because.of-SIM-INDF.3-INF.3 never-SHIFT eat-deprive.of-SHIFT crawl-species
+\wlt why.you.would                          never       take.food.away.from  animal
+\tln The reason why you never take food away from animals.
 
 # 002
-ʔucačiƛ      saapinqas      ciʕasw̓it̓as.
-ʔu-ca-čiƛ    saːpinq-as     ciʕas-w̓it̓as
-it-go.to-MOM sawbill-female propose-about.to
-went.to      Sawbill.woman  he.was.going.to.propose
-He went to Daughter of Sawbill to propose.
+ƛaac̓umwaʔiš     ʔaḥ  qʷisnaak.
+ƛaːc̓um-wa·ʔiš   ʔaḥ  qʷis-na·k
+recently-QUOT.3 this do.so-having
+recently        this happened
+This happened recently.
 
 # 003
-wim̓aaqƛ      yawaačiʔatquu              ʕaanism̓it    ʔan     qʷac̓aɬaq    ƛuɬy̓iiḥa               ḥaakʷaaƛ saapinqas.
-wim̓aːqƛ      yawaː-či(ƛ)-ʼat-quː        ʕaːnis-m̓i·t  ʔan     qʷac̓aɬ-aq   ƛuɬ-y̓i·ḥa              ḥaːkʷa·ƛ saːpinq-as
-incapable.of disagree-MOM-SHIFT-COND    crane-son.of because pretty-very good-doing.excessively girl     sawbill-female
-incapable.of he.would.disagree.with.her Son.of.Crane because very.pretty very.beautiful         girl     Sawbill.woman
-No one could disagree with Son of Crane because of Daughter of Sawbill was a very pretty girl.
+kuukuḥʷʼisa ʔuʔuʔiiḥʷʼit̓asitwaʔiš           čakupʔi.
+kuːkuḥʷʼisa ʔu-ʼiːḥ-w̓it̓as-it-wa·ʔiš         čakup-ʔi·
+hair.seal   it-hunting-about.to-PAST-QUOT.3 man-DEF
+hair.seal   hunting.for.it                  the.man
+The man was going to hunt for hair seal.
 
 # 004
-ciʕass      suutiɬ,      sucḥinƛmaḥsas,               waaʔaƛ     ʕaanism̓it.
-ciʕas-s     sut-(č)iɬ    su-cḥinƛ-maḥsa-s             wa·-ʼaƛ    ʕaːnis-m̓i·t
-propose-1SG you-doing.to you-marry.to-desiring.to-1SG say-FINITE crane-son.of
-I.propose   to.you       I.want.to.marry.you          said       Son.of.Crane
-“I came to propose to you; I want to marry  you,” said Son of Crane.
+yaacšiƛ         ʔaʔumštup      kaƛḥʔaqstuƛ.
+yac-šiƛ         ʔaʔum-štu·p    kaƛḥ-ʼaqstuƛ
+step-GRAD       at.first-thing daylight-inside
+started.to.walk first.thing    dawn
+He started off at the first break of daylight.
 
 # 005
-wiksiiš     sucḥimaḥsa,                    wikstupʔick,      wiiwiitqʷapiʔick.
-wik-si·š    su-cḥi-maḥsa                   wikstup-ʔick      witqʷ-api-ʔick
-not-IND.1SG holding-married.to-desiring.to nothing-IND.1SG   ugly-excessively-IND.2SG
-I.do.not    wanting.to.be.married.to.you   you.are.worthless you.are.too.ugly
-“I don’t want to marry you; you are nothing; you are too ugly,” [said Daughter of Sawbill].
+ʔucaḥtačiƛ          hiy̓aaʔaʔitqʔaaɬ                 naaw̓aḥaƛ       hinusaƛquu          kuukuḥʷʼisa.
+ʔu-ca-ḥta-čiƛ       hiɬ-ʼa·ʔa-ʔi·tq-ʔaːɬ            naːw̓aḥi-ʼaƛ    hinusa-ʼaƛ-quː      kuːkuḥʷʼisa
+it-go.to-out.to-MOM there-on.the.rock-REL.3-always  waiting-FINITE surface-FINITE-COND hair.seal
+departed.for        rocky.place.where.he.usually.be waite          it.would.surface    hair.seal
+He headed for the place where he usually waited for hair seals to come to the surface.
 
 # 006
-ha!  witq, wikstup, waaʔaƛ     ʕaanism̓it.
-ha   witq  wikstup, wa·-ʼaƛ    ʕaːnis-m̓i·t
-INTJ ugly  nothing  say-FINITE crane-son.of
-INTJ ugly  nothing  said       Son.of.Crane
-“Ha! Ugly? Nothing?” said Son of Crane.
+wiinap̓aʔaƛ                   ɬaḥʔas                 naaw̓aḥi.
+wiːnap-ʼa·ʔa-ʼaƛ             ɬaḥ-ʼas                naːw̓aḥi
+remaining-on.the.rock-FINITE prone.on-on.the.ground waiting
+stopped.on.the.rock          lie.down               waiting
+He stopped there lying down waiting.
 
 # 007
-ʔuušsuuqstuƛ    ʕaanism̓it    ʔan  wikḥsaaʔat,           wiitqp̓aaʔat.
-ʔuːš-su·qstu(ƛ) ʕaːnis-m̓i·t  ʔan  wik-ḥsa·-ʼat          witq-p̓a·-ʼat
-some-in.mind    crane-son.of that not-longing.for-SHIFT ugly-dislike.because.of.excessive-SHIFT
-get.angry       Son.of.Crane that he.got.refused        she.didnt.like.him.because.he.was.too.ugly
-Son of Crane got really angry about the fact that she refused him and that she considered him too ugly.
+n̓aacsiičiƛ  čakupʔi   ʔuuštup    maɬšiƛ̓aʔa.
+n̓aːcsiː-čiƛ čakup-ʔi· ʔuːš-tup   maɬ-šiƛ-ʼa·ʔa
+spotted-MOM man-DEF   some-thing move-MOM-on.the.rock
+saw         the.man   something  moved.on.the.rock
+The man saw something move on the rocks.
+
+# 008
+hiy̓aaqstas                  ʕamaʕasʔi.
+hiɬ-ʼa·qsta-ʼas             ʕamaʕas-ʔi·
+there-amongst-on.the.ground grassy.area-DEF
+lie.in                      the.grassy.area
+He lay in the grassy area.
 
 # 009
-ʔinisʔaqƛ̓aaḥʔiš           wiiksaquu      waa, waaʔaƛ     ʕaanism̓it.
-ʔinis-ʔa·qƛ-ʼaːḥ-ʔi·š     wik-sa-quː     wa·  wa·-ʼaƛ    ʕaːnis-m̓i·t
-wishing-FUT-perhaps-IND.3 not-real-COND  say  say-FINITE crane-son.of
-she.will.wish             she.never.said say  said       Son.of.Crane
-“She will wish she had never said that,” Son of Crane said.
+wik qiiḥsn̓aak           hinusa  kuukuḥʷʼisa ʔuukʷiiqsta husmin.
+wik qiː-ḥsn̓a·k          hinusa  kuːkuḥʷʼisa ʔu-kʷi·qsta husmin
+not for.long-in.between surface hair.seal   it-among    kelp
+not long.until          surface hair.seal   among       kelp
+In a short while a hair seal popped up out of the water among some kelp.
 
 # 010
-ʔun̓aaḥšiƛ      yaʕat̓aaḥii               ʕasayat,            n̓ašiƛ̓asʔaƛ                          ʔuukʷiɬ     č̓ikn̓am̓it.
-ʔu-n̓a·ḥ-šiƛ    yaq-ʼat-ʼaːḥ-(y)iː       ʕas-ayi·-ʼat        n̓aš-iƛ-ʼa·s-ʼaƛ                     ʔu-kʷiɬ     č̓ikn̓a-m̓i·t
-it-seeking-MOM who-SHIFT-perhaps-INDF.3 plan-give-SHIFT     go.to.see-MOM-go.in.order.to-FINITE he-doing.to wren-son.of
-seeking.for    who.would.do.to.him      he.gives.him.a.plan he.went.to.see                      to.him      Son.of.Wren
-He went to find someone who could give him advice. He went to see Son of Wren.
+t̓aapsʔatu       yaaqʷin̓ak̓uuḥšit̓itq       čakupʔi.
+t̓aps-atu        yaqʷ-in̓ak̓uːḥ-šiƛ-ʔi·tq   čakup-ʔi·
+dive-sink       that.which-see-MOM-REL.3 man-DEF
+dive.into.water what.he.saw              the.man
+What the man saw dove in.
 
 # 011
-čuu, qʷiscumyiis,     wikḥsaaʔats              saapinqas,                wiitqp̓aaʔatsiš,    wikstupʔick                                     wawaaʔatsiš.
-čuː  qʷis-cum-yiːs    wik-ḥsa·-ʼat-s           saːpinq-as                witqʷ-p̓a·-ʼat-si·š wikstup-ʔick                                    wawaː-ʼat-si·š
-OK   do.so-should     INDF.1SG                 not-longing.for-SHIFT-1SG sawbill-female     ugly-dislike.because.of.excessive-SHIFT-IND.1SG nothing-IND.2SG say-SHIFT-IND.1SG
-OK   what.should.I.do she.does.not.long.for.me Sawbill.woman             I.am.too.ugly      you.are.worthless                               she.said.to.me
-“Now, what should I do? Daughter of Sawbill refused my proposal. She said to me that I am too ugly and that I am nothing” [Son of Crane told Son Wren].
+n̓aacsiičiƛ  ʔan  qʷayac̓iik.
+n̓aːcsiː-čiƛ ʔan  qʷayac̓iːk
+spotted-MOM that wolf
+seeing      that wolf
+He saw that it was a wolf.
 
 # 012
-n̓aacsa č̓ikn̓am̓it    ʔan  ʔiiḥ    ḥaʔukʷiƛmaḥsa.
-n̓aːcsa č̓ikn̓a-m̓i·t  ʔan  ʔi·ḥʷ   ḥaʔu-kʷiƛ-maḥsa
-see    wren-son.of that greatly do.in.turn-MOM-desiring.to
-see    Son.of.Wren that greatly he.wanted.to.get.even
-Son of Wren saw that he really wanted to get even.
+ʔuucaḥtaksa                    hinkʷay̓iiḥšiƛ        kuukuḥʷʼisaʔi.
+ʔu-ca-ḥta·k-sa                 hin-kʷay̓iːḥ-šiƛ      kuːkuḥʷʼisa-ʔi·
+it-go.to-headed.for-right.away there-try.to.get-MOM hair.seal-DEF
+head.for                       tried.to.get         the.hair.seal
+It headed right away for the seal.
 
 # 013
-t̓aat̓aapatšiƛ.
-DUP.CVː-t̓apat-šiƛ
-DISTR?-think-MOM
-having.many.ideas
-He started to think (Son of Crane).
+hiniipšiƛ        qaḥsaap.
+hin-iːp-šiƛ      qaḥ-sa·p
+there-obtain-MOM dead-MOMCAUS
+got.it           kill
+It (the wolf) got it and killed it.
 
 # 014
-wikcukʔisʔiš,           waaʔaƛ̓at.
-wik-cuk-ʔis-ʔi·š        wa·-ʼaƛ-ʼat
-not-requiring-DIM-IND.3 say-FINITE-SHIFT
-it.is.simple            he.said.to.him
-“It’s easy,” he told him.
+susaaʔaƛ        hiniic     wiḥčisan̓ap          ʔucaʔap          sup̓icisʔi.
+sus-a·-ʼaƛ      hiniːc     wiḥ-či-san̓ap        ʔu-ca-ʼap        sup̓ic-ʽis-ʔi·
+swim-DUR-FINITE take.along dry-at-on.the.beach it-go.to-MOMCAUS sand-on.the.beach-DEF
+swam            take.along put.it.on.dry.land  brought.it       the.sandy.beach
+It (the wolf) swam away with it and brought it ashore to the sandy beach.
 
 # 015
-ʔucačiʔum                nučiiʔi,     ƛ̓amaassiƛsuuk                ʔiiḥquu    ʕaɬmapt,     hitaqinuʔum,           ƛ̓uuɬapiqḥʔaƛsuuk,                  n̓ačḥtaakḥ           ʔaḥ  waa.
-ʔu-ca-či(ƛ)-ʼum          nučiː-ʔi·    ƛ̓am-a·s-iƛ-suːk              ʔi·ḥʷ-quː  ʕaɬmapt      hita-qinu-ʼum          ƛ̓uɬ-api-(q)ḥ-ʼaƛ-suːk              n̓ač-ḥta·kʷ-(q)ḥ     ʔaḥ  wa·
-it-go.to-MOM-FUT.IMP.2SG mountain-DEF straddling-on.a.tree-MOM-2SG large-COND yellow.cedar LOC-on.top-FUT.IMP.2SG touch-up.in.the.air-SIM-FINITE-2SG look-out.to.sea-SIM this say
-go.there                 the.mountain you.climb.onto.a.tree        big        yellow.cedar go.to.the.top          raising.the.arms.up                look.out.to.the.sea this say
-“Go to the mountain; you climb on top of a big yellow cedar tree; stretch your arms out and look to the sea; and say this,”
+c̓ušiʔaƛ,       c̓ušiʔaƛ.
+c̓us-ši(ƛ)-ʼaƛ  c̓us-ši(ƛ)-ʼaƛ
+dig-MOM-FINITE dig-MOM-FINITE
+dug            dug
+It dug and dug.
 
 # 016
-\trs naana wanin siin ki ʔii, ƛuu puč ma kin siin ki ʔii.
-\tln “She said to me; she said to me; Let the sea rise; let the tide come in.”
+hatkc̓usan̓ap̓aƛ                   kuukuḥʷʼisakʔi.
+hatkʷ-c̓u·-san̓ap-ʼaƛ             kuːkuḥʷʼisa-ʔa·k-ʔi·
+roll-inside-on.the.beach-FINITE hair.seal-POSS-DEF
+rolled.it.into.a.hole
+It rolled its hair seal into the hole.
 
 # 017
-qʷisckʷaaƛquuk                 ʔaḥ, n̓aacsaʔaqƛ̓ick    ʔič̓ačiƛ       tup̓aɬ. muuɬšiƛ̓aqt̓iš.
-qʷis-ckʷi·-ʼaƛ-quːk            ʔaḥ  n̓aːcsa-ʔaqƛ-ʔick ʔič̓a-čiƛ      tup̓aɬ  muːɬ-šiƛ-ʔaqƛ-ʔi·š
-do.so-happened-FINITE-COND.2SG this see-FUT-IND.2SG  lifted.up-MOM sea    flooded-MOM-FUT-IND.3
-when.you.have.done.this        this you.will.see     rise          sea    there.will.be.a.flood
-“When you have done this, you will see the sea rise. There will be a flood.”
+tuukʷiičsan̓ap̓aƛ.
+tuːk-i·č-san̓ap-ʼaƛ
+cover.with.sand-covering-on.the.beach-FINITE
+covered.it.with.sand
+Then it (the wolf) covered it with sand.
 
 # 018
-qʷis  ʕaanism̓it    waaʔatʔitq,          hinumsinƛ nučii,   ʔuuwaƛ  ʔiiḥs        ʕaɬmapt,     ʔiiḥs        ʕaɬmapt,     ƛ̓amaasiƛ,                ƛ̓uuɬapuƛ,                n̓ačḥtaakḥʔaƛ               waa waamaḥsap̓anitʔitq,
-qʷis  ʕaːnis-m̓i·t  wa·-ʼat-ʔi·tq        hinumsinƛ nučiː    ʔu-waƛ  ʔiːḥʷ-s      ʕaɬmapt      ʔiːḥʷ-s      ʕaɬmapt      ƛ̓am-a·s-iƛ               ƛ̓uɬ-apuƛ                 n̓ač-ḥta·kʷ-(q)ḥ-ʼaƛ        wa· wa·-maḥsa-ʼap-ʼat-it-ʔi·tq
-do.so crane-son.of say-SHIFT-REL.3      climb     mountain it-find suddenly-1SG yellow.cedar suddenly-1SG yellow.cedar straddling-on.a.tree-MOM touch-in.the.air.MOMCAUS look-out.to.sea-SIM-FINITE say say-desiring.to-MOMCAUS-SHIFT-PAST-REL.3
-do.so Son.of.Crane what.was.said.to.her climb     mountain found   large        yellow.cedar large        yellow.cedar climbed.onto.a.tree      put.the.hands.up         looking.out.to.sea         say what.he.wanted.him.to.say
-Son of Crane did as he was told. He went up the mountain, and found a big yellow cedar tree; he climbed the tree, raised his hands, looking out to sea, he said what he was told to say:
+hatkhatkmisaƛ           qʷayac̓iikʔi,  wiimatsapa                    qʷiʔiiʔisʔapʔitq                            kuukuḥʷʼisakʔi.
+DUP.#-hatkʷ-misa-ʼaƛ    qʷayac̓iːk-ʔi· wiːmat-sa·p-a                 qʷi-ʔiː-ʽis-ʼap-ʔi·tq                       kuːhkuḥʷʼisa-ʔa·k-ʔi·
+REP?-roll-on.top-FINITE wolf-DEF      not.showing-MOMCAUS-trying.to that.which-reach-on.the.beach-MOMCAUS-REL.3 hair.seal-POSS-DEF
+started.to.roll.around  the.wolf      trying.to.cover.up            where.he.buried.it                          his.seal
+The wolf started to roll around trying to cover up where he buried his hair seal.
 
 # 019
-\trs naana wanin siin ki ʔii, ƛuu puč ma kin siin ki ʔii.
-\tln “She said to me* she said to me* Let the sea rise* let the tide come in.”
+sayiisaʔaƛquuč                            ḥuu        ḥaam̓aamaḥasak        ʔan  wiimatisuk.
+saya·-ʽis-aʔa-ʼaƛ-quː-č                   ḥuː        ḥaːm̓a-maḥsa-ak       ʔan  wiːmat-ʽis-uk
+far.off-on.the.beach-??-FINITE-COND-INF.3 over.there know-desiring.to-DUR that not.showing-on.the.beach-POSS
+he.would.step.far.back                    over.there wanting.to.know      that his.not.showing.on.the.beach
+It (the wolf) would step far back there making sure that it did not show.
 
 # 020
-muup̓itʕaƛ̓ap̓at.                      n̓aacsaaƛ   ʔuyaasiɬa                  hiɬačišitʔi               ʔič̓ačiƛ       tup̓aɬ.
-muː-p̓it-ʕaƛ-ʼap-ʼat                 n̓aːcsa-ʼaƛ ʔuyaː-siɬa                 hiɬ-ačišt-it-ʔi·          ʔič̓a-čiƛ      tup̓aɬ
-four-times-make.sound-MOMCAUS-SHIFT see-FINITE unusual-act.like           there-on.the.sea-PAST-DEF lifted.up-MOM salt.water
-he.did.it.four.times                watched    something.strange.happened the.ocean                 rise          salt.water
-He chanted this for four times, and something started to happen to the ocean: the water rose.
+huʔaasʔaƛquučƛa                  hatkhatkmisaƛ.
+huʔa-a·s-ʼaƛ-quː-č-ƛa·           DUP.#-hatkʷ-misa-ʼaƛ
+again-??-FINITE-COND-INF.3-again REP?-roll-on.top-FINITE
+would.do.it.repeatedly           started.to.roll.around
+It would repeatedly start rolling around again.
 
 # 021
-čaani    ƛuuɬḥap,   way! ɬuḥšiʔaƛ,          ɬuḥšiʔaƛ.          ʔay̓ix ɬuḥaa.
-čaːni    ƛuːɬ-ḥap   way  ɬuḥ-ši(ƛ)-ʼaƛ      ɬuḥ-ši(ƛ)-ʼaƛ      ʔay̓ix ɬuḥ-(y)a·
-at.first slowly-do? EXP  flooded-MOM-FINITE flooded-MOM-FINITE swift flooded-DUR
-at.first slowly     EXP  the.tide.came.up   the.tide.came.up   swift flooding
-At first slowly, then it flooded and flooded. It flooded fast.
+mukšiƛ               qʷayac̓iikʔi  hit̓aaqƛ̓iƛ.
+muk-šiƛ              qʷyac̓iːk-ʔi· hit-ʼa·qƛ̓iƛ
+run.on.the.fours-MOM wolf-DEF     LOC-in.the.woods
+run.on.the.fours     the.wolves   into.the.woods
+The wolf ran off into the woods.
+
+# 022
+mamaasuɬqčik     haaʕin yaaʕaaɬčiqḥʔitq.
+ma·su·ɬ-qčik     haːʕin yaqʷ-ʼa·ɬčiqḥ-ʔi·tq
+howl-going.along invite he.who-together.with-REL.3
+howled.while     invite fellow.people
+It howled as it went inviting the other wolves.
 
 # 023
-wiikin̓ak̓uuḥšiʔat      hihiqtup.
-wik-in̓ak̓uːḥ-ši(ƛ)-ʼat hihiq-tu·p
-not-see-MOM-SHIFT     various-thing
-nothing.could.be.seen various.things
-You could not see anything.
+wiktum    naaw̓aḥi čakupʔi.
+wik-tum   naːw̓aḥi čakup-ʔi·
+not-PAST? waiting main-DEF
+did.not   waiting the.man
+The man didn’t wait.
 
 # 024
-ḥaʔii            nučiiʔi,     ʔana wiḥʔaaʔa        hiy̓aaʔaʔitq                    ʕaanism̓it.
-ḥa-ʔiː           nučiː-ʔi·    ʔana wiḥ-ʼa·ʔa       hiɬ-ʼa·ʔa-ʔi·tq                ʕaːnis-m̓i·t
-completely-reach mountain-DEF only dry-on.the.rock there-on.the.rock-REL.3        crane-son.of
-go.all.the.way   the.mountain only dry.on.the.rock place.on.the.rock.where.he.was Son.of.Crane
-All the way to the mountain, the only place dry was where Son of Crane was.
+tuxkʷist̓aʔa                ʔuucaḥtaksa.
+tuxʷ-kʷist-ʼa·ʔa           ʔu-ca-ḥta·k-sa
+jump-move.away-on.the.rock it-go.to-headed.for-right.away
+jumped.away.on.the.rocks   head.for
+He jumped up and went there.
 
 # 025
-hiy̓aaʔa           t̓učkqumʔakʔi     nučiiʔi.
-hiɬ-ʼa·ʔa         t̓učkqum-ʔa·k-ʔi· nučiː-ʔi·
-there-on.the.rock tip-POSS-DEF     mountain-DEF
-on.the.rock       its.tip          the.mountain
-He was on top of the mountain.
+c̓uskʷisan̓ap                kuukuḥʷʼisaʔi   hiniic     waɬšiƛ.
+c̓us-kʷis-san̓ap             kuːkuḥʷʼisa-ʔi· hiniːc     waɬ-ši(ƛ)
+dig-move.from-on.the.beach hair.seal-DEF   take.along go.home-MOM
+dug.it.up                  the.hair.seal   take.along go.home
+He dug up the seal and took it home.
 
 # 026
-qii      muuɬuk.
-qiː      muːɬ-uk
-for.long flooded-DUR
-for.long high.tide
-It was flooded for a long time.
+č̓iʔakʷay̓ap         siqiiɬšiƛ       ɬuucmaʔi.
+č̓i-ʔakʷa-y̓a·p      siq-iːɬ-šiƛ     ɬuːcma-ʔi·
+cut-apart-MOMCAUS  cooked-make-MOM wife-DEF
+cut.up.into.pieces cooked          the.wife
+The wife cut it up and started to cook.
 
 # 027
-niyasu           hihiqtup,  qaḥkʷačiƛ           hihiqtup,  y̓uuqʷaa qaḥkʷačiƛ           hiɬačištʔatḥʔi                maamaati, hakʷiiḥaʔaɬ.
-ni-yasu·         hihiq-tu·p qaḥ-kʷa-čiƛ         hihiq-tu·p y̓uːqʷaː qaḥ-kʷa-čiƛ         hiɬ-ačišt-ʼatḥ-ʔi·            maːmaːti  hakʷiːḥa-ʔa·ɬ
-dip-in.water     all-thing  dead-completely-MOM all-thing  also    dead-completely-MOM there-on.the.sea-residing-DEF bird      starve-PL
-sink.under.water everything died.out            everything also    died.out            ones.that.lived.on.the.sea    bird      they.starved
-Everything was under the water; everything died, even the birds that lived on the sea died; they starved.
+huʔaḥt̓asʔaƛ                                 qʷayac̓iikʔi.
+huʔa-ḥt-ʼas-ʼaƛ                             qʷayac̓iːk-ʔi·
+back-come.out.of.woods-on.the.ground-FINITE wolf-DEF
+came.back.out.of.woods                      the.wolves
+The wolf came back out of the woods.
 
 # 028
-ƛuuɬḥap̓aƛ         wiḥšiƛšiƛ.
-ƛuːɬ-ḥap-ʼaƛ      wiḥ-šiƛ-šiƛ
-slowly-do?-FINITE dry-GRAD-MOM
-did.it.slowly     water.slowly.went.down
-The water slowly went down.
+hiniic     yaaqʷiɬitʔitq        haaw̓awiiqš.
+hiniːc     yaqʷ-iɬ-it-ʔi·tq     haw̓a-awiːqš
+take.along he.who-to-PAST-REL.3 eat-calling.for
+take.along one.he.did.it.to     invite.for.eating
+He brought the ones that he invited.
 
 # 029
-hinʔaɬšiƛ          ʕaanism̓it    ʔan  ʔiiʔiiḥsiɬapi.
-hin-ʔaɬ-šiƛ        ʕaːnis-m̓i·t  ʔan  ʔi·ḥʷ-siɬa-api
-there-aware.of-MOM crane-son.of that great-do-excessively
-realize            Son.of.Crane that he.has.done.an.extraordinary.thing
-Son of Crane realized that he had done great damage.
+wikisʕiʔaƛ                   kuukuḥʷʼisakʔi.
+wik-ʽis-ʕi(ƛ)-ʼaƛ            kuːkuḥʷʼisa-ʔa·k-ʔi·
+not-on.the.beach-find-FINITE hair.seal-POSS-DEF
+found.it.gone.on.the.beach   his.hair.seal
+It (the wolf) found its seal gone.
 
 # 030
-n̓aacsiičiƛ  ʔan  hišsuuƛ  maamaatistup,      k̓ʷiišk̓ʷiik̓ʷa, č̓ikn̓a, c̓ixʷatin,  hišuk qaḥkʷačiƛm̓inḥ.
-n̓aːcsiː-čiƛ ʔan  hiš-suːƛ maːmaːti-stup      k̓ʷiːšk̓ʷiːk̓ʷa  č̓ikn̓a  c̓ixʷatin   hišuk qaḥ-kʷa-čiƛ-m̓inḥ
-spotted-MOM that all-die  bird-kind          robin         wren   bald.eagle all   dead-completely-MOM-PL
-saw         that all.died all.kinds.of.birds robin         wren   bald.eagle all   they.died.out
-He saw that all the birds had died: robin, wren, and eagle — all of them died.
+mismiisʔaƛ̓at                                  qʷicaḥtačiƛitʔitq                 yaʕatukʔitq           kuuw̓iɬʔat   haʔum.
+mis-ma·-ʽis-ʼaƛ-ʼat                           qʷi-ca-ḥta-čiƛ-ʔi·tq              yaq-ʼat-uk-ʔi·tq      kuːw̓iɬ-ʼat  haʔum
+smell-going.toward?-on.the.beach-FINITE-SHIFT he.who-go.to-out.to.sea-MOM-REL.3 who-SHIFT-POSS-REL.3  steal-SHIFT food
+sniff.out.the.way.to                          where.he.went                     one.who.did.it.to.his was.stolen  food
+It sniffed out the track of the one who stole its food went.
 
 # 031
-waay̓aqstuƛ         tiičaʔapquu         ʕaanism̓it.
-wa·ɬ-ʼaqstuƛ       ti·ča-ʼap-quː       ʕaːnis-m̓i·t
-say-inside         alive?-MOMCAUS-COND crane-son.of
-thought.to.himself bring.back.to.life  Son.of.Crane
-Son of Crane throught to himself that he would bring them back to life.
+ʔuucaḥtaksa                    hiy̓atḥʔitq           čakupʔi.
+ʔu-ca-ḥta·k-sa                 hiɬ-ʼatḥ-ʔi·tq       čakup-ʔi·
+it-go.to-headed.for-right.away there-residing-REL.3 man-DEF
+head.for                       where.he.lives       the.man
+Right away it headed for the man’s house.
 
 # 032
-hišaḥtaƛ               tiičaʔap       huʔaas.
-hiš-ʔa-ḥta·-ʼaƛ        ti·ča-ʼap      huʔa-aːs
-all-??-doing.to-FINITE alive?-MOMCAUS again-??
-to.all                 bring.to.life  again
-He brought all of them back to life.
+mitxumy̓iƛ̓aɬ                           hiy̓atḥʔitq           čakupʔi   hiɬʔiitq     hicnup̓aqƛ̓as.
+mitxʷ-umɬ-ʼi·(ƛ)-ʔa·ɬ                 hiɬ-ʼatḥ-ʔi·tq       čakup-ʔi· hiɬ-ʔi·tq    hicnup-ʼaqƛ̓as
+circle.about-all.over-go.for-PL       there-residing-REL.3 man-DEF   there-REL.3  couple-in.the.house
+they.circled.around.on.the.ground.for where.he.lives       the.man   where.it.was a.couple.in.the.house
+They circled around the house where the man and the wife lived.
 
 # 033
-wik̓iitḥʔaɬ          huḥtak   ʔan  qatqaaḥakit.
-wik̓iːt-(q)ḥ-ʔa·ɬ    huḥtak   ʔan  DUPCVt-qaḥ-ak-it
-none.present-SIM-PL know.how that DISTR-dead-DUR-PAST
-none.of.them.did    know.how that they.were.dead
-None of them realized that they had been dead.
+hiʔiis              qʷayac̓iikm̓inḥʔi.
+hiʔiːs              qʷayac̓iːk-m̓inḥ-ʔi·
+there.on.the.ground wolf-PL-DEF
+there.on.the.ground the.wolves
+There the wolves stayed.
 
 # 034
-tačiƛ        ʔuḥ       saapinqas,     sayaʔii,      c̓aawapanačšiƛ.
-ta-čiƛ       ʔuḥ       saːpinq-as     saya·-ʔiː     c̓awa·-panač-šiƛ
-drifting-MOM being.she sawbill-female far.off-reach one-move.about.randomly-MOM
-drifted      being.she Sawbill.woman  went.far      moving.around.alone
-Daughter of Sawbill drifted far away, all by herself.
+mitxʷaaʔaɬ          maḥt̓iiʔak   čakupʔi.
+mitxʷ-a·-ʔa·ɬ       maḥt̓iː-ʔa·k čakup-ʔi·
+circle.about-DUR-PL house-POSS  man-DEF
+they.were.circling  his.house   the.man
+They circled around the man’s house.
 
 # 035
-ʔunw̓iiƛḥʔaƛ           qʷis  ʔan  wikḥsaamit                   ʕaanism̓it.
-ʔunw̓iːƛ-(q)ḥ-ʼaƛ      qʷis  ʔan  wik-ḥsa·-ʼap-it              ʕaːnis-m̓i·t
-because.of-SIM-FINITE do.so that not-longing.for-MOMCAUS-PAST crane-son.of
-it.is.the.reason      do.so that she.didnt.want.him           Son.of.Crane
-All of this happened because she refused to marry Son of Crane.
+qiičiiɬšiʔaƛ̓itqʔaɬ                    tuuḥuk hiniiʔas.
+qiː-či·ɬ-šiƛ-ʼaƛ-ʔi·tq-ʔa·ɬ           tuːḥuk hin-iːʔas
+for.long-for.days-MOM-FINITE-REL.3-PL afraid there-go.out
+for.many.days.they                    afraid go.out
+For many days they were afraid to go out.
 
 # 036
-ʔunw̓iiƛḥʔaaɬ                            ʔaḥʔaa c̓aawaačinkʔaaɬ           saapinqas      kʷiƛkʷiscač                    kʷisqʔičḥšiʔaƛquu,                c̓aawuu              wačaak                naaty̓aqakuk.
-ʔunw̓iːƛ-(q)ḥ-ʔaːɬ                       ʔaḥʔaː c̓awa·-činkʷ-ʔaːɬ         saːpinq-as     DUPCVƛ-kʷis-ca-č               kʷis-qʔičḥ-ši(ƛ)-ʼaƛ-quː          c̓awa·-uː            wača·k                naːty̓aqak-uk
-because.of-SIM-always                   that   one-together.with-always sawbill-female REP-different-go.to-REP        different-year-MOM-FINITE-COND    one-acting.together taking.care.of.a.baby babies-POSS
-it.is.the.reason.why.she.always.does.so that   she.is.always.by.herself Sawbill.woman  keep.going.to.different.places when.it.turns.to.a.different.year do.alone            taking.care.of.a.baby her.babies
-That is why Daughter of Sawbill is always alone, going to different places year after year, taking care of her babies by herself.
+ʔayipiʔaƛukʔitq                     tums,   ʔuyaaƛ              waay̓aqstuƛ         ɬuucmaʔi   ʔan  wiiwiik̓ity̓ak, ʔan     wiiksa        ʔuḥ       kuuw̓iɬ kuukuḥʷʼisaʔi.
+ʔaya-ʽ(i)pi(ƛ)-ʼaƛ-uk-ʔi·tq         tums    ʔuyi-ʼaƛ            wa·ɬ-ʼaqstuƛ       ɬuːcma-ʔi· ʔan  ik-ʼity̓ak     ʔan     wik-sa        ʔuḥ       kuːw̓iɬ kuːkuḥʷʼisa-ʔi·
+many-in.the.house-FINITE-POSS-REL.3 garbage at.that.time-FINITE say-inside         wife-DEF   that not-fearing   because not-precisely being.she steal  hair.seal-DEF
+it.became.plenty.in.the.hous        garbage at.that.time        thought.to.himself the.wife   that not.fearing   because precisely.not being.she steal  the.hair.seal
+When their garbage piled up, the wife thought that she had nothing to fear, because after all she was not the one who stole the seal.
 
 # 037
-wiiy̓aat     n̓aacsaat   saapinm̓it.     qʷaaʔaƛ     ƛaḥ ʔuyi         wiiy̓a ʔuušink.
-wiːy̓a-ʼat   n̓aːcsa-ʼat saːpin-m̓i·t    qʷaː-ʼaƛ    ƛaḥ ʔuyi         wiːy̓a ʔuːš-ink
-never-SHIFT see-SHIFT  sawbill-son.of thus-FINITE now at.that.time never some-together.with
-never       could.see  Mr.Sawbill     like.this   now at.that.time never with.someone
-You never see Mr. Sawbill. It’s that way: she’s never with anyone.
+hiniiʔas     tumyaap.
+hin-iːʔas    tums-a·p
+there-go.out garbage-take.out?
+go.out       take.garbage.out
+She went out to dump the garbage.
 
 # 038
-ḥaaḥuupay̓ak            —          ʔunw̓iiƛ ʔaḥʔaa      wiiy̓aat      y̓umwaaʔat  quuʔas,     wiiy̓aat                         ʔuuktisʔat  qʷaaʔiitq     ƛuɬquu,       witqquu  quuʔas.
-ḥaːḥuːp-(y)a·-y̓akʷ     —          ʔunw̓iːƛ ʔaḥʔaː      wiːy̓a-ʼat    y̓umwa·-ʼat quːʔas      wiːy̓a-ʼat                       ʔu-ktis-ʼat qʷaː-ʔi·tq    ƛuɬ-quː       witq-quː quːʔas
-teaching-DUR-thing.for — because.of that    never-SHIFT reject-SHIFT person     never-SHIFT it-acting.by.reference.to-SHIFT how-REL.3   good-COND     ugly-COND     person
-teachings              — because.of that    never       reject       person     never       according.to.it                 how.he.is   if.it.is.good if.he.is.ugly person
-Lesson: This is the reason that you never refuse a person, you never go by his/her appearances (if s/he is pretty or ugly looking).
+wiksiɬat.
+wik-siɬa-ʼat
+not-do-SHIFT
+do.nothing.to
+[But] they didn’t do anything to her.
+
+# 039
+ʔuyaaƛ              t̓apatnakšiƛ     čakupʔi.
+ʔuyi-ʼaƛ            t̓apat-na·k-šiƛ  čakup-ʔi·
+at.that.time-FINITE idea-having-MOM man-DEF
+at.that.time        got.an.idea     the.man
+Then the man got an idea.
+
+# 040
+maḥt̓aqasukʔaɬ                hiy̓atḥʔitq           hiistwasukʔitq               qʷišckʷii.
+maḥt̓aqas-uk-ʔa·ɬ             hiɬ-ʼatḥ-ʔi·tq       hist-wa·s-uk-ʔi·tq           qʷiš-ckʷi·
+addition.on.the.roof-POSS-PL there-residing-REL.3 there-go.outdoors-POSS-REL.3 smoking-result.of
+they.had.an.addition         where.they.live      where.theirs.come.out        smoke
+They had an addition on the roof of their residence where smoke escaped from.
+
+# 041
+sukʷiƛ   xaaʔamin. hinumsinƛ hiniic     puu.
+sukʷi(ƛ) xaːʔamin  hinumsinƛ hiniːc     puː
+take     ladder    climb     take.along gun
+take     ladder    climbed   take.along gun
+He took his ladder and climbed up taking along a gun.
+
+# 042
+y̓akʷaas.
+y̓ak-wa·s
+peering.out-go.outdoors
+look.out
+He looked out.
+
+# 043
+ƛ̓isumɬaq            ḥaw̓iɬmatakukʔiʔaɬ.
+ƛ̓is-umɬ-aq          ḥaw̓iɬ-matak-uk-ʔi·-ʔa·ɬ
+white-all.over-very leader-probably-POSS-DEF-PL
+very.white.one      maybe.he.was.their.leader
+There was a white wolf — he must have been their leader.
+
+# 044
+ƛ̓ičiƛ       ʔuḥtaa      ƛ̓isumɬʔi           qaḥsaap.
+ƛ̓i-čiƛ      ʔu-ḥta·     ƛ̓is-umɬ-ʔi·        qaḥ-sa·p
+shoot-MOM   he-doing.to white-all.over-DEF dead-MOMCAUS
+fired.a.gun to.it       the.white.one      kill
+He shot the white one and killed it.
+
+# 045
+nay̓iik  w̓ašqšiƛ              mamaasuɬšiƛ.
+nay̓iːk  w̓ašq-šiƛ             DUP.CV-ma·su·ɬ-šiƛ
+at.once bunched.together-MOM REP-howl-MOM
+at.once gathered             started.howling.repeatedly
+Right away they gathered around and started howling.
+
+# 046
+hiiɬtqyaap̓up       ʔaƛa qʷayac̓iik.
+hiɬ-tqya·p̓i-up     ʔaƛa qʷayac̓iːk
+there-back-MOMCAUS two  wolf
+put.on.the.back    two  wolf
+Two wolves put [the dead wolf] on their back.
+
+# 047
+mamaasuɬqčik̓aƛ̓aɬ                     hiitaqƛ̓iƛ.
+DUP.CV-ma·su·ɬ-qčik-ʼaƛ-ʔa·ɬ         hit-ʼa·qƛ̓iƛ
+REP-howl-doing.while.going-FINITE-PL LOC-in.the.woods
+they.howled.repeatedly.while.going   went.into.the.woods
+They were howling as they went into the woods.
+
+# 048
+nay̓iik  ƛ̓iptkšiƛ    hicnupʔi   hitawiiʔis.
+nay̓iːk  ƛ̓iptk-šiƛ   hicnup-ʔi· hita-wiːʔis
+at.once pack.up-MOM couple-DEF LOC-go.down.inlet
+at.once packed.up   the.couple went.down.the.inlet
+Right away the couple packed up and went down the inlet.
+
+# 049
+wik̓ap̓at                  qiiʔatḥ                hiinaʔaƛ̓atƛa                  qʷayac̓iikštaqumɬʔi.
+wik-ʼap-ʼat              qiː-ʼatḥ               hin-(w)a(ƛ)-ʼaƛ-ʼat-ƛa·       qʷayac̓iːk-štaqumɬ-ʔi·
+not-MOMCAUS-SHIFT        for.long-residing      there-find-FINITE-SHIFT-again wolf-groups-DEF
+they.did.not.let.them.do living.for.a.long.time found.them.again              the.wolf.pack
+It wasn’t long before the wolf pack found the couple again.
+
+# 050
+čuu      ʔaqiscumḥin              waaʔaƛ     čakupʔi.
+čuː      ʔaqis-cum-ḥin            wa·-ʼaƛ    čakup-ʔi·
+now.then do.what-should-INTER.1PL say-FINITE husband-DEF
+now.then what.should.we.do        said       the.husband
+“Now, what should I do,” said the husband.
+
+# 051
+wikʔaqƛ̓atsa             ɬačiʔat          ʕaciis     qʷicačiƛuusin.
+wik-ʔaqƛ-ʼat-sa         ɬač-i(ƛ)-ʼat     ʕaciːs     qʷi-ca-či(ƛ)-uːsin
+not-FUT-SHIFT-1SG       let.go-MOM-SHIFT regardless what-go.to-MOM-REL.DUB.1PL?
+they.will.not.let.me.do they.let.me.go   regardless no.matter.where.we.go
+They wouldn’t leave me alone no matter where we go.
+
+# 052
+haaʕinčiʔi       t̓apatḥsim̓inḥukqin.
+haːʕin-či(ƛ)-ʼi· t̓apatḥsi-m̓inḥ-uk-qin
+invite-MOM-IMP   advisors-PL-POSS-REL.1PL
+call.on          our.advisors
+Call on our advisors.
+
+# 053
+sukʷiƛ̓asnak̓atuk                       t̓apatḥsiʔi.
+sukʷi(ƛ)-ʼa·s-na·k-ʼat-uk             t̓apatḥsi-ʔi·
+take-go.in.order.to-having-SHIFT-POSS advisors-DEF
+someone.went.to.get                   the.advisors
+Someone went for the advisors.
+
+# 054
+hišumyipiƛ̓aɬ                   t̓aat̓aapatšiƛ.
+hiš-umɬ-ʽipiƛ-ʔa·ɬ             DUP.CVː-t̓apat-ši(ƛ)
+all-in.a.group-in.the.house-PL DISTR?-think-MOM
+they.gathered.in.the.house     many.people.thinking
+They gathered around and started thinking.
+
+# 055
+ʔun̓aaḥʔi       numackʷiqaɬquu                           hiiɬciiʕasʔap.
+ʔu-n̓a·ḥ-ʼi·    numa-ckʷi·q-aɬ-quː                       hiːɬ-ciːʕas-ʼap
+it-seeking-IMP menstruating-remains.of-attached.on-COND there.in.a.house-at.the.outside.wall-MOMCAUS
+find.it        pad.from.a.period                        in.front.of.the.house
+“You look for a pad from a monthly period and put it on your doorstep,” [the advisors told him].
+
+# 056
+qʷis  čakupʔi   waaʔatʔitq.
+qʷis  čakup-ʔi· wa·-ʼat-ʔi·tq
+do.so man-DEF   say-SHIFT-REL.3
+do.so the.man   what.was.said.to.her
+The man did what he was told.
+
+# 057
+ʔaani  tuuḥšiƛ    qʷayac̓iikm̓inḥʔi.
+ʔaːni  tuːḥ-ši(ƛ) qʷayac̓iːk-m̓inḥ-ʔi·
+really afraid-MOM wolf-PL-DEF
+really scared.off the.wolves
+The wolves got really scared.
+
+# 058
+huʔaaqƛ̓iƛ                ɬačiʔat.
+huʔa-ʼa·qƛ̓iƛ             ɬač-i(ƛ)-ʼat
+back-in.the.woods        let.go-MOM-SHIFT
+went.back.into.the.woods they.leave.them.alone
+They went back into the woods and left him alone.
+
+# 059
+ʔaḥʔaa ʔuunuuƛwaʔiš              wiiy̓aat     hinaaḥinʔat            haʔum saštup.
+ʔaḥʔaː ʔu-a·nuːƛ-wa·ʔi·š         wiːy̓a-ʼat   hin-a·ḥin-ʼat          haʔum saštup
+that   it-because.of-QUOT.3      never-SHIFT there-deprive.of-SHIFT food  fur.bearing
+that   it.is.the.reason.they.say never       they.take.away         food  animal
+That is the reason why you never take away food from an animal.
