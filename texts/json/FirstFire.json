@@ -1,0 +1,5086 @@
+{
+  "title": {
+    "en": "How humans got the first fire",
+    "nuk": "qʷisḥitiič quuʔas hiniip ʔink"
+  },
+  "abbreviation": "FirstFire",
+  "ID": "CL3",
+  "utterances": [
+    {
+      "metadata": "001",
+      "transcript": "čuu  ʔuuqḥɬiʔaqƛs          qʷisḥitiič                  quuʔas hiniip ʔink.",
+      "transcription": "     ",
+      "translation": "OK, I will talk about how people got fire.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuuː",
+          "gloss": "OK",
+          "literal": "OK",
+          "morphemes": [
+            {
+              "transcription": "čuuː",
+              "gloss": "OK"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-qḥɬi-ʔaqƛ-s",
+          "gloss": "it-tell.about-FUT-1SG",
+          "literal": "I.will.tell.about",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "qḥɬi",
+              "gloss": "tell.about"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "s",
+              "gloss": "1SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷis-(q)ḥ-it-(y)iː-č",
+          "gloss": "do.so-SIM-PAST-INDF.3-INF.3",
+          "literal": "how.they.got",
+          "morphemes": [
+            {
+              "transcription": "qʷis",
+              "gloss": "do.so"
+            },
+            {
+              "transcription": "(q)ḥ",
+              "gloss": "SIM"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "(y)iː",
+              "gloss": "INDF.3"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas",
+          "gloss": "human",
+          "literal": "human",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "human"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiniːp",
+          "gloss": "catch",
+          "literal": "catch",
+          "morphemes": [
+            {
+              "transcription": "hiniːp",
+              "gloss": "catch"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ",
+          "gloss": "fire",
+          "literal": "fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "002",
+      "transcript": "wik̓iitukʷitwaʔiš              ʔink  quuʔas huuʔak   ʔuyi.",
+      "transcription": "    ",
+      "translation": "Long ago humans didn’t have fire.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik̓iːt-uk-it-wa·ʔi·š",
+          "gloss": "none.present-POSS-PAST-QUOT.3",
+          "literal": "they.had.none",
+          "morphemes": [
+            {
+              "transcription": "wik̓iːt",
+              "gloss": "none.present"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "wa·ʔi·š",
+              "gloss": "QUOT.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ",
+          "gloss": "fire",
+          "literal": "fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas",
+          "gloss": "human",
+          "literal": "human",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "human"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huːʔak",
+          "gloss": "long.ago",
+          "literal": "long.ago",
+          "morphemes": [
+            {
+              "transcription": "huːʔak",
+              "gloss": "long.ago"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuyi",
+          "gloss": "at.that.time",
+          "literal": "at.that.time",
+          "morphemes": [
+            {
+              "transcription": "ʔuyi",
+              "gloss": "at.that.time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "003",
+      "transcript": "wik̓iit       qʷiiḥʷʼaɬʔaaḥiiʔaɬ                   siqiiɬ.",
+      "transcription": "  ",
+      "translation": "There was no fire to cook their meals.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik̓iːt",
+          "gloss": "none.present",
+          "literal": "none.present",
+          "morphemes": [
+            {
+              "transcription": "wik̓iːt",
+              "gloss": "none.present"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷiː-ḥʷʼaɬ-ʼaːḥ-(y)iː-ʔa·ɬ",
+          "gloss": "that.which-using-PURP.1SG?-INDF.3-PL",
+          "literal": "what.they.would.use.for",
+          "morphemes": [
+            {
+              "transcription": "qʷiː",
+              "gloss": "that.which"
+            },
+            {
+              "transcription": "ḥʷʼaɬ",
+              "gloss": "using"
+            },
+            {
+              "transcription": "ʼaːḥ",
+              "gloss": "PURP.1SG?"
+            },
+            {
+              "transcription": "(y)iː",
+              "gloss": "INDF.3"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "siqa-iːɬ",
+          "gloss": "cooked-make",
+          "literal": "cook",
+          "morphemes": [
+            {
+              "transcription": "siqa",
+              "gloss": "cooked"
+            },
+            {
+              "transcription": "iːɬ",
+              "gloss": "make"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "004",
+      "transcript": "ʔana ʔunaak    ʔink  qʷayac̓iikštaqumɬ.",
+      "transcription": "   ",
+      "translation": "Only the wolf tribe had fire.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔana",
+          "gloss": "only",
+          "literal": "only",
+          "morphemes": [
+            {
+              "transcription": "ʔana",
+              "gloss": "only"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-na·k",
+          "gloss": "it-having",
+          "literal": "having",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ",
+          "gloss": "fire",
+          "literal": "fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷayac̓iːk-štaqumɬ",
+          "gloss": "wolf-groups",
+          "literal": "wolf.tribe",
+          "morphemes": [
+            {
+              "transcription": "qʷayac̓iːk",
+              "gloss": "wolf"
+            },
+            {
+              "transcription": "štaqumɬ",
+              "gloss": "groups"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "005",
+      "transcript": "tuḥʔinʔaɬ            qʷayac̓iikštaqumɬ.",
+      "transcription": " ",
+      "translation": "People were scared of the wolf tribe.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "tuḥ-ʼin-ʔa·ɬ",
+          "gloss": "afraid-treated.as-PL",
+          "literal": "they.were.scared.of",
+          "morphemes": [
+            {
+              "transcription": "tuḥ",
+              "gloss": "afraid"
+            },
+            {
+              "transcription": "ʼin",
+              "gloss": "treated.as"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷayac̓iːk-štaqumɬ",
+          "gloss": "wolf-groups",
+          "literal": "wolf.tribe",
+          "morphemes": [
+            {
+              "transcription": "qʷayac̓iːk",
+              "gloss": "wolf"
+            },
+            {
+              "transcription": "štaqumɬ",
+              "gloss": "groups"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "006",
+      "transcript": "ʔayup̓it    quuʔas n̓amiɬšiƛ  hiinip ʔinkʔii.",
+      "transcription": "    ",
+      "translation": "Many times people tried to get the fire [from the wolf tribe].",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔayu-p̓it",
+          "gloss": "many-times",
+          "literal": "many.times",
+          "morphemes": [
+            {
+              "transcription": "ʔayu",
+              "gloss": "many"
+            },
+            {
+              "transcription": "p̓it",
+              "gloss": "times"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas",
+          "gloss": "human",
+          "literal": "human",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "human"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓amiɬ-šiƛ",
+          "gloss": "try-MOM",
+          "literal": "tried",
+          "morphemes": [
+            {
+              "transcription": "n̓amiɬ",
+              "gloss": "try"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiːnip",
+          "gloss": "obtain",
+          "literal": "obtain",
+          "morphemes": [
+            {
+              "transcription": "hiːnip",
+              "gloss": "obtain"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ-ʔi·",
+          "gloss": "fire-DEF",
+          "literal": "the.fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "007",
+      "transcript": "wim̓aaqƛ̓aƛquučʔaɬ                  ƛawiičiƛ.",
+      "transcription": " ",
+      "translation": "But none of them can ever get close [to the fire].",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wim̓aːqƛ-ʼaƛ-quː-č-ʔa·ɬ",
+          "gloss": "incapable.of-FINITE-COND-INF.3-PL",
+          "literal": "they.would.not.be.able.to",
+          "morphemes": [
+            {
+              "transcription": "wim̓aːqƛ",
+              "gloss": "incapable.of"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF.3"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛawa-ʼi·čiƛ",
+          "gloss": "near-INC",
+          "literal": "get.close",
+          "morphemes": [
+            {
+              "transcription": "ƛawa",
+              "gloss": "near"
+            },
+            {
+              "transcription": "ʼi·čiƛ",
+              "gloss": "INC"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "008",
+      "transcript": "huuʔasšiiɬ,          huʔinʔaƛquučƛa,                  wim̓aaqƛ̓atʔiš             waa.",
+      "transcription": "   ",
+      "translation": "Time and time again different men tried but they would all come back and say the same thing, “It couldn’t be done.”",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "huʔa-as-šiːɬ",
+          "gloss": "again-reaching.to-IT",
+          "literal": "repeatedly.go.for.it",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "again"
+            },
+            {
+              "transcription": "as",
+              "gloss": "reaching.to"
+            },
+            {
+              "transcription": "šiːɬ",
+              "gloss": "IT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huʔa-in-ʼaƛ-quː-č-ƛa·",
+          "gloss": "back-come-FINITE-COND-INF.3-also",
+          "literal": "would.come.back.the.same.way",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "back"
+            },
+            {
+              "transcription": "in",
+              "gloss": "come"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF.3"
+            },
+            {
+              "transcription": "ƛa·",
+              "gloss": "also"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wim̓aːqƛ-ʼat-ʔi·š",
+          "gloss": "incapable.of-SHIFT-IND.3",
+          "literal": "it.cannot.be.done",
+          "morphemes": [
+            {
+              "transcription": "wim̓aːqƛ",
+              "gloss": "incapable.of"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·",
+          "gloss": "say",
+          "literal": "say",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "009",
+      "transcript": "čaa      waa kaƛḥšiƛ            hisumyisʔiswaʔiš                       ḥaa   muwaačm̓it   ʔumč̓aap.",
+      "transcription": "      ",
+      "translation": "Now, one day Son of Deer was playing down on the beach.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čaː",
+          "gloss": "lets.see",
+          "literal": "lets.see",
+          "morphemes": [
+            {
+              "transcription": "čaː",
+              "gloss": "lets.see"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·",
+          "gloss": "and",
+          "literal": "and",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "and"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kaƛh-šiƛ",
+          "gloss": "daylight-MOM",
+          "literal": "it.became.daylight",
+          "morphemes": [
+            {
+              "transcription": "kaƛh",
+              "gloss": "daylight"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "his-umɬ-ʽis-ʔis-wa·ʔi·š",
+          "gloss": "there-all.over-on.the.beach-DIM-QUOT.3",
+          "literal": "little.one.was.down.the.beach",
+          "morphemes": [
+            {
+              "transcription": "his",
+              "gloss": "there"
+            },
+            {
+              "transcription": "umɬ",
+              "gloss": "all.over"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "DIM"
+            },
+            {
+              "transcription": "wa·ʔi·š",
+              "gloss": "QUOT.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaː",
+          "gloss": "there",
+          "literal": "there",
+          "morphemes": [
+            {
+              "transcription": "ḥaː",
+              "gloss": "there"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔumč̓aːp",
+          "gloss": "play",
+          "literal": "play",
+          "morphemes": [
+            {
+              "transcription": "ʔumč̓aːp",
+              "gloss": "play"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "010",
+      "transcript": "naʔaa ʔan  ciiqciiqa ḥaa   ʔuuʔasm̓inḥʔi    čaakupiiḥ ʔanč       wim̓aaqƛ̓at          ƛawiičiʔat      hiy̓atʔitq            qʷayac̓iikštaqumɬ.",
+      "transcription": "          ",
+      "translation": "He could hear the people saying that it was impossible to get close to the wolf village.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "naʔa·",
+          "gloss": "hear",
+          "literal": "hear",
+          "morphemes": [
+            {
+              "transcription": "naʔa·",
+              "gloss": "hear"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔan",
+          "gloss": "that",
+          "literal": "that",
+          "morphemes": [
+            {
+              "transcription": "ʔan",
+              "gloss": "that"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ciq-(y)a",
+          "gloss": "speak-REP",
+          "literal": "speaking",
+          "morphemes": [
+            {
+              "transcription": "ciq",
+              "gloss": "speak"
+            },
+            {
+              "transcription": "(y)a",
+              "gloss": "REP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaː",
+          "gloss": "there",
+          "literal": "there",
+          "morphemes": [
+            {
+              "transcription": "ḥaː",
+              "gloss": "there"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas-m̓inḥ-ʔi·",
+          "gloss": "human-PL-DEF",
+          "literal": "the.people",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "human"
+            },
+            {
+              "transcription": "m̓inḥ",
+              "gloss": "PL"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "čaːkupiːḥ",
+          "gloss": "men",
+          "literal": "men",
+          "morphemes": [
+            {
+              "transcription": "čaːkupiːḥ",
+              "gloss": "men"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔan-č",
+          "gloss": "that-INF.3",
+          "literal": "that",
+          "morphemes": [
+            {
+              "transcription": "ʔan",
+              "gloss": "that"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wim̓aːqƛ-ʼat",
+          "gloss": "incapable.of-SHIFT",
+          "literal": "cannot.be.done",
+          "morphemes": [
+            {
+              "transcription": "wim̓aːqƛ",
+              "gloss": "incapable.of"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛawa-ʽi·čiƛ-ʼat",
+          "gloss": "near-INC-SHIFT",
+          "literal": "get.close",
+          "morphemes": [
+            {
+              "transcription": "ƛawa",
+              "gloss": "near"
+            },
+            {
+              "transcription": "ʽi·čiƛ",
+              "gloss": "INC"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-ʼatḥ-ʔi·tq",
+          "gloss": "there-residing-REL.3",
+          "literal": "where.they.lived",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "ʼatḥ",
+              "gloss": "residing"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷayac̓iːk-štaqumɬ",
+          "gloss": "wolf-groups",
+          "literal": "wolf.tribe",
+          "morphemes": [
+            {
+              "transcription": "qʷayac̓iːk",
+              "gloss": "wolf"
+            },
+            {
+              "transcription": "štaqumɬ",
+              "gloss": "groups"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "011",
+      "transcript": "yacinsʔiiʔaƛ         qučknaḥiy̓uɬʔisʔi        muwaačm̓it   ʔuʔumḥis    hiinipčip   siiḥiɬ.",
+      "transcription": "     ",
+      "translation": "Son of Deer walked to the people and said in the small voice, “I can get it for you.”",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "yac-insʔiː-ʼaƛ",
+          "gloss": "step-approach-FINITE",
+          "literal": "walked.close.to",
+          "morphemes": [
+            {
+              "transcription": "yac",
+              "gloss": "step"
+            },
+            {
+              "transcription": "insʔiː",
+              "gloss": "approach"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔunaḥ-čk-i·y̓uɬ-ʔis-ʔi·",
+          "gloss": "small-DIM-voice-DIM-DEF",
+          "literal": "in.the.small.voice",
+          "morphemes": [
+            {
+              "transcription": "ʔunaḥ",
+              "gloss": "small"
+            },
+            {
+              "transcription": "i·y̓uɬ",
+              "gloss": "voice"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            },
+            {
+              "transcription": "čk…ʔis",
+              "gloss": "DIM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuʔumḥi-s",
+          "gloss": "able.to-1SG",
+          "literal": "I.can",
+          "morphemes": [
+            {
+              "transcription": "ʔuʔumḥi",
+              "gloss": "able.to"
+            },
+            {
+              "transcription": "s",
+              "gloss": "1SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiːnip-či·p",
+          "gloss": "obtain-for",
+          "literal": "get.for.you",
+          "morphemes": [
+            {
+              "transcription": "hiːnip",
+              "gloss": "obtain"
+            },
+            {
+              "transcription": "či·p",
+              "gloss": "for"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "siːḥ-iɬ",
+          "gloss": "you.all-to",
+          "literal": "to.you.all",
+          "morphemes": [
+            {
+              "transcription": "siːḥ",
+              "gloss": "you.all"
+            },
+            {
+              "transcription": "iɬ",
+              "gloss": "to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "012",
+      "transcript": "ƛ̓iixc̓uy̓inčiʔaƛ                       muwaačm̓it.",
+      "transcription": " ",
+      "translation": "They laughed at Son of Deer.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ƛ̓iːxʷ-c̓us-ʼin-čiƛ-ʼaƛ",
+          "gloss": "laugh-laugh.at-treated.as-MOM-FINITE",
+          "literal": "they.laughed.at.him",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓iːxʷ",
+              "gloss": "laugh"
+            },
+            {
+              "transcription": "c̓us",
+              "gloss": "laugh.at"
+            },
+            {
+              "transcription": "ʼin",
+              "gloss": "treated.as"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "013",
+      "transcript": "ʔaqisḥcumč      ʔuʕašt     waaʔaƛ̓at,        wim̓aaqƛukna           haa      ʔaʔiiḥp̓itukqin                hiinip ʔinkʔii,  ƛ̓iixc̓uy̓inʔaƛ.",
+      "transcription": "        ",
+      "translation": "“How can he be the one to get [the fire for us] when our big guys could not get it?” they said laughing at him.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔaqisḥ-cum-č",
+          "gloss": "how-might-INF.3",
+          "literal": "how.can.it.be",
+          "morphemes": [
+            {
+              "transcription": "ʔaqisḥ",
+              "gloss": "how"
+            },
+            {
+              "transcription": "cum",
+              "gloss": "might"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ʕašt",
+          "gloss": "it-??",
+          "literal": "be.the.one",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ʕašt",
+              "gloss": "??"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ-ʼat",
+          "gloss": "say-FINITE-SHIFT",
+          "literal": "they.said.to.him",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wim̓aːqƛ-uk-na·",
+          "gloss": "incapable.of-POSS-1PL",
+          "literal": "ours.cannot",
+          "morphemes": [
+            {
+              "transcription": "wim̓aːqƛ",
+              "gloss": "incapable.of"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "na·",
+              "gloss": "1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "haː",
+          "gloss": "the.ones",
+          "literal": "the.ones",
+          "morphemes": [
+            {
+              "transcription": "haː",
+              "gloss": "the.ones"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-ʔi·ḥʷ-p̓it-uk-qin",
+          "gloss": "DISTR-large-size-POSS-REL.1PL",
+          "literal": "our.big.guys",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "ʔi·ḥʷ",
+              "gloss": "large"
+            },
+            {
+              "transcription": "p̓it",
+              "gloss": "size"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "qin",
+              "gloss": "REL.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiːnip",
+          "gloss": "obtain",
+          "literal": "obtain",
+          "morphemes": [
+            {
+              "transcription": "hiːnip",
+              "gloss": "obtain"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ-ʔi·",
+          "gloss": "fire-DEF",
+          "literal": "the.fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓iːxʷ-c̓us-ʼin-ʼaƛ",
+          "gloss": "laugh-laugh.at-treated.as-FINITE",
+          "literal": "they.laughed.at.him",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓iːxʷ",
+              "gloss": "laugh"
+            },
+            {
+              "transcription": "c̓us",
+              "gloss": "laugh.at"
+            },
+            {
+              "transcription": "ʼin",
+              "gloss": "treated.as"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "014",
+      "transcript": "huʔaasʔaƛƛa           waa muwaačm̓it   hiinipčipʔaqƛ         siiḥiɬ     ʔink  waa.",
+      "transcription": "      ",
+      "translation": "Son of Deer said again, “I will go and get fire for you.”",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "huʔa-ʔa·s-ʼaƛ-ƛa·",
+          "gloss": "again-??-FINITE-again",
+          "literal": "he.did.it.again",
+          "morphemes": [
+            {
+              "transcription": "ʔa·s",
+              "gloss": "??"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "huʔa…ƛa·",
+              "gloss": "again"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·",
+          "gloss": "say",
+          "literal": "say",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiːnip-či·p-ʔaqƛ",
+          "gloss": "obtain-for-FUT",
+          "literal": "I.will.get.it.for.you",
+          "morphemes": [
+            {
+              "transcription": "hiːnip",
+              "gloss": "obtain"
+            },
+            {
+              "transcription": "či·p",
+              "gloss": "for"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "siːḥ-iɬ",
+          "gloss": "you.all-to",
+          "literal": "to.you.all",
+          "morphemes": [
+            {
+              "transcription": "siːḥ",
+              "gloss": "you.all"
+            },
+            {
+              "transcription": "iɬ",
+              "gloss": "to"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ",
+          "gloss": "fire",
+          "literal": "fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·",
+          "gloss": "say",
+          "literal": "say",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "015",
+      "transcript": "ƛ̓iiw̓aaqičiiɬšiʔaƛƛa.",
+      "transcription": "",
+      "translation": "They started to laugh at him again.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ƛ̓iːxʷ-ʼa·qa-ičiːɬ-šiƛ-ʼaƛ-ƛa·",
+          "gloss": "laugh-severally-IT.INC-MOM-FINITE-again",
+          "literal": "they.started.to.laugh.at.him.again",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓iːxʷ",
+              "gloss": "laugh"
+            },
+            {
+              "transcription": "ʼa·qa",
+              "gloss": "severally"
+            },
+            {
+              "transcription": "ičiːɬ",
+              "gloss": "IT.INC"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ƛa·",
+              "gloss": "again"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "016",
+      "transcript": "haa  n̓amiɬsap̓i       waaʔaƛ     ḥaw̓iɬʔi   n̓amiɬsap̓i.",
+      "transcription": "    ",
+      "translation": "“Oh, let him try,” said the chief.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "haː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "haː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓amiɬ-sa·p-ʼi·",
+          "gloss": "try-MOMCAUS-IMP",
+          "literal": "let.him.try",
+          "morphemes": [
+            {
+              "transcription": "n̓amiɬ",
+              "gloss": "try"
+            },
+            {
+              "transcription": "sa·p",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaw̓iɬ-ʔi·",
+          "gloss": "chief-DEF",
+          "literal": "the.chief",
+          "morphemes": [
+            {
+              "transcription": "ḥaw̓iɬ",
+              "gloss": "chief"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓amiɬ-sa·p-ʼi·",
+          "gloss": "try-MOMCAUS-IMP",
+          "literal": "let.him.try",
+          "morphemes": [
+            {
+              "transcription": "n̓amiɬ",
+              "gloss": "try"
+            },
+            {
+              "transcription": "sa·p",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "017",
+      "transcript": "čuu waaʔaƛ̓at.",
+      "transcription": " ",
+      "translation": "“OK,” they said to him.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "OK",
+          "literal": "OK",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "OK"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ-ʼat",
+          "gloss": "say-FINITE-SHIFT",
+          "literal": "they.said.to.him",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "018",
+      "transcript": "ʔee  nučḥakšiƛ̓ic̓aƛ            x̣ax̣  čaaxtšiƛ     muwaačm̓it.",
+      "transcription": "    ",
+      "translation": "Now the little Son of Deer sure got proud and happy.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔeː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "ʔeː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nučḥ-ak-šiƛ-ʔic-ʼaƛ",
+          "gloss": "proud-DUR-MOM-DIM-FINITE",
+          "literal": "little.one.got.proud",
+          "morphemes": [
+            {
+              "transcription": "nučḥ",
+              "gloss": "proud"
+            },
+            {
+              "transcription": "ak",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔic",
+              "gloss": "DIM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "x̣ax̣",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "x̣ax̣",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "čaxt-šiƛ",
+          "gloss": "happy-GRAD",
+          "literal": "he.got.happy",
+          "morphemes": [
+            {
+              "transcription": "čaxt",
+              "gloss": "happy"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "GRAD"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "019",
+      "transcript": "čuu ʔun̓aaḥčip̓is                qʷik̓ʷičḥʔaaḥiis                       huuɬhuuɬa.",
+      "transcription": "   ",
+      "translation": "“OK, get some dancing gear for me.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "OK",
+          "literal": "OK",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "OK"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-n̓a·ḥ-či·p-ʼi·s",
+          "gloss": "it-seeking-for-IMP.2SG>1SG",
+          "literal": "get.it.for.me",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "n̓a·ḥ",
+              "gloss": "seeking"
+            },
+            {
+              "transcription": "či·p",
+              "gloss": "for"
+            },
+            {
+              "transcription": "ʼi·s",
+              "gloss": "IMP.2SG>1SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷi-k̓ʷič-(q)ḥ-ʔaːḥ-(y)iːs",
+          "gloss": "that.which-clothed.in-SIM-??-INDF.1SG",
+          "literal": "what.I.can.wear.for",
+          "morphemes": [
+            {
+              "transcription": "qʷi",
+              "gloss": "that.which"
+            },
+            {
+              "transcription": "k̓ʷič",
+              "gloss": "clothed.in"
+            },
+            {
+              "transcription": "(q)ḥ",
+              "gloss": "SIM"
+            },
+            {
+              "transcription": "ʔaːḥ",
+              "gloss": "??"
+            },
+            {
+              "transcription": "(y)iːs",
+              "gloss": "INDF.1SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huːɬ-(y)a",
+          "gloss": "dance-REP",
+          "literal": "dancing",
+          "morphemes": [
+            {
+              "transcription": "huːɬ",
+              "gloss": "dance"
+            },
+            {
+              "transcription": "(y)a",
+              "gloss": "REP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "020",
+      "transcript": "ʔusumʔaqƛsiš           w̓anus, c̓iisiicum,                 maamaƛ̓aasum,                  mamaƛp̓ičḥtum.",
+      "transcription": "    ",
+      "translation": "I will need skirt, head band, wrist bands, and knee bands.”",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔu-sum-ʔaqƛ-si·š",
+          "gloss": "it-needing-FUT-IND.1SG",
+          "literal": "I.will.need",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "sum",
+              "gloss": "needing"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "si·š",
+              "gloss": "IND.1SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "w̓anus",
+          "gloss": "skirt",
+          "literal": "skirt",
+          "morphemes": [
+            {
+              "transcription": "w̓anus",
+              "gloss": "skirt"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "c̓is-iːc-um",
+          "gloss": "rope-around.the.head-thing",
+          "literal": "head.band",
+          "morphemes": [
+            {
+              "transcription": "c̓is",
+              "gloss": "rope"
+            },
+            {
+              "transcription": "iːc",
+              "gloss": "around.the.head"
+            },
+            {
+              "transcription": "um",
+              "gloss": "thing"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCVː-maƛ-ʼaːs-um",
+          "gloss": "DISTR?-tie-at.the.wrist-thing",
+          "literal": "wrist.band",
+          "morphemes": [
+            {
+              "transcription": "DUPCVː",
+              "gloss": "DISTR?"
+            },
+            {
+              "transcription": "maƛ",
+              "gloss": "tie"
+            },
+            {
+              "transcription": "ʼaːs",
+              "gloss": "at.the.wrist"
+            },
+            {
+              "transcription": "um",
+              "gloss": "thing"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-maƛ-p̓ič-ḥta-um",
+          "gloss": "DISTR-tie-on.the.ankle-on.the.foot-thing",
+          "literal": "knee.band",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "maƛ",
+              "gloss": "tie"
+            },
+            {
+              "transcription": "p̓ič",
+              "gloss": "on.the.ankle"
+            },
+            {
+              "transcription": "ḥta",
+              "gloss": "on.the.foot"
+            },
+            {
+              "transcription": "um",
+              "gloss": "thing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "021",
+      "transcript": "ʔuukʷiiɬʔap̓i        waaʔaƛ     ḥaw̓iɬʔi,  ʔuukʷiiɬʔap̓i        qʷiqʷisumyii.",
+      "transcription": "    ",
+      "translation": "“Make them for him. Make for him whatever he needs,” said the chief.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔu-kʷiːɬ-ʼap-ʼi·",
+          "gloss": "it-make-MOMCAUS-IMP",
+          "literal": "make.them.for.him",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "kʷiːɬ",
+              "gloss": "make"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaw̓iɬ-ʔi·",
+          "gloss": "chief-DEF",
+          "literal": "the.chief",
+          "morphemes": [
+            {
+              "transcription": "ḥaw̓iɬ",
+              "gloss": "chief"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-kʷiːɬ-ʼap-ʼi·",
+          "gloss": "it-make-MOMCAUS-IMP",
+          "literal": "make.them.for.him",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "kʷiːɬ",
+              "gloss": "make"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-qʷi-sum-(y)iː",
+          "gloss": "DISTR-that.which-needing-INDF.3",
+          "literal": "whatever.he.needs",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "qʷi",
+              "gloss": "that.which"
+            },
+            {
+              "transcription": "sum",
+              "gloss": "needing"
+            },
+            {
+              "transcription": "(y)iː",
+              "gloss": "INDF.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "022",
+      "transcript": "hee, mamuukšiƛ  ɬuucsaamiiḥ.",
+      "transcription": "  ",
+      "translation": "Then the ladies started working.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "heː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "heː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "mamuːk-šiƛ",
+          "gloss": "work-MOM",
+          "literal": "work",
+          "morphemes": [
+            {
+              "transcription": "mamuːk",
+              "gloss": "work"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ɬuːcsaːmiːḥ",
+          "gloss": "women",
+          "literal": "women",
+          "morphemes": [
+            {
+              "transcription": "ɬuːcsaːmiːḥ",
+              "gloss": "women"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "023",
+      "transcript": "wik qiičiƛ         ʔusiikʔaɬ      qʷiqʷisumʔitq.",
+      "transcription": "   ",
+      "translation": "It didn’t take long to get the costumes made.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik",
+          "gloss": "not",
+          "literal": "not",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qiː-čiƛ",
+          "gloss": "for.long-MOM",
+          "literal": "last.long.time",
+          "morphemes": [
+            {
+              "transcription": "qiː",
+              "gloss": "for.long"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-siːk-ʔa·ɬ",
+          "gloss": "it-complete-PL",
+          "literal": "they.completed",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "siːk",
+              "gloss": "complete"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-qʷi-sum-ʔi·tq",
+          "gloss": "DISTR-what-needing-REL.3",
+          "literal": "what.he.needs",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "qʷi",
+              "gloss": "what"
+            },
+            {
+              "transcription": "sum",
+              "gloss": "needing"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "024",
+      "transcript": "hee  m̓uč̓ičuƛ     muwaačm̓it.",
+      "transcription": "  ",
+      "translation": "Son of Deer got dressed.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "heː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "heː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "m̓uč̓ič-uƛ",
+          "gloss": "clothed-MOM",
+          "literal": "got.clothed",
+          "morphemes": [
+            {
+              "transcription": "m̓uč̓ič",
+              "gloss": "clothed"
+            },
+            {
+              "transcription": "uƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "025",
+      "transcript": "čuu      ʔusumʔaqƛsiš           yaqʔaqƛii         nunuuk  waaʔaƛ     muwaačm̓it   kutḥsii.",
+      "transcription": "      ",
+      "translation": "“Now, I will need someone who will sing and drum.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-sum-ʔaqƛ-si·š",
+          "gloss": "it-needing-FUT-IND.1SG",
+          "literal": "I.will.need",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "sum",
+              "gloss": "needing"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "si·š",
+              "gloss": "IND.1SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "yaqʷ-ʔaqƛ-(y)iː",
+          "gloss": "he.who-FUT-INDF.3",
+          "literal": "whoever.will",
+          "morphemes": [
+            {
+              "transcription": "yaqʷ",
+              "gloss": "he.who"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "(y)iː",
+              "gloss": "INDF.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nunuːk",
+          "gloss": "singing",
+          "literal": "singing",
+          "morphemes": [
+            {
+              "transcription": "nunuːk",
+              "gloss": "singing"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kutḥ-ḥsi·",
+          "gloss": "drum-AGT.NZR",
+          "literal": "drummer",
+          "morphemes": [
+            {
+              "transcription": "kutḥ",
+              "gloss": "drum"
+            },
+            {
+              "transcription": "ḥsi·",
+              "gloss": "AGT.NZR"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "026",
+      "transcript": "naʔuukʔaqƛ̓atsiš,               ʔaanaḥiʔučum        siiḥʷiiʔiɬ            waaʔaƛ.",
+      "transcription": "   ",
+      "translation": "They will come with me, but you must all go ahead,” he said.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "naʔuːk-ʔaqƛ-ʼat-si·š",
+          "gloss": "accompanying-FUT-SHIFT-IND.1SG",
+          "literal": "they.will.accompany.me",
+          "morphemes": [
+            {
+              "transcription": "naʔuːk",
+              "gloss": "accompanying"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "si·š",
+              "gloss": "IND.1SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaːnaḥi-ʼi·čim",
+          "gloss": "really?-FUT.IMP.2PL",
+          "literal": "you.will.only",
+          "morphemes": [
+            {
+              "transcription": "ʔaːnaḥi",
+              "gloss": "really?"
+            },
+            {
+              "transcription": "ʼi·čim",
+              "gloss": "FUT.IMP.2PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "siːḥʷ-wi·-ʼiɬ",
+          "gloss": "you.all-first-coming?",
+          "literal": "you.all.go.first",
+          "morphemes": [
+            {
+              "transcription": "siːḥʷ",
+              "gloss": "you.all"
+            },
+            {
+              "transcription": "wi·",
+              "gloss": "first"
+            },
+            {
+              "transcription": "ʼiɬ",
+              "gloss": "coming?"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "027",
+      "transcript": "hii, yaacšiƛ̓aɬ            nunuukqčik,         kuutḥkuutḥaqčik.",
+      "transcription": "   ",
+      "translation": "He started to walk, singing and drumming along.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hiː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "hiː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "yac-šiƛ-ʔa·ɬ",
+          "gloss": "step-MOM-PL",
+          "literal": "they.started.walking",
+          "morphemes": [
+            {
+              "transcription": "yac",
+              "gloss": "step"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nunuːk-qčik",
+          "gloss": "singing-going.along",
+          "literal": "singing.along",
+          "morphemes": [
+            {
+              "transcription": "nunuːk",
+              "gloss": "singing"
+            },
+            {
+              "transcription": "qčik",
+              "gloss": "going.along"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kutḥ-(y)a-qčik",
+          "gloss": "drum-REP-going.along",
+          "literal": "drumming.along",
+          "morphemes": [
+            {
+              "transcription": "kutḥ",
+              "gloss": "drum"
+            },
+            {
+              "transcription": "(y)a",
+              "gloss": "REP"
+            },
+            {
+              "transcription": "qčik",
+              "gloss": "going.along"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "028",
+      "transcript": "čuu, ʔiiqḥukʔaqƛs        siiḥiɬ     qʷiyuʔaqƛiisuu      kamatqšiƛ       waaʔaƛ.",
+      "transcription": "     ",
+      "translation": "“OK, I will tell you all when you will start running,” he said.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "OK",
+          "literal": "OK",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "OK"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔiːqḥ-uk-ʔaqƛ-s",
+          "gloss": "telling-DUR-FUT-1SG",
+          "literal": "I.will.tell",
+          "morphemes": [
+            {
+              "transcription": "ʔiːqḥ",
+              "gloss": "telling"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "s",
+              "gloss": "1SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "siːḥ-iɬ",
+          "gloss": "you.all-to",
+          "literal": "to.you.all",
+          "morphemes": [
+            {
+              "transcription": "siːḥ",
+              "gloss": "you.all"
+            },
+            {
+              "transcription": "iɬ",
+              "gloss": "to"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷiyu-ʔaqƛ-(y)iːsuː",
+          "gloss": "when-FUT-INDF.2PL",
+          "literal": "when.you.would",
+          "morphemes": [
+            {
+              "transcription": "qʷiyu",
+              "gloss": "when"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "(y)iːsuː",
+              "gloss": "INDF.2PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kamatq-šiƛ",
+          "gloss": "running-MOM",
+          "literal": "starting.to.run",
+          "morphemes": [
+            {
+              "transcription": "kamatq",
+              "gloss": "running"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "029",
+      "transcript": "haptaaqčikʔic̓aƛ                            ʔuḥ      ʔukʷink̓aƛ               ḥaa  nunuukm̓inḥʔi.",
+      "transcription": "    ",
+      "translation": "The little one was hiding as they went along with the singers.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hapt-a·-qčik-ic-ʼaƛ",
+          "gloss": "in.hiding-DUR-doing.while.going-DIM-FINITE",
+          "literal": "little.one.was.hiding.as.they.go.along",
+          "morphemes": [
+            {
+              "transcription": "hapt",
+              "gloss": "in.hiding"
+            },
+            {
+              "transcription": "a·",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "qčik",
+              "gloss": "doing.while.going"
+            },
+            {
+              "transcription": "ic",
+              "gloss": "DIM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuḥ",
+          "gloss": "being.he",
+          "literal": "being.he",
+          "morphemes": [
+            {
+              "transcription": "ʔuḥ",
+              "gloss": "being.he"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-kʷink-ʼaƛ",
+          "gloss": "it-together.with-FINITE",
+          "literal": "went.with",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "kʷink",
+              "gloss": "together.with"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaː",
+          "gloss": "them",
+          "literal": "them",
+          "morphemes": [
+            {
+              "transcription": "ḥaː",
+              "gloss": "them"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nunuːk-m̓inḥ-ʔi·",
+          "gloss": "singing-PL-DEF",
+          "literal": "singers",
+          "morphemes": [
+            {
+              "transcription": "nunuːk",
+              "gloss": "singing"
+            },
+            {
+              "transcription": "m̓inḥ",
+              "gloss": "PL"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "030",
+      "transcript": "hii, ƛawiičiƛ̓aɬ       hiy̓atḥʔitq           qʷayac̓iikštaqumɬ.",
+      "transcription": "   ",
+      "translation": "Now they got close to where the wolf tribe lived.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hiː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "hiː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛawa-ʽi·čiƛ-ʔa·ɬ",
+          "gloss": "near-INC-PL",
+          "literal": "they.got.close",
+          "morphemes": [
+            {
+              "transcription": "ƛawa",
+              "gloss": "near"
+            },
+            {
+              "transcription": "ʽi·čiƛ",
+              "gloss": "INC"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-ʼatḥ-ʔi·tq",
+          "gloss": "there-residing-REL.3",
+          "literal": "where.they.live",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "ʼatḥ",
+              "gloss": "residing"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷayac̓iːk-štaqumɬ",
+          "gloss": "wolf-groups",
+          "literal": "wolf.tribe",
+          "morphemes": [
+            {
+              "transcription": "qʷayac̓iːk",
+              "gloss": "wolf"
+            },
+            {
+              "transcription": "štaqumɬ",
+              "gloss": "groups"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "031",
+      "transcript": "čuuč,      waaʔaƛ     kamatqšiƛ̓ič         waɬšiƛcuu.",
+      "transcription": "   ",
+      "translation": "“OK you all, run and go home,” said Son of Deer.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː-č",
+          "gloss": "OK-2PL",
+          "literal": "ok.you.all",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "OK"
+            },
+            {
+              "transcription": "č",
+              "gloss": "2PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kamatq-šiƛ-ʼi·č",
+          "gloss": "running-MOM-IMP.2SG",
+          "literal": "you.all.run",
+          "morphemes": [
+            {
+              "transcription": "kamatq",
+              "gloss": "running"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼi·č",
+              "gloss": "IMP.2SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "waɬ-šiƛ-cuː",
+          "gloss": "go.home-MOM-go.IMP.2PL",
+          "literal": "you.go.home",
+          "morphemes": [
+            {
+              "transcription": "waɬ",
+              "gloss": "go.home"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "cuː",
+              "gloss": "go.IMP.2PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "032",
+      "transcript": "wee, kamatqšiƛ̓aɬ     munuukm̓inḥitʔi.",
+      "transcription": "  ",
+      "translation": "The singers all ran.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "weː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "weː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kamatq-šiƛ-ʔa·ɬ",
+          "gloss": "running-MOM-PL",
+          "literal": "they.ran",
+          "morphemes": [
+            {
+              "transcription": "kamatq",
+              "gloss": "running"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nunuːk-m̓inḥ-it-ʔi·",
+          "gloss": "singing-PL-PAST-DEF",
+          "literal": "ones.that.were.singing",
+          "morphemes": [
+            {
+              "transcription": "nunuːk",
+              "gloss": "singing"
+            },
+            {
+              "transcription": "m̓inḥ",
+              "gloss": "PL"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "033",
+      "transcript": "hii, nunuukʔic̓aƛ                muwaačm̓it   huyaaɬ.",
+      "transcription": "   ",
+      "translation": "Son of Deer started to sing and dance.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hiː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "hiː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nunuːk-ʔic-ʼaƛ",
+          "gloss": "singing-DIM-FINITE",
+          "literal": "little.one.started.singing",
+          "morphemes": [
+            {
+              "transcription": "nunuːk",
+              "gloss": "singing"
+            },
+            {
+              "transcription": "ʔic",
+              "gloss": "DIM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huyaːɬ",
+          "gloss": "dance",
+          "literal": "dance",
+          "morphemes": [
+            {
+              "transcription": "huyaːɬ",
+              "gloss": "dance"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "034",
+      "transcript": "n̓aacsaaʔat       qʷayac̓iikštaqumɬ.",
+      "transcription": " ",
+      "translation": "The wolf tribe were looking at him.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "n̓aːcsa-ʼaƛ-ʼat",
+          "gloss": "see-FINITE-SHIFT",
+          "literal": "watched.him",
+          "morphemes": [
+            {
+              "transcription": "n̓aːcsa",
+              "gloss": "see"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷayac̓iːk-štaqumɬ",
+          "gloss": "wolf-groups",
+          "literal": "wolf.tribe",
+          "morphemes": [
+            {
+              "transcription": "qʷayac̓iːk",
+              "gloss": "wolf"
+            },
+            {
+              "transcription": "štaqumɬ",
+              "gloss": "groups"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "035",
+      "transcript": "ʔaqaqḥ       waaʔaƛ     ḥaw̓iɬuk     qʷayac̓iikštaqumɬ, ʔaqaqḥ.",
+      "transcription": "    ",
+      "translation": "“What is it?” said the chief of the wolf tribe.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔaqaq-ḥ",
+          "gloss": "what-INTER.3",
+          "literal": "what.is.it?",
+          "morphemes": [
+            {
+              "transcription": "ʔaqaq",
+              "gloss": "what"
+            },
+            {
+              "transcription": "ḥ",
+              "gloss": "INTER.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaw̓iɬ-uk",
+          "gloss": "chief-POSS",
+          "literal": "their.chief",
+          "morphemes": [
+            {
+              "transcription": "ḥaw̓iɬ",
+              "gloss": "chief"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷayac̓iːk-štaqumɬ",
+          "gloss": "wolf-groups",
+          "literal": "wolf.tribe",
+          "morphemes": [
+            {
+              "transcription": "qʷayac̓iːk",
+              "gloss": "wolf"
+            },
+            {
+              "transcription": "štaqumɬ",
+              "gloss": "groups"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaqaq-ḥ",
+          "gloss": "what-INTER.3",
+          "literal": "what.is.it?",
+          "morphemes": [
+            {
+              "transcription": "ʔaqaq",
+              "gloss": "what"
+            },
+            {
+              "transcription": "ḥ",
+              "gloss": "INTER.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "036",
+      "transcript": "haa, ʔuḥʔisʔiš          muwaačm̓it   šuuɬhuuɬa ʔiinaxyuʔis         waaʔaƛ     qʷayac̓iik.",
+      "transcription": "      ",
+      "translation": "“Well, it is Son of Deer dancing in costume,” said one of the wolves.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "haː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "haː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuḥ-ʔis-ʔi·š",
+          "gloss": "being.he-DIM-IND.3",
+          "literal": "it.is.he",
+          "morphemes": [
+            {
+              "transcription": "ʔuḥ",
+              "gloss": "being.he"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "DIM"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huːɬ-(y)a",
+          "gloss": "dance-REP",
+          "literal": "dancing",
+          "morphemes": [
+            {
+              "transcription": "huːɬ",
+              "gloss": "dance"
+            },
+            {
+              "transcription": "(y)a",
+              "gloss": "REP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔiːnax-yu·-ʔis",
+          "gloss": "dressed.up-done-DIM",
+          "literal": "dressed.up",
+          "morphemes": [
+            {
+              "transcription": "ʔiːnax",
+              "gloss": "dressed.up"
+            },
+            {
+              "transcription": "yu·",
+              "gloss": "done"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "DIM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷayac̓iːk",
+          "gloss": "wolf",
+          "literal": "wolf",
+          "morphemes": [
+            {
+              "transcription": "qʷayac̓iːk",
+              "gloss": "wolf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "037",
+      "transcript": "haa, ḥumqaaʔapči.",
+      "transcription": " ",
+      "translation": "“Go and get him away from here” [said the wolf chief].",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "haː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "haː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥumaqaː-ʼap-či·",
+          "gloss": "evade-MOMCAUS-go.and",
+          "literal": "get.him.out.of.the.way",
+          "morphemes": [
+            {
+              "transcription": "ḥumaqaː",
+              "gloss": "evade"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "či·",
+              "gloss": "go.and"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "038",
+      "transcript": "čaʔaaɬči,  ḥumqaači          waa.",
+      "transcription": "  ",
+      "translation": "“Go away. Get away,” they said.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čaʔaːɬ-či·",
+          "gloss": "??-go.and",
+          "literal": "go.and",
+          "morphemes": [
+            {
+              "transcription": "čaʔaːɬ",
+              "gloss": "??"
+            },
+            {
+              "transcription": "či·",
+              "gloss": "go.and"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥumaqa·-či·",
+          "gloss": "evade-go.and",
+          "literal": "go.out.of.the.way",
+          "morphemes": [
+            {
+              "transcription": "ḥumaqa·",
+              "gloss": "evade"
+            },
+            {
+              "transcription": "či·",
+              "gloss": "go.and"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·",
+          "gloss": "say",
+          "literal": "say",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "039",
+      "transcript": "haa, wiinapap̓i             waaʔaƛ     ɬuucmaakʔi      ḥaw̓iɬʔi   wiinapap̓i.",
+      "transcription": "     ",
+      "translation": "“Oh, let him stay,” said the chief’s wife.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "haː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "haː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wiːnap-ʼap-ʼi·",
+          "gloss": "remaining-MOMCAUS-IMP",
+          "literal": "let.him.say",
+          "morphemes": [
+            {
+              "transcription": "wiːnap",
+              "gloss": "remaining"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ɬuːcma-ʔa·k-ʔi·",
+          "gloss": "wife-POSS-DEF",
+          "literal": "his.wife",
+          "morphemes": [
+            {
+              "transcription": "ɬuːcma",
+              "gloss": "wife"
+            },
+            {
+              "transcription": "ʔa·k",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaw̓iɬ-ʔi·",
+          "gloss": "chief-DEF",
+          "literal": "the.chief",
+          "morphemes": [
+            {
+              "transcription": "ḥaw̓iɬ",
+              "gloss": "chief"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wiːnap-ʼap-ʼi·",
+          "gloss": "remaining-MOMCAUS-IMP",
+          "literal": "let.him.say",
+          "morphemes": [
+            {
+              "transcription": "wiːnap",
+              "gloss": "remaining"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "040",
+      "transcript": "ḥaaɬm̓aḥiʔisʔiš    huuɬhuuɬap̓i,          kuw̓iɬa               waaʔaƛ.",
+      "transcription": "   ",
+      "translation": "“He is so cute. Let him dance as he wants,” she said.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ḥaːɬm̓aḥi-ʔis-ʔi·š",
+          "gloss": "cute-DIM-IND.3",
+          "literal": "he.is.cute",
+          "morphemes": [
+            {
+              "transcription": "ḥaːɬm̓aḥi",
+              "gloss": "cute"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "DIM"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huɬ-(y)a-ʼap-ʼi·",
+          "gloss": "dance-REP-MOMCAUS-IMP",
+          "literal": "let.him.dance",
+          "morphemes": [
+            {
+              "transcription": "huɬ",
+              "gloss": "dance"
+            },
+            {
+              "transcription": "(y)a",
+              "gloss": "REP"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kuw̓iɬa",
+          "gloss": "doing.as.one.desires",
+          "literal": "doing.as.one.desires",
+          "morphemes": [
+            {
+              "transcription": "kuw̓iɬa",
+              "gloss": "doing.as.one.desires"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "041",
+      "transcript": "čuu, mačinup̓i          waaʔaƛ     ḥaw̓iɬʔi.",
+      "transcription": "   ",
+      "translation": "“OK, let him in,” said the chief.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "OK",
+          "literal": "OK",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "OK"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "mač-iup-ʼi·",
+          "gloss": "enter-MOMCAUS-IMP",
+          "literal": "let.him.in",
+          "morphemes": [
+            {
+              "transcription": "mač",
+              "gloss": "enter"
+            },
+            {
+              "transcription": "iup",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaw̓iɬ-ʔi·",
+          "gloss": "chief-DEF",
+          "literal": "the.chief",
+          "morphemes": [
+            {
+              "transcription": "ḥaw̓iɬ",
+              "gloss": "chief"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "042",
+      "transcript": "mačinup̓aƛ̓aɬ.",
+      "transcription": "",
+      "translation": "They let him in.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "mač-inup-ʼaƛ-ʔa·ɬ",
+          "gloss": "enter-MOMCAUS-FINITE-PL",
+          "literal": "they.let.him.in",
+          "morphemes": [
+            {
+              "transcription": "mač",
+              "gloss": "enter"
+            },
+            {
+              "transcription": "inup",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "043",
+      "transcript": "nunuukšiƛ   muwaačm̓it.",
+      "transcription": " ",
+      "translation": "Son of Deer started to dance.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "nunuːk-šiƛ",
+          "gloss": "singing-MOM",
+          "literal": "sing",
+          "morphemes": [
+            {
+              "transcription": "nunuːk",
+              "gloss": "singing"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "044",
+      "transcript": "paaʔiƛ       kaɬa, paaʔiƛ       kaɬa ʔee  muwaačm̓it   taɬa ʔee  muwaačm̓it   taɬa, wawaaʔisuk   nuuk huuɬhuuɬa.",
+      "transcription": "            ",
+      "translation": "“I’m going to get a spark of thefire. I’m going to get a spark of that fire,” said his song as he danced.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "paƛ-ʼiƛ",
+          "gloss": "flaming-take",
+          "literal": "take.flame",
+          "morphemes": [
+            {
+              "transcription": "paƛ",
+              "gloss": "flaming"
+            },
+            {
+              "transcription": "ʼiƛ",
+              "gloss": "take"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kaɬa",
+          "gloss": "??",
+          "literal": "??",
+          "morphemes": [
+            {
+              "transcription": "kaɬa",
+              "gloss": "??"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "paƛ-ʼiƛ",
+          "gloss": "flaming-take",
+          "literal": "take.flame",
+          "morphemes": [
+            {
+              "transcription": "paƛ",
+              "gloss": "flaming"
+            },
+            {
+              "transcription": "ʼiƛ",
+              "gloss": "take"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kaɬa",
+          "gloss": "??",
+          "literal": "??",
+          "morphemes": [
+            {
+              "transcription": "kaɬa",
+              "gloss": "??"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔeː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "ʔeː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "taɬa",
+          "gloss": "??",
+          "literal": "??",
+          "morphemes": [
+            {
+              "transcription": "taɬa",
+              "gloss": "??"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔeː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "ʔeː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "taɬa",
+          "gloss": "??",
+          "literal": "??",
+          "morphemes": [
+            {
+              "transcription": "taɬa",
+              "gloss": "??"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wawaː-ʔis-uk",
+          "gloss": "say-DIM-POSS",
+          "literal": "his.says",
+          "morphemes": [
+            {
+              "transcription": "wawaː",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "DIM"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nuːk",
+          "gloss": "song",
+          "literal": "song",
+          "morphemes": [
+            {
+              "transcription": "nuːk",
+              "gloss": "song"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huːɬ-(y)a",
+          "gloss": "dance-REP",
+          "literal": "dancing",
+          "morphemes": [
+            {
+              "transcription": "huːɬ",
+              "gloss": "dance"
+            },
+            {
+              "transcription": "(y)a",
+              "gloss": "REP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "045",
+      "transcript": "čuu      qʷiyuyii    ʔinxaa        ʔuyickʷaƛ                    ʔaqʔištiik          hišumy̓uup               ƛ̓ušuk   ḥumiis,   ʔucaʔap̓aƛ               ʔaḥ  qay̓apt̓atʔi      mamaƛp̓ičumʔatʔi.",
+      "transcription": "           ",
+      "translation": "Now, when he was getting ready, he bundled up dry cedar twigs and put it behind his knee in the knee band.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷiyu-(y)iː",
+          "gloss": "when-INDF.3",
+          "literal": "when",
+          "morphemes": [
+            {
+              "transcription": "qʷiyu",
+              "gloss": "when"
+            },
+            {
+              "transcription": "(y)iː",
+              "gloss": "INDF.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinx-a·",
+          "gloss": "get.ready-DUR",
+          "literal": "getting.ready",
+          "morphemes": [
+            {
+              "transcription": "ʔinx",
+              "gloss": "get.ready"
+            },
+            {
+              "transcription": "a·",
+              "gloss": "DUR"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuyi-ckʷi·-ʼaƛ",
+          "gloss": "at.that.time-happened-FINITE",
+          "literal": "he.did",
+          "morphemes": [
+            {
+              "transcription": "ʔuyi",
+              "gloss": "at.that.time"
+            },
+            {
+              "transcription": "ckʷi·",
+              "gloss": "happened"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "??-(y)iːk",
+          "gloss": "??-INDF.2SG",
+          "literal": "what.would.you.call",
+          "morphemes": [
+            {
+              "transcription": "??",
+              "gloss": "??"
+            },
+            {
+              "transcription": "(y)iːk",
+              "gloss": "INDF.2SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiš-umɬ-ʼuːp",
+          "gloss": "all-in.a.bunch-MOM.CAUS",
+          "literal": "put.into.a.bundle",
+          "morphemes": [
+            {
+              "transcription": "hiš",
+              "gloss": "all"
+            },
+            {
+              "transcription": "umɬ",
+              "gloss": "in.a.bunch"
+            },
+            {
+              "transcription": "ʼuːp",
+              "gloss": "MOM.CAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓uš-uk",
+          "gloss": "dry-DUR",
+          "literal": "be.dry",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓uš",
+              "gloss": "dry"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "DUR"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥumiːs",
+          "gloss": "red.cedar",
+          "literal": "red.cedar",
+          "morphemes": [
+            {
+              "transcription": "ḥumiːs",
+              "gloss": "red.cedar"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ca-ʼap-ʼaƛ",
+          "gloss": "it-go.to-MOMCAUS-FINITE",
+          "literal": "put.it.to",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥ",
+          "gloss": "here",
+          "literal": "here",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥ",
+              "gloss": "here"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qay̓apt̓a-ʼat-ʔi·",
+          "gloss": "leg-POSS-DEF",
+          "literal": "his.leg",
+          "morphemes": [
+            {
+              "transcription": "qay̓apt̓a",
+              "gloss": "leg"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-maƛ-p̓ič-um-ʼat-ʔi·",
+          "gloss": "DISTR-tie-on.the.ankle-thing-POSS-DEF",
+          "literal": "his.knee.band",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "maƛ",
+              "gloss": "tie"
+            },
+            {
+              "transcription": "p̓ič",
+              "gloss": "on.the.ankle"
+            },
+            {
+              "transcription": "um",
+              "gloss": "thing"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "046",
+      "transcript": "huuɬḥuuɬaʔic̓aƛ,             ƛaawičiƛa                       ʔinkʔii.",
+      "transcription": "  ",
+      "translation": "As he danced, he was trying to get closer and closer to the fire.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "huːɬ-(y)a-ʔic-ʼaƛ",
+          "gloss": "dance-REP-DIM-FINITE",
+          "literal": "the.little.one.kept.dancing",
+          "morphemes": [
+            {
+              "transcription": "huːɬ",
+              "gloss": "dance"
+            },
+            {
+              "transcription": "(y)a",
+              "gloss": "REP"
+            },
+            {
+              "transcription": "ʔic",
+              "gloss": "DIM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛawa-ʽi·čiƛ-a",
+          "gloss": "near-INC-trying.to",
+          "literal": "trying.to.get.closer.and.closer",
+          "morphemes": [
+            {
+              "transcription": "ƛawa",
+              "gloss": "near"
+            },
+            {
+              "transcription": "ʽi·čiƛ",
+              "gloss": "INC"
+            },
+            {
+              "transcription": "a",
+              "gloss": "trying.to"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ-ʔi·",
+          "gloss": "fire-DEF",
+          "literal": "the.fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "047",
+      "transcript": "ƛaƛaʔis                         hamuut sasačk̓iḥta,          hišaacu     ḥaa   ʔinkʔii,  wim̓aaqƛ̓at          ƛawiičiʔat.",
+      "transcription": "       ",
+      "translation": "They had long stakes around the fire so that no one can get close to it.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "DUPCV-ƛa-ʽis",
+          "gloss": "DISTR-sticking.up-on.the.beach",
+          "literal": "sticks.sticking.up.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "ƛa",
+              "gloss": "sticking.up"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hamuːt",
+          "gloss": "bone",
+          "literal": "bone",
+          "morphemes": [
+            {
+              "transcription": "hamuːt",
+              "gloss": "bone"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-sačk-ʼiḥta",
+          "gloss": "DISTR-sharp-at.end",
+          "literal": "sharpened.on.the.end",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "sačk",
+              "gloss": "sharp"
+            },
+            {
+              "transcription": "ʼiḥta",
+              "gloss": "at.end"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiš-a·cu",
+          "gloss": "all-around?",
+          "literal": "all.around",
+          "morphemes": [
+            {
+              "transcription": "hiš",
+              "gloss": "all"
+            },
+            {
+              "transcription": "a·cu",
+              "gloss": "around?"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaː",
+          "gloss": "there",
+          "literal": "there",
+          "morphemes": [
+            {
+              "transcription": "ḥaː",
+              "gloss": "there"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ-ʔi·",
+          "gloss": "fire-DEF",
+          "literal": "the.fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wim̓aːqƛ-ʼat",
+          "gloss": "incapable.of-SHIFT",
+          "literal": "cannot.be.done",
+          "morphemes": [
+            {
+              "transcription": "wim̓aːqƛ",
+              "gloss": "incapable.of"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛawa-ʽi·čiƛ-ʼat",
+          "gloss": "near-INC-SHIFT",
+          "literal": "get.close",
+          "morphemes": [
+            {
+              "transcription": "ƛawa",
+              "gloss": "near"
+            },
+            {
+              "transcription": "ʽi·čiƛ",
+              "gloss": "INC"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "048",
+      "transcript": "ʔaanaḥi  y̓ay̓aaqḥiʔis        yayaacinkstisʔaƛ                          ḥaa,  wik ʔuusuqta.",
+      "transcription": "     ",
+      "translation": "But with his long little legs, he could step between them without getting hurt.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔana-ḥi·",
+          "gloss": "only-DUR",
+          "literal": "only",
+          "morphemes": [
+            {
+              "transcription": "ʔana",
+              "gloss": "only"
+            },
+            {
+              "transcription": "ḥi·",
+              "gloss": "DUR"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-y̓aːq-ḥi·-ʔis",
+          "gloss": "DISTR-long-DUR-DIM",
+          "literal": "long.little",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "y̓aːq",
+              "gloss": "long"
+            },
+            {
+              "transcription": "ḥi·",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "DIM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-yac-inksta-ʽis-ʼaƛ",
+          "gloss": "DISTR-step-in.between-on.the.beach-FINITE",
+          "literal": "stepping.among.the.sticks.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "yac",
+              "gloss": "step"
+            },
+            {
+              "transcription": "inksta",
+              "gloss": "in.between"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaː",
+          "gloss": "there",
+          "literal": "there",
+          "morphemes": [
+            {
+              "transcription": "ḥaː",
+              "gloss": "there"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wik",
+          "gloss": "not",
+          "literal": "not",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuːsuqta",
+          "gloss": "get.hurt",
+          "literal": "get.hurt",
+          "morphemes": [
+            {
+              "transcription": "ʔuːsuqta",
+              "gloss": "get.hurt"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "049",
+      "transcript": "wee, ƛawiičiƛ.   wee  tuxcpaa      ʔinkʔii.",
+      "transcription": "    ",
+      "translation": "Now he got close, and then he jumped over the fire.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "weː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "weː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛawa-ʽi·čiƛ",
+          "gloss": "near-INC",
+          "literal": "get.close",
+          "morphemes": [
+            {
+              "transcription": "ƛawa",
+              "gloss": "near"
+            },
+            {
+              "transcription": "ʽi·čiƛ",
+              "gloss": "INC"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "weː",
+          "gloss": "INTJ",
+          "literal": "INTJ",
+          "morphemes": [
+            {
+              "transcription": "weː",
+              "gloss": "INTJ"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "tuxʷ-cpa·",
+          "gloss": "jump-go.over",
+          "literal": "jump.over",
+          "morphemes": [
+            {
+              "transcription": "tuxʷ",
+              "gloss": "jump"
+            },
+            {
+              "transcription": "cpa·",
+              "gloss": "go.over"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ-ʔi·",
+          "gloss": "fire-DEF",
+          "literal": "the.fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "050",
+      "transcript": "wik̓aƛ̓aɬ       hinʔaɬuk           qʷisʔiitq   qʷayac̓iikštaqumɬ.",
+      "transcription": "   ",
+      "translation": "The wolf tribe did not realize what he was doing.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik-ʼaƛ-ʔa·ɬ",
+          "gloss": "not-FINITE-PL",
+          "literal": "they.didnt",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hin-ʔaɬ-uk",
+          "gloss": "there-aware.of-DUR",
+          "literal": "aware.of",
+          "morphemes": [
+            {
+              "transcription": "hin",
+              "gloss": "there"
+            },
+            {
+              "transcription": "ʔaɬ",
+              "gloss": "aware.of"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "DUR"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷis-ʔi·tq",
+          "gloss": "do.so-REL.3",
+          "literal": "what.he.did",
+          "morphemes": [
+            {
+              "transcription": "qʷis",
+              "gloss": "do.so"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷayac̓iːk-štaqumɬ",
+          "gloss": "wolf-groups",
+          "literal": "wolf.tribe",
+          "morphemes": [
+            {
+              "transcription": "qʷayac̓iːk",
+              "gloss": "wolf"
+            },
+            {
+              "transcription": "štaqumɬ",
+              "gloss": "groups"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "051",
+      "transcript": "tuxcpaa      muwaačm̓it   ʔinkʔii,  kamatqšiƛ.",
+      "transcription": "   ",
+      "translation": "Son of Deer jumped over the fire and started to run.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "tuxʷ-cpa·",
+          "gloss": "jump-go.over",
+          "literal": "jump.over",
+          "morphemes": [
+            {
+              "transcription": "tuxʷ",
+              "gloss": "jump"
+            },
+            {
+              "transcription": "cpa·",
+              "gloss": "go.over"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač-m̓i·t",
+          "gloss": "deer-son.of",
+          "literal": "Son.of.Deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            },
+            {
+              "transcription": "m̓i·t",
+              "gloss": "son.of"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ-ʔi·",
+          "gloss": "fire-DEF",
+          "literal": "the.fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kamatq-šiƛ",
+          "gloss": "running-MOM",
+          "literal": "starting.to.run",
+          "morphemes": [
+            {
+              "transcription": "kamatq",
+              "gloss": "running"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "052",
+      "transcript": "wikʔaɬʔaƛ̓aɬ            ʔan  hiinip.",
+      "transcription": "  ",
+      "translation": "They didn’t realize that Deer got the fire.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik-ʔaɬ-ʼaƛ-ʔa·ɬ",
+          "gloss": "not-aware.of-FINITE-PL",
+          "literal": "the.didnt.realize",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "ʔaɬ",
+              "gloss": "aware.of"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔan",
+          "gloss": "that",
+          "literal": "that",
+          "morphemes": [
+            {
+              "transcription": "ʔan",
+              "gloss": "that"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiːnip",
+          "gloss": "obtain",
+          "literal": "obtain",
+          "morphemes": [
+            {
+              "transcription": "hiːnip",
+              "gloss": "obtain"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "053",
+      "transcript": "ʔink̓ʷičiƛuk    ḥaa   ƛ̓ušukʔi     ḥumiis.",
+      "transcription": "   ",
+      "translation": "The dry cedar twigs caught fire.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ-ʼičiƛ-uk",
+          "gloss": "fire-INC?-POSS",
+          "literal": "got.their.fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            },
+            {
+              "transcription": "ʼičiƛ",
+              "gloss": "INC?"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaː",
+          "gloss": "there",
+          "literal": "there",
+          "morphemes": [
+            {
+              "transcription": "ḥaː",
+              "gloss": "there"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓uš-uk-ʔi·",
+          "gloss": "dry-DUR-DEF",
+          "literal": "dry",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓uš",
+              "gloss": "dry"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥumiːs",
+          "gloss": "red.cedar",
+          "literal": "red.cedar",
+          "morphemes": [
+            {
+              "transcription": "ḥumiːs",
+              "gloss": "red.cedar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "054",
+      "transcript": "paaƛ̓iƛ       ʔinkʔii   hiinip̓aƛ,     hinin      hiy̓atḥʔitq.",
+      "transcription": "    ",
+      "translation": "Son of Deer took the flame and obtained the fire and got back to where humans live.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "paƛ-ʼiƛ",
+          "gloss": "flaming-take",
+          "literal": "take.flame",
+          "morphemes": [
+            {
+              "transcription": "paƛ",
+              "gloss": "flaming"
+            },
+            {
+              "transcription": "ʼiƛ",
+              "gloss": "take"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ-ʔi·",
+          "gloss": "fire-DEF",
+          "literal": "the.fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiːnip-ʼaƛ",
+          "gloss": "obtain-FINITE",
+          "literal": "obtained",
+          "morphemes": [
+            {
+              "transcription": "hiːnip",
+              "gloss": "obtain"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hin-in",
+          "gloss": "there-come",
+          "literal": "arrived",
+          "morphemes": [
+            {
+              "transcription": "hin",
+              "gloss": "there"
+            },
+            {
+              "transcription": "in",
+              "gloss": "come"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-ʼatḥ-ʔi·tq",
+          "gloss": "there-residing-REL.3",
+          "literal": "where.they.live",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "ʼatḥ",
+              "gloss": "residing"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "055",
+      "transcript": "ʔiiḥʔaƛ̓aɬ      nučḥak    ʔuʔumḥičiƛ̓aɬ        siqiiɬ,     ʔuʔumḥičiƛ     kaƛḥʕaqstuƛuk    ʔuʔumḥičiƛtaaɬʔis.",
+      "transcription": "       ",
+      "translation": "People were very happy — now they can cook, have light and heat.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔi·ḥʷ-ʼaƛ-ʔa·ɬ",
+          "gloss": "very-FINITE-PL",
+          "literal": "they.were.very",
+          "morphemes": [
+            {
+              "transcription": "ʔi·ḥʷ",
+              "gloss": "very"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nučḥ-ak",
+          "gloss": "proud-DUR",
+          "literal": "be.proud",
+          "morphemes": [
+            {
+              "transcription": "nučḥ",
+              "gloss": "proud"
+            },
+            {
+              "transcription": "ak",
+              "gloss": "DUR"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuʔumḥi-čiƛ-ʔa·ɬ",
+          "gloss": "able.to-MOM-PL",
+          "literal": "they.became.able.to",
+          "morphemes": [
+            {
+              "transcription": "ʔuʔumḥi",
+              "gloss": "able.to"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "siqa-iːɬ",
+          "gloss": "cooked-make",
+          "literal": "cook",
+          "morphemes": [
+            {
+              "transcription": "siqa",
+              "gloss": "cooked"
+            },
+            {
+              "transcription": "iːɬ",
+              "gloss": "make"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuʔumḥi-čiƛ",
+          "gloss": "able.to-MOM",
+          "literal": "became.able.to",
+          "morphemes": [
+            {
+              "transcription": "ʔuʔumḥi",
+              "gloss": "able.to"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kaƛḥ-ʕaqstuƛ-uk",
+          "gloss": "daylight-??-POSS",
+          "literal": "have.light",
+          "morphemes": [
+            {
+              "transcription": "kaƛḥ",
+              "gloss": "daylight"
+            },
+            {
+              "transcription": "ʕaqstuƛ",
+              "gloss": "??"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuʔumḥi-čiƛ",
+          "gloss": "able.to-MOM",
+          "literal": "became.able.to",
+          "morphemes": [
+            {
+              "transcription": "ʔuʔumḥi",
+              "gloss": "able.to"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "taːɬ-ʽis",
+          "gloss": "warmed-on.the.beach",
+          "literal": "warm.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "taːɬ",
+              "gloss": "warmed"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "056",
+      "transcript": "ʔuy̓iiḥawaʔiš         tupkak̓at              muwač hiiɬtqyaap̓aɬ             qay̓apt̓a, ʔunw̓iiƛḥ     ʔan  hiniicckʷi                ʔinkʔii.",
+      "transcription": "        ",
+      "translation": "The reason that deer has a black spot behind his knee is because he brought back the fire.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔu-y̓i·ḥa-wa·ʔi·š",
+          "gloss": "it-because.of-QUOT.3",
+          "literal": "that.is.the.reason",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "y̓i·ḥa",
+              "gloss": "because.of"
+            },
+            {
+              "transcription": "wa·ʔi·š",
+              "gloss": "QUOT.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "tupk-ak-ʼat",
+          "gloss": "dark.colored-DUR-POSS",
+          "literal": "his.is.black",
+          "morphemes": [
+            {
+              "transcription": "tupk",
+              "gloss": "dark.colored"
+            },
+            {
+              "transcription": "ak",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muwač",
+          "gloss": "deer",
+          "literal": "deer",
+          "morphemes": [
+            {
+              "transcription": "muwač",
+              "gloss": "deer"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-tqya·p̓i-aɬ",
+          "gloss": "there-behind-attached.on",
+          "literal": "behind",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "tqya·p̓i",
+              "gloss": "behind"
+            },
+            {
+              "transcription": "aɬ",
+              "gloss": "attached.on"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qay̓apt̓a",
+          "gloss": "leg",
+          "literal": "leg",
+          "morphemes": [
+            {
+              "transcription": "qay̓apt̓a",
+              "gloss": "leg"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔunw̓iːƛ-(q)ḥ",
+          "gloss": "because-SIM",
+          "literal": "because.of",
+          "morphemes": [
+            {
+              "transcription": "ʔunw̓iːƛ",
+              "gloss": "because"
+            },
+            {
+              "transcription": "(q)ḥ",
+              "gloss": "SIM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔan",
+          "gloss": "that",
+          "literal": "that",
+          "morphemes": [
+            {
+              "transcription": "ʔan",
+              "gloss": "that"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hin-iːc-ckʷi·",
+          "gloss": "there-take.along-happened",
+          "literal": "brought",
+          "morphemes": [
+            {
+              "transcription": "hin",
+              "gloss": "there"
+            },
+            {
+              "transcription": "iːc",
+              "gloss": "take.along"
+            },
+            {
+              "transcription": "ckʷi·",
+              "gloss": "happened"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ-ʔi·",
+          "gloss": "fire-DEF",
+          "literal": "the.fire",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "057",
+      "transcript": "čuu.",
+      "transcription": "",
+      "translation": "That’s it.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "OK",
+          "literal": "OK",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "OK"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
