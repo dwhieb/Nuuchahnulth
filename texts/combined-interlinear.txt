@@ -6384,7 +6384,7 @@ Some of them spoke Chinook Jargon.
 hist̓atḥckʷaƛukʔaɬ                   ʔaḥ. [Hudson Bay] .
 hist-ʼatḥ-ckʷi·-ʼaƛ-uk-ʔa·ɬ         ʔaḥ  ~
 there-belonging.to-done-FIN-POSS-PL this ~
-they.got.theirs.from.there          they ~            ~
+they.got.theirs.from.there          they ~
 They got theirs (= their knowledge of Chinook Jargon) from Hudson Bay Company.
 
 # 015
@@ -6724,10 +6724,10 @@ NAME    being.it homeland
 Chetarpe was their home village.
 
 # 063
-č̓itaapi ʔaḥ  ʔaqʔištiik,   hiɬukʔaɬ                        mamaʔuu,   waa      qiɬcmaʕatḥ.
-č̓itaːpi ʔaḥ  ~             hiɬ-uk-ʔa·ɬ                     DUP-ma-ʼuː wa·      qiɬcmaʕatḥ
-NAME    here here-POSS-PL  DISTR-dwell-camp.out.for        and        Kelsomat
-NAME    here this.is.their set.up.summer.camps.for.fishing and        Kelsomat
+č̓itaapi ʔaḥ  ʔaqʔištiik, hiɬukʔaɬ      mamaʔuu,                        waa qiɬcmaʕatḥ.
+č̓itaːpi ʔaḥ  ??          hiɬ-uk-ʔa·ɬ   DUP-ma-ʼuː                      wa· qiɬcmaʕatḥ
+NAME    here ??          here-POSS-PL  DISTR-dwell-camp.out.for        and Kelsomat
+NAME    here ??          this.is.their set.up.summer.camps.for.fishing and Kelsomat
 Chetarpe was the place where they (Ahousaht people) had their summer camp for fishing. And so did Kelsomats.
 
 # 064
@@ -6775,16 +6775,16 @@ And they (Ahousahts) left home in their canoes.
 # 070
 siikaa.      siikaackʷiʔaɬ,        hačɬii(ƛ)         ʔuuktis,            hačy̓aaʔa.
 siːk-(y)a·   siːk-(y)a·-ckʷi·-ʔa·ɬ hačɬiː(ƛ)         ʔu-(k)tis           hačɬ-ʼaːʔa
-sailing-CONT sailing-CONT-done-PL  west.wind.blowing it-acting.by.ref.to west-wind-??
+sailing-CONT sailing-CONT-done-PL  west.wind.blowing it-acting.by.ref.to west.wind-??
 sailing      they.were.sailing     west.wind.blowing referring.to.it     westerly.wind
 They sailed on a westerly wind.
 
 # 071
 ʔaniyat               čačimḥat         k̓uučukʔic̓at                 hačɬiiʔaƛquu                     qʷaa. huuʔaciiy̓ukʔaƛquu        tuč̓ii.
 ʔana-iya-ʼat          čačim-ḥi·-ʼat    k̓uː-čuk-ʔic-ʼat             hačɬiː(ƛ)-ʼaƛ-quː                qʷaː  huʔa-ca-iːy̓uk-ʼaƛ-quː    tuč̓iː
-only-at.time.of-SHIFT proper-DUR-SHIFT short.distance-??-DIM-SHIFT westerly-wind.blowing-FIN-COND.3 thus  back-go.to-??-FIN-COND.3 southeast.wind
+only-at.time.of-SHIFT proper-DUR-SHIFT short.distance-??-DIM-SHIFT westerly.wind.blowing-FIN-COND.3 thus  back-go.to-??-FIN-COND.3 southeast.wind
 only.time.it.is.done  properly         in.a.short.time             when.westerly.wind.is.blowing    thus  on.return.trip           southeast.wind
-They only time you can quickly get there (Neah Bay) is when a westerly wind is blowing. On the way back, a southeast wind.
+The only time you can quickly get there (Neah Bay) is when a westerly wind is blowing. On the way back, a southeast wind.
 
 # 072
 ʔunicitii.             ƛ̓iipiƛ,                             ʕaaḥuusʔatḥ. ƛiipiƛ.
@@ -7096,7 +7096,7 @@ They (Ahousaht people) saw the (the British Navy) coming into the bay very clear
 
 # 116
 ʔayaaƛ   ʔuušp̓aɬak.
-ʔaya-aːƛ ʔuːš-p̓aɬ
+ʔaya-aːƛ ʔuːš-p̓aɬ-ak
 many-??  some-looking.admiringly.at-DUR
 many     looking.admiringly.at
 The villagers crowded around, looking at them curiously.
@@ -7118,7 +7118,7 @@ They got scared and fled in all directions.
 # 119
 puuqƛ̓iƛ,                        kamatʕaqƛ̓iƛ.         kamatʕaqƛ̓iƛ.
 pu-ʼa·qƛ̓i(ƛ)                    kamatq-ʼa·qƛ̓i(ƛ)     kamatq-ʼa·qƛ̓i(ƛ)
-running.as.a.group-in.the.woods running-in.the.woods running.in.the.woods
+running.as.a.group-in.the.woods running-in.the.woods running-in.the.woods
 fled.into.the.woods             ran.in.the.woods     ran.in.the.woods
 People fled into the woods.
 
@@ -7307,21 +7307,21 @@ It was probably over a quarter mile if you measure: he dove through twelve hundr
 # 147
 y̓aaqn̓aqckʷiʔišʔaɬ.
 y̓aːqn̓aq-ckʷi·-ʔi·š-ʔa·ɬ
-long-winded-done-IND.3-PL
+long.winded-done-IND.3-PL
 they.were.long.winded
 They were long-winded.
 
 # 148
 y̓aaqn̓aqckʷiʔiš         quuʔas.
 y̓aːqn̓aq-ckʷi·-ʔi·š     quːʔas
-long-winded-done-IND.3 Indian
+long.winded-done-IND.3 Indian
 was.long.winded        Indian
 Native people used to be long-winded.
 
 # 149
 wik hišuk.  wik hišuk.  y̓aaqn̓aq.
 wik hiš-uk  wik hiš-uk  y̓aːqn̓aq
-not all-DUR not all-DUR long-winded
+not all-DUR not all-DUR long.winded
 not all     not all     long.winded
 Not all of them were long-winded.
 
@@ -7550,10 +7550,10 @@ split.up        canoe
 They split up canoes.
 
 # 183
-ƛaʔasitwaʔiš                          hiy̓iis             ʔaḥʔaa. yaaqʷiɬʔanitiiʔaaɬ                         waaʔat,      ƛaakišpiʔiɬ.                                ƛaakišipiʔiɬ.                  [totem pole.]
-ƛa-ʼas-it-wa·ʔi·š                     hiɬ-ʽi·s           ʔaḥʔaː  yaqʷ-iɬ-ʼat-it-(y)iː-ʔaːɬ                  wa·-ʼat      ƛakiš-pi-ʽiɬ                                ƛakiš-pi-ʽiɬ                   ~
-sticking.up-on.the.ground-PAST-QUOT.3 there-on.the.beach that    which-with.ref.to-SHIFT-PAST-INDF.3-always say-SHIFT    standing-upright?-in.the.house              standing-upright?-in.the.house ~
-it.was.standing.up.on.the.ground      on.the.beach       that    to.which.they                              it.is.called standing.upright.at.the.center.of.the.house ~
+ƛaʔasitwaʔiš                          hiy̓iis             ʔaḥʔaa. yaaqʷiɬʔanitiiʔaaɬ                         waaʔat,      ƛaakišpiʔiɬ.                                ƛaakišipiʔiɬ.                               [totem pole.]
+ƛa-ʼas-it-wa·ʔi·š                     hiɬ-ʽi·s           ʔaḥʔaː  yaqʷ-iɬ-ʼat-it-(y)iː-ʔaːɬ                  wa·-ʼat      ƛakiš-pi-ʽiɬ                                ƛakiš-pi-ʽiɬ                                ~
+sticking.up-on.the.ground-PAST-QUOT.3 there-on.the.beach that    which-with.ref.to-SHIFT-PAST-INDF.3-always say-SHIFT    standing-upright?-in.the.house              standing-upright?-in.the.house              ~
+it.was.standing.up.on.the.ground      on.the.beach       that    to.which.they                              it.is.called standing.upright.at.the.center.of.the.house standing.upright.at.the.center.of.the.house ~
 There was a post, a totem pole, standing on the beach which they called Standing-Up-At-The-Center-Of-The-House.
 
 # 185
@@ -7795,10 +7795,10 @@ sometimes.it.was                sweet  the.tea
 Sometimes the tea was sweet.
 
 # 219
-hač̓a  šuukʷaa     ʔuyiiʔanitʔaaɬ,           qʷiyiiʔanitii               [brown sugar]            ,                   naqšiʔaƛquuč.
-hač̓a  šuːkʷa·     ʔu-(y)i·-ʼat-it-ʔaːɬ      qʷi-(y)i·-ʼat-it-(y)iː      ~                        naq-ši(ƛ)-ʼaƛ-quː-č
-maybe white.sugar it-give-SHIFT-PAST-always what-give-SHIFT-PAST-INDF.3 drink-MOM-FIN-COND.3-INF
-maybe white.sugar he.was.given              given.whatever.item         ~                        he.would.drink
+hač̓a  šuukʷaa     ʔuyiiʔanitʔaaɬ,           qʷiyiiʔanitii               [brown sugar] ,                        naqšiʔaƛquuč.
+hač̓a  šuːkʷa·     ʔu-(y)i·-ʼat-it-ʔaːɬ      qʷi-(y)i·-ʼat-it-(y)iː      ~             naq-ši(ƛ)-ʼaƛ-quː-č
+maybe white.sugar it-give-SHIFT-PAST-always what-give-SHIFT-PAST-INDF.3 ~             drink-MOM-FIN-COND.3-INF
+maybe white.sugar he.was.given              given.whatever.item         ~             he.would.drink
 Maybe they gave him white sugar or something like brown sugar when he drank the tea.
 
 # 220
