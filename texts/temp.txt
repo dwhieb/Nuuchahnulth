@@ -1,657 +1,118 @@
 ---
 title:
-  en:         Son of Deer went jigging
-  nuk:        ɬiɬiitapiw̓it̓aswaʔiš muwaačm̓it
-abbreviation: DeerJigging
-ID:           CL2
+  en:         Why our ways changed
+  nuk:        qʷisqḥin kʷiisḥinčiƛ quuʔasqin
+abbreviation: Discipline
+ID:           CL13
 ---
 # 001
-\trs ʔuuqumḥiqaqʷaʔiš          kaƛḥšiƛ,     ƛumkšiƛ   muwaačm̓it.
-\m   ʔu·qumḥi-qaq-wa·ʔi·š      kaƛḥ-šiƛ     ƛumk-šiƛ  muwač-m̓i·t
-\gl  calm-very-QUOT.3          daylight-MOM awoke-MOM deer-son.of
-\wlt they.say.it.was.very.calm morning      woke.up   Son.of.Deer
-\tln It was a very calm morning. Son of Deer woke up.
+\trs čuu      ʔuuqḥɬiʔaqƛs          qʷisqḥin            kʷiisḥinčiƛ   quuʔasqin.
+\m   čuː      ʔu-qḥɬi-ʔaqƛ-s        qʷis-(q)ḥ-ḥin       kʷiːsḥin-čiƛ  quːʔas-qin
+\gl  now.then it-tell.about-FUT-1SG do.so-SIM-INTER.1PL different-MOM Indian-REL.1PL
+\wlt now.then I.will.tell.about     why.we              changed       we.Indians
+\tln Now, I will talk about why we Indians changed.
 
 # 002
-ʕaasiqnakšiƛ    ɬiɬiitapiʔaqƛ.
-ʕa·siq-na·k-šiƛ ɬiɬiːtapi-ʔa·qƛ
-plan-having-MOM go.jigging-FUT
-he.got.a.plan   he.was.going.jigging
-He got a plan: he was going jigging.
+ʔuuy̓inƛniš             ḥaaḥuupač̓akukqin                     wikiičiƛna.
+ʔu-y̓inƛ-ni·š           ḥaːḥuːp-a·-č̓akʷ-uk-qin               wik-ʽi·čiƛ-na·
+it-troubled.by-IND.1PL teaching-DUR-instrument-POSS-REL.1PL not-INC-1PL
+we.got.troubled.by     our.discipline                       we.stopped
+This is caused because we stopped disciplining.
 
 # 003
-čiin̓isan̓ap                                č̓apacʔisukʔi,      sukʷiƛ ʔuxʷaapi.
-čiː-n̓i-san̓ap                              č̓apac-ʔis-uk-ʔi·   sukʷiƛ ʔuxʷaːpi
-pull-down.the.slope?-on.the.beach.MOMCAUS canoe-DIM-POSS-DEF take   paddle
-pulled.it.down.the.beach                  his.little.canoe   take   paddle
-He pulled his canoe down the beach, taking his paddle.
+sukʷiƛ   ƛaaḥaqsak         wiškaa    ʔuuʔuukʷiɬ             ḥaaḥuupaƛ̓atquu.
+sukʷi(ƛ) ƛaḥ-aqsak         wišk-a·   DUPCV-ʔu-kʷiɬ          ḥaːḥuːp-a·-ʼaƛ-ʼat-quː
+take     now-in.generation scold-DUR DISTR-they-with.ref.to teaching-DUR-FINITE-SHIFT-COND
+take     young.generation  scolding  with.ref.to.them       when.they.get.disciplined
+Younger generation calls it “scolding” when you discipline them.
 
 # 004
-ƛiiḥšiƛ                 ʔucaḥtačiƛ              ʔapquuʔaʔi                     hiɬḥʔiitqʔaaɬ          ɬiɬiitapi.
-ƛiḥ-šiƛ                 ʔu-ca-ḥta-čiƛ           ʔap-quː-ʼa·-ʔi·                hiɬ-(q)ḥ-ʔi·tq-ʔaːɬ    ɬiɬiːtapi
-traveling.in.vessel-MOM it-go.to-out.to.sea-MOM LOC-at.a.point-on.the.rock-DEF there-SIM-REL.3-always go.jigging
-started.in.canoe        departed.for            the.point                      where.he.would.do      go.jigging
-He left, heading for the point where he usually went jigging.
+ʔatqʷin,          qʷiyuyin      niiw̓a ƛ̓aqaa    naʔaataḥʔaƛqʷin                      ʔiʔiqḥʷat.
+ʔat-qʷin          qʷiyu-yin     niːw̓a ƛ̓aq-a·   naʔa·-ataḥ-ʼaƛ-qʷin                  DUPCV-ʔiq-(q)ḥ-wa·-ʼat
+although-COND.1PL when-INDF.1PL we    grow-DUR hear-trying.to.catch-FINITE-COND.1PL REP-still-SIM-say-SHIFT
+although.we       when.we       we    grows    we.listened                          repeat.to.us
+Although when we were growing up, we used to listen to them what they told us repeatedly.
 
 # 005
-wik qiiyačišt,          yaaɬwaaʔiš       ƛušinqakm̓inḥ.    sayaaštip        n̓aacsiičiƛ.
-wik qiːy-ačišt          yaːɬ-wa·-ʔi·š    ƛušinqak-m̓inḥ    saya·-šti·p      n̓aːcsiː-čiƛ
-not for.long-on.the.sea there-QUOT-IND.3 moving.canoes-PL far.off-do.while spotted-MOM
-not long.on.the.sea     there.they.say   moving.canoes    being.far.when   saw
-Shortly after he arrived there some moving canoes came along: they were still far when he saw them.
+ʔiiḥsʔaaɬ          ƛ̓uu,        qʷaayaatuk̓ʷanitiisʔaaɬ                          naniiqsakitqs.
+ʔi·ḥʷ-s-ʔaːɬ       ƛ̓uː         qʷaː-(y)a·tuk-ʼat-it-(y)iːs-ʔaːɬ                nani·qsu-ʔa·k-it-q-s
+greatly-1SG-always think.about thus-making.sound.of-SHIFT-PAST-INDF.1SG-always grandparent-POSS-PAST-SUB-1SG
+I.always.really    think.about the.way.they.used.to.speak.to.us                my.late.grandparent
+I always think a lot about the way my grandmother used to talk to us.
 
 # 006
-ƛaawuɬšiƛ.
-ƛawa-uɬ-šiƛ
-near-place.of-MOM
-got.close.to
-They got near.
+y̓uuqʷaamitsa   wikiičiƛ      y̓uuqʷaa wikiičiƛ   naʔaa,
+y̓uːqʷaː-mit-sa wik-ʽi·čiƛ    y̓uːqʷaː wik-ʽi·čiƛ naʔa·
+also-PAST-1SG  not-INC       also    not-INC    hear
+I.also         stopped.doing also    it.stopped hear
+I also stopped hearing [their teachings as I started going to school].
 
 # 007
-ḥamipšiƛ        muwaačm̓it   ʔan  ʔuḥ        qʷayac̓iikštaqumɬ.
-ḥamip-šiƛ       muwač-m̓i·t  ʔan  ʔuḥ        qʷayac̓iːk-štaqmuɬ
-recognizing-MOM deer-son.of that being.they wolf-groups
-recognized      Son.of.Deer that being.they wolf.tribe
-Son of Deer recognized that it was the wolf people.
+ciiqciiqaƛ̓atquus                qʷaaʔaqƛ̓ick            čapxnaakšiʔaƛquuk                  wikʔaqƛ̓ick      qʷaa.
+ciq-(y)a-ʼaƛ-ʼat-quːs           qʷaː-ʔaqƛ-ʔick         čapxʷ-na·k-šiƛ-ʼaƛ-quːk            wik-ʔaqƛ-ʔick   qʷaː
+speak-REP-FINITE-SHIFT-COND.1SG thus-FUT-IND.2SG       husband-having-MOM-FINITE-COND.2SG not-FUT-IND.2SG thus
+she.would.talk.to.me            you.would.be.like.this when.you.get.husband               you.shall.not   thus
+She would tell me, “you would be like this when you get husband; you won’t do this.”
 
 # 008
-ƛaawuɬšiƛ         yaqʷiiʔiɬʔitq.
-ƛawa-uɬ-šiƛ       yaqʷ-wi·-ʼiɬ-ʔi·tq
-near-place.of-MOM that.which-first-coming?-REL.3
-got.close.to      one.that.came.first
-The first canoe came close.
+ʔaanapanač̓iƛqʷin                         ḥuu        yaacpanač,               ʔaaƛapanač              ʔuyaaʔatquus                         ʔaḥʔaa ciiqciiqat.
+ʔana-panač-ʼaƛ-qʷin                      ḥuː        yac-panač                ʔaƛa-panač              ʔu-iya-ʼaƛ-ʼat-quːs                  ʔaḥʔaː DUP#-ciq-a-ʼat
+only-move.about.randomly-FINITE-COND.1PL over.there step-move.about.randomly two-move.about.randomly it-at.the.time-FINITE-SHIFT-COND.1SG that   REP-speak-REP-POSS
+we.would.just.go.off.ourselves           over.there go.for.a.walk            two.going.off           thisis.when.she.does.to.me           that   speaking
+We would go off by ourselves for a walk — just two of us. That is the time when she would talk to me.
 
 # 009
-ʔuu ʔuuʔuuqukʷiyaʔicuuš                šiiƛuk, waaʔaƛ     muwaačm̓it.
-ʔuː DUP-ʔu·q-uk-iya-ʔicuːš             šiːƛuk  wa·-ʼaƛ    muwač-m̓i·t
-oh  DISTR-good-DUR-at.the.time-IND.2PL move    say-FINITE deer-son.of
-oh  at.a.nice.time.you.all             move    said       Son.of.Deer
-“O-o-oh! You are moving in fine weather!” said Son of Deer.
+čuu      ʔaḥʔaa ʔuy̓inƛniš              quuʔasqin      ʔan  wikiičiƛ   ƛaaḥaqsak         naʔaa wikiičiƛ   ḥaaḥuupa     ʔaʔiič̓um.
+čuː      ʔaḥʔaː ʔu-y̓inƛ-ni·š           quːʔas-qin     ʔan  wik-ʽi·čiƛ ƛaḥ-aqsak         naʔa· wik-ʽi·čiƛ ḥaːḥuːp-a·   DUPCV-ʔiːč̓um
+now.then that   it-troubled.by-IND.1PL Indian-REL.1PL that not-INC    now-in.generation hear  not-INC    teaching-DUR DISTR-old
+now.then that   we.were.troubled.by    we.Indians     that it.stopped young.generation  hear  it.stopped teaching     elders
+Now, we Indians have this problem because younger generation have stopped listening and elders stop disciplining.
 
 # 010
-ʔuqɬaap̓aƛ̓itq          ʔan  wik̓aapʔaƛ̓at           ʔuyaaƛ              hahamutnaq,        ququn̓iḥta,          waaʔaƛ     ƛ̓iixp̓ičḥ.
-ʔuqɬaːp-ʼaƛ-ʔi·tq     ʔan  wik-ʼa·p-ʼaƛ-ʼat      ʔuyi-ʼaƛ            DUPCV-hamu·t-naq   DUP-qun-ʼiḥta       wa·-ʼaƛ    ƛ̓iːxʷ-p̓ičḥ
-thinking-FINITE-REL.3 that not-gain-FINITE-SHIFT at.that.time-FINITE DISTR-bone-fond.of DISTR-bony?-at.nose say-FINITE laugh-doing.while
-when.he.thought       that they.dont.hear.him    at.that.time        bone.eaters        bony.nosed          said       doing.while.giggling
-When he thought that they would not hear him was when he added, “bony nose! bone eater,” he said giggling.
+ʔaanaḥiičiƛ̓aɬ        ƛaaḥaqsak,           wawaamitʔickƛa                 wawaa. y̓uuqʷaamitʔick        qʷaa.
+ʔana-ḥi·-ʽi·čiƛ-ʔa·ɬ ƛaḥ-aqsak            wawaː-ʼap-it-ʔick-ƛa·          wawaː  y̓uːqʷaː-mit-ʔick      qʷaː
+only-DUR-INC-PL      recent-in.generation say-MOMCAUS-PAST-IND.2SG-again say    also-PAST-IND.2SG     thus
+they.just            young.generation     you.told.me.before             say    you.are.like.that.too thus
+Younger people just say, “You told that to me before. You are like that, too.”
 
 # 011
-ʔaʔaquuk         muwaačm̓eet, waaʔaƛ̓at.
-DUPCV-ʔaqi-ʔuːk  muwač-m̓i·t  wa·-ʼaƛ-ʼat
-DISTR-what-??    deer-son.of say-FINITE-SHIFT
-what.did.you.say Son.of.Deer they.said.to.him
-“What did you say, Son of Deer?” they said.
+wawiičiƛukʔaɬ        ciqy̓ak.
+wawaː-ʽi·čiƛ-uk-ʔa·ɬ ciq-y̓akʷ
+say-INC-POSS-PL      speak-instrument
+they.would.say.now   the.way.one.speaks
+This is how they talk now.
 
 # 012
-ʔuu ʔuuʔuuqukʷiyaʔicuuš                šiiƛuk waamits      waaʔaƛ.
-ʔuː DUP-ʔu·q-uk-iya-ʔucuːš             šiːƛuk wa·-mit-s    wa·-ʼaƛ
-oh  DISTR-good-DUR-at.the.time-IND.2PL move   say-PAST-1SG say-FINITE
-on  at.a.nice.time.you.all             move   I.said       said
-“Oh! You have a fine weather for moving,” is what I said.
+ʔuy̓iiḥa          ʔan  naqiičiƛ         ʔaʔiič̓umʔi.
+ʔu-y̓i·ḥa         ʔan  naq-ʽi·čiƛ       DUPCV-ʔiːč̓um-ʔi·
+it-on.account.of that drink-INC        DISTR-old-DEF
+on.account.of.it that started.drinking the.elders
+This is because the elders started drinking.
 
 # 013
-t̓aaqukʷiʔat.
-t̓aːqukʷi(ƛ)-ʼat
-believing-SHIFT
-they.believed.him
-They believed him.
+čuu      qʷisḥniiš         ʔaḥʔaa kʷiisḥinčiƛ   quuʔasqin.
+čuu      qʷis-(q)ḥ-ni·š    ʔaḥʔaː kʷiːsḥin-čiƛ  quːʔas-qin
+now.then do.so-SIM-IND.1PL that   different-MOM Indian-REL.1PL
+now.then how.we            that   changed       we.Indians
+Now, this is why we Indians changed.
 
 # 014
-qʷisʔaƛƛa          ʔuḥtaa      ƛaʔuc̓iqʔi,         ʔiʔiqḥʷa.
-qʷis-ʼaƛ-ƛa·       ʔu-ḥta·     ƛaʔu-c̓iq-ʔi·       DUPCV-ʔiq-(q)ḥ-wa·
-do.so-FINITE-again it-doing.to another-canoes-DEF DISTR-still-SIM-say
-also.doing.so      to.it       the.other.canoe    repeated
-He did the same to the other canoe, said the same thing.
+wikiičiƛ   qʷaa qʷaaʔakitin            nananiqsu.
+wik-ʽi·čiƛ qʷaː qʷaː-ʔak-it-(y)in      DUPCV-nani·qsu
+not-INC    thus thus-DUR-PAST-INDF.1PL DISTR-grandparent
+it.stopped thus what.ours.used.to.do   grandparents
+We stopped doing what our grandparents used to do.
 
 # 015
-t̓aaqukʷiʔaƛ̓atƛa.
-t̓aːqukʷi(ƛ)-ʼaƛ-ʼat-ƛa·
-believing-FINITE-SHIFT-again
-they.believed.him.again
-They believed him, too.
+ʔiiḥcamisukʷit            ḥaaḥuupa,    ḥaaḥuupa     ʔiʔiqḥʷa.
+ʔi·ḥʷ-camis-uk-it         ḥaːḥuːp-a·   ḥaːḥuːp-a·   DUPCV-ʔiq-(q)ḥ-wa·
+important-thing-POSS-PAST teaching-DUR teaching-DUR DISTR-still-SIM-say
+it.was.important          teaching     teaching     repeated
+It is important to discipline and discipline repeatedly.
 
 # 016
-qʷisʔaƛƛa          ʔuḥtaa      ƛaʔuc̓iqʔi.         ʔaanaḥaƛ    ʔuušaɬaʔap.
-qʷis-ʼaƛ-ƛa·       ʔu-ḥta·     ƛaʔu-c̓iq-ʔi·       ʔaːnaḥi-ʼaƛ ʔuːš-aɬa-ʼap
-do.so-FINITE-again it-doing.to another-canoes-DEF only-FINITE some-attached.on-MOMCAUS
-also.doing.so      to.it       the.other.canoe    only        added.something
-He did the same to the other canoe, but he added a little more.
-
-# 017
-ʔuu ʔuuʔuqʷiiyaʔicuuš                 šiiƛaa    qʷayac̓iikštaqumɬ  waaʔaƛƛa.
-ʔuː DUPCV-ʔu·q-iːya-ʔicuːš            šiːƛ-a·   qʷayac̓iːk-štaqumɬ wa·-ʼaƛ-ƛa·
-oh  DISTR-good-at.the.time.of-IND.2PL move-DUR  wolf-groups       say-FINITE-also
-oh  you.are.doing.it.in.a.good.time   moving.to wolf.tribe        he.also.said
-“O-o-oh! You picked a fine day for moving, wolf people,” he said again.
-
-# 018
-ƛ̓iixp̓ičḥʔaƛ,             ququn̓iḥta,          hahamutnaq,               waaʔaƛ.
-ƛ̓iːsw-p̓ičḥ-ʼaƛ           DUP-qun-ʼiḥta       DUPCV-hamu·t-naq          wa·-ʼaƛ
-laugh-doing.while-FINITE DISTR-bony?-at.nose DISTR-bone-fond.of.eating say-FINITE
-he.did.while.laughing    bony.nosed          bone.eaters               said
-Laughing, he said, “bony nosed, bone eaters.”
-
-# 019
-ʔuušaɬaʔap̓aƛ,                   pipicksy̓iqnaq,              waaʔaƛ.
-ʔuːš-aɬa-ʼap-ʼaƛ                DUP-picksy̓iq-naq            wa·-ʼaƛ
-some-attached.on-MOMCAUS-FINITE DISTR-corpse-fond.of.eating say-FINITE
-added.some.more                 corpse.eaters               said
-Adding a little more, he said, “corpse eater”.
-
-# 020
-huʔacačiƛ      č̓apacʔi.
-huʔa-ca-čiƛ    č̓apac-ʔi·
-back-go.to-MOM canoe-DEF
-returned       the.canoe
-The canoe turned back.
-
-# 021
-naʔaaniš     waaʔiitk      niiḥiɬ,        waaʔaƛ̓at.
-naʔa·-ni·š   wa·-ʔi·tk     niːḥ-iɬ        wa·-ʼaƛ-ʼat
-hear-IND.1PL say-REL.2SG   we-with.ref.to say-FINITE-SHIFT
-we.heard     what.you.said to.us          they.said.to.him
-“We heard what you said to us,” they told him.
-
-# 022
-sukʷiʔat,         kiɬw̓inqsiʔatuk                            č̓apac, hiniicsuʔat.
-sukʷi(ƛ)-ʼat      kiɬ-w̓inq-si-ʼat-uk                        č̓apac  hin-iːc-su(ƛ)-ʼat
-take-SHIFT        carry.a.canoe-in.the.middle-??-SHIFT-POSS canoe  there-take.along-move.away?-SHIFT
-they.captured.him carry.his.canoe.across.theirs             canoe  they.took.him.away.with.them
-They took him, put his canoe across theirs, and took him along.
-
-# 023
-hininʔaɬ           qʷiiciy̓ukʔitq             šiiƛaa.
-hin-in-ʔa·ɬ        qʷi-ciy̓uk-ʔi·tq           šiːƛ-a·
-there-come-PL      that.which-going.to-REL.3 move-DUR
-they.arrived.there where.they.are.going.to   moving.to
-They arrived where they were moving to.
-
-# 024
-quuɬiiy̓ap̓at                quuc            ḥaw̓iɬʔi.
-quːɬ-i·y̓a·p-ʼat            ʔu-iːc          ḥaw̓iɬ-ʔi·
-slave-INC.CAUS?-SHIFT      he-belonging.to chief-DEF
-they.made.him.into.a.slave his             the.chief
-They made him a slave of the chief.
-
-# 025
-ʔuuʔiicqiiʔap̓atuk                  č̓apacukʔi      maḥt̓iiʔak   ḥaw̓iɬʔi.
-ʔu-ʔiː-cqiː-ʼap-ʼat-uk             č̓apac-uk-ʔi·   maḥt̓iː-ʔa·k ḥaw̓iɬ-ʔi·
-it-reach-on.top-MOMCAUS-SHIFT-POSS canoe-POSS-DEF house-POSS  chief-DEF
-they.put.his.thing.on.top          his.canoe      his.house   the.chief
-They put his canoe on the roof of the chief’s house.
-
-# 026
-hiihiiqšaḥap̓aƛquuč              qʷaaʔapmaḥsap̓atʔitq                          ḥaw̓iɬʔi.
-hiːhiːq-šaḥap-ʼaƛ-quː-č         qʷaː-ʼap-maḥsa-ʼap-ʼat-ʔi·tq                 ḥaw̓iɬ-ʔi·
-various-doing-FINITE-COND-INF.3 thus-MOMCAUS-desiring.to-MOMCAUS-SHIFT-REL.3 chief-DEF
-he.would.do.various.things      what.he.want.him.to.do                       the.chief
-he had to do a lot of things the chief wanted him to do.
-
-# 027
-ʔuušyuuyaƛquuč                     ʔuukčamaɬčiqḥ          qʷayac̓iikm̓inḥʔisʔi.
-ʔuːš-yuːya-ʼaƛ-quː-č               ʔu-kči-amaɬči-(q)ḥ     qʷayac̓iːk-m̓inḥ-ʔis-ʔi·
-some-at.the.time-FINITE-COND-INF.3 they-along.with-??-SIM wolf-PL-DIM-DEF
-sometimes.he.would                 he.did.together.with   the.wolf.cubs
-Sometimes he had to play with the little wolves.
-
-# 028
-kʷiiƛkʷiiyaqiɬʔaƛwaʔiš                          ƛ̓uč̓umckʷi              č̓iimaqiiɬ      hiɬaʕaqiɬḥ                           ʔinkʷiɬʔi,            nunuukḥ.
-DUPCVƛ-kʷi-yaq-ʽiɬ-ʼaƛ-wa·ʔi·š                  ƛ̓uč̓um-ckʷi·            č̓iːmaq-iːɬ     hiɬ-aʕaq-ʽiɬ-(q)ḥ                    ʔinkʷ-ʽiɬ-ʔi·         nunuːk-(q)ḥ
-SPOR-sharpening-REP?-on.the.floor-FINITE-QUOT.3 blue.mussel-remains.of knife-make     there-beside-on.the.floor-SIM        fire-on.the.floor-DEF singing-SIM
-he.kept.sharpening.on.the.floor                 mussel.shell           making.a.knife while.sitting.beside.it.on.the.floor the.fire.on.the.floor while.singing
-He sat sharpening some mussel shells making knives beside the fire, singing.
-
-# 029
-ʕaasiqnakšiƛ.
-ʕa·siq-na·k-šiƛ
-plan-having-MOM
-he.got.a.plan
-He got a plan.
-
-# 030
-haptsaap          c̓aawačiɬ        yaaqʷiɬʔitq                  kʷiiƛkʷiiya        č̓iima.
-hapt-sa·p         c̓awa·-čiɬ       yaqʷ-(č)iɬ-ʔi·tq             DUPCVƛ-kʷi-ya      č̓iːma
-in.hiding-MOMCAUS one-with.ref.to that.which-with.ref.to-REL.3 REP-sharpening-REP knife
-hide              to.one          with.ref.to.which            sharpening         knife
-He hid one of the knives he was sharpening.
-
-# 031
-ʔaatḥšiƛ         c̓ic̓itkpiƛšiʔaƛ                      qʷayac̓iikštaqumɬ.
-ʔatḥ-šiƛ         DUPCV-c̓itkʷ-ʽpiƛ-ši(ƛ)-ʼaƛ          qʷayac̓iːk-štaqumɬ
-night-GRAD       DISTR-roll.over-in.house-MOM-FINITE wolf-groups
-it.becomes.night they.went.to.bed                    wolf.tribe
-The night came and the wolf tribe were going to bed.
-
-# 032
-čukʷaa    muwaačm̓eet, nunuukčip̓isak                waʔičuʔaaḥs,             waaʔaƛ     ḥaw̓iɬʔi.
-čukʷaː    muwač-m̓it   nunuːk-či·p-ʼi·s-ʔa·k        waʔič-u(ƛ)-ʼaːḥ-s        wa·-ʼaƛ    ḥaw̓iɬ-ʔi·
-come-here deer-son.of singing-for-IMP.2SG>1SG-POSS sleeping-MOM-so.that-1SG say-FINITE chief-DEF
-come.here Son.of.Deer sing.to.me                   so.I.can.sleep           said       the.chief
-“Come here, Son of Deer. Sing to me so I can go to sleep,” said the chief.
-
-# 033
-ƛawaʔii    muwaačm̓it,  ƛ̓ikaʕaqpiƛ            nuuʕiƛ.
-ƛawa-ʔiː   muwač-m̓i·t  ƛ̓ik-aʕaq-ʽpiƛ         nu-ʕiƛ
-near-reach deer-son.of kneel-beside-in.house sing-??
-approach   Son.of.Deer knelt.by.on.the.floor started.to.sing
-Son of Deer went near him, knelt down and started to sing.
-
-# 034
-“waʔič,  waʔič,   hooy hooy,” wawaaʔak   nuuk.
-waʔič    waʔič    hoːy hoːy   wawaː-ʔa·k nuːk
-sleeping sleeping SONG SONG   say-POSS   song
-sleeping sleeping SONG SONG   his.says   song
-“Sleep, sleep, hauy, hauy,” his song said.
-
-# 035
-nasaƛs                 waʔičuƛ.     ʕaqc̓aqḥt̓anaʔi,                  waaʔaƛ̓aƛa.
-nas-ʼaƛ-s              waʔič-uƛ     ʕaq-c̓aqḥ-t̓a·na-ʼi·              wa·-ʼaƛ-ʼat-ƛa·
-try.in.vain-FINITE-1SG sleeping-MOM make.loud.noise-??-slightly-IMP say-FINITE-SHIFT-also
-I.cant                 slept        sing.a.little.louder            they.said.to.him.again
-“I can’t go to sleep. Sing louder,” he was told.
-
-# 036
-čaaniʔi      natmisip̓iƛt̓ana,                               waaʔaƛ     muwaačm̓it.  k̓asḥhtaakʷiɬt̓anaʔi.
-čaːni-ʼi·    nat-misa-ʽipiƛ-t̓a·na                          wa·-ʼaƛ    muwač-m̓i·t  k̓aš-ḥta·kʷ-ʽiɬ-t̓a·na-ʼi·
-at.first-IMP a.little.further-on.top-on.the.floor-slightly say-FINITE deer-son.of bent.backward-divided.off-on.the.floor-slightly-IMP
-first.do.it  move.up.a.little.bit.on.the.floor             said       Son.of.Deer put.your.head.backwards.a.little
-“First, move up a little bit, and put your head back a little bit,” Son of Deer said.
-
-# 037
-nunuukšiƛ   huʔaas,  kuw̓iɬaƛ     ʕaqc̓aqḥšiƛ.
-nunuːk-šiƛ  huʔa-aːs kuw̓iɬa-ʼaƛ  ʕaq-c̓aqḥ-šiƛ
-singing-MOM again-?? obey-FINITE make.loud.noise-??-MOM
-sing        again    do.as.told  sang.louder
-He started to sing again; he sang louder as told.
-
-# 038
-waʔičuƛ      ḥaw̓iɬʔi,  ḥuuptšiƛ.
-waʔič-uƛ     ḥaw̓iɬ-ʔi· ḥupt-šiƛ
-sleeping-MOM chief-DEF snoring-GRAD
-slept        the.chief start.snoring
-The chief went to sleep, started to snore.
-
-# 039
-č̓uḥiičiƛ         ʔiʔinkʷiɬitʔi.
-č̓uḥ-ʽi·čiƛ       DUPCV-ʔinkʷ-ʽiɬ-it-ʔi·
-extinguished-INC DISTR-fire-on.the.floor-PAST-DEF
-fire.went.out    the.fires.on.the.floor
-The fires went out.
-
-# 040
-sukʷiƛ haptaaʔakitʔi               č̓iima.
-sukʷiƛ hapt-(y)a·-ʔa·k-it-ʔi·      č̓iːma
-take   in.hiding-REP-POSS-PAST-DEF knife
-take   his.thing.that.was.hidden   knife
-He took out his hidden knife.
-
-# 041
-qaax̣! č̓iʔatapčip               t̓uḥc̓iti ḥaw̓iɬʔi.
-qaːx̣  č̓i-ʔatu-ʼap-či·p         t̓uḥc̓iti ḥaw̓iɬ-ʔi·
-SOUND cut-fall.off-MOMCAUS-for head    chief-DEF
-SOUND he.cut.off.his           head    the.chief
-Swish! He cut off the chief’s head.
-
-# 042
-kamatqʷas           niniič           t̓uḥc̓itiʔi.
-kamatq-wa·s         hin-iːc          t̓uḥc̓iti-ʔi·
-running-go.outdoors there-take.along head-DEF
-ran.out             carrying.along   the.head
-He ran out carrying the head.
-
-# 043
-hitaaʕatap            č̓apacʔisukʔi.
-hita-a·ʕatu-ʼap       č̓apac-ʔis-uk-ʔi·
-LOC-move.down-MOMCAUS canoe-DIM-POSS-DEF
-took.it.down          his.little.canoe
-He took down his little canoe.
-
-# 044
-hitaqsiƛ,           ƛiiḥšiƛ.
-hita-qs-i(ƛ)        ƛiḥ-šiƛ
-LOC-in.a.vessel-MOM traveling.in.vessel-GRAD
-get.into.the.canoe  started.off.in.canoe
-He got in his canoe and started off.
-
-# 045
-hiɬhinqsʔaƛuk                     t̓uḥc̓itiʔi.
-hiɬhin-qs-ʼaƛ-uk                  t̓uḥc̓iti-ʔi·
-bow-in.a.vessel-FINITE-POSS       head-DEF
-he.had.it.at.the.bow.of.the.canoe the.head
-He had the chief’s head at the bow.
-
-# 046
-nunuukqčik,               ʔuucq              yaɬaa, hupacq                         yaɬaa, t̓uḥc̓itatmoot   ḥaw̓iɬukmoot,    qʷayac̓ikmoot,  ƛ̓ikmut ƛ̓ikmut.
-nunuːk-qčik               ʔu-a·cqin          yaɬaː  hup-a·cqi                      yaɬaː  t̓uḥc̓iti-ʼat-it ḥaw̓iɬ-uk-it     qʷayac̓iːk-mu·t ƛ̓ikmut ƛ̓ikmut
-singing-doing.while.going it-at.the.bow?     SONG   roundish-at.the.bow?           SONG   head-POSS-PAST chief-POSS-PAST wolf-late      SONG   SONG
-singing.along             sitting.at.the.bow SONG   round.thing.sitting.at.the.bow SONG   his.head       their.chief     wolf           SONG   SONG
-He went along singing, “In the bow of my canoe, sitting there, the head of the chief of the wolves, _ƛ̓ikmut_ _ƛ̓ikmut_.”
-
-# 047
-ƛumkšiƛ   ɬuucmaak    ḥaw̓iɬʔi.
-ƛumk-šiƛ  ɬuːcma-ʔa·k ḥaw̓iɬ-ʔi·
-awoke-MOM wife-POSS   chief-DEF
-woke.up   his.wife    the.chief
-The chief’s wife woke up.
-
-# 048
-hin̓aɬšiƛ           ʔan  taɬtqiiɬ.
-hin-ʔaɬ-šiƛ        ʔan  taɬ-tqi·-ʽiɬ
-there-aware.of-MOM that wet-bottom-on.the.bed
-realize            that wet.on.the.bed
-She realized that she was wet.
-
-# 049
-čatšiƛ   čakupuk      ƛumkšiʔi,     ƛumkšiʔi      w̓aaw̓aakumsasiɬaʔick             ʕuqʷiɬ.
-čat-šiƛ  čakup-uk     ƛumk-šiƛ-ʼi·  ƛumk-šiƛ-ʼi·  w̓aː-kum-sa-siɬa-ʔick            ʕuq-ʽiɬ
-push-MOM husband-POSS awoke-MOM-IMP awoke-MOM-IMP ashamed-??-precisely-do-IND.2SG urinate-on.the.bed
-pushed   her.husband  wake.up       wake.up       you.have.done.a.shameful.thing  wet.the.bed
-She pushed her husband, “Wake up! Wake up! You have done a shameful thing. You wet the bed.”
-
-# 050
-wik, maɬšiƛiɬ.
-wik  maɬ-šiƛ-ʽiɬ
-not  move-MOM-on.the.bed
-not  he.did.not.move
-He didn’t move.
-
-# 051
-ʔuḥtaaw̓it̓asʔaƛ              čatšiƛ   t̓uḥc̓itatʔi.
-ʔu-ḥta·-w̓it̓as-ʼaƛ           čat-šiƛ  t̓uḥc̓iti-ʼat-ʔi·
-it-doing.to-about.to-FINITE push-MOM head-POSS-DEF
-she.was.going.to.do.to.it   pushed   his.head
-She was going to push the head.
-
-# 052
-wik̓iit       t̓uḥc̓itanitʔi.
-wik̓iːt       t̓uḥc̓iti-ʼat-it-ʔi·
-none.present head-POSS-PAST-DEF
-none.present his.head
-His head wasn’t there.
-
-# 053
-n̓iƛkʷaqšiƛ  ɬuucmaʔi   ƛumkšiʔič,        ƛumkšiʔič,        quyaasiɬaʔiš             čakupukqs.           ʔinkʷiiɬʔič.
-n̓iƛkʷaq-šiƛ ɬuːcma-ʔi· ƛumk-šiƛ-ʼi·č     ƛumk-šiƛ-ʼi·č     ʔuyaː-siɬa-ʔi·š          čakup-uk-qs          ʔinkʷ-iːɬ-ʼi·č
-excited-MOM woman-DEF  awoke-MOM-IMP.2PL awoke-MOM-IMP.2PL unusual-act.like-IND.3   husband-POSS-REL.1SG fire-make-IMP.2PL
-panicked    the.woman  wake.up.all       wake.up.all       there.is.something.wrong my.husband           light.the.fires
-The woman got all excitd, “Wake up everyone! Wake up everyone! There is something wrong with my husband. Light the fires!”
-
-# 054
-pumiipiƛ                                   qʷayac̓iikštaqumɬ. ʔinkʷiiɬšiƛ̓aɬ.
-pu-mi·piƛ                                  qʷayac̓iːk-štaqumɬ ʔinkʷ-iːɬ-šiƛ-ʔa·ɬ
-running.in.a.group-move.about.in.the.house wolf-groups       fire-make-MOM-PL
-rushed.around.in.the.house                 wolf.tribe        they.lit.the.fire
-The wolf tribe rushed around. They lit the fires.
-
-# 055
-ʔačaʕatč                   qʷisʔat,      wawaacst̓aɬʔaƛ̓aɬ.
-ʔačaq-ʼat-č                qʷis-ʼat      wawaː-cst̓aɬ-ʼaƛ-ʔa·ɬ
-who-SHIFT-INF.3            do.so-SHIFT   say-each.other-FINITE-PL
-I.wonder.who.did.it.to.him did.so.to.him they.said.to.each.other
-“Who did this to him?” they asked each other.
-
-# 056
-kamatqʷasnak̓aƛ̓aɬ.
-kamatqʷ-wa·s-na·k-ʼaƛ-ʔa·ɬ
-running-go.outdoors-having-FINITE-PL
-one.of.them.ran.out
-One of them ran out.
-
-# 057
-ʔuḥitʔiš            muwaačm̓it.  wikaɬc̓aƛukʔiš                     č̓apac, waaʔaƛ.
-ʔuḥ-it-ʔi·š         muwač-m̓i·t  wik-aɬc̓a-ʼaƛ-uk-ʔi·š              č̓apac  wa·-ʼaƛ
-being.he-PAST-IND.3 deer-son.of not-on.the.roof-FINITE-POSS-IND.3 canoe  say-FINITE
-it.was.him          Son.of.Deer his.is.gone.from.the.roof         canoe  said
-“It was Son of Deer. His canoe is gone from the roof,” someone said.
-
-# 058
-n̓aačuk̓ʷin,            n̓aačuk̓ʷin,            waanaak̓aƛ.
-n̓aːčuk-ʼin            n̓aːčuk-ʼin            wa·-na·k-ʼaƛ
-looking.for-IMP.1PL>3 looking.for-IMP.1PL>3 say-having-FINITE
-lets.look.for.him     lets.look.for.him     one.of.them.said
-“Let’s look for him; Let’s look for him,” one of them said.
-
-# 059
-sukʷiʔič         t̓apatḥsim̓inḥukqin,       waanaak̓aƛƛa.
-sukʷi(ƛ)-ʼi·č    t̓apatḥsi-m̓inḥ-uk-qin     wa·-na·k-ʼaƛ-ƛa·
-take-IMP.2PL>3SG advisors-PL-POSS-REL.1PL say-having-FINITE-also
-get.them         our.advisor              another.one.said
-“Go get our advisors,” someone else said.
-
-# 060
-sukʷiƛnakʔaɬ,             hininʔaɬ.
-sukʷiƛ-na·k-ʔa·ɬ          hin-in-ʔa·ɬ
-take-having-PL            there-come-PL
-one.of.them.went.for.them they.arrived.there
-Someone went for them, and they (the advisors) arrived.
-
-# 061
-t̓aat̓aapatšiƛ̓aɬ        qʷisʔaqƛiiʔaɬ.
-DUPCV-t̓apat-šiƛ-ʔa·ɬ  qʷis-ʔaqƛ-(y)iː-ʔa·ɬ
-DISTR-think-MOM-PL    do.so-FUT-INDF.3-PL
-they.started.thinking what.they.should.do
-They thought about what should be done.
-
-# 062
-čuu ʔaʔaatuuʔin   ʔak̓uɬatqʷin              ʔučqc̓uuʔakʔi        ʕaanism̓it.
-čuː ʔaʔaːtuː-ʼin  ʔak̓uɬi-ʼat-qʷin          ʔučq-c̓u·-ʔa·k-ʔi·   ʕaːnis-m̓i·t
-OK  ask-IMP.1PL>3 lend-SHIFT-COND.1PL      fog-inside-POSS-DEF crane-son.of
-OK  lets.ask      so.that.he.lend.it.to.us his.fog.bag         Son.of.Crane
-“OK, let’s ask Son of Crane to lend us his fog bag.”
-
-# 063
-sukʷiƛči.
-sukʷiƛ-či·
-take-go.and
-go.and.get
-“Go get him.”
-
-# 064
-kamatqšiƛnak            sukʷiƛ̓as            ʕaanism̓it.
-kamatqʷ-šiƛ-na·k        sukʷi(ƛ)-ʼa·s       ʕaːnis-m̓i·t
-running-MOM-having      take-go.in.order.to crane-son.of
-someone.ran.in.order.to went.to.fetch       Son.of.Crane
-Someone ran to get Son of Crane.
-
-# 065
-hinin      ʕaanism̓it.
-hin-in     ʕaːnis-m̓i·t
-there-come crane-son.of
-arrived    Son.of.Crane
-Son of Crane arrived.
-
-# 066
-ʔiiqḥšiƛ̓aɬ     qʷisʔiitq   muwaačm̓it   ḥaw̓iɬukʔi.
-ʔiːqḥ-šiƛ-ʔa·ɬ qʷis-ʔi·tq  muwač-m̓i·t  ḥaw̓iɬ-uk-ʔi·
-telling-MOM-PL do.so-REL.3 deer-son.of chief-POSS-DEF
-they.said      what.he.did Son.of.Deer their.chief
-They told him what Son of Deer did to their chief.
-
-# 067
-čuu      ʔaak̓uɬšniš                suutiɬ       ʔučqc̓uuʔakʔitk,          waaʔaƛ     ciqḥsiiʔi.
-čuː      ʔak̓uɬ-š-ni·š              sut-(č)iɬ    ʔučq-c̓u·-ʔa·k-ʔitk       wa·-ʼaƛ    ciq-ḥsi·-ʔi·
-now.then borrow-asking.for-IND.1PL you-doing.to fog-inside-POSS-POSS.2SG say-FINITE speak-AGT.NZR-DEF
-now.then we.ask.for.borrowing      to.you       your.fog.bag             said       the.speaker
-“Well, we want to ask you to lend us your fog bag,” said the speaker.
-
-# 068
-hiiɬapiɬʔaƛwaʔiš                       ḥaa   ʕaanism̓it,   t̓aat̓aapata,      čaayixʷapiɬ.
-hiɬ-api-ʽiɬ-ʼaƛ-wa·ʔi·š                ḥaː   ʕaːnis-m̓i·t  DUPCV-t̓apat-(y)a čaːyixʷ-api-ʽiɬ
-there-erect-on.the.floor-FINITE-QUOT.3 there crane-son.of REP-think-REP    stand.on.one.leg-erect-on.the.floor
-he.stood.up.on.the.floor               there Son.of.Crane thinking         standing.up.on.one.leg.on.the.floor
-Son of Crane stood there, thinking about it, standing on one leg.
-
-# 069
-humm wawaaʔaƛquuč          t̓aat̓aapata       qiiyapiɬ.
-~    wawaː-ʼaƛ-quː-č       DUPCV-t̓apat-(y)a qiːy-api-ʽiɬ
-~    say-FINITE-COND-INF.3 REP-think-REP    for.long-standing.up-on.the.floor
-~    he.would.say          thinking         standing.on.the.floor.for.a.long.time
-“Hmmm,” he kept saying, thinking and standing there for a long time.
-
-# 070
-čuu, waaʔaƛ,
-čuː  wa·-ʼaƛ
-OK   say-FINITE
-OK   said
-“OK,” he said.
-
-# 071
-ʔaanaḥiʔaqƛ̓icuuš     ʔuuʔaaɬukḥ           ƛuuɬḥap̓ap          kuḥiqsip               ʔaḥ  yaqčiʔitq      wik̓aaʔit           hišsaacinƛ         ʔučqšiƛ,      waaʔaƛ     ʕaanism̓it.
-ʔaːnaḥi-ʔa·qƛ-ʔicuːš ʔu-ʼa·ɬuk-(q)ḥ       ƛuːɬ-ḥap-ʼap       kuḥʷ-iqs-ip            ʔaḥ  yaq-či-ʔi·tq   wik-ʼa·ʔit         hiš-sa·cu-inƛ      ʔučq-šiƛ      wa·-ʼaƛ    ʕaːnis-m̓i·t
-only-FUT-IND.2PL     it-looking.after-SIM slowly-do?-MOMCAUS open-on.top.of-MOMCAUS this which-in-REL.3 not-PURP           all-at.a.place-MOM foggy-MOM     say-FINITE crane-son.of
-but.you.all.will.be  take.care.of.it.when do.it.slowly       open.it.at.the.top     this container      so.that.it.wont.be go.all.over        it.gets.foggy said       Son.of.Crane
-“But you all will be very careful when you open this container so it won’t get foggy all over,” said Son of Crane.
-
-# 072
-sukʷiƛ ʔučqc̓uuʔi      qʷayac̓iikštaqumɬ, pun̓isaƛ̓aɬ.
-wukʷiƛ ʔučq-c̓u·-ʔi·   qʷayac̓iːk-štaqumɬ pu-n̓i-ʽsaƛ-ʔa·ɬ
-take   fog-inside-DEF wolf-groups       running.in.a.group-down.the.slope-on.the.beach-PL
-take   the.fog.bag    wolf.tribe        they.ran.down.the.beach
-The wolf tribe took the fog bag and ran down the beach.
-
-# 073
-ʔaaʔaaʔišaƛ̓aɬ       kuḥiqsip                      ʔučqc̓uuʔi.
-ʔaːʔaːʔiša-ʼaƛ-ʔa·ɬ kuḥʷ-iqs-ip                   ʔučq-c̓u·-ʔi·
-hurry-FINITE-PL     open-on.top.of-MOMCAUS        fog-inside-DEF
-they.rushed         open.the.container.at.the.top the.fog.bag
-In a hurry they opened the fog bag.
-
-# 074
-ʔučqšiƛ,      qučqšiƛ,      č̓an̓iičiƛst̓aɬʔaɬ.
-ʔučq-šiƛ      ʔučq-šiƛ      č̓an̓iː-čiƛ-(c)st̓aɬ-ʔa·ɬ
-foggy-MOM     foggy-MOM     unable.to.see-MOM-reciprocally-PL
-it.gets.foggy it.gets.foggy it.got.impossible.for.them.to.see.each.other
-It got foggy and foggy, and they couldn’t see each other.
-
-# 075
-n̓iƛkʷaqšiƛ̓aɬ,         sukʷiƛči    ʕaanism̓it.
-n̓iƛkʷaq-šiƛ-ʔa·ɬ      sukʷiƛ-či·  ʕaːnis-m̓i·t
-excited-MOM-PL        take-go.and crane-son.of
-they.got.all.panicked go.and.get  Son.of.Crane
-They all panicked, [and said] “Go get Son of Crane!”
-
-# 076
-ʔuuš hahaaʕinyučiƛ,                   ʕaanism̓eet   hupiiʔinak!
-ʔuːš DUPCV-haːʕin-yu-čiƛ              ʕaːnis-m̓i·t  hupi·-ʼin-ʔak
-some DISTR-call.out-several.doing-MOM crane-son.of helping-IMP.2SG>1PL-??
-some some.started.calling.out         Son.of.Crane come.help.us
-Someone started to call out, “Son of Crane, help us!”
-
-# 077
-naʔiičiƛ     ʕaanism̓it,   n̓ašiƛ̓as.
-naʔa·-ʽi·čiƛ ʕaːnis-m̓i·t  n̓aš-iƛ-ʼa·s
-hear-INC     crane-son.of go.to.see-MOM-go.in.order.to
-heard        Son.of.Crane come.to.see
-Son of Crane heard them and went to see.
-
-# 078
-waamits      wikquusuu      kapsčiƛ         kuḥiqsip,              wawaaʔaƛ̓atʔaɬ       wiškaaʔat.
-wa·-mit-s    wik-quːsuː     kaps-čiƛ        kuḥʷ-iqs-ip            wawaː-ʼaƛ-ʼat-ʔa·ɬ  wiškaː-ʼat
-say-PAST-1SG not-COND.2PL   do.suddenly-MOM open-on.top.of-MOMCAUS say-FINITE-SHIFT-PL scold-SHIFT
-I.said       so.you.wouldnt do.suddenly     open.it.at.the.top     he.told.them        he.scolded.them
-“I told you not to open it suddenly,” he said scolding them.
-
-# 079
-huʔac̓in̓ap         ʔučqmisukʔi,
-huʔa-c̓in̓ap        ʔučqmis-uk-ʔi·
-back-in.container fog-POSS-DEF
-put.back.in       his.fog
-He put the fog back into the bag.
-
-# 080
-ƛuuɬḥap̓aƛ         kuḥiqsip               ʔuuʔuukʷaqḥ,     n̓amacp̓ičištuʔaƛ                   ʔučqak.
-ƛuːɬ-ḥap-ʼaƛ      kuḥʷ-iqs-ip            DUPCV-ʔukʷa-(q)ḥ n̓ama-cp̓i·-a·čišt-u(ƛ)-ʼaƛ         ʔučq-ak
-slowly-do?-FINITE open-on.top.of-MOMCAUS REP-oneself-SIM  only-on.top-on.the.sea-MOM-FINITE foggy-DUR
-did.it.slowly     open.it.at.the.top     doing.by.himself only.covering.the.surface         foggy
-He opened the bag very slowly himself, [with the fog] just covering the surface of the water.
-
-# 081
-ʔiiqḥiiʔaƛ                  muwaačm̓it   ƛatw̓aa,               nunuuk, ʔuucq              yaɬaa, hupacq                         yaɬaa, t̓uḥc̓itatmoot   ḥaw̓iɬukmoot,    qʷayac̓ikmoot,   ƛ̓ikmut ƛ̓ikmut.
-ʔiq-ḥi·-ʼaƛ                 muwač-m̓i·t  ƛatw̓a-(y)a·           nunuːk  ʔu-a·cqin          yaɬaː  hup-a·cqi                      yaɬaː  t̓uḥc̓iti-ʼat-it ḥaw̓iɬ-uk-it     qʷayyac̓iːk-mu·t ƛ̓ukmut ƛ̓ikmut
-still-DUR-FINITE            deer-son.of paddling.steadily-REP singing it-at.the.bow?     SONG   roundish-at.the.bow?           SONG   head-POSS-PAST chief-POSS-PAST wolf-late       SONG   SONG
-he.was.still.doing.the.same Son.of.Deer paddling              singing sitting.at.the.bow SONG   round.thing.sitting.at.the.bow SONG   his.hiead      their.chief     wolf            SONG   SONG
-Son of Deer was still paddling along, singing, “In the bow of my canoe, sitting there, the head that was of the chief of the wolves _ƛ̓ikmut_ _ƛ̓ikmut_.”
-
-# 082
-ʔučqʔinƛ              muwaačm̓it.
-ʔučq-ʔinƛ             muwač-m̓i·t
-fog-caught.in         deer-son.of
-got.caught.in.the.fog Son.of.Deer
-Son of Deer got caught in the fog.
-
-# 083
-wikʔaɬʔaƛ           ʔan  mitxšiƛačišt.               ƛatw̓aa                nunuuk  nuukʔisukʔi.
-wik-ʔaɬ-ʼaƛ         ʔan  mitxʷ-šiƛ-a·čišt            ƛatw̓a-(y)a·           nunuːk  nuːk-ʔis-uk-ʔi·
-not-aware.of-FINITE that circle.about-MOM-on.the.sea paddling.steadily-DUR singing song-DIM-POSS-DEF
-he.didnt.realize    that he.turned.around.in.the.sea padding               singing his.song
-he didn’t know that he had turned around; he was paddling and singing his song.
-
-# 084
-ƛiḥsaƛ,                          yacsaƛ            ʔoomʔa! ʔaḥkuučips             suw̓a kist̓a.
-ƛiḥ-ʽsaƛ                         yac-ʽsaƛ          ʔoːmʔa  ʔaḥku·-či·p-s          suw̓a kist̓a
-traveling.in.vessel-on.the.beach step-on.the.beach Mom     right.here-for-1SG     you  chamber.pot
-land.on.the.beach                step.on.the.beach Mom     here.I.have.it.for.you you  chamber.pot
-He landed on the beach and stepped out. “Mom! Here, I have a chamber for you.”
-
-# 085
-wik̓iitḥʔat            ʔuʔumap̓at.
-wik̓iːt-(q)ḥ-ʼat       ʔu-ma·p-ʼat
-nonexistent-SIM-SHIFT it-paying.attention.to-SHIFT
-nobody.did.it.to.him  nobody.paid.attention.to.him
-Nobody paid attention to him.
-
-# 086
-ʕačšaƛ               sukʷiƛ sup̓icmis ʕupkswiiʕaqƛn̓uk.
-ʕač-ʽsaƛ             sukʷiƛ sup̓icmis ʕup-kswi·q-ʼaqƛ-n̓uk
-grab-on.the.beach    take   sand     flow-go.through-inside-in.hand
-grabbed.on.the.beach take   sand     ran.it.through.his.fingers
-He grabbed some sand off the beach and ran it through his fingers.
-
-# 087
-ʔaqaqḥ       ʔaḥ  waaʔaƛ
-ʔaqaq-ḥ      ʔaḥ  wa·-ʼaƛ
-what-INTER.3 this say-FINITE
-what.is.it?  this said
-“What is this?” he said.
-
-# 088
-ʔiqstasaƛ                histaačiƛitʔitq.
-ʔiq-sta-ʽsaƛ             hist-a·čiƛ-it-ʔi·tq
-same-move?-on.the.beach  there-go.out.to.sea-PAST-REL.3
-landed.on.the.same.beach where.he.took.off.from
-He landed on the same beach that he started off from.
-
-# 089
-ʔanasiɬa   wikʕaƛšiƛ,         tuxkʷisaƛ                       qʷayac̓iikštaqumɬ  m̓aʔakʷaʔap̓at.
-ʔana-siɬa  wik-ʕaƛ-šiƛ        tuxʷ-kʷi-ʽsaƛ                   qʷayac̓iːk-štaqumɬ m̓a-ʔakʷa-ʼap-ʼat
-only-do    not-make.sound-MOM jump-on-on.the.beach            wolf-groups       bite-apart-MOMCAUS-SHIFT
-doing.only become.silent      they.jumped.on.him.on.the.beach wolf.tribe        they.tore.him.up.by.biting
-As soon as he finished talking, the wolf tribe jumped on him and tore him up.
-
-# 090
-ʔaa  ʔaniisiny̓apčip̓is                                      taač̓a, waaʔaƛ     muwaačm̓it.
-ʔaː  ʔana-ʼis-iny̓u-ʼap-či·p-ʼi·s                           taːč̓a  wa·-ʼaƛ    muwač-m̓i·t
-INTJ only-on.the.beach-left.behind-MOMCAUS-for-IMP.2SG>1SG belly  say-FINITE deer-son.of
-INTJ just.leave.it.on.the.beach.for.me                     belly  said       Son.of.Deer
-“A-a-ah just leave my stomach,” said Son of Deer.
-
-# 091
-kuw̓iɬaƛ̓aɬ                   qʷis  ʔaanisiny̓ap                           taač̓ackʷat            muwaačm̓it.
-kuw̓iɬa-ʼaƛ-ʔa·ɬ             qʷis  ʔana-ʼis-iny̓u-ʼap                     taːč̓a-ckʷi·-ʼat       muwač-m̓i·t
-doing.as.directed-FINITE-PL do.so only-on.the.beach-left.behind-MOMCAUS belly-remains.of-POSS deer-son.of
-they.did.as.told            do.so only.left.it.on.the.beach             his.stomach           Son.of.Deer
-They did just that — leaving his stomach of Son of Deer on the beach.
-
-# 092
-ʔunw̓iiƛ̓atʔaaɬ              ʔanaasiny̓ap̓at                              taač̓a mukʷiip̓aƛ̓atquu.
-ʔunw̓iːƛ-ʼat-ʔaːɬ           ʔana-ʼis-iny̓u-ʼap-ʼat                      taːč̓a muk-iːp-ʼaƛ-ʼat-quː
-because.of-SHIFT-always    only-on.the.beach-left-behind-MOMCAUS-POSS belly deer-obtain-FINITE-SHIFT-COND
-that.is.why.they.always.do one.just.leave.it                          belly when.you.get.deer
-That is the reason you leave only the stomach of the deer on the beach when you get deer.
-
-# 093
-ḥaaḥuupay̓ak         —             wiksuuk               suukʷinkḥi                 yaaʕaaɬčiqḥʔitk   quuʔas.                             ḥaʔukʷiƛcumʔatʔick     ʔuusḥhʔat.
-ḥaːḥuːp-(y)a·-y̓akʷ  —             wik-suːk              sukʷink-ḥi·                yaq-ʼa·ɬčiqḥ-ʔitk quːʔas                              ḥaʔu-kʷiƛ-cum-ʼat-ʔuck ʔuːš-(q)ḥ-ʼat
-teaching-DUR-device — not-2SG       put.a.person.down-DUR who-together.with-POSS.2SG person            do.in.turn-MOM-should-SHIFT-IND.2SG some-SIM-SHIFT
-teachings           — dont.you.ever put.down              your.fellowmen             person            he.may.pay.you.back                 by.someone
-Lecture — Don’t try to make fools of your fellow men. Someone might pay you back.
+čuu.
+čuː
+now.then
+now.then
+That’s it.
