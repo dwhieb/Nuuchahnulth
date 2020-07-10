@@ -1,0 +1,1538 @@
+{
+  "title": {
+    "en": "How our language changed",
+    "nuk": "qʷisḥin kʷiisḥiičiƛuk ciqy̓ak"
+  },
+  "abbreviation": "LgChange",
+  "ID": "CL14",
+  "utterances": [
+    {
+      "metadata": "001",
+      "transcript": "čuu, ʔuqḥɬiʔaqƛs qʷisḥin kʷiisḥiičiƛuk ciqy̓ak.",
+      "transcription": "",
+      "translation": "Now, I will talk about how our language has changed.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-qḥɬi-ʔaqƛ-s",
+          "gloss": "it-tell.about-FUT-1SG",
+          "literal": "I.will.tell.about",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "qḥɬi",
+              "gloss": "tell.about"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "s",
+              "gloss": "1SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷisḥ-(y)in",
+          "gloss": "how-INDF.1PL",
+          "literal": "how.we",
+          "morphemes": [
+            {
+              "transcription": "qʷisḥ",
+              "gloss": "how"
+            },
+            {
+              "transcription": "(y)in",
+              "gloss": "INDF.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kʷis-ḥi·-čiƛ-uk",
+          "gloss": "different-DUR-MOM-POSS",
+          "literal": "ours.got.changed",
+          "morphemes": [
+            {
+              "transcription": "kʷis",
+              "gloss": "different"
+            },
+            {
+              "transcription": "ḥi·",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ciq-y̓akʷ",
+          "gloss": "speak-device",
+          "literal": "language",
+          "morphemes": [
+            {
+              "transcription": "ciq",
+              "gloss": "speak"
+            },
+            {
+              "transcription": "y̓akʷ",
+              "gloss": "device"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "002",
+      "transcript": "ʔayumtʔaaɬ ḥaatḥaakʷaƛ kʷiscačiƛ.",
+      "transcription": "",
+      "translation": "Many women used to go to different places (when they got married).",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔaya-umt-ʔaːɬ",
+          "gloss": "many-PAST-always",
+          "literal": "there.used.to.be.many",
+          "morphemes": [
+            {
+              "transcription": "ʔaya",
+              "gloss": "many"
+            },
+            {
+              "transcription": "umt",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔaːɬ",
+              "gloss": "always"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaːtḥaːkʷaƛ",
+          "gloss": "girls",
+          "literal": "girls",
+          "morphemes": [
+            {
+              "transcription": "ḥaːtḥaːkʷaƛ",
+              "gloss": "girls"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kʷis-ca-čiƛ",
+          "gloss": "different-go.to-MOM",
+          "literal": "go.different.places",
+          "morphemes": [
+            {
+              "transcription": "kʷis",
+              "gloss": "different"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "003",
+      "transcript": "histaqšiƛ ƛaʔuukʷiʔatḥ ʔucačiƛ qaay̓uuk̓ʷatḥ. histaqšiƛ ʕaaḥuusʔatḥ hinatšiƛ ʔaḥ c̓išaaʔatḥ.",
+      "transcription": "",
+      "translation": "They came from Clayoquot to Kyuquot, or from Ahousaht to Tseshaht.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "his-taq-šiƛ",
+          "gloss": "there-come.from-MOM",
+          "literal": "came.from",
+          "morphemes": [
+            {
+              "transcription": "his",
+              "gloss": "there"
+            },
+            {
+              "transcription": "taq",
+              "gloss": "come.from"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛaʔuːkʷiʔatḥ",
+          "gloss": "Clayoquot",
+          "literal": "Clayoquot",
+          "morphemes": [
+            {
+              "transcription": "ƛaʔuːkʷiʔatḥ",
+              "gloss": "Clayoquot"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ca-čiƛ",
+          "gloss": "it-go.to-MOM",
+          "literal": "to",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qaːy̓uːk̓ʷatḥ",
+          "gloss": "Kyuquot",
+          "literal": "Kyuquot",
+          "morphemes": [
+            {
+              "transcription": "qaːy̓uːk̓ʷatḥ",
+              "gloss": "Kyuquot"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "his-taq-šiƛ",
+          "gloss": "there-come.from-MOM",
+          "literal": "came.from",
+          "morphemes": [
+            {
+              "transcription": "his",
+              "gloss": "there"
+            },
+            {
+              "transcription": "taq",
+              "gloss": "come.from"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕaːḥuːsʔatḥ",
+          "gloss": "Ahousaht",
+          "literal": "Ahousaht",
+          "morphemes": [
+            {
+              "transcription": "ʕaːḥuːsʔatḥ",
+              "gloss": "Ahousaht"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hin-at-šiƛ",
+          "gloss": "there-come-MOM",
+          "literal": "come.here",
+          "morphemes": [
+            {
+              "transcription": "hin",
+              "gloss": "there"
+            },
+            {
+              "transcription": "at",
+              "gloss": "come"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥ",
+          "gloss": "here",
+          "literal": "here",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥ",
+              "gloss": "here"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "c̓išaːʔatḥ",
+          "gloss": "NAME",
+          "literal": "NAME",
+          "morphemes": [
+            {
+              "transcription": "c̓išaːʔatḥ",
+              "gloss": "NAME"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "004",
+      "transcript": "naʔaataḥ t̓aatn̓aʔisʔi ʔaaƛačiɬ kʷiikʷiisatḥam̓inḥ.",
+      "transcription": "",
+      "translation": "Their children listened to two people speaking in different dialects.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "naʔa·-ataḥ",
+          "gloss": "hear-trying.to.catch",
+          "literal": "listen.carefully",
+          "morphemes": [
+            {
+              "transcription": "naʔa·",
+              "gloss": "hear"
+            },
+            {
+              "transcription": "ataḥ",
+              "gloss": "trying.to.catch"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓aːtn̓a-ʔis-ʔi·",
+          "gloss": "children-DIM-DEF",
+          "literal": "the.children",
+          "morphemes": [
+            {
+              "transcription": "t̓aːtn̓a",
+              "gloss": "children"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "DIM"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaƛa-čiɬ",
+          "gloss": "two-with.ref.to",
+          "literal": "to.two",
+          "morphemes": [
+            {
+              "transcription": "ʔaƛa",
+              "gloss": "two"
+            },
+            {
+              "transcription": "čiɬ",
+              "gloss": "with.ref.to"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUP-kʷis-ʼatḥ-a-m̓inḥ",
+          "gloss": "DISTR-different-come.from-speak.a.language.of-PL",
+          "literal": "speaking.different.languages",
+          "morphemes": [
+            {
+              "transcription": "DUP",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "kʷis",
+              "gloss": "different"
+            },
+            {
+              "transcription": "ʼatḥ",
+              "gloss": "come.from"
+            },
+            {
+              "transcription": "a",
+              "gloss": "speak.a.language.of"
+            },
+            {
+              "transcription": "m̓inḥ",
+              "gloss": "PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "005",
+      "transcript": "qʷisḥ ʔaḥʔaa kʷiisḥinčiƛukna ciqy̓ak.",
+      "transcription": "",
+      "translation": "That is why our language changed.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "qʷisḥ",
+          "gloss": "how",
+          "literal": "how",
+          "morphemes": [
+            {
+              "transcription": "qʷisḥ",
+              "gloss": "how"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔiaḥʔaː",
+          "gloss": "that",
+          "literal": "that",
+          "morphemes": [
+            {
+              "transcription": "ʔiaḥʔaː",
+              "gloss": "that"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kʷis-ḥin-čiƛ-uk-na·",
+          "gloss": "different-DUR?-MOM-POSS-1PL",
+          "literal": "ours.changed",
+          "morphemes": [
+            {
+              "transcription": "kʷis",
+              "gloss": "different"
+            },
+            {
+              "transcription": "ḥin",
+              "gloss": "DUR?"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "na·",
+              "gloss": "1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ciq-y̓akʷ",
+          "gloss": "speak-instrument",
+          "literal": "language",
+          "morphemes": [
+            {
+              "transcription": "ciq",
+              "gloss": "speak"
+            },
+            {
+              "transcription": "y̓akʷ",
+              "gloss": "instrument"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "006",
+      "transcript": "waa, ʔucačiʔaƛna niiw̓a qaaqaawis.",
+      "transcription": "",
+      "translation": "And we went to _qaaqaawis_ (Residential School).",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wa·",
+          "gloss": "and",
+          "literal": "and",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "and"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ca-čiƛ-ʼaƛ-na·",
+          "gloss": "it-go.to-MOM-FINITE-1PL",
+          "literal": "we.went.to",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "na·",
+              "gloss": "1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "niːw̓a",
+          "gloss": "we",
+          "literal": "we",
+          "morphemes": [
+            {
+              "transcription": "niːw̓a",
+              "gloss": "we"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qaːqaːwis",
+          "gloss": "NAME",
+          "literal": "NAME",
+          "morphemes": [
+            {
+              "transcription": "qaːqaːwis",
+              "gloss": "NAME"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "007",
+      "transcript": "waa, hiɬitƛa ʔaḥ ƛiisƛiisaquw̓as. ʔuušc̓iiy̓ap̓aƛ̓atukna ʔuuḥʷʼaɬ ciqy̓akukqin, maamaamaɬn̓iqsap̓atna.",
+      "transcription": "",
+      "translation": "[When] we were at this school, we were forbidden to use our own language. They made us speak English.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wa·",
+          "gloss": "and",
+          "literal": "and",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "and"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-it-ƛa·",
+          "gloss": "there-PAST-also",
+          "literal": "there.was.also",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ƛa·",
+              "gloss": "also"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥ",
+          "gloss": "this",
+          "literal": "this",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥ",
+              "gloss": "this"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛiːsƛiːsaq-uɬ-ʼas",
+          "gloss": "going.to.school-place.of-on.the.ground",
+          "literal": "school",
+          "morphemes": [
+            {
+              "transcription": "ƛiːsƛiːsaq",
+              "gloss": "going.to.school"
+            },
+            {
+              "transcription": "uɬ",
+              "gloss": "place.of"
+            },
+            {
+              "transcription": "ʼas",
+              "gloss": "on.the.ground"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuːš-c̓iːɬ-ʼap-ʼaƛ-ʼat-uk-na·",
+          "gloss": "some-??-MOMCAUS-FINITE-SHIFT-POSS-1PL",
+          "literal": "we.were.forbidden",
+          "morphemes": [
+            {
+              "transcription": "ʔuːš",
+              "gloss": "some"
+            },
+            {
+              "transcription": "c̓iːɬ",
+              "gloss": "??"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "na·",
+              "gloss": "1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ḥʷʼaɬ",
+          "gloss": "it-using",
+          "literal": "using.it",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ḥʷʼaɬ",
+              "gloss": "using"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ciq-y̓akʷ-uk-qin",
+          "gloss": "speak-instrument-POSS-REL.1PL",
+          "literal": "our.language",
+          "morphemes": [
+            {
+              "transcription": "ciq",
+              "gloss": "speak"
+            },
+            {
+              "transcription": "y̓akʷ",
+              "gloss": "instrument"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "qin",
+              "gloss": "REL.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUP-mamaɬn̓iq-sa·p-ʼat-na·ʼ",
+          "gloss": "DISTR-speak.English-MOMCAUS-SHIFT-1PL",
+          "literal": "they.made.us.speak.English",
+          "morphemes": [
+            {
+              "transcription": "DUP",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "mamaɬn̓iq",
+              "gloss": "speak.English"
+            },
+            {
+              "transcription": "sa·p",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "na·ʼ",
+              "gloss": "1PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "008",
+      "transcript": "hawiiʔaƛin ƛiisƛiisa niiw̓a waɬaak̓aƛna hiy̓atḥm̓inḥqin, t̓aatn̓ačiiɬšiƛ.",
+      "transcription": "",
+      "translation": "When we finish school, we came back home and had children.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hawiː-ʼaƛ-(y)in",
+          "gloss": "finish-FINITE-INDF.1PL",
+          "literal": "when.we.finished",
+          "morphemes": [
+            {
+              "transcription": "hawiː",
+              "gloss": "finish"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "(y)in",
+              "gloss": "INDF.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛiːsƛiːsa",
+          "gloss": "going.to.school",
+          "literal": "going.to.school",
+          "morphemes": [
+            {
+              "transcription": "ƛiːsƛiːsa",
+              "gloss": "going.to.school"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "niːw̓a",
+          "gloss": "we",
+          "literal": "we",
+          "morphemes": [
+            {
+              "transcription": "niːw̓a",
+              "gloss": "we"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "waɬaːkʷ-ʼaƛ-na·",
+          "gloss": "go-FINITE-1PL",
+          "literal": "we.went.home",
+          "morphemes": [
+            {
+              "transcription": "waɬaːkʷ",
+              "gloss": "go"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "na·",
+              "gloss": "1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-ʼatḥ-m̓inḥ-qin",
+          "gloss": "there-residing-PL-REL.1PL",
+          "literal": "where.we.all.lived",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "ʼatḥ",
+              "gloss": "residing"
+            },
+            {
+              "transcription": "m̓inḥ",
+              "gloss": "PL"
+            },
+            {
+              "transcription": "qin",
+              "gloss": "REL.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓aːtn̓a-čiːɬ-šiƛ",
+          "gloss": "children-make-MOM",
+          "literal": "makes.children",
+          "morphemes": [
+            {
+              "transcription": "t̓aːtn̓a",
+              "gloss": "children"
+            },
+            {
+              "transcription": "čiːɬ",
+              "gloss": "make"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "009",
+      "transcript": "y̓uuqʷaaʔaƛna maamaamaɬn̓iqsap t̓aatn̓aʔis.",
+      "transcription": "",
+      "translation": "We also made them speak English.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "y̓uːqʷaː-ʼaƛ-na·",
+          "gloss": "also-FINITE-1PL",
+          "literal": "we.also",
+          "morphemes": [
+            {
+              "transcription": "y̓uːqʷaː",
+              "gloss": "also"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "na·",
+              "gloss": "1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "mamaɬn̓iq-sa·p",
+          "gloss": "speak.English-MOMCAUS",
+          "literal": "made.them.speak.in.English",
+          "morphemes": [
+            {
+              "transcription": "mamaɬn̓iq",
+              "gloss": "speak.English"
+            },
+            {
+              "transcription": "sa·p",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓aːtn̓a-ʔis",
+          "gloss": "children-DIM",
+          "literal": "children",
+          "morphemes": [
+            {
+              "transcription": "t̓aːtn̓a",
+              "gloss": "children"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "DIM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "010",
+      "transcript": "čuu ʔuy̓inƛniš ʔaḥʔaa hixʷaaʔaƛniš ƛaḥ kaƛḥakʔi, ʔun̓aaḥ qʷisḥʔaaḥin huʔacaʔap.",
+      "transcription": "",
+      "translation": "Well, because of that we now have a hard time trying to find the way we can bring [our languages] back.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-y̓inƛ-ni·š",
+          "gloss": "it-troubled.by-IND.1PL",
+          "literal": "we.were.troubled.by",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "y̓inƛ",
+              "gloss": "troubled.by"
+            },
+            {
+              "transcription": "ni·š",
+              "gloss": "IND.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥʔaː",
+          "gloss": "that",
+          "literal": "that",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥʔaː",
+              "gloss": "that"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hixʷ-a·-ʼaƛ-ni·š",
+          "gloss": "exerting.effort-DUR-FINITE-IND.1PL",
+          "literal": "we.are.having.a.hard.time",
+          "morphemes": [
+            {
+              "transcription": "hixʷ",
+              "gloss": "exerting.effort"
+            },
+            {
+              "transcription": "a·",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ni·š",
+              "gloss": "IND.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛaḥ",
+          "gloss": "now",
+          "literal": "now",
+          "morphemes": [
+            {
+              "transcription": "ƛaḥ",
+              "gloss": "now"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kaƛḥ-ak-ʔi·",
+          "gloss": "daylight-DUR-DEF",
+          "literal": "daylight",
+          "morphemes": [
+            {
+              "transcription": "kaƛḥ",
+              "gloss": "daylight"
+            },
+            {
+              "transcription": "ak",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-n̓a·ḥ",
+          "gloss": "it-seeking",
+          "literal": "looking.for",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "n̓a·ḥ",
+              "gloss": "seeking"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷisḥ-ʼaːḥ-(y)in",
+          "gloss": "how-perhaps-INDF.1PL",
+          "literal": "how.we.would",
+          "morphemes": [
+            {
+              "transcription": "qʷisḥ",
+              "gloss": "how"
+            },
+            {
+              "transcription": "ʼaːḥ",
+              "gloss": "perhaps"
+            },
+            {
+              "transcription": "(y)in",
+              "gloss": "INDF.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huʔa-ca-ʼap",
+          "gloss": "back-go.to-MOMCAUS",
+          "literal": "bring.back",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "back"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "011",
+      "transcript": "wik̓aƛ̓atna y̓uuqʷaa t̓aatn̓aakqin naʔaaʔat ʔunw̓iiƛḥin ʔuukʷiɬʔaƛ̓aɬ kaapapšiƛ maamaamaɬn̓iqa.",
+      "transcription": "",
+      "translation": "Also our children stopped understanding us [in our language] because people preferred talking in English.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik-ʼaƛ-ʼat-na·",
+          "gloss": "not-FINITE-SHIFT-1PL",
+          "literal": "they.stopped.doing.to.us",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "na·",
+              "gloss": "1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "y̓uːqʷaː",
+          "gloss": "also",
+          "literal": "also",
+          "morphemes": [
+            {
+              "transcription": "y̓uːqʷaː",
+              "gloss": "also"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓aːtn̓a-ʔa·k-qin",
+          "gloss": "children-POSS-REL.1PL",
+          "literal": "our.children",
+          "morphemes": [
+            {
+              "transcription": "t̓aːtn̓a",
+              "gloss": "children"
+            },
+            {
+              "transcription": "ʔa·k",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "qin",
+              "gloss": "REL.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "naʔa·-ʼat",
+          "gloss": "hear-SHIFT",
+          "literal": "it.was.heard",
+          "morphemes": [
+            {
+              "transcription": "naʔa·",
+              "gloss": "hear"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔunw̓iːƛ-ḥin",
+          "gloss": "because-INTER.1PL",
+          "literal": "because.we",
+          "morphemes": [
+            {
+              "transcription": "ʔunw̓iːƛ",
+              "gloss": "because"
+            },
+            {
+              "transcription": "ḥin",
+              "gloss": "INTER.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-kʷiɬ-ʼaƛ-ʔa·ɬ",
+          "gloss": "it-doing.to-FINITE-PL",
+          "literal": "they.would.do.to",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "kʷiɬ",
+              "gloss": "doing.to"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kaːpap-šiƛ",
+          "gloss": "prefer-MOM",
+          "literal": "prefer",
+          "morphemes": [
+            {
+              "transcription": "kaːpap",
+              "gloss": "prefer"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "mamaɬn̓iq-a",
+          "gloss": "speak.English-speak.a.language.of",
+          "literal": "speaking.English",
+          "morphemes": [
+            {
+              "transcription": "mamaɬn̓iq",
+              "gloss": "speak.English"
+            },
+            {
+              "transcription": "a",
+              "gloss": "speak.a.language.of"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "012",
+      "transcript": "ʔuušcukšiʔaƛ huuḥtakšiiḥʔap̓at.",
+      "transcription": "",
+      "translation": "It has become difficult to teach them.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔuːš-cuk-šiƛ-ʼaƛ",
+          "gloss": "some-requiring-MOM-FINITE",
+          "literal": "it.got.difficult",
+          "morphemes": [
+            {
+              "transcription": "ʔuːš",
+              "gloss": "some"
+            },
+            {
+              "transcription": "cuk",
+              "gloss": "requiring"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huḥtak-šiːḥ-ʼap-ʼat",
+          "gloss": "know.how-IT.PL-MOMCAUS-SHIFT",
+          "literal": "teach",
+          "morphemes": [
+            {
+              "transcription": "huḥtak",
+              "gloss": "know.how"
+            },
+            {
+              "transcription": "šiːḥ",
+              "gloss": "IT.PL"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "013",
+      "transcript": "wiksčiik̓aƛ̓aɬ.",
+      "transcription": "",
+      "translation": "They say it wrong now [they cannot pronounce words correctly].",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik-sčiːk-ʼaƛ-ʔa·ɬ",
+          "gloss": "not-go.along-FINITE-PL",
+          "literal": "they.say.it.wrong",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "sčiːk",
+              "gloss": "go.along"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "014",
+      "transcript": "ʔuy̓iiḥaʔaɬ ʔan wik̓aƛ̓atʔaɬ ḥaay̓aʕaaɬʔat hiniiy̓uɬ qʷayaatukqin niiw̓a.",
+      "transcription": "",
+      "translation": "This is because their throat is no longer used to the way we speak (the way our language sounds).",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔu-y̓i·ḥa-ʔa·ɬ",
+          "gloss": "it-because.of-PL",
+          "literal": "because.of.it",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "y̓i·ḥa",
+              "gloss": "because.of"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔan",
+          "gloss": "because",
+          "literal": "because",
+          "morphemes": [
+            {
+              "transcription": "ʔan",
+              "gloss": "because"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wik-ʼaƛ-ʼat-ʔa·ɬ",
+          "gloss": "not-FINITE-POSS-PL",
+          "literal": "theirs.are.no.longer",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaːy̓aq-ʼaːɬ-ʼat",
+          "gloss": "used.to?-??-POSS",
+          "literal": "used.to.it",
+          "morphemes": [
+            {
+              "transcription": "ḥaːy̓aq",
+              "gloss": "used.to?"
+            },
+            {
+              "transcription": "ʼaːɬ",
+              "gloss": "??"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiniːy̓uɬ",
+          "gloss": "throat",
+          "literal": "throat",
+          "morphemes": [
+            {
+              "transcription": "hiniːy̓uɬ",
+              "gloss": "throat"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷa-(y)a·tuk-qin",
+          "gloss": "thus-making.sound.of-REL.1PL",
+          "literal": "the.way.ours.sounds",
+          "morphemes": [
+            {
+              "transcription": "qʷa",
+              "gloss": "thus"
+            },
+            {
+              "transcription": "(y)a·tuk",
+              "gloss": "making.sound.of"
+            },
+            {
+              "transcription": "qin",
+              "gloss": "REL.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "niːw̓a",
+          "gloss": "we",
+          "literal": "we",
+          "morphemes": [
+            {
+              "transcription": "niːw̓a",
+              "gloss": "we"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "015",
+      "transcript": "čuu qʷisḥniiš paawaɬšiƛšiƛ ciqy̓akukqin.",
+      "transcription": "",
+      "translation": "So, this is how we have lost our language.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷisḥ-ni·š",
+          "gloss": "how-IND.1PL",
+          "literal": "how.we",
+          "morphemes": [
+            {
+              "transcription": "qʷisḥ",
+              "gloss": "how"
+            },
+            {
+              "transcription": "ni·š",
+              "gloss": "IND.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "pawaɬ-šiƛ-šiƛ",
+          "gloss": "lost-GRAD-MOM",
+          "literal": "getting.to.be.lost",
+          "morphemes": [
+            {
+              "transcription": "pawaɬ",
+              "gloss": "lost"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "GRAD"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ciq-y̓akʷ-uk-qin",
+          "gloss": "speak-instrument-POSS-REL.1PL",
+          "literal": "our.language",
+          "morphemes": [
+            {
+              "transcription": "ciq",
+              "gloss": "speak"
+            },
+            {
+              "transcription": "y̓akʷ",
+              "gloss": "instrument"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "qin",
+              "gloss": "REL.1PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "016",
+      "transcript": "čuu.",
+      "transcription": "",
+      "translation": "It’s it.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
