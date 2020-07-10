@@ -14,7 +14,7 @@ ID:           CL1
 
 # 002
 wik̓aƛquuč             wikiičiƛ     ʔun̓aaḥ      qʷisḥʔaaḥii        haʔuk.
-wik-ʼaƛ-quː-č         wik-ʼi·či(ƛ) ʔu-n̓a·ḥ     qʷisḥʔaaḥii        haʔuk.
+wik-ʼaƛ-quː-č         wik-ʼi·či(ƛ) ʔu-n̓a·ḥ     qʷisḥ-ʼaːḥ-(y)iː   haʔuk.
 not-FINITE-COND-INF.3 not-INC      it-seeking  how-perhaps-INDF.3 eat
 he.wouldnt.do         it.stopped   looking.for how.he.could       eat
 He would never stop looking for something to eat.
@@ -35,7 +35,7 @@ Now, he went out for a walk heading to the place where Son of Bear lived, and he
 
 # 005
 haa, yaacpanačitsiš,                       waay̓aqstuƛs         yacmaasquus         siiḥiɬ.
-haː  yac-panač-it-si·s                     wa·ɬ-ʼaqstuƛ-s      yac-ma·s-quːs       siːḥ-iɬ
+haː  yac-panač-it-si·s                     wa·ɬ-ʼaqstuƛ-s      yac-ma·s-quːs-s     siːḥ-iɬ
 EXP  step-move.about.randomly-PAST-IND.1SG word-inside-1SG     step-move-COND-1SG  you.all-to
 EXP  I.was.walking.around                  I.thought.to.myself I.would.pay.a.visit to.you.all
 Well! I was walking around, and I thought to myself “I’m going to pay you all a visit,” [said Raven].
@@ -146,10 +146,10 @@ got.started.to.drip oil    came.from           his.hands     bear
 Oil started dripping from Bear’s hands.
 
 # 021
-k̓uušiƛ̓is            ʔaḥ           k̓aminƛ            ʕam̓iitm̓inḥʔi.
-k̓uː-šiƛ-ʔis         ʔaḥ           k̓ama-in(ƛ)        ʕam̓iːt-m̓inḥ-ʔi·
-short.time-MOM-DIM  here-full-MOM clam.shell-PL-DEF
-after.a.short.while here          got.full          the.clam.shells
+k̓uušiƛ̓is            ʔaḥ  k̓aminƛ     ʕam̓iitm̓inḥʔi.
+k̓uː-šiƛ-ʔis         ʔaḥ  k̓ama-in(ƛ) ʕam̓iːt-m̓inḥ-ʔi·
+short.time-MOM-DIM  here full-MOM   clam.shell-PL-DEF
+after.a.short.while here got.full   the.clam.shells
 After a little while the shells got full [with oil].
 
 # 022
@@ -174,10 +174,10 @@ became.so   how.it.is  greedy
 He got greedy.
 
 # 025
-naʔukšiʔaƛ.    haʔukšiʔaƛ     ʔuʔuiic̓at   suuḥaa     ƛaqmis            ʔuunaqa.
-haʔuk-šiƛ-ʼaƛ  haʔuk-šiƛ-ʼaƛ  ʔu-ʼi·c-ʼat suːḥaː     ƛaqmis            ʔu-naqa
-eat-MOM-FINITE eat-MOM-FINITE it-eat-POSS salmon-oil it-using.as.sauce
-ate            ate            eating      salmon     oil               using.as.sauce
+naʔukšiʔaƛ.    haʔukšiʔaƛ     ʔuʔuiic̓at   suuḥaa ƛaqmis ʔuunaqa.
+haʔuk-šiƛ-ʼaƛ  haʔuk-šiƛ-ʼaƛ  ʔu-ʼi·c-ʼat suːḥaː ƛaqmis ʔu-naqa
+eat-MOM-FINITE eat-MOM-FINITE it-eat-POSS salmon oil    it-using.as.sauce
+ate            ate            eating      salmon oil    using.as.sauce
 He started eating. He started eating salmon with oil.
 
 # 026
@@ -210,7 +210,7 @@ INTJ go.along        Son.of.Bear
 
 # 030
 hišukʷaƛ̓at       huḥtak̓at       qʷaaʔiitq  quʔušinm̓it,  ʔayisaʕaqƛ,    c̓iic̓ikiik                      qʷaan̓ak̓uuḥʔitq.
-hišuk-ʼaƛ-ʼat    huḥtak-ʼat     qʷaː-ʔi·tq quʔušin-m̓i·t ʔayisaq-ʼaqƛ   DUPCVː0c̓iːk-iːk                qʷaː-in̓ak̓uːḥ-ʔi·tq
+hišuk-ʼaƛ-ʼat    huḥtak-ʼat     qʷaː-ʔi·tq quʔušin-m̓i·t ʔayisaq-ʼaqƛ   DUPCVː-c̓iːk-iːk                qʷaː-in̓ak̓uːḥ-ʔi·tq
 all-FINITE-SHIFT know.how-SHIFT thus-REL.3 raven-son.of decieve-inside ??-imitate-one.who.always.does how-see-REL.3
 all.did          know.it        how.it.is  Son.of.Raven cunning        imitator                       whatever.he.saw
 People all knew how Raven was: he was cunning and imitated whatever he saw.
@@ -238,7 +238,7 @@ The other people watched him.
 
 # 034
 huḥtak̓at       ʔan  ʔaaʔaayisqaw̓it̓as.
-huḥtak̓at       ʔan  ʔayisaq-(y)a-w̓it̓as
+huḥtak-ʼat     ʔan  ʔayisaq-(y)a-w̓it̓as
 know.how-SHIFT that trick-REP-about.to
 know.it        that he.is.going.to.use.his.tricks
 They knew he was going to trick him (Bear).

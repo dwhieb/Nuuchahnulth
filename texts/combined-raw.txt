@@ -12202,7 +12202,7 @@ ID:           CL1
 
 # 002
 wik'atlquuch wikiichitl ?un'aahh qwishh?aahhii ha?uk.
-wik-'atl-qu:-ch wik-'i*chi(tl) ?u-n'a*hh qwishh?aahhii ha?uk.
+wik-'atl-qu:-ch wik-'i*chi(tl) ?u-n'a*hh qwis\hh-'a:hh-(y)i: ha?uk.
 not-FINITE-COND-INF.3 not-INC it-seeking how-perhaps-INDF.3 eat
 he.wouldnt.do it.stopped looking.for how.he.could eat
 He would never stop looking for something to eat.
@@ -12223,7 +12223,7 @@ Now, he went out for a walk heading to the place where Son of Bear lived, and he
 
 # 005
 haa, yaacpanachitsish, waay'aqstutls yacmaasquus siihhil.
-ha: yac-panach-it-si*s wa*l-'aqstutl-s yac-ma*s-qu:s si:hh-il
+ha: yac-panach-it-si*s wa*l-'aqstutl-s yac-ma*s-qu:s-s si:hh-il
 EXP step-move.about.randomly-PAST-IND.1SG word-inside-1SG step-move-COND-1SG you.all-to
 EXP I.was.walking.around I.thought.to.myself I.would.pay.a.visit to.you.all
 Well! I was walking around, and I thought to myself "I'm going to pay you all a visit," [said Raven].
@@ -12336,7 +12336,7 @@ Oil started dripping from Bear's hands.
 # 021
 k'uushitl'is ?ahh k'amintl ?_am'iitm'inhh?i.
 k'u:-shitl-?is ?ahh k'ama-in(tl) ?_am'i:t-m'inhh-?i*
-short.time-MOM-DIM here-full-MOM clam.shell-PL-DEF
+short.time-MOM-DIM here full-MOM clam.shell-PL-DEF
 after.a.short.while here got.full the.clam.shells
 After a little while the shells got full [with oil].
 
@@ -12364,7 +12364,7 @@ He got greedy.
 # 025
 na?ukshi?atl. ha?ukshi?atl ?u?uiic'at suuhhaa tlaqmis ?uunaqa.
 ha?uk-shitl-'atl ha?uk-shitl-'atl ?u-'i*c-'at su:hha: tlaqmis ?u-naqa
-eat-MOM-FINITE eat-MOM-FINITE it-eat-POSS salmon-oil it-using.as.sauce
+eat-MOM-FINITE eat-MOM-FINITE it-eat-POSS salmon oil it-using.as.sauce
 ate ate eating salmon oil using.as.sauce
 He started eating. He started eating salmon with oil.
 
@@ -12398,7 +12398,7 @@ INTJ go.along Son.of.Bear
 
 # 030
 hishukwatl'at huhhtak'at qwaa?iitq qu?ushinm'it, ?ayisa?_aqtl, c'iic'ikiik qwaan'ak'uuhh?itq.
-hishuk-'atl-'at huhhtak-'at qwa:-?i*tq qu?ushin-m'i*t ?ayisaq-'aqtl DUPCV:0c'i:k-i:k qwa:-in'ak'u:hh-?i*tq
+hishuk-'atl-'at huhhtak-'at qwa:-?i*tq qu?ushin-m'i*t ?ayisaq-'aqtl DUPCV:-c'i:k-i:k qwa:-in'ak'u:hh-?i*tq
 all-FINITE-SHIFT know.how-SHIFT thus-REL.3 raven-son.of decieve-inside ??-imitate-one.who.always.does how-see-REL.3
 all.did know.it how.it.is Son.of.Raven cunning imitator whatever.he.saw
 People all knew how Raven was: he was cunning and imitated whatever he saw.
@@ -12426,7 +12426,7 @@ The other people watched him.
 
 # 034
 huhhtak'at ?an ?aa?aayisqaw'it'as.
-huhhtak'at ?an ?ayisaq-(y)a-w'it'as
+huhhtak-'at ?an ?ayisaq-(y)a-w'it'as
 know.how-SHIFT that trick-REP-about.to
 know.it that he.is.going.to.use.his.tricks
 They knew he was going to trick him (Bear).
