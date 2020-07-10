@@ -3680,7 +3680,7 @@ ID:           CL12
 \trs chuu ?uumac'uk?aqtlsish tl'iic'uumis n'ushitl.
 \m   chu: ?u-mac'uk-?aqtl-si*sh tl'i:c'u:-mis n'ushitl
 \gl  now.then it-talking.about-FUT-IND.1SG feast-thing potlatch
-\wlt now.then I.will.talk.about
+\wlt now.then I.will.talk.about feasts potlatch
 \tln Now, I will talk about feasts and potlatches.
 
 # 002
@@ -3756,7 +3756,7 @@ You would see piles of blankets, flour or whatever.
 # 012
 ?an hhaa?uuyi?aalckwat?aal?al k'ac\hhaq, hapumy'amum?ak sashtup ?ayiichi?atlukquu.
 ?an hha?u:-ayi*-?a:l-ckwi*-'at-?a:l-?a*l k'ac\hhaq hapumy'amum-?a*k sashtup ?aya-`i*chitl-'atl-uk-qu:
-because exchange-give-come.off-happened-SHIFT-always-PL blanket animal.fur-POSS fur-bearing many-INC-FINITE-POSS-COND
+because exchange-give-come.off-happened-SHIFT-always-PL blanket animal.fur-POSS fur.bearing many-INC-FINITE-POSS-COND
 because they.could.repeatedly.get.exchanged.for blanket their.animal.fur animal when.they.get.plenty
 They could get animal furs exchanged for blankets when you get lots.
 

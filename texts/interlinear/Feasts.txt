@@ -6,10 +6,10 @@ abbreviation: Feasts
 ID:           CL12
 ---
 # 001
-\trs čuu      ʔuumac̓ukʔaqƛsiš              ƛ̓iic̓uumis n̓ušiƛ.
-\m   čuː      ʔu-mac̓uk-ʔaqƛ-si·š           ƛ̓iːc̓uː-mis n̓ušiƛ
+\trs čuu      ʔuumac̓ukʔaqƛsiš              ƛ̓iic̓uumis   n̓ušiƛ.
+\m   čuː      ʔu-mac̓uk-ʔaqƛ-si·š           ƛ̓iːc̓uː-mis  n̓ušiƛ
 \gl  now.then it-talking.about-FUT-IND.1SG feast-thing potlatch
-\wlt now.then I.will.talk.about
+\wlt now.then I.will.talk.about            feasts      potlatch
 \tln Now, I will talk about feasts and potlatches.
 
 # 002
@@ -85,7 +85,7 @@ You would see piles of blankets, flour or whatever.
 # 012
 ʔan     ḥaaʔuuyiʔaaɬckʷatʔaaɬʔaɬ                        k̓acḥaq, hapumy̓amumʔak    saštup      ʔayiičiʔaƛukquu.
 ʔan     ḥaʔuː-ayi·-ʔaːɬ-ckʷi·-ʼat-ʔaːɬ-ʔa·ɬ             k̓acḥaq  hapumy̓amum-ʔa·k  saštup      ʔaya-ʽi·čiƛ-ʼaƛ-uk-quː
-because exchange-give-come.off-happened-SHIFT-always-PL blanket animal.fur-POSS  fur-bearing many-INC-FINITE-POSS-COND
+because exchange-give-come.off-happened-SHIFT-always-PL blanket animal.fur-POSS  fur.bearing many-INC-FINITE-POSS-COND
 because they.could.repeatedly.get.exchanged.for         blanket their.animal.fur animal      when.they.get.plenty
 They could get animal furs exchanged for blankets when you get lots.
 
