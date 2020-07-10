@@ -1931,7 +1931,7 @@ oh  at.a.nice.time.you.all             move    said       Son.of.Deer
 # 010
 ʔuqɬaap̓aƛ̓itq          ʔan  wik̓aapʔaƛ̓at           ʔuyaaƛ              hahamutnaq,        ququn̓iḥta,          waaʔaƛ     ƛ̓iixp̓ičḥ.
 ʔuqɬaːp-ʼaƛ-ʔi·tq     ʔan  wik-ʼa·p-ʼaƛ-ʼat      ʔuyi-ʼaƛ            DUPCV-hamu·t-naq   DUP-qun-ʼiḥta       wa·-ʼaƛ    ƛ̓iːxʷ-p̓ičḥ
-thinking-FINITE-REL.3 that not-gain-FINITE-SHIFT at.that.time-FINITE DISTR-bone-fond.of DISTR-bony?-at.nose say.FINITE laugh-doing.while
+thinking-FINITE-REL.3 that not-gain-FINITE-SHIFT at.that.time-FINITE DISTR-bone-fond.of DISTR-bony?-at.nose say-FINITE laugh-doing.while
 when.he.thought       that they.dont.hear.him    at.that.time        bone.eaters        bony.nosed          said       doing.while.giggling
 When he thought that they would not hear him was when he added, “bony nose! bone eater,” he said giggling.
 
@@ -1980,7 +1980,7 @@ He did the same to the other canoe, but he added a little more.
 # 017
 ʔuu ʔuuʔuqʷiiyaʔicuuš                 šiiƛaa    qʷayac̓iikštaqumɬ  waaʔaƛƛa.
 ʔuː DUPCV-ʔu·q-iːya-ʔicuːš            šiːƛ-a·   qʷayac̓iːk-štaqumɬ wa·-ʼaƛ-ƛa·
-oh  DISTR-good.at.the.time.of-IND.2PL move-DUR  wolf-groups       say-FINITE-also
+oh  DISTR-good-at.the.time.of-IND.2PL move-DUR  wolf-groups       say-FINITE-also
 oh  you.are.doing.it.in.a.good.time   moving.to wolf.tribe        he.also.said
 “O-o-oh! You picked a fine day for moving, wolf people,” he said again.
 
@@ -2050,7 +2050,7 @@ he had to do a lot of things the chief wanted him to do.
 # 027
 ʔuušyuuyaƛquuč                     ʔuukčamaɬčiqḥ          qʷayac̓iikm̓inḥʔisʔi.
 ʔuːš-yuːya-ʼaƛ-quː-č               ʔu-kči-amaɬči-(q)ḥ     qʷayac̓iːk-m̓inḥ-ʔis-ʔi·
-some-at.the.time-FINITE-COND-INF.3 they-along-with-??-SIM wolf-PL-DIM-DEF
+some-at.the.time-FINITE-COND-INF.3 they-along.with-??-SIM wolf-PL-DIM-DEF
 sometimes.he.would                 he.did.together.with   the.wolf.cubs
 Sometimes he had to play with the little wolves.
 
@@ -2085,7 +2085,7 @@ The night came and the wolf tribe were going to bed.
 # 032
 čukʷaa    muwaačm̓eet, nunuukčip̓isak                waʔičuʔaaḥs,             waaʔaƛ     ḥaw̓iɬʔi.
 čukʷaː    muwač-m̓it   nunuːk-či·p-ʼi·s-ʔa·k        waʔič-u(ƛ)-ʼaːḥ-s        wa·-ʼaƛ    ḥaw̓iɬ-ʔi·
-come-here deer-son.of singing-for-IMP.2SG>1SG-POSS sleeping-MOM-so.that-1SG say-FINITE chief-DEF
+come.here deer-son.of singing-for-IMP.2SG>1SG-POSS sleeping-MOM-so.that-1SG say-FINITE chief-DEF
 come.here Son.of.Deer sing.to.me                   so.I.can.sleep           said       the.chief
 “Come here, Son of Deer. Sing to me so I can go to sleep,” said the chief.
 
@@ -2120,9 +2120,9 @@ first.do.it  move.up.a.little.bit.on.the.floor             said       Son.of.Dee
 # 037
 nunuukšiƛ   huʔaas,  kuw̓iɬaƛ     ʕaqc̓aqḥšiƛ.
 nunuːk-šiƛ  huʔa-aːs kuw̓iɬa-ʼaƛ  ʕaq-c̓aqḥ-šiƛ
-singing-MOM again    obey-FINITE make.loud.noise-??-MOM
+singing-MOM again-?? obey-FINITE make.loud.noise-??-MOM
 sing        again    do.as.told  sang.louder
-He started to sing agian; he sang louder as told.
+He started to sing again; he sang louder as told.
 
 # 038
 waʔičuƛ      ḥaw̓iɬʔi,  ḥuuptšiƛ.
@@ -2295,7 +2295,7 @@ They thought about what should be done.
 # 062
 čuu ʔaʔaatuuʔin   ʔak̓uɬatqʷin              ʔučqc̓uuʔakʔi        ʕaanism̓it.
 čuː ʔaʔaːtuː-ʼin  ʔak̓uɬi-ʼat-qʷin          ʔučq-c̓u·-ʔa·k-ʔi·   ʕaːnis-m̓i·t
-OK  ask-IMP.1PL-3 lend-SHIFT-COND.1PL      fog-inside-POSS-DEF crane-son.of
+OK  ask-IMP.1PL>3 lend-SHIFT-COND.1PL      fog-inside-POSS-DEF crane-son.of
 OK  lets.ask      so.that.he.lend.it.to.us his.fog.bag         Son.of.Crane
 “OK, let’s ask Son of Crane to lend us his fog bag.”
 
@@ -2505,15 +2505,15 @@ They did just that — leaving his stomach of Son of Deer on the beach.
 # 092
 ʔunw̓iiƛ̓atʔaaɬ              ʔanaasiny̓ap̓at                              taač̓a mukʷiip̓aƛ̓atquu.
 ʔunw̓iːƛ-ʼat-ʔaːɬ           ʔana-ʼis-iny̓u-ʼap-ʼat                      taːč̓a muk-iːp-ʼaƛ-ʼat-quː
-because.of-SHIFT-always    only-on.the.beach-left-behind-MOMCAUS-POSS belly deer-obtain-FINITE-SHIFT-COND
+because.of-SHIFT-always    only-on.the.beach-left.behind-MOMCAUS-POSS belly deer-obtain-FINITE-SHIFT-COND
 that.is.why.they.always.do one.just.leave.it                          belly when.you.get.deer
 That is the reason you leave only the stomach of the deer on the beach when you get deer.
 
 # 093
-ḥaaḥuupay̓ak         —             wiksuuk               suukʷinkḥi                 yaaʕaaɬčiqḥʔitk   quuʔas.                             ḥaʔukʷiƛcumʔatʔick     ʔuusḥhʔat.
-ḥaːḥuːp-(y)a·-y̓akʷ  —             wik-suːk              sukʷink-ḥi·                yaq-ʼa·ɬčiqḥ-ʔitk quːʔas                              ḥaʔu-kʷiƛ-cum-ʼat-ʔuck ʔuːš-(q)ḥ-ʼat
-teaching-DUR-device not-2SG       put.a.person.down-DUR who-together.with-POSS.2SG person            do.in.turn-MOM-should-SHIFT-IND.2SG some-SIM-SHIFT
-teachings           dont.you.ever put.down              your.fellowmen             person            he.may.pay.you.back                 by.someone
+ḥaaḥuupay̓ak         — wiksuuk       suukʷinkḥi            yaaʕaaɬčiqḥʔitk            quuʔas. ḥaʔukʷiƛcumʔatʔick                  ʔuusḥhʔat.
+ḥaːḥuːp-(y)a·-y̓akʷ  — wik-suːk      sukʷink-ḥi·           yaq-ʼa·ɬčiqḥ-ʔitk          quːʔas  ḥaʔu-kʷiƛ-cum-ʼat-ʔuck              ʔuːš-(q)ḥ-ʼat
+teaching-DUR-device — not-2SG       put.a.person.down-DUR who-together.with-POSS.2SG person  do.in.turn-MOM-should-SHIFT-IND.2SG some-SIM-SHIFT
+teachings           — dont.you.ever put.down              your.fellowmen             person  he.may.pay.you.back                 by.someone
 Lecture — Don’t try to make fools of your fellow men. Someone might pay you back.
 ---
 title:
@@ -13396,7 +13396,7 @@ There was a precipice behind the village: it was high, it was probably high.
 maasuuɬšiʔaƛƛa        qʷayac̓iikʔi,  muup̓itʔaƛ.
 maːsuːɬ-ši(ƛ)-ʼaƛ-ƛa· qʷayac̓iːk-ʔi· muː-p̓it-ʼaƛ
 howl-MOM-FIN-again    wolf-DEF      four-times-FIN
-they.howled.agian     the.wolves    did.four.times
+they.howled.again     the.wolves    did.four.times
 Again the Wolves howled four times.
 
 # 032
