@@ -13436,7 +13436,7 @@ The wolves howled again. The wolves were many.
 
 # 037
 chuu, ciqsi?at.
-chu: ciq-shi(tl)?at
+chu: ciq-shi(tl)-'at
 now.then speak-MOM-SHIFT
 now.then be.spoken.to
 Then, they spoke to him.
@@ -13521,7 +13521,7 @@ It was the other young man. It might have been the younger brother.
 # 049
 qalaatik waa?at [younger brother], taayii waa?at m'aam'iiqsu [older brother].
 qala:tik wa:-'at ~ ta:yi: wa:-'at m'a:m'i*qsu ~
-younger.brother say-SHIFT ~ oldest.brother say-SHIFT elder.brother
+younger.brother say-SHIFT ~ oldest.brother say-SHIFT elder.brother ~
 younger.brother it.is.said ~ oldest.brother it.is.said elder.brother ~
 We say _qaɬaatik_ for “younger brother” and _taayii_ or _m̓aam̓iiqsu_ for “older brother”.
 
@@ -13625,7 +13625,7 @@ They heard the wolves that were remaining there for a long time — it could hav
 
 # 064
 hin?ay'aqtl ?in ?uyaa hiitkin, hiitkin n'aas.
-hin-?al-'aqtl ?in'uya: hi:tkin hi:tkin n'a:s
+hin-?al-'aqtl ?in ?uya: hi:tkin hi:tkin n'a:s
 there.MOM-aware.of-inside because peculiar strange strange day
 alert because peculiar strange strange day
 The people were alert because it was peculiar and strange — it was a strange day every day .
@@ -13780,7 +13780,7 @@ Then the moon began to wax (the new moon cycle had begun): Full Moon, you could 
 # 087
 hey wik'atl wiinaputl saayaa.
 ~ wik-'atl wi:nap-u(tl) saya*-L
-not-FIN stopping-MOM far-GRAD?
+~ not-FIN stopping-MOM far-GRAD?
 ~ didnt stop very.far.away
 They didn't have to stop for long distances.
 
@@ -13793,7 +13793,7 @@ The journey had been continuing for a long time. And it had been four months [si
 
 # 089
 ?unc'ukwis muuquml hupal.
-?unc'uk-?is mu:quml hupal
+?unc'uk-?is mu:-quml hupal
 how.long.it.takes-on.the.beach four-round.objects moon
 this.is.how.long.it.took.along.the.coast four.months moon
 They traveled along the coast for four months.
@@ -14178,7 +14178,7 @@ People knew that they (wolves and the young man) would return to the village acc
 
 # 144
 hinalachi?atl ?iqyuuya.
-hin-ala-chi(tl) ?iq-yu:ya
+hin-ala-chi(tl)-'atl ?iq-yu:ya
 there.MOM-attach.on-MOM-FIN same-at.the.time
 the.moon.began.to.wax it.was.very.same.time
 It was at the beginning of the new moon cycle (when the moon is crescent): the same time as they left.
@@ -14291,7 +14291,7 @@ Now, it became daylight on the fourth day.
 # 160
 sacsuhhtawa?ish qwayac'iik yaqii ?apquu?a. yaqii ?apquu?a.
 sa-csuhhta-wa*?i*sh qwayac'i:k yaqw-(y)i: ?ap-qu:-'a* yaqw-(y)i: ?ap-qu:-'a*
-crawl-come-out.of.the.woods-QUOT.3 wolf which-INDF.3 LOC-at.a.point-on.the.rock which-INDF.3 LOC-at.a.point-on.the.rock
+crawl-come.out.of.the.woods-QUOT.3 wolf which-INDF.3 LOC-at.a.point-on.the.rock which-INDF.3 LOC-at.a.point-on.the.rock
 crawled.out.of.the.woods wolf wherever at.the.rocky.point wherever at.the.rocky.point
 The wolves crawled out of the woods to the rocky point.
 
@@ -14353,7 +14353,7 @@ The wolves jumped into the water.
 
 # 169
 hisshi?atlquuch, m'achi?atlatukquuch hisy'akuk?i, hinaahhin?at.
-his-shi(tl)-'atl-qu:ch m'a-chi(tl)-'atl-'at-uk-qu:-ch his-y'ak-uk-?i* hin-a*hhin-'at
+his-shi(tl)-'atl-qu:-ch m'a-chi(tl)-'atl-'at-uk-qu:-ch his-y'ak-uk-?i* hin-a*hhin-'at
 beat-MOM-FIN-COND.3-INF bite-MOM-FIN-SHIFT-DUR-COND.3-INF beat-instrument-POSS-DEF there.MOM-deprive.of-SHIFT
 they.would.hit.him would.have.been.bitten their.club they.take.away
 People tried to club the wolves, but the wolves would bite the clubs and take them away.
@@ -14397,7 +14397,7 @@ The young man was taken away.
 chuu, waa?atl ?iichim?i, wik?aqtl'ick ?iiqhhuk, wik?aqtl'ick ?iiqhhuk, qwis?anitiik n'upq?ichhh. ?uuc\hha?aqtl'ick n'upchiil.
 chu: wa:-'atl ?i:chim-?i* wik-'aqtl-?ick ?i:qhh-uk wik-'aqtl-?ick ?i:qhh-uk qwis-'at-it-(y)i:k n'up-q?ichhh ?u-c\hha-'aqtl-?ick n'up-chi*l
 now.then say-FIN very.old-DEF not-FUT-IND.2SG telling-DUR not-FUT-IND.2SG telling-DUR do.so-SHIFT-PAST-INDF.2SG one-year it-go.in.order.to-FUT-IND.2SG one-days.long
-now.then he.said.it the.elder you.shall.not tell you.shall.not tell whatever they.did.to.you one.year shall.be.gone.for.it one.day
+now.then he.said.it the.elder you.shall.not tell you.shall.not tell whatever.they.did.to.you one.year shall.be.gone.for.it one.day
 "Listen," the elder said, "Do not tell whatever they have done to you to anybody for one year. You will be away for one year."
 
 # 176
@@ -14494,7 +14494,7 @@ They are close to us.
 # 189
 qwaatlaa niitiina?athh. ?aya ?uuy'aashhhy'ims. hha?ii niiyaa, ?uuy'aashhy'ims. yaaqwil?itq re\latives waa?at. Re\lation. hha?ii.
 qwa:tla: ni:ti:na?athh ?aya ?u:y'a:sh-hhy'u*-ims hha-?i: ni:ya: ?u:y'a:sh-hhy'u*-ims yaqw-(ch)il-?i*tq ~ wa:-'at ~ hha-?i:
-also Nitinat many??-related.to-?? completely-reach Neah.Bay??-related.to-?? who-with.ref.to-REL.3 ~ say-SHIFT ~ completely-reach
+also Nitinat many ??-related.to-?? completely-reach Neah.Bay ??-related.to-?? who-with.ref.to-REL.3 ~ say-SHIFT ~ completely-reach
 also Nitinat many relatives as.far.as Neah.Bay relatives to.whom ~ it.is.said ~ go.all.the.way
 Also Nitinat [are close]. There are many relatives. All the way down to Neah Bay there are our relatives.
 
@@ -14640,7 +14640,7 @@ There was something strange about his ear — it was like this [the ear was down
 
 # 209
 haa, wik?aqtls suutil wiiqhhap waa?atl, wik?aqtls suutil wiiqhhap.
-ha: wik-'aqtl-s sut-(ch)il wi:q-hhap wa:-'atl wik-'aqtl-s sut-(ch)il wi:q-hhap
+~ wik-'aqtl-s sut-(ch)il wi:q-hhap wa:-'atl wik-'aqtl-s sut-(ch)il wi:q-hhap
 ~ not-FUT-1SG you-doing.to unpleasant-do? say-FIN not-FUT-1SG you-doing.to do.harm-??
 ~ I.will.not to.you do.harm said I.will.not to.you do.harm
 "I will not harm you," I said.

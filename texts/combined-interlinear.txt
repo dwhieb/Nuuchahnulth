@@ -13436,7 +13436,7 @@ The wolves howled again. The wolves were many.
 
 # 037
 čuu,     ciqsiʔat.
-čuː      ciq-ši(ƛ)ʔat
+čuː      ciq-ši(ƛ)-ʼat
 now.then speak-MOM-SHIFT
 now.then be.spoken.to
 Then, they spoke to him.
@@ -13521,7 +13521,7 @@ It was the other young man. It might have been the younger brother.
 # 049
 qaɬaatik        waaʔat     [younger brother] ,              taayii     waaʔat        m̓aam̓iiqsu [oɬder brother] .
 qaɬaːtik        waː-ʼat    ~                 taːyiː         waː-ʼat    m̓aːm̓i·qsu     ~
-younger.brother say-SHIFT  ~                 oldest.brother say-SHIFT  elder.brother
+younger.brother say-SHIFT  ~                 oldest.brother say-SHIFT  elder.brother ~
 younger.brother it.is.said ~                 oldest.brother it.is.said elder.brother ~
 We say _qaɬaatik_ for “younger brother” and _taayii_ or _m̓aam̓iiqsu_ for “older brother”.
 
@@ -13625,7 +13625,7 @@ They heard the wolves that were remaining there for a long time — it could hav
 
 # 064
 hinʔay̓aqƛ                 ʔin     ʔuyaa    hiitkin, hiitkin n̓aas.
-hin-ʔaɬ-ʼaqƛ              ʔin̓uyaː hiːtkin  hiːtkin  n̓aːs
+hin-ʔaɬ-ʼaqƛ              ʔin     ʔuyaː    hiːtkin  hiːtkin n̓aːs
 there.MOM-aware.of-inside because peculiar strange  strange day
 alert                     because peculiar strange  strange day
 The people were alert because it was peculiar and strange — it was a strange day every day .
@@ -13778,10 +13778,10 @@ then       the.moon.began.to.wax         ~           you.could.say    full.circl
 Then the moon began to wax (the new moon cycle had begun): Full Moon, you could say; the moon was perfectly round.
 
 # 087
-hey     wik̓aƛ        wiinapuƛ    saayaa.
-~       wik-ʼaƛ      wiːnap-u(ƛ) saya·-L
-not-FIN stopping-MOM far-GRAD?
-~       didnt        stop        very.far.away
+hey wik̓aƛ   wiinapuƛ     saayaa.
+~   wik-ʼaƛ wiːnap-u(ƛ)  saya·-L
+~   not-FIN stopping-MOM far-GRAD?
+~   didnt   stop         very.far.away
 They didn’t have to stop for long distances.
 
 # 088
@@ -13793,7 +13793,7 @@ The journey had been continuing for a long time. And it had been four months [si
 
 # 089
 ʔunc̓ukʷis                                muuqumɬ            hupaɬ.
-ʔunc̓uk-ʔis                               muːqumɬ            hupaɬ
+ʔunc̓uk-ʔis                               muː-qumɬ           hupaɬ
 how.long.it.takes-on.the.beach           four-round.objects moon
 this.is.how.long.it.took.along.the.coast four.months        moon
 They traveled along the coast for four months.
@@ -14178,7 +14178,7 @@ People knew that they (wolves and the young man) would return to the village acc
 
 # 144
 hinaɬačiʔaƛ                 ʔiqyuuya.
-hin-aɬa-či(ƛ)               ʔiq-yuːya
+hin-aɬa-či(ƛ)-ʼaƛ           ʔiq-yuːya
 there.MOM-attach.on-MOM-FIN same-at.the.time
 the.moon.began.to.wax       it.was.very.same.time
 It was at the beginning of the new moon cycle (when the moon is crescent): the same time as they left.
@@ -14291,7 +14291,7 @@ Now, it became daylight on the fourth day.
 # 160
 sacsuḥtawaʔiš                      qʷayac̓iik yaqii        ʔapquuʔa.                  yaqii        ʔapquuʔa.
 sa-csuḥta-wa·ʔi·š                  qʷayac̓iːk yaqʷ-(y)iː   ʔap-quː-ʼa·                yaqʷ-(y)iː   ʔap-quː-ʼa·
-crawl-come-out.of.the.woods-QUOT.3 wolf      which-INDF.3 LOC-at.a.point-on.the.rock which-INDF.3 LOC-at.a.point-on.the.rock
+crawl-come.out.of.the.woods-QUOT.3 wolf      which-INDF.3 LOC-at.a.point-on.the.rock which-INDF.3 LOC-at.a.point-on.the.rock
 crawled.out.of.the.woods           wolf      wherever     at.the.rocky.point         wherever     at.the.rocky.point
 The wolves crawled out of the woods to the rocky point.
 
@@ -14353,7 +14353,7 @@ The wolves jumped into the water.
 
 # 169
 hisšiʔaƛquuč,           m̓ačiʔaƛatukquuč                   hisy̓akukʔi,              hinaaḥinʔat.
-his-ši(ƛ)-ʼaƛ-quːč      m̓a-či(ƛ)-ʼaƛ-ʼat-uk-quː-č         his-y̓ak-uk-ʔi·           hin-a·ḥin-ʼat
+his-ši(ƛ)-ʼaƛ-quː-č     m̓a-či(ƛ)-ʼaƛ-ʼat-uk-quː-č         his-y̓ak-uk-ʔi·           hin-a·ḥin-ʼat
 beat-MOM-FIN-COND.3-INF bite-MOM-FIN-SHIFT-DUR-COND.3-INF beat-instrument-POSS-DEF there.MOM-deprive.of-SHIFT
 they.would.hit.him      would.have.been.bitten            their.club               they.take.away
 People tried to club the wolves, but the wolves would bite the clubs and take them away.
@@ -14394,10 +14394,10 @@ was.taken.along the.young.man
 The young man was taken away.
 
 # 175
-čuu,     waaʔaƛ     ʔiičimʔi,    wikʔaqƛ̓ick      ʔiiqḥuk,    wikʔaqƛ̓ick      ʔiiqḥuk,    qʷisʔanitiik              n̓upqʔičḥ.       ʔuucḥaʔaqƛ̓ick                 n̓upčiiɬ.
-čuː      waː-ʼaƛ    ʔiːčim-ʔi·   wik-ʼaqƛ-ʔick   ʔiːqḥ-uk    wik-ʼaqƛ-ʔick   ʔiːqḥ-uk    qʷis-ʼat-it-(y)iːk        n̓up-qʔičḥ       ʔu-cḥa-ʼaqƛ-ʔick              n̓up-či·ɬ
-now.then say-FIN    very.old-DEF not-FUT-IND.2SG telling-DUR not-FUT-IND.2SG telling-DUR do.so-SHIFT-PAST-INDF.2SG one-year        it-go.in.order.to-FUT-IND.2SG one-days.long
-now.then he.said.it the.elder    you.shall.not   tell        you.shall.not   tell        whatever                  they.did.to.you one.year                      shall.be.gone.for.it one.day
+čuu,     waaʔaƛ     ʔiičimʔi,    wikʔaqƛ̓ick      ʔiiqḥuk,    wikʔaqƛ̓ick      ʔiiqḥuk,    qʷisʔanitiik              n̓upqʔičḥ. ʔuucḥaʔaqƛ̓ick                 n̓upčiiɬ.
+čuː      waː-ʼaƛ    ʔiːčim-ʔi·   wik-ʼaqƛ-ʔick   ʔiːqḥ-uk    wik-ʼaqƛ-ʔick   ʔiːqḥ-uk    qʷis-ʼat-it-(y)iːk        n̓up-qʔičḥ ʔu-cḥa-ʼaqƛ-ʔick              n̓up-či·ɬ
+now.then say-FIN    very.old-DEF not-FUT-IND.2SG telling-DUR not-FUT-IND.2SG telling-DUR do.so-SHIFT-PAST-INDF.2SG one-year  it-go.in.order.to-FUT-IND.2SG one-days.long
+now.then he.said.it the.elder    you.shall.not   tell        you.shall.not   tell        whatever.they.did.to.you  one.year  shall.be.gone.for.it          one.day
 “Listen,” the elder said, “Do not tell whatever they have done to you to anybody for one year. You will be away for one year.”
 
 # 176
@@ -14492,10 +14492,10 @@ there to.us                  near
 They are close to us.
 
 # 189
-qʷaaƛaa niitiinaʔatḥ. ʔaya                 ʔuuy̓aasḥhy̓ims.   ḥaʔii                    niiyaa,               ʔuuy̓aasḥy̓ims.    yaaqʷiɬʔitq      relatives waaʔat.          Relation. ḥaʔii.
-qʷaːƛaː niːtiːnaʔatḥ  ʔaya                 ʔuːy̓aːš-ḥy̓u·-ims ḥa-ʔiː                   niːyaː                ʔuːy̓aːš-ḥy̓u·-ims yaqʷ-(č)iɬ-ʔi·tq ~         waː-ʼat          ~         ḥa-ʔiː
-also    Nitinat       many??-related.to-?? completely-reach Neah.Bay??-related.to-?? who-with.ref.to-REL.3 ~                say-SHIFT        ~         completely-reach
-also    Nitinat       many                 relatives        as.far.as                Neah.Bay              relatives        to.whom          ~         it.is.said       ~         go.all.the.way
+qʷaaƛaa niitiinaʔatḥ. ʔaya ʔuuy̓aasḥhy̓ims.   ḥaʔii            niiyaa,  ʔuuy̓aasḥy̓ims.    yaaqʷiɬʔitq           relatives waaʔat.    Relation. ḥaʔii.
+qʷaːƛaː niːtiːnaʔatḥ  ʔaya ʔuːy̓aːš-ḥy̓u·-ims ḥa-ʔiː           niːyaː   ʔuːy̓aːš-ḥy̓u·-ims yaqʷ-(č)iɬ-ʔi·tq      ~         waː-ʼat    ~         ḥa-ʔiː
+also    Nitinat       many ??-related.to-?? completely-reach Neah.Bay ??-related.to-?? who-with.ref.to-REL.3 ~         say-SHIFT  ~         completely-reach
+also    Nitinat       many relatives        as.far.as        Neah.Bay relatives        to.whom               ~         it.is.said ~         go.all.the.way
 Also Nitinat [are close]. There are many relatives. All the way down to Neah Bay there are our relatives.
 
 # 190
@@ -14640,7 +14640,7 @@ There was something strange about his ear — it was like this [the ear was down
 
 # 209
 haa, wikʔaqƛs    suutiɬ       wiiqḥap        waaʔaƛ, wikʔaqƛs    suutiɬ       wiiqḥap.
-haː  wik-ʼaqƛ-s  sut-(č)iɬ    wiːq-ḥap       waː-ʼaƛ wik-ʼaqƛ-s  sut-(č)iɬ    wiːq-ḥap
+~    wik-ʼaqƛ-s  sut-(č)iɬ    wiːq-ḥap       waː-ʼaƛ wik-ʼaqƛ-s  sut-(č)iɬ    wiːq-ḥap
 ~    not-FUT-1SG you-doing.to unpleasant-do? say-FIN not-FUT-1SG you-doing.to do.harm-??
 ~    I.will.not  to.you       do.harm        said    I.will.not  to.you       do.harm
 “I will not harm you,” I said.
