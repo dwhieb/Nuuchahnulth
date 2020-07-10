@@ -1,3 +1,7 @@
+/* eslint-disable
+  no-await-in-loop,
+*/
+
 import convert       from '@digitallinguistics/scription2dlx';
 import createSpinner from 'ora';
 import fs            from 'fs-extra';
@@ -22,7 +26,7 @@ async function convertTexts() {
   const filenames   = await readDir(`texts/interlinear`);
   const progressBar = new ProgressBar(`:bar :current :total :percent :eta`, { total: filenames.length });
 
-  await Promise.all(filenames.map(async filename => {
+  for (let filename of filenames) {
 
     const options = {
       alignmentError: true,
@@ -32,12 +36,12 @@ async function convertTexts() {
     const text = await readFile(`texts/interlinear/${filename}`, `utf8`);
     const json = convert(text, options);
 
-    filename = filename.replace(`.txt`, `.json`); // eslint-disable-line no-param-reassign
+    filename = filename.replace(`.txt`, `.json`);
     await writeJSON(`texts/json/${filename}`, json, { spaces: 2 });
 
     progressBar.tick();
 
-  }));
+  }
 
 }
 

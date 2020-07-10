@@ -61,7 +61,7 @@ please.do watch.over so.it.moves.properly.in.the.air fall and wherever.it.will.l
 
 # 009
 qu?ac'aqtl, wikyuuquu quw'iitl such'as?i ch'aapaciilma?_uk ?_iiq?_atl, "[huu! huu!]".
-qu?ac-'aqtl wik-yu*-qu: ?uxw-'i*tl such'as-?i* ch'apac0i:l-ma?_uk ?_iq-?_atl ~
+qu?ac-'aqtl wik-yu*-qu: ?uxw-'i*tl such'as-?i* ch'apac-i:l-ma?_uk ?_iq-?_atl ~
 human-inside not-have.done-COND.3 topple.over-on.the.ground tree-DEF canoe-make-one.skilled.in yell.out-make.sound ~
 there.is.a.man.inside before fell.on.the.ground the.tree canoe.maker cries ~
 There is a man inside. Before felling the tree, the canoe make cries "ho! ho!"
@@ -83,7 +83,7 @@ You want it to leave the tree [that is about to be felled].
 # 012
 ch'ihhsuuqtltisim tl'i?iiktl'ika hiistitl ?ucachitl kukwiniksi.
 ch'ihh-su*qtl-tisim tl'i?i:ktl'ika hista-'i(tl) ?u-ca-chi(tl) kukwiniksi
-spirit-inside.the.body-?? elbow-joints there-start.from it-go.to-MOM hand
+spirit-inside.the.body-?? elbow.joints there-start.from it-go.to-MOM hand
 spirit.inside elbow.joints from to hand
 The spirit inside [the tree] is [as tall as] from the elbow to the fingertips.
 
@@ -152,7 +152,7 @@ Look over the way it is on the ground, examining [it] — "eyeballing [it]" — 
 
 # 022
 kachi?at ?uunamahhsap'at?itq ch'apac, qacc'iil, muuy'al, such'iil, n'upuul, ?atlpuul, ?atlakwal, c'awaakwal, hhayu, hhayup'it, hiikwal, quushcpaamatak sixty feet hhayup'it?at  laahhshi?at.
-ka-chi(tl)-'at ?u:na-mahhsa-'ap-'at-?i*tq ch'apac qacc'a-i*l mu:y'al such'a-i*l n'upu-i*l ?atlpu-i*l ?atlakwal c'awa:kwal hhayu hhayu-p'it hi:kwal ?u:sh-cpa*-matak ~ ~ hhayu-p'it-'at la:hh-shi(tl)-'at
+ka-chi(tl)-'at ?u:na-mahhsa-'ap-'at-?i*tq ch'apac qacc'a-i*l mu:-y'al such'a-i*l n'upu-i*l ?atlpu-i*l ?atlakwal c'awa:kwal hhayu hhayu-p'it hi:kwal ?u:sh-cpa*-matak ~ ~ hhayu-p'it-'at la:hh-shi(tl)-'at
 measure-MOM-SHIFT size-desiring.to-CAUS-SHIFT-REL.3 canoe three-fathoms four-fathroms five-fathoms six-fathoms seven-fathoms eight nine ten ten-times nearly some-pass-probably ~ ~ ten-times-POSS extend.the.arms-MOM-POSS
 one.measures how.long.it.is.wanted.to.be canoe three.fathoms four.fathoms five.fathoms six.fathoms seven.fathoms eight nine ten ten.times nearly probably.a.little.over ~ ~ ten.times.of.his extend.ones.arms
 Measure how long you want to have the canoe: three fathoms, four fathoms, five fathoms, six fathoms, seven fathsom, eight, nine, ten, ten times — almost…, maybe a little over sixty feet — ten stretches of the arm.
@@ -194,7 +194,7 @@ The axe and adze were used long ago.
 
 # 028
 ?ahh?aa?atl ?ahh, mamaln'i ?uusatukuk?i ma\shiin, powersaw ?uuhhw'al?atl tlahh, tlahh kathhhak?i.
-?ahh?a:-'atl ?ahh ma-mal-n'i* ?u:sa-a*tuk-uk-?i* mashi:n powersaw ?u-hhw'al-'atl tlahh tlahh katlhh-ak-?i*
+?ahh?a:-'atl ?ahh ma-mal-n'i* ?u:sa-a*tuk-uk-?i* mashi:n ~ ?u-hhw'al-'atl tlahh tlahh katlhh-ak-?i*
 then-FIN this dwell-move-come loud-making.sound.of-POSS-DEF machine ~ it-using-FIN now now daylight-DUR-DEF
 and.then this white.man making.loud.noise machine ~ use.it now now daylight
 But now, they use the whiteman's noise-making machine, a powersaw, nowadays.
@@ -264,7 +264,7 @@ They used it at the time of the Flood.
 
 # 036
 waa, ?ahh?aa?atl ?_as?_asshitl'asatlitquu. ?_as?_assh waa?at, ?_aasuk. ch'aahhch'aahha.
-wa*?ahh?a:-'atl DUP#-?_as-sh-shi(tl)-'as-'atl-it-qu: DUP#-?_as-sh wa*-'at ?_a:s-uk DUP#-ch'ahh-(y)a
+wa* ?ahh?a:-'atl DUP#-?_as-sh-shi(tl)-'as-'atl-it-qu: DUP#-?_as-sh wa*-'at ?_a:s-uk DUP#-ch'ahh-(y)a
 and this-FIN IT-do.carpenter.work-SPOR-MOM-on.the.ground-FIN-PAST-COND.3 IT-do.carpenter.work-SPOR say-SHIFT do.carpenter.work-DUR IT-cut.with.adze-REP
 and then when.carpentrying.a.canoe doing.carpenter.work it.is.called working.on.canoe cutting.with.an.adze
 And then, when you work on a canoe, you say _ʕaʕasš_ ('doing carpenter's work'), _ʕaasuk_ ('working on a canoe'), or _č̓aaḥč̓aaḥa_ ('cutting with an adze').
@@ -411,7 +411,7 @@ It may only take one day;
 ?uusaahhi ?in wikcuk?ic'atl [power saw] ?uuhhw'al?at, mamuuk
 ?u-sa*hhi ?in wik-cuk-?ic-'atl ~ ?u-hhw'al-'at mamu:k
 it-because.of that not-needing-DIM-FIN ~ it-using-SHIFT working
-because.of.it that it.is.easy one.uses working
+because.of.it that it.is.easy ~ one.uses working
 because it is so simple using a power saw to work.
 
 # 059
@@ -466,7 +466,7 @@ Then you drill holes, maybe three: you start from the middle of the vessel.
 
 # 068
 ?unaak'at kach'ak. qwit'amahhsak?itk ?uuktis?at ?unahh?itq ch'apac.
-?u-na*k-'at ka-ch'ak qwit'a-mahhsa-?a*k-?i*tk ?u-ktis-'at
+?u-na*k-'at ka-ch'ak qwit'a-mahhsa-?a*k-?i*tk ?u-ktis-'at ?una-hh-?i*tq ch'apac
 it-having-SHIFT measure-instruments thickness-desiring.to-POSS-REL.2SG it-acting.by-SHIFT that.much-size-REL.3 canoe
 one.has.it measuring.stick thickness.is.up.to.you according.to.it size.of canoe
 Take a measuring stick and measure however thick you want it to be on the basis of the length of the canoe.
@@ -545,7 +545,7 @@ When it gets at the right thickness (= when you finish adjusting thickness), [yo
 # 086
 chuu, tlaam'aqshi?atlquu. taapiilsap'at, taapiilsap'at.
 chu: tla:m'aq-shi(tl)-'atl-qu: ta:-pi*l-sa*p-'at ta:-pi*l-sa*p-'at
-now.then partly.finished.canoe-MOM-FIN-COND.3 sticking.out-extending.across-MOMCAUS-SHIFT
+now.then partly.finished.canoe-MOM-FIN-COND.3 sticking.out-extending.across-MOMCAUS-SHIFT sticking.out-extending.across-MOMCAUS-SHIFT
 now.then it.became.partly.finished one.puts.braces.across one.puts.braces.across
 Now, the piece becomes _ƛaam̓aqak_ (= when the piece gets shaped into a canoe), put braces across (like thwarts) [to widen the canoe].
 
@@ -580,7 +580,7 @@ Do it early.
 # 092
 huu?ak'at ?acshi?at,
 hu:?ak-'at ?ac-shi(tl)-'at
-early-SHIFT go-fishing-MOM-SHIFT
+early-SHIFT go.fishing-MOM-SHIFT
 do.early go.out.fishing
 Go out fishing early.
 
@@ -692,7 +692,7 @@ Now drag the canoe on the beach to the dry land.
 # 112
 chuu ?ahh?aa?atl ?aq?ishtiik walyaqpi?atl ha?ukw'ap'atl yaayaaquumt?itq.
 chu: ?ahh?a:-'atl ?aqi-?isht-(y)i:k wal-yaq-pi(tl)-'atl ha?uk-'ap-'atl DUP:-yaqw-u:-imt-?i*tq
-now.then then-FIN what-??-INDF.2SG go.home-having.done-in.the.house-FIN eat-CAUS-FIN ??-who-acting.together-with-PAST-REL.3
+now.then then-FIN what-??-INDF.2SG go.home-having.done-in.the.house-FIN eat-CAUS-FIN ??-who-acting.together.with-PAST-REL.3
 now.then and.then what.you.might.call having.arrived.home feeds.them one.who.did.it.together
 Then, at home you feed the people who helped you.
 
@@ -769,8 +769,8 @@ He was laughing saying that (lit. This is when he was laughing), Charlie Jones, 
 
 # 124
 waa, chuu, chim?ii?atlquu  ?ahh?aa?atlit ch'ahhshi?attla.
-wa* chu: chim-?i*(tl)-'atl-qu: ?ahh?a:-'atl-it ch'ahh-shi(tl)-'at-tla*
-and now.then proper-on.the.ground.MOM-FIN.COND.3 then-FIN-PAST adze-MOM-SHIFT-again
+wa* chu: chim-'i*(tl)-'atl-qu: ?ahh?a:-'atl-it ch'ahh-shi(tl)-'at-tla*
+and now.then proper-on.the.ground.MOM-FIN-COND.3 then-FIN-PAST adze-MOM-SHIFT-again
 and now.then when.it.is.positioned.on.the.ground.properly then one.hews.it.out.again
 And then, when the canoe is put in the proper position on the ground, you hew it out again.
 
@@ -868,8 +868,8 @@ I was good at both left- and right-handed adzing.
 # 140
 haa qwaa?ish?aal yaquusi chamihhta quu?as.
 ha: qwa:-?i*sh-?a:l yaqw-u:si chamihhta qu:?as
-~ thus-IND.3-always who-REL.DUB.3 proper person
-~ it.is.so who.he.might proper person
+DISC thus-IND.3-always who-REL.DUB.3 proper person
+DISC it.is.so who.he.might proper person
 That is how an experienced man is.
 
 # 141
@@ -1183,7 +1183,7 @@ Then when you drive the V-wedge in, [the split end of doweling] spreads apart in
 
 # 190
 qwaatlaa hilsp'ii?i, qwaa?ap'at ?ahh?aa.
-qwa:tla: h il-sp'i*-?i* qwa:-'ap-'at ?ahh?a:
+qwa:tla: hil-sp'i*-?i* qwa:-'ap-'at ?ahh?a:
 also there-on.top-DEF thus-CAUS-SHIFT this
 also the.top how.one.does this
 The top piece is done in the same way.
@@ -1227,7 +1227,7 @@ Take your time. Don't rush.
 [Take your time.] [Take your time.] waa?atlquuch, Char\lie. (tluultluula?i.) wik'ii ?aa?aa?isha. wik'ii ?aa?aa?isha.
 ~ ~ wa:-'atl-qu:-ch ~ DUP#-tlu:l-(y)a-?i* wik-?i* ?a:?a:?isha* wik-?i* ?a:?a:?isha*
 ~ ~ say-FIN-COND.3-INF ~ IT-slowly-REP-IMP.2SG>3 not-IMP.2SG hurry not-IMP.2SG hurry
-~ ~ used.to.say do.it.slowly don't hurry don't hurry
+~ ~ used.to.say ~ do.it.slowly don't hurry don't hurry
 "Take your time, take your time; Don't rush, don't rush," Charlie used to say.
 
 # 200
@@ -1452,7 +1452,7 @@ Examine it and see [the right moment].
 hee, hutlhaacach'at heey huu?ap'inqsak'at haa, tlichaa ?ucachi?at.
 ~ DUP.tl-hu?a-ca-ch-'at ~ hu?a-p'inq-sak-'at ~ tlicha* ?u-ca-chi(tl)-'at
 ~ IT-back-go.to-REP-SHIFT ~ back-many.times.round-??-SHIFT ~ stern it-go.to-MOM-SHIFT
-~ go.back.and.forth do.it.over.again ~ stern goes.to.it
+~ go.back.and.forth ~ do.it.over.again ~ stern goes.to.it
 Well, go back and forth and then do it all over toward the stern.
 
 # 233

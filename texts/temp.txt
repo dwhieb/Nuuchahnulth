@@ -193,10 +193,10 @@ it.is.used     axe                    adze       long.ago at.that.time
 The axe and adze were used long ago.
 
 # 028
-ʔaḥʔaaʔaƛ  ʔaḥ, mamaɬn̓i         ʔuusatukukʔi                  mashiin, powersaw ʔuuḥʷʼaɬʔaƛ  ƛaḥ, ƛaḥ katḥhakʔi.
-ʔaḥʔaː-ʼaƛ ʔaḥ  ma-maɬ-n̓i·      ʔuːsa-a·tuk-uk-ʔi·            mašiːn   ~        ʔu-ḥʷʼaɬ-ʼaƛ ƛaḥ  ƛaḥ kaƛḥ-ak-ʔi·
-then-FIN   this dwell-move-come loud-making.sound.of-POSS-DEF machine  ~        it-using-FIN now  now daylight-DUR-DEF
-and.then   this white.man       making.loud.noise             machine  ~        use.it       now  now daylight
+ʔaḥ, mamaɬn̓i         ʔuusatukukʔi                  mashiin, powersaw ʔuuḥʷʼaɬʔaƛ  ƛaḥ, ƛaḥ katḥhakʔi.
+ʔaḥ  ma-maɬ-n̓i·      ʔuːsa-a·tuk-uk-ʔi·            mašiːn   powersaw ʔu-ḥʷʼaɬ-ʼaƛ ƛaḥ  ƛaḥ kaƛḥ-ak-ʔi·
+this dwell-move-come loud-making.sound.of-POSS-DEF machine  ~        it-using-FIN now  now daylight-DUR-DEF
+this white.man       making.loud.noise             machine  ~        use.it       now  now daylight
 But now, they use the whiteman’s noise-making machine, a powersaw, nowadays.
 
 # 029
@@ -263,10 +263,10 @@ they.use.it       whenever.it.might.be flooded
 They used it at the time of the Flood.
 
 # 036
-waa, ʔaḥʔaaʔaƛ  ʕasʕasšiƛ̓asaƛitquu.                                         ʕasʕasš                   waaʔat,      ʕaasuk.               č̓aaḥč̓aaḥa.
-wa·  ʔaḥʔaː-ʼaƛ DUP#-ʕas-š-ši(ƛ)-ʼas-ʼaƛ-it-quː                             DUP#-ʕas-š                wa·-ʼat      ʕaːs-uk               DUP#-č̓aḥ-(y)a
-and  this-FIN   IT-do.carpenter.work-SPOR-MOM-on.the.ground-FIN-PAST-COND.3 IT-do.carpenter.work-SPOR say-SHIFT    do.carpenter.work-DUR IT-cut.with.adze-REP
-and  then       when.carpentrying.a.canoe                                   doing.carpenter.work      it.is.called working.on.canoe      cutting.with.an.adze
+waa,          ʔaḥʔaaʔaƛ                       ʕasʕasšiƛ̓asaƛitquu.                                         ʕasʕasš                   waaʔat,      ʕaasuk.               č̓aaḥč̓aaḥa.
+wa·ʔaḥʔaː-ʼaƛ DUP#-ʕas-š-ši(ƛ)-ʼas-ʼaƛ-it-quː DUP#-ʕas-š                                                  wa·-ʼat                   ʕaːs-uk      DUP#-č̓aḥ-(y)a
+and           this-FIN                        IT-do.carpenter.work-SPOR-MOM-on.the.ground-FIN-PAST-COND.3 IT-do.carpenter.work-SPOR say-SHIFT    do.carpenter.work-DUR IT-cut.with.adze-REP
+and           then                            when.carpentrying.a.canoe                                   doing.carpenter.work      it.is.called working.on.canoe      cutting.with.an.adze
 And then, when you work on a canoe, you say _ʕaʕasš_ (‘doing carpenter’s work’), _ʕaasuk_ (‘working on a canoe’), or _č̓aaḥč̓aaḥa_ (‘cutting with an adze’).
 
 # 038
@@ -411,7 +411,7 @@ It may only take one day;
 ʔuusaaḥi      ʔin  wikcukʔic̓aƛ         [power saw] ʔuuḥʷʼaɬʔat,   mamuuk
 ʔu-sa·ḥi      ʔin  wik-cuk-ʔic-ʼaƛ     ~           ʔu-ḥʷʼaɬ-ʼat   mamuːk
 it-because.of that not-needing-DIM-FIN ~           it-using-SHIFT working
-because.of.it that it.is.easy          ~           one.uses       working
+because.of.it that it.is.easy          one.uses    working
 because it is so simple using a power saw to work.
 
 # 059
@@ -466,7 +466,7 @@ Then you drill holes, maybe three: you start from the middle of the vessel.
 
 # 068
 ʔunaak̓at        kač̓ak.              qʷit̓amaḥsakʔitk                    ʔuuktisʔat         ʔunaḥʔitq            č̓apac.
-ʔu-na·k-ʼat     ka-č̓ak              qʷit̓a-maḥsa-ʔa·k-ʔi·tk             ʔu-ktis-ʼat        ʔuna-ḥ-ʔi·tq         č̓apac
+ʔu-na·k-ʼat     ka-č̓ak              qʷit̓a-maḥsa-ʔa·k-ʔi·tk             ʔu-ktis-ʼat
 it-having-SHIFT measure-instruments thickness-desiring.to-POSS-REL.2SG it-acting.by-SHIFT that.much-size-REL.3 canoe
 one.has.it      measuring.stick     thickness.is.up.to.you             according.to.it    size.of              canoe
 Take a measuring stick and measure however thick you want it to be on the basis of the length of the canoe.
@@ -866,10 +866,10 @@ I.was.good.at      always.in.both.hands              ~                adzing
 I was good at both left- and right-handed adzing.
 
 # 140
-haa  qʷaaʔišʔaaɬ       yaquusi       čamiḥta quuʔas.
-haː  qʷaː-ʔi·š-ʔaːɬ    yaqʷ-uːsi     čamiḥta quːʔas
-DISC thus-IND.3-always who-REL.DUB.3 proper  person
-DISC it.is.so          who.he.might  proper  person
+haa qʷaaʔišʔaaɬ       yaquusi       čamiḥta quuʔas.
+haː qʷaː-ʔi·š-ʔaːɬ    yaqʷ-uːsi     čamiḥta quːʔas
+~   thus-IND.3-always who-REL.DUB.3 proper  person
+~   it.is.so          who.he.might  proper  person
 That is how an experienced man is.
 
 # 141
@@ -1183,7 +1183,7 @@ Then when you drive the V-wedge in, [the split end of doweling] spreads apart in
 
 # 190
 qʷaaƛaa hiɬsp̓iiʔi,       qʷaaʔap̓at       ʔaḥʔaa.
-qʷaːƛaː hiɬ-sp̓i·-ʔi·     qʷaː-ʼap-ʼat    ʔaḥʔaː
+qʷaːƛaː hiɬ-sp̓i·-ʔi·     qʷaː-ʼap-ʼat ʔaḥʔaː
 also    there-on.top-DEF thus-CAUS-SHIFT this
 also    the.top          how.one.does    this
 The top piece is done in the same way.
@@ -1224,10 +1224,10 @@ take.your.time don't     hurry          don't     hurry
 Take your time. Don’t rush.
 
 # 198
-[Take your time.] [Take your time.] waaʔaƛquuč,        Charlie. (ƛuuɬƛuuɬaʔi.)          wik̓ii       ʔaaʔaaʔiša. wik̓ii       ʔaaʔaaʔiša.
-~                 ~                 waː-ʼaƛ-quː-č      ~        DUP#-ƛuːɬ-(y)a-ʔi·      wik-ʔi·     ʔaːʔaːʔiša· wik-ʔi·     ʔaːʔaːʔiša·
-~                 ~                 say-FIN-COND.3-INF ~        IT-slowly-REP-IMP.2SG>3 not-IMP.2SG hurry       not-IMP.2SG hurry
-~                 ~                 used.to.say        ~        do.it.slowly            don't       hurry       don't       hurry
+[Take your time.] [Take your time.] waaʔaƛquuč,        Charlie.     (ƛuuɬƛuuɬaʔi.)          wik̓ii       ʔaaʔaaʔiša. wik̓ii       ʔaaʔaaʔiša.
+~                 ~                 waː-ʼaƛ-quː-č      ~            DUP#-ƛuːɬ-(y)a-ʔi·      wik-ʔi·     ʔaːʔaːʔiša· wik-ʔi·     ʔaːʔaːʔiša·
+~                 ~                 say-FIN-COND.3-INF ~            IT-slowly-REP-IMP.2SG>3 not-IMP.2SG hurry       not-IMP.2SG hurry
+~                 ~                 used.to.say        ~            do.it.slowly don't                   hurry       don't       hurry
 “Take your time, take your time; Don’t rush, don’t rush,” Charlie used to say.
 
 # 200
@@ -1449,10 +1449,10 @@ observe            recognize
 Examine it and see [the right moment].
 
 # 232
-hee, huƛhaacač̓at             heey huuʔap̓inqsak̓at                 haa, ƛičaa ʔucačiʔat.
-~    DUP.ƛ-huʔa-ca-č-ʼat     ~    huʔa-p̓inq-sak-ʼat              ~    ƛiča· ʔu-ca-či(ƛ)-ʼat
-~    IT-back-go.to-REP-SHIFT ~    back-many.times.round-??-SHIFT ~    stern it-go.to-MOM-SHIFT
-~    go.back.and.forth       ~    do.it.over.again               ~    stern goes.to.it
+hee, huƛhaacač̓at             heey             huuʔap̓inqsak̓at                 haa,  ƛičaa      ʔucačiʔat.
+~    DUP.ƛ-huʔa-ca-č-ʼat     ~                huʔa-p̓inq-sak-ʼat              ~     ƛiča·      ʔu-ca-či(ƛ)-ʼat
+~    IT-back-go.to-REP-SHIFT ~                back-many.times.round-??-SHIFT ~     stern      it-go.to-MOM-SHIFT
+~    go.back.and.forth       do.it.over.again ~                              stern goes.to.it
 Well, go back and forth and then do it all over toward the stern.
 
 # 233
