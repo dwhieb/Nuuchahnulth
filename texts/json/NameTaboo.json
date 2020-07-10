@@ -1,0 +1,1866 @@
+{
+  "title": {
+    "en": "How names used to get tabooed",
+    "nuk": "qʷisḥitiiʔaaɬ č̓ič̓iiḥɬiičiƛ ʕimtii"
+  },
+  "abbreviation": "NameTaboo",
+  "ID": "CL15",
+  "utterances": [
+    {
+      "metadata": "001",
+      "transcript": "čuu qʷisḥitiiʔaaɬ č̓ič̓iiḥɬiičiƛ ʕimtii ʔuuqḥɬiʔaƛs.",
+      "transcription": "",
+      "translation": "Now, I will talk about how names used to get tabooed.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷisḥ-it-(y)iː-ʔaːɬ",
+          "gloss": "how-PAST-INDF.3-always",
+          "literal": "how.it.used.to",
+          "morphemes": [
+            {
+              "transcription": "qʷisḥ",
+              "gloss": "how"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "(y)iː",
+              "gloss": "INDF.3"
+            },
+            {
+              "transcription": "ʔaːɬ",
+              "gloss": "always"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-č̓iḥ-ḥɬi-ʽi·čiƛ",
+          "gloss": "??-supernatural-doing.excessively?-INC",
+          "literal": "become.tabooed",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "??"
+            },
+            {
+              "transcription": "č̓iḥ",
+              "gloss": "supernatural"
+            },
+            {
+              "transcription": "ḥɬi",
+              "gloss": "doing.excessively?"
+            },
+            {
+              "transcription": "ʽi·čiƛ",
+              "gloss": "INC"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕimti·",
+          "gloss": "NAME",
+          "literal": "name",
+          "morphemes": [
+            {
+              "transcription": "ʕimti·",
+              "gloss": "NAME"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-qḥɬi-ʼaƛ-s",
+          "gloss": "it-tell.about-FINITE-1SG",
+          "literal": "I.will.tell.about",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "qḥɬi",
+              "gloss": "tell.about"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "s",
+              "gloss": "1SG"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "002",
+      "transcript": "čuu hišukʷitʔaaɬ waɬyaqiɬḥ qaḥšiƛ.",
+      "transcription": "",
+      "translation": "They all used to die at home.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hišuk-it-ʔaːɬ",
+          "gloss": "all-PAST-always",
+          "literal": "they.all.used.to",
+          "morphemes": [
+            {
+              "transcription": "hišuk",
+              "gloss": "all"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔaːɬ",
+              "gloss": "always"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "waɬ-yaq-ʽiɬ-(q)ḥ",
+          "gloss": "go.home-done-in.the.house-SIM",
+          "literal": "at.home",
+          "morphemes": [
+            {
+              "transcription": "waɬ",
+              "gloss": "go.home"
+            },
+            {
+              "transcription": "yaq",
+              "gloss": "done"
+            },
+            {
+              "transcription": "ʽiɬ",
+              "gloss": "in.the.house"
+            },
+            {
+              "transcription": "(q)ḥ",
+              "gloss": "SIM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qaḥ-šiƛ",
+          "gloss": "dead-MOM",
+          "literal": "died",
+          "morphemes": [
+            {
+              "transcription": "qaḥ",
+              "gloss": "dead"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "003",
+      "transcript": "hiiɬsasaqḥʔaƛquu ƛ̓aaḥiqsiiɬ n̓uḥsaap nay̓iik.",
+      "transcription": "",
+      "translation": "Right after the death, they would make the coffin and put the body in the bos right where the person died.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hiɬ-sasa-(q)ḥ-ʼaƛ-quː",
+          "gloss": "there-precisely-SIM-FINITE-COND",
+          "literal": "right.on.the.spot",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "sasa",
+              "gloss": "precisely"
+            },
+            {
+              "transcription": "(q)ḥ",
+              "gloss": "SIM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aḥ-iqs-iːɬ",
+          "gloss": "flatwise-box-make",
+          "literal": "make.a.box",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aḥ",
+              "gloss": "flatwise"
+            },
+            {
+              "transcription": "iqs",
+              "gloss": "box"
+            },
+            {
+              "transcription": "iːɬ",
+              "gloss": "make"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓uḥ-sa·p",
+          "gloss": "put.away-MOMCAUS",
+          "literal": "put.in.the.box",
+          "morphemes": [
+            {
+              "transcription": "n̓uḥ",
+              "gloss": "put.away"
+            },
+            {
+              "transcription": "sa·p",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nay̓iːk",
+          "gloss": "at.once",
+          "literal": "at.once",
+          "morphemes": [
+            {
+              "transcription": "nay̓iːk",
+              "gloss": "at.once"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "004",
+      "transcript": "nisiiʔasʔap̓aƛquu quuquuxsumʔi, wik hisiik̓ap t̓ašii.",
+      "transcription": "",
+      "translation": "They would take the coffin out through the window, not through the door.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "his-iːʔas-ʼap-ʼaƛ-quː",
+          "gloss": "there-go.out-MOMCAUS-FINITE-COND",
+          "literal": "they.would.take.it.outside",
+          "morphemes": [
+            {
+              "transcription": "his",
+              "gloss": "there"
+            },
+            {
+              "transcription": "iːʔas",
+              "gloss": "go.out"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-quːxsum-ʔi·",
+          "gloss": "DISTR-window-DEF",
+          "literal": "the.windows",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "quːxsum",
+              "gloss": "window"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wik",
+          "gloss": "not",
+          "literal": "not",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "his-i·k-ʼap",
+          "gloss": "there-going.along-MOMCAUS",
+          "literal": "put.through",
+          "morphemes": [
+            {
+              "transcription": "his",
+              "gloss": "there"
+            },
+            {
+              "transcription": "i·k",
+              "gloss": "going.along"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓ašiː",
+          "gloss": "door",
+          "literal": "door",
+          "morphemes": [
+            {
+              "transcription": "t̓ašiː",
+              "gloss": "door"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "005",
+      "transcript": "hiniic̓aƛquu piicksy̓i ʔucaʔap hiʔiisw̓it̓asʔitq.",
+      "transcription": "",
+      "translation": "They would take the deceased to where s/he was going to be buried.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hiniːc-ʼaƛ-quː",
+          "gloss": "take.along-FINITE-COND",
+          "literal": "they.would.take.along",
+          "morphemes": [
+            {
+              "transcription": "hiniːc",
+              "gloss": "take.along"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "piːcksy̓i",
+          "gloss": "corpse",
+          "literal": "corpse",
+          "morphemes": [
+            {
+              "transcription": "piːcksy̓i",
+              "gloss": "corpse"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ca-ʼap",
+          "gloss": "it-go.to-MOMCAUS",
+          "literal": "make.her.go.to",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiʔiːs-w̓it̓as-ʔi·tq",
+          "gloss": "there.on.the.ground-about.to-REL.3",
+          "literal": "where.it.is.going.to.be.buried",
+          "morphemes": [
+            {
+              "transcription": "hiʔiːs",
+              "gloss": "there.on.the.ground"
+            },
+            {
+              "transcription": "w̓it̓as",
+              "gloss": "about.to"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "006",
+      "transcript": "c̓uy̓iiʔaƛquu huʔacačiʔaƛquu, quuʔas ʔuḥ yaqitʔitq ʔuuksnaʕaaɬ piicksy̓i yaqitʔitq m̓uč̓ičup, yaqitʔitq m̓uʔakʷay̓ap m̓uč̓ičtup č̓ičmaqšiƛ.",
+      "transcription": "",
+      "translation": "When they buried the deceased, people would return — the one who looked after the body, the one who clothed the deceased, and the one burned the clothing and other belongings.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "c̓us-ʼi·(ƛ)-ʼaƛ-quː",
+          "gloss": "dig-on.the.ground-FINITE-COND",
+          "literal": "when.they.buried",
+          "morphemes": [
+            {
+              "transcription": "c̓us",
+              "gloss": "dig"
+            },
+            {
+              "transcription": "ʼi·(ƛ)",
+              "gloss": "on.the.ground"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huʔa-ca-čiƛ-ʼaƛ-quː",
+          "gloss": "back-go.to-MOM-FINITE-COND",
+          "literal": "they.would.return",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "back"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas",
+          "gloss": "person",
+          "literal": "person",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "person"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuḥ",
+          "gloss": "being.they",
+          "literal": "being.they",
+          "morphemes": [
+            {
+              "transcription": "ʔuḥ",
+              "gloss": "being.they"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "yaqʷ-it-ʔi·tq",
+          "gloss": "he.who-PAST-REL.3",
+          "literal": "who.did",
+          "morphemes": [
+            {
+              "transcription": "yaqʷ",
+              "gloss": "he.who"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ksnaʕaːɬ",
+          "gloss": "it-handling",
+          "literal": "take.care.of.it",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ksnaʕaːɬ",
+              "gloss": "handling"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "piːcksy̓i",
+          "gloss": "corpse",
+          "literal": "corpse",
+          "morphemes": [
+            {
+              "transcription": "piːcksy̓i",
+              "gloss": "corpse"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "yaqʷ-it-ʔi·tq",
+          "gloss": "he.who-PAST-REL.3",
+          "literal": "who.did",
+          "morphemes": [
+            {
+              "transcription": "yaqʷ",
+              "gloss": "he.who"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "m̓uč̓ič-u·p",
+          "gloss": "clothed-MOMCAUS",
+          "literal": "clothe",
+          "morphemes": [
+            {
+              "transcription": "m̓uč̓ič",
+              "gloss": "clothed"
+            },
+            {
+              "transcription": "u·p",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "yaqʷ-it-ʔi·tq",
+          "gloss": "he.who-PAST-REL.3",
+          "literal": "who.did",
+          "morphemes": [
+            {
+              "transcription": "yaqʷ",
+              "gloss": "he.who"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "m̓u-ʔakʷa-y̓a·p",
+          "gloss": "burning-apart-MOMCAUS",
+          "literal": "burned",
+          "morphemes": [
+            {
+              "transcription": "m̓u",
+              "gloss": "burning"
+            },
+            {
+              "transcription": "ʔakʷa",
+              "gloss": "apart"
+            },
+            {
+              "transcription": "y̓a·p",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "m̓uč̓ič-tu·p",
+          "gloss": "clothed-thing",
+          "literal": "clothes",
+          "morphemes": [
+            {
+              "transcription": "m̓uč̓ič",
+              "gloss": "clothed"
+            },
+            {
+              "transcription": "tu·p",
+              "gloss": "thing"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "č̓ičmaq-šiƛ",
+          "gloss": "burn.the.belongings-MOM",
+          "literal": "burn.the.belongings.of.the.deceased",
+          "morphemes": [
+            {
+              "transcription": "č̓ičmaq",
+              "gloss": "burn.the.belongings"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "007",
+      "transcript": "huʔacačiƛ histaačiƛitʔitqʔaɬ. t̓iqsčipiƛ ḥaa ʔuušy̓inƛ̓i.",
+      "transcription": "",
+      "translation": "They would return to the house of the deceased where they had started off from, and would sit beside the one who has lost the loved one.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "huʔa-ca-čiƛ",
+          "gloss": "back-go.to-MOM",
+          "literal": "return",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "back"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "his-sta·-čiƛ-it-ʔi·tq-ʔa·ɬ",
+          "gloss": "there-move-MOM-PAST-REL.3-PL",
+          "literal": "where.they.started.from",
+          "morphemes": [
+            {
+              "transcription": "his",
+              "gloss": "there"
+            },
+            {
+              "transcription": "sta·",
+              "gloss": "move"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓iqʷ-sči-piƛ",
+          "gloss": "sit.down-along.with-on.the.floor",
+          "literal": "sat.besides",
+          "morphemes": [
+            {
+              "transcription": "t̓iqʷ",
+              "gloss": "sit.down"
+            },
+            {
+              "transcription": "sči",
+              "gloss": "along.with"
+            },
+            {
+              "transcription": "piƛ",
+              "gloss": "on.the.floor"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaː",
+          "gloss": "there",
+          "literal": "there",
+          "morphemes": [
+            {
+              "transcription": "ḥaː",
+              "gloss": "there"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuːš-y̓inƛ-ʔi·",
+          "gloss": "some-troubled.by-DEF",
+          "literal": "ones.who.had.a.loss",
+          "morphemes": [
+            {
+              "transcription": "ʔuːš",
+              "gloss": "some"
+            },
+            {
+              "transcription": "y̓inƛ",
+              "gloss": "troubled.by"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "008",
+      "transcript": "hiɬʔaƛquu ʔaḥʔaa haɬaaqp̓uuƛ nay̓iik.",
+      "transcription": "",
+      "translation": "There they would get paid right away.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hiɬ-ʼaƛ-quː",
+          "gloss": "there-FINITE-COND",
+          "literal": "there.they.would",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥʔaː",
+          "gloss": "that",
+          "literal": "that",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥʔaː",
+              "gloss": "that"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "haɬa·q-p̓uːƛ",
+          "gloss": "pay-get.paid",
+          "literal": "pay",
+          "morphemes": [
+            {
+              "transcription": "haɬa·q",
+              "gloss": "pay"
+            },
+            {
+              "transcription": "p̓uːƛ",
+              "gloss": "get.paid"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nay̓iːk",
+          "gloss": "at.once",
+          "literal": "at.once",
+          "morphemes": [
+            {
+              "transcription": "nay̓iːk",
+              "gloss": "at.once"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "009",
+      "transcript": "wik̓iitḥ haʔuk̓ʷap.",
+      "transcription": "",
+      "translation": "There would be no eating.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik̓iːt-(q)ḥ",
+          "gloss": "none.present-SIM",
+          "literal": "none",
+          "morphemes": [
+            {
+              "transcription": "wik̓iːt",
+              "gloss": "none.present"
+            },
+            {
+              "transcription": "(q)ḥ",
+              "gloss": "SIM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "haʔukʷ-ʼap",
+          "gloss": "eat-MOMCAUS",
+          "literal": "feed",
+          "morphemes": [
+            {
+              "transcription": "haʔukʷ",
+              "gloss": "eat"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "010",
+      "transcript": "haʔuk̓ʷapquu ʔuušaḥta, hiniic̓aƛquu waɬsaap.",
+      "transcription": "",
+      "translation": "If they served food to people, they would take them home.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "haʔuk-ʼap-quː",
+          "gloss": "eat-MOMCAUS-COND",
+          "literal": "if.they.feed",
+          "morphemes": [
+            {
+              "transcription": "haʔuk",
+              "gloss": "eat"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuːš-aḥta",
+          "gloss": "some-do.to",
+          "literal": "to.some",
+          "morphemes": [
+            {
+              "transcription": "ʔuːš",
+              "gloss": "some"
+            },
+            {
+              "transcription": "aḥta",
+              "gloss": "do.to"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiniːc-ʼaƛ-quː",
+          "gloss": "take.along-FINITE-COND",
+          "literal": "they.would.take.them",
+          "morphemes": [
+            {
+              "transcription": "hiniːc",
+              "gloss": "take.along"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "waɬ-sa·p",
+          "gloss": "go.home-MOMCAUS",
+          "literal": "take.it.home",
+          "morphemes": [
+            {
+              "transcription": "waɬ",
+              "gloss": "go.home"
+            },
+            {
+              "transcription": "sa·p",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "011",
+      "transcript": "haɬaaqp̓awup̓aƛ̓atquuʔaɬ hišaḥtat.",
+      "transcription": "",
+      "translation": "They would pay everyone.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "haɬa·q-p̓awup-ʼaƛ-ʼat-quː-ʔa·ɬ",
+          "gloss": "pay-pay-FINITE-SHIFT-COND-PL",
+          "literal": "they.would.pay",
+          "morphemes": [
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            },
+            {
+              "transcription": "haɬa·q…p̓awup",
+              "gloss": "pay"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiš-aḥta-ʼat",
+          "gloss": "all-do.to-SHIFT",
+          "literal": "to.everyone",
+          "morphemes": [
+            {
+              "transcription": "hiš",
+              "gloss": "all"
+            },
+            {
+              "transcription": "aḥta",
+              "gloss": "do.to"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "012",
+      "transcript": "ʔuyaaƛ ʔaḥʔaa ʔiiqḥuk, čuu, č̓ič̓iiḥɬiičiƛ̓aqƛ̓iš ʔaḥ ʕimtiiʔi. wikʔaqƛniš ʔuuḥʷʼaɬ ʔaḥ nuuknuukukqin.",
+      "transcription": "",
+      "translation": "This is when they say, “OK, this name would be tabooed. And we would not use our (family’s) song.”",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔuyi-ʼaƛ",
+          "gloss": "at.that.time-FINITE",
+          "literal": "at.that.time",
+          "morphemes": [
+            {
+              "transcription": "ʔuyi",
+              "gloss": "at.that.time"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥʔaː",
+          "gloss": "that",
+          "literal": "that",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥʔaː",
+              "gloss": "that"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔiːqḥ-uk",
+          "gloss": "telling-DUR",
+          "literal": "tell",
+          "morphemes": [
+            {
+              "transcription": "ʔiːqḥ",
+              "gloss": "telling"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "DUR"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-č̓iḥ-ḥɬi·-čiƛ-ʔaqƛ-ʔi·š",
+          "gloss": "??-supernatural-doing.excessively?-MOM-FUT-IND.3",
+          "literal": "it.will.be.tabooed",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "??"
+            },
+            {
+              "transcription": "č̓iḥ",
+              "gloss": "supernatural"
+            },
+            {
+              "transcription": "ḥɬi·",
+              "gloss": "doing.excessively?"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥ",
+          "gloss": "this",
+          "literal": "this",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥ",
+              "gloss": "this"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕimti·-ʔi·",
+          "gloss": "name-DEF",
+          "literal": "the.name",
+          "morphemes": [
+            {
+              "transcription": "ʕimti·",
+              "gloss": "name"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wik-ʔaqƛ-ni·š",
+          "gloss": "not-FUT-IND.1PL",
+          "literal": "we.will.not",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "ni·š",
+              "gloss": "IND.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ḥʷʼaɬ",
+          "gloss": "it-using",
+          "literal": "using.it",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ḥʷʼaɬ",
+              "gloss": "using"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥ",
+          "gloss": "this",
+          "literal": "this",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥ",
+              "gloss": "this"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nuːk-uk-qin",
+          "gloss": "song-POSS-REL.1PL",
+          "literal": "our.songs",
+          "morphemes": [
+            {
+              "transcription": "nuːk",
+              "gloss": "song"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "qin",
+              "gloss": "REL.1PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "013",
+      "transcript": "n̓upqʔičḥ, ʔaƛqʔičḥ qacc̓aqʔičḥ, muuqʔičḥ. ʔunicʔaqƛii haptiɬuk, n̓uḥyaqiɬ.",
+      "transcription": "",
+      "translation": "It could be one year, two years, three years, or four years. For however long they decided they would hide them away.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "n̓up-qʔičḥ",
+          "gloss": "one-year",
+          "literal": "one.year",
+          "morphemes": [
+            {
+              "transcription": "n̓up",
+              "gloss": "one"
+            },
+            {
+              "transcription": "qʔičḥ",
+              "gloss": "year"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaƛ-qʔičḥ",
+          "gloss": "two-year",
+          "literal": "two.years",
+          "morphemes": [
+            {
+              "transcription": "ʔaƛ",
+              "gloss": "two"
+            },
+            {
+              "transcription": "qʔičḥ",
+              "gloss": "year"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qacc̓a-qʔičḥ",
+          "gloss": "three-year",
+          "literal": "three.years",
+          "morphemes": [
+            {
+              "transcription": "qacc̓a",
+              "gloss": "three"
+            },
+            {
+              "transcription": "qʔičḥ",
+              "gloss": "year"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muː-qʔičḥ",
+          "gloss": "four-year",
+          "literal": "four.years",
+          "morphemes": [
+            {
+              "transcription": "muː",
+              "gloss": "four"
+            },
+            {
+              "transcription": "qʔičḥ",
+              "gloss": "year"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔunič-ʔaqƛ-(y)iː",
+          "gloss": "time.elapsed-FUT-INDF.3",
+          "literal": "however.long.it.would.be",
+          "morphemes": [
+            {
+              "transcription": "ʔunič",
+              "gloss": "time.elapsed"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "(y)iː",
+              "gloss": "INDF.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hapt-ʽiɬ-uk",
+          "gloss": "in.hiding-in.the.house-POSS",
+          "literal": "theirs.would.be.hidden",
+          "morphemes": [
+            {
+              "transcription": "hapt",
+              "gloss": "in.hiding"
+            },
+            {
+              "transcription": "ʽiɬ",
+              "gloss": "in.the.house"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓uḥ-yaq-ʽiɬ",
+          "gloss": "put.away-done-in.the.house",
+          "literal": "put.away",
+          "morphemes": [
+            {
+              "transcription": "n̓uḥ",
+              "gloss": "put.away"
+            },
+            {
+              "transcription": "yaq",
+              "gloss": "done"
+            },
+            {
+              "transcription": "ʽiɬ",
+              "gloss": "in.the.house"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "014",
+      "transcript": "wik̓aƛ̓at kuw̓iɬa ʔuḥʷʼaɬʔat ʕimtiiʔakitʔi qʷiquusii ƛawaaqčik, miiɬḥiit̓ana ʕimtii. wikiičiʔat kuw̓iɬa ʔuuḥʷʼaɬʔat.",
+      "transcription": "",
+      "translation": "And as instructed they would not use the name of the deceased or whatever words that were close or similar to that name.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik-ʼaƛ-ʼat",
+          "gloss": "not-FINITE-SHIFT",
+          "literal": "not",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kuw̓iɬa",
+          "gloss": "doing.as.directed",
+          "literal": "doing.as.directed",
+          "morphemes": [
+            {
+              "transcription": "kuw̓iɬa",
+              "gloss": "doing.as.directed"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ḥʷʼaɬ-ʼat",
+          "gloss": "it-using-SHIFT",
+          "literal": "using.it",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ḥʷʼaɬ",
+              "gloss": "using"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕimti·-ʔa·k-it-ʔi·",
+          "gloss": "name-POSS-PAST-DEF",
+          "literal": "his.name",
+          "morphemes": [
+            {
+              "transcription": "ʕimti·",
+              "gloss": "name"
+            },
+            {
+              "transcription": "ʔa·k",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷiq-uːsiː",
+          "gloss": "that.which-REL.DUB.3",
+          "literal": "whatever",
+          "morphemes": [
+            {
+              "transcription": "qʷiq",
+              "gloss": "that.which"
+            },
+            {
+              "transcription": "uːsiː",
+              "gloss": "REL.DUB.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛawa-qčik",
+          "gloss": "near-going.along",
+          "literal": "close.to",
+          "morphemes": [
+            {
+              "transcription": "ƛawa",
+              "gloss": "near"
+            },
+            {
+              "transcription": "qčik",
+              "gloss": "going.along"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "miɬ-ḥi·-t̓a·n̓a",
+          "gloss": "alike-DUR-slightly",
+          "literal": "similar",
+          "morphemes": [
+            {
+              "transcription": "miɬ",
+              "gloss": "alike"
+            },
+            {
+              "transcription": "ḥi·",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "t̓a·n̓a",
+              "gloss": "slightly"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕimti·",
+          "gloss": "name",
+          "literal": "name",
+          "morphemes": [
+            {
+              "transcription": "ʕimti·",
+              "gloss": "name"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wik-ʽi·čiƛ-ʼat",
+          "gloss": "not-INC-SHIFT",
+          "literal": "would.not",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "ʽi·čiƛ",
+              "gloss": "INC"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kuw̓iɬa",
+          "gloss": "doing.as.directed",
+          "literal": "doing.as.directed",
+          "morphemes": [
+            {
+              "transcription": "kuw̓iɬa",
+              "gloss": "doing.as.directed"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ḥʷʼaɬ-ʼat",
+          "gloss": "it-using-SHIFT",
+          "literal": "it.is.used",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ḥʷʼaɬ",
+              "gloss": "using"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "015",
+      "transcript": "waa, ʔaƛqʔičḥšiʔaƛquu, muuqʔičḥ ʔunicukuusii ʔuušc̓aɬ, ƛ̓iic̓uuʔaƛquu, huʔaas y̓aksaap nuuknuukukʔi, huʔaas ʔuuḥʷʼaɬ ʕimtii.",
+      "transcription": "",
+      "translation": "And after two, four, or however many years of the forbidden period, they would give a feast and bring back their songs and start using the name again.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wa·",
+          "gloss": "and",
+          "literal": "and",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "and"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaƛ-qʔičḥ-šiƛ-ʼaƛ-quː",
+          "gloss": "two-year-MOM-FINITE-COND",
+          "literal": "when.two.years.passed",
+          "morphemes": [
+            {
+              "transcription": "ʔaƛ",
+              "gloss": "two"
+            },
+            {
+              "transcription": "qʔičḥ",
+              "gloss": "year"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muː-qʔičḥ",
+          "gloss": "four-year",
+          "literal": "four.years",
+          "morphemes": [
+            {
+              "transcription": "muː",
+              "gloss": "four"
+            },
+            {
+              "transcription": "qʔičḥ",
+              "gloss": "year"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔunic-uk-uːsiː",
+          "gloss": "time.spent-POSS-REL.DUB.3",
+          "literal": "whatever.length.it.would.be",
+          "morphemes": [
+            {
+              "transcription": "ʔunic",
+              "gloss": "time.spent"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "uːsiː",
+              "gloss": "REL.DUB.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuːšc̓aɬ",
+          "gloss": "forbidden",
+          "literal": "forbidden",
+          "morphemes": [
+            {
+              "transcription": "ʔuːšc̓aɬ",
+              "gloss": "forbidden"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓iːc̓uː-ʼaƛ-quː",
+          "gloss": "feast-FINITE-COND",
+          "literal": "they.would.give.a.feast",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓iːc̓uː",
+              "gloss": "feast"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huʔa-aːs",
+          "gloss": "back-??",
+          "literal": "again",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "back"
+            },
+            {
+              "transcription": "aːs",
+              "gloss": "??"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "y̓ak-sa·p",
+          "gloss": "ine.view-MOMCAUS",
+          "literal": "bring.out",
+          "morphemes": [
+            {
+              "transcription": "y̓ak",
+              "gloss": "ine.view"
+            },
+            {
+              "transcription": "sa·p",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-nuːk-uk-ʔi·",
+          "gloss": "DISTR-song-POSS-DEF",
+          "literal": "their.songs",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "nuːk",
+              "gloss": "song"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huʔa-aːs",
+          "gloss": "back-??",
+          "literal": "again",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "back"
+            },
+            {
+              "transcription": "aːs",
+              "gloss": "??"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ḥʷʼaɬ",
+          "gloss": "it-using",
+          "literal": "using.it",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ḥʷʼaɬ",
+              "gloss": "using"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕimti·",
+          "gloss": "NAME",
+          "literal": "name",
+          "morphemes": [
+            {
+              "transcription": "ʕimti·",
+              "gloss": "NAME"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "016",
+      "transcript": "ʔaḥʔaa qʷaaʔamitʔišʔaaɬ huuʔak ʔuyi.",
+      "transcription": "",
+      "translation": "This is what they did long ago.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔaḥʔaː",
+          "gloss": "that",
+          "literal": "that",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥʔaː",
+              "gloss": "that"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷaː-ʼap-it-ʔi·š-ʔaːɬ",
+          "gloss": "thus-MOMCAUS-PAST-IND.3-always",
+          "literal": "they.did",
+          "morphemes": [
+            {
+              "transcription": "qʷaː",
+              "gloss": "thus"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            },
+            {
+              "transcription": "ʔaːɬ",
+              "gloss": "always"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huːʔak",
+          "gloss": "long.ago",
+          "literal": "long.ago",
+          "morphemes": [
+            {
+              "transcription": "huːʔak",
+              "gloss": "long.ago"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuyi",
+          "gloss": "at.that.time",
+          "literal": "at.that.time",
+          "morphemes": [
+            {
+              "transcription": "ʔuyi",
+              "gloss": "at.that.time"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
