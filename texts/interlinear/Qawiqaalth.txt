@@ -6,7 +6,7 @@ ID:           GL7
 # 001
 \trs qiiʔaƛ,             huuʔak,  qiisasa.
 \m   qiː-ʼaƛ             huːʔak   qiː-sasa
-\gl  for.a.long-time-FIN long.ago for.a.long.time-precisely
+\gl  for.a.long.time-FIN long.ago for.a.long.time-precisely
 \wlt happened.long.ago   long.ago long.time.ago
 \tln It happened a long, long time ago.
 
@@ -125,7 +125,7 @@ Sometimes he would catch hair seal pups.
 # 018
 ʔaanuuʔaƛquuč                          haʔuk ʔumʔiiqsak.
 ʔana-uː-ʼaƛ-quː-č                      haʔuk ʔumʔi·qsu-ʔa·k
-only-acting.together-FINITE-COND.INF.3 eat   mother-POSS
+only-acting.together-FINITE-COND-INF.3 eat   mother-POSS
 would.do.it.alone.with                 eat   his.mother
 He (Qawiqaalth) used to eat alone with his mother.
 
@@ -264,10 +264,10 @@ He put it on.
 
 # 038
 m̓uč̓ičuʔat         hiy̓aa              ʔaḥʔaaɬ.
-m̓uč̓ič-u(ƛ)-ʼat    hiɬ-ʼa·            ʔaḥ      ʔaːɬ
+m̓uč̓ič-u(ƛ)-ʼat    hiɬ-ʼa·            ʔaḥʔaːɬ
 clothed-MOM-SHIFT there-on.the.rock  there
 got.clothed       there.on.the.rocks there
-There one the rocks he was wearing the sea lion hide.
+There on the rocks he was wearing the sea lion hide.
 
 # 039
 hiḥak    qʷaa, ʔuut̓iʔiɬaƛ              qʷaaʔiitqʔaaɬ,    tukuuk,  hiḥak.
@@ -279,8 +279,8 @@ He was basking imitating the way sea lions bask.
 # 040
 RRRRR qʷayaatuk             y̓uuqʷaaʔaƛquuč.
 ~     qʷea-ya·tuk           y̓uːqʷaː-ʼaƛ-quː-č
-~     thus-making.sounds.of also-FIN.COND.3-INF
-~     sound.thus            would.also          do
+~     thus-making.sounds.of also-FIN-COND.3-INF
+~     sound.thus            would.also.do
 He was also making the sound of a sea lion.
 
 # 041
@@ -398,7 +398,7 @@ Qawiqaalth found rocks.
 # 057
 watqšiƛ              ʔaƛimt   qʷiqitii                      qum̓aamitii.
 watq-ši(ƛ)           ʔaƛ-imt  qʷiq-it-(y)iː                 qum̓aː-mit-(y)iː
-swallow-MOM          two-PAST that.which-PAST-INDF.3        how.many.they.might.have.been
+swallow-MOM          two-PAST that.which-PAST-INDF.3        amount-PAST-INDF.3
 completely.swallowed two      whatever.they.might.have.been how.many.they.might.have.been
 He swallowed two of them — how big the rocks were or how many of them he swallowed, I’m not sure.
 
@@ -1150,7 +1150,7 @@ hair.seal   hunting.for.it
 
 # 165
 ʔucačiʔaƛ        ʕaʕiƛquu,   ʔam̓aqƛ̓iḥtaʔi.
-ʔu-ca-či(ƛ)      ʕaʕiƛ-quː   ʔam-ʼaqƛ-ʼiḥta-ʔi·
+ʔu-ca-či(ƛ)-ʼaƛ  ʕaʕiƛ-quː   ʔam-ʼaqƛ-ʼiḥta-ʔi·
 it-go.to-MOM-FIN cave-COND.3 LOC-inside-at.the.point-DEF
 went.there       cave        inside.of.the.tip.of.the.point
 [Qawiqaalth] went to the cave at the tip of the point.
@@ -1222,7 +1222,7 @@ This is a teaching.
 ʔuyaaƛitwaʔiš                  qiiʔaƛ̓itq,                ʔiiqḥukʔaƛ      qawiqaaɬ   hiɬitʔitq,       qʷiʔiimitʔitq.
 ʔuyi-??-ʼaƛ-it-wa·ʔi·š         qiː-ʼaƛ-ʔi·tq             ʔiːqḥ-uk-ʼaƛ    qawiqaːɬ   hiɬ-it-ʔi·tq     qʷi-ʔiː-mit-ʔi·tq
 at.the.time-??-FIN-PAST-QUOT.3 for.a.long.time-FIN-REL.3 telling-DUR-FIN Qawiqaalth there-PAST-REL.3 that.which-reach-PAST-REL.3
-it.was.the.time                when.long.time.has.past   told            Qawiqaalth where            he.was                      how.far.he.went
+it.was.the.time                when.long.time.has.past   told            Qawiqaalth where.he.was     how.far.he.went
 Many years later, Qawiqaalth told where he had been and how far he had gone.
 
 # 175

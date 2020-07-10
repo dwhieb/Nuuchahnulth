@@ -6,7 +6,7 @@ ID:           GL7
 # 001
 \trs qii?atl, huu?ak, qiisasa.
 \m   qi:-'atl hu:?ak qi:-sasa
-\gl  for.a.long-time-FIN long.ago for.a.long.time-precisely
+\gl  for.a.long.time-FIN long.ago for.a.long.time-precisely
 \wlt happened.long.ago long.ago long.time.ago
 \tln It happened a long, long time ago.
 
@@ -125,7 +125,7 @@ Sometimes he would catch hair seal pups.
 # 018
 ?aanuu?atlquuch ha?uk ?um?iiqsak.
 ?ana-u:-'atl-qu:-ch ha?uk ?um?i*qsu-?a*k
-only-acting.together-FINITE-COND.INF.3 eat mother-POSS
+only-acting.together-FINITE-COND-INF.3 eat mother-POSS
 would.do.it.alone.with eat his.mother
 He (Qawiqaalth) used to eat alone with his mother.
 
@@ -264,10 +264,10 @@ He put it on.
 
 # 038
 m'uch'ichu?at hiy'aa ?ahh?aal.
-m'uch'ich-u(tl)-'at hil-'a* ?ahh ?a:l
+m'uch'ich-u(tl)-'at hil-'a* ?ahh?a:l
 clothed-MOM-SHIFT there-on.the.rock there
 got.clothed there.on.the.rocks there
-There one the rocks he was wearing the sea lion hide.
+There on the rocks he was wearing the sea lion hide.
 
 # 039
 hihhak qwaa, ?uut'i?ilatl qwaa?iitq?aal, tukuuk, hihhak.
@@ -279,8 +279,8 @@ He was basking imitating the way sea lions bask.
 # 040
 RRRRR qwayaatuk y'uuqwaa?atlquuch.
 ~ qwea-ya*tuk y'u:qwa:-'atl-qu:-ch
-~ thus-making.sounds.of also-FIN.COND.3-INF
-~ sound.thus would.also do
+~ thus-making.sounds.of also-FIN-COND.3-INF
+~ sound.thus would.also.do
 He was also making the sound of a sea lion.
 
 # 041
@@ -398,7 +398,7 @@ Qawiqaalth found rocks.
 # 057
 watqshitl ?atlimt qwiqitii qum'aamitii.
 watq-shi(tl) ?atl-imt qwiq-it-(y)i: qum'a:-mit-(y)i:
-swallow-MOM two-PAST that.which-PAST-INDF.3 how.many.they.might.have.been
+swallow-MOM two-PAST that.which-PAST-INDF.3 amount-PAST-INDF.3
 completely.swallowed two whatever.they.might.have.been how.many.they.might.have.been
 He swallowed two of them — how big the rocks were or how many of them he swallowed, I'm not sure.
 
@@ -1150,7 +1150,7 @@ hair.seal hunting.for.it
 
 # 165
 ?ucachi?atl ?_a?_itlquu, ?am'aqtl'ihhta?i.
-?u-ca-chi(tl) ?_a?_itl-qu: ?am-'aqtl-'ihhta-?i*
+?u-ca-chi(tl)-'atl ?_a?_itl-qu: ?am-'aqtl-'ihhta-?i*
 it-go.to-MOM-FIN cave-COND.3 LOC-inside-at.the.point-DEF
 went.there cave inside.of.the.tip.of.the.point
 [Qawiqaalth] went to the cave at the tip of the point.
@@ -1222,7 +1222,7 @@ This is a teaching.
 ?uyaatlitwa?ish qii?atl'itq, ?iiqhhuk?atl qawiqaal hilit?itq, qwi?iimit?itq.
 ?uyi-??-'atl-it-wa*?i*sh qi:-'atl-?i*tq ?i:qhh-uk-'atl qawiqa:l hil-it-?i*tq qwi-?i:-mit-?i*tq
 at.the.time-??-FIN-PAST-QUOT.3 for.a.long.time-FIN-REL.3 telling-DUR-FIN Qawiqaalth there-PAST-REL.3 that.which-reach-PAST-REL.3
-it.was.the.time when.long.time.has.past told Qawiqaalth where he.was how.far.he.went
+it.was.the.time when.long.time.has.past told Qawiqaalth where.he.was how.far.he.went
 Many years later, Qawiqaalth told where he had been and how far he had gone.
 
 # 175
