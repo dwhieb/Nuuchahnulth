@@ -21,7 +21,7 @@ They buried it [carefully]. They didn’t just bury it or throw it away.
 
 # 003
 ʔuuksnaʕaaɬʔaƛquu       qʷiimaʕukmaḥsaʔitq                           ḥaakʷaaƛ. ƛ̓aʕiiksap       t̓ut̓unaxk̓uk, pic̓up, č̓itapt.     qʷiqʔiitq        pikaʔuuqiiɬy̓ak         (paaskitiiɬy̓ak).       ƛ̓aʕiiksap̓aƛ,           c̓uy̓iitap̓aƛ.
-ʔu-ksnaʕaːɬ-ʼaƛ-quː     qʷi-maʕuk-maḥsa-ʔi·tq                        ḥaːkʷa·ƛ  ƛ̓aʕiːk-sa·p     t̓ut̓unaxk̓uk  pic̓up  č̓itapt      qʷiq-ʔi·tq       pikaʔuːq-iːɬ           y̓akʷ                   paːskit-iːɬ-y̓akʷ       ƛ̓aʕiːk-sa·p-ʼaƛ          c̓us-ʼi·tap-ʼaƛ
+ʔu-ksnaʕaːɬ-ʼaƛ-quː     qʷi-maʕuk-maḥsa-ʔi·tq                        ḥaːkʷa·ƛ  ƛ̓aʕiːk-sa·p     t̓ut̓unaxk̓uk  pic̓up  č̓itapt      qʷiq-ʔi·tq       pikaʔuːq-iːɬ-y̓akʷ      paːskit-iːɬ-y̓akʷ       ƛ̓aʕiːk-sa·p-ʼaƛ        c̓us-ʼi·tap-ʼaƛ
 it-handling-FINITE-COND that.which-one.skilled.in-designing.to-REL.3 girl      wrapped-MOMCAUS tule.grass  bark   swamp.grass that.which-REL.3 basket-make-useful.for basket-make-useful.for wrapped-MOMCAUS-FINITE dig-on.the.ground-FINITE
 they.would.take.it      what.they.want.her.to.be.talented.at         girl      wrap            tule.grass  bark   swamp.grass that.which       for.making.baskets     for.making.baskets     wrap.up                buried.it
 They took whatever they wanted the girl to be talented at and wrap it [with the afterbirth]: they put things like tule grass, cedar bark, swamp grass, or whatever they used to make baskets with.
@@ -36,7 +36,7 @@ They didn’t just bury it — they prayed as they are doing it.
 # 005
 waa ḥaaw̓iiḥaƛ y̓uuqʷaa, hiihiiqšaḥap̓at              y̓uuqʷaa.
 wa· ḥaːw̓iːḥaƛ y̓uːqʷaː  hiːhiːq-šaḥap-ʼat           y̓uːqʷaː
-and boys      also     doing.various.things.to.him also
+and boys      also     various-doing-SHIFT         also
 and boys      also     doing.various.things.to.him also
 And for boys too, they did all sorts of things.
 
@@ -8562,7 +8562,7 @@ ID:           GL8
 # 002
 hixy̓aaʔic̓aƛwaʔiš,                        č̓aaxstimcm̓it.
 hiɬ-<x>-ʼa·-ʔic-ʼaƛ-wa·ʔi·š              č̓aːstimc-<x>-m̓i·t
-there-MINK-on.the.rock-DIM-FIN-QUOT.3    mink-MINKN-son.of
+there-MINK-on.the.rock-DIM-FIN-QUOT.3    mink-MINK-son.of
 little.one.was.sitting.there.on.the.rock Son.of.Mink
 There was a small Son of Mink sitting on the rock.
 

@@ -25,7 +25,7 @@ async function convertTexts() {
   await Promise.all(filenames.map(async filename => {
 
     const options = {
-      alignmentError: false,
+      alignmentError: true,
       parser,
     };
 

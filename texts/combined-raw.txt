@@ -21,7 +21,7 @@ They buried it [carefully]. They didn't just bury it or throw it away.
 
 # 003
 ?uuksna?_aal?atlquu qwiima?_ukmahhsa?itq hhaakwaatl. tl'a?_iiksap t'ut'unaxk'uk, pic'up, ch'itapt. qwiq?iitq pika?uuqiily'ak (paaskitiily'ak). tl'a?_iiksap'atl, c'uy'iitap'atl.
-?u-ksna?_a:l-'atl-qu: qwi-ma?_uk-mahhsa-?i*tq hha:kwa*tl tl'a?_i:k-sa*p t'ut'unaxk'uk pic'up ch'itapt qwiq-?i*tq pika?u:q-i:l y'akw pa:skit-i:l-y'akw tl'a?_i:k-sa*p-'atl c'us-'i*tap-'atl
+?u-ksna?_a:l-'atl-qu: qwi-ma?_uk-mahhsa-?i*tq hha:kwa*tl tl'a?_i:k-sa*p t'ut'unaxk'uk pic'up ch'itapt qwiq-?i*tq pika?u:q-i:l-y'akw pa:skit-i:l-y'akw tl'a?_i:k-sa*p-'atl c'us-'i*tap-'atl
 it-handling-FINITE-COND that.which-one.skilled.in-designing.to-REL.3 girl wrapped-MOMCAUS tule.grass bark swamp.grass that.which-REL.3 basket-make-useful.for basket-make-useful.for wrapped-MOMCAUS-FINITE dig-on.the.ground-FINITE
 they.would.take.it what.they.want.her.to.be.talented.at girl wrap tule.grass bark swamp.grass that.which for.making.baskets for.making.baskets wrap.up buried.it
 They took whatever they wanted the girl to be talented at and wrap it [with the afterbirth]: they put things like tule grass, cedar bark, swamp grass, or whatever they used to make baskets with.
@@ -36,7 +36,7 @@ They didn't just bury it — they prayed as they are doing it.
 # 005
 waa hhaaw'iihhatl y'uuqwaa, hiihiiqshahhap'at y'uuqwaa.
 wa* hha:w'i:hhatl y'u:qwa: hi:hi:q-shahhap-'at y'u:qwa:
-and boys also doing.various.things.to.him also
+and boys also various-doing-SHIFT also
 and boys also doing.various.things.to.him also
 And for boys too, they did all sorts of things.
 
@@ -8562,7 +8562,7 @@ ID:           GL8
 # 002
 hixy'aa?ic'atlwa?ish, ch'aaxstimcm'it.
 hil-<x>-'a*-?ic-'atl-wa*?i*sh ch'a:stimc-<x>-m'i*t
-there-MINK-on.the.rock-DIM-FIN-QUOT.3 mink-MINKN-son.of
+there-MINK-on.the.rock-DIM-FIN-QUOT.3 mink-MINK-son.of
 little.one.was.sitting.there.on.the.rock Son.of.Mink
 There was a small Son of Mink sitting on the rock.
 
