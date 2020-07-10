@@ -1,0 +1,1667 @@
+{
+  "title": "Gray whales",
+  "abbreviation": "GrayWhale",
+  "ID": "GL3",
+  "utterances": [
+    {
+      "metadata": "001",
+      "transcript": "maaʔak maaʔuk maaʔukʷis haʔumn̓aḥ.",
+      "transcription": "",
+      "translation": "The gray whale while traveling stops by at various places to search for food.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "maːʔak",
+          "gloss": "gray.whale",
+          "literal": "gray.whale",
+          "morphemes": [
+            {
+              "transcription": "maːʔak",
+              "gloss": "gray.whale"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːʔuk",
+          "gloss": "travel",
+          "literal": "travel",
+          "morphemes": [
+            {
+              "transcription": "maːʔuk",
+              "gloss": "travel"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːʔuk-ʔis",
+          "gloss": "travel-DIM",
+          "literal": "stop.by.at.various.places",
+          "morphemes": [
+            {
+              "transcription": "maːʔuk",
+              "gloss": "travel"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "DIM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "haʔum-n̓a·ḥ",
+          "gloss": "food-seeking",
+          "literal": "searching.for.food",
+          "morphemes": [
+            {
+              "transcription": "haʔum",
+              "gloss": "food"
+            },
+            {
+              "transcription": "n̓a·ḥ",
+              "gloss": "seeking"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "002",
+      "transcript": "maaʔak histaqšiƛ̓aɬ t̓aqsiiʔiɬ.",
+      "transcription": "",
+      "translation": "Gray whales are from the southern area.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "maːʔak",
+          "gloss": "gray.whale",
+          "literal": "gray.whale",
+          "morphemes": [
+            {
+              "transcription": "maːʔak",
+              "gloss": "gray.whale"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "his-taq-ši(ƛ)-ʔa·ɬ",
+          "gloss": "there-come.from-MOM-PL",
+          "literal": "they.come.from.there",
+          "morphemes": [
+            {
+              "transcription": "his",
+              "gloss": "there"
+            },
+            {
+              "transcription": "taq",
+              "gloss": "come.from"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓aqsiːʔiɬ",
+          "gloss": "southern.area",
+          "literal": "southern.area",
+          "morphemes": [
+            {
+              "transcription": "t̓aqsiːʔiɬ",
+              "gloss": "southern.area"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "003",
+      "transcript": "n̓aač̓aɬuk̓ʷaƛquuč quuʔas ƛ̓aqapt n̓aacsa ƛ̓aqswaasʔaƛquu ʔaʔum ʕiiɬmakt.",
+      "transcription": "",
+      "translation": "Men would watch the plant(s) to see when the nettle first sprouts.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "n̓ač-ʼaɬuk-ʼaƛ-quː-č",
+          "gloss": "see-looking.after-FIN-COND-INF",
+          "literal": "would.watch",
+          "morphemes": [
+            {
+              "transcription": "n̓ač",
+              "gloss": "see"
+            },
+            {
+              "transcription": "ʼaɬuk",
+              "gloss": "looking.after"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FIN"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas",
+          "gloss": "person",
+          "literal": "person",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "person"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aqapt",
+          "gloss": "plants",
+          "literal": "plants",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aqapt",
+              "gloss": "plants"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓aːcsa",
+          "gloss": "see",
+          "literal": "see",
+          "morphemes": [
+            {
+              "transcription": "n̓aːcsa",
+              "gloss": "see"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aq-swi·-ʼas-ʼaƛ-quː",
+          "gloss": "grow-extending.through-on.the.ground-FIN-COND",
+          "literal": "when.it.sprouts",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aq",
+              "gloss": "grow"
+            },
+            {
+              "transcription": "swi·",
+              "gloss": "extending.through"
+            },
+            {
+              "transcription": "ʼas",
+              "gloss": "on.the.ground"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FIN"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaʔum",
+          "gloss": "at.first",
+          "literal": "at.first",
+          "morphemes": [
+            {
+              "transcription": "ʔaʔum",
+              "gloss": "at.first"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiːɬmakt",
+          "gloss": "nettle",
+          "literal": "nettle",
+          "morphemes": [
+            {
+              "transcription": "ʕiːɬmakt",
+              "gloss": "nettle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "004",
+      "transcript": "čuu, waa quuʔasʔi ḥamat ƛ̓aqswaasʔaƛ̓iš ʕiiɬmakt.",
+      "transcription": "",
+      "translation": "Now [my] people, you can plainly see that the nettle(s) have started to grow.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·",
+          "gloss": "and",
+          "literal": "and",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "and"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas-ʔi·",
+          "gloss": "person-DEF",
+          "literal": "the.man",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "person"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥamat",
+          "gloss": "plain",
+          "literal": "plain",
+          "morphemes": [
+            {
+              "transcription": "ḥamat",
+              "gloss": "plain"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aq-swi·-ʼas-ʼaƛ-ʔi·š",
+          "gloss": "grow-extending.through-on.the.ground-FIN-IND.3",
+          "literal": "have.started.to.sprout",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aq",
+              "gloss": "grow"
+            },
+            {
+              "transcription": "swi·",
+              "gloss": "extending.through"
+            },
+            {
+              "transcription": "ʼas",
+              "gloss": "on.the.ground"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FIN"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiːɬmakt",
+          "gloss": "nettle",
+          "literal": "nettle",
+          "morphemes": [
+            {
+              "transcription": "ʕiːɬmakt",
+              "gloss": "nettle"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "005",
+      "transcript": "ƛ̓aqšiʔaƛ̓eeš.",
+      "transcription": "",
+      "translation": "Now it is spring.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aq-ši(ƛ)-ʼaƛ-ʔi·š",
+          "gloss": "grow-MOM-FIN-IND.3",
+          "literal": "it.is.growing",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aq",
+              "gloss": "grow"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FIN"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "006",
+      "transcript": "ʔuyi maaʔak pisšiƛ yaacšiƛ histaqšiƛ kaɬapooɬiyaquu.",
+      "transcription": "",
+      "translation": "It is the time when the gray whale(s) start to move, to migrate from [some place around] California.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔuyi",
+          "gloss": "at.that.time",
+          "literal": "at.that.time",
+          "morphemes": [
+            {
+              "transcription": "ʔuyi",
+              "gloss": "at.that.time"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːʔak",
+          "gloss": "gray.whale",
+          "literal": "gray.whale",
+          "morphemes": [
+            {
+              "transcription": "maːʔak",
+              "gloss": "gray.whale"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "pis-ši(ƛ)",
+          "gloss": "move-MOM",
+          "literal": "begin.to.move",
+          "morphemes": [
+            {
+              "transcription": "pis",
+              "gloss": "move"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "yaːc-ši(ƛ)",
+          "gloss": "walk-MOM",
+          "literal": "begin.to.walk",
+          "morphemes": [
+            {
+              "transcription": "yaːc",
+              "gloss": "walk"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "his-taq-ši(ƛ)",
+          "gloss": "there-come.from-MOM",
+          "literal": "came.from",
+          "morphemes": [
+            {
+              "transcription": "his",
+              "gloss": "there"
+            },
+            {
+              "transcription": "taq",
+              "gloss": "come.from"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kaɬapoːɬiya-quː",
+          "gloss": "California-COND",
+          "literal": "California.area",
+          "morphemes": [
+            {
+              "transcription": "kaɬapoːɬiya",
+              "gloss": "California"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "007",
+      "transcript": "maaʔak ʔuʔiic ƛičḥsa, cacak̓is.",
+      "transcription": "",
+      "translation": "The gray whale feeds on plankton and razor clams.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "maːʔak",
+          "gloss": "gray.whale",
+          "literal": "gray.whale",
+          "morphemes": [
+            {
+              "transcription": "maːʔak",
+              "gloss": "gray.whale"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qu-ʼi·c",
+          "gloss": "it-eat",
+          "literal": "eat.it",
+          "morphemes": [
+            {
+              "transcription": "qu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ʼi·c",
+              "gloss": "eat"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛičḥsa",
+          "gloss": "plankton",
+          "literal": "plankton",
+          "morphemes": [
+            {
+              "transcription": "ƛičḥsa",
+              "gloss": "plankton"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "cacak̓is",
+          "gloss": "razor.clam",
+          "literal": "razor.clam",
+          "morphemes": [
+            {
+              "transcription": "cacak̓is",
+              "gloss": "razor.clam"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "008",
+      "transcript": "ƛaan̓uɬ qimaɬitwaʔišʔaɬ maaʔak.",
+      "transcription": "",
+      "translation": "The gray whales get barnacles on the body.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ƛaːn̓uɬ",
+          "gloss": "barnacle",
+          "literal": "barnacle",
+          "morphemes": [
+            {
+              "transcription": "ƛaːn̓uɬ",
+              "gloss": "barnacle"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qim-aɬ-it-wa·-ʔi·š-ʔa·ɬ",
+          "gloss": "??-attached.on-on.the.body-say-IND.3-PL",
+          "literal": "they.get.them.attached.on.the.body",
+          "morphemes": [
+            {
+              "transcription": "qim",
+              "gloss": "??"
+            },
+            {
+              "transcription": "aɬ",
+              "gloss": "attached.on"
+            },
+            {
+              "transcription": "it",
+              "gloss": "on.the.body"
+            },
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːʔak",
+          "gloss": "gray.whale",
+          "literal": "gray.whale",
+          "morphemes": [
+            {
+              "transcription": "maːʔak",
+              "gloss": "gray.whale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "009",
+      "transcript": "qʷaawaaʔiš qʷaaʔiitq quuʔas č̓iḥsuuqƛiič.",
+      "transcription": "",
+      "translation": "They say that, like a human, they have a spirit inside the body.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "qʷaː-wa·-ʔi·š",
+          "gloss": "thus-say-IND.3",
+          "literal": "to.be.thus.it.is.said",
+          "morphemes": [
+            {
+              "transcription": "qʷaː",
+              "gloss": "thus"
+            },
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷaː-ʔi·tq",
+          "gloss": "thus-REL.3",
+          "literal": "like",
+          "morphemes": [
+            {
+              "transcription": "qʷaː",
+              "gloss": "thus"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas",
+          "gloss": "person",
+          "literal": "person",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "person"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "č̓iḥ-su·qƛ-(y)iː-č",
+          "gloss": "spirit-inside.the.body-INDF-INF",
+          "literal": "having.spirit.inside.the.body",
+          "morphemes": [
+            {
+              "transcription": "č̓iḥ",
+              "gloss": "spirit"
+            },
+            {
+              "transcription": "su·qƛ",
+              "gloss": "inside.the.body"
+            },
+            {
+              "transcription": "(y)iː",
+              "gloss": "INDF"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "010",
+      "transcript": "wiḥiʔuƛwaʔišʔaaɬ maaʔak ʔuušyuuya.",
+      "transcription": "",
+      "translation": "They sometimes would go to the rocky shoreline.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wiḥi-ʼu·ƛ-wa·-ʔi·š-ʔaːɬ",
+          "gloss": "on.dry.land-on.the.rocks-QUOT-IND.3-always",
+          "literal": "goes.ashore",
+          "morphemes": [
+            {
+              "transcription": "wiḥi",
+              "gloss": "on.dry.land"
+            },
+            {
+              "transcription": "ʼu·ƛ",
+              "gloss": "on.the.rocks"
+            },
+            {
+              "transcription": "wa·",
+              "gloss": "QUOT"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            },
+            {
+              "transcription": "ʔaːɬ",
+              "gloss": "always"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːʔak",
+          "gloss": "gray.whale",
+          "literal": "gray.whale",
+          "morphemes": [
+            {
+              "transcription": "maːʔak",
+              "gloss": "gray.whale"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuːš-yuːya",
+          "gloss": "some-at.the.time",
+          "literal": "sometimes",
+          "morphemes": [
+            {
+              "transcription": "ʔuːš",
+              "gloss": "some"
+            },
+            {
+              "transcription": "yuːya",
+              "gloss": "at.the.time"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "011",
+      "transcript": "wik̓iituƛ̓aɬ ƛaan̓uɬ qʷičisituusii ʔusit̓atʔi.",
+      "transcription": "",
+      "translation": "They [gray whales] get rid of barnacles that are on their bodies.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik̓iːt-uƛ-ʔa·ɬ",
+          "gloss": "absent-MOM-PL",
+          "literal": "they.get.rid.of",
+          "morphemes": [
+            {
+              "transcription": "wik̓iːt",
+              "gloss": "absent"
+            },
+            {
+              "transcription": "uƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛaːn̓uɬ",
+          "gloss": "barnacle",
+          "literal": "barnacle",
+          "morphemes": [
+            {
+              "transcription": "ƛaːn̓uɬ",
+              "gloss": "barnacle"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷi-čis-it-uːsi-(y)iː",
+          "gloss": "that.which-??-on.the.body-REL.DUB.3-INDF",
+          "literal": "whatever.might.be.on.the.body",
+          "morphemes": [
+            {
+              "transcription": "qʷi",
+              "gloss": "that.which"
+            },
+            {
+              "transcription": "čis",
+              "gloss": "??"
+            },
+            {
+              "transcription": "it",
+              "gloss": "on.the.body"
+            },
+            {
+              "transcription": "uːsi",
+              "gloss": "REL.DUB.3"
+            },
+            {
+              "transcription": "(y)iː",
+              "gloss": "INDF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔusit-ʼat-ʔi·",
+          "gloss": "body-POSS-DEF",
+          "literal": "its.body",
+          "morphemes": [
+            {
+              "transcription": "ʔusit",
+              "gloss": "body"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "012",
+      "transcript": "puumaɬituƛwaʔišʔaaɬ y̓uuqʷaa qʷaaʔiitq quuʔas.",
+      "transcription": "",
+      "translation": "They [gray whales] get itchy on the body like humans.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "puːmaɬ-it-uƛ-wa·-ʔi·š-ʔaːɬ",
+          "gloss": "itching-on.the.body-MOM-QUOT-IND.3-always",
+          "literal": "would.get.itchy.on.the.body",
+          "morphemes": [
+            {
+              "transcription": "puːmaɬ",
+              "gloss": "itching"
+            },
+            {
+              "transcription": "it",
+              "gloss": "on.the.body"
+            },
+            {
+              "transcription": "uƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "wa·",
+              "gloss": "QUOT"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            },
+            {
+              "transcription": "ʔaːɬ",
+              "gloss": "always"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "y̓uːqʷaː",
+          "gloss": "also",
+          "literal": "also",
+          "morphemes": [
+            {
+              "transcription": "y̓uːqʷaː",
+              "gloss": "also"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷaː-ʔi·tq",
+          "gloss": "thus-REL.3",
+          "literal": "like",
+          "morphemes": [
+            {
+              "transcription": "qʷaː",
+              "gloss": "thus"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas",
+          "gloss": "human",
+          "literal": "human",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "human"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "013",
+      "transcript": "haatkhaatkmiʔa m̓uukuukʔi m̓uukuukquu.",
+      "transcription": "",
+      "translation": "They would roll and roll on the rocks.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "DUP#-hatk-mi·ʔa",
+          "gloss": "IT-roll-move.on.the.rock",
+          "literal": "keep.rolling.on.the.rock",
+          "morphemes": [
+            {
+              "transcription": "DUP#",
+              "gloss": "IT"
+            },
+            {
+              "transcription": "hatk",
+              "gloss": "roll"
+            },
+            {
+              "transcription": "mi·ʔa",
+              "gloss": "move.on.the.rock"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "m̓uːkuːk-ʔi·",
+          "gloss": "rock-DEF",
+          "literal": "the.sea.floor",
+          "morphemes": [
+            {
+              "transcription": "m̓uːkuːk",
+              "gloss": "rock"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "m̓uːkuːk-quː",
+          "gloss": "rock-COND",
+          "literal": "where.are.rocky",
+          "morphemes": [
+            {
+              "transcription": "m̓uːkuːk",
+              "gloss": "rock"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "014",
+      "transcript": "hitaatap k̓aʔaqmis haatkhaatkʷa.",
+      "transcription": "",
+      "translation": "They roll repeatedly on the rocks to remove the rubbish [on their body].",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hita-ʔa·ta-ʼap",
+          "gloss": "LOC-lacking-CAUS",
+          "literal": "take.off",
+          "morphemes": [
+            {
+              "transcription": "hita",
+              "gloss": "LOC"
+            },
+            {
+              "transcription": "ʔa·ta",
+              "gloss": "lacking"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "CAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "k̓aʔaqmis",
+          "gloss": "rubbish",
+          "literal": "rubbish",
+          "morphemes": [
+            {
+              "transcription": "k̓aʔaqmis",
+              "gloss": "rubbish"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUP#-hatkʷ-(y)a",
+          "gloss": "IT-roll-REP",
+          "literal": "roll.repeatedly",
+          "morphemes": [
+            {
+              "transcription": "DUP#",
+              "gloss": "IT"
+            },
+            {
+              "transcription": "hatkʷ",
+              "gloss": "roll"
+            },
+            {
+              "transcription": "(y)a",
+              "gloss": "REP"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "015",
+      "transcript": "ʔacʔin ʔukɬaaʔakʷaʔiš hiy̓aḥsʔitq.",
+      "transcription": "",
+      "translation": "They say that [the whale’s body] is called the ‘hunting suits’ where he is inside [the whale]. (?)",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔac-ʔin",
+          "gloss": "go.out.hunting-costume.for",
+          "literal": "hunting.suit",
+          "morphemes": [
+            {
+              "transcription": "ʔac",
+              "gloss": "go.out.hunting"
+            },
+            {
+              "transcription": "ʔin",
+              "gloss": "costume.for"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-kɬaː-ʔak-wa·-ʔi·š",
+          "gloss": "it-having.as.name-POSS-QUOT-IND.3",
+          "literal": "they.say.his.is.called",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "kɬaː",
+              "gloss": "having.as.name"
+            },
+            {
+              "transcription": "ʔak",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "wa·",
+              "gloss": "QUOT"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-ʼaḥs-ʔi·tq",
+          "gloss": "LOC-in.a.vessel-REL.3",
+          "literal": "where.they.sit.in",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "LOC"
+            },
+            {
+              "transcription": "ʼaḥs",
+              "gloss": "in.a.vessel"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "016",
+      "transcript": "čuu, yaacaa yaacšiƛ.",
+      "transcription": "",
+      "translation": "Now he is ready to depart.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "now.then",
+          "literal": "now.then",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "now.then"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "yaːc-(y)a·",
+          "gloss": "walk-DUR",
+          "literal": "walking",
+          "morphemes": [
+            {
+              "transcription": "yaːc",
+              "gloss": "walk"
+            },
+            {
+              "transcription": "(y)a·",
+              "gloss": "DUR"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "yaːc-ši(ƛ)",
+          "gloss": "walk-MOM",
+          "literal": "begin.to.walk",
+          "morphemes": [
+            {
+              "transcription": "yaːc",
+              "gloss": "walk"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "017",
+      "transcript": "wiḥisaƛ maʔasʔi",
+      "transcription": "",
+      "translation": "He goes ashore at places where there is a village.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wiḥi-sa(ƛ)",
+          "gloss": "on.dry.land-on.the.beach",
+          "literal": "land.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "wiḥi",
+              "gloss": "on.dry.land"
+            },
+            {
+              "transcription": "sa(ƛ)",
+              "gloss": "on.the.beach"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maʔas-ʔi·",
+          "gloss": "village-DEF",
+          "literal": "the.village",
+          "morphemes": [
+            {
+              "transcription": "maʔas",
+              "gloss": "village"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "018",
+      "transcript": "maaʔukʷis. qun̓aaḥ čamp̓uuqsquu quuʔas maatmaas.",
+      "transcription": "",
+      "translation": "It stops by at various places, looking for a village where people smell good — i.e. have bathed every day to get rid of odor, and thus are ritually pure and well prepared.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "maːʔuk-ʔis",
+          "gloss": "travel-DIM",
+          "literal": "stop.by.at.various.places",
+          "morphemes": [
+            {
+              "transcription": "maːʔuk",
+              "gloss": "travel"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "DIM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-n̓a·ḥ",
+          "gloss": "it-seeking",
+          "literal": "looking.for",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "n̓a·ḥ",
+              "gloss": "seeking"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "čam-p̓u·qs-quː",
+          "gloss": "good-smelling.of-COND",
+          "literal": "what.smells.good",
+          "morphemes": [
+            {
+              "transcription": "čam",
+              "gloss": "good"
+            },
+            {
+              "transcription": "p̓u·qs",
+              "gloss": "smelling.of"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas",
+          "gloss": "person",
+          "literal": "person",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "person"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːtmaːs",
+          "gloss": "villages",
+          "literal": "villages",
+          "morphemes": [
+            {
+              "transcription": "maːtmaːs",
+              "gloss": "villages"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "019",
+      "transcript": "huuʔakitwaʔišʔaaɬ ƛimkšiƛ quuʔas",
+      "transcription": "",
+      "translation": "Long ago, people used to wake up early in the morning.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "huːʔak-it-wa·-ʔi·š-ʔaːɬ",
+          "gloss": "early-PAST-QUOT-IND.3-always",
+          "literal": "used.to.do.early",
+          "morphemes": [
+            {
+              "transcription": "huːʔak",
+              "gloss": "early"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "wa·",
+              "gloss": "QUOT"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            },
+            {
+              "transcription": "ʔaːɬ",
+              "gloss": "always"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛimk-ši(ƛ)",
+          "gloss": "awake-MOM",
+          "literal": "wake.up",
+          "morphemes": [
+            {
+              "transcription": "ƛimk",
+              "gloss": "awake"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas",
+          "gloss": "person",
+          "literal": "person",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "person"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "020",
+      "transcript": "huuʔaksy̓uuč. wiky̓uuquu k̓aaʔin ciɬšiƛ hiɬaasc̓a.",
+      "transcription": "",
+      "translation": "They started their day before the crows left droppings on the roof.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "huːʔak-sy̓uːč",
+          "gloss": "early-exposed?",
+          "literal": "early?",
+          "morphemes": [
+            {
+              "transcription": "huːʔak",
+              "gloss": "early"
+            },
+            {
+              "transcription": "sy̓uːč",
+              "gloss": "exposed?"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wiky̓uː-quː",
+          "gloss": "before-COND",
+          "literal": "before",
+          "morphemes": [
+            {
+              "transcription": "wiky̓uː",
+              "gloss": "before"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "k̓aːʔin",
+          "gloss": "crow",
+          "literal": "crow",
+          "morphemes": [
+            {
+              "transcription": "k̓aːʔin",
+              "gloss": "crow"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ciɬ-ši(ƛ)",
+          "gloss": "drop.droppings-MOM",
+          "literal": "drop.droppings",
+          "morphemes": [
+            {
+              "transcription": "ciɬ",
+              "gloss": "drop.droppings"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-a·sc̓a",
+          "gloss": "LOC-on.the.roof",
+          "literal": "on.the.roof",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "LOC"
+            },
+            {
+              "transcription": "a·sc̓a",
+              "gloss": "on.the.roof"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "021",
+      "transcript": "taakšiƛ n̓ač̓uuʔas mixtukʔi nawaay̓as.",
+      "transcription": "",
+      "translation": "The old men were always sitting looking about.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "taːkšiƛ",
+          "gloss": "always",
+          "literal": "always",
+          "morphemes": [
+            {
+              "transcription": "taːkšiƛ",
+              "gloss": "always"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓ač-ʼu·(ƛ)-ʼas",
+          "gloss": "see-on.the.rocks-outdoors",
+          "literal": "look.out",
+          "morphemes": [
+            {
+              "transcription": "n̓ač",
+              "gloss": "see"
+            },
+            {
+              "transcription": "ʼu·(ƛ)",
+              "gloss": "on.the.rocks"
+            },
+            {
+              "transcription": "ʼas",
+              "gloss": "outdoors"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "mixtuk-ʔi·",
+          "gloss": "aged-DEF",
+          "literal": "the.old.person",
+          "morphemes": [
+            {
+              "transcription": "mixtuk",
+              "gloss": "aged"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nawa·s-ʼas",
+          "gloss": "sitting.idly-outdoors",
+          "literal": "sitting.idly.outside",
+          "morphemes": [
+            {
+              "transcription": "nawa·s",
+              "gloss": "sitting.idly"
+            },
+            {
+              "transcription": "ʼas",
+              "gloss": "outdoors"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "022",
+      "transcript": "wik̓iitukʔaɬ ʕiʕiqatʕin.",
+      "transcription": "",
+      "translation": "They did not have a watch.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik̓iːt-uk-ʔa·ɬ",
+          "gloss": "absent-DUR-PL",
+          "literal": "they.did.not.have",
+          "morphemes": [
+            {
+              "transcription": "wik̓iːt",
+              "gloss": "absent"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUP-ʕiqat-ʕin",
+          "gloss": "DISTR-drip-make.sound",
+          "literal": "watch",
+          "morphemes": [
+            {
+              "transcription": "DUP",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "ʕiqat",
+              "gloss": "drip"
+            },
+            {
+              "transcription": "ʕin",
+              "gloss": "make.sound"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "023",
+      "transcript": "ʔuuktisʔaɬ ḥaay̓iis muuɬisʔaƛquu.",
+      "transcription": "",
+      "translation": "They acted by reference to low and high tides.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔu-ktis-ʔa·ɬ",
+          "gloss": "it-acting.by.reference.to-PL",
+          "literal": "they.are.guided.by",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ktis",
+              "gloss": "acting.by.reference.to"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaːy̓iːs",
+          "gloss": "low.tide",
+          "literal": "low.tide",
+          "morphemes": [
+            {
+              "transcription": "ḥaːy̓iːs",
+              "gloss": "low.tide"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muːɬ-ʔis-ʼaƛ-quː",
+          "gloss": "tide.is.up-on.the.beach-FIN-COND",
+          "literal": "high.tides",
+          "morphemes": [
+            {
+              "transcription": "muːɬ",
+              "gloss": "tide.is.up"
+            },
+            {
+              "transcription": "ʔis",
+              "gloss": "on.the.beach"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FIN"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "024",
+      "transcript": "n̓aač̓aɬuk hupaɬ, qʷaaʔuuc.",
+      "transcription": "",
+      "translation": "They watched the moon [to determine the time].",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "n̓ač-ʼaɬuk",
+          "gloss": "see-looking.after",
+          "literal": "watch",
+          "morphemes": [
+            {
+              "transcription": "n̓ač",
+              "gloss": "see"
+            },
+            {
+              "transcription": "ʼaɬuk",
+              "gloss": "looking.after"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hupaɬ",
+          "gloss": "moon",
+          "literal": "moon",
+          "morphemes": [
+            {
+              "transcription": "hupaɬ",
+              "gloss": "moon"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷaːʔuːc",
+          "gloss": "moon",
+          "literal": "moon",
+          "morphemes": [
+            {
+              "transcription": "qʷaːʔuːc",
+              "gloss": "moon"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
