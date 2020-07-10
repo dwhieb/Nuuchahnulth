@@ -3319,13 +3319,13 @@ The dogs grew up.
 # 012
 nitinqsaƛ                     ʔumʔiiqsuʔi   č̓iitaaw̓it̓as.
 hita-inq-ʽsa(ƛ)               ʔumʔi·qsu-ʔi· č̓iːt-a·-w̓it̓as
-LOC-down.a.slope-on.the.beach mother-DEF
+LOC-down.a.slope-on.the.beach mother-DEF    digging.clams-DUR-about.to
 went.down.to.the.beach        the.mother    start.digging.clams
 The mother went down to the beach to dig clams.
 
 # 013
 wik̓ap̓at                 qiiʔis                    č̓iitaa,            naʔiičiƛ        nunuukʔi.
-wik-ʼap-ʼat             qiː-ʽis                   č̓iːt               naʔa·-ʽi·čiƛ    nunuːk-ʔi·
+wik-ʼap-ʼat             qiː-ʽis                   č̓iːt-a·            naʔa·-ʽi·čiƛ    nunuːk-ʔi·
 not-MOMCAUS-SHIFT       for.long-on.the.beach     digging.claims-DUR hear-INC        singing-DEF
 they.did.not.let.her.do staying.long.on.the.beach digging.clams      started.to.hear one.who.is.singing
 Before long she started hearing someone singing.
@@ -3562,10 +3562,10 @@ they.all.died drowned  got.caught.in.a.storm
 They all drowned in the stormy sea.
 
 # 047
-ḥaaḥuupay̓ak            —                           ʔunw̓iiƛḥʔatwaʔiš         wiiy̓aat                ɬaakʷiiɬʔat                      yaaʕaaɬčiqḥʔatʔitq      quuʔas.               ḥaʔukʷiƛ̓aaɬ    n̓aas.
-ḥaːḥuːp-(y)a·-y̓akʷ     —                           ʔunw̓iːƛ-(q)ḥ-ʼat-wa·ʔi·š wyiːy̓a-ʼat             ɬakʷ-iːɬ-ʼat                     yaqʷ-ʼa·ɬčiqḥ-ʼat-ʔi·tq quːʔas                ḥaʔu-kʷiƛ-ʔaːɬ n̓aːs
-teaching-REP-thing.for because.of-SIM-SHIFT-QUOT.3 never-SHIFT              treat.badly-IT-SHIFT   he.who-together.with-SHIFT-REL.3 person                  do.in.turn-MOM-always creator
-teachings              it.is.the.reason.why        never                    keeping.treating.badly fellow.people                    person                  pay.back              creator
+ḥaaḥuupay̓ak            — ʔunw̓iiƛḥʔatwaʔiš            wiiy̓aat     ɬaakʷiiɬʔat            yaaʕaaɬčiqḥʔatʔitq               quuʔas. ḥaʔukʷiƛ̓aaɬ           n̓aas.
+ḥaːḥuːp-(y)a·-y̓akʷ     — ʔunw̓iːƛ-(q)ḥ-ʼat-wa·ʔi·š    wyiːy̓a-ʼat  ɬakʷ-iːɬ-ʼat           yaqʷ-ʼa·ɬčiqḥ-ʼat-ʔi·tq          quːʔas  ḥaʔu-kʷiƛ-ʔaːɬ        n̓aːs
+teaching-REP-thing.for — because.of-SIM-SHIFT-QUOT.3 never-SHIFT treat.badly-IT-SHIFT   he.who-together.with-SHIFT-REL.3 person  do.in.turn-MOM-always creator
+teachings              — it.is.the.reason.why        never       keeping.treating.badly fellow.people                    person  pay.back              creator
 Lecture — This is the reason you never treat your fellowmen badly. You get it back from someone up there.
 ---
 title:        How people saw a solar eclipse

@@ -1,0 +1,3994 @@
+{
+  "title": {
+    "en": "The dog children",
+    "nuk": "ʕiniiƛm̓inḥč̓a t̓aatn̓aʔis"
+  },
+  "abbreviation": "DogChildren",
+  "ID": "CL7",
+  "utterances": [
+    {
+      "metadata": "001",
+      "transcript": "ḥakʷaƛnakitwaʔišʔaɬ            maʔayiɬʔi.",
+      "transcription": " ",
+      "translation": "This family had a daughter.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ḥakʷaƛ-na·k-it-wa·ʔi·š-ʔa·ɬ",
+          "gloss": "daughter-having-PAST-QUOT.3-PL",
+          "literal": "they.had.a.daughter",
+          "morphemes": [
+            {
+              "transcription": "ḥakʷaƛ",
+              "gloss": "daughter"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "wa·ʔi·š",
+              "gloss": "QUOT.3"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ma-ʔayiɬ-ʔi·",
+          "gloss": "dwell-in.a.house-DEF",
+          "literal": "the.household",
+          "morphemes": [
+            {
+              "transcription": "ma",
+              "gloss": "dwell"
+            },
+            {
+              "transcription": "ʔayiɬ",
+              "gloss": "in.a.house"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "002",
+      "transcript": "sač̓icaʔap̓aƛquuč                       ʔuksnaʕaaɬ      ʕiniiƛ, ʔatquu        hawiɬšiƛšiʔiʔaaɬ           ʕiiɬčsnaʕaaɬ,     wawaaʔat    nananiqsak.",
+      "transcription": "       ",
+      "translation": "She used to play with dogs all the time, although her grandparents said to her, “Stop playing with dogs all the time.”",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "sač̓ica-ʼap-ʼaƛ-quː-č",
+          "gloss": "unceasingly-MOMCAUS-FINITE-COND-INF.3",
+          "literal": "she.would.constantly.do",
+          "morphemes": [
+            {
+              "transcription": "sač̓ica",
+              "gloss": "unceasingly"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ksnaʕaːɬ",
+          "gloss": "it-handling",
+          "literal": "playing.with.it",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ksnaʕaːɬ",
+              "gloss": "handling"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiniːƛ",
+          "gloss": "dog",
+          "literal": "dog",
+          "morphemes": [
+            {
+              "transcription": "ʕiniːƛ",
+              "gloss": "dog"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔat-quː",
+          "gloss": "although-COND",
+          "literal": "although",
+          "morphemes": [
+            {
+              "transcription": "ʔat",
+              "gloss": "although"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hawiɬ-ši(ƛ)-ši(ƛ)-ʔaːɬ",
+          "gloss": "finish-MOM-MOM-always",
+          "literal": "stop.doing.it.all.the.time",
+          "morphemes": [
+            {
+              "transcription": "hawiɬ",
+              "gloss": "finish"
+            },
+            {
+              "transcription": "ʔaːɬ",
+              "gloss": "always"
+            },
+            {
+              "transcription": "ši(ƛ)…ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiɬč-snaʕaːɬ",
+          "gloss": "dog-playing.with",
+          "literal": "plaing.with.a.dog",
+          "morphemes": [
+            {
+              "transcription": "ʕiɬč",
+              "gloss": "dog"
+            },
+            {
+              "transcription": "snaʕaːɬ",
+              "gloss": "playing.with"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wawaː-ʼat",
+          "gloss": "say-SHIFT",
+          "literal": "it.was.said",
+          "morphemes": [
+            {
+              "transcription": "wawaː",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-nani·qsu-ʔa·k",
+          "gloss": "REP-grandparent-POSS",
+          "literal": "her.grandparents",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "REP"
+            },
+            {
+              "transcription": "nani·qsu",
+              "gloss": "grandparent"
+            },
+            {
+              "transcription": "ʔa·k",
+              "gloss": "POSS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "003",
+      "transcript": "wik ʔumaap.",
+      "transcription": " ",
+      "translation": "She never listened.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik",
+          "gloss": "not",
+          "literal": "not",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-maːp",
+          "gloss": "it-paying.attention.to",
+          "literal": "pay.attention.to",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "maːp",
+              "gloss": "paying.attention.to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "004",
+      "transcript": "ḥaakʷaaƛšiƛ.   takaa ʕiiɬčsnaʕaaɬ.",
+      "transcription": "  ",
+      "translation": "She grew up, and still she played with dogs.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ḥaːkʷa·ƛ-ši(ƛ)",
+          "gloss": "girl-MOM",
+          "literal": "she.grew.up",
+          "morphemes": [
+            {
+              "transcription": "ḥaːkʷa·ƛ",
+              "gloss": "girl"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "takaː",
+          "gloss": "still",
+          "literal": "still",
+          "morphemes": [
+            {
+              "transcription": "takaː",
+              "gloss": "still"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiɬč-snaʕaːɬ",
+          "gloss": "dog-playing.with",
+          "literal": "playing.with.a.dog",
+          "morphemes": [
+            {
+              "transcription": "ʕiɬč",
+              "gloss": "dog"
+            },
+            {
+              "transcription": "snaʕaːɬ",
+              "gloss": "playing.with"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "005",
+      "transcript": "ɬiciitšiƛ        ḥaakʷaaƛ̓i,   ɬicw̓isa.",
+      "transcription": "  ",
+      "translation": "This girl got pregnant with an illegitimate child.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ɬiciːt-ši(ƛ)",
+          "gloss": "pregnant-MOM",
+          "literal": "she.got.pregnant",
+          "morphemes": [
+            {
+              "transcription": "ɬiciːt",
+              "gloss": "pregnant"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaːkʷa·ƛ-ʔi·",
+          "gloss": "girl-DEF",
+          "literal": "the.girl",
+          "morphemes": [
+            {
+              "transcription": "ḥaːkʷa·ƛ",
+              "gloss": "girl"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ɬicw̓isa",
+          "gloss": "give.birth.to.illegitimate.child",
+          "literal": "give.birth.to.illegitimate.child",
+          "morphemes": [
+            {
+              "transcription": "ɬicw̓isa",
+              "gloss": "give.birth.to.illegitimate.child"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "006",
+      "transcript": "nay̓aqnakšiƛ      muuʔak,      ʕiniiƛm̓inḥuk.",
+      "transcription": "  ",
+      "translation": "She had four babies, all dogs.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "nay̓aq-na·k-ši(ƛ)",
+          "gloss": "baby-having-MOM",
+          "literal": "had.a.baby",
+          "morphemes": [
+            {
+              "transcription": "nay̓aq",
+              "gloss": "baby"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muː-ʔa·k",
+          "gloss": "four-POSS",
+          "literal": "she.had.four",
+          "morphemes": [
+            {
+              "transcription": "muː",
+              "gloss": "four"
+            },
+            {
+              "transcription": "ʔa·k",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiniːƛ-m̓inḥ-uk",
+          "gloss": "dog-PL-POSS",
+          "literal": "hers.were.dogs",
+          "morphemes": [
+            {
+              "transcription": "ʕiniːƛ",
+              "gloss": "dog"
+            },
+            {
+              "transcription": "m̓inḥ",
+              "gloss": "PL"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "007",
+      "transcript": "y̓umḥaaʔaƛ          maʔayiɬʔi.",
+      "transcription": " ",
+      "translation": "The family was ashamed.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "y̓umḥ-a·-ʼaƛ",
+          "gloss": "ashamed-DUR-FINITE",
+          "literal": "got.ashamed",
+          "morphemes": [
+            {
+              "transcription": "y̓umḥ",
+              "gloss": "ashamed"
+            },
+            {
+              "transcription": "a·",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ma-ʔayiɬ-ʔi·",
+          "gloss": "dwell-in.a.house-DEF",
+          "literal": "the.household",
+          "morphemes": [
+            {
+              "transcription": "ma",
+              "gloss": "dwell"
+            },
+            {
+              "transcription": "ʔayiɬ",
+              "gloss": "in.a.house"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "008",
+      "transcript": "šiiƛuk̓ʷap̓at        c̓awaaʔatḥʔap̓at.",
+      "transcription": " ",
+      "translation": "They moved her so that she would live alone.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "šiːƛuk-ʼap-ʼat",
+          "gloss": "move-MOMCAUS-SHIFT",
+          "literal": "they.made.her.move",
+          "morphemes": [
+            {
+              "transcription": "šiːƛuk",
+              "gloss": "move"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "c̓awa·-ʼatḥ-ʼap-ʼat",
+          "gloss": "one-residing-MOMCAUS-SHIFT",
+          "literal": "they.made.her.live.alone",
+          "morphemes": [
+            {
+              "transcription": "c̓awa·",
+              "gloss": "one"
+            },
+            {
+              "transcription": "ʼatḥ",
+              "gloss": "residing"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "009",
+      "transcript": "ʔanasčiʔatḥ              maaty̓aqakukʔi    ʕiniiƛm̓inḥʔi.",
+      "transcription": "  ",
+      "translation": "She lived there alone with her babies, the dogs.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔana-sči-ʼatḥ",
+          "gloss": "only-along.with-residing",
+          "literal": "lived.only.with",
+          "morphemes": [
+            {
+              "transcription": "ʔana",
+              "gloss": "only"
+            },
+            {
+              "transcription": "sči",
+              "gloss": "along.with"
+            },
+            {
+              "transcription": "ʼatḥ",
+              "gloss": "residing"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "naːty̓aqak-uk-ʔi·",
+          "gloss": "babes-POSS-DEF",
+          "literal": "her.babies",
+          "morphemes": [
+            {
+              "transcription": "naːty̓aqak",
+              "gloss": "babes"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiniːƛ-m̓inḥ-ʔi·",
+          "gloss": "dog-PL-DEF",
+          "literal": "the.dogs",
+          "morphemes": [
+            {
+              "transcription": "ʕiniːƛ",
+              "gloss": "dog"
+            },
+            {
+              "transcription": "m̓inḥ",
+              "gloss": "PL"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "010",
+      "transcript": "c̓awaakḥʔat                      ʔuuʔaaɬuk̓ʷat            naʔiiqsakʔi       n̓aƛn̓ašʔat,                      haaʔumity̓apšiiɬʔat.",
+      "transcription": "    ",
+      "translation": "There was just one that looked after her; her uncle used to go see her and bring her food.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "c̓awaːk-(q)ḥ-ʼat",
+          "gloss": "one-SIM-SHIFT",
+          "literal": "there.was.one.who.did.it.to.her",
+          "morphemes": [
+            {
+              "transcription": "c̓awaːk",
+              "gloss": "one"
+            },
+            {
+              "transcription": "(q)ḥ",
+              "gloss": "SIM"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ʼa·ɬuk-ʼat",
+          "gloss": "she-looking.after-SHIFT",
+          "literal": "looking.after.her",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "she"
+            },
+            {
+              "transcription": "ʼa·ɬuk",
+              "gloss": "looking.after"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "naʔi·qsu-ʔa·k-ʔi·",
+          "gloss": "uncle-POSS-DEF",
+          "literal": "her.uncle",
+          "morphemes": [
+            {
+              "transcription": "naʔi·qsu",
+              "gloss": "uncle"
+            },
+            {
+              "transcription": "ʔa·k",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCVƛ-n̓aš-ʼat",
+          "gloss": "SPOR-go.to.see-SHIFT",
+          "literal": "go.to.see.every.once.in.a.while",
+          "morphemes": [
+            {
+              "transcription": "DUPCVƛ",
+              "gloss": "SPOR"
+            },
+            {
+              "transcription": "n̓aš",
+              "gloss": "go.to.see"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "haʔum-i·ty̓a·p-šiːɬ-ʼat",
+          "gloss": "food-bring.as.gift-IT-SHIFT",
+          "literal": "keep.bringing.her.food",
+          "morphemes": [
+            {
+              "transcription": "haʔum",
+              "gloss": "food"
+            },
+            {
+              "transcription": "i·ty̓a·p",
+              "gloss": "bring.as.gift"
+            },
+            {
+              "transcription": "šiːɬ",
+              "gloss": "IT"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "011",
+      "transcript": "ʔaʔiiwačiƛ           ʕiniiƛm̓inḥʔi.",
+      "transcription": " ",
+      "translation": "The dogs grew up.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "DUPCV-ʔi·ḥʷ-ʽa·či(ƛ)",
+          "gloss": "REP-large-INC",
+          "literal": "they.grew.up",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "REP"
+            },
+            {
+              "transcription": "ʔi·ḥʷ",
+              "gloss": "large"
+            },
+            {
+              "transcription": "ʽa·či(ƛ)",
+              "gloss": "INC"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiniːƛ-m̓inḥ-ʔi·",
+          "gloss": "dog-PL-DEF",
+          "literal": "the.dogs",
+          "morphemes": [
+            {
+              "transcription": "ʕiniːƛ",
+              "gloss": "dog"
+            },
+            {
+              "transcription": "m̓inḥ",
+              "gloss": "PL"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "012",
+      "transcript": "nitinqsaƛ                     ʔumʔiiqsuʔi   č̓iitaaw̓it̓as.",
+      "transcription": "  ",
+      "translation": "The mother went down to the beach to dig clams.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hita-inq-ʽsa(ƛ)",
+          "gloss": "LOC-down.a.slope-on.the.beach",
+          "literal": "went.down.to.the.beach",
+          "morphemes": [
+            {
+              "transcription": "hita",
+              "gloss": "LOC"
+            },
+            {
+              "transcription": "inq",
+              "gloss": "down.a.slope"
+            },
+            {
+              "transcription": "ʽsa(ƛ)",
+              "gloss": "on.the.beach"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔumʔi·qsu-ʔi·",
+          "gloss": "mother-DEF",
+          "literal": "the.mother",
+          "morphemes": [
+            {
+              "transcription": "ʔumʔi·qsu",
+              "gloss": "mother"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "č̓iːt-a·-w̓it̓as",
+          "gloss": "digging.clams-DUR-about.to",
+          "literal": "start.digging.clams",
+          "morphemes": [
+            {
+              "transcription": "č̓iːt",
+              "gloss": "digging.clams"
+            },
+            {
+              "transcription": "a·",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "w̓it̓as",
+              "gloss": "about.to"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "013",
+      "transcript": "wik̓ap̓at                 qiiʔis                    č̓iitaa,            naʔiičiƛ        nunuukʔi.",
+      "transcription": "    ",
+      "translation": "Before long she started hearing someone singing.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik-ʼap-ʼat",
+          "gloss": "not-MOMCAUS-SHIFT",
+          "literal": "they.did.not.let.her.do",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qiː-ʽis",
+          "gloss": "for.long-on.the.beach",
+          "literal": "staying.long.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "qiː",
+              "gloss": "for.long"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "č̓iːt-a·",
+          "gloss": "digging.claims-DUR",
+          "literal": "digging.clams",
+          "morphemes": [
+            {
+              "transcription": "č̓iːt",
+              "gloss": "digging.claims"
+            },
+            {
+              "transcription": "a·",
+              "gloss": "DUR"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "naʔa·-ʽi·čiƛ",
+          "gloss": "hear-INC",
+          "literal": "started.to.hear",
+          "morphemes": [
+            {
+              "transcription": "naʔa·",
+              "gloss": "hear"
+            },
+            {
+              "transcription": "ʽi·čiƛ",
+              "gloss": "INC"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nunuːk-ʔi·",
+          "gloss": "singing-DEF",
+          "literal": "one.who.is.singing",
+          "morphemes": [
+            {
+              "transcription": "nunuːk",
+              "gloss": "singing"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "014",
+      "transcript": "n̓ašiƛ̓asʔaaḥs                             waaʔaƛ.",
+      "transcription": " ",
+      "translation": "“Maybe I will go see,” she said.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "n̓aš-i(ƛ)-ʼa·s-ʼaːḥ-s",
+          "gloss": "go.to.see-MOM-go.in.order.to-perhaps-1SG",
+          "literal": "maybe.I.will.go.and.see",
+          "morphemes": [
+            {
+              "transcription": "n̓aš",
+              "gloss": "go.to.see"
+            },
+            {
+              "transcription": "i(ƛ)",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼa·s",
+              "gloss": "go.in.order.to"
+            },
+            {
+              "transcription": "ʼaːḥ",
+              "gloss": "perhaps"
+            },
+            {
+              "transcription": "s",
+              "gloss": "1SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "015",
+      "transcript": "ʔaʔimštip̓aƛ̓atquuč                            ƛaawuɬšiƛ         hiy̓atḥʔitq,          wikʕaƛšiʔaƛquuč               nunuukʔi.",
+      "transcription": "    ",
+      "translation": "Whenever she got close to her house, the ones who were singing would all get quiet.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔaʔim-šti·p-ʼaƛ-ʼat-quː-č",
+          "gloss": "immediately-do.while-FINITE-SHIFT-COND-INF.3",
+          "literal": "as.soon.as.she.did",
+          "morphemes": [
+            {
+              "transcription": "ʔaʔim",
+              "gloss": "immediately"
+            },
+            {
+              "transcription": "šti·p",
+              "gloss": "do.while"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛawa-uɬ-ši(ƛ)",
+          "gloss": "near-place.of-MOM",
+          "literal": "got.close.to",
+          "morphemes": [
+            {
+              "transcription": "ƛawa",
+              "gloss": "near"
+            },
+            {
+              "transcription": "uɬ",
+              "gloss": "place.of"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-ʼatḥ-ʔi·tq",
+          "gloss": "there-residing-REL.3",
+          "literal": "where.she.lives",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "ʼatḥ",
+              "gloss": "residing"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wik-ʕaƛ-ši(ƛ)-quː-č",
+          "gloss": "not-make.sound-MOM-COND-INF.3",
+          "literal": "they.would.get.quiet",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "ʕaƛ",
+              "gloss": "make.sound"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nunuːk-ʔi·",
+          "gloss": "singing-DEF",
+          "literal": "one.who.is.singing",
+          "morphemes": [
+            {
+              "transcription": "nunuːk",
+              "gloss": "singing"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "016",
+      "transcript": "ʕaasiqnakšiʔaƛ.        ƛasan̓ap                     č̓iity̓akukʔi                        ɬaqaqtinup                                ɬiḥiyasumʔakʔi.",
+      "transcription": "    ",
+      "translation": "She got a plan. She put her stick in the sand and threw her cape over it.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʕa·siq-na·k-ši(ƛ)-ʼaƛ",
+          "gloss": "plan-having-MOM-FINITE",
+          "literal": "she.got.a.plan",
+          "morphemes": [
+            {
+              "transcription": "ʕa·siq",
+              "gloss": "plan"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛa-san̓ap",
+          "gloss": "sticking.up-on.the.beach",
+          "literal": "put.a.stick.up.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "ƛa",
+              "gloss": "sticking.up"
+            },
+            {
+              "transcription": "san̓ap",
+              "gloss": "on.the.beach"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "č̓iːt-y̓akʷ-uk-ʔi·",
+          "gloss": "digging.claims-instrument-POSS-DEF",
+          "literal": "her.digging.stick",
+          "morphemes": [
+            {
+              "transcription": "č̓iːt",
+              "gloss": "digging.claims"
+            },
+            {
+              "transcription": "y̓akʷ",
+              "gloss": "instrument"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ɬaqʷ-aqti-nup",
+          "gloss": "throw.soft.yielding.mass-covering-MOMCAUS",
+          "literal": "throw.cloth.cover",
+          "morphemes": [
+            {
+              "transcription": "ɬaqʷ",
+              "gloss": "throw.soft.yielding.mass"
+            },
+            {
+              "transcription": "aqti",
+              "gloss": "covering"
+            },
+            {
+              "transcription": "nup",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ɬiḥiyasum-ʔa·k-ʔi·",
+          "gloss": "cape-POSS-DEF",
+          "literal": "her.cape",
+          "morphemes": [
+            {
+              "transcription": "ɬiḥiyasum",
+              "gloss": "cape"
+            },
+            {
+              "transcription": "ʔa·k",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "017",
+      "transcript": "k̓uuqšiƛ,  y̓akiiʔiƛ                maḥt̓iiʔakʔi.",
+      "transcription": "  ",
+      "translation": "She snuck up and looked into her house.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "k̓uːq-šiƛ",
+          "gloss": "sneak-MOM",
+          "literal": "snuck.up",
+          "morphemes": [
+            {
+              "transcription": "k̓uːq",
+              "gloss": "sneak"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "y̓ak-iːʔi(ƛ)",
+          "gloss": "in.view-enter.the.house",
+          "literal": "looked.into.the.house",
+          "morphemes": [
+            {
+              "transcription": "y̓ak",
+              "gloss": "in.view"
+            },
+            {
+              "transcription": "iːʔi(ƛ)",
+              "gloss": "enter.the.house"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maḥt̓iː-ʔa·k-ʔi·",
+          "gloss": "house-POSS-DEF",
+          "literal": "her.house",
+          "morphemes": [
+            {
+              "transcription": "maḥt̓iː",
+              "gloss": "house"
+            },
+            {
+              "transcription": "ʔa·k",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "018",
+      "transcript": "yaayaasumyiɬwaʔiš                      ḥatḥaan̓aḥ      hapumy̓umm̓inḥukʔi,    nunuuk  huyaaɬaqa.",
+      "transcription": "    ",
+      "translation": "There they were all naked, stripped of their fur, singing and dancing around.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "DUPCV-yaːs-yumɬ-ʽiɬ-wa·ʔi·š",
+          "gloss": "REP-there-all.over-in.the.house-QUOT.3",
+          "literal": "there.they.are.all.over.in.the.house",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "REP"
+            },
+            {
+              "transcription": "yaːs",
+              "gloss": "there"
+            },
+            {
+              "transcription": "yumɬ",
+              "gloss": "all.over"
+            },
+            {
+              "transcription": "ʽiɬ",
+              "gloss": "in.the.house"
+            },
+            {
+              "transcription": "wa·ʔi·š",
+              "gloss": "QUOT.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCVt-ḥan̓aḥ",
+          "gloss": "DISTR-naked",
+          "literal": "they.are.naked",
+          "morphemes": [
+            {
+              "transcription": "DUPCVt",
+              "gloss": "DISTR"
+            },
+            {
+              "transcription": "ḥan̓aḥ",
+              "gloss": "naked"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hapumy̓um-m̓inḥ-uk-ʔi·",
+          "gloss": "fur-PL-POSS-DEF",
+          "literal": "their.fur",
+          "morphemes": [
+            {
+              "transcription": "hapumy̓um",
+              "gloss": "fur"
+            },
+            {
+              "transcription": "m̓inḥ",
+              "gloss": "PL"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "nunuːk",
+          "gloss": "singing",
+          "literal": "singing",
+          "morphemes": [
+            {
+              "transcription": "nunuːk",
+              "gloss": "singing"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huyaːɬ-aqa",
+          "gloss": "dance-severally.doing",
+          "literal": "severally.dancing",
+          "morphemes": [
+            {
+              "transcription": "huyaːɬ",
+              "gloss": "dance"
+            },
+            {
+              "transcription": "aqa",
+              "gloss": "severally.doing"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "019",
+      "transcript": "nuuknaakʔaɬ.          ƛ̓aḥʔee,        ƛ̓aḥʔee         ʔiqismoo                  č̓iitaa             ʔumʔee, ƛ̓aḥʔee,        wawaaʔak.",
+      "transcription": "       ",
+      "translation": "They were all singing, “Don’t cry. Don’t cry. Your mother is still on the beach digging clams. Don’t cry.” That was how their song went.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "nuːk-na·k-ʔa·ɬ",
+          "gloss": "song-having-PL",
+          "literal": "they.were.all.singing",
+          "morphemes": [
+            {
+              "transcription": "nuːk",
+              "gloss": "song"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aḥ-ʼi·",
+          "gloss": "not.crying-IMP",
+          "literal": "dont.cry",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aḥ",
+              "gloss": "not.crying"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aḥ-ʼi·",
+          "gloss": "not.crying-IMP",
+          "literal": "dont.cry",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aḥ",
+              "gloss": "not.crying"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔiq-ʽis-ʔi·š",
+          "gloss": "still-on.the.beach-IND.3",
+          "literal": "she.is.still.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "ʔiq",
+              "gloss": "still"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "č̓iːt-a·",
+          "gloss": "digging.claims-DUR",
+          "literal": "digging.clams",
+          "morphemes": [
+            {
+              "transcription": "č̓iːt",
+              "gloss": "digging.claims"
+            },
+            {
+              "transcription": "a·",
+              "gloss": "DUR"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔumʔi",
+          "gloss": "mother",
+          "literal": "mother",
+          "morphemes": [
+            {
+              "transcription": "ʔumʔi",
+              "gloss": "mother"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aḥ-ʼi·",
+          "gloss": "not.crying-IMP",
+          "literal": "dont.cry",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aḥ",
+              "gloss": "not.crying"
+            },
+            {
+              "transcription": "ʼi·",
+              "gloss": "IMP"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wawaː-ʔa·k",
+          "gloss": "say-POSS",
+          "literal": "theirs.say",
+          "morphemes": [
+            {
+              "transcription": "wawaː",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʔa·k",
+              "gloss": "POSS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "020",
+      "transcript": "ʔuʔukʷinkʔaɬ               y̓uukʷiiqsusaʔi,          ʕiiḥʔiikʔi.",
+      "transcription": "  ",
+      "translation": "They were singing to the youngest brother, the cry baby.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "DUPCV-ʔu-kʷinkʷ-ʔa·ɬ",
+          "gloss": "DISTR?-he-converse.with-PL",
+          "literal": "they.were.speaking.to.him",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR?"
+            },
+            {
+              "transcription": "ʔu",
+              "gloss": "he"
+            },
+            {
+              "transcription": "kʷinkʷ",
+              "gloss": "converse.with"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "y̓uːkʷiːqsu-sa-ʔi·",
+          "gloss": "younger.brother-real-DEF",
+          "literal": "the.youngest.brother",
+          "morphemes": [
+            {
+              "transcription": "y̓uːkʷiːqsu",
+              "gloss": "younger.brother"
+            },
+            {
+              "transcription": "sa",
+              "gloss": "real"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiḥ-ʼiːk-ʔi·",
+          "gloss": "cry-always.doing-DEF",
+          "literal": "one.who.always.cries",
+          "morphemes": [
+            {
+              "transcription": "ʕiḥ",
+              "gloss": "cry"
+            },
+            {
+              "transcription": "ʼiːk",
+              "gloss": "always.doing"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "021",
+      "transcript": "kamatqʷiiʔiƛ            ʔumʔiiqsuʔi   sukʷiƛ   hapumy̓amumʔi   t̓iʔuup                    ʔinkʷiɬʔi.",
+      "transcription": "     ",
+      "translation": "The mother ran inside, picked up the furs, and threw them in the fire.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "kamatqʷ-iːʔi(ƛ)",
+          "gloss": "running-enter.the.house",
+          "literal": "run.into.the.house",
+          "morphemes": [
+            {
+              "transcription": "kamatqʷ",
+              "gloss": "running"
+            },
+            {
+              "transcription": "iːʔi(ƛ)",
+              "gloss": "enter.the.house"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔumʔi·qsu-ʔi·",
+          "gloss": "mother-DEF",
+          "literal": "the.mother",
+          "morphemes": [
+            {
+              "transcription": "ʔumʔi·qsu",
+              "gloss": "mother"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "sukʷi(ƛ)",
+          "gloss": "take",
+          "literal": "take",
+          "morphemes": [
+            {
+              "transcription": "sukʷi(ƛ)",
+              "gloss": "take"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hapumy̓amum-ʔi·",
+          "gloss": "animal.fur-DEF",
+          "literal": "the.fur",
+          "morphemes": [
+            {
+              "transcription": "hapumy̓amum",
+              "gloss": "animal.fur"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓i-ʼu·p",
+          "gloss": "throw-in.the.fire.MOMCAUS",
+          "literal": "throw",
+          "morphemes": [
+            {
+              "transcription": "t̓i",
+              "gloss": "throw"
+            },
+            {
+              "transcription": "ʼu·p",
+              "gloss": "in.the.fire.MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔinkʷ-ʽiɬ-ʔi·",
+          "gloss": "fire-on.the.floor-DEF",
+          "literal": "the.fire.on.the.floor",
+          "morphemes": [
+            {
+              "transcription": "ʔinkʷ",
+              "gloss": "fire"
+            },
+            {
+              "transcription": "ʽiɬ",
+              "gloss": "on.the.floor"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "022",
+      "transcript": "ʔuušnaakšiƛ             ʔumʔiiqsuʔi,  ḥaaw̓iiḥaƛ.",
+      "transcription": "  ",
+      "translation": "The mother got something precious — boys [instead of dogs].",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔuːš-na·k-ši(ƛ)",
+          "gloss": "some-having-MOM",
+          "literal": "have.something.precious",
+          "morphemes": [
+            {
+              "transcription": "ʔuːš",
+              "gloss": "some"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔumʔi·qsu-ʔi·",
+          "gloss": "mother-DEF",
+          "literal": "the.mother",
+          "morphemes": [
+            {
+              "transcription": "ʔumʔi·qsu",
+              "gloss": "mother"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaːw̓iːḥaƛ",
+          "gloss": "boys",
+          "literal": "boys",
+          "morphemes": [
+            {
+              "transcription": "ḥaːw̓iːḥaƛ",
+              "gloss": "boys"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "023",
+      "transcript": "ƛ̓aqačiƛ̓aɬ     kʷikʷistupaqʔaɬ                kʷiisaḥim̓inḥ.",
+      "transcription": "  ",
+      "translation": "They grew up. They were a truly extraordinary bunch.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aq-ačiƛ-ʔa·ɬ",
+          "gloss": "grow-INC?-PL",
+          "literal": "they.grew.up",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aq",
+              "gloss": "grow"
+            },
+            {
+              "transcription": "ačiƛ",
+              "gloss": "INC?"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "DUPCV-kʷis-tu·p-aq-ʔa·ɬ",
+          "gloss": "DISTR?-different-thing-very-PL",
+          "literal": "they.were.very.different",
+          "morphemes": [
+            {
+              "transcription": "DUPCV",
+              "gloss": "DISTR?"
+            },
+            {
+              "transcription": "kʷis",
+              "gloss": "different"
+            },
+            {
+              "transcription": "tu·p",
+              "gloss": "thing"
+            },
+            {
+              "transcription": "aq",
+              "gloss": "very"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "kʷiːsaḥi-m̓inḥ",
+          "gloss": "good.hunter-PL",
+          "literal": "they.were.good.hunters",
+          "morphemes": [
+            {
+              "transcription": "kʷiːsaḥi",
+              "gloss": "good.hunter"
+            },
+            {
+              "transcription": "m̓inḥ",
+              "gloss": "PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "024",
+      "transcript": "c̓istuup ʔuukʷiiɬnakšit̓aɬ         ʔuʔuutaḥšiƛ          maaʔak.",
+      "transcription": "   ",
+      "translation": "One of them started to make a rope. He was going to hunt for a whale.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "c̓istu·p",
+          "gloss": "rope",
+          "literal": "rope",
+          "morphemes": [
+            {
+              "transcription": "c̓istu·p",
+              "gloss": "rope"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-kʷiːɬ-na·k-ši(ƛ)-ʔa·ɬ",
+          "gloss": "it-make-having-MOM-PL",
+          "literal": "one.of.them.made.it",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "kʷiːɬ",
+              "gloss": "make"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-taḥ-ši(ƛ)",
+          "gloss": "it-trying.to.get-MOM",
+          "literal": "hunt.for.a.whale",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "taḥ",
+              "gloss": "trying.to.get"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːʔak",
+          "gloss": "gray.whale",
+          "literal": "gray.whale",
+          "morphemes": [
+            {
+              "transcription": "maːʔak",
+              "gloss": "gray.whale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "025",
+      "transcript": "c̓isan̓ap̓aƛ                        c̓istuupukʔi.",
+      "transcription": " ",
+      "translation": "He laid the rope on the beach.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "c̓is-san̓ap-ʼaƛ",
+          "gloss": "rope-on.the.beach.MOMCAUS-FINITE",
+          "literal": "place.a.rope.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "c̓is",
+              "gloss": "rope"
+            },
+            {
+              "transcription": "san̓ap",
+              "gloss": "on.the.beach.MOMCAUS"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "c̓istu·p-uk-ʔi·",
+          "gloss": "rope-POSS-DEF",
+          "literal": "his.rope",
+          "morphemes": [
+            {
+              "transcription": "c̓istu·p",
+              "gloss": "rope"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "026",
+      "transcript": "muuɬšiƛ            ɬuuč̓aaniya.    waʔičuƛwaʔišʔaɬ.",
+      "transcription": "  ",
+      "translation": "The tide came in the evening. They then went to sleep.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "muːɬ-ši(ƛ)",
+          "gloss": "tide.is.up-MOM",
+          "literal": "the.tide.gets.high",
+          "morphemes": [
+            {
+              "transcription": "muːɬ",
+              "gloss": "tide.is.up"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ɬuːč̓-a·n-iya",
+          "gloss": "evening-??-??",
+          "literal": "in.the.evening",
+          "morphemes": [
+            {
+              "transcription": "ɬuːč̓",
+              "gloss": "evening"
+            },
+            {
+              "transcription": "a·n…iya",
+              "gloss": "??"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "waʔič-uƛ-wa·ʔi·š-ʔa·ɬ",
+          "gloss": "sleeping-MOM-QUOT.3-PL",
+          "literal": "they.went.to.sleep",
+          "morphemes": [
+            {
+              "transcription": "waʔič",
+              "gloss": "sleeping"
+            },
+            {
+              "transcription": "uƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "wa·ʔi·š",
+              "gloss": "QUOT.3"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "027",
+      "transcript": "kaƛḥšiƛ            n̓ačn̓isaƛ̓aɬ.",
+      "transcription": " ",
+      "translation": "Next day they looked down on the beach.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "kaƛḥ-šiƛ",
+          "gloss": "daylight-MOM",
+          "literal": "it.became.daylight",
+          "morphemes": [
+            {
+              "transcription": "kaƛḥ",
+              "gloss": "daylight"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓ač-n̓i-ʽsa(ƛ)-ʔa·ɬ",
+          "gloss": "look-down.the.slope?-on.the.beach-PL",
+          "literal": "they.looked.down.the.beach",
+          "morphemes": [
+            {
+              "transcription": "n̓ač",
+              "gloss": "look"
+            },
+            {
+              "transcription": "n̓i",
+              "gloss": "down.the.slope?"
+            },
+            {
+              "transcription": "ʽsa(ƛ)",
+              "gloss": "on.the.beach"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "028",
+      "transcript": "yaayiswaʔiš               ʔaḥ  maaʔak.",
+      "transcription": "  ",
+      "translation": "There on the beach was a whale.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "yaːɬ-ʽis-wa·ʔi·š",
+          "gloss": "there-on.the.beach-QUOT.3",
+          "literal": "there.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "yaːɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            },
+            {
+              "transcription": "wa·ʔi·š",
+              "gloss": "QUOT.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥ",
+          "gloss": "this",
+          "literal": "this",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥ",
+              "gloss": "this"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːʔak",
+          "gloss": "gray.whale",
+          "literal": "gray.whale",
+          "morphemes": [
+            {
+              "transcription": "maːʔak",
+              "gloss": "gray.whale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "029",
+      "transcript": "n̓iƛkʷaqšiƛ̓aɬ.        hitinqsaƛ.",
+      "transcription": " ",
+      "translation": "They were all excited and went down on the beach.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "n̓iƛkʷaq-ši(ƛ)-ʔa·ɬ",
+          "gloss": "excited-MOM-PL",
+          "literal": "they.got.all.excited",
+          "morphemes": [
+            {
+              "transcription": "n̓iƛkʷaq",
+              "gloss": "excited"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hita-inq-ʽsa(ƛ)",
+          "gloss": "LOC-down.a.slope-on.the.beach",
+          "literal": "went.down.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "hita",
+              "gloss": "LOC"
+            },
+            {
+              "transcription": "inq",
+              "gloss": "down.a.slope"
+            },
+            {
+              "transcription": "ʽsa(ƛ)",
+              "gloss": "on.the.beach"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "030",
+      "transcript": "čuu qʷisʔaqƛin    hašiiy̓ap              masčumʔakqin           yaʕatqin             wimaʕinʔap̓at,          waanaak̓aƛ.",
+      "transcription": "      ",
+      "translation": "“OK, how can we let our tribe, who did not want us, know about this,” said one of them.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čuː",
+          "gloss": "OK",
+          "literal": "OK",
+          "morphemes": [
+            {
+              "transcription": "čuː",
+              "gloss": "OK"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷis-ʔaqƛ-in",
+          "gloss": "do.so-FUT-1PL",
+          "literal": "how.we.will",
+          "morphemes": [
+            {
+              "transcription": "qʷis",
+              "gloss": "do.so"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "in",
+              "gloss": "1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "haši·-y̓ap",
+          "gloss": "knowing.about-MOMCAUS",
+          "literal": "let.them.know",
+          "morphemes": [
+            {
+              "transcription": "haši·",
+              "gloss": "knowing.about"
+            },
+            {
+              "transcription": "y̓ap",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "masčum-ʔa·k-qin",
+          "gloss": "tribesmen-POSS-REL.1PL",
+          "literal": "our.tribesmen",
+          "morphemes": [
+            {
+              "transcription": "masčum",
+              "gloss": "tribesmen"
+            },
+            {
+              "transcription": "ʔa·k",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "qin",
+              "gloss": "REL.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "yaqʷ-ʼat-qin",
+          "gloss": "he.who-SHIFT-REL.1PL",
+          "literal": "one.who.did.to.us",
+          "morphemes": [
+            {
+              "transcription": "yaqʷ",
+              "gloss": "he.who"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "qin",
+              "gloss": "REL.1PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wimaʕin-ʼap-ʼat",
+          "gloss": "unwanted-MOMCAUS-SHIFT",
+          "literal": "not.wanting",
+          "morphemes": [
+            {
+              "transcription": "wimaʕin",
+              "gloss": "unwanted"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-na·k-ʼaƛ",
+          "gloss": "say-having-FINITE",
+          "literal": "one.of.them.said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "031",
+      "transcript": "č̓iʔatapnakʔaɬ                  tukʷaq ʔuḥʔiiš ƛ̓aaq.",
+      "transcription": "   ",
+      "translation": "One of them cut off a piece of the skin and blubber.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "č̓i-ʔatu-ʼap-na·k-ʔa·ɬ",
+          "gloss": "cut-come.off-MOMCAUS-having-PL",
+          "literal": "one.of.them.cut.it.off",
+          "morphemes": [
+            {
+              "transcription": "č̓i",
+              "gloss": "cut"
+            },
+            {
+              "transcription": "ʔatu",
+              "gloss": "come.off"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "tukʷaq",
+          "gloss": "skin",
+          "literal": "skin",
+          "morphemes": [
+            {
+              "transcription": "tukʷaq",
+              "gloss": "skin"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuḥʔiːš",
+          "gloss": "and",
+          "literal": "and",
+          "morphemes": [
+            {
+              "transcription": "ʔuḥʔiːš",
+              "gloss": "and"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aːq",
+          "gloss": "animal.fat",
+          "literal": "animal.fat",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aːq",
+              "gloss": "animal.fat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "032",
+      "transcript": "t̓imisanup̓aƛquuč                        tukʷaqʔi.  wiksiɬa.",
+      "transcription": "  ",
+      "translation": "He threw up the skin. Nothing happened.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "t̓i-misa-nupu-ʼaƛ-quː-č",
+          "gloss": "throw-on.top-MOMCAUS-FINITE-COND-INF.3",
+          "literal": "would.threw.it.up",
+          "morphemes": [
+            {
+              "transcription": "t̓i",
+              "gloss": "throw"
+            },
+            {
+              "transcription": "misa",
+              "gloss": "on.top"
+            },
+            {
+              "transcription": "nupu",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "quː",
+              "gloss": "COND"
+            },
+            {
+              "transcription": "č",
+              "gloss": "INF.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "tukʷaq-ʔi·",
+          "gloss": "skin-DEF",
+          "literal": "the.skin",
+          "morphemes": [
+            {
+              "transcription": "tukʷaq",
+              "gloss": "skin"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wik-siɬa",
+          "gloss": "not-act.like",
+          "literal": "nothing.happened",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "siɬa",
+              "gloss": "act.like"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "033",
+      "transcript": "ʔuyaaƛuk                     muup̓itšiʔaƛ̓itq       t̓imisanup            matšiƛuk,    maamaatičiƛuk.",
+      "transcription": "    ",
+      "translation": "At the fourth time he threw it up, and it flew, turning into a bird.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔuyi-ʼa·ƛ-uk",
+          "gloss": "at.that.time-FIN?-POSS",
+          "literal": "it.was.at.that.time.when.his",
+          "morphemes": [
+            {
+              "transcription": "ʔuyi",
+              "gloss": "at.that.time"
+            },
+            {
+              "transcription": "ʼa·ƛ",
+              "gloss": "FIN?"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "muː-p̓it-ši(ƛ)-ʔi·tq",
+          "gloss": "foud-times-MOM-REL.3",
+          "literal": "at.fourth.time",
+          "morphemes": [
+            {
+              "transcription": "muː",
+              "gloss": "foud"
+            },
+            {
+              "transcription": "p̓it",
+              "gloss": "times"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓i-misa-nup",
+          "gloss": "throw-on.top-MOMCAUS",
+          "literal": "threw.it.up",
+          "morphemes": [
+            {
+              "transcription": "t̓i",
+              "gloss": "throw"
+            },
+            {
+              "transcription": "misa",
+              "gloss": "on.top"
+            },
+            {
+              "transcription": "nup",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "mat-ši(ƛ)-uk",
+          "gloss": "fly-MOM-POSS",
+          "literal": "his.flew",
+          "morphemes": [
+            {
+              "transcription": "mat",
+              "gloss": "fly"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːmaːti-či(ƛ)-uk",
+          "gloss": "bird-MOM-POSS",
+          "literal": "his.turned.into.a.bird",
+          "morphemes": [
+            {
+              "transcription": "maːmaːti",
+              "gloss": "bird"
+            },
+            {
+              "transcription": "či(ƛ)",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "034",
+      "transcript": "ƛ̓upkaksawip          ƛ̓aaq.",
+      "transcription": " ",
+      "translation": "He (the boy) put a piece of blubber in its mouth.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ƛ̓upk-aksu(ɬ)-awip",
+          "gloss": "peck-at.lips-MOMCAUS",
+          "literal": "put.it.in.the.beak",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓upk",
+              "gloss": "peck"
+            },
+            {
+              "transcription": "aksu(ɬ)",
+              "gloss": "at.lips"
+            },
+            {
+              "transcription": "awip",
+              "gloss": "MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aːq",
+          "gloss": "animal.fat",
+          "literal": "animal.fat",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aːq",
+              "gloss": "animal.fat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "035",
+      "transcript": "čaʔaaɬči   ʔucaḥtačiƛ         ḥuu        matšiƛ,   waaʔaƛ     ʔuḥtaa      maamaatiʔi,  ʔuuwaƛ̓aqƛ̓ick         ɬuucma hiɬn̓iis                         ʕiḥak.  t̓iwaʕaqisʔap̓um                                  ʔaḥ  ƛ̓aaqʔii,       ʔaḥʔaaʔaƛsuuk   huʔacačiƛ      matšiƛ.",
+      "transcription": "                ",
+      "translation": "He told the bird, “Go fly over that way. You will see a woman on the beach crying. Drop this blubber beside her. Then you will fly back to us.”",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "čaʔaːɬ-či·",
+          "gloss": "??-go.and",
+          "literal": "go.and",
+          "morphemes": [
+            {
+              "transcription": "čaʔaːɬ",
+              "gloss": "??"
+            },
+            {
+              "transcription": "či·",
+              "gloss": "go.and"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ca-ḥta-či(ƛ)",
+          "gloss": "it-go.to-apart-MOM",
+          "literal": "departed.for",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "ḥta",
+              "gloss": "apart"
+            },
+            {
+              "transcription": "či(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥuː",
+          "gloss": "over.there",
+          "literal": "over.there",
+          "morphemes": [
+            {
+              "transcription": "ḥuː",
+              "gloss": "over.there"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "mat-ši(ƛ)",
+          "gloss": "fly-MOM",
+          "literal": "fly",
+          "morphemes": [
+            {
+              "transcription": "mat",
+              "gloss": "fly"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼaƛ",
+          "gloss": "say-FINITE",
+          "literal": "said",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ḥta·",
+          "gloss": "it-doing.to",
+          "literal": "to.her",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ḥta·",
+              "gloss": "doing.to"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːmaːti-ʔi·",
+          "gloss": "bird-DEF",
+          "literal": "the.bird",
+          "morphemes": [
+            {
+              "transcription": "maːmaːti",
+              "gloss": "bird"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-(w)a(ƛ)-ʔaqƛ-ʔick",
+          "gloss": "she-find-FUT-IND.2SG",
+          "literal": "you.will.find",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "she"
+            },
+            {
+              "transcription": "(w)a(ƛ)",
+              "gloss": "find"
+            },
+            {
+              "transcription": "ʔaqƛ",
+              "gloss": "FUT"
+            },
+            {
+              "transcription": "ʔick",
+              "gloss": "IND.2SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ɬuːcma",
+          "gloss": "woman",
+          "literal": "woman",
+          "morphemes": [
+            {
+              "transcription": "ɬuːcma",
+              "gloss": "woman"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-n̓i·-ʽis",
+          "gloss": "there-down.a.slope-on.the.beach",
+          "literal": "down.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "n̓i·",
+              "gloss": "down.a.slope"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiḥ-ak",
+          "gloss": "cry-DUR",
+          "literal": "crying",
+          "morphemes": [
+            {
+              "transcription": "ʕiḥ",
+              "gloss": "cry"
+            },
+            {
+              "transcription": "ak",
+              "gloss": "DUR"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓i-(w)aʕaq-ʽis-ʼap-um",
+          "gloss": "throw-beside-on.the.beach-MOMCAUS-FUT.IMP.2SG>3",
+          "literal": "drop.it.beside.her.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "t̓i",
+              "gloss": "throw"
+            },
+            {
+              "transcription": "(w)aʕaq",
+              "gloss": "beside"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "um",
+              "gloss": "FUT.IMP.2SG>3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥ",
+          "gloss": "this",
+          "literal": "this",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥ",
+              "gloss": "this"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aːq-ʔi·",
+          "gloss": "animal.fat-DEF",
+          "literal": "the.fat",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aːq",
+              "gloss": "animal.fat"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔaḥʔaː-ʼaƛ-suːk",
+          "gloss": "then-FINITE-2SG",
+          "literal": "then.you.do",
+          "morphemes": [
+            {
+              "transcription": "ʔaḥʔaː",
+              "gloss": "then"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            },
+            {
+              "transcription": "suːk",
+              "gloss": "2SG"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huʔa-ca-či(ƛ)",
+          "gloss": "back-go.to-MOM",
+          "literal": "return",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "back"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "či(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "mat-ši(ƛ)",
+          "gloss": "fly-MOM",
+          "literal": "fly",
+          "morphemes": [
+            {
+              "transcription": "mat",
+              "gloss": "fly"
+            },
+            {
+              "transcription": "ši(ƛ)",
+              "gloss": "MOM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "036",
+      "transcript": "t̓aaqaak matšiƛ  maamaatiʔi.  hinasiƛ               qʷisʔaƛ      waaʔanitʔitq         t̓iwaʕaqsan̓ap                       ʕiḥakyaqisʔi                  ɬuucma ƛ̓aaqʔii.       huʔacačiƛ      matšiƛ.",
+      "transcription": "           ",
+      "translation": "The bird did as told: it flew away; it reached there [the place it was supposed to go] and did what it was told to to — it dropped the blubber beside the crying woman. It flew back.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "t̓aːqaːk",
+          "gloss": "obeying",
+          "literal": "obeying",
+          "morphemes": [
+            {
+              "transcription": "t̓aːqaːk",
+              "gloss": "obeying"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "mat-šiƛ",
+          "gloss": "fly-MOM",
+          "literal": "fly",
+          "morphemes": [
+            {
+              "transcription": "mat",
+              "gloss": "fly"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːmaːti-ʔi·",
+          "gloss": "bird-DEF",
+          "literal": "the.bird",
+          "morphemes": [
+            {
+              "transcription": "maːmaːti",
+              "gloss": "bird"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hin-as-iƛ",
+          "gloss": "there-reaching.to-MOM",
+          "literal": "reached",
+          "morphemes": [
+            {
+              "transcription": "hin",
+              "gloss": "there"
+            },
+            {
+              "transcription": "as",
+              "gloss": "reaching.to"
+            },
+            {
+              "transcription": "iƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷis-ʼaƛ",
+          "gloss": "do.so-FINITE",
+          "literal": "doing.so",
+          "morphemes": [
+            {
+              "transcription": "qʷis",
+              "gloss": "do.so"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wa·-ʼat-it-ʔi·tq",
+          "gloss": "say-SHIFT-PAST-REL.3",
+          "literal": "what.it.was.told",
+          "morphemes": [
+            {
+              "transcription": "wa·",
+              "gloss": "say"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "t̓i-(w)aʕaq-san̓ap",
+          "gloss": "throw-beside-on.the.beach.MOMCAUS",
+          "literal": "dropped.it.beside.her.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "t̓i",
+              "gloss": "throw"
+            },
+            {
+              "transcription": "(w)aʕaq",
+              "gloss": "beside"
+            },
+            {
+              "transcription": "san̓ap",
+              "gloss": "on.the.beach.MOMCAUS"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiḥ-ak-yaq-ʽis-ʔi·",
+          "gloss": "cry-DUR-done-on.the.beach-DEF",
+          "literal": "the.woman.crying.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "ʕiḥ",
+              "gloss": "cry"
+            },
+            {
+              "transcription": "ak",
+              "gloss": "DUR"
+            },
+            {
+              "transcription": "yaq",
+              "gloss": "done"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ɬuːcma",
+          "gloss": "woman",
+          "literal": "woman",
+          "morphemes": [
+            {
+              "transcription": "ɬuːcma",
+              "gloss": "woman"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓aːq-ʔi·",
+          "gloss": "animal.fat-DEF",
+          "literal": "the.fat",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓aːq",
+              "gloss": "animal.fat"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huʔa-ca-čiƛ",
+          "gloss": "back-go.to-MOM",
+          "literal": "return",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "back"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "mat-šiƛ",
+          "gloss": "fly-MOM",
+          "literal": "fly",
+          "morphemes": [
+            {
+              "transcription": "mat",
+              "gloss": "fly"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "037",
+      "transcript": "n̓ačiisʔaƛ              ɬuucmaʔi   ʔan  ʔucaḥtačiƛ              qʷicaʔamitʔitqʔaɬ                      ʕiɬčnaakšiƛitʔi.",
+      "transcription": "     ",
+      "translation": "The lady followed it with the eyes. It headed for the place that they had put the girl who gave birth to dogs.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "n̓ač-i·s-ʼaƛ",
+          "gloss": "look-following?-FINITE",
+          "literal": "followed.with.the.eyes",
+          "morphemes": [
+            {
+              "transcription": "n̓ač",
+              "gloss": "look"
+            },
+            {
+              "transcription": "i·s",
+              "gloss": "following?"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ɬuːcma-ʔi·",
+          "gloss": "woman-DEF",
+          "literal": "the.woman",
+          "morphemes": [
+            {
+              "transcription": "ɬuːcma",
+              "gloss": "woman"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔan",
+          "gloss": "that",
+          "literal": "that",
+          "morphemes": [
+            {
+              "transcription": "ʔan",
+              "gloss": "that"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔu-ca-ḥta-čiƛ",
+          "gloss": "it-go.to-out.to.sea-MOM",
+          "literal": "departed.for",
+          "morphemes": [
+            {
+              "transcription": "ʔu",
+              "gloss": "it"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "ḥta",
+              "gloss": "out.to.sea"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qʷi-ca-ʼap-it-ʔi·tq-ʔa·ɬ",
+          "gloss": "that.which-go.to-MOMCAUS-PAST-REL.3-PL",
+          "literal": "wherever.they.sent.her",
+          "morphemes": [
+            {
+              "transcription": "qʷi",
+              "gloss": "that.which"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "ʼap",
+              "gloss": "MOMCAUS"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiɬč-na·k-šiƛ-it-ʔi·",
+          "gloss": "dog-having-MOM-PAST-DEF",
+          "literal": "the.one.who.had.dogs",
+          "morphemes": [
+            {
+              "transcription": "ʕiɬč",
+              "gloss": "dog"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "038",
+      "transcript": "kamatqšiƛ   waɬšiƛ      ʔuyaqḥnak.",
+      "transcription": "  ",
+      "translation": "She ran home with the news.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "kamatqʷ-šiƛ",
+          "gloss": "running-MOM",
+          "literal": "run",
+          "morphemes": [
+            {
+              "transcription": "kamatqʷ",
+              "gloss": "running"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "waɬ-šiƛ",
+          "gloss": "go.home-MOM",
+          "literal": "go.home",
+          "morphemes": [
+            {
+              "transcription": "waɬ",
+              "gloss": "go.home"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuyaqḥ-na·k",
+          "gloss": "news-having",
+          "literal": "had.news",
+          "morphemes": [
+            {
+              "transcription": "ʔuyaqḥ",
+              "gloss": "news"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "039",
+      "transcript": "n̓ašiƛ         naʔiiqsuʔi.",
+      "transcription": " ",
+      "translation": "The uncle went to look.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "n̓aš-iƛ",
+          "gloss": "go.to.see-MOM",
+          "literal": "went.to.look",
+          "morphemes": [
+            {
+              "transcription": "n̓aš",
+              "gloss": "go.to.see"
+            },
+            {
+              "transcription": "iƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "naʔi·qsu-ʔi·",
+          "gloss": "uncle-DEF",
+          "literal": "the.uncle",
+          "morphemes": [
+            {
+              "transcription": "naʔi·qsu",
+              "gloss": "uncle"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "040",
+      "transcript": "wik qiikʷaaɬ.       ʔuyaqḥnak   huʔin,    taʔisukʔišʔaɬ                       maaʔak.",
+      "transcription": "     ",
+      "translation": "He wasn’t gone long. He came back with news that a whale had drifted on the beach.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik",
+          "gloss": "not",
+          "literal": "not",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "qiː-kʷa·ɬ",
+          "gloss": "for.long-absent",
+          "literal": "gone.for.long",
+          "morphemes": [
+            {
+              "transcription": "qiː",
+              "gloss": "for.long"
+            },
+            {
+              "transcription": "kʷa·ɬ",
+              "gloss": "absent"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔuyaqḥ-na·k",
+          "gloss": "news-having",
+          "literal": "had.news",
+          "morphemes": [
+            {
+              "transcription": "ʔuyaqḥ",
+              "gloss": "news"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huʔa-in",
+          "gloss": "back-come",
+          "literal": "come.back",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "back"
+            },
+            {
+              "transcription": "in",
+              "gloss": "come"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ta-ʽis-uk-ʔi·š-ʔa·ɬ",
+          "gloss": "drifting-on.the.beach-POSS-IND.3-PL",
+          "literal": "their.whale.drifted.on.the.beach",
+          "morphemes": [
+            {
+              "transcription": "ta",
+              "gloss": "drifting"
+            },
+            {
+              "transcription": "ʽis",
+              "gloss": "on.the.beach"
+            },
+            {
+              "transcription": "uk",
+              "gloss": "POSS"
+            },
+            {
+              "transcription": "ʔi·š",
+              "gloss": "IND.3"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maːʔak",
+          "gloss": "gray.whale",
+          "literal": "gray.whale",
+          "morphemes": [
+            {
+              "transcription": "maːʔak",
+              "gloss": "gray.whale"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "041",
+      "transcript": "yuuxtšiƛ                   maʔasʔi     ƛ̓iptkšiƛ.   huʔacačiƛ̓asʔaɬ.",
+      "transcription": "   ",
+      "translation": "The tribe rushed to get prepared, packing their belongings. They were going tback to the place.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "yuxt-šiƛ",
+          "gloss": "prepare.for.departure-GRAD",
+          "literal": "get.prepared.hurriedly",
+          "morphemes": [
+            {
+              "transcription": "yuxt",
+              "gloss": "prepare.for.departure"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "GRAD"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "maʔas-ʔi·",
+          "gloss": "village-DEF",
+          "literal": "the.village",
+          "morphemes": [
+            {
+              "transcription": "maʔas",
+              "gloss": "village"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ƛ̓iptkʷ-šiƛ",
+          "gloss": "pack.up-MOM",
+          "literal": "packed.up",
+          "morphemes": [
+            {
+              "transcription": "ƛ̓iptkʷ",
+              "gloss": "pack.up"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "huʔa-ca-čiƛ-ʼa·s-ʔa·ɬ",
+          "gloss": "back-go.to-MOM-about.to-PL",
+          "literal": "they.were.going.there",
+          "morphemes": [
+            {
+              "transcription": "huʔa",
+              "gloss": "back"
+            },
+            {
+              "transcription": "ca",
+              "gloss": "go.to"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʼa·s",
+              "gloss": "about.to"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "042",
+      "transcript": "ƛiiḥšitʔaɬ.",
+      "transcription": "",
+      "translation": "They started out.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ƛiḥ-šiƛ-ʔa·ɬ",
+          "gloss": "traveling.in.vessel-GRAD-PL",
+          "literal": "they.were.starting.out",
+          "morphemes": [
+            {
+              "transcription": "ƛiḥ",
+              "gloss": "traveling.in.vessel"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "GRAD"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "043",
+      "transcript": "wik sayaʔii,      n̓aacsiičiƛ  hiy̓atḥʔitq           ʕiɬčnaakšiƛitʔi.",
+      "transcription": "    ",
+      "translation": "Before long they saw the place where the one who got dogs lived.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wik",
+          "gloss": "not",
+          "literal": "not",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "saya·-ʔiː",
+          "gloss": "far.off-reach",
+          "literal": "went.far",
+          "morphemes": [
+            {
+              "transcription": "saya·",
+              "gloss": "far.off"
+            },
+            {
+              "transcription": "ʔiː",
+              "gloss": "reach"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓aːcsiː-čiƛ",
+          "gloss": "spotted-MOM",
+          "literal": "saw",
+          "morphemes": [
+            {
+              "transcription": "n̓aːcsiː",
+              "gloss": "spotted"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hiɬ-ʼatḥ-ʔi·tq",
+          "gloss": "there-residing-REL.3",
+          "literal": "where.she.lives",
+          "morphemes": [
+            {
+              "transcription": "hiɬ",
+              "gloss": "there"
+            },
+            {
+              "transcription": "ʼatḥ",
+              "gloss": "residing"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʕiɬč-na·k-šiƛ-it-ʔi·",
+          "gloss": "dog-having-MOM-PAST-DEF",
+          "literal": "the.one.who.had.dogs",
+          "morphemes": [
+            {
+              "transcription": "ʕiɬč",
+              "gloss": "dog"
+            },
+            {
+              "transcription": "na·k",
+              "gloss": "having"
+            },
+            {
+              "transcription": "šiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "it",
+              "gloss": "PAST"
+            },
+            {
+              "transcription": "ʔi·",
+              "gloss": "DEF"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "044",
+      "transcript": "ʔuyaasiɬaƛ              n̓aas.",
+      "transcription": " ",
+      "translation": "Something happened to the weather.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ʔuyaː-siɬa-ʼaƛ",
+          "gloss": "strange-act.like-FINITE",
+          "literal": "became.strange",
+          "morphemes": [
+            {
+              "transcription": "ʔuyaː",
+              "gloss": "strange"
+            },
+            {
+              "transcription": "siɬa",
+              "gloss": "act.like"
+            },
+            {
+              "transcription": "ʼaƛ",
+              "gloss": "FINITE"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓aːs",
+          "gloss": "day",
+          "literal": "weather",
+          "morphemes": [
+            {
+              "transcription": "n̓aːs",
+              "gloss": "day"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "045",
+      "transcript": "wiiqsiičiƛaq.      wiktumʔaɬ      hinasiƛ.",
+      "transcription": "  ",
+      "translation": "It got really stormy, and they never reached there.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "wiːqsiː-čiƛ-aq",
+          "gloss": "stormy-MOM-very",
+          "literal": "it.got.very.stormy",
+          "morphemes": [
+            {
+              "transcription": "wiːqsiː",
+              "gloss": "stormy"
+            },
+            {
+              "transcription": "čiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "aq",
+              "gloss": "very"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wik-tum-ʔa·ɬ",
+          "gloss": "not-PAST?-PL",
+          "literal": "they.never.did",
+          "morphemes": [
+            {
+              "transcription": "wik",
+              "gloss": "not"
+            },
+            {
+              "transcription": "tum",
+              "gloss": "PAST?"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "hin-as-iƛ",
+          "gloss": "there-reaching.to-MOM",
+          "literal": "reached",
+          "morphemes": [
+            {
+              "transcription": "hin",
+              "gloss": "there"
+            },
+            {
+              "transcription": "as",
+              "gloss": "reaching.to"
+            },
+            {
+              "transcription": "iƛ",
+              "gloss": "MOM"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "046",
+      "transcript": "hišsuuƛ̓aɬ     haɬmiiḥa wiiqʔinƛ.",
+      "transcription": "  ",
+      "translation": "They all drowned in the stormy sea.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "hiš-suːƛ-ʔa·ɬ",
+          "gloss": "all-die-PL",
+          "literal": "they.all.died",
+          "morphemes": [
+            {
+              "transcription": "hiš",
+              "gloss": "all"
+            },
+            {
+              "transcription": "suːƛ",
+              "gloss": "die"
+            },
+            {
+              "transcription": "ʔa·ɬ",
+              "gloss": "PL"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "haɬmi·ḥa",
+          "gloss": "drowned",
+          "literal": "drowned",
+          "morphemes": [
+            {
+              "transcription": "haɬmi·ḥa",
+              "gloss": "drowned"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wiːq-ʔinƛ",
+          "gloss": "stormy-caught.in",
+          "literal": "got.caught.in.a.storm",
+          "morphemes": [
+            {
+              "transcription": "wiːq",
+              "gloss": "stormy"
+            },
+            {
+              "transcription": "ʔinƛ",
+              "gloss": "caught.in"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "metadata": "047",
+      "transcript": "ḥaaḥuupay̓ak            — ʔunw̓iiƛḥʔatwaʔiš            wiiy̓aat     ɬaakʷiiɬʔat            yaaʕaaɬčiqḥʔatʔitq               quuʔas. ḥaʔukʷiƛ̓aaɬ           n̓aas.",
+      "transcription": "        ",
+      "translation": "Lecture — This is the reason you never treat your fellowmen badly. You get it back from someone up there.",
+      "words": [
+        {
+          "transcription": "",
+          "analysis": "ḥaːḥuːp-(y)a·-y̓akʷ",
+          "gloss": "teaching-REP-thing.for",
+          "literal": "teachings",
+          "morphemes": [
+            {
+              "transcription": "ḥaːḥuːp",
+              "gloss": "teaching"
+            },
+            {
+              "transcription": "(y)a·",
+              "gloss": "REP"
+            },
+            {
+              "transcription": "y̓akʷ",
+              "gloss": "thing.for"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "—",
+          "gloss": "—",
+          "literal": "—",
+          "morphemes": [
+            {
+              "transcription": "—",
+              "gloss": "—"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ʔunw̓iːƛ-(q)ḥ-ʼat-wa·ʔi·š",
+          "gloss": "because.of-SIM-SHIFT-QUOT.3",
+          "literal": "it.is.the.reason.why",
+          "morphemes": [
+            {
+              "transcription": "ʔunw̓iːƛ",
+              "gloss": "because.of"
+            },
+            {
+              "transcription": "(q)ḥ",
+              "gloss": "SIM"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "wa·ʔi·š",
+              "gloss": "QUOT.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "wyiːy̓a-ʼat",
+          "gloss": "never-SHIFT",
+          "literal": "never",
+          "morphemes": [
+            {
+              "transcription": "wyiːy̓a",
+              "gloss": "never"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ɬakʷ-iːɬ-ʼat",
+          "gloss": "treat.badly-IT-SHIFT",
+          "literal": "keeping.treating.badly",
+          "morphemes": [
+            {
+              "transcription": "ɬakʷ",
+              "gloss": "treat.badly"
+            },
+            {
+              "transcription": "iːɬ",
+              "gloss": "IT"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "yaqʷ-ʼa·ɬčiqḥ-ʼat-ʔi·tq",
+          "gloss": "he.who-together.with-SHIFT-REL.3",
+          "literal": "fellow.people",
+          "morphemes": [
+            {
+              "transcription": "yaqʷ",
+              "gloss": "he.who"
+            },
+            {
+              "transcription": "ʼa·ɬčiqḥ",
+              "gloss": "together.with"
+            },
+            {
+              "transcription": "ʼat",
+              "gloss": "SHIFT"
+            },
+            {
+              "transcription": "ʔi·tq",
+              "gloss": "REL.3"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "quːʔas",
+          "gloss": "person",
+          "literal": "person",
+          "morphemes": [
+            {
+              "transcription": "quːʔas",
+              "gloss": "person"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "ḥaʔu-kʷiƛ-ʔaːɬ",
+          "gloss": "do.in.turn-MOM-always",
+          "literal": "pay.back",
+          "morphemes": [
+            {
+              "transcription": "ḥaʔu",
+              "gloss": "do.in.turn"
+            },
+            {
+              "transcription": "kʷiƛ",
+              "gloss": "MOM"
+            },
+            {
+              "transcription": "ʔaːɬ",
+              "gloss": "always"
+            }
+          ]
+        },
+        {
+          "transcription": "",
+          "analysis": "n̓aːs",
+          "gloss": "creator",
+          "literal": "creator",
+          "morphemes": [
+            {
+              "transcription": "n̓aːs",
+              "gloss": "creator"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
