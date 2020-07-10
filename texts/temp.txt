@@ -1,118 +1,599 @@
 ---
-title:
-  en:         Why our ways changed
-  nuk:        qʷisqḥin kʷiisḥinčiƛ quuʔasqin
-abbreviation: Discipline
-ID:           CL13
+title:        A man who was mean to dogs
+abbreviation: Dog
+ID:           GL9
 ---
 # 001
-\trs čuu      ʔuuqḥɬiʔaqƛs          qʷisqḥin            kʷiisḥinčiƛ   quuʔasqin.
-\m   čuː      ʔu-qḥɬi-ʔaqƛ-s        qʷis-(q)ḥ-ḥin       kʷiːsḥin-čiƛ  quːʔas-qin
-\gl  now.then it-tell.about-FUT-1SG do.so-SIM-INTER.1PL different-MOM Indian-REL.1PL
-\wlt now.then I.will.tell.about     why.we              changed       we.Indians
-\tln Now, I will talk about why we Indians changed.
+\trs qʷaaʔaƛ   ʕiniiƛ, yaaqƛst̓aɬ                           ʔuy̓iiḥa,         ʔunaakʔisʔaɬ     hiɬḥʔiitq,      ʕimsšiƛ.
+\m   qʷaː-ʼaƛ  ʕiniːƛ  yaː-ʼaqƛ-st̓aɬ                       ʔu-y̓i·ḥa         ʔu-na·k-ʔis-ʔa·ɬ hiɬ-(q)ḥ-ʔi·tq  ʕims-ši(ƛ)
+\gl  thus-FIN  dog     say.harsh.words-inside-reciprocally it-because.of    it-having-DIM-PL there-SIM-REL.3 urinate.to.mark.the.boundary-MOM
+\wlt like.this dog     hate.each.other                     on.account.of.it they.have        wherever        urinate.to.mark.the.boundary
+\tln Dogs hate each other, because they have a special territory where they mark with their urine.
 
 # 002
-ʔuuy̓inƛniš             ḥaaḥuupač̓akukqin                     wikiičiƛna.
-ʔu-y̓inƛ-ni·š           ḥaːḥuːp-a·-č̓akʷ-uk-qin               wik-ʽi·čiƛ-na·
-it-troubled.by-IND.1PL teaching-DUR-instrument-POSS-REL.1PL not-INC-1PL
-we.got.troubled.by     our.discipline                       we.stopped
-This is caused because we stopped disciplining.
+ʔaḥ  ʔunaakʔaɬ,   ḥaḥumt̓uu, ʔuušc̓aɬuk saštup        hitacpa.
+ʔaḥ  ʔu-na·k-ʔa·ɬ ḥaḥumt̓uː  ʔuːšc̓aɬuk sa-štu·p      hita-cpa·
+this it-having-PL marker    forbidden crawl-species there.MOM-pass
+this they.have    marker    forbidden animal        go.across
+They have their markings [indicating their territories] and it is against their system to go across the territorial boundary.
 
 # 003
-sukʷiƛ   ƛaaḥaqsak         wiškaa    ʔuuʔuukʷiɬ             ḥaaḥuupaƛ̓atquu.
-sukʷi(ƛ) ƛaḥ-aqsak         wišk-a·   DUPCV-ʔu-kʷiɬ          ḥaːḥuːp-a·-ʼaƛ-ʼat-quː
-take     now-in.generation scold-DUR DISTR-they-with.ref.to teaching-DUR-FINITE-SHIFT-COND
-take     young.generation  scolding  with.ref.to.them       when.they.get.disciplined
-Younger generation calls it “scolding” when you discipline them.
+qʷaaƛaa   ʔuušiicʔaƛquu                ʕiniiƛ ʔunaakquuk         ƛaqimy̓as.                           wik̓ap    hiniip, kaamatʕiiḥšiƛ̓aaɬ.
+qʷaː-ƛa·  ʔuːš-iːc-ʼaƛ-quː             ʕiniːƛ ʔu-na·k-quːk       ƛa-qimɬ-ʼas                         wik-ʼap  hiniːp  kamatq-ʼiːḥ-ši(ƛ)-ʔaːɬ
+thus-also some-belonging.to-FIN-COND.3 dog    it-having-COND.2SG sticking.up-all.about-on.the.ground not-CAUS enter   running-pursuing-MOM-always
+also      if.it.belongs.to.some.one    dog    if.you.have        put.fence.around                    dont.do  enter   always.run.after.it
+In the same way, if you put someone’s dog in a fence, they [other dogs] won’t go into the fence. It [the dog inside] will always run after him [the intruder].
 
 # 004
-ʔatqʷin,          qʷiyuyin      niiw̓a ƛ̓aqaa    naʔaataḥʔaƛqʷin                      ʔiʔiqḥʷat.
-ʔat-qʷin          qʷiyu-yin     niːw̓a ƛ̓aq-a·   naʔa·-ataḥ-ʼaƛ-qʷin                  DUPCV-ʔiq-(q)ḥ-wa·-ʼat
-although-COND.1PL when-INDF.1PL we    grow-DUR hear-trying.to.catch-FINITE-COND.1PL REP-still-SIM-say-SHIFT
-although.we       when.we       we    grows    we.listened                          repeat.to.us
-Although when we were growing up, we used to listen to them what they told us repeatedly.
+wiiqč̓ap,      yaaqƛst̓aɬʔaɬ,                          ʕiniiƛ.
+wiːq-č̓ap      yaː-ʼaqƛ-st̓aɬ-ʔa·ɬ                     ʕiniːƛ
+unpleasant-?? say.harsh.words-inside-reciprocally-PL dog
+dislike       they.hate.each.other                   dog
+The dogs hate each other.
 
 # 005
-ʔiiḥsʔaaɬ          ƛ̓uu,        qʷaayaatuk̓ʷanitiisʔaaɬ                          naniiqsakitqs.
-ʔi·ḥʷ-s-ʔaːɬ       ƛ̓uː         qʷaː-(y)a·tuk-ʼat-it-(y)iːs-ʔaːɬ                nani·qsu-ʔa·k-it-q-s
-greatly-1SG-always think.about thus-making.sound.of-SHIFT-PAST-INDF.1SG-always grandparent-POSS-PAST-SUB-1SG
-I.always.really    think.about the.way.they.used.to.speak.to.us                my.late.grandparent
-I always think a lot about the way my grandmother used to talk to us.
+rrrr waa. ʕiniiƛ, hinqaa.       rrrr qʷayaatuk             ʔaḥʔaa.
+~    wa·  ʕiniːƛ  hinq-(y)a·    ~    qʷa-ya·tuk            ʔaḥʔaː
+~    say  dog     growling-CONT ~    thus-making.sounds.of that
+~    say  dog     growling      ~    sound.thus            that
+Dogs say, _rrrrr_, growling: _rrrrr_, they sound like that.
 
 # 006
-y̓uuqʷaamitsa   wikiičiƛ      y̓uuqʷaa wikiičiƛ   naʔaa,
-y̓uːqʷaː-mit-sa wik-ʽi·čiƛ    y̓uːqʷaː wik-ʽi·čiƛ naʔa·
-also-PAST-1SG  not-INC       also    not-INC    hear
-I.also         stopped.doing also    it.stopped hear
-I also stopped hearing [their teachings as I started going to school].
+y̓uuqʷaa čims.      rrrr.
+y̓uːqʷaː čims       ~
+also    bear       ~
+also    black.bear ~
+Bears are like that, too: _rrrrrr_.
 
 # 007
-ciiqciiqaƛ̓atquus                qʷaaʔaqƛ̓ick            čapxnaakšiʔaƛquuk                  wikʔaqƛ̓ick      qʷaa.
-ciq-(y)a-ʼaƛ-ʼat-quːs           qʷaː-ʔaqƛ-ʔick         čapxʷ-na·k-šiƛ-ʼaƛ-quːk            wik-ʔaqƛ-ʔick   qʷaː
-speak-REP-FINITE-SHIFT-COND.1SG thus-FUT-IND.2SG       husband-having-MOM-FINITE-COND.2SG not-FUT-IND.2SG thus
-she.would.talk.to.me            you.would.be.like.this when.you.get.husband               you.shall.not   thus
-She would tell me, “you would be like this when you get husband; you won’t do this.”
+siičpaax ʔuušatuk,             rrrr čičiči ʔuutuk̓ʷat               siičpaax.
+siːčpaːx ʔuːš-a·tuk            ~    čičiči ʔu-a·tuk-ʼat            siːčpaːx
+cougar   some-making.sound.of? ~    teeth  it-making.sound.of-POSS cougar
+cougar   sound                 ~    teeth  making.sound.of         cougar
+Cougars sound like _rrrrr_. The sound comes from its teeth.
 
 # 008
-ʔaanapanač̓iƛqʷin                         ḥuu        yaacpanač,               ʔaaƛapanač              ʔuyaaʔatquus                         ʔaḥʔaa ciiqciiqat.
-ʔana-panač-ʼaƛ-qʷin                      ḥuː        yac-panač                ʔaƛa-panač              ʔu-iya-ʼaƛ-ʼat-quːs                  ʔaḥʔaː DUP#-ciq-a-ʼat
-only-move.about.randomly-FINITE-COND.1PL over.there step-move.about.randomly two-move.about.randomly it-at.the.time-FINITE-SHIFT-COND.1SG that   REP-speak-REP-POSS
-we.would.just.go.off.ourselves           over.there go.for.a.walk            two.going.off           thisis.when.she.does.to.me           that   speaking
-We would go off by ourselves for a walk — just two of us. That is the time when she would talk to me.
+numaakukniš,           ʔuuštupayi,     qʷaaʔitq   qʷayac̓iik. siičpaax.
+numaːk-uk-ni·š         ʔuːš-tu·p-ayi·  qʷaː-ʔi·tq qʷayac̓iːk  siːčpaːx
+forbidden-POSS-IND.1PL some-thing-give thus-REL.3 wolf       cougar
+forbidden.for.us       give.some.thing like       wolf       cougar
+It is forbidden for us to give something to animals like wolves or cougars.
 
 # 009
-čuu      ʔaḥʔaa ʔuy̓inƛniš              quuʔasqin      ʔan  wikiičiƛ   ƛaaḥaqsak         naʔaa wikiičiƛ   ḥaaḥuupa     ʔaʔiič̓um.
-čuː      ʔaḥʔaː ʔu-y̓inƛ-ni·š           quːʔas-qin     ʔan  wik-ʽi·čiƛ ƛaḥ-aqsak         naʔa· wik-ʽi·čiƛ ḥaːḥuːp-a·   DUPCV-ʔiːč̓um
-now.then that   it-troubled.by-IND.1PL Indian-REL.1PL that not-INC    now-in.generation hear  not-INC    teaching-DUR DISTR-old
-now.then that   we.were.troubled.by    we.Indians     that it.stopped young.generation  hear  it.stopped teaching     elders
-Now, we Indians have this problem because younger generation have stopped listening and elders stop disciplining.
+nuumaak   ʔuyiiʔat,     haʔumštup.
+numaːk    ʔu-ayi·-ʼat   haʔum-štu·p
+forbidden it-give-SHIFT food-thing
+forbidden give.them     variey.of.food
+It is forbidden to given them food.
 
 # 010
-ʔaanaḥiičiƛ̓aɬ        ƛaaḥaqsak,           wawaamitʔickƛa                 wawaa. y̓uuqʷaamitʔick        qʷaa.
-ʔana-ḥi·-ʽi·čiƛ-ʔa·ɬ ƛaḥ-aqsak            wawaː-ʼap-it-ʔick-ƛa·          wawaː  y̓uːqʷaː-mit-ʔick      qʷaː
-only-DUR-INC-PL      recent-in.generation say-MOMCAUS-PAST-IND.2SG-again say    also-PAST-IND.2SG     thus
-they.just            young.generation     you.told.me.before             say    you.are.like.that.too thus
-Younger people just say, “You told that to me before. You are like that, too.”
+ʔin     hixʷaa               quuʔas ʔun̓aaḥ      haʔum ʔinčiɬʔaaɬ, haʔuk̓ʷap   ʕiniiƛukʔi,   ʕiniiƛukʔi.
+ʔin     hixʷ-(y)a·           quːʔas ʔu-n̓a·ḥ     haʔum ʔinčiɬ-ʔaːɬ haʔukʷ-ʼap ʕiniːƛ-uk-ʔi· ʕiniːƛ-uk-ʔi·
+because exerting.effort-CONT person it-seeking  food  ??-always   eat-CAUS   dog-POSS-DEF  dog-POSS-DEF
+because exerting.effort      person looking.for food  only.do.to  feed       his.dog his.dog
+This is because a man should work hard to get food only for his own dog.
 
 # 011
-wawiičiƛukʔaɬ        ciqy̓ak.
-wawaː-ʽi·čiƛ-uk-ʔa·ɬ ciq-y̓akʷ
-say-INC-POSS-PL      speak-instrument
-they.would.say.now   the.way.one.speaks
-This is how they talk now.
+ʔuušiʔiiš  ʕiniiƛ ʔuusḥhtinqak.   ʔuusḥhtin.
+ʔuːš-ʔi·š  ʕiniːƛ ʔuːš-ḥtin-qak   ʔuːš-ḥtin
+some-IND.3 dog    some-made.of-?? some-made.of
+some.are   dog    smart           smart
+Some dogs are smart.
 
 # 012
-ʔuy̓iiḥa          ʔan  naqiičiƛ         ʔaʔiič̓umʔi.
-ʔu-y̓i·ḥa         ʔan  naq-ʽi·čiƛ       DUPCV-ʔiːč̓um-ʔi·
-it-on.account.of that drink-INC        DISTR-old-DEF
-on.account.of.it that started.drinking the.elders
-This is because the elders started drinking.
+ʔunw̓iiƛckʷiʔaaɬ         ʔuč̓akckʷakʔiš                     quuʔas, ʔunaak    ʕiniiƛ, wiinaquu.        wiinaquu.
+ʔunw̓iːƛ-ckʷi·-ʔaːɬ      ʔu-č̓ak-ckʷi·-ak-ʔi·š              quːʔas  ʔu-na·k   ʕiniːƛ  wiːna-quː        wiːna-quː
+because-happened-always it-instruments-happened-DUR-IND.3 human   it-having dog     invade-COND.3    invade-COND.3
+this.is.because         useful.to                         human   having    dog     when.they.invade when.they.invade
+This is the reason that they are useful to people at the time of invasion.
 
 # 013
-čuu      qʷisḥniiš         ʔaḥʔaa kʷiisḥinčiƛ   quuʔasqin.
-čuu      qʷis-(q)ḥ-ni·š    ʔaḥʔaː kʷiːsḥin-čiƛ  quːʔas-qin
-now.then do.so-SIM-IND.1PL that   different-MOM Indian-REL.1PL
-now.then how.we            that   changed       we.Indians
-Now, this is why we Indians changed.
+waa ʔuušcapanač̓aƛquu                 hiniic ʕiniiƛukʔi.
+wa· ʔuːš-ca-panač-ʼaƛ-quː            hiniːc ʕiniːƛ-uk-ʔi·
+and some-go.to-move.about-FIN-COND.3 bring  dog-POSS-DEF
+and wander.around                    bring  his.dog
+And people bring along their dogs.
 
 # 014
-wikiičiƛ   qʷaa qʷaaʔakitin            nananiqsu.
-wik-ʽi·čiƛ qʷaː qʷaː-ʔak-it-(y)in      DUPCV-nani·qsu
-not-INC    thus thus-DUR-PAST-INDF.1PL DISTR-grandparent
-it.stopped thus what.ours.used.to.do   grandparents
-We stopped doing what our grandparents used to do.
+tutuḥst̓uu      waa qʷaa. tutuḥst̓uu      waa.
+DUP-tuḥ-st̓uː   wa· qʷaː  DUP-tuḥ-st̓uː   wa·
+??-afraid-??   say thus  ??-afraid-??   say
+keep.evil.away say thus  keep.evil.away say
+They say the dogs keep the evil away.
 
 # 015
-ʔiiḥcamisukʷit            ḥaaḥuupa,    ḥaaḥuupa     ʔiʔiqḥʷa.
-ʔi·ḥʷ-camis-uk-it         ḥaːḥuːp-a·   ḥaːḥuːp-a·   DUPCV-ʔiq-(q)ḥ-wa·
-important-thing-POSS-PAST teaching-DUR teaching-DUR DISTR-still-SIM-say
-it.was.important          teaching     teaching     repeated
-It is important to discipline and discipline repeatedly.
+tutuḥst̓uuʔak      ʔin, ʔayackʷi        saštup        huuʔak.
+DUP-tuḥ-st̓uː-ʔa·k ʔin  ʔaya-ckʷi·      sa-štu·p      huːʔak
+??-afraid-??-POSS so   many-happened   crawl-species long.ago
+keep.evil.away    so   there.were.many animal        long.ago
+They say the dogs keep the evil away, so there were many dogs before.
 
 # 016
-čuu.
-čuː
-now.then
-now.then
-That’s it.
+ʔaḥ  qʷaaʔiiš      ʕiniiƛ. ʔunaak̓at.
+qaḥ  qʷaː-ʔi·š     ʕiniːƛ  ʔu-na·k-ʼat
+this thus-IND.3    dog     it-having-POSS
+this thus.they.are dog     have.it
+This is the way the dogs are. They owned dogs.
+
+# 017
+ʔuušc̓aɬukʔiš         quuʔas yackšiʔat.     wiiy̓aat.     numaak.
+ʔuːšc̓aɬ-uk-ʔi·š      quːʔas yack-ši(ƛ)-ʼat wiːy̓a-ʼat    numaːk
+forbidden?-DUR-IND.3 human  kick-MOM-SHIFT never-SHIFT? forbidden
+it.is.forbidden      human  kick.them      never        forbidden
+It is forbidden for people to kick them.
+
+# 018
+qʷaawaaʔiš   ḥaaḥuupay̓akƛa.
+qʷaː-wa·ʔi·š ḥaːḥuːpa-y̓ak-ƛa·
+thus-QUOT.3  teaching-instrument-again
+it.is.thus   also.the.teaching
+It is like this. It is also the teaching.
+
+# 019
+č̓iḥšiʔanit.
+č̓iḥ-ši(ƛ)-ʼat-it
+supernatural-MOM-SHIFT-PAST
+strange.things.happened
+Something strange happened.
+
+# 020
+wiiqḥiimitwaʔiš            quuʔas.
+wiːq-ḥi·-mit-wa·ʔi·š       quːʔas
+unpleasant-DUR-PAST-QUOT.3 person
+he.was.unkind              person
+He was an unkind man.
+
+# 021
+wiiqḥii,         wiiqḥap̓aƛquuč,         hisšiƛ.
+wiːq-ḥi·         wiːqḥap-ʼaƛ-quː-č      his-ši(ƛ)
+unpleasant-DUR   do.harm-FIN-COND.3-INF club-MOM
+being.unfriendly he.used.to.hurt.him    hit
+He was mean and used to hurt him [his dog].
+
+# 022
+muwač̓atḥ      hiɬḥ,     quuʔas ḥaw̓iɬaq.
+muwač-ʼatḥ    hiɬ-(q)ḥ  quːʔas ḥaw̓iɬ-aq
+NAME-residing there-SIM person chief-BIG
+Mowachaht     there.by  person head.chief
+This happened in Nootka, to the head chief.
+
+# 023
+mačinƛ      quuʔasʔi,  ḥaaw̓iɬaƛ.
+mač-inƛ     quːʔas-ʔi· ḥaːw̓iɬaƛ
+enter-MOM   person-DEF young.man
+enter.house the.man    young.man
+The man, a young man, entered the house.
+
+# 024
+ʔaanaʔinḥaƛniš               suutiɬ,      waa.
+ʔana-ʼinḥi-ʼaƛ-ni·š          sut-(č)iɬ    wa·
+only-waiting.for-FIN-IND.1PL you-doing.to say
+we.are.waiting.only.for      to.you       say
+“We are waiting for you,” he said.
+
+# 025
+ʔaanaʔinḥaƛniš               suutiɬ.
+ʔana-ʼinḥi-ʼaƛ-ni·š          sut-(č)iɬ
+only-waiting.for-FIN-IND.1PL you-doing.to
+we.are.waiting.only.for      to.you
+“We are waiting for you.”
+
+# 026
+heey, qʷiyimtii        yaacšiƛ    quuʔasʔi.
+~     qʷiyu-imt-(y)iː  yaːc-ši(ƛ) quːʔas-ʔi·
+~     when-PAST-INDF.3 walk-MOM   person-DEF
+~     whenever.it.was  departed   the.man
+At some point the man left.
+
+# 027
+ʔum̓aack            wik ƛawačuƛ.
+ʔum̓aːck            wik ƛawa-čuƛ
+keep.same.distance not near-MOM
+keep.same.distance not get.closer
+[The chief followed the young man and] kept up with him; he couldn’t get closer to him.
+
+# 028
+yaacšiʔaƛquuč.
+yaːc-ši(ƛ)-ʼaƛ-quː-č
+walk-MOM-FIN-COND.3-INF
+would.walk.a.little.faster
+He [the young man] would increase his pace.
+
+# 029
+heey, k̓uuʔuɬšiʔaƛquuč.
+~     k̓uː-ʔuɬ-ši(ƛ)-ʼaƛ-quː-č
+~     short.distance-place.of-MOM-FIN-COND.3-INF
+~     would.get.closer
+He [the chief] whould get a little closer [to reduce the distance expanded as the result of the young man’s acceleration and keep up with the young man].
+
+# 030
+ƛ̓aaʔiis              waɬaak̓ap̓at.
+ƛ̓aːʔaː-ʽis          waɬaːk-ʼap-ʼat
+outside-on.the.beach go-CAUS-SHIFT
+outer.beach          was.taken.to
+He was taken to the outer beach (= beach facing the ocean).
+
+# 031
+hii, n̓aacsaaƛ,  ʔin  č̓iḥšiʔat               quuʔasʔi.
+~    n̓aːcsa-a·ƛ ʔin  č̓iḥ-ši(ƛ)-ʼat          quːʔas-ʔi·
+~    see-??     that supernatural-MOM-SHIFT person-DEF
+~    he.saw     that being.supernatural     the.man
+He [the chief] realized that the man was a spirit.
+
+# 032
+č̓iḥšiʔat.
+č̓iḥ-ši(ƛ)-ʼat̓
+supernatural-MOM-SHIFT
+being.supernatural
+He was a spirit.
+
+# 033
+qʷaaʔap   n̓ašiʔi             qʷaaʔaƛqs.
+qʷaː-ʼap  n̓aš-i(ƛ)-ʼi·       qʷaː-ʼaƛ-qs
+thus-CAUS look-MOM-IMP.2SG>3 thus-FIN-REL.1SG
+doing     look               the.way.I.am
+“Look at the way I am.”
+
+# 034
+ḥan̓aḥtuƛ.
+ḥan̓aḥ-tuƛ
+naked-MOM?
+naked
+He [the young man] took off his clothing.
+
+# 035
+m̓uč̓ičʔinʔakʔi                ʕiniiƛ ḥan̓aḥtuƛ.
+m̓uč̓ič-ʔin-ʔa·k-ʔi·           ʕiniːƛ ḥan̓aḥ-tuƛ
+clothed-costume.for-POSS-DEF dog    naked-MOM?
+the.attire.of                dog    naked
+He took off his dog attire.
+
+# 036
+n̓ašiʔi             qʷaaʔap̓atii            kin̓uckʷačyu     yaackyaacka.
+n̓aš-i(ƛ)-ʼi·       qʷaː-ʼap-ʼat-(y)iː     kin̓uc-kʷačyu    DUP#-yack-a
+look-MOM-IMP.2SG>3 thus-CAUS-SHIFT-INDF.3 blue-completely IT-kick-REP
+look               how.it.was.done        all.bruised     kicking.repeatedly
+“Look at the way I am all bruised from being kicked repeatedly.”
+
+# 037
+qʷaa y̓uuqʷaa ƛaʔuu   [kin̓ucyu]       .
+qʷaː y̓uːqʷaː ƛaʔuː   kin̓uc-yu
+thus also    another blue-??
+thus also    another in.bluish.color
+The other one was also the same [in bruised color].
+
+# 038
+waa  ciqšiʔaƛ      ƛaʔuuʔi     ʕiniiƛ.
+wa·  ciq-ši(ƛ)-ʼaƛ ƛaʔuː-ʔi·   ʕiniːƛ
+well speak-MOM-FIN another-DEF dog
+well he.spoke      another     dog
+The other dog spoke,
+
+# 039
+wiiy̓aats                qʷaaʔap̓at,      ḥaw̓iɬukqs,         yaqʷaciis                 ʕiniiƛ, ḥaw̓iɬukqs,         waa.
+wiːy̓aː-ʼat-s            qʷaː-ʼap-ʼat    ḥaw̓iɬ-uk-qs        yaqʷ-ac-(y)iːs            ʕiniːƛ  ḥaw̓iɬ-uk-qs        wa·
+never-SHIFT-1SG         thus-CAUS-SHIFT chief-POSS-REL.1SG who-belonging.to-INDF.1SG dog     chief-POSS-REL.1SG say
+it.never.happened.to.me how.it.is.done  my.chief           my.owner                  dog     our.chief          say
+“My chief, my owner never does that to me,” the dog said.
+
+# 040
+ʔaapḥiiʔats.           wiičḥiiʔaks.
+ʔaːp-ḥi·-ʼat-s         wič-ḥi·-ʼat-s
+friendly-DUR-SHIFT-1SG wrong-DUR-SHIFT-1SG
+he.is.kind.to.me       he.is.mean.to.me
+“Min is kind to me,” [some dogs said]; “Mine is mean to me,” [other dogs said].
+
+# 041
+maa,  waaʔat,    quuʔasʔi.
+maː   wa·-ʼat    quːʔas-ʔi·
+here! say-SHIFT  person-DEF
+here! it.is.said the.man
+“Here! (Take it.)” he said to the man [the chief].
+
+# 042
+maa.
+maː
+here!
+here!
+“Here!
+
+# 043
+huḥtakšiƛ̓aqƛick         qʷaaʔat,    qʷaayii         ʕiniiƛ tiič.
+huḥtak-ši(ƛ)-ʔa·qƛ-ʔick qʷaː-ʼat    qʷaː-(y)iː      ʕiniːƛ tiːč
+know-MOM-FUT-IND.2SG    thus-SHIFT  thus-INDF.3     dog    live
+you.will.know           thus.to.him how.it.would.be dog    live
+You will know how the dog life would be.”
+
+# 044
+ɬaqʷayat                            m̓uč̓ic̓acy̓aʔi.
+ɬaqʷ-ayi·-ʼat                       m̓uč̓ič-ʔac-y̓ak-ʔi·
+throw.soft.yielding.mass-give-SHIFT clothed-??-instrument-DEF
+it.was.tossed                       its.clothing
+He tossed his clothing [to the chief].
+
+# 045
+hii, m̓uč̓ičuƛ,    ʕiniiƛšiƛ.
+~    m̓uč̓ič-uƛ    ʕiniːƛ-ši(ƛ)
+~    clothed-MOM dog-MOM
+~    got.clothed become.a.dog
+Wow, he put it on and became a dog.
+
+# 046
+mačintƛwaʔiš      ʕiniiƛ̓i.
+mač-inƛ-wa·ʔi·š   ʕiniːƛ-ʔi·
+enter-MOM-QUOT.3  dog-DEF
+entered.the.house the.dog
+The dog entered the house.
+
+# 047
+ʔucaḥtak,               čimʔiɬukʔi,   ḥaw̓iɬʔi.
+ʔu-ca-ḥta-k             čimʔiɬ-uk-ʔi· ḥaw̓iɬ-ʔi·
+it-go.to-headed.for?-?? bed-POSS-DEF  chief-DEF
+headed.straight.for     his.bedstead  the.chief
+The chief headed straight to his bedstead.
+
+# 048
+ʔuʔiiyiƛ.
+ʔu-ʔi·ya-iƛ
+it-get.to.be.at-MOM
+sit
+He sat there.
+
+# 049
+muuqpiƛ            čaani       hiiɬaʔiɬ.
+muːq-pi(ƛ)         čaːni       hiːɬa-ʽiɬ
+lay?-on.the.floor? for.a.while ??-on.the.floor
+lay.on.all.fours   for.a.while at.foot.of.the.bed
+He lay on all fours right beside the bed.
+
+# 050
+ʔaa ʔaatḥšiƛ,        hinaspiƛ                  ʔiiniƛ̓i,   čimʔiɬʔ    citkpiƛ.
+~   ʔatḥ-ši(ƛ)       hin-as-pi(ƛ)              ʕiniːƛ-ʔi· čimʔiɬ-ʔi· citk-pi(ƛ)
+~   night-GRAD       there.MOM-??-in.the.house dog-DEF    bed-DEF    lay.down-in.the.house
+~   it.becomes.night got.on.the.bed            the.dog    the.bed    lay.down.in.the.house
+It became night, and the dog got on and lay down on the bed.
+
+# 051
+citkpiƛ.
+citk-pi(ƛ)
+lay.down-in.the.house
+lay.down.in.the.house
+He lay down.
+
+# 052
+hiitkinʔiš      ʕiniiƛ̓i,   waa  č̓uušukʷiƛ.
+hiːtkin-ʔi·š    ʕiniːƛ-ʔi· wa·  č̓uš-L-ukʷ-iƛ
+strange-IND.3   dog-DEF    well suspicious.of-GRAD-DUR-MOM
+it.was.very.odd the.dog    well became.suspicious
+There was something strange about the dog. The people became suspicious.
+
+# 053
+č̓uušukʷiƛ.
+č̓uš-L-ukʷ-i(ƛ)
+suspicious.of-GRAD-DUR-MOM
+became.suspicious
+People became suspicious.
+
+# 054
+qii,            kʷiscačiʔaƛquuč                    ʕiniiƛ̓i.
+qiː             kʷis-ca-či(ƛ)-ʼaƛ-quː-č            ʕiniːƛ-ʔi·
+for.a.long.time different-go.to-MOM-FIN-COND.3-INF dog-DEF
+for.a.long.time would.wander.around the.dog
+For a long time the dog would wander around [the house].
+
+# 055
+hayimḥat              qʷiʔiicii.
+hayim-ḥi·-ʼat         qʷi-ʼi·c-(y)iː
+not.knowing-DUR-SHIFT what-eat-INDF.3
+didnt.know            whatever.he.ate
+They didn’t know what he ate.
+
+# 056
+ʔaḥʔaaʔaƛ̓anitwaʔiš.        ḥaaw̓iiḥaƛ,                   kʷiikʷiisaḥi,                       hihinataḥšiʔat.
+ʔaḥʔaː-ʼaƛ-ʼat-it-wa·ʔi·š  ḥaːw̓iːḥaƛ                    DUP-kʷis-aḥi                        DUP-hin-ataḥ-ši(ƛ)-ʼat
+then-FIN-SHIFT-PAST-QUOT.3 young.men DISTR-different-?? ??-there.MOM-try.to.catch-MOM-SHIFT
+then                       young.men                    good.hunters                        about.to
+Then the young men, the best hunters, were trying to catch him.
+
+# 057
+hii hat̓iisckʷiʔaaɬ.
+~   hat̓iːs-ckʷi·-ʔaːɬ
+~   bathing-having.happened-always
+~   went.bathing
+Well, they went bathing.
+
+# 058
+hat̓iisckʷiʔaaɬ.
+hat̓iːs-ckʷi·-ʔaːɬ
+bathing-having.happened-always
+went.bathing
+They went bathing.
+
+# 059
+hiɬʔaƛ    ḥaa.
+hiɬ-ʼaƛ   ḥaː
+there-FIN there
+there.is  there
+There he was.
+
+# 060
+qʷaaʔamitii           ƛ̓upaamitquu.
+qʷaː-ʼap-it-(y)iː     ƛ̓up-(y)a·-mit-quː
+thus-CAUS-PAST-INDF.3 warm-CONT-PAST-COND.3
+so.he.did             if.it.was.warm
+We don’t know exactly what he [the chief who became a dog] was doing that day or what kind of weather it was (whether it was warm or not). {the narrator’s comment}
+
+# 061
+qʷaʔis  ʔaḥʔaa čuupi,       quuʔasʔi.
+qʷa-ʔis ʔaḥʔaː ču-a·pi      quːʔas-ʔi·
+thus-?? that   bent.over-?? person-DEF
+thus    that   bent.over    the.man
+The man was like this — stooped over.
+
+# 062
+ƛawaʔii    ḥaaw̓iiḥaƛ̓i,   ʔeʔḥeiik! waa.
+ƛawa-ʔiː   ḥaːw̓iːḥaƛ-ʔi· ʔeʔḥeiːk  wa·
+near-reach young.men-DEF INTJ      say
+approach   the.young.men INTJ      say
+The young hunters drew near. “Got it!” they said.
+
+# 063
+sukʷiƛ,     k̓acḥaqʔi,   yaqʔičʔitq.
+su-kʷi(ƛ)   k̓acḥaq-ʔi·  yaq-ʔič-ʔi·tq
+holding-MOM blanket-DEF thing.which-clothed.in-REL.3
+grabbed     the.blanket thing.he.was.wearing
+He [the hunter] grabbed the blanket — the thing he was wearing.
+
+# 064
+quuʔasšiƛ,   hiniic      waɬsaap̓at.
+quːʔas-ši(ƛ) hiniːc      waɬ-sa·p-ʼat
+person-MOM   take.along  go.home-MOMCAUS-SHIFT
+became.human taken.along taking.him.home
+He became a human being and they took him along home.
+
+# 065
+wik. wik nay̓iik      mačinƛ.
+wik  wik nay̓iːk      mač-inƛ
+not  not immediately enter-MOM
+not  not immediately enter.house
+He didn’t enter the house right away.
+
+# 066
+muučiiɬ.       muučiiɬ.
+muː-či·ɬ       muː-či·ɬ
+four-days.long four-days.long
+fourth.day     fourth.day
+[He waited for] four days.
+
+# 067
+heey, waɬšiƛ.
+~     waɬ-ši(ƛ)
+~     go.home-MOM
+~     go.home
+Then he went home.
+
+# 068
+ʔucaḥtaʔap̓at,                  čimʔiɬukʷitʔi,    hiiɬʔiitqʔaaɬ         t̓iqʷiɬ.
+ʔu-ca-ḥta-ʼap-ʼat              čimʔiɬ-ukʷ-it-ʔi· hiɬ-L-ʔi·tq-ʔaːɬ      t̓iqʷ-ʽiɬ
+it-go.to-headed.for-CAUS-SHIFT bed-POSS-PAST-DEF there-??-REL.3-always sit-on.the.floor
+they.brought.him               to.his.bed        where.he.used.to.be   sitting.on.the.floor
+They brought him to his bed where he used to be. He sat on the bed.
+
+# 069
+numaakckʷak                   quuʔas ʔiiqḥuk,    nay̓iik.
+numaːk-ckʷi·-ak               quːʔas ʔiːqḥ-uk    nay̓iːk
+forbidden-having.happened-DUR person telling-DUR immediately
+it.is.forbidden               person narrating   immediately
+It is taboo [for] a man to tell right away.
+
+# 070
+n̓upqʔičḥ, ʔaƛqʔičḥ, qacc̓aqʔičḥ, muuqʔičḥ.
+n̓up-qʔičḥ ʔaƛ-qʔičḥ qacc̓a-qʔičḥ muː-qʔičḥ
+one-year  two-year  three-year  four-year
+one.year  two.years three.years four.years
+One year, two years, three years, four years [must pass before you may speak of the experience].
+
+# 071
+n̓upčiiɬ,      waaʔat.    [one year] .
+n̓up-či·ɬ      wa·-ʼat    ~
+one-days.long say-SHIFT  ~
+one.day       it.is.said ~
+They say “one day” [to refer to “one year” as part of the taboo];
+
+# 072
+ʔaƛčiiɬ,      qacc̓ačiɬ,       muučiiɬ,       [four years] .
+ʔaƛ-či·ɬ      qacc̓a-či·ɬ      muː-či·ɬ       ~
+two-days.long three-days.long four-days.long ~
+two.days      three.days      fourth.day     ~
+“two days” [for “two years”], “three days” [for “three years”], [“four days” for] “four years”.
+
+# 073
+čuu,     muuqʔičḥšiƛ.
+čuː      muː-qʔičḥ-ši(ƛ)
+now.then four-year-MOM
+now.then becomes.fourth.year
+Now it became the fourth year.
+
+# 074
+muuqʔičḥ   hiinasit.
+muː-qʔičḥ  hin-as-it
+four-years there-??-PAST
+four.years it.reached?
+It became the fourth year. (?)
+
+# 075
+hišimyuup              qʷiʔiic̓amitii.
+hiš-imɬ-ʽuːp           qʷi-ʼi·c-ʼap-it-(y)iː
+all-in.a.group-MOMCAUS that.which-eat-CAUS-PAST-INDF.3
+while.they.gathered.up whatever.they.serve.them.to.eat
+They [the family of the head chief] gathered whatever things they served to people.
+
+# 076
+kʷiikʷiisaḥickʷi                   muuwač̓atḥ,    ƛ̓aaq,      ʔayimsukʔaɬ     ƛ̓aaq,      maaʔak,    haʔukšiƛ.
+DUPː-kʷis-aḥi-ckʷi·                muːwač-ʼatḥ   ƛ̓aːq       ʔaya-imsuk-ʔa·ɬ ƛ̓aːq       maːʔak     haʔuk-ši(ƛ)
+DISTR-different-??-having.happened NAME-residing animal.fat many-??-PL      animal.fat gray.whale eat-MOM
+group.of.hunters                   Mowachaht     animal.fat plenty          animal.fat gray.whale ate
+The distinguished Mowachaht hunters feasted on blubber, lots of blubber from the gray whale.
+
+# 077
+hišimy̓awiƛ.
+hiš-imɬ-ʼawiƛ
+all-in.a.group-??
+got.together
+They got together [in celebration].
+
+# 078
+ḥaaḥuupač̓akʔiš             ʔaḥ  waaʔaƛ.
+ḥaːḥuːpa-č̓ak-ʔi·š          ʔaḥ  wa·-ʼaƛ
+teaching-instruments-IND.3 this say-FIN
+it.is.the.teaching         this said
+This is our teaching, he [the chief who became the dog] said.
+
+# 079
+wiksuu     wiiqḥaap      ʕiniiƛukʔitqsuu.
+wik-suː    wiːq-ḥaːp     ʕiniːƛ-uk-ʔitqsuː
+not-2PL    unpleasant-?? dog-POSS-REL.2PL
+you.do.not do.harm       your.dog
+Don’t you harm your dog.
+
+# 080
+wiksuu     yackšiƛ.
+wik-suː    yack-ši(ƛ)
+not-2PL    kick-MOM
+you.do.not kick
+Don’t you kick it.
+
+# 081
+haʔuk̓ʷapsuuk    y̓uuqʷaa.
+haʔukʷ-ʼap-suːk y̓uːqʷaː
+eat-CAUS-2SG    also
+you.feed        also
+You feed them too.
+
+# 082
+qʷiʔiickʷiʔitk            ʔuyiisuuk.
+qʷi-ʼi·c-ckʷi·-ʔi·tk      ʔu-(y)i·-suːk
+what-eat-remains.of-REL.2 it-give-2SG
+whatever.you.ate          you.give
+Whatever you ate, you give.
+
+# 083
+ʔuyiisuu     ʕiniiƛukʔitqsuu.
+ʔu-(y)i·-suː ʕiniːƛ-uk-ʔitqsuː
+it-give-2PL  dog-POSS-REL.2PL
+you.give     your.dog
+You give it to your dog.
+
+# 084
+ʔiiqḥuk̓ʷaƛ          qʷisʔanitʔitq.
+ʔiːqḥ-ukʷ-ʼaƛ       qʷis-ʼat-it-ʔi·tq
+telling-DUR-FIN     do.so-SHIFT-PAST-REL.3
+tell.story.about.it what.he.did
+They [the dogs] told him what he had done. (?)
+
+# 085
+ḥimčiʔanit,         ʔin  kin̓uckʷačyimt        ʔuuš ʕiniiƛ.
+ḥim-či(ƛ)-ʼat-it    ʔin  kin̓uc-kʷačyu-imt     ʔuːš ʕiniːƛ
+show-MOM-SHIFT-PAST that blue-completely-PAST some dog
+show                that all.bruised          some dog
+They showed him that some were bruised all over.
