@@ -1,118 +1,377 @@
 ---
 title:
-  en:         How our language changed
-  nuk:        qʷisḥin kʷiisḥiičiƛuk ciqy̓ak
-abbreviation: LgChange
-ID:           CL14
+  en:         Indian marriage
+  nuk:        qʷisḥitiiʔaaɬʔaɬ ʔucḥinƛst̓aɬ
+abbreviation: Marriage
+ID:           CL10
 ---
 # 001
-\trs čuu,     ʔuqḥɬiʔaqƛs           qʷisḥin      kʷiisḥiičiƛuk          ciqy̓ak.
-\m   čuː      ʔu-qḥɬi-ʔaqƛ-s        qʷisḥ-(y)in  kʷis-ḥi·-čiƛ-uk        ciq-y̓akʷ
-\gl  now.then it-tell.about-FUT-1SG how-INDF.1PL different-DUR-MOM-POSS speak-device
-\wlt now.then I.will.tell.about     how.we       ours.got.changed       language
-\tln Now, I will talk about how our language has changed.
+\trs huuʔak   ʔuyi         ʔuuqḥɬiʔaqƛ,      qʷisḥitiiʔaaɬʔaɬ          ʔucḥinƛst̓aɬ.
+\m   huːʔak   ʔuyi         ʔu-qḥɬi-ʔaqƛ      qʷisḥ-it-(y)iː-ʔaːɬ-ʔa·ɬ  ʔu-cḥinƛ-st̓aɬ
+\gl  long.ago at.the.time  it-tell.about-FUT how-PAST-INDF.3-always-PL they-marry.to-to.each.other
+\wlt long.ago at.that.time I.will.tell.about how.they.would            marry.each.other
+\tln I will talk about how people got married long ago.
 
 # 002
-ʔayumtʔaaɬ            ḥaatḥaakʷaƛ kʷiscačiƛ.
-ʔaya-umt-ʔaːɬ         ḥaːtḥaːkʷaƛ kʷis-ca-čiƛ
-many-PAST-always      girls       different-go.to-MOM
-there.used.to.be.many girls       go.different.places
-Many women used to go to different places (when they got married).
+hiist̓iʔaƛquuč                ḥuu    nay̓aqak̓aƛquu,         ʔuḥ        ʔaʔiič̓umʔi       ʕaʕaasḥi     yaqcḥinƛ̓aqƛukʔitq              ḥaakʷaaƛ.
+hist-ʼi(ƛ)-ʼaƛ-quː-č         ḥuː    nay̓aqak-ʼaƛ-quː       ʔuḥ        DUP-ʔiːč̓um-ʔi·   ʕaʕa·sḥi     yaqʷ-cḥinƛ-ʔaqƛ-uk-ʔi·tq       ḥaːkʷaːƛ
+there-take-FINITE-COND-INF.3 yonder baby-FINITE-COND      being.they DISTR-parent-DEF make.plan    he.who-marry.to-FUT-POSS-REL.3 daughter
+they.would.take.from         yonder when.they.were.babies being.they the.parents      making.plans one.whom.theirs.will.marry     daughter
+It used to be the case that parents arranged for marriage long before [the actual marriage], when their daughter is a baby.
 
 # 003
-histaqšiƛ           ƛaʔuukʷiʔatḥ ʔucačiƛ      qaay̓uuk̓ʷatḥ. histaqšiƛ           ʕaaḥuusʔatḥ hinatšiƛ       ʔaḥ  c̓išaaʔatḥ.
-his-taq-šiƛ         ƛaʔuːkʷiʔatḥ ʔu-ca-čiƛ    qaːy̓uːk̓ʷatḥ  his-taq-šiƛ         ʕaːḥuːsʔatḥ hin-at-šiƛ     ʔaḥ  c̓išaːʔatḥ
-there-come.from-MOM Clayoquot    it-go.to-MOM Kyuquot      there-come.from-MOM Ahousaht    there-come-MOM here NAME
-came.from           Clayoquot    to           Kyuquot      came.from           Ahousaht    come.here      here NAME
-They came from Clayoquot to Kyuquot, or from Ahousaht to Tseshaht.
+ciʕas                nay̓aqakštip         ʔiiqḥii.
+ciq-ʼas              nay̓aqak-šti·p       ʔiq-ḥi·
+speak-go.in.order.to baby-do.while       still-??
+propose              while.she.is.a.baby still
+They would propose while [their daughter] was still a baby.
 
 # 004
-naʔaataḥ             t̓aatn̓aʔisʔi      ʔaaƛačiɬ        kʷiikʷiisatḥam̓inḥ.
-naʔa·-ataḥ           t̓aːtn̓a-ʔis-ʔi·   ʔaƛa-čiɬ        DUP-kʷis-ʼatḥ-a-m̓inḥ
-hear-trying.to.catch children-DIM-DEF two-with.ref.to DISTR-different-come.from-speak.a.language.of-PL
-listen.carefully     the.children     to.two          speaking.different.languages
-Their children listened to two people speaking in different dialects.
+čuu,     ƛ̓aqačiƛ   ḥaakʷaaƛ̓i    ɬuucmiičiƛ,   ʕic̓aatšiƛ.
+čuː      ƛ̓aq-ačiƛ  ḥaːkʷa·ƛ-ʔi· ɬuːcma-ʽi·čiƛ ʕic̓aːt-šiƛ
+now.then grow-INC? girl-DEF     woman-INC     menstruate.for.the.first.time-MOM
+now.then grow.up   the.girl     become.woman  menstruate.for.the.first.time
+Then, the girl grew up and became a woman, menstruating for the first time.
 
 # 005
-qʷisḥ ʔaḥʔaa  kʷiisḥinčiƛukna             ciqy̓ak.
-qʷisḥ ʔiaḥʔaː kʷis-ḥin-čiƛ-uk-na·         ciq-y̓akʷ
-how   that    different-DUR?-MOM-POSS-1PL speak-instrument
-how   that    ours.changed                language
-That is why our language changed.
+ʔuyaaƛ              ʔaḥʔaa ʕiict̓uuɬaƛ̓atquu                                                          hinʔaɬšiʔaƛ̓aɬ         ʔan  ɬuucmiičiƛ    maatmaas. hinʔaɬšiƛ          ʔan  ɬuucmiičiƛ.
+ʔuyi-ʼaƛ            ʔaḥʔaː ʕic-t̓uːɬa-ʼaƛ-ʼat-quː                                                    hin-ʔaɬ-šiƛ-ʔa·ɬ      ʔan  ɬuːcma-ʽi·čiƛ maːtmaːs  hin-ʔaɬ-šiƛ        ʔan  ɬuːcma-ʽi·čiƛ
+at.that.time-FINITE then   menstruate.for.the.first.time-give.feast.in.honor.of-FINITE-SHIFT-person there-aware.of-MOM-PL that woman-INC     villages  there-aware.of-MOM that woman-INC
+at.that.time        then   when.they.would.give.a.feast.for.the.first.menstruation                  they.recognize        that become.woman  villages  recognize          that become.woman
+When they gave a feast celebrating her first menstruation, people of the village recognized that she had become a woman.
 
 # 006
-waa, ʔucačiʔaƛna             niiw̓a qaaqaawis.
-wa·  ʔu-ca-čiƛ-ʼaƛ-na·       niːw̓a qaːqaːwis
-and  it-go.to-MOM-FINITE-1PL we    NAME
-and  we.went.to              we    NAME
-And we went to _qaaqaawis_ (Residential School).
+ciʕasʔaƛ                    čaapxcuw̓atʔi       ƛiḥsaƛ                           hiy̓atḥʔitq           ḥaakʷaaƛ̓i.
+ciq-ʼas-ʼaƛ                 čapxʷ-cuw̓at-ʔi·    ƛiḥ-ʽsaƛ                         hiɬ-ʼatḥ-ʔi·tq       ḥaːkʷa·ƛ-ʔi·
+speak-go.in.order.to-FINITE man-on.side.of-DEF traveling.in.vessel-on.the.beach there-residing-REL.3 girl-DEF
+ask.for                     the.mans.side      land.on.the.beach                where.she.lives      the.girl
+The man’s side would go to ask for the girl, traveling to her village.
 
 # 007
-waa, hiɬitƛa         ʔaḥ  ƛiisƛiisaquw̓as.                        ʔuušc̓iiy̓ap̓aƛ̓atukna                    ʔuuḥʷʼaɬ ciqy̓akukqin,                  maamaamaɬn̓iqsap̓atna.
-wa·  hiɬ-it-ƛa·      ʔaḥ  ƛiːsƛiːsaq-uɬ-ʼas                      ʔuːš-c̓iːɬ-ʼap-ʼaƛ-ʼat-uk-na·          ʔu-ḥʷʼaɬ ciq-y̓akʷ-uk-qin               DUP-mamaɬn̓iq-sa·p-ʼat-na·ʼ
-and  there-PAST-also this going.to.school-place.of-on.the.ground some-??-MOMCAUS-FINITE-SHIFT-POSS-1PL it-using speak-instrument-POSS-REL.1PL DISTR-speak.English-MOMCAUS-SHIFT-1PL
-and  there.was.also  this school                                 we.were.forbidden                     using.it our.language                  they.made.us.speak.English
-[When] we were at this school, we were forbidden to use our own language. They made us speak English.
+wik̓aƛquuč             n̓upčiiɬšiƛ.
+wik-ʼaƛ-quː-č         n̓up-či·ɬ-šiƛ
+not-FINITE-COND-INF.3 one-for.days-MOM
+he.would.never        for.one.day
+They would never stay (just) for one day.
 
 # 008
-hawiiʔaƛin             ƛiisƛiisa       niiw̓a waɬaak̓aƛna      hiy̓atḥm̓inḥqin,            t̓aatn̓ačiiɬšiƛ.
-hawiː-ʼaƛ-(y)in        ƛiːsƛiːsa       niːw̓a waɬaːkʷ-ʼaƛ-na· hiɬ-ʼatḥ-m̓inḥ-qin         t̓aːtn̓a-čiːɬ-šiƛ
-finish-FINITE-INDF.1PL going.to.school we    go-FINITE-1PL   there-residing-PL-REL.1PL children-make-MOM
-when.we.finished       going.to.school we    we.went.home    where.we.all.lived        makes.children
-When we finish school, we came back home and had children.
+ʔaƛp̓it    saantii waa n̓upqumɬ           hupaɬ.
+ʔaƛ-p̓it   saːntiː wa· n̓up-qumɬ          hupaɬ
+two-times Sunday  or  one-round.objects month
+twice     Sunday  or  one.month         month
+They would be there for two weeks or one month.
 
 # 009
-y̓uuqʷaaʔaƛna    maamaamaɬn̓iqsap            t̓aatn̓aʔis.
-y̓uːqʷaː-ʼaƛ-na· mamaɬn̓iq-sa·p              t̓aːtn̓a-ʔis
-also-FINITE-1PL speak.English-MOMCAUS      children-DIM
-we.also         made.them.speak.in.English children
-We also made them speak English.
+qiičiƛ         hiis               c̓iiqaa,    ʔuuqḥɬi       qʷaaʔaqƛ̓itq          čačumḥi    ʔuʔaaɬuk         ḥaakʷaaƛ̓i.
+qiː-čiƛ        hiːs               c̓iːq-(y)a· ʔu-qḥɬi       qʷaː-ʔaqƛ-ʔi·tq      čačum-ḥi·  ʔu-ʼa·ɬuk        ḥaːkʷa·ƛ-ʔi·
+for.long-MOM   there.on.the.beach chant-REP  it-tell.about thus-FUT-REL.3       proper-DUR it-looking.after girl-DEF
+last.long.time there.on.the.beach chanting   tell.about    the.way.they.will.be all.right  taking.care      the.girl
+They remained there on the beach for a long time chanting, saying how they will take care of the girl properly.
 
 # 010
-čuu      ʔuy̓inƛniš              ʔaḥʔaa hixʷaaʔaƛniš                       ƛaḥ kaƛḥakʔi,        ʔun̓aaḥ      qʷisḥʔaaḥin          huʔacaʔap.
-čuː      ʔu-y̓inƛ-ni·š           ʔaḥʔaː hixʷ-a·-ʼaƛ-ni·š                    ƛaḥ kaƛḥ-ak-ʔi·      ʔu-n̓a·ḥ     qʷisḥ-ʼaːḥ-(y)in     huʔa-ca-ʼap
-now.then it-troubled.by-IND.1PL that   exerting.effort-DUR-FINITE-IND.1PL now daylight-DUR-DEF it-seeking  how-perhaps-INDF.1PL back-go.to-MOMCAUS
-now.then we.were.troubled.by    that   we.are.having.a.hard.time          now daylight         looking.for how.we.would         bring.back
-Well, because of that we now have a hard time trying to find the way we can bring [our languages] back.
+čuu,     ʔam̓inʔaƛquuč,                   ƛaʔitap̓aƛquuč,                              hiiɬciiʕasʔap                                hiy̓atḥʔitq           ḥaakʷaaƛ̓i.
+čuː      ʔam̓a-in-ʼaƛ-quː-č               ƛa-ʼitap-ʼaƛ-quː-č                          hiːɬ-čiːʕas-ʼap                              hiɬ-ʼatḥ-ʔi·tq       ḥaːkʷa·ƛ-ʔi·
+now.then at.first-come-FINITE-COND-INF.3 sticking.up-on.the.ground-FINITE-COND-INF.3 there.in.a.house-at.the.outside.wall-MOMCAUS there-residing-REL.3 girl-DEF
+now.then when.they.first.arrived         would.put.a.stick.on.the.ground             in.front.of.the.house                        where.she.lives      the.girl
+Now, when they first arrived, they would put up a stick in front of the girl’s house.
 
 # 011
-wik̓aƛ̓atna                y̓uuqʷaa t̓aatn̓aakqin           naʔaaʔat     ʔunw̓iiƛḥin        ʔuukʷiɬʔaƛ̓aɬ          kaapapšiƛ  maamaamaɬn̓iqa.
-wik-ʼaƛ-ʼat-na·          y̓uːqʷaː t̓aːtn̓a-ʔa·k-qin       naʔa·-ʼat    ʔunw̓iːƛ-ḥin       ʔu-kʷiɬ-ʼaƛ-ʔa·ɬ      kaːpap-šiƛ mamaɬn̓iq-a
-not-FINITE-SHIFT-1PL     also    children-POSS-REL.1PL hear-SHIFT   because-INTER.1PL it-doing.to-FINITE-PL prefer-MOM speak.English-speak.a.language.of
-they.stopped.doing.to.us also    our.children          it.was.heard because.we        they.would.do.to      prefer     speaking.English
-Also our children stopped understanding us [in our language] because people preferred talking in English.
+hiʔiisʔaƛ                  ʔaḥʔaa ƛaʔas                     ʔunic̓asʔaƛ                        ʔunic̓asʔitqʔaɬ,                   c̓iiqaa,    ciiqciiqa.
+hiʔiːs-ʼaƛ                 ʔaḥʔaː ƛa-ʼas                    ʔunic-ʼas-ʼaƛ                     ʔunic-ʼas-ʔi·tq-ʔa·ɬ              c̓iːq-(y)a· ciq-(y)a
+there.on.the.ground-FINITE that   sticking.up-on.the.ground time.spent-on.the.ground-FINITE   time.spent-on.the.ground-REL.3-PL chant-REP  speak-REP
+there.on.the.ground        that   sticking.up               remain.on.the.ground              so.long.as.they.are.there chanting   speaking
+The stick remained there on the ground as long as they were there chanting and speaking.
 
 # 012
-ʔuušcukšiʔaƛ              huuḥtakšiiḥʔap̓at.
-ʔuːš-cuk-šiƛ-ʼaƛ          huḥtak-šiːḥ-ʼap-ʼat
-some-requiring-MOM-FINITE know.how-IT.PL-MOMCAUS-SHIFT
-it.got.difficult          teach
-It has become difficult to teach them.
+waa, čuu,     t̓apatšiʔaƛquu,            ʔan  ʔucḥinƛ̓aqƛuk           ḥaakʷaaƛ.
+wa·  čuː      t̓apat-šiƛ-ʼaƛ-quː         ʔan  ʔu-cḥinƛ-ʔaqƛ-uk       ḥaːkʷa·ƛ
+and  now.then think-MOM-FINITE-COND     that he-marry.to-FUT-POSS   girl
+and  now.then they.would.think.about.it that theirs.would.marry.him girl
+And then, they (the girl’s side) would think about whether their girl would marry him or not.
 
 # 013
-wiksčiik̓aƛ̓aɬ.
-wik-sčiːk-ʼaƛ-ʔa·ɬ
-not-go.along-FINITE-PL
-they.say.it.wrong
-They say it wrong now [they cannot pronounce words correctly].
+sukʷiƛ   ƛaʔasumʔi                           mačinup,       čuu waaquu.
+sukʷi(ƛ) ƛa-ʼas-um-ʔi·                       mač-inup       čuː wa·-quː
+take     sticking.up-on.the.ground-thing-DEF enter-MOMCAUS  OK  say-COND
+take     the.stick.on.the.ground             take.it.inside OK  if.they.say
+They (girl’s family) would take the stick into the house if they say “OK” to the proposal.
 
 # 014
-ʔuy̓iiḥaʔaɬ       ʔan     wik̓aƛ̓atʔaɬ           ḥaay̓aʕaaɬʔat     hiniiy̓uɬ qʷayaatukqin                 niiw̓a.
-ʔu-y̓i·ḥa-ʔa·ɬ    ʔan     wik-ʼaƛ-ʼat-ʔa·ɬ     ḥaːy̓aq-ʼaːɬ-ʼat  hiniːy̓uɬ qʷa-(y)a·tuk-qin             niːw̓a
-it-because.of-PL because not-FINITE-POSS-PL   used.to?-??-POSS throat   thus-making.sound.of-REL.1PL we
-because.of.it    because theirs.are.no.longer used.to.it       throat   the.way.ours.sounds          we
-This is because their throat is no longer used to the way we speak (the way our language sounds).
+wikḥsaaquu       k̓ʷaḥtaʔap̓aƛ,                    t̓in̓isan̓ap.
+wik-ḥsa·-quː     k̓ʷa-ḥta-ʼap-ʼaƛ                 t̓i-n̓i-ʽisan̓ap
+not-longing-COND get.broken-apart-MOMCAUS-FINITE throw-down.the.slope?-on.the.beach.MOMCAUS
+if.they.refuse   break.it.in.half                throw.it.down.the.beach
+If they rejected the proposal, then they would break the stick in half and throw it out on the beach.
 
 # 015
-čuu      qʷisḥniiš               paawaɬšiƛšiƛ       ciqy̓akukqin.
-čuː      qʷisḥ-ni·š pawaɬ-šiƛ-šiƛ ciq-y̓akʷ-uk-qin
-now.then how-IND.1PL             lost-GRAD-MOM      speak-instrument-POSS-REL.1PL
-now.then how.we                  getting.to.be.lost our.language
-So, this is how we have lost our language.
+čuu      ʔuyiiyaƛ̓aɬ              čukʷaa    mačinƛ      waa.
+čuː      ʔu-yi·ya-ʼaƛ-ʔa·ɬ       čukʷaː    mač-inƛ     wa·
+now.then it-at.time.of-FINITE-PL come.here enter-MOM   say
+now.then at.this.time.they       come.here enter.house say
+Now, at this time they would tell the man’s side, “Come inside.”
 
 # 016
-čuu.
-čuː
-now.then
-now.then
-It’s it.
+hiiɬʔaƛ                 hiy̓atḥʔitq,          ʔan     ʔaʔiiḥukʷit           maḥt̓ii.
+hiːɬ-ʼaƛ                hiɬ-ʼatḥ-ʔi·tq       ʔan     DUP-ʔi·ḥʷ-uk-it       maḥt̓iː
+there.in.a.house-FINITE there-residing-REL.3 because DISTR-large-POSS-PAST house
+there                   where.they.live      because theirs.were.large     house
+The man’s side stayed at the girl’s house, since their house was big.
+
+# 017
+hiiɬḥʔaƛ                    hiy̓atḥʔitq           hiihiiqšaḥapšiƛ.
+hiːɬ-(q)ḥ-ʼaƛ               hiɬ-ʼatḥ-ʔi·tq       hiːhiːq-šaḥap-šiƛ
+there.in.a.house-SIM-FINITE there-residing-REL.3 various-doing-MOM
+they.would.be.there         where.they.live      doing.various.things
+They would be at the girl’s house and would do various things.
+
+# 018
+ʔumč̓aap   huyaaɬ ʔutwii čaapxcuw̓atʔi       —    ʔi!,                 ɬuučcuw̓atʔi             waaʔap̓is
+ʔumč̓aːp   huyaːɬ ʔutwiː čapxʷ-cuw̓at-ʔi·    —    ʔi                   ɬuč-cuw̓at-ʔi·           wa·-ʼap-ʼi·s
+entertain dance  first  man-on.side.of-DEF oops woman-on.side.of-DEF say-MOMCAUS-IMP.2SG>1SG
+entertain dance  first  the.mans.side      oops the.girls.side       suppose.I.say
+The would do entertainment dances, first the man’s side — oh no, the girl’s side, I should say.
+
+# 019
+huyaaɬšiƛ  ʔumč̓aap,  waa, ḥaacḥuuɬšiƛiny̓aƛ,                        čaačumpitapšiʔaƛ               ʔaay̓uusḥhy̓umsukʔi           čaapxcuw̓atʔi.
+huyaːɬ-šiƛ ʔumč̓aːp   wa·  ḥaːcḥuːɬ-šiƛ-iny̓u-ʼaƛ                    čačum-ʽpitap-šiƛ-ʼaƛ           ʔaːy̓uːš-ḥy̓u·-ums-uk-ʔi·     čapxʷ-cuw̓at-ʔi·
+dance-MOM  entertain and  displaying.wealth-MOM-left.behind-FINITE proper-in.the.house-MOM-FINITE many-related-thing-POSS-DEF man-on.side.of-DEF
+dance      entertain and  showing.the.wealth.toward.the.end        make.things.proper             the.immediate.family        the.mans.side
+They would do the entertainment dance. Then they would display their family rights and would give gifts [lit. making things proper (by giving things)] to the immediate family of the man’s side.
+
+# 020
+waa, ʔuucwaasʔap̓aƛquu                                nuuknuuk.
+wa·  ʔu-iːc-wa·s-ʼap-ʼaƛ-quː                         DUP.#-nuːk
+and  it-belonging.to-go.outdoors-MOMCAUS-FINITE-COND DISTR-song
+and  would.take.along                                songs
+And then, the girl would take along the songs with her.
+
+# 021
+ʔaʔiiḥmisukʔiʔaɬ                  nuuknuuk   huuɬhuuɬay̓ak              ʔuucwaasʔaƛquu                          ḥaakʷaaƛ̓i,   ʔucačiƛ      hiy̓atḥšiƛ̓asʔitq.
+DUP.CV-ʔi·ḥʷ-mis-uk-ʔi·-ʔa·ɬ      DUP#-nuːk  DUP.#-huːɬ-(y)a-y̓akʷ      ʔu-iːc-wa·s-ʼaƛ-quː                     ḥaːkʷa·ƛ-ʔi· ʔu-ca-čiƛ    hiɬ-ʼatḥ-šiƛ-ʼas-ʔi·tq
+DISTR-important-thing-POSS-DEF-PL DISTR-song DISTR-dance-REP-thing.for it-belonging.to-go.outdoors-FINITE-COND girl-DEF     it-go.to-MOM there-residing-MOM-about.to-REL.3
+their.important.ones              songs      those.used.for.dances     would.take.along                        the.girl     went.to      where.she.starts.living
+They let the girl take along with her their important songs for dances to the place she would live.
+
+# 022
+ʔuyaaƛ              ʔaḥʔaa ʔiiqḥuk     yaqʷiicwasw̓it̓asʔitq.
+ʔuyi-ʼaƛ            ʔaḥʔaː ʔiːqḥ-uk    yaqʷ-iːc-wa·s-w̓it̓as-ʔi·tq
+at.that.time-FINITE then   telling-DUR that.which-belonging.to-go.outdoors-about.to-REL.3
+at.that.time        then   tell        what.she.is.taking.along
+At this point the bride’s side tell [the man’s side] what she would take with her.
+
+# 023
+waa, ʔaḥʔaaʔaƛ   t̓aaqyay̓ap̓at               ḥaakʷaaƛ̓i,   sukʷiʔaƛ̓ič              waaʔaƛquu.
+wa·  ʔaḥʔaː-ʼaƛ  t̓aːqya-y̓ap-ʼat            ḥaːkʷa·ƛ-ʔi· sukʷi(ƛ)-ʼaƛ-ʼi·č       wa·-ʼaƛ-quː
+and  that-FINITE standing.up-MOMCAUS-SHIFT girl-DEF     take-FINITE-IMP.2PL>3SG say-FINITE-COND
+and  they.do     stand.her.up              the.girl     you.take.her            they.would.say
+And they would make the girl stand up, and they would say [to the man’s side], “Come take her.”
+
+# 024
+t̓aaqyačiʔaƛquu              čaapxcuw̓atʔi,      sukʷiƛ̓as      ḥaakʷaaƛ̓i.
+t̓aːqya-čiƛ-ʼaƛ-quː          čapxʷ-cuw̓at-ʔi·    sukʷi(ƛ)-ʼas  ḥaːkʷa·ƛ-ʔi·
+standing.up-MOM-FINITE-COND man-on.side.of-DEF take-about.to girl-DEF
+they.would.stand.up         the.mans.side      going.to.take the.girl
+The man’s side would stand up to go to take the girl.
+
+# 025
+ʔiiḥʔiiḥa                   ʔuušyuuya        qʷaayac̓iiksnaʕaaɬ, ʔunaak̓aƛquu           ḥaw̓iiḥ qʷayac̓iik sukʷiƛ̓as      ḥaakʷaaƛ̓i.
+DUP.#-ʔiːḥʷ-a               ʔuːš-yuːya       qʷayac̓iːk-snaʕaːɬ  ʔu-na·kʷ-ʼaƛ-quː      ḥaw̓iːḥ qʷayac̓iːk sukʷi(ƛ)-ʼas  ḥaːkʷa·ƛ-ʔi·
+DISTR-suddenly-REP          some-at.the.time wolf-handling.with it-having-FINITE-COND chiefs wolf      take-about.to girl-DEF
+making.a.big.deal.out.of.it sometimes        handling.with      if.he.has.it          chiefs wolf      going.to.take the.girl
+Sometimes they made a big deal out of it when taking the girl by using wolves if the chiefs had wolves.
+
+# 026
+hiišcuw̓aƛ̓atquu       nanaʔiqsu      t̓aaqyiiɬ                 ḥaakʷaaƛ̓i,   waa, ƛawinsʔi      c̓iiqaa,    sukʷiƛ̓as      ḥaakʷaaƛ̓i.
+hiš-cuw̓aƛ-ʼat-quː    DUPCV-naʔi·qsu t̓aːqya-ʽiɬ               ḥaːkʷa·ƛ-ʔi· wa·  ƛawa-insʔiː   c̓iːq-(y)a· sukʷi(ƛ)-ʼas  ḥaːkʷa·ƛ-ʔi·
+all-side-SHIFT-COND  DISTR-aunt     standing.up-on.the.floor girl-DEF     and  near-approach chant-REP  take-about.to girl-DEF
+on.both.sides.of.her aunts          stand.up.on.the.floor    the.girl     and  get.closer    chanting   going.to.take the.girl
+The girl’s aunts would stand up on both sides of the bride, approach the girl chanting, and take the girl.
+
+# 027
+sukʷiƛ   ʔucaʔap          čaapxcuw̓atʔi.
+sukʷi(ƛ) ʔu-ca-ʼap        čapxʷ-cuw̓at-ʔi·
+take     it-go.to-MOMCAUS man-on.side.of-DEF
+take     make.her.go.to   the.mans.side
+They would take her to the man’s side.
+
+# 028
+sukʷiʔaƛ̓atquu          ḥakumiičiʔaƛ.
+sukʷi(ƛ)-ʼaƛ-ʼat-quː   ḥakum-ʽi·čiƛ-ʼaƛ
+take-FINITE-SHIFT-COND queen-INC-FINITE
+when.they.take.her     becomes.the.queen
+When they (the man’s side) took her, she would become their queen.
+
+# 029
+waa ʔuḥiičiʔaƛ            čaapxcuw̓atʔi       ʔumč̓aap,  huuɬhuuɬa, waa hinkiicuƛiny̓aƛ.
+wa· ʔuḥ-ʽi·čiƛ-ʼaƛ        čapxʷ-cuw̓at-ʔi·    ʔumč̓aːp   huːɬ-(y)a  wa· hinkiːc-uƛ-iny̓u-ʼaƛ
+and being.they-INC-FINITE man-on.side.of-DEF entertain dance-REP  and headdress.dance-MOM-left.behind-FINITE
+and it.becomes.them       the.mans.side      entertain dancing    and finish.with.headdress.dance
+And it would be the man’s side to fun dances. And they would finish with headdress dances.
+
+# 030
+ʔuucwasʔišƛa                           ḥaakʷaaƛ̓i    taana ʔuupaaɬ       nuuknuukʔi.
+ʔu-iːc-wa·s-ʔi·š-ƛa·                   ḥaːkʷa·ƛ-ʔi· taːna ʔu-paːɬ       DUP.#-nuːk-ʔi·
+it-belonging.to-go.outdoors-IND.3-also girl-DEF     money it-along.with DISTR-song-DEF
+also.take.along                        the.girl     money along.with    the.songs
+The girl also took along with her money as well as the songs.
+
+# 031
+ḥaʔukʷiʔaƛ            čaapxcuw̓atʔi,      ʔuyii   yaana, huʔacaʔap          ƛayamaɬaʔap                  ʔanasiɬa   yaqʷiicwasʔitq                            ḥaakʷaaƛ̓i.
+ḥaʔu-kʷi(ƛ)-ʼaƛ       čapxʷ-cuw̓at-ʔi·    ʔu-ayi· taːna  huʔa-ca-ʼap        ƛayami-aɬa-ʼap               ʔana-siɬa  yaqʷ-iːc                                  wa·s-ʔi·tq ḥaːkʷa·ƛ-ʔi·
+do.in.turn-MOM-FINITE man-on.side.of-DEF it-give money  back-go.to-MOMCAUS add.more-attached.on-MOMCAUS only-do    that.which-belonging.to-go.outdoors-REL.3 girl-DEF
+pay.back              the.mans.side      give    money  give.back          added.more.onto              doing.only what.she.took.out                         the.girl
+The man’s side paid back by giving more money [to the girl’s family] than the girl brought with her.
+
+# 032
+huʔayaƛ          ʔuʔiip        ɬuučcuw̓atʔi.
+huʔa-ayi·-ʼaƛ    ʔu-ʔiːp       ɬuč-cuw̓at-ʔi·
+back-give-FINITE it-give.to    woman-on.side.of-DEF
+give.back        give.gifts.to the.girls.side
+They gave gifts in return to the woman’s side.
+
+# 033
+ʔaḥʔaa qʷisitʔaaɬ,        huuʔak   ʔuyi         ḥakumiičiʔaƛquu.
+ʔaḥʔaː qʷis-it-ʔaːɬ       huːʔak   ʔuyi         ḥakum-ʽi·čiƛ-ʼaƛ-quː
+that   do.so-PAST-always  long.ago at.that.time queen-INC-FINITE-COND
+that   what.they.would.do long.ago at.that.time when.she.becomes.their.queen
+This is what they used to do a long time ago when she became their queen.
+
+# 034
+ʔuušc̓aɬʔaƛukʔaɬ          kʷiscačiƛquu                ḥaakʷaaƛ̓i.
+ʔuːšc̓aɬ-ʼaƛ-uk-ʔa·ɬ      kʷis-ca-čiƛ-quː             ḥaːkʷa·ƛ-ʔi·
+forbidden-FINITE-POSS-PL different-go.to-MOM-COND    girl-DEF
+it.is.forbidden          she.would.go.somewhere.else the.girl
+It was not allowed for the girl to leave [where she married to].
+
+# 035
+ʔucačiƛ      hiy̓atḥukʔitq              čakup.
+ʔu-ca-čiƛ    hiɬ-ʼatḥ-uk-ʔi·tq         čakup
+it-go.to-MOM there-residing-POSS-REL.3 husband
+to           where.hers.lives          husband
+She would go to wear her husband lived.
+
+# 036
+hiɬʔaƛ       maʔiičiƛ,        t̓aatn̓ačiiɬšiƛ.
+hiɬ-ʼaƛ      ma-ʽi·čiƛ        t̓aːtn̓a-čiːɬ-šiƛ
+there-FINITE dwell-INC        children-make-MOM
+there        set.up.household have.children
+There she made her home and had children.
+
+# 037
+ʔaniyaƛquu                   waɬsaap̓at             ḥaakʷaaƛ̓i    wiikiiɬʔaƛquu          t̓aatn̓aʔis.   ʔan     ʔiiḥcamisukʷit            t̓aatn̓anak̓at.
+ʔani-iya-ʼaƛ-quː             waɬ-sa·p-ʼat          ḥaːkʷa·ƛ-ʔi· wik-iːɬ-ʼaƛ-quː        t̓aːtn̓a-ʔis   ʔan     ʔi·ḥʷ-camis-uk-it         t̓aːtn̓a-na·k-ʼat
+only-at.the.time-FINITE-COND go.home-MOMCAUS-SHIFT girl-DEF     not-make-FINITE-COND   children-DIM because important-thing-POSS-PAST children-having-SHIFT
+the.only.times.when          taking.her.home       the.girl     when.she.does.not.make children     because it.was.important          have.children
+The only times when they sent the girl home was when she did not produce children, because it is very important to have children.
+
+# 038
+waa, waḥkʷačiƛquu           waɬšiƛquu        ḥaakʷaaƛ̓i,   huʔacaʔap̓aƛquu                 ʔaʔiič̓umʔi.
+wa·  waḥ-kʷa-čiƛ-quː        waɬ-šiƛ-quː      ḥaːkʷa·ƛ-ʔi· huʔa-ca-ʼap-ʼaƛ-quː            DUP.CV-ʔiːč̓um-ʔi·
+and  abandon-apart-MOM-COND go.home-MOM-COND girl-DEF     back-go.to-MOMCAUS-FINITE-COND DISTR-parent-DEF
+and  if.they.separated      if.she.went.home the.girl     they.would.bring.her.back      the.parents
+And if they separated and the girl went back home, the [girl’s] parents would bring her back [to the husband’s house].
+
+# 039
+huʔacaʔap          ʔiiḥʔiiḥa                   ʔuuḥʷʼaɬ qʷayac̓iik huʔacaʔap          hiy̓atḥʔaƛ̓itq.               huʔacḥinup.
+huʔa-ca-ʼap        DUP.#-ʔiːḥʷ-a               ʔu-ḥʷʼaɬ qʷayac̓iːk huʔa-ca-ʼap        hiɬ-ʼatḥ-ʼaƛ-ʔi·tq          huʔa-cḥi-nup
+back-go.to-MOMCAUS REP-greatly-REP             it-using wolf      back-go.to-MOMCAUS there-residing-FINITE-REL.3 back-married.to-MOMCAUS
+bring.back         making.a.big.deal.out.of.it using.it wolf      bring.back         where.she.lives             bring.her.back.to.the.spouse
+They would bring her back to her current residence (the place she married to), making a big deal out of it by using wolves. They would bring her back to her husband.
+
+# 040
+wik̓ap       waḥkʷačiƛ.
+wik-ʼap     waḥ-kʷa-čiƛ
+not-MOMCAUS abandon-apart-MOM
+dont.do     separate
+They never let them part.
+
+# 041
+haa ʔiiḥcamisukʷitʔaɬ            ɬučnaak,    ɬučnaakšiʔaƛquu             ḥaaw̓iiḥaƛ.
+haː ʔi·ḥʷ-camis-uk-it-ʔa·ɬ       ɬuč-na·k    ɬuč-na·k-šiƛ-ʼaƛ-quː        ḥaːw̓iːḥaƛ
+yes important-thing-POSS-PAST-PL wife-having wife-having-MOM-FINITE-COND young.men
+yes it.was.important.for.them    get.wife    get.wife                    young.men
+It was important for a man to have a wife.
+
+# 042
+ʔaḥʔaa qʷaaʔakina.
+ʔaḥʔaː qʷaː-ʔak-ina
+that   thus-DUR-1PL
+that   how.ours.was
+That was how our ways were.
+
+# 043
+ʔiiḥcamis.
+ʔi·ḥʷ-camis
+important-thing
+very.important.thing
+It was a serious matter.
+
+# 044
+ʔaniyumtƛaʔaaɬ                     huʔacaʔap̓at              ḥaakʷaaƛ̓i    qʷiqʷiiqsak,        wiikmaʕuk̓ʷaƛquu,               wic̓ikquu          kuučiɬ,        wic̓ikquu          haaʔumtaq.
+ʔani-iya-umt-ƛa·-ʔaːɬ              huʔa-ca-ʼap-ʼat          ḥaːkʷa·ƛ-ʔi· DUP.CV-qʷiːqsu-ʔa·k wik-maʕuk-ʼaƛ-quː              wic̓ik-quː         kuːčiɬ         wic̓ik-quː         haʔum-taq
+only-at.the.time-PAST?-also-always back-go.to-MOMCAUS-SHIFT girl-DEF     DISTR-in.law-POSS   not-one.skilled.in-FINITE-COND incapable.of-COND filleting.fish incapable.of-COND food-working.on
+the.only.time.they.would.also      bring.her.back           the.girl     in.laws             when.she.cannot.do.anything    when.she.cannot   filleting.fish when.she.cannot   cook.food
+The only time they would send the girl back to her in-laws was when she did not know how to do anything, such as filleting fish and cooking.
+
+# 045
+huʔacaʔap̓aƛquu                 waɬsaap.
+huʔa-ca-ʼap-ʼaƛ-quː            waɬ-sa·p
+back-go.to-MOMCAUS-FINITE-COND go.home-MOMCAUS
+they.would.bring.her.back      send.her.home
+They would bring her back to her home.
+
+# 046
+maa   sukʷiʔič         waa, ʔuḥtaa        ʔumʔiiqsuʔi   n̓uw̓iiqsuʔi.
+maː   sukʷi(ƛ)-ʼi·č    wa·  ʔu-ḥta·       ʔumʔi·qsu-ʔi· n̓uw̓i·qsu-ʔi·
+here! take-IMP.2PL>3SG say  they-doing.to mother-DEF    father-DEF
+here! take.her         say  to.them       the.mother    the.father
+They would say to her mother and father, “Here, take her.”
+
+# 047
+wiikmaʕukʔiš             waa huuḥtakšiiḥʔapʔi.
+wik-maʕuk-ʔi·š           wa· huḥtak-šiːḥ-ʼap-ʼi·
+not-one.skilled.in-IND.3 say know.how-IT.PL-MOMCAUS-IMP
+she.doesnt.know.anything say teach.her
+They would say, “She doesn’t know anything. Teach her.”
+
+# 048
+waɬsaap̓aƛquu,               waa huʔacačiƛ,     hiihiišmaʕukšiʔaƛquu
+waɬ-sa·p-ʼaƛ-quː            wa· huʔa-ca-čiƛ    DUP.CV-hiš-maʕuk-šiƛ-ʼaƛ-quː
+go.home-MOMCAUS-FINITE-COND say back-go.to-MOM DISTR-all-one.skilled.in-MOM-FINITE-COND
+they.would.send.her.home    say bring.her.back when.she.learned.to.do.things
+They would send her home and say, “Bring her back [to us] when she learns to do things.”
+
+# 049
+ʔan     ʔiiḥcamisukʷit            ḥaatḥakʷaƛ, hiišiɬʔap̓anit                      huḥtak   ḥaatḥakʷaƛ, kuučiɬ,        n̓iiƛn̓iiya,    paaskitiiɬ   waa hihiqtup.
+ʔan     ʔi·ḥʷ-camis-uk-it         ḥaːtḥaːkʷaƛ hiš-iɬ-ʼap-ʼat-it                  huḥtak   ḥaːtḥaːkʷaƛ kuːčiɬ         DUP.ƛ-n̓i-(y)a paskit-iːɬ   wa· hihiq-tu·p
+because important-thing-POSS-PAST girls       all-with.ref.to-MOMCAUS-SHIFT-PAST know.how girls       filleting.fish ??-sew-REP    basket-make  and various-things
+because it.was.important          girls       they.made.her.to.do.it             know.how girls       filleting.fish sewing        make.baskets and various.things
+[That was] because it was important for the girls to have learned how to fillet fish, sew, make baskets, and so on.
+
+# 050
+čuu,     qʷis  t̓aatn̓ačiiɬšiƛ,    hiɬḥ      hiy̓atḥʔitq.
+čuː      qʷis  t̓aːtn̓a-čiːɬ-šiƛ   hiɬ-(q)ḥ  hiɬ-ʼatḥ-ʔi·tq
+now.then do.so children-make-MOM there-SIM there-residing-REL.3
+now.then do.so makes.children    there     where.she.lives
+So, she would start having children at her new house.
+
+# 051
+ʔaḥʔaa qʷisḥqaač̓ina  kʷiikʷiisḥinčiƛ,    ciiqciiqa ʔunw̓iiƛḥ     ʔan  kʷiscačiƛitʔaaɬ                     ḥaakʷaaƛ̓i    ḥuu,       histaqšiʔaƛquu,                 ƛaʔuukʷiʔatḥ ʔucačiƛ      qaay̓uuk̓ʷatḥ.
+ʔaḥʔaː qʷis-qaːč̓ina  DUP.CV-kʷiːsḥin-čiƛ ciq-(y)a  ʔunw̓iːƛ-(q)ḥ ʔan  kʷis-ca-čiƛ-it-ʔaːɬ                 ḥaːkʷa·ƛ-ʔi· ḥuː        his-taq-šiƛ-ʼaƛ-quː             ƛaʔuːkʷiʔatḥ ʔu-ca-čiƛ    qaːy̓uːk̓ʷatḥ
+that   do.so-DUB.1SG DISTR-different-MOM speak-REP because-SIM  that different-go.to-MOM-PAST-always     girl-DEF     over.there there-come.from-MOM-FINITE-COND Clayoquot    it-go.to-MOM Kyuquot
+that   perhaps.we    we.got.different    speaking  because.of   that they.would.got.to.a.different.place the.girl     over.there they.used.to.come.from          Clayoquot    to           Kyuquot
+That must be the reason why we have come to speak different dialects — because girls used to go to different places from Clayoquot to Kyuquot.
+
+# 052
+wik č̓in̓uqƛ    ʔan     qʷaačiiɬʔat      ʔuḥʔat           ʔaʔiič̓umʔak.
+wik č̓in̓uqƛ    ʔan     qʷaː-čiːɬ-ʼat    ʔuḥ-ʼat          ʔaʔiič̓umʔak
+not unwilling because so-make-SHIFT    being.they-SHIFT DISTR-parent-POSS
+not unwilling because they.were.taught it.was.by.them   parents
+They never refused because they were taught by their parents [not to].
+
+# 053
+čuu,     ʔaḥʔaaʔaqƛuks     ʔuuna.
+čuː      ʔaḥʔaː-ʔaqƛ-uk-s  ʔuːna
+now.then that-FUT-POSS-1SG how.long
+now.then that.is.I.will how.long
+Well, that is all I am going to say.

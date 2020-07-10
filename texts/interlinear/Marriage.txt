@@ -22,7 +22,7 @@ It used to be the case that parents arranged for marriage long before [the actua
 # 003
 ciʕas                nay̓aqakštip         ʔiiqḥii.
 ciq-ʼas              nay̓aqak-šti·p       ʔiq-ḥi·
-speak-go.in.order.to baby-do.while       still
+speak-go.in.order.to baby-do.while       still-??
 propose              while.she.is.a.baby still
 They would propose while [their daughter] was still a baby.
 
@@ -76,10 +76,10 @@ now.then when.they.first.arrived         would.put.a.stick.on.the.ground        
 Now, when they first arrived, they would put up a stick in front of the girl’s house.
 
 # 011
-hiʔiisʔaƛ                  ʔaḥʔaa ƛaʔas                     ʔunic̓asʔaƛ                        ʔunic̓asʔitqʔaɬ,           c̓iiqaa,    ciiqciiqa.
-hiʔiːs-ʼaƛ                 ʔaḥʔaː ƛa-ʼas                    ʔunic-ʼas-ʼaƛ                     ʔunic-ʼas-ʔi·tq-ʔa·ɬ      c̓iːq-(y)a· ciq-(y)a
-there.on.the.ground-FINITE that   sticking.up-on.the.ground time.spent-on.the.ground-REL.3-PL chant-REP                 speak-REP
-there.on.the.ground        that   sticking.up               remain.on.the.ground              so.long.as.they.are.there chanting   speaking
+hiʔiisʔaƛ                  ʔaḥʔaa ƛaʔas                     ʔunic̓asʔaƛ                      ʔunic̓asʔitqʔaɬ,                   c̓iiqaa,    ciiqciiqa.
+hiʔiːs-ʼaƛ                 ʔaḥʔaː ƛa-ʼas                    ʔunic-ʼas-ʼaƛ                   ʔunic-ʼas-ʔi·tq-ʔa·ɬ              c̓iːq-(y)a· ciq-(y)a
+there.on.the.ground-FINITE that   sticking.up-on.the.ground time.spent-on.the.ground-FINITE time.spent-on.the.ground-REL.3-PL chant-REP  speak-REP
+there.on.the.ground        that   sticking.up               remain.on.the.ground            so.long.as.they.are.there         chanting   speaking
 The stick remained there on the ground as long as they were there chanting and speaking.
 
 # 012
@@ -125,10 +125,10 @@ they.would.be.there         where.they.live      doing.various.things
 They would be at the girl’s house and would do various things.
 
 # 018
-ʔumč̓aap   huyaaɬ ʔutwii čaapxcuw̓atʔi       —    ʔi!,                 ɬuučcuw̓atʔi             waaʔap̓is
-ʔumč̓aːp   huyaːɬ ʔutwiː čapxʷ-cuw̓at-ʔi·    —    ʔi                   ɬuč-cuw̓at-ʔi·           wa·-ʼap-ʼi·s
-entertain dance  first  man-on.side.of-DEF oops woman-on.side.of-DEF say-MOMCAUS-IMP.2SG>1SG
-entertain dance  first  the.mans.side      oops the.girls.side       suppose.I.say
+ʔumč̓aap   huyaaɬ ʔutwii čaapxcuw̓atʔi       — ʔi!, ɬuučcuw̓atʔi          waaʔap̓is
+ʔumč̓aːp   huyaːɬ ʔutwiː čapxʷ-cuw̓at-ʔi·    — ʔi   ɬuč-cuw̓at-ʔi·        wa·-ʼap-ʼi·s
+entertain dance  first  man-on.side.of-DEF — oops woman-on.side.of-DEF say-MOMCAUS-IMP.2SG>1SG
+entertain dance  first  the.mans.side      — oops the.girls.side       suppose.I.say
 The would do entertainment dances, first the man’s side — oh no, the girl’s side, I should say.
 
 # 019
@@ -217,7 +217,7 @@ The girl also took along with her money as well as the songs.
 
 # 031
 ḥaʔukʷiʔaƛ            čaapxcuw̓atʔi,      ʔuyii   yaana, huʔacaʔap          ƛayamaɬaʔap                  ʔanasiɬa   yaqʷiicwasʔitq                            ḥaakʷaaƛ̓i.
-ḥaʔu-kʷi(ƛ)-ʼaƛ       čapxʷ-cuw̓at-ʔi·    ʔu-ayi· taːna  huʔa-ca-ʼap        ƛayami-aɬa-ʼap               ʔana-siɬa  yaqʷ-iːc                                  wa·s-ʔi·tq ḥaːkʷa·ƛ-ʔi·
+ḥaʔu-kʷi(ƛ)-ʼaƛ       čapxʷ-cuw̓at-ʔi·    ʔu-ayi· taːna  huʔa-ca-ʼap        ƛayami-aɬa-ʼap               ʔana-siɬa  yaqʷ-iːc-wa·s-ʔi·tq                       ḥaːkʷa·ƛ-ʔi·
 do.in.turn-MOM-FINITE man-on.side.of-DEF it-give money  back-go.to-MOMCAUS add.more-attached.on-MOMCAUS only-do    that.which-belonging.to-go.outdoors-REL.3 girl-DEF
 pay.back              the.mans.side      give    money  give.back          added.more.onto              doing.only what.she.took.out                         the.girl
 The man’s side paid back by giving more money [to the girl’s family] than the girl brought with her.
@@ -364,7 +364,7 @@ That must be the reason why we have come to speak different dialects — because
 
 # 052
 wik č̓in̓uqƛ    ʔan     qʷaačiiɬʔat      ʔuḥʔat           ʔaʔiič̓umʔak.
-wik č̓in̓uqƛ    ʔan     qʷaː-čiːɬ-ʼat    ʔuḥ-ʼat          ʔaʔiič̓umʔak
+wik č̓in̓uqƛ    ʔan     qʷaː-čiːɬ-ʼat    ʔuḥ-ʼat          DUPCV-ʔiːč̓um-ʔa·k
 not unwilling because so-make-SHIFT    being.they-SHIFT DISTR-parent-POSS
 not unwilling because they.were.taught it.was.by.them   parents
 They never refused because they were taught by their parents [not to].
@@ -373,5 +373,5 @@ They never refused because they were taught by their parents [not to].
 čuu,     ʔaḥʔaaʔaqƛuks     ʔuuna.
 čuː      ʔaḥʔaː-ʔaqƛ-uk-s  ʔuːna
 now.then that-FUT-POSS-1SG how.long
-now.then that.is.I.will
+now.then that.is.I.will    how.long
 Well, that is all I am going to say.

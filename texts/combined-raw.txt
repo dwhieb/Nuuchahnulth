@@ -8194,7 +8194,7 @@ It used to be the case that parents arranged for marriage long before [the actua
 # 003
 ci?_as nay'aqakshtip ?iiqhhii.
 ciq-'as nay'aqak-shti*p ?iq-hhi*
-speak-go.in.order.to baby-do.while still
+speak-go.in.order.to baby-do.while still-??
 propose while.she.is.a.baby still
 They would propose while [their daughter] was still a baby.
 
@@ -8250,7 +8250,7 @@ Now, when they first arrived, they would put up a stick in front of the girl's h
 # 011
 hi?iis?atl ?ahh?aa tla?as ?unic'as?atl ?unic'as?itq?al, c'iiqaa, ciiqciiqa.
 hi?i:s-'atl ?ahh?a: tla-'as ?unic-'as-'atl ?unic-'as-?i*tq-?a*l c'i:q-(y)a* ciq-(y)a
-there.on.the.ground-FINITE that sticking.up-on.the.ground time.spent-on.the.ground-REL.3-PL chant-REP speak-REP
+there.on.the.ground-FINITE that sticking.up-on.the.ground time.spent-on.the.ground-FINITE time.spent-on.the.ground-REL.3-PL chant-REP speak-REP
 there.on.the.ground that sticking.up remain.on.the.ground so.long.as.they.are.there chanting speaking
 The stick remained there on the ground as long as they were there chanting and speaking.
 
@@ -8299,8 +8299,8 @@ They would be at the girl's house and would do various things.
 # 018
 ?umch'aap huyaal ?utwii chaapxcuw'at?i — ?i!, luuchcuw'at?i waa?ap'is
 ?umch'a:p huya:l ?utwi: chapxw-cuw'at-?i* — ?i luch-cuw'at-?i* wa*-'ap-'i*s
-entertain dance first man-on.side.of-DEF oops woman-on.side.of-DEF say-MOMCAUS-IMP.2SG>1SG
-entertain dance first the.mans.side oops the.girls.side suppose.I.say
+entertain dance first man-on.side.of-DEF — oops woman-on.side.of-DEF say-MOMCAUS-IMP.2SG>1SG
+entertain dance first the.mans.side — oops the.girls.side suppose.I.say
 The would do entertainment dances, first the man's side — oh no, the girl's side, I should say.
 
 # 019
@@ -8389,7 +8389,7 @@ The girl also took along with her money as well as the songs.
 
 # 031
 hha?ukwi?atl chaapxcuw'at?i, ?uyii yaana, hu?aca?ap tlayamala?ap ?anasila yaqwiicwas?itq hhaakwaatl'i.
-hha?u-kwi(tl)-'atl chapxw-cuw'at-?i* ?u-ayi* ta:na hu?a-ca-'ap tlayami-ala-'ap ?ana-sila yaqw-i:c wa*s-?i*tq hha:kwa*tl-?i*
+hha?u-kwi(tl)-'atl chapxw-cuw'at-?i* ?u-ayi* ta:na hu?a-ca-'ap tlayami-ala-'ap ?ana-sila yaqw-i:c-wa*s-?i*tq hha:kwa*tl-?i*
 do.in.turn-MOM-FINITE man-on.side.of-DEF it-give money back-go.to-MOMCAUS add.more-attached.on-MOMCAUS only-do that.which-belonging.to-go.outdoors-REL.3 girl-DEF
 pay.back the.mans.side give money give.back added.more.onto doing.only what.she.took.out the.girl
 The man's side paid back by giving more money [to the girl's family] than the girl brought with her.
@@ -8536,7 +8536,7 @@ That must be the reason why we have come to speak different dialects — because
 
 # 052
 wik ch'in'uqtl ?an qwaachiil?at ?uhh?at ?a?iich'um?ak.
-wik ch'in'uqtl ?an qwa:-chi:l-'at ?uhh-'at ?a?iich'um?ak
+wik ch'in'uqtl ?an qwa:-chi:l-'at ?uhh-'at DUPCV-?i:ch'um-?a*k
 not unwilling because so-make-SHIFT being.they-SHIFT DISTR-parent-POSS
 not unwilling because they.were.taught it.was.by.them parents
 They never refused because they were taught by their parents [not to].
@@ -8545,7 +8545,7 @@ They never refused because they were taught by their parents [not to].
 chuu, ?ahh?aa?aqtluks ?uuna.
 chu: ?ahh?a:-?aqtl-uk-s ?u:na
 now.then that-FUT-POSS-1SG how.long
-now.then that.is.I.will
+now.then that.is.I.will how.long
 Well, that is all I am going to say.
 ---
 title:        Mink killed Wolf
