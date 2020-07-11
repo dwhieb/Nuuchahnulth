@@ -8,7 +8,8 @@ This repository contains linguistic texts in Nuuchahnulth, a language of the Wak
 
 - [Attribution](#attribution)
 - [Reporting Typos & Issues](#reporting-typos--issues)
-- [Text Format](#text-format)
+- [Corpus Statistics](#corpus-statistics)
+- [Text Formats](#text-formats)
 - [Sounds of Nuuchahnulth](#sounds-of-nuuchahnulth)
 - [Abbreviations](#abbreviations)
 - [Converting the Corpus](#converting-the-corpus)
@@ -34,6 +35,16 @@ For other uses of this data, please contact [Toshihide Nakayama](mailto:nakayama
 ## Reporting Typos & Issues
 
 To report a typo or other problem, please email [Daniel W. Hieber](mailto:dwhieb@gmail.com).
+
+## Corpus Statistics
+
+Statistic  | Value
+-----------|------
+Speakers   | 2
+Texts      | 24
+Utterances | 2,081
+Tokens     | 8,366
+Types      | 4,216
 
 ## Text Formats
 
