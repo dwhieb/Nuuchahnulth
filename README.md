@@ -146,13 +146,19 @@ To run the scripts that convert the corpus for yourself, you will need to 1) ins
 
 You can also run just the transliteration step (`npm run transliterate`) or the conversion step (`npm run convert`).
 
-[clone]:         https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
-[DaFoDiL]:       https://format.digitallinguistics.io
-[DLx]:           https://digitallinguistics.io
-[IGL]:           https://www.eva.mpg.de/lingua/resources/glossing-rules.php
-[IPA]:           https://www.internationalphoneticalphabet.org/
-[JSON]:          https://en.wikipedia.org/wiki/JSON#Example
-[new-issue]:     https://github.com/dwhieb/Nuuchahnulth/issues/new
-[Node]:          https://nodejs.org/en/
-[scription]:     https://scription.digitallinguistics.io
-[transliterate]: https://developer.digitallinguistics.io/transliterate/
+## Find & Replace
+
+I've also written a find-and-replace script `scripts/findAndReplace.js`, which allows the user to run searches on the corpus or update the JSON files in the corpus. See the documentation on how to use this function in the [`findAndReplace.js`][findAndReplace] file. An example of how to use this function can be seen in [`scripts/getCorpusStats.js`][getCorpusStats], which calculates the statistics for the corpus.
+
+[clone]:          https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
+[DaFoDiL]:        https://format.digitallinguistics.io
+[DLx]:            https://digitallinguistics.io
+[findAndReplace]: https://github.com/dwhieb/Nuuchahnulth/blob/master/scripts/findAndReplace.js
+[getCorpusStats]: https://github.com/dwhieb/Nuuchahnulth/blob/master/scripts/getCorpusStats.js
+[IGL]:            https://www.eva.mpg.de/lingua/resources/glossing-rules.php
+[IPA]:            https://www.internationalphoneticalphabet.org/
+[JSON]:           https://en.wikipedia.org/wiki/JSON#Example
+[new-issue]:      https://github.com/dwhieb/Nuuchahnulth/issues/new
+[Node]:           https://nodejs.org/en/
+[scription]:      https://scription.digitallinguistics.io
+[transliterate]:  https://developer.digitallinguistics.io/transliterate/
