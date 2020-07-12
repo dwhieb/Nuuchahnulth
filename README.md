@@ -148,7 +148,7 @@ You can also run just the transliteration step (`npm run transliterate`) or the 
 
 ## Find & Replace
 
-I've also written a find-and-replace script `scripts/findAndReplace.js`, which allows the user to run searches on the corpus or update the JSON files in the corpus. See the documentation on how to use this function in the [`findAndReplace.js`][findAndReplace] file. An example of how to use this function can be seen in [`scripts/getCorpusStats.js`][getCorpusStats], which calculates the statistics for the corpus.
+I've also written a find-and-replace script ([`scripts/findAndReplace.js`](findAndReplace)), which allows the user to run searches on the corpus or update the JSON files in the corpus. See the documentation on how to use this function in the [`findAndReplace.js`][findAndReplace] file. An example of how to use this function can be seen in [`scripts/getCorpusStats.js`][getCorpusStats], which calculates the statistics for the corpus.
 
 [clone]:          https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository
 [DaFoDiL]:        https://format.digitallinguistics.io
