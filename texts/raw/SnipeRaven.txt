@@ -134,7 +134,7 @@ He started to cook them.
 # 019
 siqachitluk, ch'amahhuup'atl'at qu?ushinm'it.
 siq-achitl-uk ch'am-ahhu:p-'atl-'at qu?ushin-m'i*t
-cooked-INC?-POSS bowl-in.front-FINITE-SHIFT raven-son.of
+cooked-INC-POSS bowl-in.front-FINITE-SHIFT raven-son.of
 his.got.cooked set.bowls.in.front.of.him Son.of.Raven
 They got cooked, and he set them before Son of Raven.
 
@@ -162,7 +162,7 @@ They filled his dish again, and again he finished them in no time.
 # 023
 haahaaw'apu?atl'um, puu?_al?atuuchitl, c'itkpitl wa?ichutl.
 DUPCV:-haw'a-api-u(tl)-'atl-?um pu?_al?atu-`i*chitl c'itkw-`pitl wa?ich-utl
-DISTR?-eat-excessively-MOM-FINITE-as.usual get.sleepy-INC roll.over-on.the.bed sleeping-MOM
+DISTR-eat-excessively-MOM-FINITE-as.usual get.sleepy-INC roll.over-on.the.bed sleeping-MOM
 he.ate.too.much.as.usual getting.sleepy lie.down.on.the.bed slept
 He ate too much as usual. He got sleepy, lay down and went to sleep.
 
@@ -246,7 +246,7 @@ He headed for the river, too [just as Snipe did].
 # 035
 c'iikalshitl'as?atl'ita?um waalc'an'aqshitl'al.
 c'i:k-?al-shitl-'a*s-'atl-?ita-?um wa*l-c'an'aq-shitl-?a*l
-imitate-??-MOM-go.in.order.to-FINITE-FUT?-as.usual say-talk.about?-MOM-PL
+imitate-??-MOM-go.in.order.to-FINITE-FUT-as.usual say-talk.about?-MOM-PL
 he.will.go.to.imitate.as.usual they.started.to.say
 He is going to imitate as usual they started saying.
 
@@ -260,7 +260,7 @@ He stepped into the water, started asking for a bowl to his wife Paashuk.
 # 037
 kakumtqmalapi?ic'atl ?uu?umap'iik chakupuk.
 DUPCV-kamatqw-mal-api-?ic-'atl DUPCV:-?u-ma*p-'i:k chakup-uk
-REP-running-move.about-up.in.the.air-DIM-FINITE DISTR?-he-listen.to-always.doin husband-POSS
+REP-running-move.about-up.in.the.air-DIM-FINITE DISTR-he-listen.to-always.doin husband-POSS
 the.little.one.ran.around.in.the.air she.always.listens.to.him her.husband
 She ran around, as she was always so obedient to her husband.
 

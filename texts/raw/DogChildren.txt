@@ -141,7 +141,7 @@ They were all singing, "Don't cry. Don't cry. Your mother is still on the beach 
 # 020
 ?u?ukwink?al y'uukwiiqsusa?i, ?_iihh?iik?i.
 DUPCV-?u-kwinkw-?a*l y'u:kwi:qsu-sa-?i* ?_ihh-'i:k-?i*
-DISTR?-he-converse.with-PL younger.brother-real-DEF cry-always.doing-DEF
+DISTR-he-converse.with-PL younger.brother-real-DEF cry-always.doing-DEF
 they.were.speaking.to.him the.youngest.brother one.who.always.cries
 They were singing to the youngest brother, the cry baby.
 
@@ -162,7 +162,7 @@ The mother got something precious — boys [instead of dogs].
 # 023
 tl'aqachitl'al kwikwistupaq?al kwiisahhim'inhh.
 tl'aq-achitl-?a*l DUPCV-kwis-tu*p-aq-?a*l kwi:sahhi-m'inhh
-grow-INC?-PL DISTR?-different-thing-very-PL good.hunter-PL
+grow-INC-PL DISTR-different-thing-very-PL good.hunter-PL
 they.grew.up they.were.very.different they.were.good.hunters
 They grew up. They were a truly extraordinary bunch.
 
@@ -232,7 +232,7 @@ He threw up the skin. Nothing happened.
 # 033
 ?uyaatluk muup'itshi?atl'itq t'imisanup matshitluk, maamaatichitluk.
 ?uyi-'a*tl-uk mu:-p'it-shi(tl)-?i*tq t'i-misa-nup mat-shi(tl)-uk ma:ma:ti-chi(tl)-uk
-at.that.time-FIN?-POSS foud-times-MOM-REL.3 throw-on.top-MOMCAUS fly-MOM-POSS bird-MOM-POSS
+at.that.time-FIN-POSS foud-times-MOM-REL.3 throw-on.top-MOMCAUS fly-MOM-POSS bird-MOM-POSS
 it.was.at.that.time.when.his at.fourth.time threw.it.up his.flew his.turned.into.a.bird
 At the fourth time he threw it up, and it flew, turning into a bird.
 
@@ -316,7 +316,7 @@ Something happened to the weather.
 # 045
 wiiqsiichitlaq. wiktum?al hinasitl.
 wi:qsi:-chitl-aq wik-tum-?a*l hin-as-itl
-stormy-MOM-very not-PAST?-PL there-reaching.to-MOM
+stormy-MOM-very not-PAST-PL there-reaching.to-MOM
 it.got.very.stormy they.never.did reached
 It got really stormy, and they never reached there.
 

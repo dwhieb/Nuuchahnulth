@@ -116,10 +116,10 @@ this thus.they.are dog     have.it
 This is the way the dogs are. They owned dogs.
 
 # 017
-ʔuušc̓aɬukʔiš         quuʔas yackšiʔat.     wiiy̓aat.     numaak.
-ʔuːšc̓aɬ-uk-ʔi·š      quːʔas yack-ši(ƛ)-ʼat wiːy̓a-ʼat    numaːk
-forbidden?-DUR-IND.3 human  kick-MOM-SHIFT never-SHIFT? forbidden
-it.is.forbidden      human  kick.them      never        forbidden
+ʔuušc̓aɬukʔiš         quuʔas yackšiʔat.     wiiy̓aat.    numaak.
+ʔuːšc̓aɬ-uk-ʔi·š      quːʔas yack-ši(ƛ)-ʼat wiːy̓a-ʼat   numaːk
+forbidden?-DUR-IND.3 human  kick-MOM-SHIFT never-SHIFT forbidden
+it.is.forbidden      human  kick.them      never       forbidden
 It is forbidden for people to kick them.
 
 # 018
@@ -153,7 +153,7 @@ He was mean and used to hurt him [his dog].
 # 022
 muwač̓atḥ      hiɬḥ,     quuʔas ḥaw̓iɬaq.
 muwač-ʼatḥ    hiɬ-(q)ḥ  quːʔas ḥaw̓iɬ-aq
-NAME-residing there-SIM person chief-BIG
+NAME-residing there-SIM person chief-big
 Mowachaht     there.by  person head.chief
 This happened in Nootka, to the head chief.
 
@@ -237,14 +237,14 @@ doing     look               the.way.I.am
 # 034
 ḥan̓aḥtuƛ.
 ḥan̓aḥ-tuƛ
-naked-MOM?
+naked-MOM
 naked
 He [the young man] took off his clothing.
 
 # 035
 m̓uč̓ičʔinʔakʔi                ʕiniiƛ ḥan̓aḥtuƛ.
 m̓uč̓ič-ʔin-ʔa·k-ʔi·           ʕiniːƛ ḥan̓aḥ-tuƛ
-clothed-costume.for-POSS-DEF dog    naked-MOM?
+clothed-costume.for-POSS-DEF dog    naked-MOM
 the.attire.of                dog    naked
 He took off his dog attire.
 
@@ -571,10 +571,10 @@ you.feed        also
 You feed them too.
 
 # 082
-qʷiʔiickʷiʔitk            ʔuyiisuuk.
-qʷi-ʼi·c-ckʷi·-ʔi·tk      ʔu-(y)i·-suːk
-what-eat-remains.of-REL.2 it-give-2SG
-whatever.you.ate          you.give
+qʷiʔiickʷiʔitk              ʔuyiisuuk.
+qʷi-ʼi·c-ckʷi·-ʔi·tk        ʔu-(y)i·-suːk
+what-eat-remains.of-REL.2SG it-give-2SG
+whatever.you.ate            you.give
 Whatever you ate, you give.
 
 # 083

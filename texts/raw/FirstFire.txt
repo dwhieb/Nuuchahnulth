@@ -22,7 +22,7 @@ Long ago humans didn't have fire.
 # 003
 wik'iit qwiihhw'al?aahhii?al siqiil.
 wik'i:t qwi:-hhw'al-'a:hh-(y)i:-?a*l siqa-i:l
-none.present that.which-using-PURP.1SG?-INDF.3-PL cooked-make
+none.present that.which-using-PURP.1SG-INDF.3-PL cooked-make
 none.present what.they.would.use.for cook
 There was no fire to cook their meals.
 
@@ -141,7 +141,7 @@ OK get.it.for.me what.I.can.wear.for dancing
 # 020
 ?usum?aqtlsish w'anus, c'iisiicum, maamatl'aasum, mamatlp'ichhhtum.
 ?u-sum-?aqtl-si*sh w'anus c'is-i:c-um DUPCV:-matl-'a:s-um DUPCV-matl-p'ich-hhta-um
-it-needing-FUT-IND.1SG skirt rope-around.the.head-thing DISTR?-tie-at.the.wrist-thing DISTR-tie-on.the.ankle-on.the.foot-thing
+it-needing-FUT-IND.1SG skirt rope-around.the.head-thing DISTR-tie-at.the.wrist-thing DISTR-tie-on.the.ankle-on.the.foot-thing
 I.will.need skirt head.band wrist.band knee.band
 I will need skirt, head band, wrist bands, and knee bands."
 
@@ -372,7 +372,7 @@ They didn't realize that Deer got the fire.
 # 053
 ?inkw'ichitluk hhaa tl'ushuk?i hhumiis.
 ?inkw-'ichitl-uk hha: tl'ush-uk-?i* hhumi:s
-fire-INC?-POSS there dry-DUR-DEF red.cedar
+fire-INC-POSS there dry-DUR-DEF red.cedar
 got.their.fire there dry red.cedar
 The dry cedar twigs caught fire.
 

@@ -139,10 +139,10 @@ they.were.all.singing dont.cry       dont.cry       she.is.still.on.the.beach di
 They were all singing, “Don’t cry. Don’t cry. Your mother is still on the beach digging clams. Don’t cry.” That was how their song went.
 
 # 020
-ʔuʔukʷinkʔaɬ               y̓uukʷiiqsusaʔi,          ʕiiḥʔiikʔi.
-DUPCV-ʔu-kʷinkʷ-ʔa·ɬ       y̓uːkʷiːqsu-sa-ʔi·        ʕiḥ-ʼiːk-ʔi·
-DISTR?-he-converse.with-PL younger.brother-real-DEF cry-always.doing-DEF
-they.were.speaking.to.him  the.youngest.brother     one.who.always.cries
+ʔuʔukʷinkʔaɬ              y̓uukʷiiqsusaʔi,          ʕiiḥʔiikʔi.
+DUPCV-ʔu-kʷinkʷ-ʔa·ɬ      y̓uːkʷiːqsu-sa-ʔi·        ʕiḥ-ʼiːk-ʔi·
+DISTR-he-converse.with-PL younger.brother-real-DEF cry-always.doing-DEF
+they.were.speaking.to.him the.youngest.brother     one.who.always.cries
 They were singing to the youngest brother, the cry baby.
 
 # 021
@@ -160,10 +160,10 @@ have.something.precious the.mother    boys
 The mother got something precious — boys [instead of dogs].
 
 # 023
-ƛ̓aqačiƛ̓aɬ     kʷikʷistupaqʔaɬ                kʷiisaḥim̓inḥ.
-ƛ̓aq-ačiƛ-ʔa·ɬ DUPCV-kʷis-tu·p-aq-ʔa·ɬ        kʷiːsaḥi-m̓inḥ
-grow-INC?-PL  DISTR?-different-thing-very-PL good.hunter-PL
-they.grew.up  they.were.very.different       they.were.good.hunters
+ƛ̓aqačiƛ̓aɬ     kʷikʷistupaqʔaɬ               kʷiisaḥim̓inḥ.
+ƛ̓aq-ačiƛ-ʔa·ɬ DUPCV-kʷis-tu·p-aq-ʔa·ɬ       kʷiːsaḥi-m̓inḥ
+grow-INC-PL   DISTR-different-thing-very-PL good.hunter-PL
+they.grew.up  they.were.very.different      they.were.good.hunters
 They grew up. They were a truly extraordinary bunch.
 
 # 024
@@ -232,7 +232,7 @@ He threw up the skin. Nothing happened.
 # 033
 ʔuyaaƛuk                     muup̓itšiʔaƛ̓itq       t̓imisanup            matšiƛuk,    maamaatičiƛuk.
 ʔuyi-ʼa·ƛ-uk                 muː-p̓it-ši(ƛ)-ʔi·tq  t̓i-misa-nup          mat-ši(ƛ)-uk maːmaːti-či(ƛ)-uk
-at.that.time-FIN?-POSS       foud-times-MOM-REL.3 throw-on.top-MOMCAUS fly-MOM-POSS bird-MOM-POSS
+at.that.time-FIN-POSS        foud-times-MOM-REL.3 throw-on.top-MOMCAUS fly-MOM-POSS bird-MOM-POSS
 it.was.at.that.time.when.his at.fourth.time       threw.it.up          his.flew     his.turned.into.a.bird
 At the fourth time he threw it up, and it flew, turning into a bird.
 
@@ -316,7 +316,7 @@ Something happened to the weather.
 # 045
 wiiqsiičiƛaq.      wiktumʔaɬ      hinasiƛ.
 wiːqsiː-čiƛ-aq     wik-tum-ʔa·ɬ   hin-as-iƛ
-stormy-MOM-very    not-PAST?-PL   there-reaching.to-MOM
+stormy-MOM-very    not-PAST-PL    there-reaching.to-MOM
 it.got.very.stormy they.never.did reached
 It got really stormy, and they never reached there.
 

@@ -259,7 +259,7 @@
         {
           "transcription": "",
           "analysis": "qʷis-ʼaːḥ-(y)iː",
-          "gloss": "do.so-PURP.1SG?-INDF.3",
+          "gloss": "do.so-PURP.1SG-INDF.3",
           "literal": "what.he.would.do.to",
           "morphemes": [
             {
@@ -268,7 +268,7 @@
             },
             {
               "transcription": "ʼaːḥ",
-              "gloss": "PURP.1SG?"
+              "gloss": "PURP.1SG"
             },
             {
               "transcription": "(y)iː",

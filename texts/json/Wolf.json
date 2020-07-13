@@ -3540,7 +3540,7 @@
         {
           "transcription": "",
           "analysis": "hayim-ḥi·-imt-wa·ʔi·š-ʔa·ɬ",
-          "gloss": "not.knowing-DUR-PAST?-QUOT.3-PL",
+          "gloss": "not.knowing-DUR-PAST-QUOT.3-PL",
           "literal": "they.didnt.know",
           "morphemes": [
             {
@@ -3553,7 +3553,7 @@
             },
             {
               "transcription": "imt",
-              "gloss": "PAST?"
+              "gloss": "PAST"
             },
             {
               "transcription": "wa·ʔi·š",
@@ -4692,7 +4692,7 @@
         {
           "transcription": "",
           "analysis": "c̓iːq-(y)a·-ʼaƛ-quː-č",
-          "gloss": "sing-CONG-FIN-COND.3-INF",
+          "gloss": "sing-CONT-FIN-COND.3-INF",
           "literal": "used.to.sing.songs",
           "morphemes": [
             {
@@ -4701,7 +4701,7 @@
             },
             {
               "transcription": "(y)a·",
-              "gloss": "CONG"
+              "gloss": "CONT"
             },
             {
               "transcription": "ʼaƛ",
@@ -6360,7 +6360,7 @@
         {
           "transcription": "",
           "analysis": "saya·-L",
-          "gloss": "far-GRAD?",
+          "gloss": "far-GRAD",
           "literal": "very.far.away",
           "morphemes": [
             {
@@ -6369,7 +6369,7 @@
             },
             {
               "transcription": "L",
-              "gloss": "GRAD?"
+              "gloss": "GRAD"
             }
           ]
         }
@@ -6412,7 +6412,7 @@
         {
           "transcription": "",
           "analysis": "hin-as-i(ƛ)-ʼaƛ",
-          "gloss": "there.MOM-reaching.to-MOM?-FIN",
+          "gloss": "there.MOM-reaching.to-MOM-FIN",
           "literal": "reached",
           "morphemes": [
             {
@@ -6425,7 +6425,7 @@
             },
             {
               "transcription": "i(ƛ)",
-              "gloss": "MOM?"
+              "gloss": "MOM"
             },
             {
               "transcription": "ʼaƛ",
@@ -7180,7 +7180,7 @@
         {
           "transcription": "",
           "analysis": "k̓uː-č-ʼiːḥ-ʔic-ʼaƛ-quː-č-ʔa·ɬ",
-          "gloss": "short.distance-??-persuing-DIM?-FIN-COND.3-INF-PL",
+          "gloss": "short.distance-??-persuing-DIM-FIN-COND.3-INF-PL",
           "literal": "they.would.get.up.to.it.in.no.time",
           "morphemes": [
             {
@@ -7197,7 +7197,7 @@
             },
             {
               "transcription": "ʔic",
-              "gloss": "DIM?"
+              "gloss": "DIM"
             },
             {
               "transcription": "ʼaƛ",
@@ -7320,7 +7320,7 @@
         {
           "transcription": "",
           "analysis": "wiːy̓a-ʼat",
-          "gloss": "never-?SHIFT",
+          "gloss": "never-SHIFT",
           "literal": "never",
           "morphemes": [
             {
@@ -7329,7 +7329,7 @@
             },
             {
               "transcription": "ʼat",
-              "gloss": "?SHIFT"
+              "gloss": "SHIFT"
             }
           ]
         },
@@ -7512,7 +7512,7 @@
         {
           "transcription": "",
           "analysis": "ʔuːq-ʼi·či-ʔi·",
-          "gloss": "nice-INC?-IMP.2SG",
+          "gloss": "nice-INC-IMP.2SG",
           "literal": "you.become.tame",
           "morphemes": [
             {
@@ -7521,7 +7521,7 @@
             },
             {
               "transcription": "ʼi·či",
-              "gloss": "INC?"
+              "gloss": "INC"
             },
             {
               "transcription": "ʔi·",
@@ -7532,7 +7532,7 @@
         {
           "transcription": "",
           "analysis": "ʔuːq-ʼi·či-ʼap-ik-qs",
-          "gloss": "nice-INC?-CAUS-??-SUB.1SG",
+          "gloss": "nice-INC-CAUS-??-SUB.1SG",
           "literal": "I.will.make.it.tame",
           "morphemes": [
             {
@@ -7541,7 +7541,7 @@
             },
             {
               "transcription": "ʼi·či",
-              "gloss": "INC?"
+              "gloss": "INC"
             },
             {
               "transcription": "ʼap",
@@ -7804,7 +7804,7 @@
         {
           "transcription": "",
           "analysis": "ʔuːq-ʼi·či-ʼap-ik-qs",
-          "gloss": "nice-INC?-CAUS-??-SUB.1SG",
+          "gloss": "nice-INC-CAUS-??-SUB.1SG",
           "literal": "I.will.make.it.tame",
           "morphemes": [
             {
@@ -7813,7 +7813,7 @@
             },
             {
               "transcription": "ʼi·či",
-              "gloss": "INC?"
+              "gloss": "INC"
             },
             {
               "transcription": "ʼap",
@@ -7840,7 +7840,7 @@
         {
           "transcription": "",
           "analysis": "ʔuːq-ʼi·či-ʼap-ik-qs",
-          "gloss": "nice-INC?-CAUS-??-SUB.1SG",
+          "gloss": "nice-INC-CAUS-??-SUB.1SG",
           "literal": "I.will.make.it.tame",
           "morphemes": [
             {
@@ -7849,7 +7849,7 @@
             },
             {
               "transcription": "ʼi·či",
-              "gloss": "INC?"
+              "gloss": "INC"
             },
             {
               "transcription": "ʼap",

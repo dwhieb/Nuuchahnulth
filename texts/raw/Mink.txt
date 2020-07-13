@@ -230,7 +230,7 @@ He heard something — _txtxtxtxtx_ (splashing sound of fish jumping) — it sou
 # 033
 txtxtxtxtxtx qwiqiiwa?in waa?atl
 ~ qwiq-(y)i:-wa*?in wa:-'atl
-~ that.which-INDF.3-QUOT? say-FIN
+~ that.which-INDF.3-QUOT say-FIN
 ~ I.wonder.what.that.could.be said
 _txtxtxtxtxtx_ — "I wonder what that could be," he said.
 
@@ -531,7 +531,7 @@ He shot Wolf here on the left side of the body — his heart.
 # 076
 ?anat'uu?as kiikiishhhi, qahhshitl.
 ?anat'u:-'as DUP-kish-hhi* qahh-shitl
-slightly-on.the.ground REP?-wiggle-DUR dead-MOM
+slightly-on.the.ground REP-wiggle-DUR dead-MOM
 slightly.on.the.ground shook die
 He trembled slightly on the ground and died.
 
@@ -853,7 +853,7 @@ if.only.I if.only.I ~ if.only.I if.only.I ~ if.I.had.one.on.the.shoulder I.would
 # 122
 tlaa?uu?i waa, wik'iituk tla?uu.
 tla?u:-L-?i* wa* wik'i:t-uk tla?u:
-another-GRAD?-IMP.2SG>3 say none.present-DUR another
+another-GRAD-IMP.2SG>3 say none.present-DUR another
 start.another say there.is.none.present another
 "Do another song," they said. "Don't you have another one?"
 
@@ -1214,7 +1214,7 @@ With his left foot he did this to the soil {with a gesture of squeezing the soil
 # 174
 nuuchyuuchitl. ?a?iiwachitlaq nuuchyuu.
 nu:chyu:-`i*chi(tl) DUP-'i:hhw-`achi(tl)-aq nu:chyu:
-mountain.range-INC INT-large-MOM-very mountain.range
+mountain.range-INC IT-large-MOM-very mountain.range
 became.mountain.range it.got.huge mountain.range
 [And] it became a mountain range — a huge mountain range.
 
@@ -1508,7 +1508,7 @@ He was running on his way back on the same route.
 # 216
 chaanaatlquuch waa?ich'itl
 cha:ni-'a*tl-qu:-ch wa?ich-'i(tl)
-for.a.while-FIN?-COND.3-INF sleeping-take
+for.a.while-FIN-COND.3-INF sleeping-take
 would.take.a.moment take.a.nap
 He stopped every once in a while to take a nap.
 
@@ -1736,7 +1736,7 @@ He sang, "You only have innards of limpets on the pole!"
 # 249
 waamitii tushaakit?i.
 wa*-mit-(y)i: tusha:k-it-?i*
-say-PAST-INDF.3 dead?-PAST?-DEF
+say-PAST-INDF.3 dead?-PAST-DEF
 he.might.have.said corpse
 He might have said, "you SOB."
 \n DWH: SOB = son of a bitch
@@ -1772,7 +1772,7 @@ He went down the rocks toward the water and there were many little crabs.
 # 254
 Woo, qaxhhshitlwa?een, waa.
 ~ qahh-<x>-shi(tl)-wa*?in-VOC wa:
-~ dead-MINK-MOM-QUOT?-VOC say
+~ dead-MINK-MOM-QUOT-VOC say
 ~ died say
 "Well! You people thought I was dead, didn't you!" he (Mink) said.
 
@@ -1800,7 +1800,7 @@ died.it.is.said one.who.always.say.nasty.things
 # 258
 heey taachkwa?ap'ich hhiyiihhi, waa?atl.
 ~ tach-kwa-'ap-'ich hhiyi:hhi wa*-'atl
-~ kill?-completely-CAUS?-?? these say-FIN
+~ kill?-completely-CAUS-?? these say-FIN
 ~ annihilate.you these said
 "I'll wipe all of these little ones!" he said.
 
@@ -2024,7 +2024,7 @@ Son of Mink would fill the canoe with small purple sea urchins [which can be col
 # 290
 ?aniya ?uuy'ip'at hhiix hhaay'aatlquu hhuul ?axhyuu?atlquu nuuschii, t'uc'up.
 ?ana-iya ?u-i:y'ip-'at hhi:x hha:y'i-'a*tl-qu: hhu:l ?axhw-yu*-'atl-qu: nu:schi: t'uc'up
-only-at.time it-obtain-SHIFT sea.urchins low.tid-FIN?-COND.3 there tide.recede-done-FIN-COND.3 sea.urchin sea.urchin
+only-at.time it-obtain-SHIFT sea.urchins low.tide-FIN-COND.3 there tide.recede-done-FIN-COND.3 sea.urchin sea.urchin
 only.time be.gathered sea.urchins when.the.tide.is.low there when.the.tide.is.lowest sea.urchin sea.urchin
 The only time you can gather things from low tide, such as various kinds of sea urchins, is when the tide is low.
 
@@ -2059,7 +2059,7 @@ He ate and ate [sea urchins unde the water].
 # 295
 wichsila?_aash.
 wich-sila-?_a:sh
-inappropriate?-act.like-EVID.3?
+inappropriate?-act.like-EVID.3
 do.the.wrong
 Apparently (?) he did the wrong thing.
 

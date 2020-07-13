@@ -864,7 +864,7 @@
         {
           "transcription": "",
           "analysis": "k̓uː-č-ʔis",
-          "gloss": "short.time-DIM?-DIM",
+          "gloss": "short.time-DIM-DIM",
           "literal": "for.a.short.while",
           "morphemes": [
             {
@@ -872,11 +872,7 @@
               "gloss": "short.time"
             },
             {
-              "transcription": "č",
-              "gloss": "DIM?"
-            },
-            {
-              "transcription": "ʔis",
+              "transcription": "č…ʔis",
               "gloss": "DIM"
             }
           ]
@@ -1932,15 +1928,9 @@
         },
         {
           "transcription": "",
-          "analysis": "haː",
-          "gloss": "DISC",
-          "literal": "ahh",
-          "morphemes": [
-            {
-              "transcription": "haː",
-              "gloss": "DISC"
-            }
-          ]
+          "analysis": "~",
+          "gloss": "~",
+          "literal": "~"
         },
         {
           "transcription": "",
@@ -2199,7 +2189,7 @@
         {
           "transcription": "",
           "analysis": "kuḥʷ-ʼi·ƛ",
-          "gloss": "opening-MOM?",
+          "gloss": "opening-MOM",
           "literal": "be.open",
           "morphemes": [
             {
@@ -2208,7 +2198,7 @@
             },
             {
               "transcription": "ʼi·ƛ",
-              "gloss": "MOM?"
+              "gloss": "MOM"
             }
           ]
         },
@@ -2568,12 +2558,12 @@
         {
           "transcription": "",
           "analysis": "school",
-          "gloss": "ENG",
+          "gloss": "school",
           "literal": "school",
           "morphemes": [
             {
               "transcription": "school",
-              "gloss": "ENG"
+              "gloss": "school"
             }
           ]
         },
@@ -2591,15 +2581,9 @@
         },
         {
           "transcription": "",
-          "analysis": "[~]",
-          "gloss": "ENG",
-          "literal": "[~]",
-          "morphemes": [
-            {
-              "transcription": "[~]",
-              "gloss": "ENG"
-            }
-          ]
+          "analysis": "~",
+          "gloss": "~",
+          "literal": "~"
         },
         {
           "transcription": "",
@@ -3512,7 +3496,7 @@
         {
           "transcription": "",
           "analysis": "yaqʷ-(č)iɬ-ʔi·tq",
-          "gloss": "which-with.reference.to-REFL.3",
+          "gloss": "which-with.reference.to-REL.3",
           "literal": "with.reference.to.which",
           "morphemes": [
             {
@@ -3525,7 +3509,7 @@
             },
             {
               "transcription": "ʔi·tq",
-              "gloss": "REFL.3"
+              "gloss": "REL.3"
             }
           ]
         },
@@ -4294,7 +4278,7 @@
         {
           "transcription": "",
           "analysis": "ʔu-(ʔ)aːpi",
-          "gloss": "it-?PASS",
+          "gloss": "it-??",
           "literal": "better",
           "morphemes": [
             {
@@ -4303,7 +4287,7 @@
             },
             {
               "transcription": "(ʔ)aːpi",
-              "gloss": "?PASS"
+              "gloss": "??"
             }
           ]
         },
@@ -5913,7 +5897,7 @@
         {
           "transcription": "",
           "analysis": "qʷa-na·k-it-(y)iː-ʔa·ɬ",
-          "gloss": "??-having-PAST-INDF-3PL",
+          "gloss": "??-having-PAST-INDF.3-3PL",
           "literal": "how.much.they.might.have.had",
           "morphemes": [
             {
@@ -5930,7 +5914,7 @@
             },
             {
               "transcription": "(y)iː",
-              "gloss": "INDF"
+              "gloss": "INDF.3"
             },
             {
               "transcription": "ʔa·ɬ",

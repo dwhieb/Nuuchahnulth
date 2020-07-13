@@ -470,8 +470,8 @@
         },
         {
           "transcription": "",
-          "analysis": "nani·qsu-ʔa·k-it-q-s",
-          "gloss": "grandparent-POSS-PAST-SUB-1SG",
+          "analysis": "nani·qsu-ʔa·k-it-qs",
+          "gloss": "grandparent-POSS-PAST-SUB.1SG",
           "literal": "my.late.grandparent",
           "morphemes": [
             {
@@ -487,12 +487,8 @@
               "gloss": "PAST"
             },
             {
-              "transcription": "q",
-              "gloss": "SUB"
-            },
-            {
-              "transcription": "s",
-              "gloss": "1SG"
+              "transcription": "qs",
+              "gloss": "SUB.1SG"
             }
           ]
         }

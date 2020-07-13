@@ -1503,12 +1503,12 @@
         {
           "transcription": "",
           "analysis": "DUPCV-ʔu-kʷinkʷ-ʔa·ɬ",
-          "gloss": "DISTR?-he-converse.with-PL",
+          "gloss": "DISTR-he-converse.with-PL",
           "literal": "they.were.speaking.to.him",
           "morphemes": [
             {
               "transcription": "DUPCV",
-              "gloss": "DISTR?"
+              "gloss": "DISTR"
             },
             {
               "transcription": "ʔu",
@@ -1735,7 +1735,7 @@
         {
           "transcription": "",
           "analysis": "ƛ̓aq-ačiƛ-ʔa·ɬ",
-          "gloss": "grow-INC?-PL",
+          "gloss": "grow-INC-PL",
           "literal": "they.grew.up",
           "morphemes": [
             {
@@ -1744,7 +1744,7 @@
             },
             {
               "transcription": "ačiƛ",
-              "gloss": "INC?"
+              "gloss": "INC"
             },
             {
               "transcription": "ʔa·ɬ",
@@ -1755,12 +1755,12 @@
         {
           "transcription": "",
           "analysis": "DUPCV-kʷis-tu·p-aq-ʔa·ɬ",
-          "gloss": "DISTR?-different-thing-very-PL",
+          "gloss": "DISTR-different-thing-very-PL",
           "literal": "they.were.very.different",
           "morphemes": [
             {
               "transcription": "DUPCV",
-              "gloss": "DISTR?"
+              "gloss": "DISTR"
             },
             {
               "transcription": "kʷis",
@@ -2427,7 +2427,7 @@
         {
           "transcription": "",
           "analysis": "ʔuyi-ʼa·ƛ-uk",
-          "gloss": "at.that.time-FIN?-POSS",
+          "gloss": "at.that.time-FIN-POSS",
           "literal": "it.was.at.that.time.when.his",
           "morphemes": [
             {
@@ -2436,7 +2436,7 @@
             },
             {
               "transcription": "ʼa·ƛ",
-              "gloss": "FIN?"
+              "gloss": "FIN"
             },
             {
               "transcription": "uk",
@@ -3727,7 +3727,7 @@
         {
           "transcription": "",
           "analysis": "wik-tum-ʔa·ɬ",
-          "gloss": "not-PAST?-PL",
+          "gloss": "not-PAST-PL",
           "literal": "they.never.did",
           "morphemes": [
             {
@@ -3736,7 +3736,7 @@
             },
             {
               "transcription": "tum",
-              "gloss": "PAST?"
+              "gloss": "PAST"
             },
             {
               "transcription": "ʔa·ɬ",

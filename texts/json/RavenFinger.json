@@ -87,7 +87,7 @@
         {
           "transcription": "",
           "analysis": "kumt-kʷa-čiƛ-ʼat",
-          "gloss": "curl-completely-MOM-PASS",
+          "gloss": "curl-completely-MOM-SHIFT",
           "literal": "his.got.curled.up",
           "morphemes": [
             {
@@ -104,7 +104,7 @@
             },
             {
               "transcription": "ʼat",
-              "gloss": "PASS"
+              "gloss": "SHIFT"
             }
           ]
         },
@@ -2131,7 +2131,7 @@
         {
           "transcription": "",
           "analysis": "nisw-ačiƛ",
-          "gloss": "satisfied-INC?",
+          "gloss": "satisfied-INC",
           "literal": "got.satisfied",
           "morphemes": [
             {
@@ -2140,7 +2140,7 @@
             },
             {
               "transcription": "ačiƛ",
-              "gloss": "INC?"
+              "gloss": "INC"
             }
           ]
         },
@@ -2911,7 +2911,7 @@
         {
           "transcription": "",
           "analysis": "wiːy̓a-umt",
-          "gloss": "never-PAST?",
+          "gloss": "never-PAST",
           "literal": "it.was.never",
           "morphemes": [
             {
@@ -2920,7 +2920,7 @@
             },
             {
               "transcription": "umt",
-              "gloss": "PAST?"
+              "gloss": "PAST"
             }
           ]
         },

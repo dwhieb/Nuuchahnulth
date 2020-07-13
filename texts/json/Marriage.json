@@ -335,7 +335,7 @@
         {
           "transcription": "",
           "analysis": "ƛ̓aq-ačiƛ",
-          "gloss": "grow-INC?",
+          "gloss": "grow-INC",
           "literal": "grow.up",
           "morphemes": [
             {
@@ -344,7 +344,7 @@
             },
             {
               "transcription": "ačiƛ",
-              "gloss": "INC?"
+              "gloss": "INC"
             }
           ]
         },
@@ -4295,7 +4295,7 @@
         {
           "transcription": "",
           "analysis": "ʔani-iya-umt-ƛa·-ʔaːɬ",
-          "gloss": "only-at.the.time-PAST?-also-always",
+          "gloss": "only-at.the.time-PAST-also-always",
           "literal": "the.only.time.they.would.also",
           "morphemes": [
             {
@@ -4308,7 +4308,7 @@
             },
             {
               "transcription": "umt",
-              "gloss": "PAST?"
+              "gloss": "PAST"
             },
             {
               "transcription": "ƛa·",

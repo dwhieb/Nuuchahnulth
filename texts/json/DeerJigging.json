@@ -1751,7 +1751,7 @@
         {
           "transcription": "",
           "analysis": "quːɬ-i·y̓a·p-ʼat",
-          "gloss": "slave-INC.CAUS?-SHIFT",
+          "gloss": "slave-INC.CAUS-SHIFT",
           "literal": "they.made.him.into.a.slave",
           "morphemes": [
             {
@@ -1760,7 +1760,7 @@
             },
             {
               "transcription": "i·y̓a·p",
-              "gloss": "INC.CAUS?"
+              "gloss": "INC.CAUS"
             },
             {
               "transcription": "ʼat",
@@ -2067,7 +2067,7 @@
         {
           "transcription": "",
           "analysis": "DUPCVƛ-kʷi-yaq-ʽiɬ-ʼaƛ-wa·ʔi·š",
-          "gloss": "SPOR-sharpening-REP?-on.the.floor-FINITE-QUOT.3",
+          "gloss": "SPOR-sharpening-REP-on.the.floor-FINITE-QUOT.3",
           "literal": "he.kept.sharpening.on.the.floor",
           "morphemes": [
             {
@@ -2080,7 +2080,7 @@
             },
             {
               "transcription": "yaq",
-              "gloss": "REP?"
+              "gloss": "REP"
             },
             {
               "transcription": "ʽiɬ",

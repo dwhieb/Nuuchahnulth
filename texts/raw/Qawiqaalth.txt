@@ -153,7 +153,7 @@ This is another thing we were taught. (This is another teaching.)
 # 022
 wik'at. wik'at kaapap'at c'aawachitl'at.
 wik-'at wik-'at ka:pap-'at c'awa*-chitl-'at
-not-SHIFT not-SHIFT prefer-SHIFT one-MOM?-SHIFT
+not-SHIFT not-SHIFT prefer-SHIFT one-MOM-SHIFT
 not not prefer one
 Never ever show favoritism. (Never prefer one person.)
 
@@ -321,7 +321,7 @@ Qawiqaalth would be there on the rock day after day.
 # 046
 Reey. ch'uuyukwitl. hiinii?atu.
 ~ ch'u-(y)ukwi(tl) hin-?i*?atu
-~ move-INC? there.MOM-get.to.be.under.water
+~ move-INC there.MOM-get.to.be.under.water
 ~ started.migrating dive
 (The sea lions) started migrating under the water.
 
@@ -552,7 +552,7 @@ They would be on the rocks, telling stories to each other.
 # 079
 chuu, ch'uuyukwitl'aqtl'atnish waa?atl.
 chu: ch'u-(y)ukwitl-'a*qtl-'at-nish wa:-'atl
-now move-INC?-FUT-SHIFT-IND.1PL say-FIN
+now move-INC-FUT-SHIFT-IND.1PL say-FIN
 now we.will.start.migrating said
 "Now, we will start migrating," they said.
 
@@ -615,7 +615,7 @@ even though they smelled him at the beginning.
 # 088
 Raa ch'uuyukwitl, saya?ii hhuu.
 ~ ch'u-yukwitl saya-?i: hhu:
-~ move-INC? far.off-reach over.there
+~ move-INC far.off-reach over.there
 ~ started.migrating went.far over.there
 Now, they are migrating far, far away.
 
@@ -762,8 +762,8 @@ He swam to [some] rocks and basked.
 # 109
 hhan'ahhtu?atl'i, hhaa, yaq?ich?itk waa?atl'at.
 hhan'ahh-tu(tl)-'atl-?i* hha: yaqw-?ich-?i*tk wa:-'atl-'at
-unclothed-MOMCAUS-FIN-IMP.2SG>3 ART? which-clothed.in-REL.2SG say-FIN-SHIFT
-take.off.clothes ART? what.you.are.wearing they.said.to.him
+unclothed-MOMCAUS-FIN-IMP.2SG>3 ART which-clothed.in-REL.2SG say-FIN-SHIFT
+take.off.clothes ART what.you.are.wearing they.said.to.him
 "Take that off, what you are wearing," they told him.
 
 # 110
@@ -1200,7 +1200,7 @@ haa, ?uunawa?ish qahhshitl. haa, waa.
 # 171
 hhaahhuupach'ak, wik'at, ?uu?uushil?at kaapap'at,
 hha:hhu:p-(y)a*-ch'akw wik-'at DUP-?u:sh-(ch)il-'at ka:pap-'at
-instructing-CONT-instruments not-SHIFT DISTR?-someone-doing.to-SHIFT prefer-SHIFT
+instructing-CONT-instruments not-SHIFT DISTR-someone-doing.to-SHIFT prefer-SHIFT
 teachings not do.to.someone show.special.favor.to.one
 There is a teaching (saying) that you should not patronize a particular person.
 

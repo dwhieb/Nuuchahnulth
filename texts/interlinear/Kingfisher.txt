@@ -426,7 +426,7 @@ The place is called _wiiḥaaqsusiis_.
 # 061
 čuu,     ƛ̓aaʔinuʔat̓aɬ,      ƛ̓aaʔinƛ,    n̓uʕasaqḥ, ʕaaḥuus, hitaaqƛis.
 čuː      ƛ̓aː-ʔinu-ʼaƛ-ʔa·ɬ  ƛ̓aː-ʔin(ƛ)  n̓uʕasaqḥ  ʕaːḥuːs  hitaːqƛis
-now.then outside-MOM-FIN-PL outside-MOM NAME      NAME     NAME(?)
+now.then outside-MOM-FIN-PL outside-MOM NAME      NAME     NAME
 now.then they.went.outside  went.out    NAME      NAME     NAME
 Then they went out to the open sea to _n̓uʕasaqḥ_, Ahous, or _hit:qƛis_. (?)
 
@@ -783,7 +783,7 @@ The British Navy anchored at Tofino [which is just across from the Opetchesaht a
 # 112
 wiina  ʕaaḥuusʔatḥ ʔuuciy̓uk.   wiksan̓apw̓it̓as.
 wiːna  ʕaːḥuːsʔatḥ ʔuː-ci·y̓uk  wik-san̓ap-w̓it̓as
-invade Ahousaht    it-going.to not-MOMCAUS?-about.to
+invade Ahousaht    it-going.to not-MOMCAUS-about.to
 invade Ahousaht    going.to    there.going.to.be.nobody.left
 They were going to invade the Ahousaht people. There was going to be nobody left.
 
@@ -1280,14 +1280,14 @@ one    his.child  holding.in.front
 # 186
 qʷisitii           ʔink̓ʷiy̓ap.
 qʷis-it-(y)iː      ʔinkʷ-ʼiy̓ap
-do.so-PAST-INDF.3  fire-MOMCAUS?
+do.so-PAST-INDF.3  fire-MOMCAUS
 might.have.done.so set.fire.on.the.house
 They probably set fire to the house.
 
 # 187
 ʔink̓ʷičiƛ.
 ʔinkʷ-ʼičiƛ
-fire-MOM?
+fire-MOM
 burned.down.the.house
 The houses burned down.
 
@@ -1481,10 +1481,10 @@ I.was.strong         mind     used.to.say        the.old.person they.used.to.giv
 “I was brave. They made me drink tabacco [and I was brave enough to actually drink it],” the old man used to say.
 
 # 215
-tea ʔuʔiic̓ap̓atč̓aʕaš               qʷaa. teaʔiic.
-tea ʔu-ʼi·c-ʼap-ʼat-č̓a·ʕaš        qʷaː  tea-ʼi·c
-tea it-consume-CAUS-SHIFT-INFER.3 thus  tea-consume
-tea he.was.probably.served        thus  drink.tea
+tea ʔuʔiic̓ap̓atč̓aʕaš             qʷaa. teaʔiic.
+tea ʔu-ʼi·c-ʼap-ʼat-č̓a·ʕaš      qʷaː  tea-ʼi·c
+tea it-consume-CAUS-SHIFT-INF.3 thus  tea-consume
+tea he.was.probably.served      thus  drink.tea
 It was probably tea that he was served. He had tea.
 
 # 216
@@ -1497,7 +1497,7 @@ This native man thought he was given chewing tobacco [when he saw tea leaves at 
 # 217
 qaaḥsap̓atsaaš                         waaʔaƛquuč.
 qaḥ-sap-ʼat-saːš                      wa·-ʼaƛ-quː-č
-dead-GRADCAUS-SHIFT-INFER.1SG?        say-FIN-COND.3-INF
+dead-GRADCAUS-SHIFT-INF.1SG           say-FIN-COND.3-INF
 apparently.they.were.going.to.kill.me he.used.to.say
 “They must have been trying to kill me,” he used to say.
 
@@ -1672,7 +1672,7 @@ Probably he was served salt pork.
 # 242
 ʔaḥʔaa qʷisitwaʔiš.      c̓awaakitwaʔišča       ɬuucma, ɬuucmumtquu,        k̓aḥyaqisʔap̓anitwaʔiš.                          k̓aḥyuu.
 ʔaḥʔaː qʷis-it-wa·ʔi·š   c̓awaːk-it-wa·ʔi·š-ča  ɬuːcma  ɬuːcma-umt-quː      k̓aḥ-yaq-ʔis-ʼap-ʼat-it-wa·ʔi·š                 k̓aḥ-yu·
-that   do.so-PAST-QUOT.3 one-PAST-QUOT.3-maybe woman   woman-PAST?-COND.3  split-done-on.the.beach-CAUS-SHIFT-PAST-QUOT.3 split-done
+that   do.so-PAST-QUOT.3 one-PAST-QUOT.3-maybe woman   woman-PAST-COND.3   split-done-on.the.beach-CAUS-SHIFT-PAST-QUOT.3 split-done
 that   what.happened     there.was.maybe.one   woman   one.who.was.a.woman she.was.split.in.half.on.the.beach             split
 This actually happened. It was probably a woman — a female body was split right in half.
 

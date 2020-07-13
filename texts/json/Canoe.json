@@ -9585,7 +9585,7 @@
         {
           "transcription": "",
           "analysis": "DUP#ː-his-(y)a-č̓ak",
-          "gloss": "IT-chop-REF-instruments",
+          "gloss": "IT-chop-REP-instruments",
           "literal": "axe",
           "morphemes": [
             {
@@ -9598,7 +9598,7 @@
             },
             {
               "transcription": "(y)a",
-              "gloss": "REF"
+              "gloss": "REP"
             },
             {
               "transcription": "č̓ak",
@@ -10172,15 +10172,9 @@
       "words": [
         {
           "transcription": "",
-          "analysis": "haː",
-          "gloss": "DISC",
-          "literal": "DISC",
-          "morphemes": [
-            {
-              "transcription": "haː",
-              "gloss": "DISC"
-            }
-          ]
+          "analysis": "~",
+          "gloss": "~",
+          "literal": "~"
         },
         {
           "transcription": "",
@@ -11870,7 +11864,7 @@
         {
           "transcription": "",
           "analysis": "DUPː-ƛ̓ay̓ixʷ-L-apuƛ-s",
-          "gloss": "??-fast-GRAD-MOM?-1SG",
+          "gloss": "??-fast-GRAD-MOM-1SG",
           "morphemes": [
             {
               "transcription": "DUPː",
@@ -11886,7 +11880,7 @@
             },
             {
               "transcription": "apuƛ",
-              "gloss": "MOM?"
+              "gloss": "MOM"
             },
             {
               "transcription": "s",
@@ -14103,7 +14097,7 @@
         {
           "transcription": "",
           "analysis": "DUP#-č̓aḥ-[L]-ši(ƛ)",
-          "gloss": "IT-adze-GRAD?-MOM",
+          "gloss": "IT-adze-GRAD-MOM",
           "literal": "start.adzing",
           "morphemes": [
             {
@@ -14116,7 +14110,7 @@
             },
             {
               "transcription": "[L]",
-              "gloss": "GRAD?"
+              "gloss": "GRAD"
             },
             {
               "transcription": "ši(ƛ)",
@@ -14196,7 +14190,7 @@
         {
           "transcription": "",
           "analysis": "DUPː-ƛ̓ay̓ixʷ-apuƛ-s",
-          "gloss": "??-fast-MOM?-1SG",
+          "gloss": "??-fast-MOM-1SG",
           "morphemes": [
             {
               "transcription": "DUPː",
@@ -14208,7 +14202,7 @@
             },
             {
               "transcription": "apuƛ",
-              "gloss": "MOM?"
+              "gloss": "MOM"
             },
             {
               "transcription": "s",

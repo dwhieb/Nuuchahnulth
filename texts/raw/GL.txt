@@ -97,7 +97,7 @@ He was on my father's side, by the name of _yuuwii_.
 # 014
 k'uuch?is n'aacsa yaqukwitiis naniiqsu, yuuwii
 k'u:-ch-?is n'a:csa yaq-ukw-it-(y)i:s nani*qsu yu:wi:
-short.time-DIM?-DIM see who-POSS-PAST-INDF.1SG grandparent NAME
+short.time-DIM-DIM see who-POSS-PAST-INDF.1SG grandparent NAME
 for.a.short.while see who.was.my grandparent, _yuuwii_.
 I briefly saw my grandparent, _yuuwii_.
 
@@ -177,9 +177,9 @@ Month of February, 1912—that's when I was born.
 
 # 026
 waa haa  hiisa?ac'atlits   ?_upnit
-wa* ha:  hi:sa?ac'atl-it-s ?_upnit
-and DISC grow.up-PAST-1SG  Opnit
-and ahh  I.grew.up         Opnit
+wa* ~  hi:sa?ac'atl-it-s ?_upnit
+and ~ grow.up-PAST-1SG  Opnit
+and ~  I.grew.up         Opnit
 And I grew up at Opnit.
 
 # 027
@@ -206,7 +206,7 @@ I first went to _ʕaʔuknak_ in 1919.
 # 030
 ?a?imyii kuw'iitl [residentia\l sc\hoo\l]
 ?a?im-(y)i: kuhhw-'i*tl ~
-first.time-INDF.3 opening-MOM? ~
+first.time-INDF.3 opening-MOM ~
 it.was.first be.open ~
 This was when they first opened residential school.
 
@@ -251,9 +251,9 @@ After some time I went back (to school).
 
 # 037
 ?ahh?aatl    ?atlpuq?ichhhs       sc\hoo\l hil,  [7 years], ?atlpuq?ichh.
-?ahh?a:-'atl ?atlpu-q?ichhh-s     sc\hoo\l hil   [~]         ?atlpu-q?ichhh
-then-FIN      seven-year-1SG        ENG    there ENG         seven-year
-then          I.did.for.seven.years school there [~]         seven.years
+?ahh?a:-'atl ?atlpu-q?ichhh-s     sc\hoo\l hil   ~         ?atlpu-q?ichhh
+then-FIN      seven-year-1SG        school    there ~         seven-year
+then          I.did.for.seven.years school there ~         seven.years
 Then I attended school for seven years.
 
 # 038
@@ -343,7 +343,7 @@ I finished (came out of) school in 1927.
 # 050
 ?acyuu ?? ?acyuu, fi\shing yaaqwil?itq mamaln'i waa, kwacinu hiistil, ?acyuu
 ?ac-yu* ~ ?ac-yu* ~ yaqw-(ch)il-?i*tq ma-mal-n'i* wa* kwaci:nu hist-(ch)il ?ac-yu*
-go.out.fishing-done ~ go.out.fishing-done ~ which-with.reference.to-REFL.3 dwell-move-come say NAME there-with.reference.to go.out.fishing-done
+go.out.fishing-done ~ go.out.fishing-done ~ which-with.reference.to-REL.3 dwell-move-come say NAME there-with.reference.to go.out.fishing-done
 be.out.hunting ~ be.out.hunting ~ with.reference.to.which white.man say NAME at be.out.hunting
 I was out fishing at Quatsiino
 
@@ -406,7 +406,7 @@ They very often fished for red snappers and _ʔiʔišpaaɬ_.
 # 059
 ha?um'ish ?uupi tl'ihhapiihh qwaa?iitq ?i?ishpaal.
 ha?um-?i*sh ?u-(?)a:pi tl'ihhapi:hh qwa:-?i*tq ?i?ishpa:l
-food-IND.3 it-?PASS red.snapper such-REL.3 (fish.name)
+food-IND.3 it-?? red.snapper such-REL.3 (fish.name)
 it.is.tasty better red.snapper compared.to (fish.name)
 Red snappers are tastier than _ʔiʔišpaaɬ_.
 
@@ -589,7 +589,7 @@ I know how much we had in 1930.
 # 086
 hayimhhis qwanaakitii?al ?a?iich'im?akitqs
 hayim-hhi*-s        qwa-na*k-it-(y)i:-?a*l       DUP-?i:ch'im-?a*k'-it-qs
-not.knowing-DUR-1SG ??-having-PAST-INDF-3PL      DISTR-parent-POSS-PAST-SUB.1SG
+not.knowing-DUR-1SG ??-having-PAST-INDF.3-3PL      DISTR-parent-POSS-PAST-SUB.1SG
 I.don't.know        how.much.they.might.have.had my.parents
 I don't know how much my late parents had.
 

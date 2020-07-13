@@ -370,7 +370,7 @@ He (the chief) told his people that his son was taken by a pack of wolves, the r
 # 053
 haptshitl qwayac'iik?i hayimhhimtwa?ish?al yaqii quu?as.
 hapt-shi(tl) qwayac'i:k-?i* hayim-hhi*-imt-wa*?i*sh-?a*l yaqw-(y)i: qu:?as
-hide-MOM wolf-DEF not.knowing-DUR-PAST?-QUOT.3-PL which-INDF.3 person
+hide-MOM wolf-DEF not.knowing-DUR-PAST-QUOT.3-PL which-INDF.3 person
 they.hid the.wolves they.didnt.know which.one person
 The wolves [taking human shape] hid [among the people], and they (the people) didn't know which one was a [real] person.
 
@@ -475,7 +475,7 @@ Then they went to Ououkinish Inlet and Checleset Bay.
 # 068
 c'iiqaa?atlquuch ?aathhshitl.
 c'i:q-(y)a*-'atl-qu:-ch ?athh-shi(tl)
-sing-CONG-FIN-COND.3-INF night-GRAD
+sing-CONT-FIN-COND.3-INF night-GRAD
 used.to.sing.songs becoming.night
 He used to sing his song at night.
 
@@ -601,14 +601,14 @@ Then the moon began to wax (the new moon cycle had begun): Full Moon, you could 
 # 087
 hey wik'atl wiinaputl saayaa.
 ~ wik-'atl wi:nap-u(tl) saya*-L
-~ not-FIN stopping-MOM far-GRAD?
+~ not-FIN stopping-MOM far-GRAD
 ~ didnt stop very.far.away
 They didn't have to stop for long distances.
 
 # 088
 qii?atl. waa hinasi?atl muuquml hupal.
 qi:-'atl wa: hin-as-i(tl)-'atl mu:-quml hupal
-for.a.long.time-FIN and there.MOM-reaching.to-MOM?-FIN four-round.objects moon
+for.a.long.time-FIN and there.MOM-reaching.to-MOM-FIN four-round.objects moon
 its.been.long and reached four.months moon
 The journey had been continuing for a long time. And it had been four months [since they had departed].
 
@@ -657,7 +657,7 @@ When the wolves hunted, they sent the ones that ran fastest.
 # 095
 k'uuch'iihh?ic'atlquuch?al qahhsaap, wa?ichup.
 k'u:-ch-'i:hh-?ic-'atl-qu:-ch-?a*l muwach qahh-sa:p wa?ich-up
-short.distance-??-persuing-DIM?-FIN-COND.3-INF-PL deer dead-CAUS sleeping-MOMCAUS
+short.distance-??-persuing-DIM-FIN-COND.3-INF-PL deer dead-CAUS sleeping-MOMCAUS
 they.would.get.up.to.it.in.no.time deer kill put.him.into.sleep
 It didn't take them long to catch a deer and kill it, or 'put it to sleep'.
 
@@ -671,7 +671,7 @@ Don't say "kill".
 # 097
 wiiy'aat qahhsaap waa?at, sashtup qahhsaap'atl'atquu.
 wi:y'a-'at qahh-sa*p wa:-'at sa-shtu*p qahh-sa*p-'atl-'at-qu:
-never-?SHIFT dead-MOMCAUS say-SHIFT crawl-thing dead-MOMCAUS-FIN-SHIFT-COND.3
+never-SHIFT dead-MOMCAUS say-SHIFT crawl-thing dead-MOMCAUS-FIN-SHIFT-COND.3
 never kill it.is.said animal when.you.kill
 Never say "kill" when you kill animals.
 
@@ -685,7 +685,7 @@ It is the same with mammals. Never say "kill".
 # 099
 ?uu?_iichi?i. ?uu?_iichi?apikqs wawaa.
 ?u:q-'i*chi-?i* ?u:q-'i*chi-'ap-ik-qs wawa:
-nice-INC?-IMP.2SG nice-INC?-CAUS-??-SUB.1SG say
+nice-INC-IMP.2SG nice-INC-CAUS-??-SUB.1SG say
 you.become.tame I.will.make.it.tame say
 Say "You become tame!" or "I will make you tame."
 
@@ -706,14 +706,14 @@ Wolves would say that lisping.
 # 102
 wik qwaa qwaaqin chamihhta niiw'a ciiqciiqa ?u?_iichi?atikqs.
 wik qwa: qwa:-qin chamihhta ni:w'a DUP#-ciq-a* ?u:q-'i*chi-'ap-ik-qs
-not thus thus-REL.1PL properly we IT-speak-REP nice-INC?-CAUS-??-SUB.1SG
+not thus thus-REL.1PL properly we IT-speak-REP nice-INC-CAUS-??-SUB.1SG
 not thus like.us properly we speaking I.will.make.it.tame
 They are unlike us who speak properly as "_ʔuʕiičiʔatikqs_".
 
 # 103
 ?u?_iichi?atikqs waa waanaa niiw'a.
 ?u:q-'i*chi-'ap-ik-qs wa: wa*-na* ni:w'a
-nice-INC?-CAUS-??-SUB.1SG say say-1PL we
+nice-INC-CAUS-??-SUB.1SG say say-1PL we
 I.will.make.it.tame say we.say we
 We will say, "_ʔuʕiičiʔatikqs_."
 

@@ -1400,7 +1400,7 @@
         {
           "transcription": "",
           "analysis": "c̓awa·-čiƛ-ʼat",
-          "gloss": "one-MOM?-SHIFT",
+          "gloss": "one-MOM-SHIFT",
           "literal": "one",
           "morphemes": [
             {
@@ -1409,7 +1409,7 @@
             },
             {
               "transcription": "čiƛ",
-              "gloss": "MOM?"
+              "gloss": "MOM"
             },
             {
               "transcription": "ʼat",
@@ -2792,7 +2792,7 @@
         {
           "transcription": "",
           "analysis": "č̓u-(y)ukʷi(ƛ)",
-          "gloss": "move-INC?",
+          "gloss": "move-INC",
           "literal": "started.migrating",
           "morphemes": [
             {
@@ -2801,7 +2801,7 @@
             },
             {
               "transcription": "(y)ukʷi(ƛ)",
-              "gloss": "INC?"
+              "gloss": "INC"
             }
           ]
         },
@@ -4818,7 +4818,7 @@
         {
           "transcription": "",
           "analysis": "č̓u-(y)ukʷiƛ-ʼa·qƛ-ʼat-niš",
-          "gloss": "move-INC?-FUT-SHIFT-IND.1PL",
+          "gloss": "move-INC-FUT-SHIFT-IND.1PL",
           "literal": "we.will.start.migrating",
           "morphemes": [
             {
@@ -4827,7 +4827,7 @@
             },
             {
               "transcription": "(y)ukʷiƛ",
-              "gloss": "INC?"
+              "gloss": "INC"
             },
             {
               "transcription": "ʼa·qƛ",
@@ -5330,7 +5330,7 @@
         {
           "transcription": "",
           "analysis": "č̓u-yukʷiƛ",
-          "gloss": "move-INC?",
+          "gloss": "move-INC",
           "literal": "started.migrating",
           "morphemes": [
             {
@@ -5339,7 +5339,7 @@
             },
             {
               "transcription": "yukʷiƛ",
-              "gloss": "INC?"
+              "gloss": "INC"
             }
           ]
         },
@@ -6544,12 +6544,12 @@
         {
           "transcription": "",
           "analysis": "ḥaː",
-          "gloss": "ART?",
-          "literal": "ART?",
+          "gloss": "ART",
+          "literal": "ART",
           "morphemes": [
             {
               "transcription": "ḥaː",
-              "gloss": "ART?"
+              "gloss": "ART"
             }
           ]
         },
@@ -10417,12 +10417,12 @@
         {
           "transcription": "",
           "analysis": "DUP-ʔuːš-(č)iɬ-ʼat",
-          "gloss": "DISTR?-someone-doing.to-SHIFT",
+          "gloss": "DISTR-someone-doing.to-SHIFT",
           "literal": "do.to.someone",
           "morphemes": [
             {
               "transcription": "DUP",
-              "gloss": "DISTR?"
+              "gloss": "DISTR"
             },
             {
               "transcription": "ʔuːš",

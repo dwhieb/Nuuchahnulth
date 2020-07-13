@@ -8,7 +8,7 @@ ID:           CL1
 # 001
 \trs chuu, humwic'a?aqtls ?uuqhhli qwishhitiich kumtkwachi?at qu?ushin kukwinksi ?an c'iic'ikiikit na?aa?at.
 \m   chu: humwic'a-?aqtl-s ?u-qhhli qwishh-it-(y)i:-ch kumt-kwa-chitl-'at qu?ushin kukwinksi ?an c'i:k-i:kw-it na?a*-'at
-\gl  now.then telling.myth-FUT-1SG it-tell.about how-PAST-INDF.3-INF.3 curl-completely-MOM-PASS raven finger because intimate-one.who.always.does-PAST hear-SHIFT
+\gl  now.then telling.myth-FUT-1SG it-tell.about how-PAST-INDF.3-INF.3 curl-completely-MOM-SHIFT raven finger because intimate-one.who.always.does-PAST hear-SHIFT
 \wlt now.then I.will.tell.a.story.about tell.about how.he.did his.got.curled.up raven finger because he.was.imitator it.was.heard
 \tln Now then, I will tell you a story about how Raven got crooked fingers as a result of imitating what he heard.
 
@@ -183,7 +183,7 @@ He started eating. He started eating salmon with oil.
 # 026
 niswachitl, wa?ichpitl.
 nisw-achitl wa?ich-`pitl
-satisfied-INC? sleeping-in.house
+satisfied-INC sleeping-in.house
 got.satisfied fell.asleep
 He got full and went to sleep.
 
@@ -267,7 +267,7 @@ now.then go.find.it what.he.can.eat
 # 038
 wiiy'umt ha?umnak'ap luucmaak. wiwish?_aqtl.
 wi:y'a-umt ha?um-na*k-'ap lu:cma-?a*k DUP-wishq-'aqtl
-never-PAST? food-having-MOMCAUS wife-POSS DISTR-lazy-inside
+never-PAST food-having-MOMCAUS wife-POSS DISTR-lazy-inside
 it.was.never had.food.for his.wife lazy
 He never had food for his wife. He was lazy.
 

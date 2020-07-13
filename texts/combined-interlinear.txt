@@ -224,7 +224,7 @@ He ran to get the pail right away.
 # 014
 wiiksas      ʔaaʔaanaqḥʷa,          wawaaqčik              kamatqukqčik                  ʔucačiƛ      č̓aʔakʔi.
 wik-sa-s     DUPCVː-ʔaːni-(q)ḥ-wa·  wawaː-qčik             kamatqʷ-uk-qčik               ʔu-ca-čiƛ    č̓aʔak-ʔi·
-not-real-1SG DISTR?-really-SIM-say  say-doing.while.going  running-DUR-doing.while.going it-go.to-MOM water-DEF
+not-real-1SG DISTR-really-SIM-say   say-doing.while.going  running-DUR-doing.while.going it-go.to-MOM water-DEF
 I.didnt.do   I.didnt.really.mean.it he.said.while.doing.it ran.while.doing.it            to           the.river
 “I didn’t really mean it,” he said as he ran towards the river.
 
@@ -238,7 +238,7 @@ He dipped the bucket in and ran back home.
 # 016
 nicwiiʔap              kacutum ƛawaʔii    xaašxiipšiƛ̓i,                     maa   ʔuum naqšiʔi,      wiiksas      ʔaaʔaanaqḥʷa,          maa   naqšiʔi,      waa waa.
 ni-cwi·-ʼap            kacutum ƛawa-ʔi·   xaːšxiːp-šiƛ-ʔi·                  maː   ʔuːm naq-ši(ƛ)-ʼi· wik-sa-s     DUPCVː-ʔaːni-(q)ḥ-wa·  maː   naq-ši(ƛ)-ʼi· wa· wa·
-dip-go.through-MOMCAUS dipper  near-reach blue.jay-MOM-DEF                  here! Mom  drink-MOM-IMP not-real-1SG DISTR?-really-SIM-say  here! drink-MOM-IMP say say
+dip-go.through-MOMCAUS dipper  near-reach blue.jay-MOM-DEF                  here! Mom  drink-MOM-IMP not-real-1SG DISTR-really-SIM-say   here! drink-MOM-IMP say say
 dipped.it.through      dipper  approach   the.one.who.turned.into.a.bluejay here! Mom  drink         I.didnt.do   I.didnt.really.mean.it here! drink         say say
 He dipped the dipper in, and went near the one that turned into a blue jay and said, “Here mom, have a drink; I didn’t really mean it; here, have a drink.”
 
@@ -287,7 +287,7 @@ The little boy knew now that his mother really turned into a blue jay.
 # 023
 t̓iʕiƛ                  ʕiiḥp̓ičḥ,             ʔuu ʔuum, wiiksas      ʔaaʔaanaqḥʷa,          wawaa ʕiḥak.
 t̓iqʷ-ʼi·(ƛ)            ʕiḥ-p̓ičḥ              ʔuː ʔuːm  wik-sa-s     DUPCVː-ʔaːni-(q)ḥ-wa·  wawaː ʕiḥ-ak
-sit.down-on.the.ground cry-doing.while       oh  Mom   not-real-1SG DISTR?-really-SIM-say  say   cry-DUR
+sit.down-on.the.ground cry-doing.while       oh  Mom   not-real-1SG DISTR-really-SIM-say   say   cry-DUR
 sit.down               crying.while.doing.it oh  Mom   I.didnt.do   I.didnt.really.mean.it say   crying
 He sat down and cried; “Oh, mother, I did not really mean it,” he said crying.
 
@@ -1125,7 +1125,7 @@ Then, with the canoe turned over on the ground, you adze it [all over] again.
 # 131
 hiišiisač̓ak             ʔuupi   yuušink   qʷaaʔitq   ʔaqʔištiik,         qay̓aaxʷas,
 DUP#ː-his-(y)a-č̓ak      ʔuːpi   yušu-ink  qʷaː-ʔi·tq ʔaqi-ʔišt-(y)iːk    qay̓a·xʷas
-IT-chop-REF-instruments handier hasten-?? thus-REL.3 what-??-INDF.2SG    D.adze
+IT-chop-REP-instruments handier hasten-?? thus-REL.3 what-??-INDF.2SG    D.adze
 axe                     handier quicker   than       what.you.might.call D.adze
 An axe is handier and faster than, you know, a D-adze.
 
@@ -1186,10 +1186,10 @@ I.was.good.at      always.in.both.hands              ~                adzing
 I was good at both left- and right-handed adzing.
 
 # 140
-haa  qʷaaʔišʔaaɬ       yaquusi       čamiḥta quuʔas.
-haː  qʷaː-ʔi·š-ʔaːɬ    yaqʷ-uːsi     čamiḥta quːʔas
-DISC thus-IND.3-always who-REL.DUB.3 proper  person
-DISC it.is.so          who.he.might  proper  person
+haa qʷaaʔišʔaaɬ       yaquusi       čamiḥta quuʔas.
+~   qʷaː-ʔi·š-ʔaːɬ    yaqʷ-uːsi     čamiḥta quːʔas
+~   thus-IND.3-always who-REL.DUB.3 proper  person
+~   it.is.so          who.he.might  proper  person
 That is how an experienced man is.
 
 # 141
@@ -1349,7 +1349,7 @@ it.is.slanted.on.both.sides   say both.sides
 # 165
 ƛ̓aaƛaay̓ixʷapuƛs.
 DUPː-ƛ̓ay̓ixʷ-L-apuƛ-s
-??-fast-GRAD-MOM?-1SG
+??-fast-GRAD-MOM-1SG
 Im.getting.too.fast
 I’m going a little too fast [in telling you this story].
 \n The narrator’s comment on himself.
@@ -1553,7 +1553,7 @@ Take your time. Don’t rush.
 # 200
 heey č̓aaḥč̓aaḥšiƛ.
 ~    DUP#-č̓aḥ-[L]-ši(ƛ)
-~    IT-adze-GRAD?-MOM
+~    IT-adze-GRAD-MOM
 ~    start.adzing
 Well, [you] start adzing.
 
@@ -1567,7 +1567,7 @@ When you have attached them [the two end pieces], it is finished.
 # 202
 ƛ̓aaƛ̓aay̓ixʷapuƛs     qʷaaʔap̓aʔitq.
 DUPː-ƛ̓ay̓ixʷ-apuƛ-s  qʷaː-ʼap-ʼat-ʔi·tq
-??-fast-MOM?-1SG    thus-CAUS-SHIFT-REL.3
+??-fast-MOM-1SG     thus-CAUS-SHIFT-REL.3
 I.am.going.too.fast it.is.done.so
 I am going too fast [in telling the story].
 \n The speaker’s comment on himself.
@@ -2029,7 +2029,7 @@ They arrived where they were moving to.
 # 024
 quuɬiiy̓ap̓at                quuc            ḥaw̓iɬʔi.
 quːɬ-i·y̓a·p-ʼat            ʔu-iːc          ḥaw̓iɬ-ʔi·
-slave-INC.CAUS?-SHIFT      he-belonging.to chief-DEF
+slave-INC.CAUS-SHIFT       he-belonging.to chief-DEF
 they.made.him.into.a.slave his             the.chief
 They made him a slave of the chief.
 
@@ -2055,10 +2055,10 @@ sometimes.he.would                 he.did.together.with   the.wolf.cubs
 Sometimes he had to play with the little wolves.
 
 # 028
-kʷiiƛkʷiiyaqiɬʔaƛwaʔiš                          ƛ̓uč̓umckʷi              č̓iimaqiiɬ      hiɬaʕaqiɬḥ                           ʔinkʷiɬʔi,            nunuukḥ.
-DUPCVƛ-kʷi-yaq-ʽiɬ-ʼaƛ-wa·ʔi·š                  ƛ̓uč̓um-ckʷi·            č̓iːmaq-iːɬ     hiɬ-aʕaq-ʽiɬ-(q)ḥ                    ʔinkʷ-ʽiɬ-ʔi·         nunuːk-(q)ḥ
-SPOR-sharpening-REP?-on.the.floor-FINITE-QUOT.3 blue.mussel-remains.of knife-make     there-beside-on.the.floor-SIM        fire-on.the.floor-DEF singing-SIM
-he.kept.sharpening.on.the.floor                 mussel.shell           making.a.knife while.sitting.beside.it.on.the.floor the.fire.on.the.floor while.singing
+kʷiiƛkʷiiyaqiɬʔaƛwaʔiš                         ƛ̓uč̓umckʷi              č̓iimaqiiɬ      hiɬaʕaqiɬḥ                           ʔinkʷiɬʔi,            nunuukḥ.
+DUPCVƛ-kʷi-yaq-ʽiɬ-ʼaƛ-wa·ʔi·š                 ƛ̓uč̓um-ckʷi·            č̓iːmaq-iːɬ     hiɬ-aʕaq-ʽiɬ-(q)ḥ                    ʔinkʷ-ʽiɬ-ʔi·         nunuːk-(q)ḥ
+SPOR-sharpening-REP-on.the.floor-FINITE-QUOT.3 blue.mussel-remains.of knife-make     there-beside-on.the.floor-SIM        fire-on.the.floor-DEF singing-SIM
+he.kept.sharpening.on.the.floor                mussel.shell           making.a.knife while.sitting.beside.it.on.the.floor the.fire.on.the.floor while.singing
 He sat sharpening some mussel shells making knives beside the fire, singing.
 
 # 029
@@ -2552,8 +2552,8 @@ Although when we were growing up, we used to listen to them what they told us re
 
 # 005
 ʔiiḥsʔaaɬ          ƛ̓uu,        qʷaayaatuk̓ʷanitiisʔaaɬ                          naniiqsakitqs.
-ʔi·ḥʷ-s-ʔaːɬ       ƛ̓uː         qʷaː-(y)a·tuk-ʼat-it-(y)iːs-ʔaːɬ                nani·qsu-ʔa·k-it-q-s
-greatly-1SG-always think.about thus-making.sound.of-SHIFT-PAST-INDF.1SG-always grandparent-POSS-PAST-SUB-1SG
+ʔi·ḥʷ-s-ʔaːɬ       ƛ̓uː         qʷaː-(y)a·tuk-ʼat-it-(y)iːs-ʔaːɬ                nani·qsu-ʔa·k-it-qs
+greatly-1SG-always think.about thus-making.sound.of-SHIFT-PAST-INDF.1SG-always grandparent-POSS-PAST-SUB.1SG
 I.always.really    think.about the.way.they.used.to.speak.to.us                my.late.grandparent
 I always think a lot about the way my grandmother used to talk to us.
 
@@ -2751,10 +2751,10 @@ this thus.they.are dog     have.it
 This is the way the dogs are. They owned dogs.
 
 # 017
-ʔuušc̓aɬukʔiš         quuʔas yackšiʔat.     wiiy̓aat.     numaak.
-ʔuːšc̓aɬ-uk-ʔi·š      quːʔas yack-ši(ƛ)-ʼat wiːy̓a-ʼat    numaːk
-forbidden?-DUR-IND.3 human  kick-MOM-SHIFT never-SHIFT? forbidden
-it.is.forbidden      human  kick.them      never        forbidden
+ʔuušc̓aɬukʔiš         quuʔas yackšiʔat.     wiiy̓aat.    numaak.
+ʔuːšc̓aɬ-uk-ʔi·š      quːʔas yack-ši(ƛ)-ʼat wiːy̓a-ʼat   numaːk
+forbidden?-DUR-IND.3 human  kick-MOM-SHIFT never-SHIFT forbidden
+it.is.forbidden      human  kick.them      never       forbidden
 It is forbidden for people to kick them.
 
 # 018
@@ -2788,7 +2788,7 @@ He was mean and used to hurt him [his dog].
 # 022
 muwač̓atḥ      hiɬḥ,     quuʔas ḥaw̓iɬaq.
 muwač-ʼatḥ    hiɬ-(q)ḥ  quːʔas ḥaw̓iɬ-aq
-NAME-residing there-SIM person chief-BIG
+NAME-residing there-SIM person chief-big
 Mowachaht     there.by  person head.chief
 This happened in Nootka, to the head chief.
 
@@ -2872,14 +2872,14 @@ doing     look               the.way.I.am
 # 034
 ḥan̓aḥtuƛ.
 ḥan̓aḥ-tuƛ
-naked-MOM?
+naked-MOM
 naked
 He [the young man] took off his clothing.
 
 # 035
 m̓uč̓ičʔinʔakʔi                ʕiniiƛ ḥan̓aḥtuƛ.
 m̓uč̓ič-ʔin-ʔa·k-ʔi·           ʕiniːƛ ḥan̓aḥ-tuƛ
-clothed-costume.for-POSS-DEF dog    naked-MOM?
+clothed-costume.for-POSS-DEF dog    naked-MOM
 the.attire.of                dog    naked
 He took off his dog attire.
 
@@ -3206,10 +3206,10 @@ you.feed        also
 You feed them too.
 
 # 082
-qʷiʔiickʷiʔitk            ʔuyiisuuk.
-qʷi-ʼi·c-ckʷi·-ʔi·tk      ʔu-(y)i·-suːk
-what-eat-remains.of-REL.2 it-give-2SG
-whatever.you.ate          you.give
+qʷiʔiickʷiʔitk              ʔuyiisuuk.
+qʷi-ʼi·c-ckʷi·-ʔi·tk        ʔu-(y)i·-suːk
+what-eat-remains.of-REL.2SG it-give-2SG
+whatever.you.ate            you.give
 Whatever you ate, you give.
 
 # 083
@@ -3373,10 +3373,10 @@ they.were.all.singing dont.cry       dont.cry       she.is.still.on.the.beach di
 They were all singing, “Don’t cry. Don’t cry. Your mother is still on the beach digging clams. Don’t cry.” That was how their song went.
 
 # 020
-ʔuʔukʷinkʔaɬ               y̓uukʷiiqsusaʔi,          ʕiiḥʔiikʔi.
-DUPCV-ʔu-kʷinkʷ-ʔa·ɬ       y̓uːkʷiːqsu-sa-ʔi·        ʕiḥ-ʼiːk-ʔi·
-DISTR?-he-converse.with-PL younger.brother-real-DEF cry-always.doing-DEF
-they.were.speaking.to.him  the.youngest.brother     one.who.always.cries
+ʔuʔukʷinkʔaɬ              y̓uukʷiiqsusaʔi,          ʕiiḥʔiikʔi.
+DUPCV-ʔu-kʷinkʷ-ʔa·ɬ      y̓uːkʷiːqsu-sa-ʔi·        ʕiḥ-ʼiːk-ʔi·
+DISTR-he-converse.with-PL younger.brother-real-DEF cry-always.doing-DEF
+they.were.speaking.to.him the.youngest.brother     one.who.always.cries
 They were singing to the youngest brother, the cry baby.
 
 # 021
@@ -3394,10 +3394,10 @@ have.something.precious the.mother    boys
 The mother got something precious — boys [instead of dogs].
 
 # 023
-ƛ̓aqačiƛ̓aɬ     kʷikʷistupaqʔaɬ                kʷiisaḥim̓inḥ.
-ƛ̓aq-ačiƛ-ʔa·ɬ DUPCV-kʷis-tu·p-aq-ʔa·ɬ        kʷiːsaḥi-m̓inḥ
-grow-INC?-PL  DISTR?-different-thing-very-PL good.hunter-PL
-they.grew.up  they.were.very.different       they.were.good.hunters
+ƛ̓aqačiƛ̓aɬ     kʷikʷistupaqʔaɬ               kʷiisaḥim̓inḥ.
+ƛ̓aq-ačiƛ-ʔa·ɬ DUPCV-kʷis-tu·p-aq-ʔa·ɬ       kʷiːsaḥi-m̓inḥ
+grow-INC-PL   DISTR-different-thing-very-PL good.hunter-PL
+they.grew.up  they.were.very.different      they.were.good.hunters
 They grew up. They were a truly extraordinary bunch.
 
 # 024
@@ -3466,7 +3466,7 @@ He threw up the skin. Nothing happened.
 # 033
 ʔuyaaƛuk                     muup̓itšiʔaƛ̓itq       t̓imisanup            matšiƛuk,    maamaatičiƛuk.
 ʔuyi-ʼa·ƛ-uk                 muː-p̓it-ši(ƛ)-ʔi·tq  t̓i-misa-nup          mat-ši(ƛ)-uk maːmaːti-či(ƛ)-uk
-at.that.time-FIN?-POSS       foud-times-MOM-REL.3 throw-on.top-MOMCAUS fly-MOM-POSS bird-MOM-POSS
+at.that.time-FIN-POSS        foud-times-MOM-REL.3 throw-on.top-MOMCAUS fly-MOM-POSS bird-MOM-POSS
 it.was.at.that.time.when.his at.fourth.time       threw.it.up          his.flew     his.turned.into.a.bird
 At the fourth time he threw it up, and it flew, turning into a bird.
 
@@ -3550,7 +3550,7 @@ Something happened to the weather.
 # 045
 wiiqsiičiƛaq.      wiktumʔaɬ      hinasiƛ.
 wiːqsiː-čiƛ-aq     wik-tum-ʔa·ɬ   hin-as-iƛ
-stormy-MOM-very    not-PAST?-PL   there-reaching.to-MOM
+stormy-MOM-very    not-PAST-PL    there-reaching.to-MOM
 it.got.very.stormy they.never.did reached
 It got really stormy, and they never reached there.
 
@@ -3802,10 +3802,10 @@ they.had.none                 fire  human  long.ago at.that.time
 Long ago humans didn’t have fire.
 
 # 003
-wik̓iit       qʷiiḥʷʼaɬʔaaḥiiʔaɬ                   siqiiɬ.
-wik̓iːt       qʷiː-ḥʷʼaɬ-ʼaːḥ-(y)iː-ʔa·ɬ           siqa-iːɬ
-none.present that.which-using-PURP.1SG?-INDF.3-PL cooked-make
-none.present what.they.would.use.for              cook
+wik̓iit       qʷiiḥʷʼaɬʔaaḥiiʔaɬ                  siqiiɬ.
+wik̓iːt       qʷiː-ḥʷʼaɬ-ʼaːḥ-(y)iː-ʔa·ɬ          siqa-iːɬ
+none.present that.which-using-PURP.1SG-INDF.3-PL cooked-make
+none.present what.they.would.use.for             cook
 There was no fire to cook their meals.
 
 # 004
@@ -3921,10 +3921,10 @@ OK  get.it.for.me              what.I.can.wear.for                   dancing
 “OK, get some dancing gear for me.
 
 # 020
-ʔusumʔaqƛsiš           w̓anus, c̓iisiicum,                 maamaƛ̓aasum,                  mamaƛp̓ičḥtum.
-ʔu-sum-ʔaqƛ-si·š       w̓anus  c̓is-iːc-um                 DUPCVː-maƛ-ʼaːs-um            DUPCV-maƛ-p̓ič-ḥta-um
-it-needing-FUT-IND.1SG skirt  rope-around.the.head-thing DISTR?-tie-at.the.wrist-thing DISTR-tie-on.the.ankle-on.the.foot-thing
-I.will.need            skirt  head.band                  wrist.band                    knee.band
+ʔusumʔaqƛsiš           w̓anus, c̓iisiicum,                 maamaƛ̓aasum,                 mamaƛp̓ičḥtum.
+ʔu-sum-ʔaqƛ-si·š       w̓anus  c̓is-iːc-um                 DUPCVː-maƛ-ʼaːs-um           DUPCV-maƛ-p̓ič-ḥta-um
+it-needing-FUT-IND.1SG skirt  rope-around.the.head-thing DISTR-tie-at.the.wrist-thing DISTR-tie-on.the.ankle-on.the.foot-thing
+I.will.need            skirt  head.band                  wrist.band                   knee.band
 I will need skirt, head band, wrist bands, and knee bands.”
 
 # 021
@@ -4154,7 +4154,7 @@ They didn’t realize that Deer got the fire.
 # 053
 ʔink̓ʷičiƛuk    ḥaa   ƛ̓ušukʔi     ḥumiis.
 ʔinkʷ-ʼičiƛ-uk ḥaː   ƛ̓uš-uk-ʔi·  ḥumiːs
-fire-INC?-POSS there dry-DUR-DEF red.cedar
+fire-INC-POSS  there dry-DUR-DEF red.cedar
 got.their.fire there dry         red.cedar
 The dry cedar twigs caught fire.
 
@@ -4272,7 +4272,7 @@ Son of Wren saw that he really wanted to get even.
 # 013
 t̓aat̓aapatšiƛ.
 DUP.CVː-t̓apat-šiƛ
-DISTR?-think-MOM
+DISTR-think-MOM
 having.many.ideas
 He started to think (Son of Crane).
 
@@ -4564,10 +4564,10 @@ covered.it.with.sand
 Then it (the wolf) covered it with sand.
 
 # 018
-hatkhatkmisaƛ           qʷayac̓iikʔi,  wiimatsapa                    qʷiʔiiʔisʔapʔitq                            kuukuḥʷʼisakʔi.
-DUP.#-hatkʷ-misa-ʼaƛ    qʷayac̓iːk-ʔi· wiːmat-sa·p-a                 qʷi-ʔiː-ʽis-ʼap-ʔi·tq                       kuːhkuḥʷʼisa-ʔa·k-ʔi·
-REP?-roll-on.top-FINITE wolf-DEF      not.showing-MOMCAUS-trying.to that.which-reach-on.the.beach-MOMCAUS-REL.3 hair.seal-POSS-DEF
-started.to.roll.around  the.wolf      trying.to.cover.up            where.he.buried.it                          his.seal
+hatkhatkmisaƛ          qʷayac̓iikʔi,  wiimatsapa                    qʷiʔiiʔisʔapʔitq                            kuukuḥʷʼisakʔi.
+DUP.#-hatkʷ-misa-ʼaƛ   qʷayac̓iːk-ʔi· wiːmat-sa·p-a                 qʷi-ʔiː-ʽis-ʼap-ʔi·tq                       kuːhkuḥʷʼisa-ʔa·k-ʔi·
+REP-roll-on.top-FINITE wolf-DEF      not.showing-MOMCAUS-trying.to that.which-reach-on.the.beach-MOMCAUS-REL.3 hair.seal-POSS-DEF
+started.to.roll.around the.wolf      trying.to.cover.up            where.he.buried.it                          his.seal
 The wolf started to roll around trying to cover up where he buried his hair seal.
 
 # 019
@@ -4580,7 +4580,7 @@ It (the wolf) would step far back there making sure that it did not show.
 # 020
 huʔaasʔaƛquučƛa                  hatkhatkmisaƛ.
 huʔa-a·s-ʼaƛ-quː-č-ƛa·           DUP.#-hatkʷ-misa-ʼaƛ
-again-??-FINITE-COND-INF.3-again REP?-roll-on.top-FINITE
+again-??-FINITE-COND-INF.3-again REP-roll-on.top-FINITE
 would.do.it.repeatedly           started.to.roll.around
 It would repeatedly start rolling around again.
 
@@ -4599,10 +4599,10 @@ howled.while     invite fellow.people
 It howled as it went inviting the other wolves.
 
 # 023
-wiktum    naaw̓aḥi čakupʔi.
-wik-tum   naːw̓aḥi čakup-ʔi·
-not-PAST? waiting main-DEF
-did.not   waiting the.man
+wiktum   naaw̓aḥi čakupʔi.
+wik-tum  naːw̓aḥi čakup-ʔi·
+not-PAST waiting main-DEF
+did.not  waiting the.man
 The man didn’t wait.
 
 # 024
@@ -4797,7 +4797,7 @@ now.then what.should.we.do        said       the.husband
 # 051
 wikʔaqƛ̓atsa             ɬačiʔat          ʕaciis     qʷicačiƛuusin.
 wik-ʔaqƛ-ʼat-sa         ɬač-i(ƛ)-ʼat     ʕaciːs     qʷi-ca-či(ƛ)-uːsin
-not-FUT-SHIFT-1SG       let.go-MOM-SHIFT regardless what-go.to-MOM-REL.DUB.1PL?
+not-FUT-SHIFT-1SG       let.go-MOM-SHIFT regardless what-go.to-MOM-REL.DUB.1PL
 they.will.not.let.me.do they.let.me.go   regardless no.matter.where.we.go
 They wouldn’t leave me alone no matter where we go.
 
@@ -4818,7 +4818,7 @@ Someone went for the advisors.
 # 054
 hišumyipiƛ̓aɬ                   t̓aat̓aapatšiƛ.
 hiš-umɬ-ʽipiƛ-ʔa·ɬ             DUP.CVː-t̓apat-ši(ƛ)
-all-in.a.group-in.the.house-PL DISTR?-think-MOM
+all-in.a.group-in.the.house-PL DISTR-think-MOM
 they.gathered.in.the.house     many.people.thinking
 They gathered around and started thinking.
 
@@ -4953,10 +4953,10 @@ on.the.side.of my.father           NAME   was.called
 He was on my father’s side, by the name of _yuuwii_.
 
 # 014
-k̓uučʔis             n̓aacsa yaqukʷitiis            naniiqsu,    yuuwii
-k̓uː-č-ʔis           n̓aːcsa yaq-ukʷ-it-(y)iːs      nani·qsu     yuːwiː
-short.time-DIM?-DIM see    who-POSS-PAST-INDF.1SG grandparent  NAME
-for.a.short.while   see    who.was.my             grandparent, _yuuwii_.
+k̓uučʔis            n̓aacsa yaqukʷitiis            naniiqsu,    yuuwii
+k̓uː-č-ʔis          n̓aːcsa yaq-ukʷ-it-(y)iːs      nani·qsu     yuːwiː
+short.time-DIM-DIM see    who-POSS-PAST-INDF.1SG grandparent  NAME
+for.a.short.while  see    who.was.my             grandparent, _yuuwii_.
 I briefly saw my grandparent, _yuuwii_.
 
 # 015
@@ -5034,10 +5034,10 @@ It was snowing.
 Month of February, 1912—that’s when I was born.
 
 # 026
-waa haa  hiisaʔac̓aƛits    ʕupnit
-wa· haː  hiːsaʔac̓aƛ-it-s  ʕupnit
-and DISC grow.up-PAST-1SG Opnit
-and ahh  I.grew.up        Opnit
+waa haa hiisaʔac̓aƛits    ʕupnit
+wa· ~   hiːsaʔac̓aƛ-it-s  ʕupnit
+and ~   grow.up-PAST-1SG Opnit
+and ~   I.grew.up        Opnit
 And I grew up at Opnit.
 
 # 027
@@ -5062,10 +5062,10 @@ I.first      went   NAME     ~
 I first went to _ʕaʔuknak_ in 1919.
 
 # 030
-ʔaʔimyii          kuw̓iiƛ       [residential school]
-ʔaʔim-(y)iː       kuḥʷ-ʼi·ƛ    ~
-first.time-INDF.3 opening-MOM? ~
-it.was.first      be.open      ~
+ʔaʔimyii          kuw̓iiƛ      [residential school]
+ʔaʔim-(y)iː       kuḥʷ-ʼi·ƛ   ~
+first.time-INDF.3 opening-MOM ~
+it.was.first      be.open     ~
 This was when they first opened residential school.
 
 # 031
@@ -5109,9 +5109,9 @@ After some time I went back (to school).
 
 # 037
 ʔaḥʔaaƛ    ʔaƛpuqʔičḥs           school hiɬ,  [7 years] ,           ʔaƛpuqʔičh.
-ʔaḥʔaː-ʼaƛ ʔaƛpu-qʔičḥ-s         school hiɬ   [~]       ʔaƛpu-qʔičḥ
-then-FIN   seven-year-1SG        ENG    there ENG       seven-year
-then       I.did.for.seven.years school there [~]       seven.years
+ʔaḥʔaː-ʼaƛ ʔaƛpu-qʔičḥ-s         school hiɬ   ~         ʔaƛpu-qʔičḥ
+then-FIN   seven-year-1SG        school there ~         seven-year
+then       I.did.for.seven.years school there ~         seven.years
 Then I attended school for seven years.
 
 # 038
@@ -5199,10 +5199,10 @@ for.ten.days  ~          three.times.per   one       moon
 I finished (came out of) school in 1927.
 
 # 050
-ʔacyuu              ?? ʔacyuu,             fishing yaaqʷiɬʔitq                    mamaɬn̓i         waa, kʷacinu  hiistiɬ,                ʔacyuu
-ʔac-yu·             ~  ʔac-yu·             ~       yaqʷ-(č)iɬ-ʔi·tq               ma-maɬ-n̓i·      wa·  kʷaciːnu hist-(č)iɬ              ʔac-yu·
-go.out.fishing-done ~  go.out.fishing-done ~       which-with.reference.to-REFL.3 dwell-move-come say  NAME     there-with.reference.to go.out.fishing-done
-be.out.hunting      ~  be.out.hunting      ~       with.reference.to.which        white.man       say  NAME     at                      be.out.hunting
+ʔacyuu              ?? ʔacyuu,             fishing yaaqʷiɬʔitq                   mamaɬn̓i         waa, kʷacinu  hiistiɬ,                ʔacyuu
+ʔac-yu·             ~  ʔac-yu·             ~       yaqʷ-(č)iɬ-ʔi·tq              ma-maɬ-n̓i·      wa·  kʷaciːnu hist-(č)iɬ              ʔac-yu·
+go.out.fishing-done ~  go.out.fishing-done ~       which-with.reference.to-REL.3 dwell-move-come say  NAME     there-with.reference.to go.out.fishing-done
+be.out.hunting      ~  be.out.hunting      ~       with.reference.to.which       white.man       say  NAME     at                      be.out.hunting
 I was out fishing at Quatsiino
 
 # 051
@@ -5264,7 +5264,7 @@ They very often fished for red snappers and _ʔiʔišpaaɬ_.
 # 059
 haʔum̓iš     ʔuupi      ƛ̓iḥapiiḥ    qʷaaʔiitq   ʔiʔišpaaɬ.
 haʔum-ʔi·š  ʔu-(ʔ)aːpi ƛ̓iḥapiːḥ    qʷaː-ʔi·tq  ʔiʔišpaːɬ
-food-IND.3  it-?PASS   red.snapper such-REL.3  (fish.name)
+food-IND.3  it-??      red.snapper such-REL.3  (fish.name)
 it.is.tasty better     red.snapper compared.to (fish.name)
 Red snappers are tastier than _ʔiʔišpaaɬ_.
 
@@ -5447,7 +5447,7 @@ I know how much we had in 1930.
 # 086
 hayimḥis            qʷanaakitiiʔaɬ               ʔaʔiič̓imʔakitqs
 hayim-ḥi·-s         qʷa-na·k-it-(y)iː-ʔa·ɬ       DUP-ʔiːč̓im-ʔa·k̓-it-qs
-not.knowing-DUR-1SG ??-having-PAST-INDF-3PL      DISTR-parent-POSS-PAST-SUB.1SG
+not.knowing-DUR-1SG ??-having-PAST-INDF.3-3PL    DISTR-parent-POSS-PAST-SUB.1SG
 I.don't.know        how.much.they.might.have.had my.parents
 I don’t know how much my late parents had.
 
@@ -6176,7 +6176,7 @@ The gray whales get barnacles on the body.
 # 009
 qʷaawaaʔiš            qʷaaʔiitq  quuʔas č̓iḥsuuqƛiič.
 qʷaː-wa·-ʔi·š         qʷaː-ʔi·tq quːʔas č̓iḥ-su·qƛ-(y)iː-č
-thus-say-IND.3        thus-REL.3 person spirit-inside.the.body-INDF-INF
+thus-say-IND.3        thus-REL.3 person spirit-inside.the.body-INDF.3-INF
 to.be.thus.it.is.said like       person having.spirit.inside.the.body
 They say that, like a human, they have a spirit inside the body.
 
@@ -6188,10 +6188,10 @@ goes.ashore                                gray.whale sometimes
 They sometimes would go to the rocky shoreline.
 
 # 011
-wik̓iituƛ̓aɬ      ƛaan̓uɬ   qʷičisituusii                            ʔusit̓atʔi.
-wik̓iːt-uƛ-ʔa·ɬ  ƛaːn̓uɬ   qʷi-čis-it-uːsi-(y)iː                    ʔusit-ʼat-ʔi·
-absent-MOM-PL   barnacle that.which-??-on.the.body-REL.DUB.3-INDF body-POSS-DEF
-they.get.rid.of barnacle whatever.might.be.on.the.body            its.body
+wik̓iituƛ̓aɬ      ƛaan̓uɬ   qʷičisituusii                              ʔusit̓atʔi.
+wik̓iːt-uƛ-ʔa·ɬ  ƛaːn̓uɬ   qʷi-čis-it-uːsi-(y)iː                      ʔusit-ʼat-ʔi·
+absent-MOM-PL   barnacle that.which-??-on.the.body-REL.DUB.3-INDF.3 body-POSS-DEF
+they.get.rid.of barnacle whatever.might.be.on.the.body              its.body
 They [gray whales] get rid of barnacles that are on their bodies.
 
 # 012
@@ -6712,7 +6712,7 @@ The place is called _wiiḥaaqsusiis_.
 # 061
 čuu,     ƛ̓aaʔinuʔat̓aɬ,      ƛ̓aaʔinƛ,    n̓uʕasaqḥ, ʕaaḥuus, hitaaqƛis.
 čuː      ƛ̓aː-ʔinu-ʼaƛ-ʔa·ɬ  ƛ̓aː-ʔin(ƛ)  n̓uʕasaqḥ  ʕaːḥuːs  hitaːqƛis
-now.then outside-MOM-FIN-PL outside-MOM NAME      NAME     NAME(?)
+now.then outside-MOM-FIN-PL outside-MOM NAME      NAME     NAME
 now.then they.went.outside  went.out    NAME      NAME     NAME
 Then they went out to the open sea to _n̓uʕasaqḥ_, Ahous, or _hit:qƛis_. (?)
 
@@ -7069,7 +7069,7 @@ The British Navy anchored at Tofino [which is just across from the Opetchesaht a
 # 112
 wiina  ʕaaḥuusʔatḥ ʔuuciy̓uk.   wiksan̓apw̓it̓as.
 wiːna  ʕaːḥuːsʔatḥ ʔuː-ci·y̓uk  wik-san̓ap-w̓it̓as
-invade Ahousaht    it-going.to not-MOMCAUS?-about.to
+invade Ahousaht    it-going.to not-MOMCAUS-about.to
 invade Ahousaht    going.to    there.going.to.be.nobody.left
 They were going to invade the Ahousaht people. There was going to be nobody left.
 
@@ -7566,14 +7566,14 @@ one    his.child  holding.in.front
 # 186
 qʷisitii           ʔink̓ʷiy̓ap.
 qʷis-it-(y)iː      ʔinkʷ-ʼiy̓ap
-do.so-PAST-INDF.3  fire-MOMCAUS?
+do.so-PAST-INDF.3  fire-MOMCAUS
 might.have.done.so set.fire.on.the.house
 They probably set fire to the house.
 
 # 187
 ʔink̓ʷičiƛ.
 ʔinkʷ-ʼičiƛ
-fire-MOM?
+fire-MOM
 burned.down.the.house
 The houses burned down.
 
@@ -7767,10 +7767,10 @@ I.was.strong         mind     used.to.say        the.old.person they.used.to.giv
 “I was brave. They made me drink tabacco [and I was brave enough to actually drink it],” the old man used to say.
 
 # 215
-tea ʔuʔiic̓ap̓atč̓aʕaš               qʷaa. teaʔiic.
-tea ʔu-ʼi·c-ʼap-ʼat-č̓a·ʕaš        qʷaː  tea-ʼi·c
-tea it-consume-CAUS-SHIFT-INFER.3 thus  tea-consume
-tea he.was.probably.served        thus  drink.tea
+tea ʔuʔiic̓ap̓atč̓aʕaš             qʷaa. teaʔiic.
+tea ʔu-ʼi·c-ʼap-ʼat-č̓a·ʕaš      qʷaː  tea-ʼi·c
+tea it-consume-CAUS-SHIFT-INF.3 thus  tea-consume
+tea he.was.probably.served      thus  drink.tea
 It was probably tea that he was served. He had tea.
 
 # 216
@@ -7783,7 +7783,7 @@ This native man thought he was given chewing tobacco [when he saw tea leaves at 
 # 217
 qaaḥsap̓atsaaš                         waaʔaƛquuč.
 qaḥ-sap-ʼat-saːš                      wa·-ʼaƛ-quː-č
-dead-GRADCAUS-SHIFT-INFER.1SG?        say-FIN-COND.3-INF
+dead-GRADCAUS-SHIFT-INF.1SG           say-FIN-COND.3-INF
 apparently.they.were.going.to.kill.me he.used.to.say
 “They must have been trying to kill me,” he used to say.
 
@@ -7958,7 +7958,7 @@ Probably he was served salt pork.
 # 242
 ʔaḥʔaa qʷisitwaʔiš.      c̓awaakitwaʔišča       ɬuucma, ɬuucmumtquu,        k̓aḥyaqisʔap̓anitwaʔiš.                          k̓aḥyuu.
 ʔaḥʔaː qʷis-it-wa·ʔi·š   c̓awaːk-it-wa·ʔi·š-ča  ɬuːcma  ɬuːcma-umt-quː      k̓aḥ-yaq-ʔis-ʼap-ʼat-it-wa·ʔi·š                 k̓aḥ-yu·
-that   do.so-PAST-QUOT.3 one-PAST-QUOT.3-maybe woman   woman-PAST?-COND.3  split-done-on.the.beach-CAUS-SHIFT-PAST-QUOT.3 split-done
+that   do.so-PAST-QUOT.3 one-PAST-QUOT.3-maybe woman   woman-PAST-COND.3   split-done-on.the.beach-CAUS-SHIFT-PAST-QUOT.3 split-done
 that   what.happened     there.was.maybe.one   woman   one.who.was.a.woman she.was.split.in.half.on.the.beach             split
 This actually happened. It was probably a woman — a female body was split right in half.
 
@@ -8199,10 +8199,10 @@ propose              while.she.is.a.baby still
 They would propose while [their daughter] was still a baby.
 
 # 004
-čuu,     ƛ̓aqačiƛ   ḥaakʷaaƛ̓i    ɬuucmiičiƛ,   ʕic̓aatšiƛ.
-čuː      ƛ̓aq-ačiƛ  ḥaːkʷa·ƛ-ʔi· ɬuːcma-ʽi·čiƛ ʕic̓aːt-šiƛ
-now.then grow-INC? girl-DEF     woman-INC     menstruate.for.the.first.time-MOM
-now.then grow.up   the.girl     become.woman  menstruate.for.the.first.time
+čuu,     ƛ̓aqačiƛ  ḥaakʷaaƛ̓i    ɬuucmiičiƛ,   ʕic̓aatšiƛ.
+čuː      ƛ̓aq-ačiƛ ḥaːkʷa·ƛ-ʔi· ɬuːcma-ʽi·čiƛ ʕic̓aːt-šiƛ
+now.then grow-INC girl-DEF     woman-INC     menstruate.for.the.first.time-MOM
+now.then grow.up  the.girl     become.woman  menstruate.for.the.first.time
 Then, the girl grew up and became a woman, menstruating for the first time.
 
 # 005
@@ -8479,10 +8479,10 @@ very.important.thing
 It was a serious matter.
 
 # 044
-ʔaniyumtƛaʔaaɬ                     huʔacaʔap̓at              ḥaakʷaaƛ̓i    qʷiqʷiiqsak,        wiikmaʕuk̓ʷaƛquu,               wic̓ikquu          kuučiɬ,        wic̓ikquu          haaʔumtaq.
-ʔani-iya-umt-ƛa·-ʔaːɬ              huʔa-ca-ʼap-ʼat          ḥaːkʷa·ƛ-ʔi· DUP.CV-qʷiːqsu-ʔa·k wik-maʕuk-ʼaƛ-quː              wic̓ik-quː         kuːčiɬ         wic̓ik-quː         haʔum-taq
-only-at.the.time-PAST?-also-always back-go.to-MOMCAUS-SHIFT girl-DEF     DISTR-in.law-POSS   not-one.skilled.in-FINITE-COND incapable.of-COND filleting.fish incapable.of-COND food-working.on
-the.only.time.they.would.also      bring.her.back           the.girl     in.laws             when.she.cannot.do.anything    when.she.cannot   filleting.fish when.she.cannot   cook.food
+ʔaniyumtƛaʔaaɬ                    huʔacaʔap̓at              ḥaakʷaaƛ̓i    qʷiqʷiiqsak,        wiikmaʕuk̓ʷaƛquu,               wic̓ikquu          kuučiɬ,        wic̓ikquu          haaʔumtaq.
+ʔani-iya-umt-ƛa·-ʔaːɬ             huʔa-ca-ʼap-ʼat          ḥaːkʷa·ƛ-ʔi· DUP.CV-qʷiːqsu-ʔa·k wik-maʕuk-ʼaƛ-quː              wic̓ik-quː         kuːčiɬ         wic̓ik-quː         haʔum-taq
+only-at.the.time-PAST-also-always back-go.to-MOMCAUS-SHIFT girl-DEF     DISTR-in.law-POSS   not-one.skilled.in-FINITE-COND incapable.of-COND filleting.fish incapable.of-COND food-working.on
+the.only.time.they.would.also     bring.her.back           the.girl     in.laws             when.she.cannot.do.anything    when.she.cannot   filleting.fish when.she.cannot   cook.food
 The only time they would send the girl back to her in-laws was when she did not know how to do anything, such as filleting fish and cooking.
 
 # 045
@@ -8779,7 +8779,7 @@ He heard something — _txtxtxtxtx_ (splashing sound of fish jumping) — it sou
 # 033
 txtxtxtxtxtx qʷiqiiwaʔin                 waaʔaƛ
 ~            qʷiq-(y)iː-wa·ʔin           waː-ʼaƛ
-~            that.which-INDF.3-QUOT?     say-FIN
+~            that.which-INDF.3-QUOT      say-FIN
 ~            I.wonder.what.that.could.be said
 _txtxtxtxtxtx_ — “I wonder what that could be,” he said.
 
@@ -9078,10 +9078,10 @@ wherever.it.might.have.been  this left.side         hit.directly       heart
 He shot Wolf here on the left side of the body — his heart.
 
 # 076
-ʔanat̓uuʔas             kiikiisḥhi,     qaḥšiƛ.
-ʔanat̓uː-ʼas            DUP-kiš-ḥi·     qaḥ-šiƛ
-slightly-on.the.ground REP?-wiggle-DUR dead-MOM
-slightly.on.the.ground shook           die
+ʔanat̓uuʔas             kiikiisḥhi,    qaḥšiƛ.
+ʔanat̓uː-ʼas            DUP-kiš-ḥi·    qaḥ-šiƛ
+slightly-on.the.ground REP-wiggle-DUR dead-MOM
+slightly.on.the.ground shook          die
 He trembled slightly on the ground and died.
 
 # 077
@@ -9400,10 +9400,10 @@ if.only.I           if.only.I           ~             if.only.I           if.onl
 [Song] “If only I _ho ho ho_; if only I _ho ho ho_; if I had one on my shoulder, I would dance; if I had an arrow on my shoulder, I will dance,” he sang.
 
 # 122
-ƛaaʔuuʔi                waa, wik̓iituk              ƛaʔuu.
-ƛaʔuː-L-ʔi·             wa·  wik̓iːt-uk             ƛaʔuː
-another-GRAD?-IMP.2SG>3 say  none.present-DUR      another
-start.another           say  there.is.none.present another
+ƛaaʔuuʔi               waa, wik̓iituk              ƛaʔuu.
+ƛaʔuː-L-ʔi·            wa·  wik̓iːt-uk             ƛaʔuː
+another-GRAD-IMP.2SG>3 say  none.present-DUR      another
+start.another          say  there.is.none.present another
 “Do another song,” they said. “Don’t you have another one?”
 
 # 123
@@ -9763,7 +9763,7 @@ With his left foot he did this to the soil {with a gesture of squeezing the soil
 # 174
 nuučyuučiƛ.           ʔaʔiiwačiƛaq         nuučyuu.
 nuːčyuː-ʽi·či(ƛ)      DUP-ʼiːḥʷ-ʽači(ƛ)-aq nuːčyuː
-mountain.range-INC    INT-large-MOM-very   mountain.range
+mountain.range-INC    IT-large-MOM-very    mountain.range
 became.mountain.range it.got.huge          mountain.range
 [And] it became a mountain range — a huge mountain range.
 
@@ -10055,10 +10055,10 @@ be.running  get.back.on.the.same.route
 He was running on his way back on the same route.
 
 # 216
-čaanaaƛquuč                 waaʔič̓iƛ
-čaːni-ʼa·ƛ-quː-č            waʔič-ʼi(ƛ)
-for.a.while-FIN?-COND.3-INF sleeping-take
-would.take.a.moment         take.a.nap
+čaanaaƛquuč                waaʔič̓iƛ
+čaːni-ʼa·ƛ-quː-č           waʔič-ʼi(ƛ)
+for.a.while-FIN-COND.3-INF sleeping-take
+would.take.a.moment        take.a.nap
 He stopped every once in a while to take a nap.
 
 # 217
@@ -10285,7 +10285,7 @@ He sang, “You only have innards of limpets on the pole!”
 # 249
 waamitii           tušaakitʔi.
 wa·-mit-(y)iː      tušaːk-it-ʔi·
-say-PAST-INDF.3    dead?-PAST?-DEF
+say-PAST-INDF.3    dead?-PAST-DEF
 he.might.have.said corpse
 He might have said, “you SOB.”
 \n DWH: SOB = son of a bitch
@@ -10321,7 +10321,7 @@ He went down the rocks toward the water and there were many little crabs.
 # 254
 Woo, qaxḥšiƛwaʔeen,           waa.
 ~    qaḥ-<x>-ši(ƛ)-wa·ʔin-VOC waː
-~    dead-MINK-MOM-QUOT?-VOC  say
+~    dead-MINK-MOM-QUOT-VOC   say
 ~    died                     say
 “Well! You people thought I was dead, didn’t you!” he (Mink) said.
 
@@ -10347,10 +10347,10 @@ died.it.is.said   one.who.always.say.nasty.things
 “We thought you were dead!” said to him, the little crabs.
 
 # 258
-heey taačkʷaʔap̓ič              ḥiyiiḥi, waaʔaƛ.
-~    tač-kʷa-ʼap-ʼič           ḥiyiːḥi  wa·-ʼaƛ
-~    kill?-completely-CAUS?-?? these    say-FIN
-~    annihilate.you            these    said
+heey taačkʷaʔap̓ič             ḥiyiiḥi, waaʔaƛ.
+~    tač-kʷa-ʼap-ʼič          ḥiyiːḥi  wa·-ʼaƛ
+~    kill?-completely-CAUS-?? these    say-FIN
+~    annihilate.you           these    said
 “I’ll wipe all of these little ones!” he said.
 
 # 259
@@ -10573,7 +10573,7 @@ Son of Mink would fill the canoe with small purple sea urchins [which can be col
 # 290
 ʔaniya       ʔuuy̓ip̓at        ḥiix        ḥaay̓aaƛquu           ḥuuɬ  ʔax̣yuuʔaƛquu                nuusčii,   t̓uc̓up.
 ʔana-iya     ʔu-iːy̓ip-ʼat    ḥiːx        ḥaːy̓i-ʼa·ƛ-quː       ḥuːɬ  ʔax̣ʷ-yu·-ʼaƛ-quː            nuːsčiː    t̓uc̓up
-only-at.time it-obtain-SHIFT sea.urchins low.tid-FIN?-COND.3  there tide.recede-done-FIN-COND.3 sea.urchin sea.urchin
+only-at.time it-obtain-SHIFT sea.urchins low.tide-FIN-COND.3  there tide.recede-done-FIN-COND.3 sea.urchin sea.urchin
 only.time    be.gathered     sea.urchins when.the.tide.is.low there when.the.tide.is.lowest     sea.urchin sea.urchin
 The only time you can gather things from low tide, such as various kinds of sea urchins, is when the tide is low.
 
@@ -10608,7 +10608,7 @@ He ate and ate [sea urchins unde the water].
 # 295
 wičsiɬaʕaaš.
 wič-siɬa-ʕaːš
-inappropriate?-act.like-EVID.3?
+inappropriate?-act.like-EVID.3
 do.the.wrong
 Apparently (?) he did the wrong thing.
 
@@ -10982,7 +10982,7 @@ This is another thing we were taught. (This is another teaching.)
 # 022
 wik̓at.    wik̓at     kaapap̓at     c̓aawačiƛ̓at.
 wik-ʼat   wik-ʼat   kaːpap-ʼat   c̓awa·-čiƛ-ʼat
-not-SHIFT not-SHIFT prefer-SHIFT one-MOM?-SHIFT
+not-SHIFT not-SHIFT prefer-SHIFT one-MOM-SHIFT
 not       not       prefer       one
 Never ever show favoritism. (Never prefer one person.)
 
@@ -11150,7 +11150,7 @@ Qawiqaalth would be there on the rock day after day.
 # 046
 Reey. č̓uuyukʷiƛ.        hiiniiʔatu.
 ~     č̓u-(y)ukʷi(ƛ)     hin-ʔi·ʔatu
-~     move-INC?         there.MOM-get.to.be.under.water
+~     move-INC          there.MOM-get.to.be.under.water
 ~     started.migrating dive
 (The sea lions) started migrating under the water.
 
@@ -11379,10 +11379,10 @@ they.would.be.on.the.rocks          telling.stories
 They would be on the rocks, telling stories to each other.
 
 # 079
-čuu, č̓uuyukʷiƛ̓aqƛ̓atniš           waaʔaƛ.
-čuː  č̓u-(y)ukʷiƛ-ʼa·qƛ-ʼat-niš   waː-ʼaƛ
-now  move-INC?-FUT-SHIFT-IND.1PL say-FIN
-now  we.will.start.migrating     said
+čuu, č̓uuyukʷiƛ̓aqƛ̓atniš          waaʔaƛ.
+čuː  č̓u-(y)ukʷiƛ-ʼa·qƛ-ʼat-niš  waː-ʼaƛ
+now  move-INC-FUT-SHIFT-IND.1PL say-FIN
+now  we.will.start.migrating    said
 “Now, we will start migrating,” they said.
 
 # 080
@@ -11444,7 +11444,7 @@ even though they smelled him at the beginning.
 # 088
 Raa č̓uuyukʷiƛ,        sayaʔii       ḥuu.
 ~   č̓u-yukʷiƛ         saya-ʔiː      ḥuː
-~   move-INC?         far.off-reach over.there
+~   move-INC          far.off-reach over.there
 ~   started.migrating went.far      over.there
 Now, they are migrating far, far away.
 
@@ -11591,8 +11591,8 @@ He swam to [some] rocks and basked.
 # 109
 ḥan̓aḥtuʔaƛ̓i,                    ḥaa, yaqʔičʔitk               waaʔaƛ̓at.
 ḥan̓aḥ-tu(ƛ)-ʼaƛ-ʔi·             ḥaː  yaqʷ-ʔič-ʔi·tk           waː-ʼaƛ-ʼat
-unclothed-MOMCAUS-FIN-IMP.2SG>3 ART? which-clothed.in-REL.2SG say-FIN-SHIFT
-take.off.clothes                ART? what.you.are.wearing     they.said.to.him
+unclothed-MOMCAUS-FIN-IMP.2SG>3 ART  which-clothed.in-REL.2SG say-FIN-SHIFT
+take.off.clothes                ART  what.you.are.wearing     they.said.to.him
 “Take that off, what you are wearing,” they told him.
 
 # 110
@@ -12027,10 +12027,10 @@ haa, ʔuunawaʔiš        qaḥšiƛ.   haa, waa.
 “_Haa_” — that was all his father said and he died.
 
 # 171
-ḥaaḥuupač̓ak,                 wik̓at,    ʔuuʔuušiɬʔat                  kaapap̓at,
-ḥaːḥuːp-(y)a·-č̓akʷ           wik-ʼat   DUP-ʔuːš-(č)iɬ-ʼat            kaːpap-ʼat
-instructing-CONT-instruments not-SHIFT DISTR?-someone-doing.to-SHIFT prefer-SHIFT
-teachings                    not       do.to.someone                 show.special.favor.to.one
+ḥaaḥuupač̓ak,                 wik̓at,    ʔuuʔuušiɬʔat                 kaapap̓at,
+ḥaːḥuːp-(y)a·-č̓akʷ           wik-ʼat   DUP-ʔuːš-(č)iɬ-ʼat           kaːpap-ʼat
+instructing-CONT-instruments not-SHIFT DISTR-someone-doing.to-SHIFT prefer-SHIFT
+teachings                    not       do.to.someone                show.special.favor.to.one
 There is a teaching (saying) that you should not patronize a particular person.
 
 # 172
@@ -12194,10 +12194,10 @@ abbreviation: RavenFinger
 ID:           CL1
 ---
 # 001
-\trs čuu,     humwic̓aʔaqƛs              ʔuuqḥɬi       qʷisḥitiič            kumtkʷačiʔat             quʔušin kukʷinksi ʔan     c̓iic̓ikiikit                       naʔaaʔat.
-\m   čuː      humwic̓a-ʔaqƛ-s            ʔu-qḥɬi       qʷisḥ-it-(y)iː-č      kumt-kʷa-čiƛ-ʼat         quʔušin kukʷinksi ʔan     c̓iːk-iːkʷ-it                      naʔa·-ʼat
-\gl  now.then telling.myth-FUT-1SG      it-tell.about how-PAST-INDF.3-INF.3 curl-completely-MOM-PASS raven   finger    because intimate-one.who.always.does-PAST hear-SHIFT
-\wlt now.then I.will.tell.a.story.about tell.about    how.he.did            his.got.curled.up        raven   finger    because he.was.imitator                   it.was.heard
+\trs čuu,     humwic̓aʔaqƛs              ʔuuqḥɬi       qʷisḥitiič            kumtkʷačiʔat              quʔušin kukʷinksi ʔan     c̓iic̓ikiikit                       naʔaaʔat.
+\m   čuː      humwic̓a-ʔaqƛ-s            ʔu-qḥɬi       qʷisḥ-it-(y)iː-č      kumt-kʷa-čiƛ-ʼat          quʔušin kukʷinksi ʔan     c̓iːk-iːkʷ-it                      naʔa·-ʼat
+\gl  now.then telling.myth-FUT-1SG      it-tell.about how-PAST-INDF.3-INF.3 curl-completely-MOM-SHIFT raven   finger    because intimate-one.who.always.does-PAST hear-SHIFT
+\wlt now.then I.will.tell.a.story.about tell.about    how.he.did            his.got.curled.up         raven   finger    because he.was.imitator                   it.was.heard
 \tln Now then, I will tell you a story about how Raven got crooked fingers as a result of imitating what he heard.
 
 # 002
@@ -12369,10 +12369,10 @@ ate            ate            eating      salmon oil    using.as.sauce
 He started eating. He started eating salmon with oil.
 
 # 026
-niswačiƛ,      waʔičpiƛ.
-nisw-ačiƛ      waʔič-ʽpiƛ
-satisfied-INC? sleeping-in.house
-got.satisfied  fell.asleep
+niswačiƛ,     waʔičpiƛ.
+nisw-ačiƛ     waʔič-ʽpiƛ
+satisfied-INC sleeping-in.house
+got.satisfied fell.asleep
 He got full and went to sleep.
 
 # 027
@@ -12455,7 +12455,7 @@ now.then go.find.it         what.he.can.eat
 # 038
 wiiy̓umt      haʔumnak̓ap          ɬuucmaak.   wiwišʕaqƛ.
 wiːy̓a-umt    haʔum-na·k-ʼap      ɬuːcma-ʔa·k DUP-wišq-ʼaqƛ
-never-PAST?  food-having-MOMCAUS wife-POSS   DISTR-lazy-inside
+never-PAST   food-having-MOMCAUS wife-POSS   DISTR-lazy-inside
 it.was.never had.food.for        his.wife    lazy
 He never had food for his wife. He was lazy.
 
@@ -12683,10 +12683,10 @@ cooked
 He started to cook them.
 
 # 019
-siqačiƛuk,       č̓amaḥuup̓aƛ̓at               quʔušinm̓it.
-siq-ačiƛ-uk      č̓am-aḥuːp-ʼaƛ-ʼat          quʔušin-m̓i·t
-cooked-INC?-POSS bowl-in.front-FINITE-SHIFT raven-son.of
-his.got.cooked   set.bowls.in.front.of.him  Son.of.Raven
+siqačiƛuk,      č̓amaḥuup̓aƛ̓at               quʔušinm̓it.
+siq-ačiƛ-uk     č̓am-aḥuːp-ʼaƛ-ʼat          quʔušin-m̓i·t
+cooked-INC-POSS bowl-in.front-FINITE-SHIFT raven-son.of
+his.got.cooked  set.bowls.in.front.of.him  Son.of.Raven
 They got cooked, and he set them before Son of Raven.
 
 # 020
@@ -12711,10 +12711,10 @@ they.did.it.to.his.thing.again filled.up.his.thing                    it.took.a.
 They filled his dish again, and again he finished them in no time.
 
 # 023
-haahaaw̓apuʔaƛ̓um,                           puuʕaɬʔatuučiƛ,  c̓itkpiƛ              waʔičuƛ.
-DUPCVː-haw̓a-api-u(ƛ)-ʼaƛ-ʔum               puʕaɬʔatu-ʽi·čiƛ c̓itkʷ-ʽpiƛ           waʔič-uƛ
-DISTR?-eat-excessively-MOM-FINITE-as.usual get.sleepy-INC   roll.over-on.the.bed sleeping-MOM
-he.ate.too.much.as.usual                   getting.sleepy   lie.down.on.the.bed  slept
+haahaaw̓apuʔaƛ̓um,                          puuʕaɬʔatuučiƛ,  c̓itkpiƛ              waʔičuƛ.
+DUPCVː-haw̓a-api-u(ƛ)-ʼaƛ-ʔum              puʕaɬʔatu-ʽi·čiƛ c̓itkʷ-ʽpiƛ           waʔič-uƛ
+DISTR-eat-excessively-MOM-FINITE-as.usual get.sleepy-INC   roll.over-on.the.bed sleeping-MOM
+he.ate.too.much.as.usual                  getting.sleepy   lie.down.on.the.bed  slept
 He ate too much as usual. He got sleepy, lay down and went to sleep.
 
 # 024
@@ -12795,10 +12795,10 @@ departed.for        the.river also
 He headed for the river, too [just as Snipe did].
 
 # 035
-c̓iikaɬšiƛ̓asʔaƛ̓itaʔum                               waaɬc̓an̓aqšiƛ̓aɬ.
-c̓iːk-ʔaɬ-šiƛ-ʼa·s-ʼaƛ-ʔita-ʔum                     wa·ɬ-c̓an̓aq-šiƛ-ʔa·ɬ
-imitate-??-MOM-go.in.order.to-FINITE-FUT?-as.usual say-talk.about?-MOM-PL
-he.will.go.to.imitate.as.usual                     they.started.to.say
+c̓iikaɬšiƛ̓asʔaƛ̓itaʔum                              waaɬc̓an̓aqšiƛ̓aɬ.
+c̓iːk-ʔaɬ-šiƛ-ʼa·s-ʼaƛ-ʔita-ʔum                    wa·ɬ-c̓an̓aq-šiƛ-ʔa·ɬ
+imitate-??-MOM-go.in.order.to-FINITE-FUT-as.usual say-talk.about?-MOM-PL
+he.will.go.to.imitate.as.usual                    they.started.to.say
 He is going to imitate as usual they started saying.
 
 # 036
@@ -12809,10 +12809,10 @@ stepped.into.the.water   started.asking.for.it    bowl    his.little.wife   NAME
 He stepped into the water, started asking for a bowl to his wife Paashuk.
 
 # 037
-kakumtqmaɬapiʔic̓aƛ                              ʔuuʔumap̓iik                     čakupuk.
-DUPCV-kamatqʷ-maɬ-api-ʔic-ʼaƛ                   DUPCVː-ʔu-ma·p-ʼiːk             čakup-uk
-REP-running-move.about-up.in.the.air-DIM-FINITE DISTR?-he-listen.to-always.doin husband-POSS
-the.little.one.ran.around.in.the.air            she.always.listens.to.him       her.husband
+kakumtqmaɬapiʔic̓aƛ                              ʔuuʔumap̓iik                    čakupuk.
+DUPCV-kamatqʷ-maɬ-api-ʔic-ʼaƛ                   DUPCVː-ʔu-ma·p-ʼiːk            čakup-uk
+REP-running-move.about-up.in.the.air-DIM-FINITE DISTR-he-listen.to-always.doin husband-POSS
+the.little.one.ran.around.in.the.air            she.always.listens.to.him      her.husband
 She ran around, as she was always so obedient to her husband.
 
 # 038
@@ -12878,10 +12878,10 @@ ID:           CL5
 \tln Son of Deer heard that the Transformer was coming this way.
 
 # 002
-ha   wim̓aaqƛs         qʷistuupsap̓atquus,                 waaʔic̓aƛ.       ʔuun̓aḥiičiƛ̓aqƛ,            ʔun̓aaḥšiƛ      qʷisʔaaḥii             hitačinkšiƛ.
-ha   wim̓aːqƛ-s        qʷis-tu·p-sa·p-ʼat-quːs            wa·-ʔic-ʼaƛ     ʔu-n̓aḥi-ʽi·čiƛ-ʔaqƛ        ʔu-n̓a·ḥ-šiƛ    qʷis-ʼaːḥ-(y)iː        hita-čink-šiƛ
-INTJ incapable.of-1SG do.so-thing-MOMCAUS-SHIFT-COND.1SG say-DIM-FINITE  it-prepared-INC-FUT        it-seeking-MOM do.so-PURP.1SG?-INDF.3 LOC-fight.against-MOM
-INTJ he.cant          change.me.into.anything.else       little.one.said I.will.be.prepared.for.him seeking.for    what.he.would.do.to    fight.him
+ha   wim̓aaqƛs         qʷistuupsap̓atquus,                 waaʔic̓aƛ.       ʔuun̓aḥiičiƛ̓aqƛ,            ʔun̓aaḥšiƛ      qʷisʔaaḥii            hitačinkšiƛ.
+ha   wim̓aːqƛ-s        qʷis-tu·p-sa·p-ʼat-quːs            wa·-ʔic-ʼaƛ     ʔu-n̓aḥi-ʽi·čiƛ-ʔaqƛ        ʔu-n̓a·ḥ-šiƛ    qʷis-ʼaːḥ-(y)iː       hita-čink-šiƛ
+INTJ incapable.of-1SG do.so-thing-MOMCAUS-SHIFT-COND.1SG say-DIM-FINITE  it-prepared-INC-FUT        it-seeking-MOM do.so-PURP.1SG-INDF.3 LOC-fight.against-MOM
+INTJ he.cant          change.me.into.anything.else       little.one.said I.will.be.prepared.for.him seeking.for    what.he.would.do.to   fight.him
 “Ha! He can’t cahnge me into anything else. I will be prepared for himself — I will look for the way to fight him,” said the little one.
 
 # 003
@@ -13547,10 +13547,10 @@ told            that they.took.him.away      wolf       the.real.wolf    the.ani
 He (the chief) told his people that his son was taken by a pack of wolves, the real wolves, the real animals [not the ceremonial performers].
 
 # 053
-haptšiƛ    qʷayac̓iikʔi   hayimḥimtwaʔišʔaɬ               yaqii        quuʔas.
-hapt-ši(ƛ) qʷayac̓iːk-ʔi· hayim-ḥi·-imt-wa·ʔi·š-ʔa·ɬ      yaqʷ-(y)iː   quːʔas
-hide-MOM   wolf-DEF      not.knowing-DUR-PAST?-QUOT.3-PL which-INDF.3 person
-they.hid   the.wolves    they.didnt.know                 which.one    person
+haptšiƛ    qʷayac̓iikʔi   hayimḥimtwaʔišʔaɬ              yaqii        quuʔas.
+hapt-ši(ƛ) qʷayac̓iːk-ʔi· hayim-ḥi·-imt-wa·ʔi·š-ʔa·ɬ     yaqʷ-(y)iː   quːʔas
+hide-MOM   wolf-DEF      not.knowing-DUR-PAST-QUOT.3-PL which-INDF.3 person
+they.hid   the.wolves    they.didnt.know                which.one    person
 The wolves [taking human shape] hid [among the people], and they (the people) didn’t know which one was a [real] person.
 
 # 054
@@ -13654,7 +13654,7 @@ Then they went to Ououkinish Inlet and Checleset Bay.
 # 068
 c̓iiqaaʔaƛquuč            ʔaatḥšiƛ.
 c̓iːq-(y)a·-ʼaƛ-quː-č     ʔatḥ-ši(ƛ)
-sing-CONG-FIN-COND.3-INF night-GRAD
+sing-CONT-FIN-COND.3-INF night-GRAD
 used.to.sing.songs       becoming.night
 He used to sing his song at night.
 
@@ -13780,15 +13780,15 @@ Then the moon began to wax (the new moon cycle had begun): Full Moon, you could 
 # 087
 hey wik̓aƛ   wiinapuƛ     saayaa.
 ~   wik-ʼaƛ wiːnap-u(ƛ)  saya·-L
-~   not-FIN stopping-MOM far-GRAD?
+~   not-FIN stopping-MOM far-GRAD
 ~   didnt   stop         very.far.away
 They didn’t have to stop for long distances.
 
 # 088
-qiiʔaƛ.             waa hinasiʔaƛ                      muuqumɬ            hupaɬ.
-qiː-ʼaƛ             waː hin-as-i(ƛ)-ʼaƛ                muː-qumɬ           hupaɬ
-for.a.long.time-FIN and there.MOM-reaching.to-MOM?-FIN four-round.objects moon
-its.been.long       and reached                        four.months        moon
+qiiʔaƛ.             waa hinasiʔaƛ                     muuqumɬ            hupaɬ.
+qiː-ʼaƛ             waː hin-as-i(ƛ)-ʼaƛ               muː-qumɬ           hupaɬ
+for.a.long.time-FIN and there.MOM-reaching.to-MOM-FIN four-round.objects moon
+its.been.long       and reached                       four.months        moon
 The journey had been continuing for a long time. And it had been four months [since they had departed].
 
 # 089
@@ -13834,10 +13834,10 @@ when.they.hunt                          they.had  the.wolves    swift  fast  run
 When the wolves hunted, they sent the ones that ran fastest.
 
 # 095
-k̓uuč̓iiḥʔic̓aƛquučʔaɬ                               qaḥsaap, waʔičup.
-k̓uː-č-ʼiːḥ-ʔic-ʼaƛ-quː-č-ʔa·ɬ                     muwač    qaḥ-saːp  waʔič-up
-short.distance-??-persuing-DIM?-FIN-COND.3-INF-PL deer     dead-CAUS sleeping-MOMCAUS
-they.would.get.up.to.it.in.no.time                deer     kill      put.him.into.sleep
+k̓uuč̓iiḥʔic̓aƛquučʔaɬ                              qaḥsaap, waʔičup.
+k̓uː-č-ʼiːḥ-ʔic-ʼaƛ-quː-č-ʔa·ɬ                    muwač    qaḥ-saːp  waʔič-up
+short.distance-??-persuing-DIM-FIN-COND.3-INF-PL deer     dead-CAUS sleeping-MOMCAUS
+they.would.get.up.to.it.in.no.time               deer     kill      put.him.into.sleep
 It didn’t take them long to catch a deer and kill it, or ‘put it to sleep’.
 
 # 096
@@ -13848,10 +13848,10 @@ not kill      say
 Don’t say “kill”.
 
 # 097
-wiiy̓aat      qaḥsaap      waaʔat,    saštup      qaḥsaap̓aƛ̓atquu.
-wiːy̓a-ʼat    qaḥ-sa·p     waː-ʼat    sa-štu·p    qaḥ-sa·p-ʼaƛ-ʼat-quː
-never-?SHIFT dead-MOMCAUS say-SHIFT  crawl-thing dead-MOMCAUS-FIN-SHIFT-COND.3
-never        kill         it.is.said animal      when.you.kill
+wiiy̓aat     qaḥsaap      waaʔat,    saštup      qaḥsaap̓aƛ̓atquu.
+wiːy̓a-ʼat   qaḥ-sa·p     waː-ʼat    sa-štu·p    qaḥ-sa·p-ʼaƛ-ʼat-quː
+never-SHIFT dead-MOMCAUS say-SHIFT  crawl-thing dead-MOMCAUS-FIN-SHIFT-COND.3
+never       kill         it.is.said animal      when.you.kill
 Never say “kill” when you kill animals.
 
 # 098
@@ -13862,10 +13862,10 @@ so   also    mammals never       kill         it.is.said
 It is the same with mammals. Never say “kill”.
 
 # 099
-ʔuuʕiičiʔi.       ʔuuʕiičiʔapikqs           wawaa.
-ʔuːq-ʼi·či-ʔi·    ʔuːq-ʼi·či-ʼap-ik-qs      wawaː
-nice-INC?-IMP.2SG nice-INC?-CAUS-??-SUB.1SG say
-you.become.tame   I.will.make.it.tame       say
+ʔuuʕiičiʔi.      ʔuuʕiičiʔapikqs          wawaa.
+ʔuːq-ʼi·či-ʔi·   ʔuːq-ʼi·či-ʼap-ik-qs     wawaː
+nice-INC-IMP.2SG nice-INC-CAUS-??-SUB.1SG say
+you.become.tame  I.will.make.it.tame      say
 Say “You become tame!” or “I will make you tame.”
 
 # 100
@@ -13885,15 +13885,15 @@ Wolves would say that lisping.
 # 102
 wik qʷaa qʷaaqin      čamiḥta  niiw̓a ciiqciiqa    ʔuʕiičiʔatikqs.
 wik qʷaː qʷaː-qin     čamiḥta  niːw̓a DUP#-ciq-a·  ʔuːq-ʼi·či-ʼap-ik-qs
-not thus thus-REL.1PL properly we    IT-speak-REP nice-INC?-CAUS-??-SUB.1SG
+not thus thus-REL.1PL properly we    IT-speak-REP nice-INC-CAUS-??-SUB.1SG
 not thus like.us      properly we    speaking     I.will.make.it.tame
 They are unlike us who speak properly as “_ʔuʕiičiʔatikqs_”.
 
 # 103
-ʔuʕiičiʔatikqs            waa waanaa  niiw̓a.
-ʔuːq-ʼi·či-ʼap-ik-qs      waː wa·-na· niːw̓a
-nice-INC?-CAUS-??-SUB.1SG say say-1PL we
-I.will.make.it.tame       say we.say  we
+ʔuʕiičiʔatikqs           waa waanaa  niiw̓a.
+ʔuːq-ʼi·či-ʼap-ik-qs     waː wa·-na· niːw̓a
+nice-INC-CAUS-??-SUB.1SG say say-1PL we
+I.will.make.it.tame      say we.say  we
 We will say, “_ʔuʕiičiʔatikqs_.”
 
 # 104

@@ -85,7 +85,7 @@ Son of Wren saw that he really wanted to get even.
 # 013
 t'aat'aapatshitl.
 DUP.CV:-t'apat-shitl
-DISTR?-think-MOM
+DISTR-think-MOM
 having.many.ideas
 He started to think (Son of Crane).
 

@@ -1516,7 +1516,7 @@
         {
           "transcription": "",
           "analysis": "wiːy̓a-ʼat",
-          "gloss": "never-SHIFT?",
+          "gloss": "never-SHIFT",
           "literal": "never",
           "morphemes": [
             {
@@ -1525,7 +1525,7 @@
             },
             {
               "transcription": "ʼat",
-              "gloss": "SHIFT?"
+              "gloss": "SHIFT"
             }
           ]
         },
@@ -1780,7 +1780,7 @@
         {
           "transcription": "",
           "analysis": "ḥaw̓iɬ-aq",
-          "gloss": "chief-BIG",
+          "gloss": "chief-big",
           "literal": "head.chief",
           "morphemes": [
             {
@@ -1789,7 +1789,7 @@
             },
             {
               "transcription": "aq",
-              "gloss": "BIG"
+              "gloss": "big"
             }
           ]
         }
@@ -2374,7 +2374,7 @@
         {
           "transcription": "",
           "analysis": "ḥan̓aḥ-tuƛ",
-          "gloss": "naked-MOM?",
+          "gloss": "naked-MOM",
           "literal": "naked",
           "morphemes": [
             {
@@ -2383,7 +2383,7 @@
             },
             {
               "transcription": "tuƛ",
-              "gloss": "MOM?"
+              "gloss": "MOM"
             }
           ]
         }
@@ -2434,7 +2434,7 @@
         {
           "transcription": "",
           "analysis": "ḥan̓aḥ-tuƛ",
-          "gloss": "naked-MOM?",
+          "gloss": "naked-MOM",
           "literal": "naked",
           "morphemes": [
             {
@@ -2443,7 +2443,7 @@
             },
             {
               "transcription": "tuƛ",
-              "gloss": "MOM?"
+              "gloss": "MOM"
             }
           ]
         }
@@ -5118,7 +5118,7 @@
         {
           "transcription": "",
           "analysis": "qʷi-ʼi·c-ckʷi·-ʔi·tk",
-          "gloss": "what-eat-remains.of-REL.2",
+          "gloss": "what-eat-remains.of-REL.2SG",
           "literal": "whatever.you.ate",
           "morphemes": [
             {
@@ -5135,7 +5135,7 @@
             },
             {
               "transcription": "ʔi·tk",
-              "gloss": "REL.2"
+              "gloss": "REL.2SG"
             }
           ]
         },

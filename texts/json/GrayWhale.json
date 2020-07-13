@@ -660,7 +660,7 @@
         {
           "transcription": "",
           "analysis": "č̓iḥ-su·qƛ-(y)iː-č",
-          "gloss": "spirit-inside.the.body-INDF-INF",
+          "gloss": "spirit-inside.the.body-INDF.3-INF",
           "literal": "having.spirit.inside.the.body",
           "morphemes": [
             {
@@ -673,7 +673,7 @@
             },
             {
               "transcription": "(y)iː",
-              "gloss": "INDF"
+              "gloss": "INDF.3"
             },
             {
               "transcription": "č",
@@ -788,7 +788,7 @@
         {
           "transcription": "",
           "analysis": "qʷi-čis-it-uːsi-(y)iː",
-          "gloss": "that.which-??-on.the.body-REL.DUB.3-INDF",
+          "gloss": "that.which-??-on.the.body-REL.DUB.3-INDF.3",
           "literal": "whatever.might.be.on.the.body",
           "morphemes": [
             {
@@ -809,7 +809,7 @@
             },
             {
               "transcription": "(y)iː",
-              "gloss": "INDF"
+              "gloss": "INDF.3"
             }
           ]
         },

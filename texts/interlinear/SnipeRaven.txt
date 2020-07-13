@@ -132,10 +132,10 @@ cooked
 He started to cook them.
 
 # 019
-siqačiƛuk,       č̓amaḥuup̓aƛ̓at               quʔušinm̓it.
-siq-ačiƛ-uk      č̓am-aḥuːp-ʼaƛ-ʼat          quʔušin-m̓i·t
-cooked-INC?-POSS bowl-in.front-FINITE-SHIFT raven-son.of
-his.got.cooked   set.bowls.in.front.of.him  Son.of.Raven
+siqačiƛuk,      č̓amaḥuup̓aƛ̓at               quʔušinm̓it.
+siq-ačiƛ-uk     č̓am-aḥuːp-ʼaƛ-ʼat          quʔušin-m̓i·t
+cooked-INC-POSS bowl-in.front-FINITE-SHIFT raven-son.of
+his.got.cooked  set.bowls.in.front.of.him  Son.of.Raven
 They got cooked, and he set them before Son of Raven.
 
 # 020
@@ -160,10 +160,10 @@ they.did.it.to.his.thing.again filled.up.his.thing                    it.took.a.
 They filled his dish again, and again he finished them in no time.
 
 # 023
-haahaaw̓apuʔaƛ̓um,                           puuʕaɬʔatuučiƛ,  c̓itkpiƛ              waʔičuƛ.
-DUPCVː-haw̓a-api-u(ƛ)-ʼaƛ-ʔum               puʕaɬʔatu-ʽi·čiƛ c̓itkʷ-ʽpiƛ           waʔič-uƛ
-DISTR?-eat-excessively-MOM-FINITE-as.usual get.sleepy-INC   roll.over-on.the.bed sleeping-MOM
-he.ate.too.much.as.usual                   getting.sleepy   lie.down.on.the.bed  slept
+haahaaw̓apuʔaƛ̓um,                          puuʕaɬʔatuučiƛ,  c̓itkpiƛ              waʔičuƛ.
+DUPCVː-haw̓a-api-u(ƛ)-ʼaƛ-ʔum              puʕaɬʔatu-ʽi·čiƛ c̓itkʷ-ʽpiƛ           waʔič-uƛ
+DISTR-eat-excessively-MOM-FINITE-as.usual get.sleepy-INC   roll.over-on.the.bed sleeping-MOM
+he.ate.too.much.as.usual                  getting.sleepy   lie.down.on.the.bed  slept
 He ate too much as usual. He got sleepy, lay down and went to sleep.
 
 # 024
@@ -244,10 +244,10 @@ departed.for        the.river also
 He headed for the river, too [just as Snipe did].
 
 # 035
-c̓iikaɬšiƛ̓asʔaƛ̓itaʔum                               waaɬc̓an̓aqšiƛ̓aɬ.
-c̓iːk-ʔaɬ-šiƛ-ʼa·s-ʼaƛ-ʔita-ʔum                     wa·ɬ-c̓an̓aq-šiƛ-ʔa·ɬ
-imitate-??-MOM-go.in.order.to-FINITE-FUT?-as.usual say-talk.about?-MOM-PL
-he.will.go.to.imitate.as.usual                     they.started.to.say
+c̓iikaɬšiƛ̓asʔaƛ̓itaʔum                              waaɬc̓an̓aqšiƛ̓aɬ.
+c̓iːk-ʔaɬ-šiƛ-ʼa·s-ʼaƛ-ʔita-ʔum                    wa·ɬ-c̓an̓aq-šiƛ-ʔa·ɬ
+imitate-??-MOM-go.in.order.to-FINITE-FUT-as.usual say-talk.about?-MOM-PL
+he.will.go.to.imitate.as.usual                    they.started.to.say
 He is going to imitate as usual they started saying.
 
 # 036
@@ -258,10 +258,10 @@ stepped.into.the.water   started.asking.for.it    bowl    his.little.wife   NAME
 He stepped into the water, started asking for a bowl to his wife Paashuk.
 
 # 037
-kakumtqmaɬapiʔic̓aƛ                              ʔuuʔumap̓iik                     čakupuk.
-DUPCV-kamatqʷ-maɬ-api-ʔic-ʼaƛ                   DUPCVː-ʔu-ma·p-ʼiːk             čakup-uk
-REP-running-move.about-up.in.the.air-DIM-FINITE DISTR?-he-listen.to-always.doin husband-POSS
-the.little.one.ran.around.in.the.air            she.always.listens.to.him       her.husband
+kakumtqmaɬapiʔic̓aƛ                              ʔuuʔumap̓iik                    čakupuk.
+DUPCV-kamatqʷ-maɬ-api-ʔic-ʼaƛ                   DUPCVː-ʔu-ma·p-ʼiːk            čakup-uk
+REP-running-move.about-up.in.the.air-DIM-FINITE DISTR-he-listen.to-always.doin husband-POSS
+the.little.one.ran.around.in.the.air            she.always.listens.to.him      her.husband
 She ran around, as she was always so obedient to her husband.
 
 # 038

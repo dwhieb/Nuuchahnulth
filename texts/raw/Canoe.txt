@@ -805,7 +805,7 @@ Then, with the canoe turned over on the ground, you adze it [all over] again.
 # 131
 hiis\hiisach'ak ?uupi yuushink qwaa?itq  ?aq?ishtiik, qay'aaxwas,
 DUP#:-his-(y)a-ch'ak ?u:pi yushu-ink qwa:-?i*tq ?aqi-?isht-(y)i:k qay'a*xwas
-IT-chop-REF-instruments handier hasten-?? thus-REL.3 what-??-INDF.2SG D.adze
+IT-chop-REP-instruments handier hasten-?? thus-REL.3 what-??-INDF.2SG D.adze
 axe handier quicker than what.you.might.call D.adze
 An axe is handier and faster than, you know, a D-adze.
 
@@ -867,9 +867,9 @@ I was good at both left- and right-handed adzing.
 
 # 140
 haa qwaa?ish?aal yaquusi chamihhta quu?as.
-ha: qwa:-?i*sh-?a:l yaqw-u:si chamihhta qu:?as
-DISC thus-IND.3-always who-REL.DUB.3 proper person
-DISC it.is.so who.he.might proper person
+~ qwa:-?i*sh-?a:l yaqw-u:si chamihhta qu:?as
+~ thus-IND.3-always who-REL.DUB.3 proper person
+~ it.is.so who.he.might proper person
 That is how an experienced man is.
 
 # 141
@@ -1029,7 +1029,7 @@ it.is.slanted.on.both.sides say both.sides
 # 165
 tl'aatlaay'ixwaputls.
 DUP:-tl'ay'ixw-L-aputl-s
-??-fast-GRAD-MOM?-1SG
+??-fast-GRAD-MOM-1SG
 Im.getting.too.fast
 I'm going a little too fast [in telling you this story].
 \n The narrator's comment on himself.
@@ -1233,7 +1233,7 @@ Take your time. Don't rush.
 # 200
 heey ch'aahhch'aahhshitl.
 ~ DUP#-ch'ahh-[L]-shi(tl)
-~ IT-adze-GRAD?-MOM
+~ IT-adze-GRAD-MOM
 ~ start.adzing
 Well, [you] start adzing.
 
@@ -1247,7 +1247,7 @@ When you have attached them [the two end pieces], it is finished.
 # 202
 tl'aatl'aay'ixwaputls qwaa?ap'a?itq.
 DUP:-tl'ay'ixw-aputl-s qwa:-'ap-'at-?i*tq
-??-fast-MOM?-1SG thus-CAUS-SHIFT-REL.3
+??-fast-MOM-1SG thus-CAUS-SHIFT-REL.3
 I.am.going.too.fast it.is.done.so
 I am going too fast [in telling the story].
 \n The speaker's comment on himself.

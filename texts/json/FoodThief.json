@@ -1099,12 +1099,12 @@
         {
           "transcription": "",
           "analysis": "DUP.#-hatkʷ-misa-ʼaƛ",
-          "gloss": "REP?-roll-on.top-FINITE",
+          "gloss": "REP-roll-on.top-FINITE",
           "literal": "started.to.roll.around",
           "morphemes": [
             {
               "transcription": "DUP.#",
-              "gloss": "REP?"
+              "gloss": "REP"
             },
             {
               "transcription": "hatkʷ",
@@ -1347,12 +1347,12 @@
         {
           "transcription": "",
           "analysis": "DUP.#-hatkʷ-misa-ʼaƛ",
-          "gloss": "REP?-roll-on.top-FINITE",
+          "gloss": "REP-roll-on.top-FINITE",
           "literal": "started.to.roll.around",
           "morphemes": [
             {
               "transcription": "DUP.#",
-              "gloss": "REP?"
+              "gloss": "REP"
             },
             {
               "transcription": "hatkʷ",
@@ -1491,7 +1491,7 @@
         {
           "transcription": "",
           "analysis": "wik-tum",
-          "gloss": "not-PAST?",
+          "gloss": "not-PAST",
           "literal": "did.not",
           "morphemes": [
             {
@@ -1500,7 +1500,7 @@
             },
             {
               "transcription": "tum",
-              "gloss": "PAST?"
+              "gloss": "PAST"
             }
           ]
         },
@@ -3423,7 +3423,7 @@
         {
           "transcription": "",
           "analysis": "qʷi-ca-či(ƛ)-uːsin",
-          "gloss": "what-go.to-MOM-REL.DUB.1PL?",
+          "gloss": "what-go.to-MOM-REL.DUB.1PL",
           "literal": "no.matter.where.we.go",
           "morphemes": [
             {
@@ -3440,7 +3440,7 @@
             },
             {
               "transcription": "uːsin",
-              "gloss": "REL.DUB.1PL?"
+              "gloss": "REL.DUB.1PL"
             }
           ]
         }
@@ -3583,12 +3583,12 @@
         {
           "transcription": "",
           "analysis": "DUP.CVː-t̓apat-ši(ƛ)",
-          "gloss": "DISTR?-think-MOM",
+          "gloss": "DISTR-think-MOM",
           "literal": "many.people.thinking",
           "morphemes": [
             {
               "transcription": "DUP.CVː",
-              "gloss": "DISTR?"
+              "gloss": "DISTR"
             },
             {
               "transcription": "t̓apat",

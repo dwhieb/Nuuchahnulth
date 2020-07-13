@@ -118,7 +118,7 @@ This is the way the dogs are. They owned dogs.
 # 017
 ?uushc'aluk?ish quu?as yackshi?at. wiiy'aat. numaak.
 ?u:shc'al-uk-?i*sh qu:?as yack-shi(tl)-'at wi:y'a-'at numa:k
-forbidden?-DUR-IND.3 human kick-MOM-SHIFT never-SHIFT? forbidden
+forbidden?-DUR-IND.3 human kick-MOM-SHIFT never-SHIFT forbidden
 it.is.forbidden human kick.them never forbidden
 It is forbidden for people to kick them.
 
@@ -153,7 +153,7 @@ He was mean and used to hurt him [his dog].
 # 022
 muwach'athh hilhh, quu?as hhaw'ilaq.
 muwach-'athh hil-(q)hh qu:?as hhaw'il-aq
-NAME-residing there-SIM person chief-BIG
+NAME-residing there-SIM person chief-big
 Mowachaht there.by person head.chief
 This happened in Nootka, to the head chief.
 
@@ -237,14 +237,14 @@ doing look the.way.I.am
 # 034
 hhan'ahhtutl.
 hhan'ahh-tutl
-naked-MOM?
+naked-MOM
 naked
 He [the young man] took off his clothing.
 
 # 035
 m'uch'ich?in?ak?i ?_iniitl hhan'ahhtutl.
 m'uch'ich-?in-?a*k-?i* ?_ini:tl hhan'ahh-tutl
-clothed-costume.for-POSS-DEF dog naked-MOM?
+clothed-costume.for-POSS-DEF dog naked-MOM
 the.attire.of dog naked
 He took off his dog attire.
 
@@ -573,7 +573,7 @@ You feed them too.
 # 082
 qwi?iickwi?itk ?uyiisuuk.
 qwi-'i*c-ckwi*-?i*tk ?u-(y)i*-su:k
-what-eat-remains.of-REL.2 it-give-2SG
+what-eat-remains.of-REL.2SG it-give-2SG
 whatever.you.ate you.give
 Whatever you ate, you give.
 

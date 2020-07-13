@@ -95,10 +95,10 @@ on.the.side.of my.father           NAME   was.called
 He was on my father’s side, by the name of _yuuwii_.
 
 # 014
-k̓uučʔis             n̓aacsa yaqukʷitiis            naniiqsu,    yuuwii
-k̓uː-č-ʔis           n̓aːcsa yaq-ukʷ-it-(y)iːs      nani·qsu     yuːwiː
-short.time-DIM?-DIM see    who-POSS-PAST-INDF.1SG grandparent  NAME
-for.a.short.while   see    who.was.my             grandparent, _yuuwii_.
+k̓uučʔis            n̓aacsa yaqukʷitiis            naniiqsu,    yuuwii
+k̓uː-č-ʔis          n̓aːcsa yaq-ukʷ-it-(y)iːs      nani·qsu     yuːwiː
+short.time-DIM-DIM see    who-POSS-PAST-INDF.1SG grandparent  NAME
+for.a.short.while  see    who.was.my             grandparent, _yuuwii_.
 I briefly saw my grandparent, _yuuwii_.
 
 # 015
@@ -176,10 +176,10 @@ It was snowing.
 Month of February, 1912—that’s when I was born.
 
 # 026
-waa haa  hiisaʔac̓aƛits    ʕupnit
-wa· haː  hiːsaʔac̓aƛ-it-s  ʕupnit
-and DISC grow.up-PAST-1SG Opnit
-and ahh  I.grew.up        Opnit
+waa haa hiisaʔac̓aƛits    ʕupnit
+wa· ~   hiːsaʔac̓aƛ-it-s  ʕupnit
+and ~   grow.up-PAST-1SG Opnit
+and ~   I.grew.up        Opnit
 And I grew up at Opnit.
 
 # 027
@@ -204,10 +204,10 @@ I.first      went   NAME     ~
 I first went to _ʕaʔuknak_ in 1919.
 
 # 030
-ʔaʔimyii          kuw̓iiƛ       [residential school]
-ʔaʔim-(y)iː       kuḥʷ-ʼi·ƛ    ~
-first.time-INDF.3 opening-MOM? ~
-it.was.first      be.open      ~
+ʔaʔimyii          kuw̓iiƛ      [residential school]
+ʔaʔim-(y)iː       kuḥʷ-ʼi·ƛ   ~
+first.time-INDF.3 opening-MOM ~
+it.was.first      be.open     ~
 This was when they first opened residential school.
 
 # 031
@@ -251,9 +251,9 @@ After some time I went back (to school).
 
 # 037
 ʔaḥʔaaƛ    ʔaƛpuqʔičḥs           school hiɬ,  [7 years] ,           ʔaƛpuqʔičh.
-ʔaḥʔaː-ʼaƛ ʔaƛpu-qʔičḥ-s         school hiɬ   [~]       ʔaƛpu-qʔičḥ
-then-FIN   seven-year-1SG        ENG    there ENG       seven-year
-then       I.did.for.seven.years school there [~]       seven.years
+ʔaḥʔaː-ʼaƛ ʔaƛpu-qʔičḥ-s         school hiɬ   ~         ʔaƛpu-qʔičḥ
+then-FIN   seven-year-1SG        school there ~         seven-year
+then       I.did.for.seven.years school there ~         seven.years
 Then I attended school for seven years.
 
 # 038
@@ -341,10 +341,10 @@ for.ten.days  ~          three.times.per   one       moon
 I finished (came out of) school in 1927.
 
 # 050
-ʔacyuu              ?? ʔacyuu,             fishing yaaqʷiɬʔitq                    mamaɬn̓i         waa, kʷacinu  hiistiɬ,                ʔacyuu
-ʔac-yu·             ~  ʔac-yu·             ~       yaqʷ-(č)iɬ-ʔi·tq               ma-maɬ-n̓i·      wa·  kʷaciːnu hist-(č)iɬ              ʔac-yu·
-go.out.fishing-done ~  go.out.fishing-done ~       which-with.reference.to-REFL.3 dwell-move-come say  NAME     there-with.reference.to go.out.fishing-done
-be.out.hunting      ~  be.out.hunting      ~       with.reference.to.which        white.man       say  NAME     at                      be.out.hunting
+ʔacyuu              ?? ʔacyuu,             fishing yaaqʷiɬʔitq                   mamaɬn̓i         waa, kʷacinu  hiistiɬ,                ʔacyuu
+ʔac-yu·             ~  ʔac-yu·             ~       yaqʷ-(č)iɬ-ʔi·tq              ma-maɬ-n̓i·      wa·  kʷaciːnu hist-(č)iɬ              ʔac-yu·
+go.out.fishing-done ~  go.out.fishing-done ~       which-with.reference.to-REL.3 dwell-move-come say  NAME     there-with.reference.to go.out.fishing-done
+be.out.hunting      ~  be.out.hunting      ~       with.reference.to.which       white.man       say  NAME     at                      be.out.hunting
 I was out fishing at Quatsiino
 
 # 051
@@ -406,7 +406,7 @@ They very often fished for red snappers and _ʔiʔišpaaɬ_.
 # 059
 haʔum̓iš     ʔuupi      ƛ̓iḥapiiḥ    qʷaaʔiitq   ʔiʔišpaaɬ.
 haʔum-ʔi·š  ʔu-(ʔ)aːpi ƛ̓iḥapiːḥ    qʷaː-ʔi·tq  ʔiʔišpaːɬ
-food-IND.3  it-?PASS   red.snapper such-REL.3  (fish.name)
+food-IND.3  it-??      red.snapper such-REL.3  (fish.name)
 it.is.tasty better     red.snapper compared.to (fish.name)
 Red snappers are tastier than _ʔiʔišpaaɬ_.
 
@@ -589,7 +589,7 @@ I know how much we had in 1930.
 # 086
 hayimḥis            qʷanaakitiiʔaɬ               ʔaʔiič̓imʔakitqs
 hayim-ḥi·-s         qʷa-na·k-it-(y)iː-ʔa·ɬ       DUP-ʔiːč̓im-ʔa·k̓-it-qs
-not.knowing-DUR-1SG ??-having-PAST-INDF-3PL      DISTR-parent-POSS-PAST-SUB.1SG
+not.knowing-DUR-1SG ??-having-PAST-INDF.3-3PL    DISTR-parent-POSS-PAST-SUB.1SG
 I.don't.know        how.much.they.might.have.had my.parents
 I don’t know how much my late parents had.
 

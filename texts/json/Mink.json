@@ -2110,7 +2110,7 @@
         {
           "transcription": "",
           "analysis": "qʷiq-(y)iː-wa·ʔin",
-          "gloss": "that.which-INDF.3-QUOT?",
+          "gloss": "that.which-INDF.3-QUOT",
           "literal": "I.wonder.what.that.could.be",
           "morphemes": [
             {
@@ -2123,7 +2123,7 @@
             },
             {
               "transcription": "wa·ʔin",
-              "gloss": "QUOT?"
+              "gloss": "QUOT"
             }
           ]
         },
@@ -4844,12 +4844,12 @@
         {
           "transcription": "",
           "analysis": "DUP-kiš-ḥi·",
-          "gloss": "REP?-wiggle-DUR",
+          "gloss": "REP-wiggle-DUR",
           "literal": "shook",
           "morphemes": [
             {
               "transcription": "DUP",
-              "gloss": "REP?"
+              "gloss": "REP"
             },
             {
               "transcription": "kiš",
@@ -8246,7 +8246,7 @@
         {
           "transcription": "",
           "analysis": "ƛaʔuː-L-ʔi·",
-          "gloss": "another-GRAD?-IMP.2SG>3",
+          "gloss": "another-GRAD-IMP.2SG>3",
           "literal": "start.another",
           "morphemes": [
             {
@@ -8255,7 +8255,7 @@
             },
             {
               "transcription": "L",
-              "gloss": "GRAD?"
+              "gloss": "GRAD"
             },
             {
               "transcription": "ʔi·",
@@ -11341,12 +11341,12 @@
         {
           "transcription": "",
           "analysis": "DUP-ʼiːḥʷ-ʽači(ƛ)-aq",
-          "gloss": "INT-large-MOM-very",
+          "gloss": "IT-large-MOM-very",
           "literal": "it.got.huge",
           "morphemes": [
             {
               "transcription": "DUP",
-              "gloss": "INT"
+              "gloss": "IT"
             },
             {
               "transcription": "ʼiːḥʷ",
@@ -14069,7 +14069,7 @@
         {
           "transcription": "",
           "analysis": "čaːni-ʼa·ƛ-quː-č",
-          "gloss": "for.a.while-FIN?-COND.3-INF",
+          "gloss": "for.a.while-FIN-COND.3-INF",
           "literal": "would.take.a.moment",
           "morphemes": [
             {
@@ -14078,7 +14078,7 @@
             },
             {
               "transcription": "ʼa·ƛ",
-              "gloss": "FIN?"
+              "gloss": "FIN"
             },
             {
               "transcription": "quː",
@@ -16056,7 +16056,7 @@
         {
           "transcription": "",
           "analysis": "tušaːk-it-ʔi·",
-          "gloss": "dead?-PAST?-DEF",
+          "gloss": "dead?-PAST-DEF",
           "morphemes": [
             {
               "transcription": "tušaːk",
@@ -16064,7 +16064,7 @@
             },
             {
               "transcription": "it",
-              "gloss": "PAST?"
+              "gloss": "PAST"
             },
             {
               "transcription": "ʔi·",
@@ -16310,7 +16310,7 @@
         {
           "transcription": "",
           "analysis": "qaḥ-<x>-ši(ƛ)-wa·ʔin-VOC",
-          "gloss": "dead-MINK-MOM-QUOT?-VOC",
+          "gloss": "dead-MINK-MOM-QUOT-VOC",
           "literal": "died",
           "morphemes": [
             {
@@ -16327,7 +16327,7 @@
             },
             {
               "transcription": "wa·ʔin",
-              "gloss": "QUOT?"
+              "gloss": "QUOT"
             },
             {
               "transcription": "VOC",
@@ -16556,7 +16556,7 @@
         {
           "transcription": "",
           "analysis": "tač-kʷa-ʼap-ʼič",
-          "gloss": "kill?-completely-CAUS?-??",
+          "gloss": "kill?-completely-CAUS-??",
           "literal": "annihilate.you",
           "morphemes": [
             {
@@ -16569,7 +16569,7 @@
             },
             {
               "transcription": "ʼap",
-              "gloss": "CAUS?"
+              "gloss": "CAUS"
             },
             {
               "transcription": "ʼič",
@@ -19056,16 +19056,16 @@
         {
           "transcription": "",
           "analysis": "ḥaːy̓i-ʼa·ƛ-quː",
-          "gloss": "low.tid-FIN?-COND.3",
+          "gloss": "low.tide-FIN-COND.3",
           "literal": "when.the.tide.is.low",
           "morphemes": [
             {
               "transcription": "ḥaːy̓i",
-              "gloss": "low.tid"
+              "gloss": "low.tide"
             },
             {
               "transcription": "ʼa·ƛ",
-              "gloss": "FIN?"
+              "gloss": "FIN"
             },
             {
               "transcription": "quː",
@@ -19436,7 +19436,7 @@
         {
           "transcription": "",
           "analysis": "wič-siɬa-ʕaːš",
-          "gloss": "inappropriate?-act.like-EVID.3?",
+          "gloss": "inappropriate?-act.like-EVID.3",
           "literal": "do.the.wrong",
           "morphemes": [
             {
@@ -19449,7 +19449,7 @@
             },
             {
               "transcription": "ʕaːš",
-              "gloss": "EVID.3?"
+              "gloss": "EVID.3"
             }
           ]
         }

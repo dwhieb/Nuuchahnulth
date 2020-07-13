@@ -215,7 +215,7 @@
         {
           "transcription": "",
           "analysis": "qʷiː-ḥʷʼaɬ-ʼaːḥ-(y)iː-ʔa·ɬ",
-          "gloss": "that.which-using-PURP.1SG?-INDF.3-PL",
+          "gloss": "that.which-using-PURP.1SG-INDF.3-PL",
           "literal": "what.they.would.use.for",
           "morphemes": [
             {
@@ -228,7 +228,7 @@
             },
             {
               "transcription": "ʼaːḥ",
-              "gloss": "PURP.1SG?"
+              "gloss": "PURP.1SG"
             },
             {
               "transcription": "(y)iː",
@@ -1763,12 +1763,12 @@
         {
           "transcription": "",
           "analysis": "DUPCVː-maƛ-ʼaːs-um",
-          "gloss": "DISTR?-tie-at.the.wrist-thing",
+          "gloss": "DISTR-tie-at.the.wrist-thing",
           "literal": "wrist.band",
           "morphemes": [
             {
               "transcription": "DUPCVː",
-              "gloss": "DISTR?"
+              "gloss": "DISTR"
             },
             {
               "transcription": "maƛ",
@@ -4603,7 +4603,7 @@
         {
           "transcription": "",
           "analysis": "ʔinkʷ-ʼičiƛ-uk",
-          "gloss": "fire-INC?-POSS",
+          "gloss": "fire-INC-POSS",
           "literal": "got.their.fire",
           "morphemes": [
             {
@@ -4612,7 +4612,7 @@
             },
             {
               "transcription": "ʼičiƛ",
-              "gloss": "INC?"
+              "gloss": "INC"
             },
             {
               "transcription": "uk",

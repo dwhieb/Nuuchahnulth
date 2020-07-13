@@ -368,10 +368,10 @@ told            that they.took.him.away      wolf       the.real.wolf    the.ani
 He (the chief) told his people that his son was taken by a pack of wolves, the real wolves, the real animals [not the ceremonial performers].
 
 # 053
-haptšiƛ    qʷayac̓iikʔi   hayimḥimtwaʔišʔaɬ               yaqii        quuʔas.
-hapt-ši(ƛ) qʷayac̓iːk-ʔi· hayim-ḥi·-imt-wa·ʔi·š-ʔa·ɬ      yaqʷ-(y)iː   quːʔas
-hide-MOM   wolf-DEF      not.knowing-DUR-PAST?-QUOT.3-PL which-INDF.3 person
-they.hid   the.wolves    they.didnt.know                 which.one    person
+haptšiƛ    qʷayac̓iikʔi   hayimḥimtwaʔišʔaɬ              yaqii        quuʔas.
+hapt-ši(ƛ) qʷayac̓iːk-ʔi· hayim-ḥi·-imt-wa·ʔi·š-ʔa·ɬ     yaqʷ-(y)iː   quːʔas
+hide-MOM   wolf-DEF      not.knowing-DUR-PAST-QUOT.3-PL which-INDF.3 person
+they.hid   the.wolves    they.didnt.know                which.one    person
 The wolves [taking human shape] hid [among the people], and they (the people) didn’t know which one was a [real] person.
 
 # 054
@@ -475,7 +475,7 @@ Then they went to Ououkinish Inlet and Checleset Bay.
 # 068
 c̓iiqaaʔaƛquuč            ʔaatḥšiƛ.
 c̓iːq-(y)a·-ʼaƛ-quː-č     ʔatḥ-ši(ƛ)
-sing-CONG-FIN-COND.3-INF night-GRAD
+sing-CONT-FIN-COND.3-INF night-GRAD
 used.to.sing.songs       becoming.night
 He used to sing his song at night.
 
@@ -601,15 +601,15 @@ Then the moon began to wax (the new moon cycle had begun): Full Moon, you could 
 # 087
 hey wik̓aƛ   wiinapuƛ     saayaa.
 ~   wik-ʼaƛ wiːnap-u(ƛ)  saya·-L
-~   not-FIN stopping-MOM far-GRAD?
+~   not-FIN stopping-MOM far-GRAD
 ~   didnt   stop         very.far.away
 They didn’t have to stop for long distances.
 
 # 088
-qiiʔaƛ.             waa hinasiʔaƛ                      muuqumɬ            hupaɬ.
-qiː-ʼaƛ             waː hin-as-i(ƛ)-ʼaƛ                muː-qumɬ           hupaɬ
-for.a.long.time-FIN and there.MOM-reaching.to-MOM?-FIN four-round.objects moon
-its.been.long       and reached                        four.months        moon
+qiiʔaƛ.             waa hinasiʔaƛ                     muuqumɬ            hupaɬ.
+qiː-ʼaƛ             waː hin-as-i(ƛ)-ʼaƛ               muː-qumɬ           hupaɬ
+for.a.long.time-FIN and there.MOM-reaching.to-MOM-FIN four-round.objects moon
+its.been.long       and reached                       four.months        moon
 The journey had been continuing for a long time. And it had been four months [since they had departed].
 
 # 089
@@ -655,10 +655,10 @@ when.they.hunt                          they.had  the.wolves    swift  fast  run
 When the wolves hunted, they sent the ones that ran fastest.
 
 # 095
-k̓uuč̓iiḥʔic̓aƛquučʔaɬ                               qaḥsaap, waʔičup.
-k̓uː-č-ʼiːḥ-ʔic-ʼaƛ-quː-č-ʔa·ɬ                     muwač    qaḥ-saːp  waʔič-up
-short.distance-??-persuing-DIM?-FIN-COND.3-INF-PL deer     dead-CAUS sleeping-MOMCAUS
-they.would.get.up.to.it.in.no.time                deer     kill      put.him.into.sleep
+k̓uuč̓iiḥʔic̓aƛquučʔaɬ                              qaḥsaap, waʔičup.
+k̓uː-č-ʼiːḥ-ʔic-ʼaƛ-quː-č-ʔa·ɬ                    muwač    qaḥ-saːp  waʔič-up
+short.distance-??-persuing-DIM-FIN-COND.3-INF-PL deer     dead-CAUS sleeping-MOMCAUS
+they.would.get.up.to.it.in.no.time               deer     kill      put.him.into.sleep
 It didn’t take them long to catch a deer and kill it, or ‘put it to sleep’.
 
 # 096
@@ -669,10 +669,10 @@ not kill      say
 Don’t say “kill”.
 
 # 097
-wiiy̓aat      qaḥsaap      waaʔat,    saštup      qaḥsaap̓aƛ̓atquu.
-wiːy̓a-ʼat    qaḥ-sa·p     waː-ʼat    sa-štu·p    qaḥ-sa·p-ʼaƛ-ʼat-quː
-never-?SHIFT dead-MOMCAUS say-SHIFT  crawl-thing dead-MOMCAUS-FIN-SHIFT-COND.3
-never        kill         it.is.said animal      when.you.kill
+wiiy̓aat     qaḥsaap      waaʔat,    saštup      qaḥsaap̓aƛ̓atquu.
+wiːy̓a-ʼat   qaḥ-sa·p     waː-ʼat    sa-štu·p    qaḥ-sa·p-ʼaƛ-ʼat-quː
+never-SHIFT dead-MOMCAUS say-SHIFT  crawl-thing dead-MOMCAUS-FIN-SHIFT-COND.3
+never       kill         it.is.said animal      when.you.kill
 Never say “kill” when you kill animals.
 
 # 098
@@ -683,10 +683,10 @@ so   also    mammals never       kill         it.is.said
 It is the same with mammals. Never say “kill”.
 
 # 099
-ʔuuʕiičiʔi.       ʔuuʕiičiʔapikqs           wawaa.
-ʔuːq-ʼi·či-ʔi·    ʔuːq-ʼi·či-ʼap-ik-qs      wawaː
-nice-INC?-IMP.2SG nice-INC?-CAUS-??-SUB.1SG say
-you.become.tame   I.will.make.it.tame       say
+ʔuuʕiičiʔi.      ʔuuʕiičiʔapikqs          wawaa.
+ʔuːq-ʼi·či-ʔi·   ʔuːq-ʼi·či-ʼap-ik-qs     wawaː
+nice-INC-IMP.2SG nice-INC-CAUS-??-SUB.1SG say
+you.become.tame  I.will.make.it.tame      say
 Say “You become tame!” or “I will make you tame.”
 
 # 100
@@ -706,15 +706,15 @@ Wolves would say that lisping.
 # 102
 wik qʷaa qʷaaqin      čamiḥta  niiw̓a ciiqciiqa    ʔuʕiičiʔatikqs.
 wik qʷaː qʷaː-qin     čamiḥta  niːw̓a DUP#-ciq-a·  ʔuːq-ʼi·či-ʼap-ik-qs
-not thus thus-REL.1PL properly we    IT-speak-REP nice-INC?-CAUS-??-SUB.1SG
+not thus thus-REL.1PL properly we    IT-speak-REP nice-INC-CAUS-??-SUB.1SG
 not thus like.us      properly we    speaking     I.will.make.it.tame
 They are unlike us who speak properly as “_ʔuʕiičiʔatikqs_”.
 
 # 103
-ʔuʕiičiʔatikqs            waa waanaa  niiw̓a.
-ʔuːq-ʼi·či-ʼap-ik-qs      waː wa·-na· niːw̓a
-nice-INC?-CAUS-??-SUB.1SG say say-1PL we
-I.will.make.it.tame       say we.say  we
+ʔuʕiičiʔatikqs           waa waanaa  niiw̓a.
+ʔuːq-ʼi·či-ʼap-ik-qs     waː wa·-na· niːw̓a
+nice-INC-CAUS-??-SUB.1SG say say-1PL we
+I.will.make.it.tame      say we.say  we
 We will say, “_ʔuʕiičiʔatikqs_.”
 
 # 104

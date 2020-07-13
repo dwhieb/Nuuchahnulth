@@ -127,7 +127,7 @@ Then it (the wolf) covered it with sand.
 # 018
 hatkhatkmisatl qwayac'iik?i, wiimatsapa qwi?ii?is?ap?itq kuukuhhw'isak?i.
 DUP.#-hatkw-misa-'atl qwayac'i:k-?i* wi:mat-sa*p-a qwi-?i:-`is-'ap-?i*tq ku:hkuhhw'isa-?a*k-?i*
-REP?-roll-on.top-FINITE wolf-DEF not.showing-MOMCAUS-trying.to that.which-reach-on.the.beach-MOMCAUS-REL.3 hair.seal-POSS-DEF
+REP-roll-on.top-FINITE wolf-DEF not.showing-MOMCAUS-trying.to that.which-reach-on.the.beach-MOMCAUS-REL.3 hair.seal-POSS-DEF
 started.to.roll.around the.wolf trying.to.cover.up where.he.buried.it his.seal
 The wolf started to roll around trying to cover up where he buried his hair seal.
 
@@ -141,7 +141,7 @@ It (the wolf) would step far back there making sure that it did not show.
 # 020
 hu?aas?atlquuchtla hatkhatkmisatl.
 hu?a-a*s-'atl-qu:-ch-tla* DUP.#-hatkw-misa-'atl
-again-??-FINITE-COND-INF.3-again REP?-roll-on.top-FINITE
+again-??-FINITE-COND-INF.3-again REP-roll-on.top-FINITE
 would.do.it.repeatedly started.to.roll.around
 It would repeatedly start rolling around again.
 
@@ -162,7 +162,7 @@ It howled as it went inviting the other wolves.
 # 023
 wiktum naaw'ahhi chakup?i.
 wik-tum na:w'ahhi chakup-?i*
-not-PAST? waiting main-DEF
+not-PAST waiting main-DEF
 did.not waiting the.man
 The man didn't wait.
 
@@ -358,7 +358,7 @@ now.then what.should.we.do said the.husband
 # 051
 wik?aqtl'atsa lachi?at ?_aciis qwicachitluusin.
 wik-?aqtl-'at-sa lach-i(tl)-'at ?_aci:s qwi-ca-chi(tl)-u:sin
-not-FUT-SHIFT-1SG let.go-MOM-SHIFT regardless what-go.to-MOM-REL.DUB.1PL?
+not-FUT-SHIFT-1SG let.go-MOM-SHIFT regardless what-go.to-MOM-REL.DUB.1PL
 they.will.not.let.me.do they.let.me.go regardless no.matter.where.we.go
 They wouldn't leave me alone no matter where we go.
 
@@ -379,7 +379,7 @@ Someone went for the advisors.
 # 054
 hishumyipitl'al t'aat'aapatshitl.
 hish-uml-`ipitl-?a*l DUP.CV:-t'apat-shi(tl)
-all-in.a.group-in.the.house-PL DISTR?-think-MOM
+all-in.a.group-in.the.house-PL DISTR-think-MOM
 they.gathered.in.the.house many.people.thinking
 They gathered around and started thinking.
 

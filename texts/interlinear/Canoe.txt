@@ -805,7 +805,7 @@ Then, with the canoe turned over on the ground, you adze it [all over] again.
 # 131
 hiišiisač̓ak             ʔuupi   yuušink   qʷaaʔitq   ʔaqʔištiik,         qay̓aaxʷas,
 DUP#ː-his-(y)a-č̓ak      ʔuːpi   yušu-ink  qʷaː-ʔi·tq ʔaqi-ʔišt-(y)iːk    qay̓a·xʷas
-IT-chop-REF-instruments handier hasten-?? thus-REL.3 what-??-INDF.2SG    D.adze
+IT-chop-REP-instruments handier hasten-?? thus-REL.3 what-??-INDF.2SG    D.adze
 axe                     handier quicker   than       what.you.might.call D.adze
 An axe is handier and faster than, you know, a D-adze.
 
@@ -866,10 +866,10 @@ I.was.good.at      always.in.both.hands              ~                adzing
 I was good at both left- and right-handed adzing.
 
 # 140
-haa  qʷaaʔišʔaaɬ       yaquusi       čamiḥta quuʔas.
-haː  qʷaː-ʔi·š-ʔaːɬ    yaqʷ-uːsi     čamiḥta quːʔas
-DISC thus-IND.3-always who-REL.DUB.3 proper  person
-DISC it.is.so          who.he.might  proper  person
+haa qʷaaʔišʔaaɬ       yaquusi       čamiḥta quuʔas.
+~   qʷaː-ʔi·š-ʔaːɬ    yaqʷ-uːsi     čamiḥta quːʔas
+~   thus-IND.3-always who-REL.DUB.3 proper  person
+~   it.is.so          who.he.might  proper  person
 That is how an experienced man is.
 
 # 141
@@ -1029,7 +1029,7 @@ it.is.slanted.on.both.sides   say both.sides
 # 165
 ƛ̓aaƛaay̓ixʷapuƛs.
 DUPː-ƛ̓ay̓ixʷ-L-apuƛ-s
-??-fast-GRAD-MOM?-1SG
+??-fast-GRAD-MOM-1SG
 Im.getting.too.fast
 I’m going a little too fast [in telling you this story].
 \n The narrator’s comment on himself.
@@ -1233,7 +1233,7 @@ Take your time. Don’t rush.
 # 200
 heey č̓aaḥč̓aaḥšiƛ.
 ~    DUP#-č̓aḥ-[L]-ši(ƛ)
-~    IT-adze-GRAD?-MOM
+~    IT-adze-GRAD-MOM
 ~    start.adzing
 Well, [you] start adzing.
 
@@ -1247,7 +1247,7 @@ When you have attached them [the two end pieces], it is finished.
 # 202
 ƛ̓aaƛ̓aay̓ixʷapuƛs     qʷaaʔap̓aʔitq.
 DUPː-ƛ̓ay̓ixʷ-apuƛ-s  qʷaː-ʼap-ʼat-ʔi·tq
-??-fast-MOM?-1SG    thus-CAUS-SHIFT-REL.3
+??-fast-MOM-1SG     thus-CAUS-SHIFT-REL.3
 I.am.going.too.fast it.is.done.so
 I am going too fast [in telling the story].
 \n The speaker’s comment on himself.

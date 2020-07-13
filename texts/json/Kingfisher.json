@@ -4318,12 +4318,12 @@
         {
           "transcription": "",
           "analysis": "hitaːqƛis",
-          "gloss": "NAME(?)",
+          "gloss": "NAME",
           "literal": "NAME",
           "morphemes": [
             {
               "transcription": "hitaːqƛis",
-              "gloss": "NAME(?)"
+              "gloss": "NAME"
             }
           ]
         }
@@ -7874,7 +7874,7 @@
         {
           "transcription": "",
           "analysis": "wik-san̓ap-w̓it̓as",
-          "gloss": "not-MOMCAUS?-about.to",
+          "gloss": "not-MOMCAUS-about.to",
           "literal": "there.going.to.be.nobody.left",
           "morphemes": [
             {
@@ -7883,7 +7883,7 @@
             },
             {
               "transcription": "san̓ap",
-              "gloss": "MOMCAUS?"
+              "gloss": "MOMCAUS"
             },
             {
               "transcription": "w̓it̓as",
@@ -12274,7 +12274,7 @@
         {
           "transcription": "",
           "analysis": "ʔinkʷ-ʼiy̓ap",
-          "gloss": "fire-MOMCAUS?",
+          "gloss": "fire-MOMCAUS",
           "literal": "set.fire.on.the.house",
           "morphemes": [
             {
@@ -12283,7 +12283,7 @@
             },
             {
               "transcription": "ʼiy̓ap",
-              "gloss": "MOMCAUS?"
+              "gloss": "MOMCAUS"
             }
           ]
         }
@@ -12298,7 +12298,7 @@
         {
           "transcription": "",
           "analysis": "ʔinkʷ-ʼičiƛ",
-          "gloss": "fire-MOM?",
+          "gloss": "fire-MOM",
           "literal": "burned.down.the.house",
           "morphemes": [
             {
@@ -12307,7 +12307,7 @@
             },
             {
               "transcription": "ʼičiƛ",
-              "gloss": "MOM?"
+              "gloss": "MOM"
             }
           ]
         }
@@ -14338,7 +14338,7 @@
         {
           "transcription": "",
           "analysis": "ʔu-ʼi·c-ʼap-ʼat-č̓a·ʕaš",
-          "gloss": "it-consume-CAUS-SHIFT-INFER.3",
+          "gloss": "it-consume-CAUS-SHIFT-INF.3",
           "literal": "he.was.probably.served",
           "morphemes": [
             {
@@ -14359,7 +14359,7 @@
             },
             {
               "transcription": "č̓a·ʕaš",
-              "gloss": "INFER.3"
+              "gloss": "INF.3"
             }
           ]
         },
@@ -14492,7 +14492,7 @@
         {
           "transcription": "",
           "analysis": "qaḥ-sap-ʼat-saːš",
-          "gloss": "dead-GRADCAUS-SHIFT-INFER.1SG?",
+          "gloss": "dead-GRADCAUS-SHIFT-INF.1SG",
           "literal": "apparently.they.were.going.to.kill.me",
           "morphemes": [
             {
@@ -14509,7 +14509,7 @@
             },
             {
               "transcription": "saːš",
-              "gloss": "INFER.1SG?"
+              "gloss": "INF.1SG"
             }
           ]
         },
@@ -16626,7 +16626,7 @@
         {
           "transcription": "",
           "analysis": "ɬuːcma-umt-quː",
-          "gloss": "woman-PAST?-COND.3",
+          "gloss": "woman-PAST-COND.3",
           "literal": "one.who.was.a.woman",
           "morphemes": [
             {
@@ -16635,7 +16635,7 @@
             },
             {
               "transcription": "umt",
-              "gloss": "PAST?"
+              "gloss": "PAST"
             },
             {
               "transcription": "quː",

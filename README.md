@@ -92,7 +92,7 @@ Certain suffixes in Nuuchahnulth change the sounds that precede them:
 
 ## Abbreviations
 
-The following abbreviations are used in the texts. Note that the abbreviation `DISC` is my own, and was not present in the original texts.
+The following abbreviations are used in the texts.
 
 Abbreviation | Meaning
 -------------|-------------------------------------
@@ -101,7 +101,6 @@ COND         | conditional mood
 CONT         | continuative aspect
 DEF          | definite
 DIM          | diminutive
-DISC         | discourse marker
 DISTR        | distributive
 DUB          | dubitative mood
 DUP          | CV reduplication

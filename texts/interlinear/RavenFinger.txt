@@ -6,10 +6,10 @@ abbreviation: RavenFinger
 ID:           CL1
 ---
 # 001
-\trs čuu,     humwic̓aʔaqƛs              ʔuuqḥɬi       qʷisḥitiič            kumtkʷačiʔat             quʔušin kukʷinksi ʔan     c̓iic̓ikiikit                       naʔaaʔat.
-\m   čuː      humwic̓a-ʔaqƛ-s            ʔu-qḥɬi       qʷisḥ-it-(y)iː-č      kumt-kʷa-čiƛ-ʼat         quʔušin kukʷinksi ʔan     c̓iːk-iːkʷ-it                      naʔa·-ʼat
-\gl  now.then telling.myth-FUT-1SG      it-tell.about how-PAST-INDF.3-INF.3 curl-completely-MOM-PASS raven   finger    because intimate-one.who.always.does-PAST hear-SHIFT
-\wlt now.then I.will.tell.a.story.about tell.about    how.he.did            his.got.curled.up        raven   finger    because he.was.imitator                   it.was.heard
+\trs čuu,     humwic̓aʔaqƛs              ʔuuqḥɬi       qʷisḥitiič            kumtkʷačiʔat              quʔušin kukʷinksi ʔan     c̓iic̓ikiikit                       naʔaaʔat.
+\m   čuː      humwic̓a-ʔaqƛ-s            ʔu-qḥɬi       qʷisḥ-it-(y)iː-č      kumt-kʷa-čiƛ-ʼat          quʔušin kukʷinksi ʔan     c̓iːk-iːkʷ-it                      naʔa·-ʼat
+\gl  now.then telling.myth-FUT-1SG      it-tell.about how-PAST-INDF.3-INF.3 curl-completely-MOM-SHIFT raven   finger    because intimate-one.who.always.does-PAST hear-SHIFT
+\wlt now.then I.will.tell.a.story.about tell.about    how.he.did            his.got.curled.up         raven   finger    because he.was.imitator                   it.was.heard
 \tln Now then, I will tell you a story about how Raven got crooked fingers as a result of imitating what he heard.
 
 # 002
@@ -181,10 +181,10 @@ ate            ate            eating      salmon oil    using.as.sauce
 He started eating. He started eating salmon with oil.
 
 # 026
-niswačiƛ,      waʔičpiƛ.
-nisw-ačiƛ      waʔič-ʽpiƛ
-satisfied-INC? sleeping-in.house
-got.satisfied  fell.asleep
+niswačiƛ,     waʔičpiƛ.
+nisw-ačiƛ     waʔič-ʽpiƛ
+satisfied-INC sleeping-in.house
+got.satisfied fell.asleep
 He got full and went to sleep.
 
 # 027
@@ -267,7 +267,7 @@ now.then go.find.it         what.he.can.eat
 # 038
 wiiy̓umt      haʔumnak̓ap          ɬuucmaak.   wiwišʕaqƛ.
 wiːy̓a-umt    haʔum-na·k-ʼap      ɬuːcma-ʔa·k DUP-wišq-ʼaqƛ
-never-PAST?  food-having-MOMCAUS wife-POSS   DISTR-lazy-inside
+never-PAST   food-having-MOMCAUS wife-POSS   DISTR-lazy-inside
 it.was.never had.food.for        his.wife    lazy
 He never had food for his wife. He was lazy.
 

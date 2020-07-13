@@ -125,10 +125,10 @@ covered.it.with.sand
 Then it (the wolf) covered it with sand.
 
 # 018
-hatkhatkmisaƛ           qʷayac̓iikʔi,  wiimatsapa                    qʷiʔiiʔisʔapʔitq                            kuukuḥʷʼisakʔi.
-DUP.#-hatkʷ-misa-ʼaƛ    qʷayac̓iːk-ʔi· wiːmat-sa·p-a                 qʷi-ʔiː-ʽis-ʼap-ʔi·tq                       kuːhkuḥʷʼisa-ʔa·k-ʔi·
-REP?-roll-on.top-FINITE wolf-DEF      not.showing-MOMCAUS-trying.to that.which-reach-on.the.beach-MOMCAUS-REL.3 hair.seal-POSS-DEF
-started.to.roll.around  the.wolf      trying.to.cover.up            where.he.buried.it                          his.seal
+hatkhatkmisaƛ          qʷayac̓iikʔi,  wiimatsapa                    qʷiʔiiʔisʔapʔitq                            kuukuḥʷʼisakʔi.
+DUP.#-hatkʷ-misa-ʼaƛ   qʷayac̓iːk-ʔi· wiːmat-sa·p-a                 qʷi-ʔiː-ʽis-ʼap-ʔi·tq                       kuːhkuḥʷʼisa-ʔa·k-ʔi·
+REP-roll-on.top-FINITE wolf-DEF      not.showing-MOMCAUS-trying.to that.which-reach-on.the.beach-MOMCAUS-REL.3 hair.seal-POSS-DEF
+started.to.roll.around the.wolf      trying.to.cover.up            where.he.buried.it                          his.seal
 The wolf started to roll around trying to cover up where he buried his hair seal.
 
 # 019
@@ -141,7 +141,7 @@ It (the wolf) would step far back there making sure that it did not show.
 # 020
 huʔaasʔaƛquučƛa                  hatkhatkmisaƛ.
 huʔa-a·s-ʼaƛ-quː-č-ƛa·           DUP.#-hatkʷ-misa-ʼaƛ
-again-??-FINITE-COND-INF.3-again REP?-roll-on.top-FINITE
+again-??-FINITE-COND-INF.3-again REP-roll-on.top-FINITE
 would.do.it.repeatedly           started.to.roll.around
 It would repeatedly start rolling around again.
 
@@ -160,10 +160,10 @@ howled.while     invite fellow.people
 It howled as it went inviting the other wolves.
 
 # 023
-wiktum    naaw̓aḥi čakupʔi.
-wik-tum   naːw̓aḥi čakup-ʔi·
-not-PAST? waiting main-DEF
-did.not   waiting the.man
+wiktum   naaw̓aḥi čakupʔi.
+wik-tum  naːw̓aḥi čakup-ʔi·
+not-PAST waiting main-DEF
+did.not  waiting the.man
 The man didn’t wait.
 
 # 024
@@ -358,7 +358,7 @@ now.then what.should.we.do        said       the.husband
 # 051
 wikʔaqƛ̓atsa             ɬačiʔat          ʕaciis     qʷicačiƛuusin.
 wik-ʔaqƛ-ʼat-sa         ɬač-i(ƛ)-ʼat     ʕaciːs     qʷi-ca-či(ƛ)-uːsin
-not-FUT-SHIFT-1SG       let.go-MOM-SHIFT regardless what-go.to-MOM-REL.DUB.1PL?
+not-FUT-SHIFT-1SG       let.go-MOM-SHIFT regardless what-go.to-MOM-REL.DUB.1PL
 they.will.not.let.me.do they.let.me.go   regardless no.matter.where.we.go
 They wouldn’t leave me alone no matter where we go.
 
@@ -379,7 +379,7 @@ Someone went for the advisors.
 # 054
 hišumyipiƛ̓aɬ                   t̓aat̓aapatšiƛ.
 hiš-umɬ-ʽipiƛ-ʔa·ɬ             DUP.CVː-t̓apat-ši(ƛ)
-all-in.a.group-in.the.house-PL DISTR?-think-MOM
+all-in.a.group-in.the.house-PL DISTR-think-MOM
 they.gathered.in.the.house     many.people.thinking
 They gathered around and started thinking.
 

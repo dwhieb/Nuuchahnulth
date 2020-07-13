@@ -1411,7 +1411,7 @@
         {
           "transcription": "",
           "analysis": "siq-ačiƛ-uk",
-          "gloss": "cooked-INC?-POSS",
+          "gloss": "cooked-INC-POSS",
           "literal": "his.got.cooked",
           "morphemes": [
             {
@@ -1420,7 +1420,7 @@
             },
             {
               "transcription": "ačiƛ",
-              "gloss": "INC?"
+              "gloss": "INC"
             },
             {
               "transcription": "uk",
@@ -1739,12 +1739,12 @@
         {
           "transcription": "",
           "analysis": "DUPCVː-haw̓a-api-u(ƛ)-ʼaƛ-ʔum",
-          "gloss": "DISTR?-eat-excessively-MOM-FINITE-as.usual",
+          "gloss": "DISTR-eat-excessively-MOM-FINITE-as.usual",
           "literal": "he.ate.too.much.as.usual",
           "morphemes": [
             {
               "transcription": "DUPCVː",
-              "gloss": "DISTR?"
+              "gloss": "DISTR"
             },
             {
               "transcription": "haw̓a",
@@ -2615,7 +2615,7 @@
         {
           "transcription": "",
           "analysis": "c̓iːk-ʔaɬ-šiƛ-ʼa·s-ʼaƛ-ʔita-ʔum",
-          "gloss": "imitate-??-MOM-go.in.order.to-FINITE-FUT?-as.usual",
+          "gloss": "imitate-??-MOM-go.in.order.to-FINITE-FUT-as.usual",
           "literal": "he.will.go.to.imitate.as.usual",
           "morphemes": [
             {
@@ -2640,7 +2640,7 @@
             },
             {
               "transcription": "ʔita",
-              "gloss": "FUT?"
+              "gloss": "FUT"
             },
             {
               "transcription": "ʔum",
@@ -2815,12 +2815,12 @@
         {
           "transcription": "",
           "analysis": "DUPCVː-ʔu-ma·p-ʼiːk",
-          "gloss": "DISTR?-he-listen.to-always.doin",
+          "gloss": "DISTR-he-listen.to-always.doin",
           "literal": "she.always.listens.to.him",
           "morphemes": [
             {
               "transcription": "DUPCVː",
-              "gloss": "DISTR?"
+              "gloss": "DISTR"
             },
             {
               "transcription": "ʔu",

@@ -20,10 +20,10 @@ they.had.none                 fire  human  long.ago at.that.time
 Long ago humans didn’t have fire.
 
 # 003
-wik̓iit       qʷiiḥʷʼaɬʔaaḥiiʔaɬ                   siqiiɬ.
-wik̓iːt       qʷiː-ḥʷʼaɬ-ʼaːḥ-(y)iː-ʔa·ɬ           siqa-iːɬ
-none.present that.which-using-PURP.1SG?-INDF.3-PL cooked-make
-none.present what.they.would.use.for              cook
+wik̓iit       qʷiiḥʷʼaɬʔaaḥiiʔaɬ                  siqiiɬ.
+wik̓iːt       qʷiː-ḥʷʼaɬ-ʼaːḥ-(y)iː-ʔa·ɬ          siqa-iːɬ
+none.present that.which-using-PURP.1SG-INDF.3-PL cooked-make
+none.present what.they.would.use.for             cook
 There was no fire to cook their meals.
 
 # 004
@@ -139,10 +139,10 @@ OK  get.it.for.me              what.I.can.wear.for                   dancing
 “OK, get some dancing gear for me.
 
 # 020
-ʔusumʔaqƛsiš           w̓anus, c̓iisiicum,                 maamaƛ̓aasum,                  mamaƛp̓ičḥtum.
-ʔu-sum-ʔaqƛ-si·š       w̓anus  c̓is-iːc-um                 DUPCVː-maƛ-ʼaːs-um            DUPCV-maƛ-p̓ič-ḥta-um
-it-needing-FUT-IND.1SG skirt  rope-around.the.head-thing DISTR?-tie-at.the.wrist-thing DISTR-tie-on.the.ankle-on.the.foot-thing
-I.will.need            skirt  head.band                  wrist.band                    knee.band
+ʔusumʔaqƛsiš           w̓anus, c̓iisiicum,                 maamaƛ̓aasum,                 mamaƛp̓ičḥtum.
+ʔu-sum-ʔaqƛ-si·š       w̓anus  c̓is-iːc-um                 DUPCVː-maƛ-ʼaːs-um           DUPCV-maƛ-p̓ič-ḥta-um
+it-needing-FUT-IND.1SG skirt  rope-around.the.head-thing DISTR-tie-at.the.wrist-thing DISTR-tie-on.the.ankle-on.the.foot-thing
+I.will.need            skirt  head.band                  wrist.band                   knee.band
 I will need skirt, head band, wrist bands, and knee bands.”
 
 # 021
@@ -372,7 +372,7 @@ They didn’t realize that Deer got the fire.
 # 053
 ʔink̓ʷičiƛuk    ḥaa   ƛ̓ušukʔi     ḥumiis.
 ʔinkʷ-ʼičiƛ-uk ḥaː   ƛ̓uš-uk-ʔi·  ḥumiːs
-fire-INC?-POSS there dry-DUR-DEF red.cedar
+fire-INC-POSS  there dry-DUR-DEF red.cedar
 got.their.fire there dry         red.cedar
 The dry cedar twigs caught fire.
 
