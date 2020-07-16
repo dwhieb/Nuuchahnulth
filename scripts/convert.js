@@ -33,16 +33,40 @@ async function convertTexts() {
       parser,
     };
 
-    const text = await readFile(`texts/interlinear/${filename}`, `utf8`);
-    const json = convert(text, options);
+    const scription = await readFile(`texts/interlinear/${filename}`, `utf8`);
+    const text      = convert(scription, options);
+
+    text.utterances.forEach(utterance => {
+
+      if (!(utterance.words && utterance.transcript)) return;
+
+      const tokens = tokenize(utterance.transcript);
+
+      if (tokens.length === utterance.words.length) {
+
+        tokens.forEach((token, i) => {
+          // eslint-disable-next-line no-param-reassign
+          utterance.words[i].transcription = token;
+        });
+
+      }
+
+    });
 
     filename = filename.replace(`.txt`, `.json`);
-    await writeJSON(`texts/json/${filename}`, json, { spaces: 2 });
+    await writeJSON(`texts/json/${filename}`, text, { spaces: 2 });
 
     progressBar.tick();
 
   }
 
+}
+
+function tokenize(transcript) {
+  return transcript
+  .trim()
+  .replace(/[.,!?'"‘’“”():-]+/gu, ``)
+  .split(/\s+/gu);
 }
 
 convertTexts()
