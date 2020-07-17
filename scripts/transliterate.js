@@ -44,7 +44,9 @@ function convertText(text) {
     let [, transcript] = lines;
 
     if (transcript.includes(`"`)) {
-      transcript = transcript.replace(`"`, `“`).replace(`"`, `”`);
+      transcript = transcript
+      .replace(`"`, `“`)
+      .replace(`"`, `”`);
     }
 
     if (i !== 0 && transcript.startsWith(`\\trs`)) {
