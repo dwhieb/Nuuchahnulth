@@ -34,7 +34,7 @@ For other uses of this data, please contact [Toshihide Nakayama](mailto:nakayama
 
 ## Reporting Typos & Issues
 
-To report a typo or other problem, please email [Daniel W. Hieber](mailto:dwhieb@gmail.com).
+To report a typo or other problem, [open an issue on GitHub][new-issue].
 
 ## Corpus Statistics
 
