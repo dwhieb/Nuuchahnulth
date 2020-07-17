@@ -221,7 +221,7 @@ they.howled.again     the.wolves    did.four.times
 Again the Wolves howled four times.
 
 # 032
-heey maasuuɬšiƛ    y̓uuqʷaa kʷiisḥinatuk.                    awayaatukʷitii,                  [uuː uuː uuː uuː] .
+heey maasuuɬšiƛ    y̓uuqʷaa kʷiisḥinatuk.                    awayaatukʷitii,                  [uuː uuː uuː uuː].
 ~    maːsuːɬ-ši(ƛ) y̓uːqʷaː kʷis-ḥi·-n̓-a·tuk                 qʷa-(y)a·tukʷ-it-(y)iː           ~
 ~    howl-MOM      also    different-DUR-??-making.sound.of thus-making.sound.of-PAST-INDF.3 ~
 ~    howled        also    making.strange.noise             thus.it.might.have.sounded       ~
@@ -340,10 +340,10 @@ another     young.man who.might.have.been.the.younger.brother
 It was the other young man. It might have been the younger brother.
 
 # 049
-qaɬaatik        waaʔat     [younger brother] ,              taayii     waaʔat        m̓aam̓iiqsu [oɬder brother] .
-qaɬaːtik        waː-ʼat    ~                 taːyiː         waː-ʼat    m̓aːm̓i·qsu     ~
-younger.brother say-SHIFT  ~                 oldest.brother say-SHIFT  elder.brother ~
-younger.brother it.is.said ~                 oldest.brother it.is.said elder.brother ~
+qaɬaatik        waaʔat     [younger brother], taayii         waaʔat     m̓aam̓iiqsu     [oɬder brother].
+qaɬaːtik        waː-ʼat    ~                  taːyiː         waː-ʼat    m̓aːm̓i·qsu     ~
+younger.brother say-SHIFT  ~                  oldest.brother say-SHIFT  elder.brother ~
+younger.brother it.is.said ~                  oldest.brother it.is.said elder.brother ~
 We say _qaɬaatik_ for “younger brother” and _taayii_ or _m̓aam̓iiqsu_ for “older brother”.
 
 # 050
@@ -942,10 +942,10 @@ one.year  ~                like    one.year  ~
 _n̓upqʔičḥ_ is “one year”: It’s equal to one year.
 
 # 136
-n̓upčiiɬ,      [which is one day] .             n̓upčiiɬ.
-n̓up-či·ɬ      ~                  n̓up-či·ɬ
-one-days.long ~                  one-days.long
-one.day       ~                  one.day
+n̓upčiiɬ,      [which is one day]. n̓upčiiɬ.
+n̓up-či·ɬ      ~                   n̓up-či·ɬ
+one-days.long ~                   one-days.long
+one.day       ~                   one.day
 _n̓upčiiɬ_ is “one day”.
 
 # 137
@@ -956,10 +956,10 @@ reached                       circle.around landed                 behind.the.vi
 They had come all the way back to the spot behind the Opnit village.
 
 # 138
-wikʔii    sayaač̓a    kʷisutaqtu.          wikmatak     sayaa.     [Like three hundred feet] ,            ʔunaač̓a ʔaḥ  qʷaa.
-wik-ʔiː   saya-a·č̓a  kʷis-ut-a·qtu·       wik-matak    saya-(y)a· ~                         ʔuna-č̓a      ʔaḥ     qʷaː
-not-reach far-height different-??-go.over not-probably far-CONT   ~                         that.much-?? this    so
-not       high       over.the.hill        probably.not far        ~                         height       this    so
+wikʔii    sayaač̓a    kʷisutaqtu.          wikmatak     sayaa.     [Like three hundred feet], ʔunaač̓a      ʔaḥ  qʷaa.
+wik-ʔiː   saya-a·č̓a  kʷis-ut-a·qtu·       wik-matak    saya-(y)a· ~                          ʔuna-č̓a      ʔaḥ  qʷaː
+not-reach far-height different-??-go.over not-probably far-CONT   ~                          that.much-?? this so
+not       high       over.the.hill        probably.not far        ~                          height       this so
 It was not high over the hill, it couldn’t be that high up — like three hundred feet high.
 
 # 139
@@ -1201,10 +1201,10 @@ they.howled.again     sounded.four.times
 Again they howled four times.
 
 # 173
-[ʔwooo wooo wooo wooo] ,                     qʷiʕaƛ ʔaḥʔaa.
-~                      qʷi-ʕaƛ               ʔaḥʔaː
-~                      that.which-make.sound that
-~                      how.it.sounded        that
+[ʔwooo wooo wooo wooo], qʷiʕaƛ                ʔaḥʔaa.
+~                       qʷi-ʕaƛ               ʔaḥʔaː
+~                       that.which-make.sound that
+~                       how.it.sounded        that
 _woo_ _woo_ _woo_ _woo_ — this is how they sounded.
 
 # 174
@@ -1271,7 +1271,7 @@ Now there was medicine — eight bundles of medicine.
 Eight kinds.
 
 # 183
-ʔuʔinḥʔis    ʔaḥ  ʕuy̓i,    herbs, [eight bundles] .
+ʔuʔinḥʔis    ʔaḥ  ʕuy̓i,    herbs, [eight bundles].
 ʔu-ʔinḥ-ʔis  ʔaḥ  ʕuy̓i     ~      ~
 it-size?-DIM this medicine ~      ~
 being.small  this medicine ~      ~
@@ -1362,10 +1362,10 @@ so.it.wouldnt        get.lost    with.ref.to.which       white.man ~     say
 [They do that] so that so-called ‘title’ will not be lost.
 
 # 196
-yaaqʷiɬqin                huḥtak, [our knowledge] , [our wisdom] ,
-yaqʷ-(č)iɬ-qin            huḥtak  ~               ~
-which-with.ref.to-REL.1PL know    ~               ~
-which.we                  know    ~               ~
+yaaqʷiɬqin                huḥtak, [our knowledge], [our wisdom],
+yaqʷ-(č)iɬ-qin            huḥtak  ~                ~
+which-with.ref.to-REL.1PL know    ~                ~
+which.we                  know    ~                ~
 [They do that so that] what we know [will not be lost].
 
 # 197
