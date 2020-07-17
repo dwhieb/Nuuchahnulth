@@ -1777,7 +1777,7 @@
     },
     {
       "metadata": "029",
-      "transcript": "yaacpanač, wikckʷii sasaaʔii sayaap̓inč ʔaḥ nism̓aʔi ʔunaḥitʔitq, [North America] , yaaqʷiɬ mamaɬn̓i waa.",
+      "transcript": "yaacpanač, wikckʷii sasaaʔii sayaap̓inč ʔaḥ nism̓aʔi ʔunaḥitʔitq, [North America], yaaqʷiɬ mamaɬn̓i waa.",
       "transcription": "",
       "translation": "He went for a walk: He didn’t go very far in this land, which the white men call North America.",
       "words": [
@@ -8452,7 +8452,7 @@
     },
     {
       "metadata": "125",
-      "transcript": "nunuuk. [He is singing away] ,",
+      "transcript": "nunuuk. [He is singing away],",
       "transcription": "",
       "translation": "He was singing.",
       "words": [
@@ -10504,7 +10504,7 @@
     },
     {
       "metadata": "162",
-      "transcript": "ʔuḥʔat. ʔuḥmatak̓aƛ yaaqʷiɬʔitq Columbia waaʔat, [Columbia River] .",
+      "transcript": "ʔuḥʔat. ʔuḥmatak̓aƛ yaaqʷiɬʔitq Columbia waaʔat, [Columbia River].",
       "transcription": "",
       "translation": "This is the one — this is probably the one that it is called Columbia river.",
       "words": [
@@ -11664,7 +11664,7 @@
     },
     {
       "metadata": "178",
-      "transcript": "c̓ičiƛ ʔaḥ qʷis ʔucpaaʔaƛ ʔaḥ tuč̓iicpaʔi, [east side] .",
+      "transcript": "c̓ičiƛ ʔaḥ qʷis ʔucpaaʔaƛ ʔaḥ tuč̓iicpaʔi, [east side].",
       "transcription": "",
       "translation": "He sprinkled the oil doing like this {with the gesture of sprinkling liquid from a bottle} on this side — east side.",
       "words": [
@@ -15315,7 +15315,7 @@
     },
     {
       "metadata": "238",
-      "transcript": "taamiiqƛ̓a, [xaw xaw xaw xaw] .",
+      "transcript": "taamiiqƛ̓a, [xaw xaw xaw xaw].",
       "transcription": "",
       "translation": "They poked into the hole and [the mink cried], “_xaw xaw_…”",
       "words": [
@@ -16031,13 +16031,15 @@
     },
     {
       "metadata": "249",
-      "transcription": "waamitii tušaakitʔi.",
-      "translation": "he.might.have.said corpse",
+      "transcript": "waamitii tušaakitʔi.",
+      "transcription": "",
+      "translation": "He might have said, “you SOB.”",
       "words": [
         {
-          "transcription": "",
+          "transcription": "waamitii",
           "analysis": "wa·-mit-(y)iː",
           "gloss": "say-PAST-INDF.3",
+          "literal": "he.might.have.said",
           "morphemes": [
             {
               "transcription": "wa·",
@@ -16054,9 +16056,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "tušaakitʔi",
           "analysis": "tušaːk-it-ʔi·",
           "gloss": "dead?-PAST-DEF",
+          "literal": "corpse",
           "morphemes": [
             {
               "transcription": "tušaːk",
@@ -16076,16 +16079,10 @@
       "notes": [
         {
           "language": "en",
-          "text": "He might have said, “you SOB.”"
-        },
-        {
-          "language": "en",
           "source": "DWH",
           "text": "SOB = son of a bitch"
         }
-      ],
-      "n-4": "He might have said, “you SOB.”",
-      "n-5": "DWH: SOB = son of a bitch"
+      ]
     },
     {
       "metadata": "250",
@@ -16451,7 +16448,7 @@
     },
     {
       "metadata": "257",
-      "transcript": "ʔee qaḥtak qʷaqʔisqač̓a waaʔaƛ̓at hask̓aamacʔi [little crabs] .",
+      "transcript": "ʔee qaḥtak qʷaqʔisqač̓a waaʔaƛ̓at hask̓aamacʔi [little crabs].",
       "transcription": "",
       "translation": "“We thought you were dead!” said to him, the little crabs.",
       "words": [
@@ -18317,7 +18314,7 @@
     },
     {
       "metadata": "281",
-      "transcript": "ɬixcw̓isee ɬixcw̓isee muuxḥinƛas, [taa taa taa] .",
+      "transcript": "ɬixcw̓isee ɬixcw̓isee muuxḥinƛas, [taa taa taa].",
       "transcription": "",
       "translation": "“Sawbill Woman gave birth to an illegitimate child.” [they sang, and the baby also called him] “Daddy, Daddy, Daddy.”",
       "words": [
@@ -18635,7 +18632,7 @@
     },
     {
       "metadata": "285",
-      "transcript": "nay̓iik t̓an̓aʔisʔi ʔuyaasiɬa, [taa taa taa taa] .",
+      "transcript": "nay̓iik t̓an̓aʔisʔi ʔuyaasiɬa, [taa taa taa taa].",
       "transcription": "",
       "translation": "Suddenly the child acted differently [because he recognized Son of Mink as his fatehr and got excited to see his father].",
       "words": [
@@ -19777,7 +19774,7 @@
     },
     {
       "metadata": "302",
-      "transcript": "sit̓a qʷaa naasqnaasqʷa, puuputq̓ʷisaƛ waxckʷiʔaƛ, bbbbb [bubble going up] .",
+      "transcript": "sit̓a qʷaa naasqnaasqʷa, puuputq̓ʷisaƛ waxckʷiʔaƛ, bbbbb [bubble going up].",
       "transcription": "",
       "translation": "He moved his tail left and right this way and air bubbles went up to the surface: he has broken wind.",
       "words": [
