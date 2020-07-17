@@ -95,7 +95,7 @@ spoke.Chinook.Jargon             some
 Some of them spoke Chinook Jargon.
 
 # 014
-hist̓atḥckʷaƛukʔaɬ                   ʔaḥ. [Hudson Bay] .
+hist̓atḥckʷaƛukʔaɬ                   ʔaḥ. [Hudson Bay].
 hist-ʼatḥ-ckʷi·-ʼaƛ-uk-ʔa·ɬ         ʔaḥ  ~
 there-belonging.to-done-FIN-POSS-PL this ~
 they.got.theirs.from.there          they ~
@@ -207,10 +207,10 @@ twiidin waa. twiidin. twiidin waaʔaaɬ,
 They called it _twiidin_.
 
 # 030
-ʔuušckʷiiʔaƛ   nanaʔa,         [trading post] ,              waaqḥ. twiidin. twiidin.
-ʔuːš-ckʷi·-ʼaƛ DUP-naʔa·       ~              wa·-(q)ḥ       ~      ~
-some-done-FIN  DISTR-hear      ~              say-SIM        ~      ~
-some.did       they.understood ~              when.they.said ~      ~
+ʔuušckʷiiʔaƛ   nanaʔa,         [trading post], waaqḥ.         twiidin. twiidin.
+ʔuːš-ckʷi·-ʼaƛ DUP-naʔa·       ~               wa·-(q)ḥ       ~        ~
+some-done-FIN  DISTR-hear      ~               say-SIM        ~        ~
+some.did       they.understood ~               when.they.said ~        ~
 Some of the white people understood it as ‘trading post’ when they (Indian people) said _twiidin_.
 
 # 031
@@ -1089,10 +1089,10 @@ now.then we.will.go.across.the.hill             said    the.Clayoquot.man
 “Now, we will go across the hill,” said the Clayoquot man.
 
 # 157
-ʔunačaqtuʔisʔiš                  pinʔiiƛ, [Whitepine Cove] .                          ʔunačaqtuʔis.
-ʔuna-č-a·qtu·-ʔis-ʔi·š           pin̓iːƛ   ~                ʔuna-č-a·qtu·-ʔis
-that.much-??-go.across-DIM-IND.3 NAME     ~                that.much-??-go.across-DIM
-near.across                      NAME     ~                near.across
+ʔunačaqtuʔisʔiš                  pinʔiiƛ, [Whitepine Cove]. ʔunačaqtuʔis.
+ʔuna-č-a·qtu·-ʔis-ʔi·š           pin̓iːƛ   ~                 ʔuna-č-a·qtu·-ʔis
+that.much-??-go.across-DIM-IND.3 NAME     ~                 that.much-??-go.across-DIM
+near.across                      NAME     ~                 near.across
 “It is close across to Whitepine Cove.”
 
 # 158
@@ -1509,10 +1509,10 @@ sometimes.it.was                sweet  the.tea
 Sometimes the tea was sweet.
 
 # 219
-hač̓a  šuukʷaa     ʔuyiiʔanitʔaaɬ,           qʷiyiiʔanitii               [brown sugar] ,                        naqšiʔaƛquuč.
-hač̓a  šuːkʷa·     ʔu-(y)i·-ʼat-it-ʔaːɬ      qʷi-(y)i·-ʼat-it-(y)iː      ~             naq-ši(ƛ)-ʼaƛ-quː-č
-maybe white.sugar it-give-SHIFT-PAST-always what-give-SHIFT-PAST-INDF.3 ~             drink-MOM-FIN-COND.3-INF
-maybe white.sugar he.was.given              given.whatever.item         ~             he.would.drink
+hač̓a  šuukʷaa     ʔuyiiʔanitʔaaɬ,           qʷiyiiʔanitii               [brown sugar], naqšiʔaƛquuč.
+hač̓a  šuːkʷa·     ʔu-(y)i·-ʼat-it-ʔaːɬ      qʷi-(y)i·-ʼat-it-(y)iː      ~              naq-ši(ƛ)-ʼaƛ-quː-č
+maybe white.sugar it-give-SHIFT-PAST-always what-give-SHIFT-PAST-INDF.3 ~              drink-MOM-FIN-COND.3-INF
+maybe white.sugar he.was.given              given.whatever.item         ~              he.would.drink
 Maybe they gave him white sugar or something like brown sugar when he drank the tea.
 
 # 220
@@ -1551,10 +1551,10 @@ British British say  British.soldiers British they.were.incapable.of ~       say
 They called British Navy soldiers “_pitiš_”. They couldn’t say “British”.
 
 # 225
-aqukʷitii,           yaqckʷiiyii,          [King George] waaʔaƛ̓anitʔaaɬ            ƛaḥ,   [nineteen twenty] , [early nineteen twenties]
-yaq-ukʷ-it-(y)iː     yaq-ckʷi·-(y)iː       ~             wa·-ʼaƛ-ʼat-it-ʔaːɬ       ƛaḥ    ~                 ~
-who-POSS-PAST-INDF.3 who-remains.of-INDF.3 ~             say-FIN-SHIFT-PAST-always recent ~                 ~
-whoever.owns         descendants.of.whom   ~             they.used.to.call         recent ~                 ~
+aqukʷitii,           yaqckʷiiyii,          [King George] waaʔaƛ̓anitʔaaɬ            ƛaḥ,   [nineteen twenty], [early nineteen twenties]
+yaq-ukʷ-it-(y)iː     yaq-ckʷi·-(y)iː       ~             wa·-ʼaƛ-ʼat-it-ʔaːɬ       ƛaḥ    ~                  ~
+who-POSS-PAST-INDF.3 who-remains.of-INDF.3 ~             say-FIN-SHIFT-PAST-always recent ~                  ~
+whoever.owns         descendants.of.whom   ~             they.used.to.call         recent ~                  ~
 The person on the throne and his descendants were called “King George” recently — early 1920′s.
 
 # 226
@@ -1586,7 +1586,7 @@ something.extraordinary.happened.again
 They were also really excited [about the flag].
 
 # 230
-ḥaw̓iɬukʷit,     yaʕaƛitii           Benson kapčaa, ʔunaak    ʔuyiiʔaƛ̓atƛa,          [Union Jack] .
+ḥaw̓iɬukʷit,     yaʕaƛitii           Benson kapčaa, ʔunaak    ʔuyiiʔaƛ̓atƛa,          [Union Jack].
 ḥaw̓iɬ-uk-it     yaq-ʼaƛ-it-(y)iː    ~      kapčaː  ʔu-na·k   ʔu-(y)i·-ʼaƛ-ʼat-ƛa·   ~
 chief-POSS-PAST who-FIN-PAST-INDF.3 ~      NAME    it-having it-give-FIN-SHIFT-also ~
 former.chief.of who.was             ~      NAME    having    he.was.also.given      ~
@@ -1663,10 +1663,10 @@ they.used.to.serve.him               the.salty.thing    meat       salty
 They used to serve him salty things — salty meat.
 
 # 241
-[salt pork] ,                                      ʔuʔiicckʷimatak̓ap̓atʔaaɬ.
-~           ʔu-ʼi·c-ckʷi·-matak-ʼap-ʼat-ʔaːɬ
-~           it-eat-done-probably-CAUS-SHIFT-always
-~           he.was.probably.served
+[salt pork], ʔuʔiicckʷimatak̓ap̓atʔaaɬ.
+~            ʔu-ʼi·c-ckʷi·-matak-ʼap-ʼat-ʔaːɬ
+~            it-eat-done-probably-CAUS-SHIFT-always
+~            he.was.probably.served
 Probably he was served salt pork.
 
 # 242

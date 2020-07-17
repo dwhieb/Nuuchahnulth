@@ -10,7 +10,6 @@
 import alignWords        from '@digitallinguistics/word-aligner';
 import convertQuotes     from 'smartquotes';
 import { createRequire } from 'module';
-import createSpinner     from 'ora';
 import fs                from 'fs-extra';
 import ProgressBar       from 'progress';
 import { transliterate } from '@digitallinguistics/transliterate/transliterate.js';
@@ -25,8 +24,6 @@ const {
 } = fs;
 
 const substitutions = require(`../transliteration.json`);
-
-const spinner = createSpinner(`Transliterating texts`).start();
 
 function convertText(text) {
 
@@ -44,7 +41,9 @@ function convertText(text) {
     let [, transcript] = lines;
 
     if (transcript.includes(`"`)) {
-      transcript = transcript.replace(`"`, `“`).replace(`"`, `”`);
+      transcript = transcript
+      .replace(`"`, `“`)
+      .replace(`"`, `”`);
     }
 
     if (i !== 0 && transcript.startsWith(`\\trs`)) {
@@ -119,8 +118,4 @@ async function convertFiles() {
 }
 
 convertFiles()
-.then(() => spinner.succeed(`All files transliterated`))
-.catch(e => {
-  spinner.fail(e.message);
-  throw e;
-});
+.catch(console.error);

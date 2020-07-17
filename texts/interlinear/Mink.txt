@@ -200,10 +200,10 @@ walked
 He departed.
 
 # 029
-yaacpanač,               wikckʷii            sasaaʔii            sayaap̓inč   ʔaḥ  nism̓aʔi   ʔunaḥitʔitq,              [North America] ,                 yaaqʷiɬ   mamaɬn̓i waa.
-yac-panač                wik-ckʷi·           ??                  saya-p̓inč   ʔaḥ  nism̓a-ʔi· ʔuna-ḥ-it-ʔi·tq           ~               yaqʷ-(č)iɬ        mamaɬn̓i   waː
-step-move.about.randomly not-having.happened ??                  far.off-??  this land-DEF  that.much-size-PAST-REL.3 ~               which-with.ref.to white.man say
-go.for.a.walk            didn't              go.a.little.farther go.very.far this the.land  as.large.as               ~               in.ref.to.which   white.man say
+yaacpanač,               wikckʷii            sasaaʔii            sayaap̓inč   ʔaḥ  nism̓aʔi   ʔunaḥitʔitq,              [North America], yaaqʷiɬ           mamaɬn̓i   waa.
+yac-panač                wik-ckʷi·           ??                  saya-p̓inč   ʔaḥ  nism̓a-ʔi· ʔuna-ḥ-it-ʔi·tq           ~                yaqʷ-(č)iɬ        mamaɬn̓i   waː
+step-move.about.randomly not-having.happened ??                  far.off-??  this land-DEF  that.much-size-PAST-REL.3 ~                which-with.ref.to white.man say
+go.for.a.walk            didn't              go.a.little.farther go.very.far this the.land  as.large.as               ~                in.ref.to.which   white.man say
 He went for a walk: He didn’t go very far in this land, which the white men call North America.
 
 # 030
@@ -869,7 +869,7 @@ if.only.I           if.only.I           ~             if.only.I           if.onl
 \tln What he meant was he wanted a bow and an arrow.
 
 # 125
-nunuuk. [He is singing away] ,
+nunuuk. [He is singing away],
 nunuːk  ~
 singing ~
 singing ~
@@ -1128,7 +1128,7 @@ heey c̓aačiƛ.
 Now the current started to flow.
 
 # 162
-ʔuḥʔat.        ʔuḥmatak̓aƛ            yaaqʷiɬʔitq             Columbia waaʔat,    [Columbia River] .
+ʔuḥʔat.        ʔuḥmatak̓aƛ            yaaqʷiɬʔitq             Columbia waaʔat,    [Columbia River].
 ʔuḥ-ʼat        ʔuḥ-matak-ʼaƛ         yaqʷ-(č)iɬ-ʔi·tq        ~        wa·-ʼat    ~
 being.it-SHIFT being.it-probably-FIN which-with.ref.to-REL.3 ~        say-SHIFT  ~
 it.is.the.one  it.may.be             with.ref.to.which       ~        it.is.said ~
@@ -1240,7 +1240,7 @@ heey, huuxsʔatu, sukʷiʔaƛ     ʕuy̓aakʔi          ƛaqmisukʔi,
 Now he took a rest and took out his medicine oil.
 
 # 178
-c̓ičiƛ      ʔaḥ  qʷis  ʔucpaaʔaƛ        ʔaḥ  tuč̓iicpaʔi,             [east side] .
+c̓ičiƛ      ʔaḥ  qʷis  ʔucpaaʔaƛ        ʔaḥ  tuč̓iicpaʔi,             [east side].
 c̓i-čiƛ     ʔaḥ  qʷis  ʔu-cpa·-ʼaƛ      ʔaḥ  tuč̓iː-cpa·-ʔi·          ~
 splash-MOM this do.so it-on.a.side-FIN this east.wind-on.a.side-DEF ~
 splash     this do.so on.the.side      this on.southeast.side       ~
@@ -1657,7 +1657,7 @@ heey taaƛtaaya                    qʷaqʷaasʔi.
 Those people [the wolves are taking human shape now] poked at him repeatedly with sticks.
 
 # 238
-taamiiqƛ̓a,       [xaw xaw xaw xaw] .
+taamiiqƛ̓a,       [xaw xaw xaw xaw].
 taː-miːqƛa       ~
 poke-??          ~
 poke.into.a.hole ~
@@ -1791,7 +1791,7 @@ died.it.is.said   one.who.always.say.nasty.things
 ″[You thought] the one with a bad mouth was dead!” [Mink yelled at them sarcastically].
 
 # 257
-ʔee qaḥtak  qʷaqʔisqač̓a                     waaʔaƛ̓at         hask̓aamacʔi     [little crabs] .
+ʔee qaḥtak  qʷaqʔisqač̓a                     waaʔaƛ̓at         hask̓aamacʔi     [little crabs].
 ~   qaḥ-tak qʷaq-ʔis-qa·č̓a                  wa·-ʼaƛ-ʼat      hask̓aːmac-ʔi·   ~
 ~   dead-?? ??-DIM-DUB.3                    say-FIN-SHIFT    little.crab-DEF ~
 ~   ??      one.who.always.say.nasty.things they.said.to.him the.little.crab ~
@@ -1903,10 +1903,10 @@ come.down.to.the.beach                           Son.of.Loon      because.you   
 “Come down to the beach, Son of Loon. Because you might be responsible for Sawbill Woman bearing an illegitimate child,” they (family of the Sawbill Woman) said.
 
 # 273
-haaciqšiʔaƛquuč                   haa  nay̓aqakʔi   suuɬ           muuḥinƛas      ḥaaɬ  “[taa taa   taa],” wawaa.
-haːciq-ši(ƛ)-ʼaƛ-quː-č            haː  nay̓aqak-ʔi· su-uːɬ         muːḥinƛ-as     ḥaːɬ  ~     wawaː
-not.satisfied?-MOM-FIN-COND.3-INF that baby-DEF    holding-??     sawbill-female there ~     say
-he.wouldnt.be.satisfied           that the.baby    grabbing.on.to Sawbill.woman  there ~     say
+haaciqšiʔaƛquuč                   haa  nay̓aqakʔi   suuɬ           muuḥinƛas      ḥaaɬ  “[taa taa taa],” wawaa.
+haːciq-ši(ƛ)-ʼaƛ-quː-č            haː  nay̓aqak-ʔi· su-uːɬ         muːḥinƛ-as     ḥaːɬ  ~                wawaː
+not.satisfied?-MOM-FIN-COND.3-INF that baby-DEF    holding-??     sawbill-female there ~                say
+he.wouldnt.be.satisfied           that the.baby    grabbing.on.to Sawbill.woman  there ~                say
 [When people came in response to the Sawbill family’s request,] the baby wouldn’t be satisfied, grabbing on to his mother, saying ”[I want my] Daddy, Daddy, Daddy.”
 
 # 274
@@ -1959,7 +1959,7 @@ come.down.to.the.beach                           Son.of.Mink       maybe.you.are
 “Come down to the beach, Son of Mink, because you might be responsible for the child.”
 
 # 281
-ɬixcw̓isee                        ɬixcw̓isee                        muuxḥinƛas,         [taa taa taa] .
+ɬixcw̓isee                        ɬixcw̓isee                        muuxḥinƛas,         [taa taa taa].
 ɬic-<x>-w̓isa-VOC                 ɬic-<x>-w̓isa                     muːḥinƛ-<x>-as      ~
 pregnant-MINK-??-SONG            pregant-MINK-??                  sawbill-MINK-female ~
 give.birth.to.illegitimate.child give.birth.to.illegitimate.child Sawbill.woman       ~
@@ -1987,7 +1987,7 @@ thus     that   walking.style
 That’s how he walks. {with gesture}
 
 # 285
-nay̓iik      t̓an̓aʔisʔi     ʔuyaasiɬa,    [taa taa taa taa] .
+nay̓iik      t̓an̓aʔisʔi     ʔuyaasiɬa,    [taa taa taa taa].
 nay̓iːk      t̓an̓a-ʔis-ʔi·  ʔuyaː-siɬa    ~
 immediately child-DIM-DEF ??-act.like   ~
 suddenly    the.child     act.strangely ~
@@ -2106,7 +2106,7 @@ came.to.dislike Sawbill.woman
 Sawbill Woman started to hate him.
 
 # 302
-sit̓a qʷaa naasqnaasqʷa,         puuputq̓ʷisaƛ                               waxckʷiʔaƛ,                    bbbbb [bubble going up] .
+sit̓a qʷaa naasqnaasqʷa,         puuputq̓ʷisaƛ                               waxckʷiʔaƛ,                    bbbbb [bubble going up].
 sit̓a qʷaː DUP#-nasqʷ-(y)a       DUP-putq-w̓isa·-ʼaƛ                         waxʷ-ckʷi·-ʼaƛ                 ~     ~
 tail thus IT-beating-REP        DISTR-air.come.out-come.to.the.surface-FIN break.wind-having.happened-FIN ~     ~
 tail thus moving.left.and.right air.bubbles.going.up.to.the.surface        broke.air                      ~     ~
