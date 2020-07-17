@@ -3657,8 +3657,7 @@
           "language": "en",
           "text": "And there is another…"
         }
-      ],
-      "n-5": "And there is another…"
+      ]
     },
     {
       "metadata": "039",
@@ -3671,7 +3670,7 @@
     },
     {
       "metadata": "040",
-      "transcript": "waaʔaaḥs qʷaa ʔin ʔuuwaʔat ʔun̓aaḥ ƛuɬquu [tree for the canoe] .",
+      "transcript": "waaʔaaḥs qʷaa ʔin ʔuuwaʔat ʔun̓aaḥ ƛuɬquu [tree for the canoe].",
       "transcription": "",
       "translation": "I talked about how one looks for a good one — tree for the canoe.",
       "words": [
@@ -5581,13 +5580,15 @@
     },
     {
       "metadata": "064",
-      "transcription": "titinʕinčiƛ.",
-      "translation": "it.makes.a.pinging.sound",
+      "transcript": "titinʕinčiƛ.",
+      "transcription": "",
+      "translation": "It makes a pinging sound (= sound of hard wood).",
       "words": [
         {
-          "transcription": "",
+          "transcription": "titinʕinčiƛ",
           "analysis": "DUP-tin-ʕin-či(ƛ)",
           "gloss": "??-make.pinging.sound-make.sound-MOM",
+          "literal": "it.makes.a.pinging.sound",
           "morphemes": [
             {
               "transcription": "DUP",
@@ -5611,15 +5612,9 @@
       "notes": [
         {
           "language": "en",
-          "text": "It makes a pinging sound (= sound of hard wood)."
-        },
-        {
-          "language": "en",
           "text": "[You can tell the hardness of the wood from the sound it makes when knocked.]"
         }
-      ],
-      "n-4": "It makes a pinging sound (= sound of hard wood).",
-      "n-5": "[You can tell the hardness of the wood from the sound it makes when knocked.]"
+      ]
     },
     {
       "metadata": "065",
@@ -6501,13 +6496,15 @@
     },
     {
       "metadata": "079",
-      "transcription": "waa ʔaḥkuu, cikimin waaʔat. č̓aḥy̓ak, hiišiisač̓ak. ʕakm̓aɬst̓uqsy̓ak. ʔuč̓ak hiɬyin. qʷaa y̓uuqʷaa ƛičaa.",
-      "translation": "and this steel it.is.said adze axe draw.knife tool.for.it at.the.bow thus also stern",
+      "transcript": "waa ʔaḥkuu, cikimin waaʔat. č̓aḥy̓ak, hiišiisač̓ak. ʕakm̓aɬst̓uqsy̓ak. ʔuč̓ak hiɬyin. qʷaa y̓uuqʷaa ƛičaa.",
+      "transcription": "",
+      "translation": "And this one is called _cikimin_ (‘steel knife’); [this one is] _č̓aḥy̓ak_ (‘D-adze’); _hiishiisač̓ak_ (‘axe’); _ʕakm̓aɬst̓uqsy̓ak_ (‘draw-knife’), which is used for the bow and also the stern.",
       "words": [
         {
-          "transcription": "",
+          "transcription": "waa",
           "analysis": "wa·",
           "gloss": "and",
+          "literal": "and",
           "morphemes": [
             {
               "transcription": "wa·",
@@ -6516,9 +6513,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "ʔaḥkuu",
           "analysis": "ʔaḥku·",
           "gloss": "this",
+          "literal": "this",
           "morphemes": [
             {
               "transcription": "ʔaḥku·",
@@ -6527,9 +6525,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "cikimin",
           "analysis": "cikimin",
           "gloss": "steel",
+          "literal": "steel",
           "morphemes": [
             {
               "transcription": "cikimin",
@@ -6538,9 +6537,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "waaʔat",
           "analysis": "wa·-ʼat",
           "gloss": "say-SHIFT",
+          "literal": "it.is.said",
           "morphemes": [
             {
               "transcription": "wa·",
@@ -6553,9 +6553,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "č̓aḥy̓ak",
           "analysis": "č̓aḥ-y̓ak",
           "gloss": "adze-instrument.for",
+          "literal": "adze",
           "morphemes": [
             {
               "transcription": "č̓aḥ",
@@ -6568,9 +6569,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "hiišiisač̓ak",
           "analysis": "DUP#-his-(y)a-č̓ak",
           "gloss": "IT-beat-REP-instruments",
+          "literal": "axe",
           "morphemes": [
             {
               "transcription": "DUP#",
@@ -6591,9 +6593,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "ʕakm̓aɬst̓uqsy̓ak",
           "analysis": "ʕak-m̓aɬ-st̓uqs-y̓ak",
           "gloss": "cut-??-inside.corners.of.canoe-instrument",
+          "literal": "draw.knife",
           "morphemes": [
             {
               "transcription": "ʕak",
@@ -6614,9 +6617,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "ʔuč̓ak",
           "analysis": "ʔu-č̓ak",
           "gloss": "it-instruments",
+          "literal": "tool.for.it",
           "morphemes": [
             {
               "transcription": "ʔu",
@@ -6629,9 +6633,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "hiɬyin",
           "analysis": "hiɬ-yin",
           "gloss": "there-at.the.bow",
+          "literal": "at.the.bow",
           "morphemes": [
             {
               "transcription": "hiɬ",
@@ -6644,9 +6649,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "qʷaa",
           "analysis": "qʷaː",
           "gloss": "thus",
+          "literal": "thus",
           "morphemes": [
             {
               "transcription": "qʷaː",
@@ -6655,9 +6661,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "y̓uuqʷaa",
           "analysis": "y̓uːqʷaː",
           "gloss": "also",
+          "literal": "also",
           "morphemes": [
             {
               "transcription": "y̓uːqʷaː",
@@ -6666,9 +6673,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "ƛičaa",
           "analysis": "ƛiča·",
           "gloss": "stern",
+          "literal": "stern",
           "morphemes": [
             {
               "transcription": "ƛiča·",
@@ -6680,15 +6688,9 @@
       "notes": [
         {
           "language": "en",
-          "text": "And this one is called _cikimin_ (‘steel knife’); [this one is] _č̓aḥy̓ak_ (‘D-adze’); _hiishiisač̓ak_ (‘axe’); _ʕakm̓aɬst̓uqsy̓ak_ (‘draw-knife’), which is used for the bow and also the stern."
-        },
-        {
-          "language": "en",
           "text": "As GL draws pictures of tools."
         }
-      ],
-      "n-4": "And this one is called _cikimin_ (‘steel knife’); [this one is] _č̓aḥy̓ak_ (‘D-adze’); _hiishiisač̓ak_ (‘axe’); _ʕakm̓aɬst̓uqsy̓ak_ (‘draw-knife’), which is used for the bow and also the stern.",
-      "n-5": "As GL draws pictures of tools."
+      ]
     },
     {
       "metadata": "082",
@@ -8716,7 +8718,7 @@
     },
     {
       "metadata": "119",
-      "transcript": "qʷiyuyis ʔuukčamaɬčaqḥ [Charlie Jones] . čuu kiḥcaasiʔi. waaʔaƛ̓ats [Charlie Jones] .",
+      "transcript": "qʷiyuyis ʔuukčamaɬčaqḥ [Charlie Jones]. čuu kiḥcaasiʔi. waaʔaƛ̓ats [Charlie Jones].",
       "transcription": "",
       "translation": "When I was [working] with Charlie Jones, he told me “Now, look with one eye.”",
       "words": [
@@ -8836,7 +8838,7 @@
     },
     {
       "metadata": "121",
-      "transcript": "[“Take an eyeball”] waamitʔišʔaaɬ Charlie. [Charlie Jones] .",
+      "transcript": "[“Take an eyeball”] waamitʔišʔaaɬ Charlie. [Charlie Jones].",
       "transcription": "",
       "translation": "Charlie Jones used to say “Take an eyeball.”",
       "words": [
@@ -8886,13 +8888,15 @@
     },
     {
       "metadata": "122",
-      "transcription": "ʔunw̓iiʔatʔišʔaaɬ k̓iccaasiʔat č̓apac. ʔin k̓icsaasiʔatʔaaɬ ɬuucsaamiiḥ. ʔuuwaʔaƛ̓atquu yaaqʷiɬʔatʔitq kʷinʔaɬʔat.",
-      "translation": "the.reason.why.it.is.always.done look.with.one.eye canoe that look.with.one.eye women when.you.find one.whom you.like",
+      "transcript": "ʔunw̓iiʔatʔišʔaaɬ k̓iccaasiʔat č̓apac. ʔin k̓icsaasiʔatʔaaɬ ɬuucsaamiiḥ. ʔuuwaʔaƛ̓atquu yaaqʷiɬʔatʔitq kʷinʔaɬʔat.",
+      "transcription": "",
+      "translation": "The reason that people look at the canoe with one eye [to examine closely] is that you look at women with one eye when you come upon a woman you like.",
       "words": [
         {
-          "transcription": "",
+          "transcription": "ʔunw̓iiʔatʔišʔaaɬ",
           "analysis": "ʔunw̓iː(ƛ)-ʼat-ʔi·š-ʔaːɬ",
           "gloss": "because.of-SHIFT-IND.3-always",
+          "literal": "the.reason.why.it.is.always.done",
           "morphemes": [
             {
               "transcription": "ʔunw̓iː(ƛ)",
@@ -8913,9 +8917,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "k̓iccaasiʔat",
           "analysis": "k̓ic-ca·s-i(ƛ)-ʼat",
           "gloss": "wink-at.one.of.a.pair-MOM-SHIFT",
+          "literal": "look.with.one.eye",
           "morphemes": [
             {
               "transcription": "k̓ic",
@@ -8936,9 +8941,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "č̓apac",
           "analysis": "č̓apac",
           "gloss": "canoe",
+          "literal": "canoe",
           "morphemes": [
             {
               "transcription": "č̓apac",
@@ -8947,9 +8953,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "ʔin",
           "analysis": "ʔin",
           "gloss": "that",
+          "literal": "that",
           "morphemes": [
             {
               "transcription": "ʔin",
@@ -8958,9 +8965,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "k̓icsaasiʔatʔaaɬ",
           "analysis": "k̓ic-ca·s-i(ƛ)-ʼat-ʔaːɬ",
           "gloss": "wink-at.one.of.a.pair-MOM-SHIFT-always",
+          "literal": "look.with.one.eye",
           "morphemes": [
             {
               "transcription": "k̓ic",
@@ -8985,9 +8993,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "ɬuucsaamiiḥ",
           "analysis": "ɬuːcsaːmiːḥ",
           "gloss": "women",
+          "literal": "women",
           "morphemes": [
             {
               "transcription": "ɬuːcsaːmiːḥ",
@@ -8996,9 +9005,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "ʔuuwaʔaƛ̓atquu",
           "analysis": "ʔu-(w)a(ƛ)-ʼaƛ-ʼat-quː",
           "gloss": "it-find-FIN-SHIFT-COND.3",
+          "literal": "when.you.find",
           "morphemes": [
             {
               "transcription": "ʔu",
@@ -9023,9 +9033,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "yaaqʷiɬʔatʔitq",
           "analysis": "yaqʷ-(č)iɬ-ʼat-ʔi·tq",
           "gloss": "which-with.ref.to-SHIFT-REL.3",
+          "literal": "one.whom",
           "morphemes": [
             {
               "transcription": "yaqʷ",
@@ -9046,9 +9057,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "kʷinʔaɬʔat",
           "analysis": "kʷin̓aɬ-ʼat",
           "gloss": "long.for-SHIFT",
+          "literal": "you.like",
           "morphemes": [
             {
               "transcription": "kʷin̓aɬ",
@@ -9064,19 +9076,13 @@
       "notes": [
         {
           "language": "en",
-          "text": "The reason that people look at the canoe with one eye [to examine closely] is that you look at women with one eye when you come upon a woman you like."
-        },
-        {
-          "language": "en",
           "text": "The way they examine their canoe with one eye is the same as when you look at women when they see women they like."
         }
-      ],
-      "n-4": "The reason that people look at the canoe with one eye [to examine closely] is that you look at women with one eye when you come upon a woman you like.",
-      "n-5": "The way they examine their canoe with one eye is the same as when you look at women when they see women they like."
+      ]
     },
     {
       "metadata": "123",
-      "transcript": "ʔaḥʔaaʔaƛquu ƛ̓iixʷaa Charlie, [Charlie Jones] . ḥaw̓iɬukʷit p̓aačiinaʔatḥ.",
+      "transcript": "ʔaḥʔaaʔaƛquu ƛ̓iixʷaa Charlie, [Charlie Jones]. ḥaw̓iɬukʷit p̓aačiinaʔatḥ.",
       "transcription": "",
       "translation": "He was laughing saying that (lit. This is when he was laughing), Charlie Jones, the former chief of the Pachina people.",
       "words": [
@@ -10080,7 +10086,7 @@
     },
     {
       "metadata": "139",
-      "transcript": "ʕac̓ikits hihišcuqumtsʔaaɬ, [left and right] , qaaqaay̓axʷa.",
+      "transcript": "ʕac̓ikits hihišcuqumtsʔaaɬ, [left and right], qaaqaay̓axʷa.",
       "transcription": "",
       "translation": "I was good at both left- and right-handed adzing.",
       "words": [
@@ -10880,7 +10886,7 @@
     },
     {
       "metadata": "151",
-      "transcript": "yaqsiikitʔiš č̓apac hiɬḥ Denmark, [forty-two feet] ʔuuna hiikʷaɬ [six feet wide] . ʔunaaʕači.",
+      "transcript": "yaqsiikitʔiš č̓apac hiɬḥ Denmark, [forty-two feet] ʔuuna hiikʷaɬ [six feet wide]. ʔunaaʕači.",
       "transcription": "",
       "translation": "The canoe I made in Denmark was forty-two feet long and almost six feet wide.",
       "words": [
@@ -11858,13 +11864,15 @@
     },
     {
       "metadata": "165",
-      "transcription": "ƛ̓aaƛaay̓ixʷapuƛs.",
-      "translation": "Im.getting.too.fast",
+      "transcript": "ƛ̓aaƛaay̓ixʷapuƛs.",
+      "transcription": "",
+      "translation": "I’m going a little too fast [in telling you this story].",
       "words": [
         {
-          "transcription": "",
+          "transcription": "ƛ̓aaƛaay̓ixʷapuƛs",
           "analysis": "DUPː-ƛ̓ay̓ixʷ-L-apuƛ-s",
           "gloss": "??-fast-GRAD-MOM-1SG",
+          "literal": "Im.getting.too.fast",
           "morphemes": [
             {
               "transcription": "DUPː",
@@ -11892,15 +11900,9 @@
       "notes": [
         {
           "language": "en",
-          "text": "I’m going a little too fast [in telling you this story]."
-        },
-        {
-          "language": "en",
           "text": "The narrator’s comment on himself."
         }
-      ],
-      "n-4": "I’m going a little too fast [in telling you this story].",
-      "n-5": "The narrator’s comment on himself."
+      ]
     },
     {
       "metadata": "166",
@@ -12718,7 +12720,7 @@
     },
     {
       "metadata": "179",
-      "transcript": "[Charlie Jones] [king pin] ʔuʔukʷiɬitʔišʔaaɬ, [king pin] .",
+      "transcript": "[Charlie Jones] [king pin] ʔuʔukʷiɬitʔišʔaaɬ, [king pin].",
       "transcription": "",
       "translation": "Charlie Jones used to call it [the dowel to put into the hole] the “king pin”.",
       "words": [
@@ -13344,12 +13346,12 @@
     },
     {
       "metadata": "189",
-      "transcript": "ʔaḥʔaaʔaƛ ƛačiʔaƛ̓atquu, y̓asšiʔat [V-wedge] ʔi ḥuu hiy̓aqƛ̓i.",
+      "transcript": "ʔaḥʔaaʔaƛ ƛačiʔaƛ̓atquu, y̓asšiʔat [V-wedge]ʔi ḥuu hiy̓aqƛ̓i.",
       "transcription": "",
       "translation": "Then when you drive the V-wedge in, [the split end of doweling] spreads apart inside.",
       "words": [
         {
-          "transcription": "",
+          "transcription": "ʔaḥʔaaʔaƛ",
           "analysis": "ʔaḥʔaː-ʼaƛ",
           "gloss": "then-FIN",
           "literal": "and.then",
@@ -13365,7 +13367,7 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "ƛačiʔaƛ̓atquu",
           "analysis": "ƛa-či(ƛ)-ʼaƛ-ʼat-quː",
           "gloss": "drive.wedge-MOM-FIN-SHIFT-COND.3",
           "literal": "when.one.drives.wedge.in",
@@ -13393,7 +13395,7 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "y̓asšiʔat",
           "analysis": "y̓as-ši(ƛ)-ʼat",
           "gloss": "spread.apart-MOM-SHIFT",
           "literal": "spread.apart",
@@ -13413,7 +13415,7 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "[Vwedge]ʔi",
           "analysis": "V.wedge-ʔi·",
           "gloss": "V.wedge-DEF",
           "literal": "the.V.wedge",
@@ -13429,7 +13431,7 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "ḥuu",
           "analysis": "ḥuː",
           "gloss": "over.there",
           "literal": "over.there",
@@ -13441,7 +13443,7 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "hiy̓aqƛ̓i",
           "analysis": "hiɬ-ʼaqƛ-ʔi·",
           "gloss": "there-inside-DEF",
           "literal": "the.inside",
@@ -14184,13 +14186,15 @@
     },
     {
       "metadata": "202",
-      "transcription": "ƛ̓aaƛ̓aay̓ixʷapuƛs qʷaaʔap̓aʔitq.",
-      "translation": "I.am.going.too.fast it.is.done.so",
+      "transcript": "ƛ̓aaƛ̓aay̓ixʷapuƛs qʷaaʔap̓aʔitq.",
+      "transcription": "",
+      "translation": "I am going too fast [in telling the story].",
       "words": [
         {
-          "transcription": "",
+          "transcription": "ƛ̓aaƛ̓aay̓ixʷapuƛs",
           "analysis": "DUPː-ƛ̓ay̓ixʷ-apuƛ-s",
           "gloss": "??-fast-MOM-1SG",
+          "literal": "I.am.going.too.fast",
           "morphemes": [
             {
               "transcription": "DUPː",
@@ -14211,9 +14215,10 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "qʷaaʔap̓aʔitq",
           "analysis": "qʷaː-ʼap-ʼat-ʔi·tq",
           "gloss": "thus-CAUS-SHIFT-REL.3",
+          "literal": "it.is.done.so",
           "morphemes": [
             {
               "transcription": "qʷaː",
@@ -14237,15 +14242,9 @@
       "notes": [
         {
           "language": "en",
-          "text": "I am going too fast [in telling the story]."
-        },
-        {
-          "language": "en",
           "text": "The speaker’s comment on himself."
         }
-      ],
-      "n-4": "I am going too fast [in telling the story].",
-      "n-5": "The speaker’s comment on himself."
+      ]
     },
     {
       "metadata": "203",

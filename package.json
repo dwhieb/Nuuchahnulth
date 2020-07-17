@@ -23,7 +23,7 @@
     "transliterate": "node scripts/transliterate.js"
   },
   "devDependencies": {
-    "@digitallinguistics/scription2dlx": "^0.9.0",
+    "@digitallinguistics/scription2dlx": "^0.11.0",
     "@digitallinguistics/transliterate": "^0.2.1",
     "@digitallinguistics/word-aligner": "^0.3.0",
     "eslint": "^7.4.0",
