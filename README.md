@@ -44,7 +44,9 @@ Speakers   | 2
 Texts      | 24
 Utterances | 2,081
 Tokens     | 8,366
-Types      | 4,216
+Wordforms  | 4,216
+Stems      | 2,547
+Roots      | TBD
 
 ## Text Formats
 

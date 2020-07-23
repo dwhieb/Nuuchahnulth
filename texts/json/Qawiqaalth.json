@@ -3839,12 +3839,12 @@
     },
     {
       "metadata": "063",
-      "transcript": "ʔanaqsʔaƛquučʔaɬ. ḥačxtuup.",
+      "transcript": "ʔanaqsʔaƛquučʔaɬ. wikʔii ḥačxtuup.",
       "transcription": "",
       "translation": "The only thing they got was not from deep water.",
       "words": [
         {
-          "transcription": "",
+          "transcription": "ʔanaqsʔaƛquučʔaɬ",
           "analysis": "ʔana-qs-ʼaƛ-quː-č-ʔa·ɬ",
           "gloss": "only-in.a.vessel-FIN-COND.3-INF-PL",
           "literal": "only.thing.they.got",
@@ -3876,7 +3876,7 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "wikʔii",
           "analysis": "wik-ʔi·",
           "gloss": "not-DEF",
           "literal": "not",
@@ -3892,7 +3892,7 @@
           ]
         },
         {
-          "transcription": "",
+          "transcription": "ḥačxtuup",
           "analysis": "ḥačx-tu·p",
           "gloss": "deep-being",
           "literal": "species.from.deep.being",
