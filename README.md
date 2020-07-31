@@ -46,7 +46,7 @@ Utterances | 2,081
 Tokens     | 8,366
 Wordforms  | 4,216
 Stems      | 2,547
-Roots      | TBD
+Roots      | 1,313
 
 ## Text Formats
 
