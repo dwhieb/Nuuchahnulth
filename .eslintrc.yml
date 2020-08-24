@@ -196,7 +196,7 @@ rules:
   no-alert: warn
   no-array-constructor: warn
   no-async-promise-executor: error
-  no-await-in-loop: error
+  no-await-in-loop: off
   no-bitwise: warn
   no-caller: error
   no-case-declarations: error

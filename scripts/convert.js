@@ -1,6 +1,7 @@
-/* eslint-disable
-  no-await-in-loop,
-*/
+/**
+ * This script converts the transliterated versions of the texts
+ * to DLx JSON format: https://format.digitallinguistics.io
+ */
 
 import convert       from '@digitallinguistics/scription2dlx';
 import createSpinner from 'ora';

@@ -3,10 +3,6 @@
  * to the original orthography used in the published versions of the texts
  */
 
-/* eslint-disable
-  no-await-in-loop,
-*/
-
 import alignWords        from '@digitallinguistics/word-aligner';
 import convertQuotes     from 'smartquotes';
 import { createRequire } from 'module';
