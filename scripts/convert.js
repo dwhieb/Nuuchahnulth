@@ -3,6 +3,10 @@
  * to DLx JSON format: https://format.digitallinguistics.io
  */
 
+/* eslint-disable
+  no-param-reassign,
+*/
+
 import convert       from '@digitallinguistics/scription2dlx';
 import createSpinner from 'ora';
 import fs            from 'fs-extra';
@@ -18,7 +22,8 @@ const {
   writeJSON,
 } = fs;
 
-const spinner = createSpinner(`Converting texts to JSON format`).start();
+const punctuationRegExp = /[.,!?'"‘’“”():-]+/gu;
+const spinner           = createSpinner(`Converting texts to JSON format`).start();
 
 async function convertTexts() {
 
@@ -46,11 +51,14 @@ async function convertTexts() {
       if (tokens.length === utterance.words.length) {
 
         tokens.forEach((token, i) => {
-          // eslint-disable-next-line no-param-reassign
           utterance.words[i].transcription = token;
         });
 
       }
+
+      utterance.transcription = {
+        default: tokens.join(` `),
+      };
 
     });
 
@@ -66,7 +74,7 @@ async function convertTexts() {
 function tokenize(transcript) {
   return transcript
   .trim()
-  .replace(/[.,!?'"‘’“”():-]+/gu, ``)
+  .replace(punctuationRegExp, ``)
   .split(/\s+/gu);
 }
 
