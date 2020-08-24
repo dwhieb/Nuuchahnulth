@@ -8,7 +8,7 @@ import convertQuotes     from 'smartquotes';
 import { createRequire } from 'module';
 import fs                from 'fs-extra';
 import ProgressBar       from 'progress';
-import { transliterate } from '@digitallinguistics/transliterate/transliterate.js';
+import { transliterate } from '@digitallinguistics/transliterate';
 
 const require = createRequire(import.meta.url);
 

@@ -8,178 +8,250 @@
   "utterances": [
     {
       "metadata": "001",
-      "transcript": "ʔaamumɬʔaƛquu nay̓aqak, ʔayaakitʔaaɬ qʷaqʷaaʔaaḥii ʔuuksnaʕaaɬ c̓aḥʷackʷi. ʔan ʔuutaqitʔaaɬ waɬyaqiɬḥ.",
-      "transcription": "",
+      "transcript": {
+        "default": "ʔaamumɬʔaƛquu nay̓aqak, ʔayaakitʔaaɬ qʷaqʷaaʔaaḥii ʔuuksnaʕaaɬ c̓aḥʷackʷi. ʔan ʔuutaqitʔaaɬ waɬyaqiɬḥ."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "When a baby was born, they used to do many things with the afterbirth, since they used to take care of it at home.",
       "words": [
         {
           "transcription": "ʔaamumɬʔaƛquu",
-          "analysis": "ʔam-umɬ-ʼaƛ-quː",
+          "analysis": {
+            "default": "ʔam-umɬ-ʼaƛ-quː"
+          },
           "gloss": "first-be.born-FINITE-COND",
           "literal": "when.first.born",
           "morphemes": [
             {
-              "transcription": "ʔam",
+              "transcription": {
+                "default": "ʔam"
+              },
               "gloss": "first"
             },
             {
-              "transcription": "umɬ",
+              "transcription": {
+                "default": "umɬ"
+              },
               "gloss": "be.born"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             },
             {
-              "transcription": "quː",
+              "transcription": {
+                "default": "quː"
+              },
               "gloss": "COND"
             }
           ]
         },
         {
           "transcription": "nay̓aqak",
-          "analysis": "nay̓aqak",
+          "analysis": {
+            "default": "nay̓aqak"
+          },
           "gloss": "baby",
           "literal": "baby",
           "morphemes": [
             {
-              "transcription": "nay̓aqak",
+              "transcription": {
+                "default": "nay̓aqak"
+              },
               "gloss": "baby"
             }
           ]
         },
         {
           "transcription": "ʔayaakitʔaaɬ",
-          "analysis": "ʔaya-ʔa·k-it-ʔaːɬ",
+          "analysis": {
+            "default": "ʔaya-ʔa·k-it-ʔaːɬ"
+          },
           "gloss": "many-POSS-PAST-always",
           "literal": "there.are.many",
           "morphemes": [
             {
-              "transcription": "ʔaya",
+              "transcription": {
+                "default": "ʔaya"
+              },
               "gloss": "many"
             },
             {
-              "transcription": "ʔa·k",
+              "transcription": {
+                "default": "ʔa·k"
+              },
               "gloss": "POSS"
             },
             {
-              "transcription": "it",
+              "transcription": {
+                "default": "it"
+              },
               "gloss": "PAST"
             },
             {
-              "transcription": "ʔaːɬ",
+              "transcription": {
+                "default": "ʔaːɬ"
+              },
               "gloss": "always"
             }
           ]
         },
         {
           "transcription": "qʷaqʷaaʔaaḥii",
-          "analysis": "DUP.CV-qʷaː-ʼaːḥ-(y)iː",
+          "analysis": {
+            "default": "DUP.CV-qʷaː-ʼaːḥ-(y)iː"
+          },
           "gloss": "DISTR-thus-perhaps-INDF.3",
           "literal": "they.used.to.do",
           "morphemes": [
             {
-              "transcription": "DUP.CV",
+              "transcription": {
+                "default": "DUP.CV"
+              },
               "gloss": "DISTR"
             },
             {
-              "transcription": "qʷaː",
+              "transcription": {
+                "default": "qʷaː"
+              },
               "gloss": "thus"
             },
             {
-              "transcription": "ʼaːḥ",
+              "transcription": {
+                "default": "ʼaːḥ"
+              },
               "gloss": "perhaps"
             },
             {
-              "transcription": "(y)iː",
+              "transcription": {
+                "default": "(y)iː"
+              },
               "gloss": "INDF.3"
             }
           ]
         },
         {
           "transcription": "ʔuuksnaʕaaɬ",
-          "analysis": "ʔu-ksnaʕaːɬ",
+          "analysis": {
+            "default": "ʔu-ksnaʕaːɬ"
+          },
           "gloss": "it-handling",
           "literal": "handling.it",
           "morphemes": [
             {
-              "transcription": "ʔu",
+              "transcription": {
+                "default": "ʔu"
+              },
               "gloss": "it"
             },
             {
-              "transcription": "ksnaʕaːɬ",
+              "transcription": {
+                "default": "ksnaʕaːɬ"
+              },
               "gloss": "handling"
             }
           ]
         },
         {
           "transcription": "c̓aḥʷackʷi",
-          "analysis": "c̓aḥʷackʷi",
+          "analysis": {
+            "default": "c̓aḥʷackʷi"
+          },
           "gloss": "afterbirth",
           "literal": "afterbirth",
           "morphemes": [
             {
-              "transcription": "c̓aḥʷackʷi",
+              "transcription": {
+                "default": "c̓aḥʷackʷi"
+              },
               "gloss": "afterbirth"
             }
           ]
         },
         {
           "transcription": "ʔan",
-          "analysis": "ʔan",
+          "analysis": {
+            "default": "ʔan"
+          },
           "gloss": "because",
           "literal": "because",
           "morphemes": [
             {
-              "transcription": "ʔan",
+              "transcription": {
+                "default": "ʔan"
+              },
               "gloss": "because"
             }
           ]
         },
         {
           "transcription": "ʔuutaqitʔaaɬ",
-          "analysis": "ʔu-taq-it-ʔaːɬ",
+          "analysis": {
+            "default": "ʔu-taq-it-ʔaːɬ"
+          },
           "gloss": "it-take.care.of-PAST-always",
           "literal": "they.used.to.take.care.of",
           "morphemes": [
             {
-              "transcription": "ʔu",
+              "transcription": {
+                "default": "ʔu"
+              },
               "gloss": "it"
             },
             {
-              "transcription": "taq",
+              "transcription": {
+                "default": "taq"
+              },
               "gloss": "take.care.of"
             },
             {
-              "transcription": "it",
+              "transcription": {
+                "default": "it"
+              },
               "gloss": "PAST"
             },
             {
-              "transcription": "ʔaːɬ",
+              "transcription": {
+                "default": "ʔaːɬ"
+              },
               "gloss": "always"
             }
           ]
         },
         {
           "transcription": "waɬyaqiɬḥ",
-          "analysis": "waɬ-yaq-ʽiɬ-(q)ḥ",
+          "analysis": {
+            "default": "waɬ-yaq-ʽiɬ-(q)ḥ"
+          },
           "gloss": "go.home-done-in.the.house-SIM",
           "literal": "at.home",
           "morphemes": [
             {
-              "transcription": "waɬ",
+              "transcription": {
+                "default": "waɬ"
+              },
               "gloss": "go.home"
             },
             {
-              "transcription": "yaq",
+              "transcription": {
+                "default": "yaq"
+              },
               "gloss": "done"
             },
             {
-              "transcription": "ʽiɬ",
+              "transcription": {
+                "default": "ʽiɬ"
+              },
               "gloss": "in.the.house"
             },
             {
-              "transcription": "(q)ḥ",
+              "transcription": {
+                "default": "(q)ḥ"
+              },
               "gloss": "SIM"
             }
           ]
@@ -188,86 +260,120 @@
     },
     {
       "metadata": "002",
-      "transcript": "c̓uy̓iitap̓aƛ, wik, ʔanasiɬa c̓uy̓iitap waḥšiƛ.",
-      "transcription": "",
+      "transcript": {
+        "default": "c̓uy̓iitap̓aƛ, wik, ʔanasiɬa c̓uy̓iitap waḥšiƛ."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "They buried it [carefully]. They didn’t just bury it or throw it away.",
       "words": [
         {
           "transcription": "c̓uy̓iitap̓aƛ",
-          "analysis": "c̓us-ʼi·tap-ʼaƛ",
+          "analysis": {
+            "default": "c̓us-ʼi·tap-ʼaƛ"
+          },
           "gloss": "dig-on.the.ground-FINITE",
           "literal": "buried.it",
           "morphemes": [
             {
-              "transcription": "c̓us",
+              "transcription": {
+                "default": "c̓us"
+              },
               "gloss": "dig"
             },
             {
-              "transcription": "ʼi·tap",
+              "transcription": {
+                "default": "ʼi·tap"
+              },
               "gloss": "on.the.ground"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             }
           ]
         },
         {
           "transcription": "wik",
-          "analysis": "wik",
+          "analysis": {
+            "default": "wik"
+          },
           "gloss": "not",
           "literal": "not",
           "morphemes": [
             {
-              "transcription": "wik",
+              "transcription": {
+                "default": "wik"
+              },
               "gloss": "not"
             }
           ]
         },
         {
           "transcription": "ʔanasiɬa",
-          "analysis": "ʔana-siɬa",
+          "analysis": {
+            "default": "ʔana-siɬa"
+          },
           "gloss": "only-do",
           "literal": "doing.only",
           "morphemes": [
             {
-              "transcription": "ʔana",
+              "transcription": {
+                "default": "ʔana"
+              },
               "gloss": "only"
             },
             {
-              "transcription": "siɬa",
+              "transcription": {
+                "default": "siɬa"
+              },
               "gloss": "do"
             }
           ]
         },
         {
           "transcription": "c̓uy̓iitap",
-          "analysis": "c̓us-ʼi·tap",
+          "analysis": {
+            "default": "c̓us-ʼi·tap"
+          },
           "gloss": "dig-on.the.ground",
           "literal": "bury.in.the.ground",
           "morphemes": [
             {
-              "transcription": "c̓us",
+              "transcription": {
+                "default": "c̓us"
+              },
               "gloss": "dig"
             },
             {
-              "transcription": "ʼi·tap",
+              "transcription": {
+                "default": "ʼi·tap"
+              },
               "gloss": "on.the.ground"
             }
           ]
         },
         {
           "transcription": "waḥšiƛ",
-          "analysis": "waḥ-šiƛ",
+          "analysis": {
+            "default": "waḥ-šiƛ"
+          },
           "gloss": "discard-MOM",
           "literal": "get.rid.of",
           "morphemes": [
             {
-              "transcription": "waḥ",
+              "transcription": {
+                "default": "waḥ"
+              },
               "gloss": "discard"
             },
             {
-              "transcription": "šiƛ",
+              "transcription": {
+                "default": "šiƛ"
+              },
               "gloss": "MOM"
             }
           ]
@@ -276,214 +382,298 @@
     },
     {
       "metadata": "003",
-      "transcript": "ʔuuksnaʕaaɬʔaƛquu qʷiimaʕukmaḥsaʔitq ḥaakʷaaƛ. ƛ̓aʕiiksap t̓ut̓unaxk̓uk, pic̓up, č̓itapt. qʷiqʔiitq pikaʔuuqiiɬy̓ak (paaskitiiɬy̓ak). ƛ̓aʕiiksap̓aƛ, c̓uy̓iitap̓aƛ.",
-      "transcription": "",
+      "transcript": {
+        "default": "ʔuuksnaʕaaɬʔaƛquu qʷiimaʕukmaḥsaʔitq ḥaakʷaaƛ. ƛ̓aʕiiksap t̓ut̓unaxk̓uk, pic̓up, č̓itapt. qʷiqʔiitq pikaʔuuqiiɬy̓ak (paaskitiiɬy̓ak). ƛ̓aʕiiksap̓aƛ, c̓uy̓iitap̓aƛ."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "They took whatever they wanted the girl to be talented at and wrap it [with the afterbirth]: they put things like tule grass, cedar bark, swamp grass, or whatever they used to make baskets with.",
       "words": [
         {
           "transcription": "ʔuuksnaʕaaɬʔaƛquu",
-          "analysis": "ʔu-ksnaʕaːɬ-ʼaƛ-quː",
+          "analysis": {
+            "default": "ʔu-ksnaʕaːɬ-ʼaƛ-quː"
+          },
           "gloss": "it-handling-FINITE-COND",
           "literal": "they.would.take.it",
           "morphemes": [
             {
-              "transcription": "ʔu",
+              "transcription": {
+                "default": "ʔu"
+              },
               "gloss": "it"
             },
             {
-              "transcription": "ksnaʕaːɬ",
+              "transcription": {
+                "default": "ksnaʕaːɬ"
+              },
               "gloss": "handling"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             },
             {
-              "transcription": "quː",
+              "transcription": {
+                "default": "quː"
+              },
               "gloss": "COND"
             }
           ]
         },
         {
           "transcription": "qʷiimaʕukmaḥsaʔitq",
-          "analysis": "qʷi-maʕuk-maḥsa-ʔi·tq",
+          "analysis": {
+            "default": "qʷi-maʕuk-maḥsa-ʔi·tq"
+          },
           "gloss": "that.which-one.skilled.in-designing.to-REL.3",
           "literal": "what.they.want.her.to.be.talented.at",
           "morphemes": [
             {
-              "transcription": "qʷi",
+              "transcription": {
+                "default": "qʷi"
+              },
               "gloss": "that.which"
             },
             {
-              "transcription": "maʕuk",
+              "transcription": {
+                "default": "maʕuk"
+              },
               "gloss": "one.skilled.in"
             },
             {
-              "transcription": "maḥsa",
+              "transcription": {
+                "default": "maḥsa"
+              },
               "gloss": "designing.to"
             },
             {
-              "transcription": "ʔi·tq",
+              "transcription": {
+                "default": "ʔi·tq"
+              },
               "gloss": "REL.3"
             }
           ]
         },
         {
           "transcription": "ḥaakʷaaƛ",
-          "analysis": "ḥaːkʷa·ƛ",
+          "analysis": {
+            "default": "ḥaːkʷa·ƛ"
+          },
           "gloss": "girl",
           "literal": "girl",
           "morphemes": [
             {
-              "transcription": "ḥaːkʷa·ƛ",
+              "transcription": {
+                "default": "ḥaːkʷa·ƛ"
+              },
               "gloss": "girl"
             }
           ]
         },
         {
           "transcription": "ƛ̓aʕiiksap",
-          "analysis": "ƛ̓aʕiːk-sa·p",
+          "analysis": {
+            "default": "ƛ̓aʕiːk-sa·p"
+          },
           "gloss": "wrapped-MOMCAUS",
           "literal": "wrap",
           "morphemes": [
             {
-              "transcription": "ƛ̓aʕiːk",
+              "transcription": {
+                "default": "ƛ̓aʕiːk"
+              },
               "gloss": "wrapped"
             },
             {
-              "transcription": "sa·p",
+              "transcription": {
+                "default": "sa·p"
+              },
               "gloss": "MOMCAUS"
             }
           ]
         },
         {
           "transcription": "t̓ut̓unaxk̓uk",
-          "analysis": "t̓ut̓unaxk̓uk",
+          "analysis": {
+            "default": "t̓ut̓unaxk̓uk"
+          },
           "gloss": "tule.grass",
           "literal": "tule.grass",
           "morphemes": [
             {
-              "transcription": "t̓ut̓unaxk̓uk",
+              "transcription": {
+                "default": "t̓ut̓unaxk̓uk"
+              },
               "gloss": "tule.grass"
             }
           ]
         },
         {
           "transcription": "pic̓up",
-          "analysis": "pic̓up",
+          "analysis": {
+            "default": "pic̓up"
+          },
           "gloss": "bark",
           "literal": "bark",
           "morphemes": [
             {
-              "transcription": "pic̓up",
+              "transcription": {
+                "default": "pic̓up"
+              },
               "gloss": "bark"
             }
           ]
         },
         {
           "transcription": "č̓itapt",
-          "analysis": "č̓itapt",
+          "analysis": {
+            "default": "č̓itapt"
+          },
           "gloss": "swamp.grass",
           "literal": "swamp.grass",
           "morphemes": [
             {
-              "transcription": "č̓itapt",
+              "transcription": {
+                "default": "č̓itapt"
+              },
               "gloss": "swamp.grass"
             }
           ]
         },
         {
           "transcription": "qʷiqʔiitq",
-          "analysis": "qʷiq-ʔi·tq",
+          "analysis": {
+            "default": "qʷiq-ʔi·tq"
+          },
           "gloss": "that.which-REL.3",
           "literal": "that.which",
           "morphemes": [
             {
-              "transcription": "qʷiq",
+              "transcription": {
+                "default": "qʷiq"
+              },
               "gloss": "that.which"
             },
             {
-              "transcription": "ʔi·tq",
+              "transcription": {
+                "default": "ʔi·tq"
+              },
               "gloss": "REL.3"
             }
           ]
         },
         {
           "transcription": "pikaʔuuqiiɬy̓ak",
-          "analysis": "pikaʔuːq-iːɬ-y̓akʷ",
+          "analysis": {
+            "default": "pikaʔuːq-iːɬ-y̓akʷ"
+          },
           "gloss": "basket-make-useful.for",
           "literal": "for.making.baskets",
           "morphemes": [
             {
-              "transcription": "pikaʔuːq",
+              "transcription": {
+                "default": "pikaʔuːq"
+              },
               "gloss": "basket"
             },
             {
-              "transcription": "iːɬ",
+              "transcription": {
+                "default": "iːɬ"
+              },
               "gloss": "make"
             },
             {
-              "transcription": "y̓akʷ",
+              "transcription": {
+                "default": "y̓akʷ"
+              },
               "gloss": "useful.for"
             }
           ]
         },
         {
           "transcription": "paaskitiiɬy̓ak",
-          "analysis": "paːskit-iːɬ-y̓akʷ",
+          "analysis": {
+            "default": "paːskit-iːɬ-y̓akʷ"
+          },
           "gloss": "basket-make-useful.for",
           "literal": "for.making.baskets",
           "morphemes": [
             {
-              "transcription": "paːskit",
+              "transcription": {
+                "default": "paːskit"
+              },
               "gloss": "basket"
             },
             {
-              "transcription": "iːɬ",
+              "transcription": {
+                "default": "iːɬ"
+              },
               "gloss": "make"
             },
             {
-              "transcription": "y̓akʷ",
+              "transcription": {
+                "default": "y̓akʷ"
+              },
               "gloss": "useful.for"
             }
           ]
         },
         {
           "transcription": "ƛ̓aʕiiksap̓aƛ",
-          "analysis": "ƛ̓aʕiːk-sa·p-ʼaƛ",
+          "analysis": {
+            "default": "ƛ̓aʕiːk-sa·p-ʼaƛ"
+          },
           "gloss": "wrapped-MOMCAUS-FINITE",
           "literal": "wrap.up",
           "morphemes": [
             {
-              "transcription": "ƛ̓aʕiːk",
+              "transcription": {
+                "default": "ƛ̓aʕiːk"
+              },
               "gloss": "wrapped"
             },
             {
-              "transcription": "sa·p",
+              "transcription": {
+                "default": "sa·p"
+              },
               "gloss": "MOMCAUS"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             }
           ]
         },
         {
           "transcription": "c̓uy̓iitap̓aƛ",
-          "analysis": "c̓us-ʼi·tap-ʼaƛ",
+          "analysis": {
+            "default": "c̓us-ʼi·tap-ʼaƛ"
+          },
           "gloss": "dig-on.the.ground-FINITE",
           "literal": "buried.it",
           "morphemes": [
             {
-              "transcription": "c̓us",
+              "transcription": {
+                "default": "c̓us"
+              },
               "gloss": "dig"
             },
             {
-              "transcription": "ʼi·tap",
+              "transcription": {
+                "default": "ʼi·tap"
+              },
               "gloss": "on.the.ground"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             }
           ]
@@ -492,78 +682,110 @@
     },
     {
       "metadata": "004",
-      "transcript": "wik, ʔaanasiɬasa, ciciqinkḥʔaƛ qʷaaʔap.",
-      "transcription": "",
+      "transcript": {
+        "default": "wik, ʔaanasiɬasa, ciciqinkḥʔaƛ qʷaaʔap."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "They didn’t just bury it — they prayed as they are doing it.",
       "words": [
         {
           "transcription": "wik",
-          "analysis": "wik",
+          "analysis": {
+            "default": "wik"
+          },
           "gloss": "not",
           "literal": "not",
           "morphemes": [
             {
-              "transcription": "wik",
+              "transcription": {
+                "default": "wik"
+              },
               "gloss": "not"
             }
           ]
         },
         {
           "transcription": "ʔaanasiɬasa",
-          "analysis": "ʔana-siɬa-sa",
+          "analysis": {
+            "default": "ʔana-siɬa-sa"
+          },
           "gloss": "only-do-just",
           "literal": "not.just.doing",
           "morphemes": [
             {
-              "transcription": "ʔana",
+              "transcription": {
+                "default": "ʔana"
+              },
               "gloss": "only"
             },
             {
-              "transcription": "siɬa",
+              "transcription": {
+                "default": "siɬa"
+              },
               "gloss": "do"
             },
             {
-              "transcription": "sa",
+              "transcription": {
+                "default": "sa"
+              },
               "gloss": "just"
             }
           ]
         },
         {
           "transcription": "ciciqinkḥʔaƛ",
-          "analysis": "ciq-inkʷ-(q)ḥ-ʼaƛ",
+          "analysis": {
+            "default": "ciq-inkʷ-(q)ḥ-ʼaƛ"
+          },
           "gloss": "speak-converse.with-SIM-FINITE",
           "literal": "as.they.pay",
           "morphemes": [
             {
-              "transcription": "ciq",
+              "transcription": {
+                "default": "ciq"
+              },
               "gloss": "speak"
             },
             {
-              "transcription": "inkʷ",
+              "transcription": {
+                "default": "inkʷ"
+              },
               "gloss": "converse.with"
             },
             {
-              "transcription": "(q)ḥ",
+              "transcription": {
+                "default": "(q)ḥ"
+              },
               "gloss": "SIM"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             }
           ]
         },
         {
           "transcription": "qʷaaʔap",
-          "analysis": "qʷaː-ʼap",
+          "analysis": {
+            "default": "qʷaː-ʼap"
+          },
           "gloss": "thus-MOMCAUS",
           "literal": "doing.that",
           "morphemes": [
             {
-              "transcription": "qʷaː",
+              "transcription": {
+                "default": "qʷaː"
+              },
               "gloss": "thus"
             },
             {
-              "transcription": "ʼap",
+              "transcription": {
+                "default": "ʼap"
+              },
               "gloss": "MOMCAUS"
             }
           ]
@@ -572,74 +794,102 @@
     },
     {
       "metadata": "005",
-      "transcript": "waa ḥaaw̓iiḥaƛ y̓uuqʷaa, hiihiiqšaḥap̓at y̓uuqʷaa.",
-      "transcription": "",
+      "transcript": {
+        "default": "waa ḥaaw̓iiḥaƛ y̓uuqʷaa, hiihiiqšaḥap̓at y̓uuqʷaa."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "And for boys too, they did all sorts of things.",
       "words": [
         {
           "transcription": "waa",
-          "analysis": "wa·",
+          "analysis": {
+            "default": "wa·"
+          },
           "gloss": "and",
           "literal": "and",
           "morphemes": [
             {
-              "transcription": "wa·",
+              "transcription": {
+                "default": "wa·"
+              },
               "gloss": "and"
             }
           ]
         },
         {
           "transcription": "ḥaaw̓iiḥaƛ",
-          "analysis": "ḥaːw̓iːḥaƛ",
+          "analysis": {
+            "default": "ḥaːw̓iːḥaƛ"
+          },
           "gloss": "boys",
           "literal": "boys",
           "morphemes": [
             {
-              "transcription": "ḥaːw̓iːḥaƛ",
+              "transcription": {
+                "default": "ḥaːw̓iːḥaƛ"
+              },
               "gloss": "boys"
             }
           ]
         },
         {
           "transcription": "y̓uuqʷaa",
-          "analysis": "y̓uːqʷaː",
+          "analysis": {
+            "default": "y̓uːqʷaː"
+          },
           "gloss": "also",
           "literal": "also",
           "morphemes": [
             {
-              "transcription": "y̓uːqʷaː",
+              "transcription": {
+                "default": "y̓uːqʷaː"
+              },
               "gloss": "also"
             }
           ]
         },
         {
           "transcription": "hiihiiqšaḥap̓at",
-          "analysis": "hiːhiːq-šaḥap-ʼat",
+          "analysis": {
+            "default": "hiːhiːq-šaḥap-ʼat"
+          },
           "gloss": "various-doing-SHIFT",
           "literal": "doing.various.things.to.him",
           "morphemes": [
             {
-              "transcription": "hiːhiːq",
+              "transcription": {
+                "default": "hiːhiːq"
+              },
               "gloss": "various"
             },
             {
-              "transcription": "šaḥap",
+              "transcription": {
+                "default": "šaḥap"
+              },
               "gloss": "doing"
             },
             {
-              "transcription": "ʼat",
+              "transcription": {
+                "default": "ʼat"
+              },
               "gloss": "SHIFT"
             }
           ]
         },
         {
           "transcription": "y̓uuqʷaa",
-          "analysis": "y̓uːqʷaː",
+          "analysis": {
+            "default": "y̓uːqʷaː"
+          },
           "gloss": "also",
           "literal": "also",
           "morphemes": [
             {
-              "transcription": "y̓uːqʷaː",
+              "transcription": {
+                "default": "y̓uːqʷaː"
+              },
               "gloss": "also"
             }
           ]
@@ -648,142 +898,200 @@
     },
     {
       "metadata": "006",
-      "transcript": "ʔuuwink̓ap̓at čiicy̓akštup, qʷaaqḥcumʔitq wiicaḥi ʔuʔuʔiiḥʔaƛquu muwač hihiqtup.",
-      "transcription": "",
+      "transcript": {
+        "default": "ʔuuwink̓ap̓at čiicy̓akštup, qʷaaqḥcumʔitq wiicaḥi ʔuʔuʔiiḥʔaƛquu muwač hihiqtup."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "They used to put fishing gear or whatever that would make him well-off when he hunted for deer and so on.",
       "words": [
         {
           "transcription": "ʔuuwink̓ap̓at",
-          "analysis": "ʔu-wink-ʼap-ʼat",
+          "analysis": {
+            "default": "ʔu-wink-ʼap-ʼat"
+          },
           "gloss": "it-mix.with-MOMCAUS-SHIFT",
           "literal": "mix.with",
           "morphemes": [
             {
-              "transcription": "ʔu",
+              "transcription": {
+                "default": "ʔu"
+              },
               "gloss": "it"
             },
             {
-              "transcription": "wink",
+              "transcription": {
+                "default": "wink"
+              },
               "gloss": "mix.with"
             },
             {
-              "transcription": "ʼap",
+              "transcription": {
+                "default": "ʼap"
+              },
               "gloss": "MOMCAUS"
             },
             {
-              "transcription": "ʼat",
+              "transcription": {
+                "default": "ʼat"
+              },
               "gloss": "SHIFT"
             }
           ]
         },
         {
           "transcription": "čiicy̓akštup",
-          "analysis": "čiːc-y̓akʷ-štu·p",
+          "analysis": {
+            "default": "čiːc-y̓akʷ-štu·p"
+          },
           "gloss": "go.fishing-thing.for-thing",
           "literal": "fishing.gear",
           "morphemes": [
             {
-              "transcription": "čiːc",
+              "transcription": {
+                "default": "čiːc"
+              },
               "gloss": "go.fishing"
             },
             {
-              "transcription": "y̓akʷ",
+              "transcription": {
+                "default": "y̓akʷ"
+              },
               "gloss": "thing.for"
             },
             {
-              "transcription": "štu·p",
+              "transcription": {
+                "default": "štu·p"
+              },
               "gloss": "thing"
             }
           ]
         },
         {
           "transcription": "qʷaaqḥcumʔitq",
-          "analysis": "qʷaː-(q)ḥ-cum-ʔi·tq",
+          "analysis": {
+            "default": "qʷaː-(q)ḥ-cum-ʔi·tq"
+          },
           "gloss": "thus-SIM-should-REL.3",
           "literal": "whatever.that.would.make.him",
           "morphemes": [
             {
-              "transcription": "qʷaː",
+              "transcription": {
+                "default": "qʷaː"
+              },
               "gloss": "thus"
             },
             {
-              "transcription": "(q)ḥ",
+              "transcription": {
+                "default": "(q)ḥ"
+              },
               "gloss": "SIM"
             },
             {
-              "transcription": "cum",
+              "transcription": {
+                "default": "cum"
+              },
               "gloss": "should"
             },
             {
-              "transcription": "ʔi·tq",
+              "transcription": {
+                "default": "ʔi·tq"
+              },
               "gloss": "REL.3"
             }
           ]
         },
         {
           "transcription": "wiicaḥi",
-          "analysis": "wica-ḥi·",
+          "analysis": {
+            "default": "wica-ḥi·"
+          },
           "gloss": "wealth-DUR",
           "literal": "well.off.person",
           "morphemes": [
             {
-              "transcription": "wica",
+              "transcription": {
+                "default": "wica"
+              },
               "gloss": "wealth"
             },
             {
-              "transcription": "ḥi·",
+              "transcription": {
+                "default": "ḥi·"
+              },
               "gloss": "DUR"
             }
           ]
         },
         {
           "transcription": "ʔuʔuʔiiḥʔaƛquu",
-          "analysis": "ʔu-ʼiːḥ-ʼaƛ-quː",
+          "analysis": {
+            "default": "ʔu-ʼiːḥ-ʼaƛ-quː"
+          },
           "gloss": "it-hunting-FINITE-COND",
           "literal": "when.he.hunted.for",
           "morphemes": [
             {
-              "transcription": "ʔu",
+              "transcription": {
+                "default": "ʔu"
+              },
               "gloss": "it"
             },
             {
-              "transcription": "ʼiːḥ",
+              "transcription": {
+                "default": "ʼiːḥ"
+              },
               "gloss": "hunting"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             },
             {
-              "transcription": "quː",
+              "transcription": {
+                "default": "quː"
+              },
               "gloss": "COND"
             }
           ]
         },
         {
           "transcription": "muwač",
-          "analysis": "muwač",
+          "analysis": {
+            "default": "muwač"
+          },
           "gloss": "deer",
           "literal": "deer",
           "morphemes": [
             {
-              "transcription": "muwač",
+              "transcription": {
+                "default": "muwač"
+              },
               "gloss": "deer"
             }
           ]
         },
         {
           "transcription": "hihiqtup",
-          "analysis": "hihiq-tu·p",
+          "analysis": {
+            "default": "hihiq-tu·p"
+          },
           "gloss": "various-thing",
           "literal": "various.things",
           "morphemes": [
             {
-              "transcription": "hihiq",
+              "transcription": {
+                "default": "hihiq"
+              },
               "gloss": "various"
             },
             {
-              "transcription": "tu·p",
+              "transcription": {
+                "default": "tu·p"
+              },
               "gloss": "thing"
             }
           ]
@@ -792,150 +1100,210 @@
     },
     {
       "metadata": "007",
-      "transcript": "y̓uuqʷaa ʔuuksnaʕaaɬʔat c̓uy̓iitapw̓it̓asʔaƛquu c̓aḥʷackʷi. y̓uuqʷaa č̓iima, qʷiimaʕukmaḥsap̓atʔitq ʕaakʕaakʷa.",
-      "transcription": "",
+      "transcript": {
+        "default": "y̓uuqʷaa ʔuuksnaʕaaɬʔat c̓uy̓iitapw̓it̓asʔaƛquu c̓aḥʷackʷi. y̓uuqʷaa č̓iima, qʷiimaʕukmaḥsap̓atʔitq ʕaakʕaakʷa."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "Also they used to bury with the afterbirth a knife and whatever you would want him to be talented at carving.",
       "words": [
         {
           "transcription": "y̓uuqʷaa",
-          "analysis": "y̓uːqʷaː",
+          "analysis": {
+            "default": "y̓uːqʷaː"
+          },
           "gloss": "also",
           "literal": "also",
           "morphemes": [
             {
-              "transcription": "y̓uːqʷaː",
+              "transcription": {
+                "default": "y̓uːqʷaː"
+              },
               "gloss": "also"
             }
           ]
         },
         {
           "transcription": "ʔuuksnaʕaaɬʔat",
-          "analysis": "ʔu-ksnaʕaːɬ-ʼat",
+          "analysis": {
+            "default": "ʔu-ksnaʕaːɬ-ʼat"
+          },
           "gloss": "it-handling-SHIFT",
           "literal": "they.would.take",
           "morphemes": [
             {
-              "transcription": "ʔu",
+              "transcription": {
+                "default": "ʔu"
+              },
               "gloss": "it"
             },
             {
-              "transcription": "ksnaʕaːɬ",
+              "transcription": {
+                "default": "ksnaʕaːɬ"
+              },
               "gloss": "handling"
             },
             {
-              "transcription": "ʼat",
+              "transcription": {
+                "default": "ʼat"
+              },
               "gloss": "SHIFT"
             }
           ]
         },
         {
           "transcription": "c̓uy̓iitapw̓it̓asʔaƛquu",
-          "analysis": "c̓us-ʼi·tap-w̓it̓as-ʼaƛ-quː",
+          "analysis": {
+            "default": "c̓us-ʼi·tap-w̓it̓as-ʼaƛ-quː"
+          },
           "gloss": "dig-on.the.ground-about.to-FINITE-COND",
           "literal": "they.would.be.burying.it",
           "morphemes": [
             {
-              "transcription": "c̓us",
+              "transcription": {
+                "default": "c̓us"
+              },
               "gloss": "dig"
             },
             {
-              "transcription": "ʼi·tap",
+              "transcription": {
+                "default": "ʼi·tap"
+              },
               "gloss": "on.the.ground"
             },
             {
-              "transcription": "w̓it̓as",
+              "transcription": {
+                "default": "w̓it̓as"
+              },
               "gloss": "about.to"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             },
             {
-              "transcription": "quː",
+              "transcription": {
+                "default": "quː"
+              },
               "gloss": "COND"
             }
           ]
         },
         {
           "transcription": "c̓aḥʷackʷi",
-          "analysis": "c̓aḥʷackʷi",
+          "analysis": {
+            "default": "c̓aḥʷackʷi"
+          },
           "gloss": "afterbirth",
           "literal": "afterbirth",
           "morphemes": [
             {
-              "transcription": "c̓aḥʷackʷi",
+              "transcription": {
+                "default": "c̓aḥʷackʷi"
+              },
               "gloss": "afterbirth"
             }
           ]
         },
         {
           "transcription": "y̓uuqʷaa",
-          "analysis": "y̓uːqʷaː",
+          "analysis": {
+            "default": "y̓uːqʷaː"
+          },
           "gloss": "also",
           "literal": "also",
           "morphemes": [
             {
-              "transcription": "y̓uːqʷaː",
+              "transcription": {
+                "default": "y̓uːqʷaː"
+              },
               "gloss": "also"
             }
           ]
         },
         {
           "transcription": "č̓iima",
-          "analysis": "č̓iːma",
+          "analysis": {
+            "default": "č̓iːma"
+          },
           "gloss": "knife",
           "literal": "knife",
           "morphemes": [
             {
-              "transcription": "č̓iːma",
+              "transcription": {
+                "default": "č̓iːma"
+              },
               "gloss": "knife"
             }
           ]
         },
         {
           "transcription": "qʷiimaʕukmaḥsap̓atʔitq",
-          "analysis": "qʷi-maʕuk-maḥsa-ʼap-ʼat-ʔi·tq",
+          "analysis": {
+            "default": "qʷi-maʕuk-maḥsa-ʼap-ʼat-ʔi·tq"
+          },
           "gloss": "that.which-one.skilled.in-desiring.to-MOMCAUS-SHIFT-REL.3",
           "literal": "what.they.want.him.to.be.talented.at",
           "morphemes": [
             {
-              "transcription": "qʷi",
+              "transcription": {
+                "default": "qʷi"
+              },
               "gloss": "that.which"
             },
             {
-              "transcription": "maʕuk",
+              "transcription": {
+                "default": "maʕuk"
+              },
               "gloss": "one.skilled.in"
             },
             {
-              "transcription": "maḥsa",
+              "transcription": {
+                "default": "maḥsa"
+              },
               "gloss": "desiring.to"
             },
             {
-              "transcription": "ʼap",
+              "transcription": {
+                "default": "ʼap"
+              },
               "gloss": "MOMCAUS"
             },
             {
-              "transcription": "ʼat",
+              "transcription": {
+                "default": "ʼat"
+              },
               "gloss": "SHIFT"
             },
             {
-              "transcription": "ʔi·tq",
+              "transcription": {
+                "default": "ʔi·tq"
+              },
               "gloss": "REL.3"
             }
           ]
         },
         {
           "transcription": "ʕaakʕaakʷa",
-          "analysis": "ʕakʷ-(y)a",
+          "analysis": {
+            "default": "ʕakʷ-(y)a"
+          },
           "gloss": "cut-REP",
           "literal": "carving",
           "morphemes": [
             {
-              "transcription": "ʕakʷ",
+              "transcription": {
+                "default": "ʕakʷ"
+              },
               "gloss": "cut"
             },
             {
-              "transcription": "(y)a",
+              "transcription": {
+                "default": "(y)a"
+              },
               "gloss": "REP"
             }
           ]
@@ -944,62 +1312,86 @@
     },
     {
       "metadata": "008",
-      "transcript": "ʔaḥʔaa qʷisitʔaaɬ huuʔak ʔuyi.",
-      "transcription": "",
+      "transcript": {
+        "default": "ʔaḥʔaa qʷisitʔaaɬ huuʔak ʔuyi."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "That’s what they used to do a long time ago.",
       "words": [
         {
           "transcription": "ʔaḥʔaa",
-          "analysis": "ʔaḥʔaː",
+          "analysis": {
+            "default": "ʔaḥʔaː"
+          },
           "gloss": "that",
           "literal": "that",
           "morphemes": [
             {
-              "transcription": "ʔaḥʔaː",
+              "transcription": {
+                "default": "ʔaḥʔaː"
+              },
               "gloss": "that"
             }
           ]
         },
         {
           "transcription": "qʷisitʔaaɬ",
-          "analysis": "qʷis-it-ʔaːɬ",
+          "analysis": {
+            "default": "qʷis-it-ʔaːɬ"
+          },
           "gloss": "do.so-PAST-always",
           "literal": "what.they.would.do",
           "morphemes": [
             {
-              "transcription": "qʷis",
+              "transcription": {
+                "default": "qʷis"
+              },
               "gloss": "do.so"
             },
             {
-              "transcription": "it",
+              "transcription": {
+                "default": "it"
+              },
               "gloss": "PAST"
             },
             {
-              "transcription": "ʔaːɬ",
+              "transcription": {
+                "default": "ʔaːɬ"
+              },
               "gloss": "always"
             }
           ]
         },
         {
           "transcription": "huuʔak",
-          "analysis": "huːʔak",
+          "analysis": {
+            "default": "huːʔak"
+          },
           "gloss": "long.ago",
           "literal": "long.ago",
           "morphemes": [
             {
-              "transcription": "huːʔak",
+              "transcription": {
+                "default": "huːʔak"
+              },
               "gloss": "long.ago"
             }
           ]
         },
         {
           "transcription": "ʔuyi",
-          "analysis": "ʔuyi",
+          "analysis": {
+            "default": "ʔuyi"
+          },
           "gloss": "at.the.time",
           "literal": "at.that.time",
           "morphemes": [
             {
-              "transcription": "ʔuyi",
+              "transcription": {
+                "default": "ʔuyi"
+              },
               "gloss": "at.the.time"
             }
           ]
@@ -1008,58 +1400,82 @@
     },
     {
       "metadata": "009",
-      "transcript": "ƛaaḥc̓a ʔiiqḥiimit qʷaaʔap.",
-      "transcription": "",
+      "transcript": {
+        "default": "ƛaaḥc̓a ʔiiqḥiimit qʷaaʔap."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "People were still doing that until recently.",
       "words": [
         {
           "transcription": "ƛaaḥc̓a",
-          "analysis": "ƛaḥ-c̓a",
+          "analysis": {
+            "default": "ƛaḥ-c̓a"
+          },
           "gloss": "recent-??",
           "literal": "just.recently",
           "morphemes": [
             {
-              "transcription": "ƛaḥ",
+              "transcription": {
+                "default": "ƛaḥ"
+              },
               "gloss": "recent"
             },
             {
-              "transcription": "c̓a",
+              "transcription": {
+                "default": "c̓a"
+              },
               "gloss": "??"
             }
           ]
         },
         {
           "transcription": "ʔiiqḥiimit",
-          "analysis": "ʔiq-ḥi·-mit",
+          "analysis": {
+            "default": "ʔiq-ḥi·-mit"
+          },
           "gloss": "still-DUR-PAST",
           "literal": "still",
           "morphemes": [
             {
-              "transcription": "ʔiq",
+              "transcription": {
+                "default": "ʔiq"
+              },
               "gloss": "still"
             },
             {
-              "transcription": "ḥi·",
+              "transcription": {
+                "default": "ḥi·"
+              },
               "gloss": "DUR"
             },
             {
-              "transcription": "mit",
+              "transcription": {
+                "default": "mit"
+              },
               "gloss": "PAST"
             }
           ]
         },
         {
           "transcription": "qʷaaʔap",
-          "analysis": "qʷaː-ʼap",
+          "analysis": {
+            "default": "qʷaː-ʼap"
+          },
           "gloss": "thus-MOMCAUS",
           "literal": "doing.that",
           "morphemes": [
             {
-              "transcription": "qʷaː",
+              "transcription": {
+                "default": "qʷaː"
+              },
               "gloss": "thus"
             },
             {
-              "transcription": "ʼap",
+              "transcription": {
+                "default": "ʼap"
+              },
               "gloss": "MOMCAUS"
             }
           ]
@@ -1068,78 +1484,108 @@
     },
     {
       "metadata": "010",
-      "transcript": "ʔuukʷiɬ huḥtak ḥaakʷaaƛ histaqšiƛ ʕaaḥuusʔatḥ.",
-      "transcription": "",
+      "transcript": {
+        "default": "ʔuukʷiɬ huḥtak ḥaakʷaaƛ histaqšiƛ ʕaaḥuusʔatḥ."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "I know one girl from Ahousaht.",
       "words": [
         {
           "transcription": "ʔuukʷiɬ",
-          "analysis": "ʔu-kʷiɬ",
+          "analysis": {
+            "default": "ʔu-kʷiɬ"
+          },
           "gloss": "she-with.ref.to",
           "literal": "about.her",
           "morphemes": [
             {
-              "transcription": "ʔu",
+              "transcription": {
+                "default": "ʔu"
+              },
               "gloss": "she"
             },
             {
-              "transcription": "kʷiɬ",
+              "transcription": {
+                "default": "kʷiɬ"
+              },
               "gloss": "with.ref.to"
             }
           ]
         },
         {
           "transcription": "huḥtak",
-          "analysis": "huḥtak",
+          "analysis": {
+            "default": "huḥtak"
+          },
           "gloss": "know.how",
           "literal": "know.how",
           "morphemes": [
             {
-              "transcription": "huḥtak",
+              "transcription": {
+                "default": "huḥtak"
+              },
               "gloss": "know.how"
             }
           ]
         },
         {
           "transcription": "ḥaakʷaaƛ",
-          "analysis": "ḥaːkʷa·ƛ",
+          "analysis": {
+            "default": "ḥaːkʷa·ƛ"
+          },
           "gloss": "girl",
           "literal": "girl",
           "morphemes": [
             {
-              "transcription": "ḥaːkʷa·ƛ",
+              "transcription": {
+                "default": "ḥaːkʷa·ƛ"
+              },
               "gloss": "girl"
             }
           ]
         },
         {
           "transcription": "histaqšiƛ",
-          "analysis": "his-taq-šiƛ",
+          "analysis": {
+            "default": "his-taq-šiƛ"
+          },
           "gloss": "there-come.from-MOM",
           "literal": "came.from",
           "morphemes": [
             {
-              "transcription": "his",
+              "transcription": {
+                "default": "his"
+              },
               "gloss": "there"
             },
             {
-              "transcription": "taq",
+              "transcription": {
+                "default": "taq"
+              },
               "gloss": "come.from"
             },
             {
-              "transcription": "šiƛ",
+              "transcription": {
+                "default": "šiƛ"
+              },
               "gloss": "MOM"
             }
           ]
         },
         {
           "transcription": "ʕaaḥuusʔatḥ",
-          "analysis": "ʕaːḥuːsʔatḥ",
+          "analysis": {
+            "default": "ʕaːḥuːsʔatḥ"
+          },
           "gloss": "Ahousaht",
           "literal": "Ahousaht",
           "morphemes": [
             {
-              "transcription": "ʕaːḥuːsʔatḥ",
+              "transcription": {
+                "default": "ʕaːḥuːsʔatḥ"
+              },
               "gloss": "Ahousaht"
             }
           ]
@@ -1148,74 +1594,104 @@
     },
     {
       "metadata": "011",
-      "transcript": "qiičiʔaƛ y̓uuqʷaa ƛiisƛiisa ɬawyer-čiʔaƛ.",
-      "transcription": "",
+      "transcript": {
+        "default": "qiičiʔaƛ y̓uuqʷaa ƛiisƛiisa ɬawyer-čiʔaƛ."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "She went to school for a long time and became a lawyer.",
       "words": [
         {
           "transcription": "qiičiʔaƛ",
-          "analysis": "qiː-čiƛ-ʼaƛ",
+          "analysis": {
+            "default": "qiː-čiƛ-ʼaƛ"
+          },
           "gloss": "for.long-MOM-FINITE",
           "literal": "did.for.long",
           "morphemes": [
             {
-              "transcription": "qiː",
+              "transcription": {
+                "default": "qiː"
+              },
               "gloss": "for.long"
             },
             {
-              "transcription": "čiƛ",
+              "transcription": {
+                "default": "čiƛ"
+              },
               "gloss": "MOM"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             }
           ]
         },
         {
           "transcription": "y̓uuqʷaa",
-          "analysis": "y̓uːqʷaː",
+          "analysis": {
+            "default": "y̓uːqʷaː"
+          },
           "gloss": "also",
           "literal": "also",
           "morphemes": [
             {
-              "transcription": "y̓uːqʷaː",
+              "transcription": {
+                "default": "y̓uːqʷaː"
+              },
               "gloss": "also"
             }
           ]
         },
         {
           "transcription": "ƛiisƛiisa",
-          "analysis": "ƛiːs-(y)a",
+          "analysis": {
+            "default": "ƛiːs-(y)a"
+          },
           "gloss": "write-REP",
           "literal": "going.to.school",
           "morphemes": [
             {
-              "transcription": "ƛiːs",
+              "transcription": {
+                "default": "ƛiːs"
+              },
               "gloss": "write"
             },
             {
-              "transcription": "(y)a",
+              "transcription": {
+                "default": "(y)a"
+              },
               "gloss": "REP"
             }
           ]
         },
         {
           "transcription": "ɬawyerčiʔaƛ",
-          "analysis": "ɬawyer-čiƛ-ʼaƛ",
+          "analysis": {
+            "default": "ɬawyer-čiƛ-ʼaƛ"
+          },
           "gloss": "??-MOM-FINITE",
           "literal": "became.a.lawyer",
           "morphemes": [
             {
-              "transcription": "ɬawyer",
+              "transcription": {
+                "default": "ɬawyer"
+              },
               "gloss": "??"
             },
             {
-              "transcription": "čiƛ",
+              "transcription": {
+                "default": "čiƛ"
+              },
               "gloss": "MOM"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             }
           ]
@@ -1224,94 +1700,132 @@
     },
     {
       "metadata": "012",
-      "transcript": "ʔuuqstiickʷap̓atuk piipaa ʔuḥʔiiš ƛiisy̓ak, c̓uy̓iitap̓at.",
-      "transcription": "",
+      "transcript": {
+        "default": "ʔuuqstiickʷap̓atuk piipaa ʔuḥʔiiš ƛiisy̓ak, c̓uy̓iitap̓at."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "They had buried [for her] paper and pencils with the afterbirth.",
       "words": [
         {
           "transcription": "ʔuuqstiickʷap̓atuk",
-          "analysis": "ʔu-aqsti·-ckʷi·-ʼap-ʼat-uk",
+          "analysis": {
+            "default": "ʔu-aqsti·-ckʷi·-ʼap-ʼat-uk"
+          },
           "gloss": "it-among-happened-MOMCAUS-SHIFT-POSS",
           "literal": "they.had.put.in.theirs",
           "morphemes": [
             {
-              "transcription": "ʔu",
+              "transcription": {
+                "default": "ʔu"
+              },
               "gloss": "it"
             },
             {
-              "transcription": "aqsti·",
+              "transcription": {
+                "default": "aqsti·"
+              },
               "gloss": "among"
             },
             {
-              "transcription": "ckʷi·",
+              "transcription": {
+                "default": "ckʷi·"
+              },
               "gloss": "happened"
             },
             {
-              "transcription": "ʼap",
+              "transcription": {
+                "default": "ʼap"
+              },
               "gloss": "MOMCAUS"
             },
             {
-              "transcription": "ʼat",
+              "transcription": {
+                "default": "ʼat"
+              },
               "gloss": "SHIFT"
             },
             {
-              "transcription": "uk",
+              "transcription": {
+                "default": "uk"
+              },
               "gloss": "POSS"
             }
           ]
         },
         {
           "transcription": "piipaa",
-          "analysis": "piːpaː",
+          "analysis": {
+            "default": "piːpaː"
+          },
           "gloss": "paper",
           "literal": "paper",
           "morphemes": [
             {
-              "transcription": "piːpaː",
+              "transcription": {
+                "default": "piːpaː"
+              },
               "gloss": "paper"
             }
           ]
         },
         {
           "transcription": "ʔuḥʔiiš",
-          "analysis": "ʔuḥʔiːš",
+          "analysis": {
+            "default": "ʔuḥʔiːš"
+          },
           "gloss": "and",
           "literal": "and",
           "morphemes": [
             {
-              "transcription": "ʔuḥʔiːš",
+              "transcription": {
+                "default": "ʔuḥʔiːš"
+              },
               "gloss": "and"
             }
           ]
         },
         {
           "transcription": "ƛiisy̓ak",
-          "analysis": "ƛiːsy̓ak",
+          "analysis": {
+            "default": "ƛiːsy̓ak"
+          },
           "gloss": "pencil",
           "literal": "pencil",
           "morphemes": [
             {
-              "transcription": "ƛiːsy̓ak",
+              "transcription": {
+                "default": "ƛiːsy̓ak"
+              },
               "gloss": "pencil"
             }
           ]
         },
         {
           "transcription": "c̓uy̓iitap̓at",
-          "analysis": "c̓us-ʼi·tap-ʼat",
+          "analysis": {
+            "default": "c̓us-ʼi·tap-ʼat"
+          },
           "gloss": "dig-on.the.ground-POSS",
           "literal": "buried",
           "morphemes": [
             {
-              "transcription": "c̓us",
+              "transcription": {
+                "default": "c̓us"
+              },
               "gloss": "dig"
             },
             {
-              "transcription": "ʼi·tap",
+              "transcription": {
+                "default": "ʼi·tap"
+              },
               "gloss": "on.the.ground"
             },
             {
-              "transcription": "ʼat",
+              "transcription": {
+                "default": "ʼat"
+              },
               "gloss": "POSS"
             }
           ]
@@ -1320,77 +1834,107 @@
     },
     {
       "metadata": "013",
-      "transcript": "waa qʷisukʷits y̓uuqʷaa yaqukʷiis stepdaughter.",
-      "transcription": "",
+      "transcript": {
+        "default": "waa qʷisukʷits y̓uuqʷaa yaqukʷiis stepdaughter."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "And it also happened to my stepdaughter.",
       "words": [
         {
           "transcription": "waa",
-          "analysis": "wa·",
+          "analysis": {
+            "default": "wa·"
+          },
           "gloss": "and",
           "literal": "and",
           "morphemes": [
             {
-              "transcription": "wa·",
+              "transcription": {
+                "default": "wa·"
+              },
               "gloss": "and"
             }
           ]
         },
         {
           "transcription": "qʷisukʷits",
-          "analysis": "qʷis-uk-it",
+          "analysis": {
+            "default": "qʷis-uk-it"
+          },
           "gloss": "do.so-POSS-PAST",
           "literal": "it.happened.to.my",
           "morphemes": [
             {
-              "transcription": "qʷis",
+              "transcription": {
+                "default": "qʷis"
+              },
               "gloss": "do.so"
             },
             {
-              "transcription": "uk",
+              "transcription": {
+                "default": "uk"
+              },
               "gloss": "POSS"
             },
             {
-              "transcription": "it",
+              "transcription": {
+                "default": "it"
+              },
               "gloss": "PAST"
             }
           ]
         },
         {
           "transcription": "y̓uuqʷaa",
-          "analysis": "y̓uːqʷaː",
+          "analysis": {
+            "default": "y̓uːqʷaː"
+          },
           "gloss": "also",
           "literal": "also",
           "morphemes": [
             {
-              "transcription": "y̓uːqʷaː",
+              "transcription": {
+                "default": "y̓uːqʷaː"
+              },
               "gloss": "also"
             }
           ]
         },
         {
           "transcription": "yaqukʷiis",
-          "analysis": "yaq-uk-(y)iːs",
+          "analysis": {
+            "default": "yaq-uk-(y)iːs"
+          },
           "gloss": "who-POSS-INDF.1SG",
           "literal": "who.is.my",
           "morphemes": [
             {
-              "transcription": "yaq",
+              "transcription": {
+                "default": "yaq"
+              },
               "gloss": "who"
             },
             {
-              "transcription": "uk",
+              "transcription": {
+                "default": "uk"
+              },
               "gloss": "POSS"
             },
             {
-              "transcription": "(y)iːs",
+              "transcription": {
+                "default": "(y)iːs"
+              },
               "gloss": "INDF.1SG"
             }
           ]
         },
         {
           "transcription": "stepdaughter",
-          "analysis": "~",
+          "analysis": {
+            "default": "~"
+          },
           "gloss": "~",
           "literal": "~"
         }
@@ -1398,66 +1942,94 @@
     },
     {
       "metadata": "014",
-      "transcript": "ƛ̓ax̣y̓ak ʔuuqstiiʔap̓atuk naniiqsak.",
-      "transcription": "",
+      "transcript": {
+        "default": "ƛ̓ax̣y̓ak ʔuuqstiiʔap̓atuk naniiqsak."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "Her grandmother put in playing cards.",
       "words": [
         {
           "transcription": "ƛ̓ax̣y̓ak",
-          "analysis": "ƛ̓ax̣-y̓akʷ",
+          "analysis": {
+            "default": "ƛ̓ax̣-y̓akʷ"
+          },
           "gloss": "play.cards-instrument",
           "literal": "playing.card",
           "morphemes": [
             {
-              "transcription": "ƛ̓ax̣",
+              "transcription": {
+                "default": "ƛ̓ax̣"
+              },
               "gloss": "play.cards"
             },
             {
-              "transcription": "y̓akʷ",
+              "transcription": {
+                "default": "y̓akʷ"
+              },
               "gloss": "instrument"
             }
           ]
         },
         {
           "transcription": "ʔuuqstiiʔap̓atuk",
-          "analysis": "ʔu-aqsti·-ʼap-ʼat-uk",
+          "analysis": {
+            "default": "ʔu-aqsti·-ʼap-ʼat-uk"
+          },
           "gloss": "it-among-MOMCAUS-SHIFT-POSS",
           "literal": "mixed.with.her",
           "morphemes": [
             {
-              "transcription": "ʔu",
+              "transcription": {
+                "default": "ʔu"
+              },
               "gloss": "it"
             },
             {
-              "transcription": "aqsti·",
+              "transcription": {
+                "default": "aqsti·"
+              },
               "gloss": "among"
             },
             {
-              "transcription": "ʼap",
+              "transcription": {
+                "default": "ʼap"
+              },
               "gloss": "MOMCAUS"
             },
             {
-              "transcription": "ʼat",
+              "transcription": {
+                "default": "ʼat"
+              },
               "gloss": "SHIFT"
             },
             {
-              "transcription": "uk",
+              "transcription": {
+                "default": "uk"
+              },
               "gloss": "POSS"
             }
           ]
         },
         {
           "transcription": "naniiqsak",
-          "analysis": "nani·qsu-ʔa·k",
+          "analysis": {
+            "default": "nani·qsu-ʔa·k"
+          },
           "gloss": "grandparent-POSS",
           "literal": "her.grandparent",
           "morphemes": [
             {
-              "transcription": "nani·qsu",
+              "transcription": {
+                "default": "nani·qsu"
+              },
               "gloss": "grandparent"
             },
             {
-              "transcription": "ʔa·k",
+              "transcription": {
+                "default": "ʔa·k"
+              },
               "gloss": "POSS"
             }
           ]
@@ -1466,54 +2038,76 @@
     },
     {
       "metadata": "015",
-      "transcript": "ʔaanaaƛ hiihiiqšaḥap, ƛ̓aax̣ƛ̓aax̣a.",
-      "transcription": "",
+      "transcript": {
+        "default": "ʔaanaaƛ hiihiiqšaḥap, ƛ̓aax̣ƛ̓aax̣a."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "She plays cards really well.",
       "words": [
         {
           "transcription": "ʔaanaaƛ",
-          "analysis": "ʔaːna-ʼaƛ",
+          "analysis": {
+            "default": "ʔaːna-ʼaƛ"
+          },
           "gloss": "really-FINITE",
           "literal": "really",
           "morphemes": [
             {
-              "transcription": "ʔaːna",
+              "transcription": {
+                "default": "ʔaːna"
+              },
               "gloss": "really"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             }
           ]
         },
         {
           "transcription": "hiihiiqšaḥap",
-          "analysis": "hiːhiːq-šaḥap",
+          "analysis": {
+            "default": "hiːhiːq-šaḥap"
+          },
           "gloss": "various-doing",
           "literal": "did.various.things",
           "morphemes": [
             {
-              "transcription": "hiːhiːq",
+              "transcription": {
+                "default": "hiːhiːq"
+              },
               "gloss": "various"
             },
             {
-              "transcription": "šaḥap",
+              "transcription": {
+                "default": "šaḥap"
+              },
               "gloss": "doing"
             }
           ]
         },
         {
           "transcription": "ƛ̓aax̣ƛ̓aax̣a",
-          "analysis": "ƛ̓ax̣-(y)a",
+          "analysis": {
+            "default": "ƛ̓ax̣-(y)a"
+          },
           "gloss": "play.cards-REP",
           "literal": "playing.cards",
           "morphemes": [
             {
-              "transcription": "ƛ̓ax̣",
+              "transcription": {
+                "default": "ƛ̓ax̣"
+              },
               "gloss": "play.cards"
             },
             {
-              "transcription": "(y)a",
+              "transcription": {
+                "default": "(y)a"
+              },
               "gloss": "REP"
             }
           ]
@@ -1522,78 +2116,110 @@
     },
     {
       "metadata": "016",
-      "transcript": "ʔuusaaḥaƛ y̓uuqʷaa wiicaḥi qʷaačiiɬʔanit.",
-      "transcription": "",
+      "transcript": {
+        "default": "ʔuusaaḥaƛ y̓uuqʷaa wiicaḥi qʷaačiiɬʔanit."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "Because of that, they also made her well-off.",
       "words": [
         {
           "transcription": "ʔuusaaḥaƛ",
-          "analysis": "ʔu-sa·ḥi-ʼaƛ",
+          "analysis": {
+            "default": "ʔu-sa·ḥi-ʼaƛ"
+          },
           "gloss": "it-because.of-FINITE",
           "literal": "because.of.this",
           "morphemes": [
             {
-              "transcription": "ʔu",
+              "transcription": {
+                "default": "ʔu"
+              },
               "gloss": "it"
             },
             {
-              "transcription": "sa·ḥi",
+              "transcription": {
+                "default": "sa·ḥi"
+              },
               "gloss": "because.of"
             },
             {
-              "transcription": "ʼaƛ",
+              "transcription": {
+                "default": "ʼaƛ"
+              },
               "gloss": "FINITE"
             }
           ]
         },
         {
           "transcription": "y̓uuqʷaa",
-          "analysis": "y̓uːqʷaː",
+          "analysis": {
+            "default": "y̓uːqʷaː"
+          },
           "gloss": "also",
           "literal": "also",
           "morphemes": [
             {
-              "transcription": "y̓uːqʷaː",
+              "transcription": {
+                "default": "y̓uːqʷaː"
+              },
               "gloss": "also"
             }
           ]
         },
         {
           "transcription": "wiicaḥi",
-          "analysis": "wica-ḥi·",
+          "analysis": {
+            "default": "wica-ḥi·"
+          },
           "gloss": "wealthy-DUR",
           "literal": "well.off.person",
           "morphemes": [
             {
-              "transcription": "wica",
+              "transcription": {
+                "default": "wica"
+              },
               "gloss": "wealthy"
             },
             {
-              "transcription": "ḥi·",
+              "transcription": {
+                "default": "ḥi·"
+              },
               "gloss": "DUR"
             }
           ]
         },
         {
           "transcription": "qʷaačiiɬʔanit",
-          "analysis": "qʷaː-čiːɬ-ʼat-it",
+          "analysis": {
+            "default": "qʷaː-čiːɬ-ʼat-it"
+          },
           "gloss": "thus-make-SHIFT-PAST",
           "literal": "they.made.her.so",
           "morphemes": [
             {
-              "transcription": "qʷaː",
+              "transcription": {
+                "default": "qʷaː"
+              },
               "gloss": "thus"
             },
             {
-              "transcription": "čiːɬ",
+              "transcription": {
+                "default": "čiːɬ"
+              },
               "gloss": "make"
             },
             {
-              "transcription": "ʼat",
+              "transcription": {
+                "default": "ʼat"
+              },
               "gloss": "SHIFT"
             },
             {
-              "transcription": "it",
+              "transcription": {
+                "default": "it"
+              },
               "gloss": "PAST"
             }
           ]
@@ -1602,18 +2228,26 @@
     },
     {
       "metadata": "017",
-      "transcript": "čuu.",
-      "transcription": "",
+      "transcript": {
+        "default": "čuu."
+      },
+      "transcription": {
+        "default": ""
+      },
       "translation": "That’s all.",
       "words": [
         {
           "transcription": "čuu",
-          "analysis": "čuː",
+          "analysis": {
+            "default": "čuː"
+          },
           "gloss": "now.then",
           "literal": "now.then",
           "morphemes": [
             {
-              "transcription": "čuː",
+              "transcription": {
+                "default": "čuː"
+              },
               "gloss": "now.then"
             }
           ]

@@ -41,7 +41,7 @@ async function convertTexts() {
 
       if (!(utterance.words && utterance.transcript)) return;
 
-      const tokens = tokenize(utterance.transcript);
+      const tokens = tokenize(utterance.transcript.default);
 
       if (tokens.length === utterance.words.length) {
 
