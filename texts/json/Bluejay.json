@@ -17,7 +17,9 @@
       "translation": "The mother was working on a mat sitting on the floor. It was a hot day.",
       "words": [
         {
-          "transcription": "mamuukyaqiɬitwaʔiš",
+          "transcription": {
+            "default": "mamuukyaqiɬitwaʔiš"
+          },
           "analysis": {
             "default": "mamuːk-yaq-ʽiɬ-it-wa·ʔi·š"
           },
@@ -57,7 +59,9 @@
           ]
         },
         {
-          "transcription": "ʔumʔiiqsu",
+          "transcription": {
+            "default": "ʔumʔiiqsu"
+          },
           "analysis": {
             "default": "ʔumʔi·qsu"
           },
@@ -73,7 +77,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓upiiya",
+          "transcription": {
+            "default": "ƛ̓upiiya"
+          },
           "analysis": {
             "default": "ƛ̓up-(y)a·-iya"
           },
@@ -113,7 +119,9 @@
       "translation": "A little boy was beside his mother making arrows.",
       "words": [
         {
-          "transcription": "hiɬaʕaqiɬḥʔaƛ",
+          "transcription": {
+            "default": "hiɬaʕaqiɬḥʔaƛ"
+          },
           "analysis": {
             "default": "hiɬ-aʕaq-ʽiɬ-(q)ḥ-ʼaƛ"
           },
@@ -153,7 +161,9 @@
           ]
         },
         {
-          "transcription": "maʔiƛqacʔis",
+          "transcription": {
+            "default": "maʔiƛqacʔis"
+          },
           "analysis": {
             "default": "maʔiƛqac-ʔis"
           },
@@ -175,7 +185,9 @@
           ]
         },
         {
-          "transcription": "ʔumʔiiqsak",
+          "transcription": {
+            "default": "ʔumʔiiqsak"
+          },
           "analysis": {
             "default": "ʔumʔi·qsu-ʔa·k"
           },
@@ -197,7 +209,9 @@
           ]
         },
         {
-          "transcription": "ʔuukʷiiɬ",
+          "transcription": {
+            "default": "ʔuukʷiiɬ"
+          },
           "analysis": {
             "default": "ʔu-kʷiːɬ"
           },
@@ -219,7 +233,9 @@
           ]
         },
         {
-          "transcription": "c̓iiḥati",
+          "transcription": {
+            "default": "c̓iiḥati"
+          },
           "analysis": {
             "default": "c̓iːḥati"
           },
@@ -247,7 +263,9 @@
       "translation": "The mother got thirsty.",
       "words": [
         {
-          "transcription": "naqmiiḥičiƛ",
+          "transcription": {
+            "default": "naqmiiḥičiƛ"
+          },
           "analysis": {
             "default": "naqmiːḥa-ʽi·čiƛ"
           },
@@ -269,7 +287,9 @@
           ]
         },
         {
-          "transcription": "ʔumʔiiqsuʔi",
+          "transcription": {
+            "default": "ʔumʔiiqsuʔi"
+          },
           "analysis": {
             "default": "ʔumʔi·qsu-ʔi·"
           },
@@ -303,7 +323,9 @@
       "translation": "She said, “My child, I got thirsty. Please give me a drink.",
       "words": [
         {
-          "transcription": "t̓een̓a",
+          "transcription": {
+            "default": "t̓een̓a"
+          },
           "analysis": {
             "default": "t̓eːn̓a"
           },
@@ -319,7 +341,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -341,7 +365,9 @@
           ]
         },
         {
-          "transcription": "naqmiiḥičiƛs",
+          "transcription": {
+            "default": "naqmiiḥičiƛs"
+          },
           "analysis": {
             "default": "naqmiːḥa-ʽi·čiƛ-s"
           },
@@ -369,7 +395,9 @@
           ]
         },
         {
-          "transcription": "ɬaakšiʔis",
+          "transcription": {
+            "default": "ɬaakšiʔis"
+          },
           "analysis": {
             "default": "ɬaːkʷ-ši(ƛ)-ʼi·s"
           },
@@ -397,7 +425,9 @@
           ]
         },
         {
-          "transcription": "naquuti",
+          "transcription": {
+            "default": "naquuti"
+          },
           "analysis": {
             "default": "naq-uːti"
           },
@@ -431,7 +461,9 @@
       "translation": "I can’t. You can see I’m making arrows,” said the son.",
       "words": [
         {
-          "transcription": "wim̓aaqƛs",
+          "transcription": {
+            "default": "wim̓aaqƛs"
+          },
           "analysis": {
             "default": "wim̓aːqƛ-s"
           },
@@ -453,7 +485,9 @@
           ]
         },
         {
-          "transcription": "waaʔat",
+          "transcription": {
+            "default": "waaʔat"
+          },
           "analysis": {
             "default": "wa·-ʼat"
           },
@@ -475,7 +509,9 @@
           ]
         },
         {
-          "transcription": "t̓an̓aʔi",
+          "transcription": {
+            "default": "t̓an̓aʔi"
+          },
           "analysis": {
             "default": "t̓an̓a-ʔi·"
           },
@@ -497,7 +533,9 @@
           ]
         },
         {
-          "transcription": "n̓aacsasuuk",
+          "transcription": {
+            "default": "n̓aacsasuuk"
+          },
           "analysis": {
             "default": "n̓aːcsa-suːk"
           },
@@ -519,7 +557,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -535,7 +575,9 @@
           ]
         },
         {
-          "transcription": "c̓iiḥatiqiiɬ",
+          "transcription": {
+            "default": "c̓iiḥatiqiiɬ"
+          },
           "analysis": {
             "default": "c̓iːḥatiq-iːɬ"
           },
@@ -569,7 +611,9 @@
       "translation": "“Go, my child! Get me a drink,” she repeated.",
       "words": [
         {
-          "transcription": "čaʔaaɬči",
+          "transcription": {
+            "default": "čaʔaaɬči"
+          },
           "analysis": {
             "default": "čaʔaːɬ-či·"
           },
@@ -591,7 +635,9 @@
           ]
         },
         {
-          "transcription": "t̓een̓a",
+          "transcription": {
+            "default": "t̓een̓a"
+          },
           "analysis": {
             "default": "t̓eːn̓a"
           },
@@ -607,7 +653,9 @@
           ]
         },
         {
-          "transcription": "naquutičis",
+          "transcription": {
+            "default": "naquutičis"
+          },
           "analysis": {
             "default": "naq-uːti-či·s"
           },
@@ -635,7 +683,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛƛa",
+          "transcription": {
+            "default": "waaʔaƛƛa"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ-ƛa·"
           },
@@ -663,7 +713,9 @@
           ]
         },
         {
-          "transcription": "huʔaas",
+          "transcription": {
+            "default": "huʔaas"
+          },
           "analysis": {
             "default": "huʔa-aːs"
           },
@@ -697,7 +749,9 @@
       "translation": "“I can’t, I said. I’m working,” the child repeated.",
       "words": [
         {
-          "transcription": "wim̓aaqƛs",
+          "transcription": {
+            "default": "wim̓aaqƛs"
+          },
           "analysis": {
             "default": "wim̓aːqƛ-s"
           },
@@ -719,7 +773,9 @@
           ]
         },
         {
-          "transcription": "waas",
+          "transcription": {
+            "default": "waas"
+          },
           "analysis": {
             "default": "waːs"
           },
@@ -735,7 +791,9 @@
           ]
         },
         {
-          "transcription": "mamuuks",
+          "transcription": {
+            "default": "mamuuks"
+          },
           "analysis": {
             "default": "mamuːk-s"
           },
@@ -757,7 +815,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛƛa",
+          "transcription": {
+            "default": "waaʔaƛƛa"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ-ƛa·"
           },
@@ -785,7 +845,9 @@
           ]
         },
         {
-          "transcription": "t̓an̓aʔi",
+          "transcription": {
+            "default": "t̓an̓aʔi"
+          },
           "analysis": {
             "default": "t̓an̓a-ʔi·"
           },
@@ -819,7 +881,9 @@
       "translation": "“Behave my child. I might turn into a blue jay. You might be poor without a mother if I turn into a blue jay.",
       "words": [
         {
-          "transcription": "ʔuuḥtaasaʔi",
+          "transcription": {
+            "default": "ʔuuḥtaasaʔi"
+          },
           "analysis": {
             "default": "ʔu-ḥta·-sa-ʼi·"
           },
@@ -853,7 +917,9 @@
           ]
         },
         {
-          "transcription": "t̓een̓a",
+          "transcription": {
+            "default": "t̓een̓a"
+          },
           "analysis": {
             "default": "t̓eːn̓a"
           },
@@ -869,7 +935,9 @@
           ]
         },
         {
-          "transcription": "xaašxiipšiƛcums",
+          "transcription": {
+            "default": "xaašxiipšiƛcums"
+          },
           "analysis": {
             "default": "xaːšxiːp-šiƛ-cum-s"
           },
@@ -903,7 +971,9 @@
           ]
         },
         {
-          "transcription": "ɬaakcaḥicumʔick",
+          "transcription": {
+            "default": "ɬaakcaḥicumʔick"
+          },
           "analysis": {
             "default": "ɬaːkcaḥi-cum-ʔick"
           },
@@ -931,7 +1001,9 @@
           ]
         },
         {
-          "transcription": "wik̓iituk",
+          "transcription": {
+            "default": "wik̓iituk"
+          },
           "analysis": {
             "default": "wik̓iːt-uk"
           },
@@ -953,7 +1025,9 @@
           ]
         },
         {
-          "transcription": "ʔumʔiiqsu",
+          "transcription": {
+            "default": "ʔumʔiiqsu"
+          },
           "analysis": {
             "default": "ʔumʔi·qsu"
           },
@@ -969,7 +1043,9 @@
           ]
         },
         {
-          "transcription": "xaašxiipšiƛquus",
+          "transcription": {
+            "default": "xaašxiipšiƛquus"
+          },
           "analysis": {
             "default": "xaːšxiːp-šiƛ-quː-s"
           },
@@ -1015,7 +1091,9 @@
       "translation": "Go ahead and turn into a blue jay. I don’t care,” the child repeated.",
       "words": [
         {
-          "transcription": "čaʔaaɬči",
+          "transcription": {
+            "default": "čaʔaaɬči"
+          },
           "analysis": {
             "default": "čaʔaːɬ-či·"
           },
@@ -1037,7 +1115,9 @@
           ]
         },
         {
-          "transcription": "xaašxiipšiƛči",
+          "transcription": {
+            "default": "xaašxiipšiƛči"
+          },
           "analysis": {
             "default": "xaːšxiːp-šiƛ-či·"
           },
@@ -1065,7 +1145,9 @@
           ]
         },
         {
-          "transcription": "wikstup̓aps",
+          "transcription": {
+            "default": "wikstup̓aps"
+          },
           "analysis": {
             "default": "wik-stup-ʼap-s"
           },
@@ -1099,7 +1181,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛƛa",
+          "transcription": {
+            "default": "waaʔaƛƛa"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ-ƛa·"
           },
@@ -1127,7 +1211,9 @@
           ]
         },
         {
-          "transcription": "t̓an̓aʔi",
+          "transcription": {
+            "default": "t̓an̓aʔi"
+          },
           "analysis": {
             "default": "t̓an̓a-ʔi·"
           },
@@ -1161,7 +1247,9 @@
       "translation": "He had just stopped talking.",
       "words": [
         {
-          "transcription": "ʔanasiɬap̓at",
+          "transcription": {
+            "default": "ʔanasiɬap̓at"
+          },
           "analysis": {
             "default": "ʔana-siɬa-ʼap-ʼat"
           },
@@ -1195,7 +1283,9 @@
           ]
         },
         {
-          "transcription": "wikʕaƛšiƛ",
+          "transcription": {
+            "default": "wikʕaƛšiƛ"
+          },
           "analysis": {
             "default": "wik-ʕaƛ-šiƛ"
           },
@@ -1235,7 +1325,9 @@
       "translation": "Then he heard something saying “_xa:š xa:š xa:š xa:š_”.",
       "words": [
         {
-          "transcription": "naʔiičiƛ",
+          "transcription": {
+            "default": "naʔiičiƛ"
+          },
           "analysis": {
             "default": "naʔa·-ʽi·čiƛ"
           },
@@ -1257,7 +1349,9 @@
           ]
         },
         {
-          "transcription": "xaaš",
+          "transcription": {
+            "default": "xaaš"
+          },
           "analysis": {
             "default": "xaːs"
           },
@@ -1273,7 +1367,9 @@
           ]
         },
         {
-          "transcription": "xaaš",
+          "transcription": {
+            "default": "xaaš"
+          },
           "analysis": {
             "default": "xaːs"
           },
@@ -1289,7 +1385,9 @@
           ]
         },
         {
-          "transcription": "xaaš",
+          "transcription": {
+            "default": "xaaš"
+          },
           "analysis": {
             "default": "xaːs"
           },
@@ -1305,7 +1403,9 @@
           ]
         },
         {
-          "transcription": "xaaš",
+          "transcription": {
+            "default": "xaaš"
+          },
           "analysis": {
             "default": "xaːs"
           },
@@ -1321,7 +1421,9 @@
           ]
         },
         {
-          "transcription": "wawaaʔi",
+          "transcription": {
+            "default": "wawaaʔi"
+          },
           "analysis": {
             "default": "wawaː-ʔi·"
           },
@@ -1355,7 +1457,9 @@
       "translation": "He looked up just in time to see a blue jay flying up.",
       "words": [
         {
-          "transcription": "n̓ačmisinƛ",
+          "transcription": {
+            "default": "n̓ačmisinƛ"
+          },
           "analysis": {
             "default": "n̓ač-misa-inƛ"
           },
@@ -1383,7 +1487,9 @@
           ]
         },
         {
-          "transcription": "ʔum̓aʔii",
+          "transcription": {
+            "default": "ʔum̓aʔii"
+          },
           "analysis": {
             "default": "ʔu-m̓a-ʔiː"
           },
@@ -1411,7 +1517,9 @@
           ]
         },
         {
-          "transcription": "n̓aacsiičiƛ",
+          "transcription": {
+            "default": "n̓aacsiičiƛ"
+          },
           "analysis": {
             "default": "n̓aːcsiː-čiƛ"
           },
@@ -1433,7 +1541,9 @@
           ]
         },
         {
-          "transcription": "matmisinƛ̓i",
+          "transcription": {
+            "default": "matmisinƛ̓i"
+          },
           "analysis": {
             "default": "mat-misa-inƛ-ʔi·"
           },
@@ -1467,7 +1577,9 @@
           ]
         },
         {
-          "transcription": "xaašxiip",
+          "transcription": {
+            "default": "xaašxiip"
+          },
           "analysis": {
             "default": "xaːšxiːp"
           },
@@ -1495,7 +1607,9 @@
       "translation": "He ran to get the pail right away.",
       "words": [
         {
-          "transcription": "nay̓iik",
+          "transcription": {
+            "default": "nay̓iik"
+          },
           "analysis": {
             "default": "nay̓iːk"
           },
@@ -1511,7 +1625,9 @@
           ]
         },
         {
-          "transcription": "kamatqšiƛ",
+          "transcription": {
+            "default": "kamatqšiƛ"
+          },
           "analysis": {
             "default": "kamatqʷ-šiƛ"
           },
@@ -1533,7 +1649,9 @@
           ]
         },
         {
-          "transcription": "sukʷiƛ",
+          "transcription": {
+            "default": "sukʷiƛ"
+          },
           "analysis": {
             "default": "sukʷiƛ"
           },
@@ -1549,7 +1667,9 @@
           ]
         },
         {
-          "transcription": "č̓axʷac",
+          "transcription": {
+            "default": "č̓axʷac"
+          },
           "analysis": {
             "default": "č̓axʷac"
           },
@@ -1577,7 +1697,9 @@
       "translation": "“I didn’t really mean it,” he said as he ran towards the river.",
       "words": [
         {
-          "transcription": "wiiksas",
+          "transcription": {
+            "default": "wiiksas"
+          },
           "analysis": {
             "default": "wik-sa-s"
           },
@@ -1605,7 +1727,9 @@
           ]
         },
         {
-          "transcription": "ʔaaʔaanaqḥʷa",
+          "transcription": {
+            "default": "ʔaaʔaanaqḥʷa"
+          },
           "analysis": {
             "default": "DUPCVː-ʔaːni-(q)ḥ-wa·"
           },
@@ -1639,7 +1763,9 @@
           ]
         },
         {
-          "transcription": "wawaaqčik",
+          "transcription": {
+            "default": "wawaaqčik"
+          },
           "analysis": {
             "default": "wawaː-qčik"
           },
@@ -1661,7 +1787,9 @@
           ]
         },
         {
-          "transcription": "kamatqukqčik",
+          "transcription": {
+            "default": "kamatqukqčik"
+          },
           "analysis": {
             "default": "kamatqʷ-uk-qčik"
           },
@@ -1689,7 +1817,9 @@
           ]
         },
         {
-          "transcription": "ʔucačiƛ",
+          "transcription": {
+            "default": "ʔucačiƛ"
+          },
           "analysis": {
             "default": "ʔu-ca-čiƛ"
           },
@@ -1717,7 +1847,9 @@
           ]
         },
         {
-          "transcription": "č̓aʔakʔi",
+          "transcription": {
+            "default": "č̓aʔakʔi"
+          },
           "analysis": {
             "default": "č̓aʔak-ʔi·"
           },
@@ -1751,7 +1883,9 @@
       "translation": "He dipped the bucket in and ran back home.",
       "words": [
         {
-          "transcription": "nicwiiʔap",
+          "transcription": {
+            "default": "nicwiiʔap"
+          },
           "analysis": {
             "default": "ni-cwi·-ʼap"
           },
@@ -1779,7 +1913,9 @@
           ]
         },
         {
-          "transcription": "č̓axʷac",
+          "transcription": {
+            "default": "č̓axʷac"
+          },
           "analysis": {
             "default": "č̓axʷac"
           },
@@ -1795,7 +1931,9 @@
           ]
         },
         {
-          "transcription": "huʔacačiƛ",
+          "transcription": {
+            "default": "huʔacačiƛ"
+          },
           "analysis": {
             "default": "huʔa-ca-čiƛ"
           },
@@ -1823,7 +1961,9 @@
           ]
         },
         {
-          "transcription": "waɬšiƛ",
+          "transcription": {
+            "default": "waɬšiƛ"
+          },
           "analysis": {
             "default": "waɬ-šiƛ"
           },
@@ -1857,7 +1997,9 @@
       "translation": "He dipped the dipper in, and went near the one that turned into a blue jay and said, “Here mom, have a drink; I didn’t really mean it; here, have a drink.”",
       "words": [
         {
-          "transcription": "nicwiiʔap",
+          "transcription": {
+            "default": "nicwiiʔap"
+          },
           "analysis": {
             "default": "ni-cwi·-ʼap"
           },
@@ -1885,7 +2027,9 @@
           ]
         },
         {
-          "transcription": "kacutum",
+          "transcription": {
+            "default": "kacutum"
+          },
           "analysis": {
             "default": "kacutum"
           },
@@ -1901,7 +2045,9 @@
           ]
         },
         {
-          "transcription": "ƛawaʔii",
+          "transcription": {
+            "default": "ƛawaʔii"
+          },
           "analysis": {
             "default": "ƛawa-ʔi·"
           },
@@ -1923,7 +2069,9 @@
           ]
         },
         {
-          "transcription": "xaašxiipšiƛ̓i",
+          "transcription": {
+            "default": "xaašxiipšiƛ̓i"
+          },
           "analysis": {
             "default": "xaːšxiːp-šiƛ-ʔi·"
           },
@@ -1951,7 +2099,9 @@
           ]
         },
         {
-          "transcription": "maa",
+          "transcription": {
+            "default": "maa"
+          },
           "analysis": {
             "default": "maː"
           },
@@ -1967,7 +2117,9 @@
           ]
         },
         {
-          "transcription": "ʔuum",
+          "transcription": {
+            "default": "ʔuum"
+          },
           "analysis": {
             "default": "ʔuːm"
           },
@@ -1983,7 +2135,9 @@
           ]
         },
         {
-          "transcription": "naqšiʔi",
+          "transcription": {
+            "default": "naqšiʔi"
+          },
           "analysis": {
             "default": "naq-ši(ƛ)-ʼi·"
           },
@@ -2011,7 +2165,9 @@
           ]
         },
         {
-          "transcription": "wiiksas",
+          "transcription": {
+            "default": "wiiksas"
+          },
           "analysis": {
             "default": "wik-sa-s"
           },
@@ -2039,7 +2195,9 @@
           ]
         },
         {
-          "transcription": "ʔaaʔaanaqḥʷa",
+          "transcription": {
+            "default": "ʔaaʔaanaqḥʷa"
+          },
           "analysis": {
             "default": "DUPCVː-ʔaːni-(q)ḥ-wa·"
           },
@@ -2073,7 +2231,9 @@
           ]
         },
         {
-          "transcription": "maa",
+          "transcription": {
+            "default": "maa"
+          },
           "analysis": {
             "default": "maː"
           },
@@ -2089,7 +2249,9 @@
           ]
         },
         {
-          "transcription": "naqšiʔi",
+          "transcription": {
+            "default": "naqšiʔi"
+          },
           "analysis": {
             "default": "naq-ši(ƛ)-ʼi·"
           },
@@ -2117,7 +2279,9 @@
           ]
         },
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "wa·"
           },
@@ -2133,7 +2297,9 @@
           ]
         },
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "wa·"
           },
@@ -2161,7 +2327,9 @@
       "translation": "All she said was “_xa:š_, _xa:š_,” as she flew from one place to another.",
       "words": [
         {
-          "transcription": "ʔanasiɬaƛquuč",
+          "transcription": {
+            "default": "ʔanasiɬaƛquuč"
+          },
           "analysis": {
             "default": "ʔana-siɬa-ʼaƛ-quː-č"
           },
@@ -2201,7 +2369,9 @@
           ]
         },
         {
-          "transcription": "xaaš",
+          "transcription": {
+            "default": "xaaš"
+          },
           "analysis": {
             "default": "xaːš"
           },
@@ -2217,7 +2387,9 @@
           ]
         },
         {
-          "transcription": "xaaš",
+          "transcription": {
+            "default": "xaaš"
+          },
           "analysis": {
             "default": "xaːš"
           },
@@ -2233,7 +2405,9 @@
           ]
         },
         {
-          "transcription": "wawaaqčik",
+          "transcription": {
+            "default": "wawaaqčik"
+          },
           "analysis": {
             "default": "wawaː-qčik"
           },
@@ -2255,7 +2429,9 @@
           ]
         },
         {
-          "transcription": "kʷiscačiƛ",
+          "transcription": {
+            "default": "kʷiscačiƛ"
+          },
           "analysis": {
             "default": "kʷis-ca-čiƛ"
           },
@@ -2283,7 +2459,9 @@
           ]
         },
         {
-          "transcription": "matšiƛ",
+          "transcription": {
+            "default": "matšiƛ"
+          },
           "analysis": {
             "default": "mat-šiƛ"
           },
@@ -2317,7 +2495,9 @@
       "translation": "The blue jay flew out and up onto a tree.",
       "words": [
         {
-          "transcription": "matwaasʔaƛ",
+          "transcription": {
+            "default": "matwaasʔaƛ"
+          },
           "analysis": {
             "default": "mat-wa·s-ʼaƛ"
           },
@@ -2345,7 +2525,9 @@
           ]
         },
         {
-          "transcription": "xaašxiipʔi",
+          "transcription": {
+            "default": "xaašxiipʔi"
+          },
           "analysis": {
             "default": "xaːšxiːp-ʔi·"
           },
@@ -2367,7 +2549,9 @@
           ]
         },
         {
-          "transcription": "mataasiƛ",
+          "transcription": {
+            "default": "mataasiƛ"
+          },
           "analysis": {
             "default": "mat-a·s-iƛ"
           },
@@ -2395,7 +2579,9 @@
           ]
         },
         {
-          "transcription": "suč̓asʔi",
+          "transcription": {
+            "default": "suč̓asʔi"
+          },
           "analysis": {
             "default": "suč̓as-ʔi·"
           },
@@ -2429,7 +2615,9 @@
       "translation": "There it sat, crying “_xa:š_, _xa:š_.”",
       "words": [
         {
-          "transcription": "hiɬaasḥʔaƛ",
+          "transcription": {
+            "default": "hiɬaasḥʔaƛ"
+          },
           "analysis": {
             "default": "hiɬ-a·s-(q)ḥ-ʼaƛ"
           },
@@ -2463,7 +2651,9 @@
           ]
         },
         {
-          "transcription": "xaaš",
+          "transcription": {
+            "default": "xaaš"
+          },
           "analysis": {
             "default": "xaːš"
           },
@@ -2479,7 +2669,9 @@
           ]
         },
         {
-          "transcription": "xaaš",
+          "transcription": {
+            "default": "xaaš"
+          },
           "analysis": {
             "default": "xaːš"
           },
@@ -2495,7 +2687,9 @@
           ]
         },
         {
-          "transcription": "wawaa",
+          "transcription": {
+            "default": "wawaa"
+          },
           "analysis": {
             "default": "wawaː"
           },
@@ -2523,7 +2717,9 @@
       "translation": "Whenever the little boy got close, it would just fly away to another tree.",
       "words": [
         {
-          "transcription": "ƛaawuɬšiʔaƛquuč",
+          "transcription": {
+            "default": "ƛaawuɬšiʔaƛquuč"
+          },
           "analysis": {
             "default": "ƛawa-uɬ-ši(ƛ)-ʼaƛ-quː-č"
           },
@@ -2569,7 +2765,9 @@
           ]
         },
         {
-          "transcription": "maʔiƛqacʔi",
+          "transcription": {
+            "default": "maʔiƛqacʔi"
+          },
           "analysis": {
             "default": "maʔiƛqac-ʔi·"
           },
@@ -2591,7 +2789,9 @@
           ]
         },
         {
-          "transcription": "ʔanasiɬaƛquuč",
+          "transcription": {
+            "default": "ʔanasiɬaƛquuč"
+          },
           "analysis": {
             "default": "ʔana-siɬa-ʼaƛ-quː-č"
           },
@@ -2631,7 +2831,9 @@
           ]
         },
         {
-          "transcription": "kʷiscačiƛ",
+          "transcription": {
+            "default": "kʷiscačiƛ"
+          },
           "analysis": {
             "default": "kʷis-ca-čiƛ"
           },
@@ -2659,7 +2861,9 @@
           ]
         },
         {
-          "transcription": "mataasiƛ",
+          "transcription": {
+            "default": "mataasiƛ"
+          },
           "analysis": {
             "default": "mat-a·s-iƛ"
           },
@@ -2687,7 +2891,9 @@
           ]
         },
         {
-          "transcription": "suč̓as",
+          "transcription": {
+            "default": "suč̓as"
+          },
           "analysis": {
             "default": "suč̓as"
           },
@@ -2715,7 +2921,9 @@
       "translation": "The little boy did not stop and kept saying while crying, “Here, mom, have a drink.”",
       "words": [
         {
-          "transcription": "wik",
+          "transcription": {
+            "default": "wik"
+          },
           "analysis": {
             "default": "wik"
           },
@@ -2731,7 +2939,9 @@
           ]
         },
         {
-          "transcription": "wiikʕaƛp̓ičḥ",
+          "transcription": {
+            "default": "wiikʕaƛp̓ičḥ"
+          },
           "analysis": {
             "default": "wi-ʕaƛ-p̓ičḥ"
           },
@@ -2759,7 +2969,9 @@
           ]
         },
         {
-          "transcription": "maʔiƛqacʔi",
+          "transcription": {
+            "default": "maʔiƛqacʔi"
+          },
           "analysis": {
             "default": "maʔiƛqac-ʔi·"
           },
@@ -2781,7 +2993,9 @@
           ]
         },
         {
-          "transcription": "maa",
+          "transcription": {
+            "default": "maa"
+          },
           "analysis": {
             "default": "maː"
           },
@@ -2797,7 +3011,9 @@
           ]
         },
         {
-          "transcription": "ʔuum",
+          "transcription": {
+            "default": "ʔuum"
+          },
           "analysis": {
             "default": "ʔuːm"
           },
@@ -2813,7 +3029,9 @@
           ]
         },
         {
-          "transcription": "naqšiʔi",
+          "transcription": {
+            "default": "naqšiʔi"
+          },
           "analysis": {
             "default": "naq-ši(ƛ)-ʼi·"
           },
@@ -2841,7 +3059,9 @@
           ]
         },
         {
-          "transcription": "wawaa",
+          "transcription": {
+            "default": "wawaa"
+          },
           "analysis": {
             "default": "wawaː"
           },
@@ -2857,7 +3077,9 @@
           ]
         },
         {
-          "transcription": "ʕiiḥp̓ičḥ",
+          "transcription": {
+            "default": "ʕiiḥp̓ičḥ"
+          },
           "analysis": {
             "default": "ʕiḥ-p̓ičḥ"
           },
@@ -2891,7 +3113,9 @@
       "translation": "The little boy knew now that his mother really turned into a blue jay.",
       "words": [
         {
-          "transcription": "huḥtakšiƛ",
+          "transcription": {
+            "default": "huḥtakšiƛ"
+          },
           "analysis": {
             "default": "huḥtak-šiƛ"
           },
@@ -2913,7 +3137,9 @@
           ]
         },
         {
-          "transcription": "maʔiƛqacʔi",
+          "transcription": {
+            "default": "maʔiƛqacʔi"
+          },
           "analysis": {
             "default": "maʔiƛqac-ʔi·"
           },
@@ -2935,7 +3161,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -2951,7 +3179,9 @@
           ]
         },
         {
-          "transcription": "ʔaanaqḥ",
+          "transcription": {
+            "default": "ʔaanaqḥ"
+          },
           "analysis": {
             "default": "ʔaːna-(q)ḥ"
           },
@@ -2973,7 +3203,9 @@
           ]
         },
         {
-          "transcription": "xaašxiipšiƛuk",
+          "transcription": {
+            "default": "xaašxiipšiƛuk"
+          },
           "analysis": {
             "default": "xaːšxiːp-šiƛ-uk"
           },
@@ -3001,7 +3233,9 @@
           ]
         },
         {
-          "transcription": "ʔumʔiiqsu",
+          "transcription": {
+            "default": "ʔumʔiiqsu"
+          },
           "analysis": {
             "default": "ʔumʔi·qsu"
           },
@@ -3029,7 +3263,9 @@
       "translation": "He sat down and cried; “Oh, mother, I did not really mean it,” he said crying.",
       "words": [
         {
-          "transcription": "t̓iʕiƛ",
+          "transcription": {
+            "default": "t̓iʕiƛ"
+          },
           "analysis": {
             "default": "t̓iqʷ-ʼi·(ƛ)"
           },
@@ -3051,7 +3287,9 @@
           ]
         },
         {
-          "transcription": "ʕiiḥp̓ičḥ",
+          "transcription": {
+            "default": "ʕiiḥp̓ičḥ"
+          },
           "analysis": {
             "default": "ʕiḥ-p̓ičḥ"
           },
@@ -3073,7 +3311,9 @@
           ]
         },
         {
-          "transcription": "ʔuu",
+          "transcription": {
+            "default": "ʔuu"
+          },
           "analysis": {
             "default": "ʔuː"
           },
@@ -3089,7 +3329,9 @@
           ]
         },
         {
-          "transcription": "ʔuum",
+          "transcription": {
+            "default": "ʔuum"
+          },
           "analysis": {
             "default": "ʔuːm"
           },
@@ -3105,7 +3347,9 @@
           ]
         },
         {
-          "transcription": "wiiksas",
+          "transcription": {
+            "default": "wiiksas"
+          },
           "analysis": {
             "default": "wik-sa-s"
           },
@@ -3133,7 +3377,9 @@
           ]
         },
         {
-          "transcription": "ʔaaʔaanaqḥʷa",
+          "transcription": {
+            "default": "ʔaaʔaanaqḥʷa"
+          },
           "analysis": {
             "default": "DUPCVː-ʔaːni-(q)ḥ-wa·"
           },
@@ -3167,7 +3413,9 @@
           ]
         },
         {
-          "transcription": "wawaa",
+          "transcription": {
+            "default": "wawaa"
+          },
           "analysis": {
             "default": "wawaː"
           },
@@ -3183,7 +3431,9 @@
           ]
         },
         {
-          "transcription": "ʕiḥak",
+          "transcription": {
+            "default": "ʕiḥak"
+          },
           "analysis": {
             "default": "ʕiḥ-ak"
           },
@@ -3217,7 +3467,9 @@
       "translation": "His mother really turned into a blue jay, because he did not listen when he was first asked to get her water to drink.",
       "words": [
         {
-          "transcription": "ʔaanaqḥuk",
+          "transcription": {
+            "default": "ʔaanaqḥuk"
+          },
           "analysis": {
             "default": "ʔaːna-(q)ḥ-uk"
           },
@@ -3245,7 +3497,9 @@
           ]
         },
         {
-          "transcription": "xaašxiipšiƛ",
+          "transcription": {
+            "default": "xaašxiipšiƛ"
+          },
           "analysis": {
             "default": "xaːšxiːp-šiƛ"
           },
@@ -3267,7 +3521,9 @@
           ]
         },
         {
-          "transcription": "ʔumʔiiqsu",
+          "transcription": {
+            "default": "ʔumʔiiqsu"
+          },
           "analysis": {
             "default": "ʔumʔi·qsu"
           },
@@ -3283,7 +3539,9 @@
           ]
         },
         {
-          "transcription": "ʔunw̓iiƛḥ",
+          "transcription": {
+            "default": "ʔunw̓iiƛḥ"
+          },
           "analysis": {
             "default": "ʔunw̓iːƛ-(q)ḥ"
           },
@@ -3305,7 +3563,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -3321,7 +3581,9 @@
           ]
         },
         {
-          "transcription": "wiiksa",
+          "transcription": {
+            "default": "wiiksa"
+          },
           "analysis": {
             "default": "wik-sa"
           },
@@ -3343,7 +3605,9 @@
           ]
         },
         {
-          "transcription": "naʔaa",
+          "transcription": {
+            "default": "naʔaa"
+          },
           "analysis": {
             "default": "naʔa·"
           },
@@ -3359,7 +3623,9 @@
           ]
         },
         {
-          "transcription": "qʷiyaatʔitq",
+          "transcription": {
+            "default": "qʷiyaatʔitq"
+          },
           "analysis": {
             "default": "qʷiyu-ʼat-ʔi·tq"
           },
@@ -3387,7 +3653,9 @@
           ]
         },
         {
-          "transcription": "ʔaʔumʔat",
+          "transcription": {
+            "default": "ʔaʔumʔat"
+          },
           "analysis": {
             "default": "ʔaʔum-ʼat"
           },
@@ -3409,7 +3677,9 @@
           ]
         },
         {
-          "transcription": "naquutiʔis",
+          "transcription": {
+            "default": "naquutiʔis"
+          },
           "analysis": {
             "default": "naq-uːti-ʼi·s"
           },
@@ -3437,7 +3707,9 @@
           ]
         },
         {
-          "transcription": "waaʔat",
+          "transcription": {
+            "default": "waaʔat"
+          },
           "analysis": {
             "default": "wa·-ʼat"
           },
@@ -3471,7 +3743,9 @@
       "translation": "Lesson — You listen when someone tells you to do something.",
       "words": [
         {
-          "transcription": "ḥaaḥuupay̓ak",
+          "transcription": {
+            "default": "ḥaaḥuupay̓ak"
+          },
           "analysis": {
             "default": "ḥaːḥuːp-(y)a·-y̓akʷ"
           },
@@ -3499,7 +3773,9 @@
           ]
         },
         {
-          "transcription": "—",
+          "transcription": {
+            "default": "—"
+          },
           "analysis": {
             "default": "—"
           },
@@ -3515,7 +3791,9 @@
           ]
         },
         {
-          "transcription": "naʔaasuuk",
+          "transcription": {
+            "default": "naʔaasuuk"
+          },
           "analysis": {
             "default": "naʔa·-suːk"
           },
@@ -3537,7 +3815,9 @@
           ]
         },
         {
-          "transcription": "ʔuusḥhʔatquu",
+          "transcription": {
+            "default": "ʔuusḥhʔatquu"
+          },
           "analysis": {
             "default": "ʔuːš-(q)ḥ-ʼat-quː"
           },
@@ -3571,7 +3851,9 @@
           ]
         },
         {
-          "transcription": "qʷisʔii",
+          "transcription": {
+            "default": "qʷisʔii"
+          },
           "analysis": {
             "default": "qʷis-ʼi·"
           },
@@ -3593,7 +3875,9 @@
           ]
         },
         {
-          "transcription": "waaʔat",
+          "transcription": {
+            "default": "waaʔat"
+          },
           "analysis": {
             "default": "wa·-ʼat"
           },
@@ -3627,7 +3911,9 @@
       "translation": "Don’t wait until they have to repeat it to you, because they will get angry at you when they have to keep repeating.",
       "words": [
         {
-          "transcription": "wik",
+          "transcription": {
+            "default": "wik"
+          },
           "analysis": {
             "default": "wik"
           },
@@ -3643,7 +3929,9 @@
           ]
         },
         {
-          "transcription": "naaw̓aḥi",
+          "transcription": {
+            "default": "naaw̓aḥi"
+          },
           "analysis": {
             "default": "naːw̓aḥi"
           },
@@ -3659,7 +3947,9 @@
           ]
         },
         {
-          "transcription": "qiip̓atʕaƛ̓atquuk",
+          "transcription": {
+            "default": "qiip̓atʕaƛ̓atquuk"
+          },
           "analysis": {
             "default": "qiː-p̓it-ʕaƛ-ʼat-quː-k"
           },
@@ -3705,7 +3995,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -3721,7 +4013,9 @@
           ]
         },
         {
-          "transcription": "ʔuušsuuqstuʔaqƛ̓atsuu",
+          "transcription": {
+            "default": "ʔuušsuuqstuʔaqƛ̓atsuu"
+          },
           "analysis": {
             "default": "ʔuːš-su·qstu(ƛ)-ʔaqƛ-ʼat-suː"
           },
@@ -3761,7 +4055,9 @@
           ]
         },
         {
-          "transcription": "ʔayup̓itʕaƛ̓atquu",
+          "transcription": {
+            "default": "ʔayup̓itʕaƛ̓atquu"
+          },
           "analysis": {
             "default": "ʔayu-p̓it-ʕaƛ-ʼat-quː"
           },
@@ -3813,7 +4109,9 @@
       "translation": "You should do it right away whatever you are asked to do.",
       "words": [
         {
-          "transcription": "nay̓iiksuuk",
+          "transcription": {
+            "default": "nay̓iiksuuk"
+          },
           "analysis": {
             "default": "nay̓iːk-suːk"
           },
@@ -3835,7 +4133,9 @@
           ]
         },
         {
-          "transcription": "qʷis",
+          "transcription": {
+            "default": "qʷis"
+          },
           "analysis": {
             "default": "qʷis"
           },
@@ -3851,7 +4151,9 @@
           ]
         },
         {
-          "transcription": "waaʔatʔitk",
+          "transcription": {
+            "default": "waaʔatʔitk"
+          },
           "analysis": {
             "default": "wa·-ʼat-ʔi·tk"
           },

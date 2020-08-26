@@ -51,7 +51,7 @@ async function convertTexts() {
       if (tokens.length === utterance.words.length) {
 
         tokens.forEach((token, i) => {
-          utterance.words[i].transcription = token;
+          utterance.words[i].transcription = { default: token };
         });
 
       }

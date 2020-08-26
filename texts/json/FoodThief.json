@@ -17,7 +17,9 @@
       "translation": "The reason why you never take food away from animals.",
       "words": [
         {
-          "transcription": "qʷiinuuƛḥiič",
+          "transcription": {
+            "default": "qʷiinuuƛḥiič"
+          },
           "analysis": {
             "default": "qʷi-a·nuːƛ-(q)ḥ-(y)iː-č"
           },
@@ -57,7 +59,9 @@
           ]
         },
         {
-          "transcription": "wiiy̓aat",
+          "transcription": {
+            "default": "wiiy̓aat"
+          },
           "analysis": {
             "default": "wiːy̓a-ʼat"
           },
@@ -79,7 +83,9 @@
           ]
         },
         {
-          "transcription": "haw̓aaḥinʔat",
+          "transcription": {
+            "default": "haw̓aaḥinʔat"
+          },
           "analysis": {
             "default": "haw̓-a·ḥin-ʼat"
           },
@@ -107,7 +113,9 @@
           ]
         },
         {
-          "transcription": "saštup",
+          "transcription": {
+            "default": "saštup"
+          },
           "analysis": {
             "default": "sa-štu·p"
           },
@@ -141,7 +149,9 @@
       "translation": "This happened recently.",
       "words": [
         {
-          "transcription": "ƛaac̓umwaʔiš",
+          "transcription": {
+            "default": "ƛaac̓umwaʔiš"
+          },
           "analysis": {
             "default": "ƛaːc̓um-wa·ʔiš"
           },
@@ -163,7 +173,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥ",
+          "transcription": {
+            "default": "ʔaḥ"
+          },
           "analysis": {
             "default": "ʔaḥ"
           },
@@ -179,7 +191,9 @@
           ]
         },
         {
-          "transcription": "qʷisnaak",
+          "transcription": {
+            "default": "qʷisnaak"
+          },
           "analysis": {
             "default": "qʷis-na·k"
           },
@@ -213,7 +227,9 @@
       "translation": "The man was going to hunt for hair seal.",
       "words": [
         {
-          "transcription": "kuukuḥʷʼisa",
+          "transcription": {
+            "default": "kuukuḥʷʼisa"
+          },
           "analysis": {
             "default": "kuːkuḥʷʼisa"
           },
@@ -229,7 +245,9 @@
           ]
         },
         {
-          "transcription": "ʔuʔuʔiiḥʷʼit̓asitwaʔiš",
+          "transcription": {
+            "default": "ʔuʔuʔiiḥʷʼit̓asitwaʔiš"
+          },
           "analysis": {
             "default": "ʔu-ʼiːḥ-w̓it̓as-it-wa·ʔiš"
           },
@@ -269,7 +287,9 @@
           ]
         },
         {
-          "transcription": "čakupʔi",
+          "transcription": {
+            "default": "čakupʔi"
+          },
           "analysis": {
             "default": "čakup-ʔi·"
           },
@@ -303,7 +323,9 @@
       "translation": "He started off at the first break of daylight.",
       "words": [
         {
-          "transcription": "yaacšiƛ",
+          "transcription": {
+            "default": "yaacšiƛ"
+          },
           "analysis": {
             "default": "yac-šiƛ"
           },
@@ -325,7 +347,9 @@
           ]
         },
         {
-          "transcription": "ʔaʔumštup",
+          "transcription": {
+            "default": "ʔaʔumštup"
+          },
           "analysis": {
             "default": "ʔaʔum-štu·p"
           },
@@ -347,7 +371,9 @@
           ]
         },
         {
-          "transcription": "kaƛḥʔaqstuƛ",
+          "transcription": {
+            "default": "kaƛḥʔaqstuƛ"
+          },
           "analysis": {
             "default": "kaƛḥ-ʼaqstuƛ"
           },
@@ -381,7 +407,9 @@
       "translation": "He headed for the place where he usually waited for hair seals to come to the surface.",
       "words": [
         {
-          "transcription": "ʔucaḥtačiƛ",
+          "transcription": {
+            "default": "ʔucaḥtačiƛ"
+          },
           "analysis": {
             "default": "ʔu-ca-ḥta-čiƛ"
           },
@@ -415,7 +443,9 @@
           ]
         },
         {
-          "transcription": "hiy̓aaʔaʔitqʔaaɬ",
+          "transcription": {
+            "default": "hiy̓aaʔaʔitqʔaaɬ"
+          },
           "analysis": {
             "default": "hiɬ-ʼa·ʔa-ʔi·tq-ʔaːɬ"
           },
@@ -449,7 +479,9 @@
           ]
         },
         {
-          "transcription": "naaw̓aḥaƛ",
+          "transcription": {
+            "default": "naaw̓aḥaƛ"
+          },
           "analysis": {
             "default": "naːw̓aḥi-ʼaƛ"
           },
@@ -471,7 +503,9 @@
           ]
         },
         {
-          "transcription": "hinusaƛquu",
+          "transcription": {
+            "default": "hinusaƛquu"
+          },
           "analysis": {
             "default": "hinusa-ʼaƛ-quː"
           },
@@ -499,7 +533,9 @@
           ]
         },
         {
-          "transcription": "kuukuḥʷʼisa",
+          "transcription": {
+            "default": "kuukuḥʷʼisa"
+          },
           "analysis": {
             "default": "kuːkuḥʷʼisa"
           },
@@ -527,7 +563,9 @@
       "translation": "He stopped there lying down waiting.",
       "words": [
         {
-          "transcription": "wiinap̓aʔaƛ",
+          "transcription": {
+            "default": "wiinap̓aʔaƛ"
+          },
           "analysis": {
             "default": "wiːnap-ʼa·ʔa-ʼaƛ"
           },
@@ -555,7 +593,9 @@
           ]
         },
         {
-          "transcription": "ɬaḥʔas",
+          "transcription": {
+            "default": "ɬaḥʔas"
+          },
           "analysis": {
             "default": "ɬaḥ-ʼas"
           },
@@ -577,7 +617,9 @@
           ]
         },
         {
-          "transcription": "naaw̓aḥi",
+          "transcription": {
+            "default": "naaw̓aḥi"
+          },
           "analysis": {
             "default": "naːw̓aḥi"
           },
@@ -605,7 +647,9 @@
       "translation": "The man saw something move on the rocks.",
       "words": [
         {
-          "transcription": "n̓aacsiičiƛ",
+          "transcription": {
+            "default": "n̓aacsiičiƛ"
+          },
           "analysis": {
             "default": "n̓aːcsiː-čiƛ"
           },
@@ -627,7 +671,9 @@
           ]
         },
         {
-          "transcription": "čakupʔi",
+          "transcription": {
+            "default": "čakupʔi"
+          },
           "analysis": {
             "default": "čakup-ʔi·"
           },
@@ -649,7 +695,9 @@
           ]
         },
         {
-          "transcription": "ʔuuštup",
+          "transcription": {
+            "default": "ʔuuštup"
+          },
           "analysis": {
             "default": "ʔuːš-tup"
           },
@@ -671,7 +719,9 @@
           ]
         },
         {
-          "transcription": "maɬšiƛ̓aʔa",
+          "transcription": {
+            "default": "maɬšiƛ̓aʔa"
+          },
           "analysis": {
             "default": "maɬ-šiƛ-ʼa·ʔa"
           },
@@ -711,7 +761,9 @@
       "translation": "He lay in the grassy area.",
       "words": [
         {
-          "transcription": "hiy̓aaqstas",
+          "transcription": {
+            "default": "hiy̓aaqstas"
+          },
           "analysis": {
             "default": "hiɬ-ʼa·qsta-ʼas"
           },
@@ -739,7 +791,9 @@
           ]
         },
         {
-          "transcription": "ʕamaʕasʔi",
+          "transcription": {
+            "default": "ʕamaʕasʔi"
+          },
           "analysis": {
             "default": "ʕamaʕas-ʔi·"
           },
@@ -773,7 +827,9 @@
       "translation": "In a short while a hair seal popped up out of the water among some kelp.",
       "words": [
         {
-          "transcription": "wik",
+          "transcription": {
+            "default": "wik"
+          },
           "analysis": {
             "default": "wik"
           },
@@ -789,7 +845,9 @@
           ]
         },
         {
-          "transcription": "qiiḥsn̓aak",
+          "transcription": {
+            "default": "qiiḥsn̓aak"
+          },
           "analysis": {
             "default": "qiː-ḥsn̓a·k"
           },
@@ -811,7 +869,9 @@
           ]
         },
         {
-          "transcription": "hinusa",
+          "transcription": {
+            "default": "hinusa"
+          },
           "analysis": {
             "default": "hinusa"
           },
@@ -827,7 +887,9 @@
           ]
         },
         {
-          "transcription": "kuukuḥʷʼisa",
+          "transcription": {
+            "default": "kuukuḥʷʼisa"
+          },
           "analysis": {
             "default": "kuːkuḥʷʼisa"
           },
@@ -843,7 +905,9 @@
           ]
         },
         {
-          "transcription": "ʔuukʷiiqsta",
+          "transcription": {
+            "default": "ʔuukʷiiqsta"
+          },
           "analysis": {
             "default": "ʔu-kʷi·qsta"
           },
@@ -865,7 +929,9 @@
           ]
         },
         {
-          "transcription": "husmin",
+          "transcription": {
+            "default": "husmin"
+          },
           "analysis": {
             "default": "husmin"
           },
@@ -893,7 +959,9 @@
       "translation": "What the man saw dove in.",
       "words": [
         {
-          "transcription": "t̓aapsʔatu",
+          "transcription": {
+            "default": "t̓aapsʔatu"
+          },
           "analysis": {
             "default": "t̓aps-atu"
           },
@@ -915,7 +983,9 @@
           ]
         },
         {
-          "transcription": "yaaqʷin̓ak̓uuḥšit̓itq",
+          "transcription": {
+            "default": "yaaqʷin̓ak̓uuḥšit̓itq"
+          },
           "analysis": {
             "default": "yaqʷ-in̓ak̓uːḥ-šiƛ-ʔi·tq"
           },
@@ -949,7 +1019,9 @@
           ]
         },
         {
-          "transcription": "čakupʔi",
+          "transcription": {
+            "default": "čakupʔi"
+          },
           "analysis": {
             "default": "čakup-ʔi·"
           },
@@ -983,7 +1055,9 @@
       "translation": "He saw that it was a wolf.",
       "words": [
         {
-          "transcription": "n̓aacsiičiƛ",
+          "transcription": {
+            "default": "n̓aacsiičiƛ"
+          },
           "analysis": {
             "default": "n̓aːcsiː-čiƛ"
           },
@@ -1005,7 +1079,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -1021,7 +1097,9 @@
           ]
         },
         {
-          "transcription": "qʷayac̓iik",
+          "transcription": {
+            "default": "qʷayac̓iik"
+          },
           "analysis": {
             "default": "qʷayac̓iːk"
           },
@@ -1049,7 +1127,9 @@
       "translation": "It headed right away for the seal.",
       "words": [
         {
-          "transcription": "ʔuucaḥtaksa",
+          "transcription": {
+            "default": "ʔuucaḥtaksa"
+          },
           "analysis": {
             "default": "ʔu-ca-ḥta·k-sa"
           },
@@ -1083,7 +1163,9 @@
           ]
         },
         {
-          "transcription": "hinkʷay̓iiḥšiƛ",
+          "transcription": {
+            "default": "hinkʷay̓iiḥšiƛ"
+          },
           "analysis": {
             "default": "hin-kʷay̓iːḥ-šiƛ"
           },
@@ -1111,7 +1193,9 @@
           ]
         },
         {
-          "transcription": "kuukuḥʷʼisaʔi",
+          "transcription": {
+            "default": "kuukuḥʷʼisaʔi"
+          },
           "analysis": {
             "default": "kuːkuḥʷʼisa-ʔi·"
           },
@@ -1145,7 +1229,9 @@
       "translation": "It (the wolf) got it and killed it.",
       "words": [
         {
-          "transcription": "hiniipšiƛ",
+          "transcription": {
+            "default": "hiniipšiƛ"
+          },
           "analysis": {
             "default": "hin-iːp-šiƛ"
           },
@@ -1173,7 +1259,9 @@
           ]
         },
         {
-          "transcription": "qaḥsaap",
+          "transcription": {
+            "default": "qaḥsaap"
+          },
           "analysis": {
             "default": "qaḥ-sa·p"
           },
@@ -1207,7 +1295,9 @@
       "translation": "It (the wolf) swam away with it and brought it ashore to the sandy beach.",
       "words": [
         {
-          "transcription": "susaaʔaƛ",
+          "transcription": {
+            "default": "susaaʔaƛ"
+          },
           "analysis": {
             "default": "sus-a·-ʼaƛ"
           },
@@ -1235,7 +1325,9 @@
           ]
         },
         {
-          "transcription": "hiniic",
+          "transcription": {
+            "default": "hiniic"
+          },
           "analysis": {
             "default": "hiniːc"
           },
@@ -1251,7 +1343,9 @@
           ]
         },
         {
-          "transcription": "wiḥčisan̓ap",
+          "transcription": {
+            "default": "wiḥčisan̓ap"
+          },
           "analysis": {
             "default": "wiḥ-či-san̓ap"
           },
@@ -1279,7 +1373,9 @@
           ]
         },
         {
-          "transcription": "ʔucaʔap",
+          "transcription": {
+            "default": "ʔucaʔap"
+          },
           "analysis": {
             "default": "ʔu-ca-ʼap"
           },
@@ -1307,7 +1403,9 @@
           ]
         },
         {
-          "transcription": "sup̓icisʔi",
+          "transcription": {
+            "default": "sup̓icisʔi"
+          },
           "analysis": {
             "default": "sup̓ic-ʽis-ʔi·"
           },
@@ -1347,7 +1445,9 @@
       "translation": "It dug and dug.",
       "words": [
         {
-          "transcription": "c̓ušiʔaƛ",
+          "transcription": {
+            "default": "c̓ušiʔaƛ"
+          },
           "analysis": {
             "default": "c̓us-ši(ƛ)-ʼaƛ"
           },
@@ -1375,7 +1475,9 @@
           ]
         },
         {
-          "transcription": "c̓ušiʔaƛ",
+          "transcription": {
+            "default": "c̓ušiʔaƛ"
+          },
           "analysis": {
             "default": "c̓us-ši(ƛ)-ʼaƛ"
           },
@@ -1415,7 +1517,9 @@
       "translation": "It rolled its hair seal into the hole.",
       "words": [
         {
-          "transcription": "hatkc̓usan̓ap̓aƛ",
+          "transcription": {
+            "default": "hatkc̓usan̓ap̓aƛ"
+          },
           "analysis": {
             "default": "hatkʷ-c̓u·-san̓ap-ʼaƛ"
           },
@@ -1449,7 +1553,9 @@
           ]
         },
         {
-          "transcription": "kuukuḥʷʼisakʔi",
+          "transcription": {
+            "default": "kuukuḥʷʼisakʔi"
+          },
           "analysis": {
             "default": "kuːkuḥʷʼisa-ʔa·k-ʔi·"
           },
@@ -1489,7 +1595,9 @@
       "translation": "Then it (the wolf) covered it with sand.",
       "words": [
         {
-          "transcription": "tuukʷiičsan̓ap̓aƛ",
+          "transcription": {
+            "default": "tuukʷiičsan̓ap̓aƛ"
+          },
           "analysis": {
             "default": "tuːk-i·č-san̓ap-ʼaƛ"
           },
@@ -1535,7 +1643,9 @@
       "translation": "The wolf started to roll around trying to cover up where he buried his hair seal.",
       "words": [
         {
-          "transcription": "hatkhatkmisaƛ",
+          "transcription": {
+            "default": "hatkhatkmisaƛ"
+          },
           "analysis": {
             "default": "DUP.#-hatkʷ-misa-ʼaƛ"
           },
@@ -1569,7 +1679,9 @@
           ]
         },
         {
-          "transcription": "qʷayac̓iikʔi",
+          "transcription": {
+            "default": "qʷayac̓iikʔi"
+          },
           "analysis": {
             "default": "qʷayac̓iːk-ʔi·"
           },
@@ -1591,7 +1703,9 @@
           ]
         },
         {
-          "transcription": "wiimatsapa",
+          "transcription": {
+            "default": "wiimatsapa"
+          },
           "analysis": {
             "default": "wiːmat-sa·p-a"
           },
@@ -1619,7 +1733,9 @@
           ]
         },
         {
-          "transcription": "qʷiʔiiʔisʔapʔitq",
+          "transcription": {
+            "default": "qʷiʔiiʔisʔapʔitq"
+          },
           "analysis": {
             "default": "qʷi-ʔiː-ʽis-ʼap-ʔi·tq"
           },
@@ -1659,7 +1775,9 @@
           ]
         },
         {
-          "transcription": "kuukuḥʷʼisakʔi",
+          "transcription": {
+            "default": "kuukuḥʷʼisakʔi"
+          },
           "analysis": {
             "default": "kuːhkuḥʷʼisa-ʔa·k-ʔi·"
           },
@@ -1699,7 +1817,9 @@
       "translation": "It (the wolf) would step far back there making sure that it did not show.",
       "words": [
         {
-          "transcription": "sayiisaʔaƛquuč",
+          "transcription": {
+            "default": "sayiisaʔaƛquuč"
+          },
           "analysis": {
             "default": "saya·-ʽis-aʔa-ʼaƛ-quː-č"
           },
@@ -1745,7 +1865,9 @@
           ]
         },
         {
-          "transcription": "ḥuu",
+          "transcription": {
+            "default": "ḥuu"
+          },
           "analysis": {
             "default": "ḥuː"
           },
@@ -1761,7 +1883,9 @@
           ]
         },
         {
-          "transcription": "ḥaam̓aamaḥasak",
+          "transcription": {
+            "default": "ḥaam̓aamaḥasak"
+          },
           "analysis": {
             "default": "ḥaːm̓a-maḥsa-ak"
           },
@@ -1789,7 +1913,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -1805,7 +1931,9 @@
           ]
         },
         {
-          "transcription": "wiimatisuk",
+          "transcription": {
+            "default": "wiimatisuk"
+          },
           "analysis": {
             "default": "wiːmat-ʽis-uk"
           },
@@ -1845,7 +1973,9 @@
       "translation": "It would repeatedly start rolling around again.",
       "words": [
         {
-          "transcription": "huʔaasʔaƛquučƛa",
+          "transcription": {
+            "default": "huʔaasʔaƛquučƛa"
+          },
           "analysis": {
             "default": "huʔa-a·s-ʼaƛ-quː-č-ƛa·"
           },
@@ -1885,7 +2015,9 @@
           ]
         },
         {
-          "transcription": "hatkhatkmisaƛ",
+          "transcription": {
+            "default": "hatkhatkmisaƛ"
+          },
           "analysis": {
             "default": "DUP.#-hatkʷ-misa-ʼaƛ"
           },
@@ -1931,7 +2063,9 @@
       "translation": "The wolf ran off into the woods.",
       "words": [
         {
-          "transcription": "mukšiƛ",
+          "transcription": {
+            "default": "mukšiƛ"
+          },
           "analysis": {
             "default": "muk-šiƛ"
           },
@@ -1953,7 +2087,9 @@
           ]
         },
         {
-          "transcription": "qʷayac̓iikʔi",
+          "transcription": {
+            "default": "qʷayac̓iikʔi"
+          },
           "analysis": {
             "default": "qʷyac̓iːk-ʔi·"
           },
@@ -1975,7 +2111,9 @@
           ]
         },
         {
-          "transcription": "hit̓aaqƛ̓iƛ",
+          "transcription": {
+            "default": "hit̓aaqƛ̓iƛ"
+          },
           "analysis": {
             "default": "hit-ʼa·qƛ̓iƛ"
           },
@@ -2009,7 +2147,9 @@
       "translation": "It howled as it went inviting the other wolves.",
       "words": [
         {
-          "transcription": "mamaasuɬqčik",
+          "transcription": {
+            "default": "mamaasuɬqčik"
+          },
           "analysis": {
             "default": "ma·su·ɬ-qčik"
           },
@@ -2031,7 +2171,9 @@
           ]
         },
         {
-          "transcription": "haaʕin",
+          "transcription": {
+            "default": "haaʕin"
+          },
           "analysis": {
             "default": "haːʕin"
           },
@@ -2047,7 +2189,9 @@
           ]
         },
         {
-          "transcription": "yaaʕaaɬčiqḥʔitq",
+          "transcription": {
+            "default": "yaaʕaaɬčiqḥʔitq"
+          },
           "analysis": {
             "default": "yaqʷ-ʼa·ɬčiqḥ-ʔi·tq"
           },
@@ -2087,7 +2231,9 @@
       "translation": "The man didn’t wait.",
       "words": [
         {
-          "transcription": "wiktum",
+          "transcription": {
+            "default": "wiktum"
+          },
           "analysis": {
             "default": "wik-tum"
           },
@@ -2109,7 +2255,9 @@
           ]
         },
         {
-          "transcription": "naaw̓aḥi",
+          "transcription": {
+            "default": "naaw̓aḥi"
+          },
           "analysis": {
             "default": "naːw̓aḥi"
           },
@@ -2125,7 +2273,9 @@
           ]
         },
         {
-          "transcription": "čakupʔi",
+          "transcription": {
+            "default": "čakupʔi"
+          },
           "analysis": {
             "default": "čakup-ʔi·"
           },
@@ -2159,7 +2309,9 @@
       "translation": "He jumped up and went there.",
       "words": [
         {
-          "transcription": "tuxkʷist̓aʔa",
+          "transcription": {
+            "default": "tuxkʷist̓aʔa"
+          },
           "analysis": {
             "default": "tuxʷ-kʷist-ʼa·ʔa"
           },
@@ -2187,7 +2339,9 @@
           ]
         },
         {
-          "transcription": "ʔuucaḥtaksa",
+          "transcription": {
+            "default": "ʔuucaḥtaksa"
+          },
           "analysis": {
             "default": "ʔu-ca-ḥta·k-sa"
           },
@@ -2233,7 +2387,9 @@
       "translation": "He dug up the seal and took it home.",
       "words": [
         {
-          "transcription": "c̓uskʷisan̓ap",
+          "transcription": {
+            "default": "c̓uskʷisan̓ap"
+          },
           "analysis": {
             "default": "c̓us-kʷis-san̓ap"
           },
@@ -2261,7 +2417,9 @@
           ]
         },
         {
-          "transcription": "kuukuḥʷʼisaʔi",
+          "transcription": {
+            "default": "kuukuḥʷʼisaʔi"
+          },
           "analysis": {
             "default": "kuːkuḥʷʼisa-ʔi·"
           },
@@ -2283,7 +2441,9 @@
           ]
         },
         {
-          "transcription": "hiniic",
+          "transcription": {
+            "default": "hiniic"
+          },
           "analysis": {
             "default": "hiniːc"
           },
@@ -2299,7 +2459,9 @@
           ]
         },
         {
-          "transcription": "waɬšiƛ",
+          "transcription": {
+            "default": "waɬšiƛ"
+          },
           "analysis": {
             "default": "waɬ-ši(ƛ)"
           },
@@ -2333,7 +2495,9 @@
       "translation": "The wife cut it up and started to cook.",
       "words": [
         {
-          "transcription": "č̓iʔakʷay̓ap",
+          "transcription": {
+            "default": "č̓iʔakʷay̓ap"
+          },
           "analysis": {
             "default": "č̓i-ʔakʷa-y̓a·p"
           },
@@ -2361,7 +2525,9 @@
           ]
         },
         {
-          "transcription": "siqiiɬšiƛ",
+          "transcription": {
+            "default": "siqiiɬšiƛ"
+          },
           "analysis": {
             "default": "siq-iːɬ-šiƛ"
           },
@@ -2389,7 +2555,9 @@
           ]
         },
         {
-          "transcription": "ɬuucmaʔi",
+          "transcription": {
+            "default": "ɬuucmaʔi"
+          },
           "analysis": {
             "default": "ɬuːcma-ʔi·"
           },
@@ -2423,7 +2591,9 @@
       "translation": "The wolf came back out of the woods.",
       "words": [
         {
-          "transcription": "huʔaḥt̓asʔaƛ",
+          "transcription": {
+            "default": "huʔaḥt̓asʔaƛ"
+          },
           "analysis": {
             "default": "huʔa-ḥt-ʼas-ʼaƛ"
           },
@@ -2457,7 +2627,9 @@
           ]
         },
         {
-          "transcription": "qʷayac̓iikʔi",
+          "transcription": {
+            "default": "qʷayac̓iikʔi"
+          },
           "analysis": {
             "default": "qʷayac̓iːk-ʔi·"
           },
@@ -2491,7 +2663,9 @@
       "translation": "He brought the ones that he invited.",
       "words": [
         {
-          "transcription": "hiniic",
+          "transcription": {
+            "default": "hiniic"
+          },
           "analysis": {
             "default": "hiniːc"
           },
@@ -2507,7 +2681,9 @@
           ]
         },
         {
-          "transcription": "yaaqʷiɬitʔitq",
+          "transcription": {
+            "default": "yaaqʷiɬitʔitq"
+          },
           "analysis": {
             "default": "yaqʷ-iɬ-it-ʔi·tq"
           },
@@ -2541,7 +2717,9 @@
           ]
         },
         {
-          "transcription": "haaw̓awiiqš",
+          "transcription": {
+            "default": "haaw̓awiiqš"
+          },
           "analysis": {
             "default": "haw̓a-awiːqš"
           },
@@ -2575,7 +2753,9 @@
       "translation": "It (the wolf) found its seal gone.",
       "words": [
         {
-          "transcription": "wikisʕiʔaƛ",
+          "transcription": {
+            "default": "wikisʕiʔaƛ"
+          },
           "analysis": {
             "default": "wik-ʽis-ʕi(ƛ)-ʼaƛ"
           },
@@ -2609,7 +2789,9 @@
           ]
         },
         {
-          "transcription": "kuukuḥʷʼisakʔi",
+          "transcription": {
+            "default": "kuukuḥʷʼisakʔi"
+          },
           "analysis": {
             "default": "kuːkuḥʷʼisa-ʔa·k-ʔi·"
           },
@@ -2649,7 +2831,9 @@
       "translation": "It sniffed out the track of the one who stole its food went.",
       "words": [
         {
-          "transcription": "mismiisʔaƛ̓at",
+          "transcription": {
+            "default": "mismiisʔaƛ̓at"
+          },
           "analysis": {
             "default": "mis-ma·-ʽis-ʼaƛ-ʼat"
           },
@@ -2689,7 +2873,9 @@
           ]
         },
         {
-          "transcription": "qʷicaḥtačiƛitʔitq",
+          "transcription": {
+            "default": "qʷicaḥtačiƛitʔitq"
+          },
           "analysis": {
             "default": "qʷi-ca-ḥta-čiƛ-ʔi·tq"
           },
@@ -2729,7 +2915,9 @@
           ]
         },
         {
-          "transcription": "yaʕatukʔitq",
+          "transcription": {
+            "default": "yaʕatukʔitq"
+          },
           "analysis": {
             "default": "yaq-ʼat-uk-ʔi·tq"
           },
@@ -2763,7 +2951,9 @@
           ]
         },
         {
-          "transcription": "kuuw̓iɬʔat",
+          "transcription": {
+            "default": "kuuw̓iɬʔat"
+          },
           "analysis": {
             "default": "kuːw̓iɬ-ʼat"
           },
@@ -2785,7 +2975,9 @@
           ]
         },
         {
-          "transcription": "haʔum",
+          "transcription": {
+            "default": "haʔum"
+          },
           "analysis": {
             "default": "haʔum"
           },
@@ -2813,7 +3005,9 @@
       "translation": "Right away it headed for the man’s house.",
       "words": [
         {
-          "transcription": "ʔuucaḥtaksa",
+          "transcription": {
+            "default": "ʔuucaḥtaksa"
+          },
           "analysis": {
             "default": "ʔu-ca-ḥta·k-sa"
           },
@@ -2847,7 +3041,9 @@
           ]
         },
         {
-          "transcription": "hiy̓atḥʔitq",
+          "transcription": {
+            "default": "hiy̓atḥʔitq"
+          },
           "analysis": {
             "default": "hiɬ-ʼatḥ-ʔi·tq"
           },
@@ -2875,7 +3071,9 @@
           ]
         },
         {
-          "transcription": "čakupʔi",
+          "transcription": {
+            "default": "čakupʔi"
+          },
           "analysis": {
             "default": "čakup-ʔi·"
           },
@@ -2909,7 +3107,9 @@
       "translation": "They circled around the house where the man and the wife lived.",
       "words": [
         {
-          "transcription": "mitxumy̓iƛ̓aɬ",
+          "transcription": {
+            "default": "mitxumy̓iƛ̓aɬ"
+          },
           "analysis": {
             "default": "mitxʷ-umɬ-ʼi·(ƛ)-ʔa·ɬ"
           },
@@ -2943,7 +3143,9 @@
           ]
         },
         {
-          "transcription": "hiy̓atḥʔitq",
+          "transcription": {
+            "default": "hiy̓atḥʔitq"
+          },
           "analysis": {
             "default": "hiɬ-ʼatḥ-ʔi·tq"
           },
@@ -2971,7 +3173,9 @@
           ]
         },
         {
-          "transcription": "čakupʔi",
+          "transcription": {
+            "default": "čakupʔi"
+          },
           "analysis": {
             "default": "čakup-ʔi·"
           },
@@ -2993,7 +3197,9 @@
           ]
         },
         {
-          "transcription": "hiɬʔiitq",
+          "transcription": {
+            "default": "hiɬʔiitq"
+          },
           "analysis": {
             "default": "hiɬ-ʔi·tq"
           },
@@ -3015,7 +3221,9 @@
           ]
         },
         {
-          "transcription": "hicnup̓aqƛ̓as",
+          "transcription": {
+            "default": "hicnup̓aqƛ̓as"
+          },
           "analysis": {
             "default": "hicnup-ʼaqƛ̓as"
           },
@@ -3049,7 +3257,9 @@
       "translation": "There the wolves stayed.",
       "words": [
         {
-          "transcription": "hiʔiis",
+          "transcription": {
+            "default": "hiʔiis"
+          },
           "analysis": {
             "default": "hiʔiːs"
           },
@@ -3065,7 +3275,9 @@
           ]
         },
         {
-          "transcription": "qʷayac̓iikm̓inḥʔi",
+          "transcription": {
+            "default": "qʷayac̓iikm̓inḥʔi"
+          },
           "analysis": {
             "default": "qʷayac̓iːk-m̓inḥ-ʔi·"
           },
@@ -3105,7 +3317,9 @@
       "translation": "They circled around the man’s house.",
       "words": [
         {
-          "transcription": "mitxʷaaʔaɬ",
+          "transcription": {
+            "default": "mitxʷaaʔaɬ"
+          },
           "analysis": {
             "default": "mitxʷ-a·-ʔa·ɬ"
           },
@@ -3133,7 +3347,9 @@
           ]
         },
         {
-          "transcription": "maḥt̓iiʔak",
+          "transcription": {
+            "default": "maḥt̓iiʔak"
+          },
           "analysis": {
             "default": "maḥt̓iː-ʔa·k"
           },
@@ -3155,7 +3371,9 @@
           ]
         },
         {
-          "transcription": "čakupʔi",
+          "transcription": {
+            "default": "čakupʔi"
+          },
           "analysis": {
             "default": "čakup-ʔi·"
           },
@@ -3189,7 +3407,9 @@
       "translation": "For many days they were afraid to go out.",
       "words": [
         {
-          "transcription": "qiičiiɬšiʔaƛ̓itqʔaɬ",
+          "transcription": {
+            "default": "qiičiiɬšiʔaƛ̓itqʔaɬ"
+          },
           "analysis": {
             "default": "qiː-či·ɬ-šiƛ-ʼaƛ-ʔi·tq-ʔa·ɬ"
           },
@@ -3235,7 +3455,9 @@
           ]
         },
         {
-          "transcription": "tuuḥuk",
+          "transcription": {
+            "default": "tuuḥuk"
+          },
           "analysis": {
             "default": "tuːḥuk"
           },
@@ -3251,7 +3473,9 @@
           ]
         },
         {
-          "transcription": "hiniiʔas",
+          "transcription": {
+            "default": "hiniiʔas"
+          },
           "analysis": {
             "default": "hin-iːʔas"
           },
@@ -3285,7 +3509,9 @@
       "translation": "When their garbage piled up, the wife thought that she had nothing to fear, because after all she was not the one who stole the seal.",
       "words": [
         {
-          "transcription": "ʔayipiʔaƛukʔitq",
+          "transcription": {
+            "default": "ʔayipiʔaƛukʔitq"
+          },
           "analysis": {
             "default": "ʔaya-ʽ(i)pi(ƛ)-ʼaƛ-uk-ʔi·tq"
           },
@@ -3325,7 +3551,9 @@
           ]
         },
         {
-          "transcription": "tums",
+          "transcription": {
+            "default": "tums"
+          },
           "analysis": {
             "default": "tums"
           },
@@ -3341,7 +3569,9 @@
           ]
         },
         {
-          "transcription": "ʔuyaaƛ",
+          "transcription": {
+            "default": "ʔuyaaƛ"
+          },
           "analysis": {
             "default": "ʔuyi-ʼaƛ"
           },
@@ -3363,7 +3593,9 @@
           ]
         },
         {
-          "transcription": "waay̓aqstuƛ",
+          "transcription": {
+            "default": "waay̓aqstuƛ"
+          },
           "analysis": {
             "default": "wa·ɬ-ʼaqstuƛ"
           },
@@ -3385,7 +3617,9 @@
           ]
         },
         {
-          "transcription": "ɬuucmaʔi",
+          "transcription": {
+            "default": "ɬuucmaʔi"
+          },
           "analysis": {
             "default": "ɬuːcma-ʔi·"
           },
@@ -3407,7 +3641,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -3423,7 +3659,9 @@
           ]
         },
         {
-          "transcription": "wiiwiik̓ity̓ak",
+          "transcription": {
+            "default": "wiiwiik̓ity̓ak"
+          },
           "analysis": {
             "default": "ik-ʼity̓ak"
           },
@@ -3445,7 +3683,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -3461,7 +3701,9 @@
           ]
         },
         {
-          "transcription": "wiiksa",
+          "transcription": {
+            "default": "wiiksa"
+          },
           "analysis": {
             "default": "wik-sa"
           },
@@ -3483,7 +3725,9 @@
           ]
         },
         {
-          "transcription": "ʔuḥ",
+          "transcription": {
+            "default": "ʔuḥ"
+          },
           "analysis": {
             "default": "ʔuḥ"
           },
@@ -3499,7 +3743,9 @@
           ]
         },
         {
-          "transcription": "kuuw̓iɬ",
+          "transcription": {
+            "default": "kuuw̓iɬ"
+          },
           "analysis": {
             "default": "kuːw̓iɬ"
           },
@@ -3515,7 +3761,9 @@
           ]
         },
         {
-          "transcription": "kuukuḥʷʼisaʔi",
+          "transcription": {
+            "default": "kuukuḥʷʼisaʔi"
+          },
           "analysis": {
             "default": "kuːkuḥʷʼisa-ʔi·"
           },
@@ -3549,7 +3797,9 @@
       "translation": "She went out to dump the garbage.",
       "words": [
         {
-          "transcription": "hiniiʔas",
+          "transcription": {
+            "default": "hiniiʔas"
+          },
           "analysis": {
             "default": "hin-iːʔas"
           },
@@ -3571,7 +3821,9 @@
           ]
         },
         {
-          "transcription": "tumyaap",
+          "transcription": {
+            "default": "tumyaap"
+          },
           "analysis": {
             "default": "tums-a·p"
           },
@@ -3605,7 +3857,9 @@
       "translation": "[But] they didn’t do anything to her.",
       "words": [
         {
-          "transcription": "wiksiɬat",
+          "transcription": {
+            "default": "wiksiɬat"
+          },
           "analysis": {
             "default": "wik-siɬa-ʼat"
           },
@@ -3645,7 +3899,9 @@
       "translation": "Then the man got an idea.",
       "words": [
         {
-          "transcription": "ʔuyaaƛ",
+          "transcription": {
+            "default": "ʔuyaaƛ"
+          },
           "analysis": {
             "default": "ʔuyi-ʼaƛ"
           },
@@ -3667,7 +3923,9 @@
           ]
         },
         {
-          "transcription": "t̓apatnakšiƛ",
+          "transcription": {
+            "default": "t̓apatnakšiƛ"
+          },
           "analysis": {
             "default": "t̓apat-na·k-šiƛ"
           },
@@ -3695,7 +3953,9 @@
           ]
         },
         {
-          "transcription": "čakupʔi",
+          "transcription": {
+            "default": "čakupʔi"
+          },
           "analysis": {
             "default": "čakup-ʔi·"
           },
@@ -3729,7 +3989,9 @@
       "translation": "They had an addition on the roof of their residence where smoke escaped from.",
       "words": [
         {
-          "transcription": "maḥt̓aqasukʔaɬ",
+          "transcription": {
+            "default": "maḥt̓aqasukʔaɬ"
+          },
           "analysis": {
             "default": "maḥt̓aqas-uk-ʔa·ɬ"
           },
@@ -3757,7 +4019,9 @@
           ]
         },
         {
-          "transcription": "hiy̓atḥʔitq",
+          "transcription": {
+            "default": "hiy̓atḥʔitq"
+          },
           "analysis": {
             "default": "hiɬ-ʼatḥ-ʔi·tq"
           },
@@ -3785,7 +4049,9 @@
           ]
         },
         {
-          "transcription": "hiistwasukʔitq",
+          "transcription": {
+            "default": "hiistwasukʔitq"
+          },
           "analysis": {
             "default": "hist-wa·s-uk-ʔi·tq"
           },
@@ -3819,7 +4085,9 @@
           ]
         },
         {
-          "transcription": "qʷišckʷii",
+          "transcription": {
+            "default": "qʷišckʷii"
+          },
           "analysis": {
             "default": "qʷiš-ckʷi·"
           },
@@ -3853,7 +4121,9 @@
       "translation": "He took his ladder and climbed up taking along a gun.",
       "words": [
         {
-          "transcription": "sukʷiƛ",
+          "transcription": {
+            "default": "sukʷiƛ"
+          },
           "analysis": {
             "default": "sukʷi(ƛ)"
           },
@@ -3869,7 +4139,9 @@
           ]
         },
         {
-          "transcription": "xaaʔamin",
+          "transcription": {
+            "default": "xaaʔamin"
+          },
           "analysis": {
             "default": "xaːʔamin"
           },
@@ -3885,7 +4157,9 @@
           ]
         },
         {
-          "transcription": "hinumsinƛ",
+          "transcription": {
+            "default": "hinumsinƛ"
+          },
           "analysis": {
             "default": "hinumsinƛ"
           },
@@ -3901,7 +4175,9 @@
           ]
         },
         {
-          "transcription": "hiniic",
+          "transcription": {
+            "default": "hiniic"
+          },
           "analysis": {
             "default": "hiniːc"
           },
@@ -3917,7 +4193,9 @@
           ]
         },
         {
-          "transcription": "puu",
+          "transcription": {
+            "default": "puu"
+          },
           "analysis": {
             "default": "puː"
           },
@@ -3945,7 +4223,9 @@
       "translation": "He looked out.",
       "words": [
         {
-          "transcription": "y̓akʷaas",
+          "transcription": {
+            "default": "y̓akʷaas"
+          },
           "analysis": {
             "default": "y̓ak-wa·s"
           },
@@ -3979,7 +4259,9 @@
       "translation": "There was a white wolf — he must have been their leader.",
       "words": [
         {
-          "transcription": "ƛ̓isumɬaq",
+          "transcription": {
+            "default": "ƛ̓isumɬaq"
+          },
           "analysis": {
             "default": "ƛ̓is-umɬ-aq"
           },
@@ -4007,7 +4289,9 @@
           ]
         },
         {
-          "transcription": "ḥaw̓iɬmatakukʔiʔaɬ",
+          "transcription": {
+            "default": "ḥaw̓iɬmatakukʔiʔaɬ"
+          },
           "analysis": {
             "default": "ḥaw̓iɬ-matak-uk-ʔi·-ʔa·ɬ"
           },
@@ -4059,7 +4343,9 @@
       "translation": "He shot the white one and killed it.",
       "words": [
         {
-          "transcription": "ƛ̓ičiƛ",
+          "transcription": {
+            "default": "ƛ̓ičiƛ"
+          },
           "analysis": {
             "default": "ƛ̓i-čiƛ"
           },
@@ -4081,7 +4367,9 @@
           ]
         },
         {
-          "transcription": "ʔuḥtaa",
+          "transcription": {
+            "default": "ʔuḥtaa"
+          },
           "analysis": {
             "default": "ʔu-ḥta·"
           },
@@ -4103,7 +4391,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓isumɬʔi",
+          "transcription": {
+            "default": "ƛ̓isumɬʔi"
+          },
           "analysis": {
             "default": "ƛ̓is-umɬ-ʔi·"
           },
@@ -4131,7 +4421,9 @@
           ]
         },
         {
-          "transcription": "qaḥsaap",
+          "transcription": {
+            "default": "qaḥsaap"
+          },
           "analysis": {
             "default": "qaḥ-sa·p"
           },
@@ -4165,7 +4457,9 @@
       "translation": "Right away they gathered around and started howling.",
       "words": [
         {
-          "transcription": "nay̓iik",
+          "transcription": {
+            "default": "nay̓iik"
+          },
           "analysis": {
             "default": "nay̓iːk"
           },
@@ -4181,7 +4475,9 @@
           ]
         },
         {
-          "transcription": "w̓ašqšiƛ",
+          "transcription": {
+            "default": "w̓ašqšiƛ"
+          },
           "analysis": {
             "default": "w̓ašq-šiƛ"
           },
@@ -4203,7 +4499,9 @@
           ]
         },
         {
-          "transcription": "mamaasuɬšiƛ",
+          "transcription": {
+            "default": "mamaasuɬšiƛ"
+          },
           "analysis": {
             "default": "DUP.CV-ma·su·ɬ-šiƛ"
           },
@@ -4243,7 +4541,9 @@
       "translation": "Two wolves put [the dead wolf] on their back.",
       "words": [
         {
-          "transcription": "hiiɬtqyaap̓up",
+          "transcription": {
+            "default": "hiiɬtqyaap̓up"
+          },
           "analysis": {
             "default": "hiɬ-tqya·p̓i-up"
           },
@@ -4271,7 +4571,9 @@
           ]
         },
         {
-          "transcription": "ʔaƛa",
+          "transcription": {
+            "default": "ʔaƛa"
+          },
           "analysis": {
             "default": "ʔaƛa"
           },
@@ -4287,7 +4589,9 @@
           ]
         },
         {
-          "transcription": "qʷayac̓iik",
+          "transcription": {
+            "default": "qʷayac̓iik"
+          },
           "analysis": {
             "default": "qʷayac̓iːk"
           },
@@ -4315,7 +4619,9 @@
       "translation": "They were howling as they went into the woods.",
       "words": [
         {
-          "transcription": "mamaasuɬqčik̓aƛ̓aɬ",
+          "transcription": {
+            "default": "mamaasuɬqčik̓aƛ̓aɬ"
+          },
           "analysis": {
             "default": "DUP.CV-ma·su·ɬ-qčik-ʼaƛ-ʔa·ɬ"
           },
@@ -4355,7 +4661,9 @@
           ]
         },
         {
-          "transcription": "hiitaqƛ̓iƛ",
+          "transcription": {
+            "default": "hiitaqƛ̓iƛ"
+          },
           "analysis": {
             "default": "hit-ʼa·qƛ̓iƛ"
           },
@@ -4389,7 +4697,9 @@
       "translation": "Right away the couple packed up and went down the inlet.",
       "words": [
         {
-          "transcription": "nay̓iik",
+          "transcription": {
+            "default": "nay̓iik"
+          },
           "analysis": {
             "default": "nay̓iːk"
           },
@@ -4405,7 +4715,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓iptkšiƛ",
+          "transcription": {
+            "default": "ƛ̓iptkšiƛ"
+          },
           "analysis": {
             "default": "ƛ̓iptk-šiƛ"
           },
@@ -4427,7 +4739,9 @@
           ]
         },
         {
-          "transcription": "hicnupʔi",
+          "transcription": {
+            "default": "hicnupʔi"
+          },
           "analysis": {
             "default": "hicnup-ʔi·"
           },
@@ -4449,7 +4763,9 @@
           ]
         },
         {
-          "transcription": "hitawiiʔis",
+          "transcription": {
+            "default": "hitawiiʔis"
+          },
           "analysis": {
             "default": "hita-wiːʔis"
           },
@@ -4483,7 +4799,9 @@
       "translation": "It wasn’t long before the wolf pack found the couple again.",
       "words": [
         {
-          "transcription": "wik̓ap̓at",
+          "transcription": {
+            "default": "wik̓ap̓at"
+          },
           "analysis": {
             "default": "wik-ʼap-ʼat"
           },
@@ -4511,7 +4829,9 @@
           ]
         },
         {
-          "transcription": "qiiʔatḥ",
+          "transcription": {
+            "default": "qiiʔatḥ"
+          },
           "analysis": {
             "default": "qiː-ʼatḥ"
           },
@@ -4533,7 +4853,9 @@
           ]
         },
         {
-          "transcription": "hiinaʔaƛ̓atƛa",
+          "transcription": {
+            "default": "hiinaʔaƛ̓atƛa"
+          },
           "analysis": {
             "default": "hin-(w)a(ƛ)-ʼaƛ-ʼat-ƛa·"
           },
@@ -4573,7 +4895,9 @@
           ]
         },
         {
-          "transcription": "qʷayac̓iikštaqumɬʔi",
+          "transcription": {
+            "default": "qʷayac̓iikštaqumɬʔi"
+          },
           "analysis": {
             "default": "qʷayac̓iːk-štaqumɬ-ʔi·"
           },
@@ -4613,7 +4937,9 @@
       "translation": "“Now, what should I do,” said the husband.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -4629,7 +4955,9 @@
           ]
         },
         {
-          "transcription": "ʔaqiscumḥin",
+          "transcription": {
+            "default": "ʔaqiscumḥin"
+          },
           "analysis": {
             "default": "ʔaqis-cum-ḥin"
           },
@@ -4657,7 +4985,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -4679,7 +5009,9 @@
           ]
         },
         {
-          "transcription": "čakupʔi",
+          "transcription": {
+            "default": "čakupʔi"
+          },
           "analysis": {
             "default": "čakup-ʔi·"
           },
@@ -4713,7 +5045,9 @@
       "translation": "They wouldn’t leave me alone no matter where we go.",
       "words": [
         {
-          "transcription": "wikʔaqƛ̓atsa",
+          "transcription": {
+            "default": "wikʔaqƛ̓atsa"
+          },
           "analysis": {
             "default": "wik-ʔaqƛ-ʼat-sa"
           },
@@ -4747,7 +5081,9 @@
           ]
         },
         {
-          "transcription": "ɬačiʔat",
+          "transcription": {
+            "default": "ɬačiʔat"
+          },
           "analysis": {
             "default": "ɬač-i(ƛ)-ʼat"
           },
@@ -4775,7 +5111,9 @@
           ]
         },
         {
-          "transcription": "ʕaciis",
+          "transcription": {
+            "default": "ʕaciis"
+          },
           "analysis": {
             "default": "ʕaciːs"
           },
@@ -4791,7 +5129,9 @@
           ]
         },
         {
-          "transcription": "qʷicačiƛuusin",
+          "transcription": {
+            "default": "qʷicačiƛuusin"
+          },
           "analysis": {
             "default": "qʷi-ca-či(ƛ)-uːsin"
           },
@@ -4837,7 +5177,9 @@
       "translation": "Call on our advisors.",
       "words": [
         {
-          "transcription": "haaʕinčiʔi",
+          "transcription": {
+            "default": "haaʕinčiʔi"
+          },
           "analysis": {
             "default": "haːʕin-či(ƛ)-ʼi·"
           },
@@ -4865,7 +5207,9 @@
           ]
         },
         {
-          "transcription": "t̓apatḥsim̓inḥukqin",
+          "transcription": {
+            "default": "t̓apatḥsim̓inḥukqin"
+          },
           "analysis": {
             "default": "t̓apatḥsi-m̓inḥ-uk-qin"
           },
@@ -4911,7 +5255,9 @@
       "translation": "Someone went for the advisors.",
       "words": [
         {
-          "transcription": "sukʷiƛ̓asnak̓atuk",
+          "transcription": {
+            "default": "sukʷiƛ̓asnak̓atuk"
+          },
           "analysis": {
             "default": "sukʷi(ƛ)-ʼa·s-na·k-ʼat-uk"
           },
@@ -4951,7 +5297,9 @@
           ]
         },
         {
-          "transcription": "t̓apatḥsiʔi",
+          "transcription": {
+            "default": "t̓apatḥsiʔi"
+          },
           "analysis": {
             "default": "t̓apatḥsi-ʔi·"
           },
@@ -4985,7 +5333,9 @@
       "translation": "They gathered around and started thinking.",
       "words": [
         {
-          "transcription": "hišumyipiƛ̓aɬ",
+          "transcription": {
+            "default": "hišumyipiƛ̓aɬ"
+          },
           "analysis": {
             "default": "hiš-umɬ-ʽipiƛ-ʔa·ɬ"
           },
@@ -5019,7 +5369,9 @@
           ]
         },
         {
-          "transcription": "t̓aat̓aapatšiƛ",
+          "transcription": {
+            "default": "t̓aat̓aapatšiƛ"
+          },
           "analysis": {
             "default": "DUP.CVː-t̓apat-ši(ƛ)"
           },
@@ -5059,7 +5411,9 @@
       "translation": "“You look for a pad from a monthly period and put it on your doorstep,” [the advisors told him].",
       "words": [
         {
-          "transcription": "ʔun̓aaḥʔi",
+          "transcription": {
+            "default": "ʔun̓aaḥʔi"
+          },
           "analysis": {
             "default": "ʔu-n̓a·ḥ-ʼi·"
           },
@@ -5087,7 +5441,9 @@
           ]
         },
         {
-          "transcription": "numackʷiqaɬquu",
+          "transcription": {
+            "default": "numackʷiqaɬquu"
+          },
           "analysis": {
             "default": "numa-ckʷi·q-aɬ-quː"
           },
@@ -5121,7 +5477,9 @@
           ]
         },
         {
-          "transcription": "hiiɬciiʕasʔap",
+          "transcription": {
+            "default": "hiiɬciiʕasʔap"
+          },
           "analysis": {
             "default": "hiːɬ-ciːʕas-ʼap"
           },
@@ -5161,7 +5519,9 @@
       "translation": "The man did what he was told.",
       "words": [
         {
-          "transcription": "qʷis",
+          "transcription": {
+            "default": "qʷis"
+          },
           "analysis": {
             "default": "qʷis"
           },
@@ -5177,7 +5537,9 @@
           ]
         },
         {
-          "transcription": "čakupʔi",
+          "transcription": {
+            "default": "čakupʔi"
+          },
           "analysis": {
             "default": "čakup-ʔi·"
           },
@@ -5199,7 +5561,9 @@
           ]
         },
         {
-          "transcription": "waaʔatʔitq",
+          "transcription": {
+            "default": "waaʔatʔitq"
+          },
           "analysis": {
             "default": "wa·-ʼat-ʔi·tq"
           },
@@ -5239,7 +5603,9 @@
       "translation": "The wolves got really scared.",
       "words": [
         {
-          "transcription": "ʔaani",
+          "transcription": {
+            "default": "ʔaani"
+          },
           "analysis": {
             "default": "ʔaːni"
           },
@@ -5255,7 +5621,9 @@
           ]
         },
         {
-          "transcription": "tuuḥšiƛ",
+          "transcription": {
+            "default": "tuuḥšiƛ"
+          },
           "analysis": {
             "default": "tuːḥ-ši(ƛ)"
           },
@@ -5277,7 +5645,9 @@
           ]
         },
         {
-          "transcription": "qʷayac̓iikm̓inḥʔi",
+          "transcription": {
+            "default": "qʷayac̓iikm̓inḥʔi"
+          },
           "analysis": {
             "default": "qʷayac̓iːk-m̓inḥ-ʔi·"
           },
@@ -5317,7 +5687,9 @@
       "translation": "They went back into the woods and left him alone.",
       "words": [
         {
-          "transcription": "huʔaaqƛ̓iƛ",
+          "transcription": {
+            "default": "huʔaaqƛ̓iƛ"
+          },
           "analysis": {
             "default": "huʔa-ʼa·qƛ̓iƛ"
           },
@@ -5339,7 +5711,9 @@
           ]
         },
         {
-          "transcription": "ɬačiʔat",
+          "transcription": {
+            "default": "ɬačiʔat"
+          },
           "analysis": {
             "default": "ɬač-i(ƛ)-ʼat"
           },
@@ -5379,7 +5753,9 @@
       "translation": "That is the reason why you never take away food from an animal.",
       "words": [
         {
-          "transcription": "ʔaḥʔaa",
+          "transcription": {
+            "default": "ʔaḥʔaa"
+          },
           "analysis": {
             "default": "ʔaḥʔaː"
           },
@@ -5395,7 +5771,9 @@
           ]
         },
         {
-          "transcription": "ʔuunuuƛwaʔiš",
+          "transcription": {
+            "default": "ʔuunuuƛwaʔiš"
+          },
           "analysis": {
             "default": "ʔu-a·nuːƛ-wa·ʔi·š"
           },
@@ -5423,7 +5801,9 @@
           ]
         },
         {
-          "transcription": "wiiy̓aat",
+          "transcription": {
+            "default": "wiiy̓aat"
+          },
           "analysis": {
             "default": "wiːy̓a-ʼat"
           },
@@ -5445,7 +5825,9 @@
           ]
         },
         {
-          "transcription": "hinaaḥinʔat",
+          "transcription": {
+            "default": "hinaaḥinʔat"
+          },
           "analysis": {
             "default": "hin-a·ḥin-ʼat"
           },
@@ -5473,7 +5855,9 @@
           ]
         },
         {
-          "transcription": "haʔum",
+          "transcription": {
+            "default": "haʔum"
+          },
           "analysis": {
             "default": "haʔum"
           },
@@ -5489,7 +5873,9 @@
           ]
         },
         {
-          "transcription": "saštup",
+          "transcription": {
+            "default": "saštup"
+          },
           "analysis": {
             "default": "saštup"
           },

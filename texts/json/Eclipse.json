@@ -14,7 +14,9 @@
       "translation": "That happened a long, long time ago.",
       "words": [
         {
-          "transcription": "huuʔak",
+          "transcription": {
+            "default": "huuʔak"
+          },
           "analysis": {
             "default": "huːʔak"
           },
@@ -30,7 +32,9 @@
           ]
         },
         {
-          "transcription": "ʔuyi",
+          "transcription": {
+            "default": "ʔuyi"
+          },
           "analysis": {
             "default": "ʔuyi"
           },
@@ -46,7 +50,9 @@
           ]
         },
         {
-          "transcription": "qiisasaƛ",
+          "transcription": {
+            "default": "qiisasaƛ"
+          },
           "analysis": {
             "default": "qiː-sasaƛ-ʼaƛ"
           },
@@ -254,7 +260,9 @@
       "translation": "They didn’t know that it is not like that for white men: the earth, the moon and the sun meet up there.",
       "words": [
         {
-          "transcription": "hayimḥickʷi",
+          "transcription": {
+            "default": "hayimḥickʷi"
+          },
           "analysis": {
             "default": "hayim-ḥi·-ckʷi·"
           },
@@ -282,7 +290,9 @@
           ]
         },
         {
-          "transcription": "ʔin",
+          "transcription": {
+            "default": "ʔin"
+          },
           "analysis": {
             "default": "ʔin"
           },
@@ -298,7 +308,9 @@
           ]
         },
         {
-          "transcription": "wikuk",
+          "transcription": {
+            "default": "wikuk"
+          },
           "analysis": {
             "default": "wik-uk"
           },
@@ -320,7 +332,9 @@
           ]
         },
         {
-          "transcription": "ʔuḥ",
+          "transcription": {
+            "default": "ʔuḥ"
+          },
           "analysis": {
             "default": "ʔuḥ"
           },
@@ -336,7 +350,9 @@
           ]
         },
         {
-          "transcription": "mamaɬn̓i",
+          "transcription": {
+            "default": "mamaɬn̓i"
+          },
           "analysis": {
             "default": "ma-maɬ-n̓i·"
           },
@@ -364,7 +380,9 @@
           ]
         },
         {
-          "transcription": "qʷaa",
+          "transcription": {
+            "default": "qʷaa"
+          },
           "analysis": {
             "default": "qʷaː"
           },
@@ -380,7 +398,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥ",
+          "transcription": {
+            "default": "ʔaḥ"
+          },
           "analysis": {
             "default": "ʔaḥ"
           },
@@ -396,7 +416,9 @@
           ]
         },
         {
-          "transcription": "nism̓aʔi",
+          "transcription": {
+            "default": "nism̓aʔi"
+          },
           "analysis": {
             "default": "nism̓a-ʔi·"
           },
@@ -418,7 +440,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥʔaa",
+          "transcription": {
+            "default": "ʔaḥʔaa"
+          },
           "analysis": {
             "default": "ʔaḥʔaː"
           },
@@ -434,7 +458,9 @@
           ]
         },
         {
-          "transcription": "hupaɬʔi",
+          "transcription": {
+            "default": "hupaɬʔi"
+          },
           "analysis": {
             "default": "hupaɬ-ʔi·"
           },
@@ -456,7 +482,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥʔaa",
+          "transcription": {
+            "default": "ʔaḥʔaa"
+          },
           "analysis": {
             "default": "ʔaḥʔaː"
           },
@@ -472,7 +500,9 @@
           ]
         },
         {
-          "transcription": "sun",
+          "transcription": {
+            "default": "sun"
+          },
           "analysis": {
             "default": "~"
           },
@@ -480,7 +510,9 @@
           "literal": "~"
         },
         {
-          "transcription": "hiɬʔaƛ",
+          "transcription": {
+            "default": "hiɬʔaƛ"
+          },
           "analysis": {
             "default": "hiɬ-ʼaƛ"
           },
@@ -502,7 +534,9 @@
           ]
         },
         {
-          "transcription": "ʔaminkšiʔaƛquu",
+          "transcription": {
+            "default": "ʔaminkšiʔaƛquu"
+          },
           "analysis": {
             "default": "ʔap-inkʷ-ši(ƛ)-ʼaƛ-quː"
           },
@@ -554,7 +588,9 @@
       "translation": "It appears as if the earth bit off the sun.",
       "words": [
         {
-          "transcription": "ʔaaḥʔasa",
+          "transcription": {
+            "default": "ʔaaḥʔasa"
+          },
           "analysis": {
             "default": "ʔaːḥʔasa"
           },
@@ -570,7 +606,9 @@
           ]
         },
         {
-          "transcription": "m̓ačiƛquu",
+          "transcription": {
+            "default": "m̓ačiƛquu"
+          },
           "analysis": {
             "default": "m̓a-či(ƛ)-quː"
           },
@@ -610,7 +648,9 @@
       "translation": "They were really scared when it became dark.",
       "words": [
         {
-          "transcription": "ʔiiḥckʷiiʔaɬ",
+          "transcription": {
+            "default": "ʔiiḥckʷiiʔaɬ"
+          },
           "analysis": {
             "default": "ʔiːḥʷ-ckʷi·-ʔa·ɬ"
           },
@@ -638,7 +678,9 @@
           ]
         },
         {
-          "transcription": "hayaaqƛ",
+          "transcription": {
+            "default": "hayaaqƛ"
+          },
           "analysis": {
             "default": "hayaːqƛ"
           },
@@ -654,7 +696,9 @@
           ]
         },
         {
-          "transcription": "tupʕaqstuƛ",
+          "transcription": {
+            "default": "tupʕaqstuƛ"
+          },
           "analysis": {
             "default": "tupʕaqstuƛ"
           },
@@ -682,7 +726,9 @@
       "translation": "It was dark for a long time, it sometimes got completely dark — or “completely swallowed” they said.",
       "words": [
         {
-          "transcription": "tupʕaqƛ",
+          "transcription": {
+            "default": "tupʕaqƛ"
+          },
           "analysis": {
             "default": "tupʕaqƛ"
           },
@@ -698,7 +744,9 @@
           ]
         },
         {
-          "transcription": "qii",
+          "transcription": {
+            "default": "qii"
+          },
           "analysis": {
             "default": "qiː"
           },
@@ -714,7 +762,9 @@
           ]
         },
         {
-          "transcription": "ʔuušyuuya",
+          "transcription": {
+            "default": "ʔuušyuuya"
+          },
           "analysis": {
             "default": "ʔuːš-yuːya"
           },
@@ -736,7 +786,9 @@
           ]
         },
         {
-          "transcription": "ḥaaʔiʔat",
+          "transcription": {
+            "default": "ḥaaʔiʔat"
+          },
           "analysis": {
             "default": "ḥa-ʼiƛ-ʼat"
           },
@@ -764,7 +816,9 @@
           ]
         },
         {
-          "transcription": "ḥaaʔiʔatʔiš",
+          "transcription": {
+            "default": "ḥaaʔiʔatʔiš"
+          },
           "analysis": {
             "default": "ḥa-ʼiƛ-ʼat-ʔi·š"
           },
@@ -798,7 +852,9 @@
           ]
         },
         {
-          "transcription": "watqšiƛ",
+          "transcription": {
+            "default": "watqšiƛ"
+          },
           "analysis": {
             "default": "watq-ši(ƛ)"
           },
@@ -820,7 +876,9 @@
           ]
         },
         {
-          "transcription": "watqšiʔatʔiš",
+          "transcription": {
+            "default": "watqšiʔatʔiš"
+          },
           "analysis": {
             "default": "watq-ši(ƛ)-ʼat-ʔi·š"
           },
@@ -854,7 +912,9 @@
           ]
         },
         {
-          "transcription": "waaʔat",
+          "transcription": {
+            "default": "waaʔat"
+          },
           "analysis": {
             "default": "waː-ʼat"
           },
@@ -888,7 +948,9 @@
       "translation": "When the whole sun disappeared, it got dark and people got uproarious and they would sing songs.",
       "words": [
         {
-          "transcription": "hupaɬ",
+          "transcription": {
+            "default": "hupaɬ"
+          },
           "analysis": {
             "default": "hupaɬ"
           },
@@ -904,7 +966,9 @@
           ]
         },
         {
-          "transcription": "wik̓iitšiʔaƛquu",
+          "transcription": {
+            "default": "wik̓iitšiʔaƛquu"
+          },
           "analysis": {
             "default": "wik̓i·t-ši(ƛ)-ʼaƛ-quː"
           },
@@ -938,7 +1002,9 @@
           ]
         },
         {
-          "transcription": "tum̓aqstuƛ",
+          "transcription": {
+            "default": "tum̓aqstuƛ"
+          },
           "analysis": {
             "default": "tum-ʼaqstuƛ"
           },
@@ -960,7 +1026,9 @@
           ]
         },
         {
-          "transcription": "haa",
+          "transcription": {
+            "default": "haa"
+          },
           "analysis": {
             "default": "haː"
           },
@@ -976,7 +1044,9 @@
           ]
         },
         {
-          "transcription": "maʔas",
+          "transcription": {
+            "default": "maʔas"
+          },
           "analysis": {
             "default": "maʔas"
           },
@@ -992,7 +1062,9 @@
           ]
         },
         {
-          "transcription": "n̓iƛaak",
+          "transcription": {
+            "default": "n̓iƛaak"
+          },
           "analysis": {
             "default": "n̓iƛaːk"
           },
@@ -1008,7 +1080,9 @@
           ]
         },
         {
-          "transcription": "c̓iiqaaʔaƛquuč",
+          "transcription": {
+            "default": "c̓iiqaaʔaƛquuč"
+          },
           "analysis": {
             "default": "c̓iːq-(y)a·-ʼaƛ-quː-č"
           },
@@ -1048,7 +1122,9 @@
           ]
         },
         {
-          "transcription": "quuʔas",
+          "transcription": {
+            "default": "quuʔas"
+          },
           "analysis": {
             "default": "quːʔas"
           },
@@ -1064,7 +1140,9 @@
           ]
         },
         {
-          "transcription": "c̓iiqaa",
+          "transcription": {
+            "default": "c̓iiqaa"
+          },
           "analysis": {
             "default": "c̓iːq-(y)a·"
           },
@@ -1098,7 +1176,9 @@
       "translation": "Some people prayed for food and well-being.",
       "words": [
         {
-          "transcription": "ʔuuš",
+          "transcription": {
+            "default": "ʔuuš"
+          },
           "analysis": {
             "default": "ʔuːš"
           },
@@ -1114,7 +1194,9 @@
           ]
         },
         {
-          "transcription": "qaacš",
+          "transcription": {
+            "default": "qaacš"
+          },
           "analysis": {
             "default": "qaːc-š"
           },
@@ -1136,7 +1218,9 @@
           ]
         },
         {
-          "transcription": "haʔum",
+          "transcription": {
+            "default": "haʔum"
+          },
           "analysis": {
             "default": "haʔum"
           },
@@ -1152,7 +1236,9 @@
           ]
         },
         {
-          "transcription": "qʷaaqḥʔaaḥii",
+          "transcription": {
+            "default": "qʷaaqḥʔaaḥii"
+          },
           "analysis": {
             "default": "qʷaː-(q)ḥ-ʔaːḥ-(y)iː"
           },
@@ -1186,7 +1272,9 @@
           ]
         },
         {
-          "transcription": "wiiksḥhii",
+          "transcription": {
+            "default": "wiiksḥhii"
+          },
           "analysis": {
             "default": "wiːkš-ḥi·"
           },
@@ -1220,7 +1308,9 @@
       "translation": "And they prayed for their life and order on this land.",
       "words": [
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "waː"
           },
@@ -1236,7 +1326,9 @@
           ]
         },
         {
-          "transcription": "ʔuukš",
+          "transcription": {
+            "default": "ʔuukš"
+          },
           "analysis": {
             "default": "ʔuk-š"
           },
@@ -1258,7 +1350,9 @@
           ]
         },
         {
-          "transcription": "tiičmis",
+          "transcription": {
+            "default": "tiičmis"
+          },
           "analysis": {
             "default": "tiːčmis"
           },
@@ -1274,7 +1368,9 @@
           ]
         },
         {
-          "transcription": "qʷaaqḥʔaaḥii",
+          "transcription": {
+            "default": "qʷaaqḥʔaaḥii"
+          },
           "analysis": {
             "default": "qʷaː-(q)ḥ-ʔaːḥ-(y)iː"
           },
@@ -1308,7 +1404,9 @@
           ]
         },
         {
-          "transcription": "čačimḥi",
+          "transcription": {
+            "default": "čačimḥi"
+          },
           "analysis": {
             "default": "čačim-ḥi·"
           },
@@ -1330,7 +1428,9 @@
           ]
         },
         {
-          "transcription": "hiɬ",
+          "transcription": {
+            "default": "hiɬ"
+          },
           "analysis": {
             "default": "hiɬ"
           },
@@ -1346,7 +1446,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥkuu",
+          "transcription": {
+            "default": "ʔaḥkuu"
+          },
           "analysis": {
             "default": "ʔaḥku·"
           },
@@ -1362,7 +1464,9 @@
           ]
         },
         {
-          "transcription": "nism̓aʔi",
+          "transcription": {
+            "default": "nism̓aʔi"
+          },
           "analysis": {
             "default": "nism̓a-ʔi·"
           },
@@ -1396,7 +1500,9 @@
       "translation": "People don’t know how it became dark for a short period of time.",
       "words": [
         {
-          "transcription": "hayimḥi",
+          "transcription": {
+            "default": "hayimḥi"
+          },
           "analysis": {
             "default": "hayim-ḥi·"
           },
@@ -1418,7 +1524,9 @@
           ]
         },
         {
-          "transcription": "quuʔas",
+          "transcription": {
+            "default": "quuʔas"
+          },
           "analysis": {
             "default": "quːʔas"
           },
@@ -1434,7 +1542,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔapii",
+          "transcription": {
+            "default": "qʷaaʔapii"
+          },
           "analysis": {
             "default": "qʷaː-ʼap-(y)iː"
           },
@@ -1462,7 +1572,9 @@
           ]
         },
         {
-          "transcription": "ḥaaɬ",
+          "transcription": {
+            "default": "ḥaaɬ"
+          },
           "analysis": {
             "default": "ḥaːɬ"
           },
@@ -1478,7 +1590,9 @@
           ]
         },
         {
-          "transcription": "tuum̓aqstuuɬ",
+          "transcription": {
+            "default": "tuum̓aqstuuɬ"
+          },
           "analysis": {
             "default": "tum-ʼaqstuːɬ"
           },
@@ -1500,7 +1614,9 @@
           ]
         },
         {
-          "transcription": "tum̓aqstuƛ",
+          "transcription": {
+            "default": "tum̓aqstuƛ"
+          },
           "analysis": {
             "default": "tum-ʼaqstuƛ"
           },
@@ -1534,7 +1650,9 @@
       "translation": "Every once in a long while the sun takes away (hides) the moon — the moon is also called “the other sun”.",
       "words": [
         {
-          "transcription": "qiiḥsn̓aak",
+          "transcription": {
+            "default": "qiiḥsn̓aak"
+          },
           "analysis": {
             "default": "qiː-ḥsn̓a·k"
           },
@@ -1556,7 +1674,9 @@
           ]
         },
         {
-          "transcription": "ʔuušyuuya",
+          "transcription": {
+            "default": "ʔuušyuuya"
+          },
           "analysis": {
             "default": "ʔuːš-yuːya"
           },
@@ -1578,7 +1698,9 @@
           ]
         },
         {
-          "transcription": "ʔuuʔiʔat",
+          "transcription": {
+            "default": "ʔuuʔiʔat"
+          },
           "analysis": {
             "default": "ʔu-ʼiƛ-ʼat"
           },
@@ -1606,7 +1728,9 @@
           ]
         },
         {
-          "transcription": "hupaɬʔi",
+          "transcription": {
+            "default": "hupaɬʔi"
+          },
           "analysis": {
             "default": "hupaɬ-ʔi·"
           },
@@ -1628,7 +1752,9 @@
           ]
         },
         {
-          "transcription": "qʷaʔuuc",
+          "transcription": {
+            "default": "qʷaʔuuc"
+          },
           "analysis": {
             "default": "qʷaʔuːc"
           },
@@ -1644,7 +1770,9 @@
           ]
         },
         {
-          "transcription": "qʷaaƛaa",
+          "transcription": {
+            "default": "qʷaaƛaa"
+          },
           "analysis": {
             "default": "qʷaːƛaː"
           },
@@ -1660,7 +1788,9 @@
           ]
         },
         {
-          "transcription": "hupaɬʔi",
+          "transcription": {
+            "default": "hupaɬʔi"
+          },
           "analysis": {
             "default": "hupaɬ-ʔi·"
           },
@@ -1682,7 +1812,9 @@
           ]
         },
         {
-          "transcription": "ƛaʔuu",
+          "transcription": {
+            "default": "ƛaʔuu"
+          },
           "analysis": {
             "default": "ƛaʔuː"
           },
@@ -1698,7 +1830,9 @@
           ]
         },
         {
-          "transcription": "yaaqʷiɬ",
+          "transcription": {
+            "default": "yaaqʷiɬ"
+          },
           "analysis": {
             "default": "yaqʷ-(č)iɬ"
           },
@@ -1720,7 +1854,9 @@
           ]
         },
         {
-          "transcription": "mamaɬn̓i",
+          "transcription": {
+            "default": "mamaɬn̓i"
+          },
           "analysis": {
             "default": "ma-maɬ-n̓i·"
           },
@@ -1748,7 +1884,9 @@
           ]
         },
         {
-          "transcription": "sun",
+          "transcription": {
+            "default": "sun"
+          },
           "analysis": {
             "default": "~"
           },
@@ -1756,7 +1894,9 @@
           "literal": "~"
         },
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "waː"
           },
@@ -1784,7 +1924,9 @@
       "translation": "[People used to think that] Son of Cod-in-the-Sky swallows both the moon and the sun.",
       "words": [
         {
-          "transcription": "hiišiɬʔi",
+          "transcription": {
+            "default": "hiišiɬʔi"
+          },
           "analysis": {
             "default": "hiš-(č)iɬ-ʔi·"
           },
@@ -1812,7 +1954,9 @@
           ]
         },
         {
-          "transcription": "watqʷatqš",
+          "transcription": {
+            "default": "watqʷatqš"
+          },
           "analysis": {
             "default": "DUP#-watq-š"
           },
@@ -1840,7 +1984,9 @@
           ]
         },
         {
-          "transcription": "tuškayiɬimm̓itquu",
+          "transcription": {
+            "default": "tuškayiɬimm̓itquu"
+          },
           "analysis": {
             "default": "tuškayiɬim-m̓i·t-quː"
           },
@@ -1880,7 +2026,9 @@
       "translation": "They were very scared.",
       "words": [
         {
-          "transcription": "ʔiiḥckʷiiʔaɬ",
+          "transcription": {
+            "default": "ʔiiḥckʷiiʔaɬ"
+          },
           "analysis": {
             "default": "ʔiːḥ-ckʷi·-ʔa·ɬ"
           },
@@ -1908,7 +2056,9 @@
           ]
         },
         {
-          "transcription": "tuuḥuk",
+          "transcription": {
+            "default": "tuuḥuk"
+          },
           "analysis": {
             "default": "tuːḥuk"
           },
@@ -1936,7 +2086,9 @@
       "translation": "And some people got out on canoes and bathed themselves.",
       "words": [
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "waː"
           },
@@ -1952,7 +2104,9 @@
           ]
         },
         {
-          "transcription": "ʔuušckʷiiʔaɬ",
+          "transcription": {
+            "default": "ʔuušckʷiiʔaɬ"
+          },
           "analysis": {
             "default": "ʔuːš-ckʷi·-ʔa·ɬ"
           },
@@ -1980,7 +2134,9 @@
           ]
         },
         {
-          "transcription": "č̓apac",
+          "transcription": {
+            "default": "č̓apac"
+          },
           "analysis": {
             "default": "č̓apac"
           },
@@ -1996,7 +2152,9 @@
           ]
         },
         {
-          "transcription": "ʔukʷiqsiƛ",
+          "transcription": {
+            "default": "ʔukʷiqsiƛ"
+          },
           "analysis": {
             "default": "ʔukʷa-iqs-i(ƛ)"
           },
@@ -2024,7 +2182,9 @@
           ]
         },
         {
-          "transcription": "hat̓iis",
+          "transcription": {
+            "default": "hat̓iis"
+          },
           "analysis": {
             "default": "hat̓iːs"
           },
@@ -2040,7 +2200,9 @@
           ]
         },
         {
-          "transcription": "hat̓inʕaqa",
+          "transcription": {
+            "default": "hat̓inʕaqa"
+          },
           "analysis": {
             "default": "hat̓inq-ʼaqa"
           },

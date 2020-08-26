@@ -17,7 +17,9 @@
       "translation": "Now, I will talk about how our language has changed.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -33,7 +35,9 @@
           ]
         },
         {
-          "transcription": "ʔuqḥɬiʔaqƛs",
+          "transcription": {
+            "default": "ʔuqḥɬiʔaqƛs"
+          },
           "analysis": {
             "default": "ʔu-qḥɬi-ʔaqƛ-s"
           },
@@ -67,7 +71,9 @@
           ]
         },
         {
-          "transcription": "qʷisḥin",
+          "transcription": {
+            "default": "qʷisḥin"
+          },
           "analysis": {
             "default": "qʷisḥ-(y)in"
           },
@@ -89,7 +95,9 @@
           ]
         },
         {
-          "transcription": "kʷiisḥiičiƛuk",
+          "transcription": {
+            "default": "kʷiisḥiičiƛuk"
+          },
           "analysis": {
             "default": "kʷis-ḥi·-čiƛ-uk"
           },
@@ -123,7 +131,9 @@
           ]
         },
         {
-          "transcription": "ciqy̓ak",
+          "transcription": {
+            "default": "ciqy̓ak"
+          },
           "analysis": {
             "default": "ciq-y̓akʷ"
           },
@@ -157,7 +167,9 @@
       "translation": "Many women used to go to different places (when they got married).",
       "words": [
         {
-          "transcription": "ʔayumtʔaaɬ",
+          "transcription": {
+            "default": "ʔayumtʔaaɬ"
+          },
           "analysis": {
             "default": "ʔaya-umt-ʔaːɬ"
           },
@@ -185,7 +197,9 @@
           ]
         },
         {
-          "transcription": "ḥaatḥaakʷaƛ",
+          "transcription": {
+            "default": "ḥaatḥaakʷaƛ"
+          },
           "analysis": {
             "default": "ḥaːtḥaːkʷaƛ"
           },
@@ -201,7 +215,9 @@
           ]
         },
         {
-          "transcription": "kʷiscačiƛ",
+          "transcription": {
+            "default": "kʷiscačiƛ"
+          },
           "analysis": {
             "default": "kʷis-ca-čiƛ"
           },
@@ -241,7 +257,9 @@
       "translation": "They came from Clayoquot to Kyuquot, or from Ahousaht to Tseshaht.",
       "words": [
         {
-          "transcription": "histaqšiƛ",
+          "transcription": {
+            "default": "histaqšiƛ"
+          },
           "analysis": {
             "default": "his-taq-šiƛ"
           },
@@ -269,7 +287,9 @@
           ]
         },
         {
-          "transcription": "ƛaʔuukʷiʔatḥ",
+          "transcription": {
+            "default": "ƛaʔuukʷiʔatḥ"
+          },
           "analysis": {
             "default": "ƛaʔuːkʷiʔatḥ"
           },
@@ -285,7 +305,9 @@
           ]
         },
         {
-          "transcription": "ʔucačiƛ",
+          "transcription": {
+            "default": "ʔucačiƛ"
+          },
           "analysis": {
             "default": "ʔu-ca-čiƛ"
           },
@@ -313,7 +335,9 @@
           ]
         },
         {
-          "transcription": "qaay̓uuk̓ʷatḥ",
+          "transcription": {
+            "default": "qaay̓uuk̓ʷatḥ"
+          },
           "analysis": {
             "default": "qaːy̓uːk̓ʷatḥ"
           },
@@ -329,7 +353,9 @@
           ]
         },
         {
-          "transcription": "histaqšiƛ",
+          "transcription": {
+            "default": "histaqšiƛ"
+          },
           "analysis": {
             "default": "his-taq-šiƛ"
           },
@@ -357,7 +383,9 @@
           ]
         },
         {
-          "transcription": "ʕaaḥuusʔatḥ",
+          "transcription": {
+            "default": "ʕaaḥuusʔatḥ"
+          },
           "analysis": {
             "default": "ʕaːḥuːsʔatḥ"
           },
@@ -373,7 +401,9 @@
           ]
         },
         {
-          "transcription": "hinatšiƛ",
+          "transcription": {
+            "default": "hinatšiƛ"
+          },
           "analysis": {
             "default": "hin-at-šiƛ"
           },
@@ -401,7 +431,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥ",
+          "transcription": {
+            "default": "ʔaḥ"
+          },
           "analysis": {
             "default": "ʔaḥ"
           },
@@ -417,7 +449,9 @@
           ]
         },
         {
-          "transcription": "c̓išaaʔatḥ",
+          "transcription": {
+            "default": "c̓išaaʔatḥ"
+          },
           "analysis": {
             "default": "c̓išaːʔatḥ"
           },
@@ -445,7 +479,9 @@
       "translation": "Their children listened to two people speaking in different dialects.",
       "words": [
         {
-          "transcription": "naʔaataḥ",
+          "transcription": {
+            "default": "naʔaataḥ"
+          },
           "analysis": {
             "default": "naʔa·-ataḥ"
           },
@@ -467,7 +503,9 @@
           ]
         },
         {
-          "transcription": "t̓aatn̓aʔisʔi",
+          "transcription": {
+            "default": "t̓aatn̓aʔisʔi"
+          },
           "analysis": {
             "default": "t̓aːtn̓a-ʔis-ʔi·"
           },
@@ -495,7 +533,9 @@
           ]
         },
         {
-          "transcription": "ʔaaƛačiɬ",
+          "transcription": {
+            "default": "ʔaaƛačiɬ"
+          },
           "analysis": {
             "default": "ʔaƛa-čiɬ"
           },
@@ -517,7 +557,9 @@
           ]
         },
         {
-          "transcription": "kʷiikʷiisatḥam̓inḥ",
+          "transcription": {
+            "default": "kʷiikʷiisatḥam̓inḥ"
+          },
           "analysis": {
             "default": "DUP-kʷis-ʼatḥ-a-m̓inḥ"
           },
@@ -569,7 +611,9 @@
       "translation": "That is why our language changed.",
       "words": [
         {
-          "transcription": "qʷisḥ",
+          "transcription": {
+            "default": "qʷisḥ"
+          },
           "analysis": {
             "default": "qʷisḥ"
           },
@@ -585,7 +629,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥʔaa",
+          "transcription": {
+            "default": "ʔaḥʔaa"
+          },
           "analysis": {
             "default": "ʔiaḥʔaː"
           },
@@ -601,7 +647,9 @@
           ]
         },
         {
-          "transcription": "kʷiisḥinčiƛukna",
+          "transcription": {
+            "default": "kʷiisḥinčiƛukna"
+          },
           "analysis": {
             "default": "kʷis-ḥin-čiƛ-uk-na·"
           },
@@ -641,7 +689,9 @@
           ]
         },
         {
-          "transcription": "ciqy̓ak",
+          "transcription": {
+            "default": "ciqy̓ak"
+          },
           "analysis": {
             "default": "ciq-y̓akʷ"
           },
@@ -675,7 +725,9 @@
       "translation": "And we went to _qaaqaawis_ (Residential School).",
       "words": [
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "wa·"
           },
@@ -691,7 +743,9 @@
           ]
         },
         {
-          "transcription": "ʔucačiʔaƛna",
+          "transcription": {
+            "default": "ʔucačiʔaƛna"
+          },
           "analysis": {
             "default": "ʔu-ca-čiƛ-ʼaƛ-na·"
           },
@@ -731,7 +785,9 @@
           ]
         },
         {
-          "transcription": "niiw̓a",
+          "transcription": {
+            "default": "niiw̓a"
+          },
           "analysis": {
             "default": "niːw̓a"
           },
@@ -747,7 +803,9 @@
           ]
         },
         {
-          "transcription": "qaaqaawis",
+          "transcription": {
+            "default": "qaaqaawis"
+          },
           "analysis": {
             "default": "qaːqaːwis"
           },
@@ -775,7 +833,9 @@
       "translation": "[When] we were at this school, we were forbidden to use our own language. They made us speak English.",
       "words": [
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "wa·"
           },
@@ -791,7 +851,9 @@
           ]
         },
         {
-          "transcription": "hiɬitƛa",
+          "transcription": {
+            "default": "hiɬitƛa"
+          },
           "analysis": {
             "default": "hiɬ-it-ƛa·"
           },
@@ -819,7 +881,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥ",
+          "transcription": {
+            "default": "ʔaḥ"
+          },
           "analysis": {
             "default": "ʔaḥ"
           },
@@ -835,7 +899,9 @@
           ]
         },
         {
-          "transcription": "ƛiisƛiisaquw̓as",
+          "transcription": {
+            "default": "ƛiisƛiisaquw̓as"
+          },
           "analysis": {
             "default": "ƛiːsƛiːsaq-uɬ-ʼas"
           },
@@ -863,7 +929,9 @@
           ]
         },
         {
-          "transcription": "ʔuušc̓iiy̓ap̓aƛ̓atukna",
+          "transcription": {
+            "default": "ʔuušc̓iiy̓ap̓aƛ̓atukna"
+          },
           "analysis": {
             "default": "ʔuːš-c̓iːɬ-ʼap-ʼaƛ-ʼat-uk-na·"
           },
@@ -915,7 +983,9 @@
           ]
         },
         {
-          "transcription": "ʔuuḥʷʼaɬ",
+          "transcription": {
+            "default": "ʔuuḥʷʼaɬ"
+          },
           "analysis": {
             "default": "ʔu-ḥʷʼaɬ"
           },
@@ -937,7 +1007,9 @@
           ]
         },
         {
-          "transcription": "ciqy̓akukqin",
+          "transcription": {
+            "default": "ciqy̓akukqin"
+          },
           "analysis": {
             "default": "ciq-y̓akʷ-uk-qin"
           },
@@ -971,7 +1043,9 @@
           ]
         },
         {
-          "transcription": "maamaamaɬn̓iqsap̓atna",
+          "transcription": {
+            "default": "maamaamaɬn̓iqsap̓atna"
+          },
           "analysis": {
             "default": "DUP-mamaɬn̓iq-sa·p-ʼat-na·ʼ"
           },
@@ -1023,7 +1097,9 @@
       "translation": "When we finish school, we came back home and had children.",
       "words": [
         {
-          "transcription": "hawiiʔaƛin",
+          "transcription": {
+            "default": "hawiiʔaƛin"
+          },
           "analysis": {
             "default": "hawiː-ʼaƛ-(y)in"
           },
@@ -1051,7 +1127,9 @@
           ]
         },
         {
-          "transcription": "ƛiisƛiisa",
+          "transcription": {
+            "default": "ƛiisƛiisa"
+          },
           "analysis": {
             "default": "ƛiːsƛiːsa"
           },
@@ -1067,7 +1145,9 @@
           ]
         },
         {
-          "transcription": "niiw̓a",
+          "transcription": {
+            "default": "niiw̓a"
+          },
           "analysis": {
             "default": "niːw̓a"
           },
@@ -1083,7 +1163,9 @@
           ]
         },
         {
-          "transcription": "waɬaak̓aƛna",
+          "transcription": {
+            "default": "waɬaak̓aƛna"
+          },
           "analysis": {
             "default": "waɬaːkʷ-ʼaƛ-na·"
           },
@@ -1111,7 +1193,9 @@
           ]
         },
         {
-          "transcription": "hiy̓atḥm̓inḥqin",
+          "transcription": {
+            "default": "hiy̓atḥm̓inḥqin"
+          },
           "analysis": {
             "default": "hiɬ-ʼatḥ-m̓inḥ-qin"
           },
@@ -1145,7 +1229,9 @@
           ]
         },
         {
-          "transcription": "t̓aatn̓ačiiɬšiƛ",
+          "transcription": {
+            "default": "t̓aatn̓ačiiɬšiƛ"
+          },
           "analysis": {
             "default": "t̓aːtn̓a-čiːɬ-šiƛ"
           },
@@ -1185,7 +1271,9 @@
       "translation": "We also made them speak English.",
       "words": [
         {
-          "transcription": "y̓uuqʷaaʔaƛna",
+          "transcription": {
+            "default": "y̓uuqʷaaʔaƛna"
+          },
           "analysis": {
             "default": "y̓uːqʷaː-ʼaƛ-na·"
           },
@@ -1213,7 +1301,9 @@
           ]
         },
         {
-          "transcription": "maamaamaɬn̓iqsap",
+          "transcription": {
+            "default": "maamaamaɬn̓iqsap"
+          },
           "analysis": {
             "default": "mamaɬn̓iq-sa·p"
           },
@@ -1235,7 +1325,9 @@
           ]
         },
         {
-          "transcription": "t̓aatn̓aʔis",
+          "transcription": {
+            "default": "t̓aatn̓aʔis"
+          },
           "analysis": {
             "default": "t̓aːtn̓a-ʔis"
           },
@@ -1269,7 +1361,9 @@
       "translation": "Well, because of that we now have a hard time trying to find the way we can bring [our languages] back.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -1285,7 +1379,9 @@
           ]
         },
         {
-          "transcription": "ʔuy̓inƛniš",
+          "transcription": {
+            "default": "ʔuy̓inƛniš"
+          },
           "analysis": {
             "default": "ʔu-y̓inƛ-ni·š"
           },
@@ -1313,7 +1409,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥʔaa",
+          "transcription": {
+            "default": "ʔaḥʔaa"
+          },
           "analysis": {
             "default": "ʔaḥʔaː"
           },
@@ -1329,7 +1427,9 @@
           ]
         },
         {
-          "transcription": "hixʷaaʔaƛniš",
+          "transcription": {
+            "default": "hixʷaaʔaƛniš"
+          },
           "analysis": {
             "default": "hixʷ-a·-ʼaƛ-ni·š"
           },
@@ -1363,7 +1463,9 @@
           ]
         },
         {
-          "transcription": "ƛaḥ",
+          "transcription": {
+            "default": "ƛaḥ"
+          },
           "analysis": {
             "default": "ƛaḥ"
           },
@@ -1379,7 +1481,9 @@
           ]
         },
         {
-          "transcription": "kaƛḥakʔi",
+          "transcription": {
+            "default": "kaƛḥakʔi"
+          },
           "analysis": {
             "default": "kaƛḥ-ak-ʔi·"
           },
@@ -1407,7 +1511,9 @@
           ]
         },
         {
-          "transcription": "ʔun̓aaḥ",
+          "transcription": {
+            "default": "ʔun̓aaḥ"
+          },
           "analysis": {
             "default": "ʔu-n̓a·ḥ"
           },
@@ -1429,7 +1535,9 @@
           ]
         },
         {
-          "transcription": "qʷisḥʔaaḥin",
+          "transcription": {
+            "default": "qʷisḥʔaaḥin"
+          },
           "analysis": {
             "default": "qʷisḥ-ʼaːḥ-(y)in"
           },
@@ -1457,7 +1565,9 @@
           ]
         },
         {
-          "transcription": "huʔacaʔap",
+          "transcription": {
+            "default": "huʔacaʔap"
+          },
           "analysis": {
             "default": "huʔa-ca-ʼap"
           },
@@ -1497,7 +1607,9 @@
       "translation": "Also our children stopped understanding us [in our language] because people preferred talking in English.",
       "words": [
         {
-          "transcription": "wik̓aƛ̓atna",
+          "transcription": {
+            "default": "wik̓aƛ̓atna"
+          },
           "analysis": {
             "default": "wik-ʼaƛ-ʼat-na·"
           },
@@ -1531,7 +1643,9 @@
           ]
         },
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -1547,7 +1661,9 @@
           ]
         },
         {
-          "transcription": "t̓aatn̓aakqin",
+          "transcription": {
+            "default": "t̓aatn̓aakqin"
+          },
           "analysis": {
             "default": "t̓aːtn̓a-ʔa·k-qin"
           },
@@ -1575,7 +1691,9 @@
           ]
         },
         {
-          "transcription": "naʔaaʔat",
+          "transcription": {
+            "default": "naʔaaʔat"
+          },
           "analysis": {
             "default": "naʔa·-ʼat"
           },
@@ -1597,7 +1715,9 @@
           ]
         },
         {
-          "transcription": "ʔunw̓iiƛḥin",
+          "transcription": {
+            "default": "ʔunw̓iiƛḥin"
+          },
           "analysis": {
             "default": "ʔunw̓iːƛ-ḥin"
           },
@@ -1619,7 +1739,9 @@
           ]
         },
         {
-          "transcription": "ʔuukʷiɬʔaƛ̓aɬ",
+          "transcription": {
+            "default": "ʔuukʷiɬʔaƛ̓aɬ"
+          },
           "analysis": {
             "default": "ʔu-kʷiɬ-ʼaƛ-ʔa·ɬ"
           },
@@ -1653,7 +1775,9 @@
           ]
         },
         {
-          "transcription": "kaapapšiƛ",
+          "transcription": {
+            "default": "kaapapšiƛ"
+          },
           "analysis": {
             "default": "kaːpap-šiƛ"
           },
@@ -1675,7 +1799,9 @@
           ]
         },
         {
-          "transcription": "maamaamaɬn̓iqa",
+          "transcription": {
+            "default": "maamaamaɬn̓iqa"
+          },
           "analysis": {
             "default": "mamaɬn̓iq-a"
           },
@@ -1709,7 +1835,9 @@
       "translation": "It has become difficult to teach them.",
       "words": [
         {
-          "transcription": "ʔuušcukšiʔaƛ",
+          "transcription": {
+            "default": "ʔuušcukšiʔaƛ"
+          },
           "analysis": {
             "default": "ʔuːš-cuk-šiƛ-ʼaƛ"
           },
@@ -1743,7 +1871,9 @@
           ]
         },
         {
-          "transcription": "huuḥtakšiiḥʔap̓at",
+          "transcription": {
+            "default": "huuḥtakšiiḥʔap̓at"
+          },
           "analysis": {
             "default": "huḥtak-šiːḥ-ʼap-ʼat"
           },
@@ -1789,7 +1919,9 @@
       "translation": "They say it wrong now [they cannot pronounce words correctly].",
       "words": [
         {
-          "transcription": "wiksčiik̓aƛ̓aɬ",
+          "transcription": {
+            "default": "wiksčiik̓aƛ̓aɬ"
+          },
           "analysis": {
             "default": "wik-sčiːk-ʼaƛ-ʔa·ɬ"
           },
@@ -1835,7 +1967,9 @@
       "translation": "This is because their throat is no longer used to the way we speak (the way our language sounds).",
       "words": [
         {
-          "transcription": "ʔuy̓iiḥaʔaɬ",
+          "transcription": {
+            "default": "ʔuy̓iiḥaʔaɬ"
+          },
           "analysis": {
             "default": "ʔu-y̓i·ḥa-ʔa·ɬ"
           },
@@ -1863,7 +1997,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -1879,7 +2015,9 @@
           ]
         },
         {
-          "transcription": "wik̓aƛ̓atʔaɬ",
+          "transcription": {
+            "default": "wik̓aƛ̓atʔaɬ"
+          },
           "analysis": {
             "default": "wik-ʼaƛ-ʼat-ʔa·ɬ"
           },
@@ -1913,7 +2051,9 @@
           ]
         },
         {
-          "transcription": "ḥaay̓aʕaaɬʔat",
+          "transcription": {
+            "default": "ḥaay̓aʕaaɬʔat"
+          },
           "analysis": {
             "default": "ḥaːy̓aq-ʼaːɬ-ʼat"
           },
@@ -1941,7 +2081,9 @@
           ]
         },
         {
-          "transcription": "hiniiy̓uɬ",
+          "transcription": {
+            "default": "hiniiy̓uɬ"
+          },
           "analysis": {
             "default": "hiniːy̓uɬ"
           },
@@ -1957,7 +2099,9 @@
           ]
         },
         {
-          "transcription": "qʷayaatukqin",
+          "transcription": {
+            "default": "qʷayaatukqin"
+          },
           "analysis": {
             "default": "qʷa-(y)a·tuk-qin"
           },
@@ -1985,7 +2129,9 @@
           ]
         },
         {
-          "transcription": "niiw̓a",
+          "transcription": {
+            "default": "niiw̓a"
+          },
           "analysis": {
             "default": "niːw̓a"
           },
@@ -2013,7 +2159,9 @@
       "translation": "So, this is how we have lost our language.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -2029,7 +2177,9 @@
           ]
         },
         {
-          "transcription": "qʷisḥniiš",
+          "transcription": {
+            "default": "qʷisḥniiš"
+          },
           "analysis": {
             "default": "qʷisḥ-ni·š"
           },
@@ -2051,7 +2201,9 @@
           ]
         },
         {
-          "transcription": "paawaɬšiƛšiƛ",
+          "transcription": {
+            "default": "paawaɬšiƛšiƛ"
+          },
           "analysis": {
             "default": "pawaɬ-šiƛ-šiƛ"
           },
@@ -2079,7 +2231,9 @@
           ]
         },
         {
-          "transcription": "ciqy̓akukqin",
+          "transcription": {
+            "default": "ciqy̓akukqin"
+          },
           "analysis": {
             "default": "ciq-y̓akʷ-uk-qin"
           },
@@ -2125,7 +2279,9 @@
       "translation": "It’s it.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },

@@ -14,7 +14,9 @@
       "translation": "The gray whale while traveling stops by at various places to search for food.",
       "words": [
         {
-          "transcription": "maaʔak",
+          "transcription": {
+            "default": "maaʔak"
+          },
           "analysis": {
             "default": "maːʔak"
           },
@@ -30,7 +32,9 @@
           ]
         },
         {
-          "transcription": "maaʔuk",
+          "transcription": {
+            "default": "maaʔuk"
+          },
           "analysis": {
             "default": "maːʔuk"
           },
@@ -46,7 +50,9 @@
           ]
         },
         {
-          "transcription": "maaʔukʷis",
+          "transcription": {
+            "default": "maaʔukʷis"
+          },
           "analysis": {
             "default": "maːʔuk-ʔis"
           },
@@ -68,7 +74,9 @@
           ]
         },
         {
-          "transcription": "haʔumn̓aḥ",
+          "transcription": {
+            "default": "haʔumn̓aḥ"
+          },
           "analysis": {
             "default": "haʔum-n̓a·ḥ"
           },
@@ -102,7 +110,9 @@
       "translation": "Gray whales are from the southern area.",
       "words": [
         {
-          "transcription": "maaʔak",
+          "transcription": {
+            "default": "maaʔak"
+          },
           "analysis": {
             "default": "maːʔak"
           },
@@ -118,7 +128,9 @@
           ]
         },
         {
-          "transcription": "histaqšiƛ̓aɬ",
+          "transcription": {
+            "default": "histaqšiƛ̓aɬ"
+          },
           "analysis": {
             "default": "his-taq-ši(ƛ)-ʔa·ɬ"
           },
@@ -152,7 +164,9 @@
           ]
         },
         {
-          "transcription": "t̓aqsiiʔiɬ",
+          "transcription": {
+            "default": "t̓aqsiiʔiɬ"
+          },
           "analysis": {
             "default": "t̓aqsiːʔiɬ"
           },
@@ -180,7 +194,9 @@
       "translation": "Men would watch the plant(s) to see when the nettle first sprouts.",
       "words": [
         {
-          "transcription": "n̓aač̓aɬuk̓ʷaƛquuč",
+          "transcription": {
+            "default": "n̓aač̓aɬuk̓ʷaƛquuč"
+          },
           "analysis": {
             "default": "n̓ač-ʼaɬuk-ʼaƛ-quː-č"
           },
@@ -220,7 +236,9 @@
           ]
         },
         {
-          "transcription": "quuʔas",
+          "transcription": {
+            "default": "quuʔas"
+          },
           "analysis": {
             "default": "quːʔas"
           },
@@ -236,7 +254,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓aqapt",
+          "transcription": {
+            "default": "ƛ̓aqapt"
+          },
           "analysis": {
             "default": "ƛ̓aqapt"
           },
@@ -252,7 +272,9 @@
           ]
         },
         {
-          "transcription": "n̓aacsa",
+          "transcription": {
+            "default": "n̓aacsa"
+          },
           "analysis": {
             "default": "n̓aːcsa"
           },
@@ -268,7 +290,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓aqswaasʔaƛquu",
+          "transcription": {
+            "default": "ƛ̓aqswaasʔaƛquu"
+          },
           "analysis": {
             "default": "ƛ̓aq-swi·-ʼas-ʼaƛ-quː"
           },
@@ -308,7 +332,9 @@
           ]
         },
         {
-          "transcription": "ʔaʔum",
+          "transcription": {
+            "default": "ʔaʔum"
+          },
           "analysis": {
             "default": "ʔaʔum"
           },
@@ -324,7 +350,9 @@
           ]
         },
         {
-          "transcription": "ʕiiɬmakt",
+          "transcription": {
+            "default": "ʕiiɬmakt"
+          },
           "analysis": {
             "default": "ʕiːɬmakt"
           },
@@ -352,7 +380,9 @@
       "translation": "Now [my] people, you can plainly see that the nettle(s) have started to grow.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -368,7 +398,9 @@
           ]
         },
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "wa·"
           },
@@ -384,7 +416,9 @@
           ]
         },
         {
-          "transcription": "quuʔasʔi",
+          "transcription": {
+            "default": "quuʔasʔi"
+          },
           "analysis": {
             "default": "quːʔas-ʔi·"
           },
@@ -406,7 +440,9 @@
           ]
         },
         {
-          "transcription": "ḥamat",
+          "transcription": {
+            "default": "ḥamat"
+          },
           "analysis": {
             "default": "ḥamat"
           },
@@ -422,7 +458,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓aqswaasʔaƛ̓iš",
+          "transcription": {
+            "default": "ƛ̓aqswaasʔaƛ̓iš"
+          },
           "analysis": {
             "default": "ƛ̓aq-swi·-ʼas-ʼaƛ-ʔi·š"
           },
@@ -462,7 +500,9 @@
           ]
         },
         {
-          "transcription": "ʕiiɬmakt",
+          "transcription": {
+            "default": "ʕiiɬmakt"
+          },
           "analysis": {
             "default": "ʕiːɬmakt"
           },
@@ -490,7 +530,9 @@
       "translation": "Now it is spring.",
       "words": [
         {
-          "transcription": "ƛ̓aqšiʔaƛ̓eeš",
+          "transcription": {
+            "default": "ƛ̓aqšiʔaƛ̓eeš"
+          },
           "analysis": {
             "default": "ƛ̓aq-ši(ƛ)-ʼaƛ-ʔi·š"
           },
@@ -536,7 +578,9 @@
       "translation": "It is the time when the gray whale(s) start to move, to migrate from [some place around] California.",
       "words": [
         {
-          "transcription": "ʔuyi",
+          "transcription": {
+            "default": "ʔuyi"
+          },
           "analysis": {
             "default": "ʔuyi"
           },
@@ -552,7 +596,9 @@
           ]
         },
         {
-          "transcription": "maaʔak",
+          "transcription": {
+            "default": "maaʔak"
+          },
           "analysis": {
             "default": "maːʔak"
           },
@@ -568,7 +614,9 @@
           ]
         },
         {
-          "transcription": "pisšiƛ",
+          "transcription": {
+            "default": "pisšiƛ"
+          },
           "analysis": {
             "default": "pis-ši(ƛ)"
           },
@@ -590,7 +638,9 @@
           ]
         },
         {
-          "transcription": "yaacšiƛ",
+          "transcription": {
+            "default": "yaacšiƛ"
+          },
           "analysis": {
             "default": "yaːc-ši(ƛ)"
           },
@@ -612,7 +662,9 @@
           ]
         },
         {
-          "transcription": "histaqšiƛ",
+          "transcription": {
+            "default": "histaqšiƛ"
+          },
           "analysis": {
             "default": "his-taq-ši(ƛ)"
           },
@@ -640,7 +692,9 @@
           ]
         },
         {
-          "transcription": "kaɬapooɬiyaquu",
+          "transcription": {
+            "default": "kaɬapooɬiyaquu"
+          },
           "analysis": {
             "default": "kaɬapoːɬiya-quː"
           },
@@ -674,7 +728,9 @@
       "translation": "The gray whale feeds on plankton and razor clams.",
       "words": [
         {
-          "transcription": "maaʔak",
+          "transcription": {
+            "default": "maaʔak"
+          },
           "analysis": {
             "default": "maːʔak"
           },
@@ -690,7 +746,9 @@
           ]
         },
         {
-          "transcription": "ʔuʔiic",
+          "transcription": {
+            "default": "ʔuʔiic"
+          },
           "analysis": {
             "default": "qu-ʼi·c"
           },
@@ -712,7 +770,9 @@
           ]
         },
         {
-          "transcription": "ƛičḥsa",
+          "transcription": {
+            "default": "ƛičḥsa"
+          },
           "analysis": {
             "default": "ƛičḥsa"
           },
@@ -728,7 +788,9 @@
           ]
         },
         {
-          "transcription": "cacak̓is",
+          "transcription": {
+            "default": "cacak̓is"
+          },
           "analysis": {
             "default": "cacak̓is"
           },
@@ -756,7 +818,9 @@
       "translation": "The gray whales get barnacles on the body.",
       "words": [
         {
-          "transcription": "ƛaan̓uɬ",
+          "transcription": {
+            "default": "ƛaan̓uɬ"
+          },
           "analysis": {
             "default": "ƛaːn̓uɬ"
           },
@@ -772,7 +836,9 @@
           ]
         },
         {
-          "transcription": "qimaɬitwaʔišʔaɬ",
+          "transcription": {
+            "default": "qimaɬitwaʔišʔaɬ"
+          },
           "analysis": {
             "default": "qim-aɬ-it-wa·-ʔi·š-ʔa·ɬ"
           },
@@ -818,7 +884,9 @@
           ]
         },
         {
-          "transcription": "maaʔak",
+          "transcription": {
+            "default": "maaʔak"
+          },
           "analysis": {
             "default": "maːʔak"
           },
@@ -846,7 +914,9 @@
       "translation": "They say that, like a human, they have a spirit inside the body.",
       "words": [
         {
-          "transcription": "qʷaawaaʔiš",
+          "transcription": {
+            "default": "qʷaawaaʔiš"
+          },
           "analysis": {
             "default": "qʷaː-wa·-ʔi·š"
           },
@@ -874,7 +944,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔiitq",
+          "transcription": {
+            "default": "qʷaaʔiitq"
+          },
           "analysis": {
             "default": "qʷaː-ʔi·tq"
           },
@@ -896,7 +968,9 @@
           ]
         },
         {
-          "transcription": "quuʔas",
+          "transcription": {
+            "default": "quuʔas"
+          },
           "analysis": {
             "default": "quːʔas"
           },
@@ -912,7 +986,9 @@
           ]
         },
         {
-          "transcription": "č̓iḥsuuqƛiič",
+          "transcription": {
+            "default": "č̓iḥsuuqƛiič"
+          },
           "analysis": {
             "default": "č̓iḥ-su·qƛ-(y)iː-č"
           },
@@ -958,7 +1034,9 @@
       "translation": "They sometimes would go to the rocky shoreline.",
       "words": [
         {
-          "transcription": "wiḥiʔuƛwaʔišʔaaɬ",
+          "transcription": {
+            "default": "wiḥiʔuƛwaʔišʔaaɬ"
+          },
           "analysis": {
             "default": "wiḥi-ʼu·ƛ-wa·-ʔi·š-ʔaːɬ"
           },
@@ -998,7 +1076,9 @@
           ]
         },
         {
-          "transcription": "maaʔak",
+          "transcription": {
+            "default": "maaʔak"
+          },
           "analysis": {
             "default": "maːʔak"
           },
@@ -1014,7 +1094,9 @@
           ]
         },
         {
-          "transcription": "ʔuušyuuya",
+          "transcription": {
+            "default": "ʔuušyuuya"
+          },
           "analysis": {
             "default": "ʔuːš-yuːya"
           },
@@ -1048,7 +1130,9 @@
       "translation": "They [gray whales] get rid of barnacles that are on their bodies.",
       "words": [
         {
-          "transcription": "wik̓iituƛ̓aɬ",
+          "transcription": {
+            "default": "wik̓iituƛ̓aɬ"
+          },
           "analysis": {
             "default": "wik̓iːt-uƛ-ʔa·ɬ"
           },
@@ -1076,7 +1160,9 @@
           ]
         },
         {
-          "transcription": "ƛaan̓uɬ",
+          "transcription": {
+            "default": "ƛaan̓uɬ"
+          },
           "analysis": {
             "default": "ƛaːn̓uɬ"
           },
@@ -1092,7 +1178,9 @@
           ]
         },
         {
-          "transcription": "qʷičisituusii",
+          "transcription": {
+            "default": "qʷičisituusii"
+          },
           "analysis": {
             "default": "qʷi-čis-it-uːsi-(y)iː"
           },
@@ -1132,7 +1220,9 @@
           ]
         },
         {
-          "transcription": "ʔusit̓atʔi",
+          "transcription": {
+            "default": "ʔusit̓atʔi"
+          },
           "analysis": {
             "default": "ʔusit-ʼat-ʔi·"
           },
@@ -1172,7 +1262,9 @@
       "translation": "They [gray whales] get itchy on the body like humans.",
       "words": [
         {
-          "transcription": "puumaɬituƛwaʔišʔaaɬ",
+          "transcription": {
+            "default": "puumaɬituƛwaʔišʔaaɬ"
+          },
           "analysis": {
             "default": "puːmaɬ-it-uƛ-wa·-ʔi·š-ʔaːɬ"
           },
@@ -1218,7 +1310,9 @@
           ]
         },
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -1234,7 +1328,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔiitq",
+          "transcription": {
+            "default": "qʷaaʔiitq"
+          },
           "analysis": {
             "default": "qʷaː-ʔi·tq"
           },
@@ -1256,7 +1352,9 @@
           ]
         },
         {
-          "transcription": "quuʔas",
+          "transcription": {
+            "default": "quuʔas"
+          },
           "analysis": {
             "default": "quːʔas"
           },
@@ -1284,7 +1382,9 @@
       "translation": "They would roll and roll on the rocks.",
       "words": [
         {
-          "transcription": "haatkhaatkmiʔa",
+          "transcription": {
+            "default": "haatkhaatkmiʔa"
+          },
           "analysis": {
             "default": "DUP#-hatk-mi·ʔa"
           },
@@ -1312,7 +1412,9 @@
           ]
         },
         {
-          "transcription": "m̓uukuukʔi",
+          "transcription": {
+            "default": "m̓uukuukʔi"
+          },
           "analysis": {
             "default": "m̓uːkuːk-ʔi·"
           },
@@ -1334,7 +1436,9 @@
           ]
         },
         {
-          "transcription": "m̓uukuukquu",
+          "transcription": {
+            "default": "m̓uukuukquu"
+          },
           "analysis": {
             "default": "m̓uːkuːk-quː"
           },
@@ -1368,7 +1472,9 @@
       "translation": "They roll repeatedly on the rocks to remove the rubbish [on their body].",
       "words": [
         {
-          "transcription": "hitaatap",
+          "transcription": {
+            "default": "hitaatap"
+          },
           "analysis": {
             "default": "hita-ʔa·ta-ʼap"
           },
@@ -1396,7 +1502,9 @@
           ]
         },
         {
-          "transcription": "k̓aʔaqmis",
+          "transcription": {
+            "default": "k̓aʔaqmis"
+          },
           "analysis": {
             "default": "k̓aʔaqmis"
           },
@@ -1412,7 +1520,9 @@
           ]
         },
         {
-          "transcription": "haatkhaatkʷa",
+          "transcription": {
+            "default": "haatkhaatkʷa"
+          },
           "analysis": {
             "default": "DUP#-hatkʷ-(y)a"
           },
@@ -1452,7 +1562,9 @@
       "translation": "They say that [the whale’s body] is called the ‘hunting suits’ where he is inside [the whale]. (?)",
       "words": [
         {
-          "transcription": "ʔacʔin",
+          "transcription": {
+            "default": "ʔacʔin"
+          },
           "analysis": {
             "default": "ʔac-ʔin"
           },
@@ -1474,7 +1586,9 @@
           ]
         },
         {
-          "transcription": "ʔukɬaaʔakʷaʔiš",
+          "transcription": {
+            "default": "ʔukɬaaʔakʷaʔiš"
+          },
           "analysis": {
             "default": "ʔu-kɬaː-ʔak-wa·-ʔi·š"
           },
@@ -1514,7 +1628,9 @@
           ]
         },
         {
-          "transcription": "hiy̓aḥsʔitq",
+          "transcription": {
+            "default": "hiy̓aḥsʔitq"
+          },
           "analysis": {
             "default": "hiɬ-ʼaḥs-ʔi·tq"
           },
@@ -1554,7 +1670,9 @@
       "translation": "Now he is ready to depart.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -1570,7 +1688,9 @@
           ]
         },
         {
-          "transcription": "yaacaa",
+          "transcription": {
+            "default": "yaacaa"
+          },
           "analysis": {
             "default": "yaːc-(y)a·"
           },
@@ -1592,7 +1712,9 @@
           ]
         },
         {
-          "transcription": "yaacšiƛ",
+          "transcription": {
+            "default": "yaacšiƛ"
+          },
           "analysis": {
             "default": "yaːc-ši(ƛ)"
           },
@@ -1626,7 +1748,9 @@
       "translation": "He goes ashore at places where there is a village.",
       "words": [
         {
-          "transcription": "wiḥisaƛ",
+          "transcription": {
+            "default": "wiḥisaƛ"
+          },
           "analysis": {
             "default": "wiḥi-sa(ƛ)"
           },
@@ -1648,7 +1772,9 @@
           ]
         },
         {
-          "transcription": "maʔasʔi",
+          "transcription": {
+            "default": "maʔasʔi"
+          },
           "analysis": {
             "default": "maʔas-ʔi·"
           },
@@ -1682,7 +1808,9 @@
       "translation": "It stops by at various places, looking for a village where people smell good — i.e. have bathed every day to get rid of odor, and thus are ritually pure and well prepared.",
       "words": [
         {
-          "transcription": "maaʔukʷis",
+          "transcription": {
+            "default": "maaʔukʷis"
+          },
           "analysis": {
             "default": "maːʔuk-ʔis"
           },
@@ -1704,7 +1832,9 @@
           ]
         },
         {
-          "transcription": "qun̓aaḥ",
+          "transcription": {
+            "default": "qun̓aaḥ"
+          },
           "analysis": {
             "default": "ʔu-n̓a·ḥ"
           },
@@ -1726,7 +1856,9 @@
           ]
         },
         {
-          "transcription": "čamp̓uuqsquu",
+          "transcription": {
+            "default": "čamp̓uuqsquu"
+          },
           "analysis": {
             "default": "čam-p̓u·qs-quː"
           },
@@ -1754,7 +1886,9 @@
           ]
         },
         {
-          "transcription": "quuʔas",
+          "transcription": {
+            "default": "quuʔas"
+          },
           "analysis": {
             "default": "quːʔas"
           },
@@ -1770,7 +1904,9 @@
           ]
         },
         {
-          "transcription": "maatmaas",
+          "transcription": {
+            "default": "maatmaas"
+          },
           "analysis": {
             "default": "maːtmaːs"
           },
@@ -1798,7 +1934,9 @@
       "translation": "Long ago, people used to wake up early in the morning.",
       "words": [
         {
-          "transcription": "huuʔakitwaʔišʔaaɬ",
+          "transcription": {
+            "default": "huuʔakitwaʔišʔaaɬ"
+          },
           "analysis": {
             "default": "huːʔak-it-wa·-ʔi·š-ʔaːɬ"
           },
@@ -1838,7 +1976,9 @@
           ]
         },
         {
-          "transcription": "ƛimkšiƛ",
+          "transcription": {
+            "default": "ƛimkšiƛ"
+          },
           "analysis": {
             "default": "ƛimk-ši(ƛ)"
           },
@@ -1860,7 +2000,9 @@
           ]
         },
         {
-          "transcription": "quuʔas",
+          "transcription": {
+            "default": "quuʔas"
+          },
           "analysis": {
             "default": "quːʔas"
           },
@@ -1888,7 +2030,9 @@
       "translation": "They started their day before the crows left droppings on the roof.",
       "words": [
         {
-          "transcription": "huuʔaksy̓uuč",
+          "transcription": {
+            "default": "huuʔaksy̓uuč"
+          },
           "analysis": {
             "default": "huːʔak-sy̓uːč"
           },
@@ -1910,7 +2054,9 @@
           ]
         },
         {
-          "transcription": "wiky̓uuquu",
+          "transcription": {
+            "default": "wiky̓uuquu"
+          },
           "analysis": {
             "default": "wiky̓uː-quː"
           },
@@ -1932,7 +2078,9 @@
           ]
         },
         {
-          "transcription": "k̓aaʔin",
+          "transcription": {
+            "default": "k̓aaʔin"
+          },
           "analysis": {
             "default": "k̓aːʔin"
           },
@@ -1948,7 +2096,9 @@
           ]
         },
         {
-          "transcription": "ciɬšiƛ",
+          "transcription": {
+            "default": "ciɬšiƛ"
+          },
           "analysis": {
             "default": "ciɬ-ši(ƛ)"
           },
@@ -1970,7 +2120,9 @@
           ]
         },
         {
-          "transcription": "hiɬaasc̓a",
+          "transcription": {
+            "default": "hiɬaasc̓a"
+          },
           "analysis": {
             "default": "hiɬ-a·sc̓a"
           },
@@ -2004,7 +2156,9 @@
       "translation": "The old men were always sitting looking about.",
       "words": [
         {
-          "transcription": "taakšiƛ",
+          "transcription": {
+            "default": "taakšiƛ"
+          },
           "analysis": {
             "default": "taːkšiƛ"
           },
@@ -2020,7 +2174,9 @@
           ]
         },
         {
-          "transcription": "n̓ač̓uuʔas",
+          "transcription": {
+            "default": "n̓ač̓uuʔas"
+          },
           "analysis": {
             "default": "n̓ač-ʼu·(ƛ)-ʼas"
           },
@@ -2048,7 +2204,9 @@
           ]
         },
         {
-          "transcription": "mixtukʔi",
+          "transcription": {
+            "default": "mixtukʔi"
+          },
           "analysis": {
             "default": "mixtuk-ʔi·"
           },
@@ -2070,7 +2228,9 @@
           ]
         },
         {
-          "transcription": "nawaay̓as",
+          "transcription": {
+            "default": "nawaay̓as"
+          },
           "analysis": {
             "default": "nawa·s-ʼas"
           },
@@ -2104,7 +2264,9 @@
       "translation": "They did not have a watch.",
       "words": [
         {
-          "transcription": "wik̓iitukʔaɬ",
+          "transcription": {
+            "default": "wik̓iitukʔaɬ"
+          },
           "analysis": {
             "default": "wik̓iːt-uk-ʔa·ɬ"
           },
@@ -2132,7 +2294,9 @@
           ]
         },
         {
-          "transcription": "ʕiʕiqatʕin",
+          "transcription": {
+            "default": "ʕiʕiqatʕin"
+          },
           "analysis": {
             "default": "DUP-ʕiqat-ʕin"
           },
@@ -2172,7 +2336,9 @@
       "translation": "They acted by reference to low and high tides.",
       "words": [
         {
-          "transcription": "ʔuuktisʔaɬ",
+          "transcription": {
+            "default": "ʔuuktisʔaɬ"
+          },
           "analysis": {
             "default": "ʔu-ktis-ʔa·ɬ"
           },
@@ -2200,7 +2366,9 @@
           ]
         },
         {
-          "transcription": "ḥaay̓iis",
+          "transcription": {
+            "default": "ḥaay̓iis"
+          },
           "analysis": {
             "default": "ḥaːy̓iːs"
           },
@@ -2216,7 +2384,9 @@
           ]
         },
         {
-          "transcription": "muuɬisʔaƛquu",
+          "transcription": {
+            "default": "muuɬisʔaƛquu"
+          },
           "analysis": {
             "default": "muːɬ-ʔis-ʼaƛ-quː"
           },
@@ -2262,7 +2432,9 @@
       "translation": "They watched the moon [to determine the time].",
       "words": [
         {
-          "transcription": "n̓aač̓aɬuk",
+          "transcription": {
+            "default": "n̓aač̓aɬuk"
+          },
           "analysis": {
             "default": "n̓ač-ʼaɬuk"
           },
@@ -2284,7 +2456,9 @@
           ]
         },
         {
-          "transcription": "hupaɬ",
+          "transcription": {
+            "default": "hupaɬ"
+          },
           "analysis": {
             "default": "hupaɬ"
           },
@@ -2300,7 +2474,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔuuc",
+          "transcription": {
+            "default": "qʷaaʔuuc"
+          },
           "analysis": {
             "default": "qʷaːʔuːc"
           },

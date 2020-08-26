@@ -17,7 +17,9 @@
       "translation": "When a baby was born, they used to do many things with the afterbirth, since they used to take care of it at home.",
       "words": [
         {
-          "transcription": "ʔaamumɬʔaƛquu",
+          "transcription": {
+            "default": "ʔaamumɬʔaƛquu"
+          },
           "analysis": {
             "default": "ʔam-umɬ-ʼaƛ-quː"
           },
@@ -51,7 +53,9 @@
           ]
         },
         {
-          "transcription": "nay̓aqak",
+          "transcription": {
+            "default": "nay̓aqak"
+          },
           "analysis": {
             "default": "nay̓aqak"
           },
@@ -67,7 +71,9 @@
           ]
         },
         {
-          "transcription": "ʔayaakitʔaaɬ",
+          "transcription": {
+            "default": "ʔayaakitʔaaɬ"
+          },
           "analysis": {
             "default": "ʔaya-ʔa·k-it-ʔaːɬ"
           },
@@ -101,7 +107,9 @@
           ]
         },
         {
-          "transcription": "qʷaqʷaaʔaaḥii",
+          "transcription": {
+            "default": "qʷaqʷaaʔaaḥii"
+          },
           "analysis": {
             "default": "DUP.CV-qʷaː-ʼaːḥ-(y)iː"
           },
@@ -135,7 +143,9 @@
           ]
         },
         {
-          "transcription": "ʔuuksnaʕaaɬ",
+          "transcription": {
+            "default": "ʔuuksnaʕaaɬ"
+          },
           "analysis": {
             "default": "ʔu-ksnaʕaːɬ"
           },
@@ -157,7 +167,9 @@
           ]
         },
         {
-          "transcription": "c̓aḥʷackʷi",
+          "transcription": {
+            "default": "c̓aḥʷackʷi"
+          },
           "analysis": {
             "default": "c̓aḥʷackʷi"
           },
@@ -173,7 +185,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -189,7 +203,9 @@
           ]
         },
         {
-          "transcription": "ʔuutaqitʔaaɬ",
+          "transcription": {
+            "default": "ʔuutaqitʔaaɬ"
+          },
           "analysis": {
             "default": "ʔu-taq-it-ʔaːɬ"
           },
@@ -223,7 +239,9 @@
           ]
         },
         {
-          "transcription": "waɬyaqiɬḥ",
+          "transcription": {
+            "default": "waɬyaqiɬḥ"
+          },
           "analysis": {
             "default": "waɬ-yaq-ʽiɬ-(q)ḥ"
           },
@@ -269,7 +287,9 @@
       "translation": "They buried it [carefully]. They didn’t just bury it or throw it away.",
       "words": [
         {
-          "transcription": "c̓uy̓iitap̓aƛ",
+          "transcription": {
+            "default": "c̓uy̓iitap̓aƛ"
+          },
           "analysis": {
             "default": "c̓us-ʼi·tap-ʼaƛ"
           },
@@ -297,7 +317,9 @@
           ]
         },
         {
-          "transcription": "wik",
+          "transcription": {
+            "default": "wik"
+          },
           "analysis": {
             "default": "wik"
           },
@@ -313,7 +335,9 @@
           ]
         },
         {
-          "transcription": "ʔanasiɬa",
+          "transcription": {
+            "default": "ʔanasiɬa"
+          },
           "analysis": {
             "default": "ʔana-siɬa"
           },
@@ -335,7 +359,9 @@
           ]
         },
         {
-          "transcription": "c̓uy̓iitap",
+          "transcription": {
+            "default": "c̓uy̓iitap"
+          },
           "analysis": {
             "default": "c̓us-ʼi·tap"
           },
@@ -357,7 +383,9 @@
           ]
         },
         {
-          "transcription": "waḥšiƛ",
+          "transcription": {
+            "default": "waḥšiƛ"
+          },
           "analysis": {
             "default": "waḥ-šiƛ"
           },
@@ -391,7 +419,9 @@
       "translation": "They took whatever they wanted the girl to be talented at and wrap it [with the afterbirth]: they put things like tule grass, cedar bark, swamp grass, or whatever they used to make baskets with.",
       "words": [
         {
-          "transcription": "ʔuuksnaʕaaɬʔaƛquu",
+          "transcription": {
+            "default": "ʔuuksnaʕaaɬʔaƛquu"
+          },
           "analysis": {
             "default": "ʔu-ksnaʕaːɬ-ʼaƛ-quː"
           },
@@ -425,7 +455,9 @@
           ]
         },
         {
-          "transcription": "qʷiimaʕukmaḥsaʔitq",
+          "transcription": {
+            "default": "qʷiimaʕukmaḥsaʔitq"
+          },
           "analysis": {
             "default": "qʷi-maʕuk-maḥsa-ʔi·tq"
           },
@@ -459,7 +491,9 @@
           ]
         },
         {
-          "transcription": "ḥaakʷaaƛ",
+          "transcription": {
+            "default": "ḥaakʷaaƛ"
+          },
           "analysis": {
             "default": "ḥaːkʷa·ƛ"
           },
@@ -475,7 +509,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓aʕiiksap",
+          "transcription": {
+            "default": "ƛ̓aʕiiksap"
+          },
           "analysis": {
             "default": "ƛ̓aʕiːk-sa·p"
           },
@@ -497,7 +533,9 @@
           ]
         },
         {
-          "transcription": "t̓ut̓unaxk̓uk",
+          "transcription": {
+            "default": "t̓ut̓unaxk̓uk"
+          },
           "analysis": {
             "default": "t̓ut̓unaxk̓uk"
           },
@@ -513,7 +551,9 @@
           ]
         },
         {
-          "transcription": "pic̓up",
+          "transcription": {
+            "default": "pic̓up"
+          },
           "analysis": {
             "default": "pic̓up"
           },
@@ -529,7 +569,9 @@
           ]
         },
         {
-          "transcription": "č̓itapt",
+          "transcription": {
+            "default": "č̓itapt"
+          },
           "analysis": {
             "default": "č̓itapt"
           },
@@ -545,7 +587,9 @@
           ]
         },
         {
-          "transcription": "qʷiqʔiitq",
+          "transcription": {
+            "default": "qʷiqʔiitq"
+          },
           "analysis": {
             "default": "qʷiq-ʔi·tq"
           },
@@ -567,7 +611,9 @@
           ]
         },
         {
-          "transcription": "pikaʔuuqiiɬy̓ak",
+          "transcription": {
+            "default": "pikaʔuuqiiɬy̓ak"
+          },
           "analysis": {
             "default": "pikaʔuːq-iːɬ-y̓akʷ"
           },
@@ -595,7 +641,9 @@
           ]
         },
         {
-          "transcription": "paaskitiiɬy̓ak",
+          "transcription": {
+            "default": "paaskitiiɬy̓ak"
+          },
           "analysis": {
             "default": "paːskit-iːɬ-y̓akʷ"
           },
@@ -623,7 +671,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓aʕiiksap̓aƛ",
+          "transcription": {
+            "default": "ƛ̓aʕiiksap̓aƛ"
+          },
           "analysis": {
             "default": "ƛ̓aʕiːk-sa·p-ʼaƛ"
           },
@@ -651,7 +701,9 @@
           ]
         },
         {
-          "transcription": "c̓uy̓iitap̓aƛ",
+          "transcription": {
+            "default": "c̓uy̓iitap̓aƛ"
+          },
           "analysis": {
             "default": "c̓us-ʼi·tap-ʼaƛ"
           },
@@ -691,7 +743,9 @@
       "translation": "They didn’t just bury it — they prayed as they are doing it.",
       "words": [
         {
-          "transcription": "wik",
+          "transcription": {
+            "default": "wik"
+          },
           "analysis": {
             "default": "wik"
           },
@@ -707,7 +761,9 @@
           ]
         },
         {
-          "transcription": "ʔaanasiɬasa",
+          "transcription": {
+            "default": "ʔaanasiɬasa"
+          },
           "analysis": {
             "default": "ʔana-siɬa-sa"
           },
@@ -735,7 +791,9 @@
           ]
         },
         {
-          "transcription": "ciciqinkḥʔaƛ",
+          "transcription": {
+            "default": "ciciqinkḥʔaƛ"
+          },
           "analysis": {
             "default": "ciq-inkʷ-(q)ḥ-ʼaƛ"
           },
@@ -769,7 +827,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔap",
+          "transcription": {
+            "default": "qʷaaʔap"
+          },
           "analysis": {
             "default": "qʷaː-ʼap"
           },
@@ -803,7 +863,9 @@
       "translation": "And for boys too, they did all sorts of things.",
       "words": [
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "wa·"
           },
@@ -819,7 +881,9 @@
           ]
         },
         {
-          "transcription": "ḥaaw̓iiḥaƛ",
+          "transcription": {
+            "default": "ḥaaw̓iiḥaƛ"
+          },
           "analysis": {
             "default": "ḥaːw̓iːḥaƛ"
           },
@@ -835,7 +899,9 @@
           ]
         },
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -851,7 +917,9 @@
           ]
         },
         {
-          "transcription": "hiihiiqšaḥap̓at",
+          "transcription": {
+            "default": "hiihiiqšaḥap̓at"
+          },
           "analysis": {
             "default": "hiːhiːq-šaḥap-ʼat"
           },
@@ -879,7 +947,9 @@
           ]
         },
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -907,7 +977,9 @@
       "translation": "They used to put fishing gear or whatever that would make him well-off when he hunted for deer and so on.",
       "words": [
         {
-          "transcription": "ʔuuwink̓ap̓at",
+          "transcription": {
+            "default": "ʔuuwink̓ap̓at"
+          },
           "analysis": {
             "default": "ʔu-wink-ʼap-ʼat"
           },
@@ -941,7 +1013,9 @@
           ]
         },
         {
-          "transcription": "čiicy̓akštup",
+          "transcription": {
+            "default": "čiicy̓akštup"
+          },
           "analysis": {
             "default": "čiːc-y̓akʷ-štu·p"
           },
@@ -969,7 +1043,9 @@
           ]
         },
         {
-          "transcription": "qʷaaqḥcumʔitq",
+          "transcription": {
+            "default": "qʷaaqḥcumʔitq"
+          },
           "analysis": {
             "default": "qʷaː-(q)ḥ-cum-ʔi·tq"
           },
@@ -1003,7 +1079,9 @@
           ]
         },
         {
-          "transcription": "wiicaḥi",
+          "transcription": {
+            "default": "wiicaḥi"
+          },
           "analysis": {
             "default": "wica-ḥi·"
           },
@@ -1025,7 +1103,9 @@
           ]
         },
         {
-          "transcription": "ʔuʔuʔiiḥʔaƛquu",
+          "transcription": {
+            "default": "ʔuʔuʔiiḥʔaƛquu"
+          },
           "analysis": {
             "default": "ʔu-ʼiːḥ-ʼaƛ-quː"
           },
@@ -1059,7 +1139,9 @@
           ]
         },
         {
-          "transcription": "muwač",
+          "transcription": {
+            "default": "muwač"
+          },
           "analysis": {
             "default": "muwač"
           },
@@ -1075,7 +1157,9 @@
           ]
         },
         {
-          "transcription": "hihiqtup",
+          "transcription": {
+            "default": "hihiqtup"
+          },
           "analysis": {
             "default": "hihiq-tu·p"
           },
@@ -1109,7 +1193,9 @@
       "translation": "Also they used to bury with the afterbirth a knife and whatever you would want him to be talented at carving.",
       "words": [
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -1125,7 +1211,9 @@
           ]
         },
         {
-          "transcription": "ʔuuksnaʕaaɬʔat",
+          "transcription": {
+            "default": "ʔuuksnaʕaaɬʔat"
+          },
           "analysis": {
             "default": "ʔu-ksnaʕaːɬ-ʼat"
           },
@@ -1153,7 +1241,9 @@
           ]
         },
         {
-          "transcription": "c̓uy̓iitapw̓it̓asʔaƛquu",
+          "transcription": {
+            "default": "c̓uy̓iitapw̓it̓asʔaƛquu"
+          },
           "analysis": {
             "default": "c̓us-ʼi·tap-w̓it̓as-ʼaƛ-quː"
           },
@@ -1193,7 +1283,9 @@
           ]
         },
         {
-          "transcription": "c̓aḥʷackʷi",
+          "transcription": {
+            "default": "c̓aḥʷackʷi"
+          },
           "analysis": {
             "default": "c̓aḥʷackʷi"
           },
@@ -1209,7 +1301,9 @@
           ]
         },
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -1225,7 +1319,9 @@
           ]
         },
         {
-          "transcription": "č̓iima",
+          "transcription": {
+            "default": "č̓iima"
+          },
           "analysis": {
             "default": "č̓iːma"
           },
@@ -1241,7 +1337,9 @@
           ]
         },
         {
-          "transcription": "qʷiimaʕukmaḥsap̓atʔitq",
+          "transcription": {
+            "default": "qʷiimaʕukmaḥsap̓atʔitq"
+          },
           "analysis": {
             "default": "qʷi-maʕuk-maḥsa-ʼap-ʼat-ʔi·tq"
           },
@@ -1287,7 +1385,9 @@
           ]
         },
         {
-          "transcription": "ʕaakʕaakʷa",
+          "transcription": {
+            "default": "ʕaakʕaakʷa"
+          },
           "analysis": {
             "default": "ʕakʷ-(y)a"
           },
@@ -1321,7 +1421,9 @@
       "translation": "That’s what they used to do a long time ago.",
       "words": [
         {
-          "transcription": "ʔaḥʔaa",
+          "transcription": {
+            "default": "ʔaḥʔaa"
+          },
           "analysis": {
             "default": "ʔaḥʔaː"
           },
@@ -1337,7 +1439,9 @@
           ]
         },
         {
-          "transcription": "qʷisitʔaaɬ",
+          "transcription": {
+            "default": "qʷisitʔaaɬ"
+          },
           "analysis": {
             "default": "qʷis-it-ʔaːɬ"
           },
@@ -1365,7 +1469,9 @@
           ]
         },
         {
-          "transcription": "huuʔak",
+          "transcription": {
+            "default": "huuʔak"
+          },
           "analysis": {
             "default": "huːʔak"
           },
@@ -1381,7 +1487,9 @@
           ]
         },
         {
-          "transcription": "ʔuyi",
+          "transcription": {
+            "default": "ʔuyi"
+          },
           "analysis": {
             "default": "ʔuyi"
           },
@@ -1409,7 +1517,9 @@
       "translation": "People were still doing that until recently.",
       "words": [
         {
-          "transcription": "ƛaaḥc̓a",
+          "transcription": {
+            "default": "ƛaaḥc̓a"
+          },
           "analysis": {
             "default": "ƛaḥ-c̓a"
           },
@@ -1431,7 +1541,9 @@
           ]
         },
         {
-          "transcription": "ʔiiqḥiimit",
+          "transcription": {
+            "default": "ʔiiqḥiimit"
+          },
           "analysis": {
             "default": "ʔiq-ḥi·-mit"
           },
@@ -1459,7 +1571,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔap",
+          "transcription": {
+            "default": "qʷaaʔap"
+          },
           "analysis": {
             "default": "qʷaː-ʼap"
           },
@@ -1493,7 +1607,9 @@
       "translation": "I know one girl from Ahousaht.",
       "words": [
         {
-          "transcription": "ʔuukʷiɬ",
+          "transcription": {
+            "default": "ʔuukʷiɬ"
+          },
           "analysis": {
             "default": "ʔu-kʷiɬ"
           },
@@ -1515,7 +1631,9 @@
           ]
         },
         {
-          "transcription": "huḥtak",
+          "transcription": {
+            "default": "huḥtak"
+          },
           "analysis": {
             "default": "huḥtak"
           },
@@ -1531,7 +1649,9 @@
           ]
         },
         {
-          "transcription": "ḥaakʷaaƛ",
+          "transcription": {
+            "default": "ḥaakʷaaƛ"
+          },
           "analysis": {
             "default": "ḥaːkʷa·ƛ"
           },
@@ -1547,7 +1667,9 @@
           ]
         },
         {
-          "transcription": "histaqšiƛ",
+          "transcription": {
+            "default": "histaqšiƛ"
+          },
           "analysis": {
             "default": "his-taq-šiƛ"
           },
@@ -1575,7 +1697,9 @@
           ]
         },
         {
-          "transcription": "ʕaaḥuusʔatḥ",
+          "transcription": {
+            "default": "ʕaaḥuusʔatḥ"
+          },
           "analysis": {
             "default": "ʕaːḥuːsʔatḥ"
           },
@@ -1603,7 +1727,9 @@
       "translation": "She went to school for a long time and became a lawyer.",
       "words": [
         {
-          "transcription": "qiičiʔaƛ",
+          "transcription": {
+            "default": "qiičiʔaƛ"
+          },
           "analysis": {
             "default": "qiː-čiƛ-ʼaƛ"
           },
@@ -1631,7 +1757,9 @@
           ]
         },
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -1647,7 +1775,9 @@
           ]
         },
         {
-          "transcription": "ƛiisƛiisa",
+          "transcription": {
+            "default": "ƛiisƛiisa"
+          },
           "analysis": {
             "default": "ƛiːs-(y)a"
           },
@@ -1669,7 +1799,9 @@
           ]
         },
         {
-          "transcription": "ɬawyerčiʔaƛ",
+          "transcription": {
+            "default": "ɬawyerčiʔaƛ"
+          },
           "analysis": {
             "default": "ɬawyer-čiƛ-ʼaƛ"
           },
@@ -1709,7 +1841,9 @@
       "translation": "They had buried [for her] paper and pencils with the afterbirth.",
       "words": [
         {
-          "transcription": "ʔuuqstiickʷap̓atuk",
+          "transcription": {
+            "default": "ʔuuqstiickʷap̓atuk"
+          },
           "analysis": {
             "default": "ʔu-aqsti·-ckʷi·-ʼap-ʼat-uk"
           },
@@ -1755,7 +1889,9 @@
           ]
         },
         {
-          "transcription": "piipaa",
+          "transcription": {
+            "default": "piipaa"
+          },
           "analysis": {
             "default": "piːpaː"
           },
@@ -1771,7 +1907,9 @@
           ]
         },
         {
-          "transcription": "ʔuḥʔiiš",
+          "transcription": {
+            "default": "ʔuḥʔiiš"
+          },
           "analysis": {
             "default": "ʔuḥʔiːš"
           },
@@ -1787,7 +1925,9 @@
           ]
         },
         {
-          "transcription": "ƛiisy̓ak",
+          "transcription": {
+            "default": "ƛiisy̓ak"
+          },
           "analysis": {
             "default": "ƛiːsy̓ak"
           },
@@ -1803,7 +1943,9 @@
           ]
         },
         {
-          "transcription": "c̓uy̓iitap̓at",
+          "transcription": {
+            "default": "c̓uy̓iitap̓at"
+          },
           "analysis": {
             "default": "c̓us-ʼi·tap-ʼat"
           },
@@ -1843,7 +1985,9 @@
       "translation": "And it also happened to my stepdaughter.",
       "words": [
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "wa·"
           },
@@ -1859,7 +2003,9 @@
           ]
         },
         {
-          "transcription": "qʷisukʷits",
+          "transcription": {
+            "default": "qʷisukʷits"
+          },
           "analysis": {
             "default": "qʷis-uk-it"
           },
@@ -1887,7 +2033,9 @@
           ]
         },
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -1903,7 +2051,9 @@
           ]
         },
         {
-          "transcription": "yaqukʷiis",
+          "transcription": {
+            "default": "yaqukʷiis"
+          },
           "analysis": {
             "default": "yaq-uk-(y)iːs"
           },
@@ -1931,7 +2081,9 @@
           ]
         },
         {
-          "transcription": "stepdaughter",
+          "transcription": {
+            "default": "stepdaughter"
+          },
           "analysis": {
             "default": "~"
           },
@@ -1951,7 +2103,9 @@
       "translation": "Her grandmother put in playing cards.",
       "words": [
         {
-          "transcription": "ƛ̓ax̣y̓ak",
+          "transcription": {
+            "default": "ƛ̓ax̣y̓ak"
+          },
           "analysis": {
             "default": "ƛ̓ax̣-y̓akʷ"
           },
@@ -1973,7 +2127,9 @@
           ]
         },
         {
-          "transcription": "ʔuuqstiiʔap̓atuk",
+          "transcription": {
+            "default": "ʔuuqstiiʔap̓atuk"
+          },
           "analysis": {
             "default": "ʔu-aqsti·-ʼap-ʼat-uk"
           },
@@ -2013,7 +2169,9 @@
           ]
         },
         {
-          "transcription": "naniiqsak",
+          "transcription": {
+            "default": "naniiqsak"
+          },
           "analysis": {
             "default": "nani·qsu-ʔa·k"
           },
@@ -2047,7 +2205,9 @@
       "translation": "She plays cards really well.",
       "words": [
         {
-          "transcription": "ʔaanaaƛ",
+          "transcription": {
+            "default": "ʔaanaaƛ"
+          },
           "analysis": {
             "default": "ʔaːna-ʼaƛ"
           },
@@ -2069,7 +2229,9 @@
           ]
         },
         {
-          "transcription": "hiihiiqšaḥap",
+          "transcription": {
+            "default": "hiihiiqšaḥap"
+          },
           "analysis": {
             "default": "hiːhiːq-šaḥap"
           },
@@ -2091,7 +2253,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓aax̣ƛ̓aax̣a",
+          "transcription": {
+            "default": "ƛ̓aax̣ƛ̓aax̣a"
+          },
           "analysis": {
             "default": "ƛ̓ax̣-(y)a"
           },
@@ -2125,7 +2289,9 @@
       "translation": "Because of that, they also made her well-off.",
       "words": [
         {
-          "transcription": "ʔuusaaḥaƛ",
+          "transcription": {
+            "default": "ʔuusaaḥaƛ"
+          },
           "analysis": {
             "default": "ʔu-sa·ḥi-ʼaƛ"
           },
@@ -2153,7 +2319,9 @@
           ]
         },
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -2169,7 +2337,9 @@
           ]
         },
         {
-          "transcription": "wiicaḥi",
+          "transcription": {
+            "default": "wiicaḥi"
+          },
           "analysis": {
             "default": "wica-ḥi·"
           },
@@ -2191,7 +2361,9 @@
           ]
         },
         {
-          "transcription": "qʷaačiiɬʔanit",
+          "transcription": {
+            "default": "qʷaačiiɬʔanit"
+          },
           "analysis": {
             "default": "qʷaː-čiːɬ-ʼat-it"
           },
@@ -2237,7 +2409,9 @@
       "translation": "That’s all.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },

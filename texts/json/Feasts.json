@@ -17,7 +17,9 @@
       "translation": "Now, I will talk about feasts and potlatches.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -33,7 +35,9 @@
           ]
         },
         {
-          "transcription": "ʔuumac̓ukʔaqƛsiš",
+          "transcription": {
+            "default": "ʔuumac̓ukʔaqƛsiš"
+          },
           "analysis": {
             "default": "ʔu-mac̓uk-ʔaqƛ-si·š"
           },
@@ -67,7 +71,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓iic̓uumis",
+          "transcription": {
+            "default": "ƛ̓iic̓uumis"
+          },
           "analysis": {
             "default": "ƛ̓iːc̓uː-mis"
           },
@@ -89,7 +95,9 @@
           ]
         },
         {
-          "transcription": "n̓ušiƛ",
+          "transcription": {
+            "default": "n̓ušiƛ"
+          },
           "analysis": {
             "default": "n̓ušiƛ"
           },
@@ -117,7 +125,9 @@
       "translation": "People never had a potlatch alone by themselves.",
       "words": [
         {
-          "transcription": "wiiy̓umtʔiš",
+          "transcription": {
+            "default": "wiiy̓umtʔiš"
+          },
           "analysis": {
             "default": "wiːy̓a-umt-ʔi·š"
           },
@@ -145,7 +155,9 @@
           ]
         },
         {
-          "transcription": "c̓aawuu",
+          "transcription": {
+            "default": "c̓aawuu"
+          },
           "analysis": {
             "default": "c̓awa·-uː"
           },
@@ -167,7 +179,9 @@
           ]
         },
         {
-          "transcription": "n̓ušiƛnak̓aƛquu",
+          "transcription": {
+            "default": "n̓ušiƛnak̓aƛquu"
+          },
           "analysis": {
             "default": "n̓ušiƛ-na·k-ʼaƛ-quː"
           },
@@ -213,7 +227,9 @@
       "translation": "They would call and gather their relatives and say, “we would like to do it (hold a potlatch).”",
       "words": [
         {
-          "transcription": "haaʕinčiʔaƛquu",
+          "transcription": {
+            "default": "haaʕinčiʔaƛquu"
+          },
           "analysis": {
             "default": "haːʕin-či(ƛ)-ʼaƛ-quː"
           },
@@ -247,7 +263,9 @@
           ]
         },
         {
-          "transcription": "yaʔaayaqḥy̓uʔitq",
+          "transcription": {
+            "default": "yaʔaayaqḥy̓uʔitq"
+          },
           "analysis": {
             "default": "yaʔa·ya-qḥy̓u·-ʔi·tq"
           },
@@ -275,7 +293,9 @@
           ]
         },
         {
-          "transcription": "hišumyipitap",
+          "transcription": {
+            "default": "hišumyipitap"
+          },
           "analysis": {
             "default": "hiš-umɬ-ʽipitap"
           },
@@ -303,7 +323,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔapmaḥsas",
+          "transcription": {
+            "default": "qʷaaʔapmaḥsas"
+          },
           "analysis": {
             "default": "qʷaː-ʼap-maḥsa-s"
           },
@@ -337,7 +359,9 @@
           ]
         },
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "wa·"
           },
@@ -365,7 +389,9 @@
       "translation": "Among them there would be the advisor.",
       "words": [
         {
-          "transcription": "hiiy̓aaqstiɬʔaƛ",
+          "transcription": {
+            "default": "hiiy̓aaqstiɬʔaƛ"
+          },
           "analysis": {
             "default": "hiɬ-ʼa·qsta-ʽiɬ-ʼaƛ"
           },
@@ -399,7 +425,9 @@
           ]
         },
         {
-          "transcription": "yaa",
+          "transcription": {
+            "default": "yaa"
+          },
           "analysis": {
             "default": "yaː"
           },
@@ -415,7 +443,9 @@
           ]
         },
         {
-          "transcription": "t̓apatḥsakʔi",
+          "transcription": {
+            "default": "t̓apatḥsakʔi"
+          },
           "analysis": {
             "default": "t̓apatḥsi·-ʔa·k-ʔi·"
           },
@@ -455,7 +485,9 @@
       "translation": "They would ask him when it should be.",
       "words": [
         {
-          "transcription": "waasqʷiicumḥ",
+          "transcription": {
+            "default": "waasqʷiicumḥ"
+          },
           "analysis": {
             "default": "waːsqʷiː-cum-ḥ"
           },
@@ -483,7 +515,9 @@
           ]
         },
         {
-          "transcription": "waa",
+          "transcription": {
+            "default": "waa"
+          },
           "analysis": {
             "default": "wa·"
           },
@@ -511,7 +545,9 @@
       "translation": "They think about how long it would take to gather various things to give away.",
       "words": [
         {
-          "transcription": "t̓apatšiƛ̓aɬ",
+          "transcription": {
+            "default": "t̓apatšiƛ̓aɬ"
+          },
           "analysis": {
             "default": "t̓apat-šiƛ-ʔa·ɬ"
           },
@@ -539,7 +575,9 @@
           ]
         },
         {
-          "transcription": "ʔuniccukuusii",
+          "transcription": {
+            "default": "ʔuniccukuusii"
+          },
           "analysis": {
             "default": "ʔunic-cuk-uːsiː"
           },
@@ -567,7 +605,9 @@
           ]
         },
         {
-          "transcription": "hišumy̓uup̓at",
+          "transcription": {
+            "default": "hišumy̓uup̓at"
+          },
           "analysis": {
             "default": "hiš-umɬ-ʼuːp-ʼat"
           },
@@ -601,7 +641,9 @@
           ]
         },
         {
-          "transcription": "hihiqtup",
+          "transcription": {
+            "default": "hihiqtup"
+          },
           "analysis": {
             "default": "hihiq-tu·p"
           },
@@ -623,7 +665,9 @@
           ]
         },
         {
-          "transcription": "n̓ušiƛw̓it̓asquu",
+          "transcription": {
+            "default": "n̓ušiƛw̓it̓asquu"
+          },
           "analysis": {
             "default": "n̓ušiƛ-w̓it̓as-quː"
           },
@@ -663,7 +707,9 @@
       "translation": "Now, when you give a potlatch, all the relatives would chip in.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -679,7 +725,9 @@
           ]
         },
         {
-          "transcription": "n̓ušiƛw̓it̓asʔaƛquu",
+          "transcription": {
+            "default": "n̓ušiƛw̓it̓asʔaƛquu"
+          },
           "analysis": {
             "default": "n̓ušiƛ-w̓it̓as-ʼaƛ-quː"
           },
@@ -713,7 +761,9 @@
           ]
         },
         {
-          "transcription": "hiišuuʔaƛquu",
+          "transcription": {
+            "default": "hiišuuʔaƛquu"
+          },
           "analysis": {
             "default": "hiš-uː-ʼaƛ-quː"
           },
@@ -747,7 +797,9 @@
           ]
         },
         {
-          "transcription": "yaʔaayaqḥy̓uʔitq",
+          "transcription": {
+            "default": "yaʔaayaqḥy̓uʔitq"
+          },
           "analysis": {
             "default": "yaʔa·ya-qḥy̓u·-ʔitq"
           },
@@ -787,7 +839,9 @@
       "translation": "They gather various things that they will give out.",
       "words": [
         {
-          "transcription": "hišumy̓uup",
+          "transcription": {
+            "default": "hišumy̓uup"
+          },
           "analysis": {
             "default": "hiš-umɬ-ʼuːp"
           },
@@ -815,7 +869,9 @@
           ]
         },
         {
-          "transcription": "qʷiʔinɬʔaqƛii",
+          "transcription": {
+            "default": "qʷiʔinɬʔaqƛii"
+          },
           "analysis": {
             "default": "qʷi-ʼinɬ-ʔaqƛ-(y)iː"
           },
@@ -861,7 +917,9 @@
       "translation": "A long time ago the only thing they had to give away were oars, bailers, and canoes.",
       "words": [
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -877,7 +935,9 @@
           ]
         },
         {
-          "transcription": "ʔanackʷakʔaaɬ",
+          "transcription": {
+            "default": "ʔanackʷakʔaaɬ"
+          },
           "analysis": {
             "default": "ʔana-ckʷi·-ʔa·k-ʔaːɬ"
           },
@@ -911,7 +971,9 @@
           ]
         },
         {
-          "transcription": "huuʔak",
+          "transcription": {
+            "default": "huuʔak"
+          },
           "analysis": {
             "default": "huːʔak"
           },
@@ -927,7 +989,9 @@
           ]
         },
         {
-          "transcription": "n̓iƛy̓ak",
+          "transcription": {
+            "default": "n̓iƛy̓ak"
+          },
           "analysis": {
             "default": "n̓iƛy̓ak"
           },
@@ -943,7 +1007,9 @@
           ]
         },
         {
-          "transcription": "ḥay̓um",
+          "transcription": {
+            "default": "ḥay̓um"
+          },
           "analysis": {
             "default": "ḥay̓um"
           },
@@ -959,7 +1025,9 @@
           ]
         },
         {
-          "transcription": "č̓apac",
+          "transcription": {
+            "default": "č̓apac"
+          },
           "analysis": {
             "default": "č̓apac"
           },
@@ -975,7 +1043,9 @@
           ]
         },
         {
-          "transcription": "p̓ačiƛy̓ak",
+          "transcription": {
+            "default": "p̓ačiƛy̓ak"
+          },
           "analysis": {
             "default": "p̓a-čiƛ-y̓akʷ"
           },
@@ -1015,7 +1085,9 @@
       "translation": "As they gather gifts, they think about when they should have the potlatch and how long it would take to gather everything together.",
       "words": [
         {
-          "transcription": "hišumyiɬḥʔaƛ",
+          "transcription": {
+            "default": "hišumyiɬḥʔaƛ"
+          },
           "analysis": {
             "default": "hiš-umɬ-ʽiɬ-(q)ḥ-ʼaƛ"
           },
@@ -1055,7 +1127,9 @@
           ]
         },
         {
-          "transcription": "t̓apatšiƛ",
+          "transcription": {
+            "default": "t̓apatšiƛ"
+          },
           "analysis": {
             "default": "t̓apat-šiƛ"
           },
@@ -1077,7 +1151,9 @@
           ]
         },
         {
-          "transcription": "qʷiyucukʔitq",
+          "transcription": {
+            "default": "qʷiyucukʔitq"
+          },
           "analysis": {
             "default": "qʷiyu-cuk-ʔi·tq"
           },
@@ -1105,7 +1181,9 @@
           ]
         },
         {
-          "transcription": "ʔuniccukukʔitqʔaɬ",
+          "transcription": {
+            "default": "ʔuniccukukʔitqʔaɬ"
+          },
           "analysis": {
             "default": "ʔunic-cuk-uk-ʔi·tq-ʔa·ɬ"
           },
@@ -1145,7 +1223,9 @@
           ]
         },
         {
-          "transcription": "hišumy̓uup",
+          "transcription": {
+            "default": "hišumy̓uup"
+          },
           "analysis": {
             "default": "hiš-umɬ-ʼuːp"
           },
@@ -1173,7 +1253,9 @@
           ]
         },
         {
-          "transcription": "hihiqtup",
+          "transcription": {
+            "default": "hihiqtup"
+          },
           "analysis": {
             "default": "hihiq-tu·p"
           },
@@ -1207,7 +1289,9 @@
       "translation": "You would see piles of blankets, flour or whatever.",
       "words": [
         {
-          "transcription": "n̓aacsaatʔaaɬ",
+          "transcription": {
+            "default": "n̓aacsaatʔaaɬ"
+          },
           "analysis": {
             "default": "n̓aːcsa-ʼat-ʔaːɬ"
           },
@@ -1235,7 +1319,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥ",
+          "transcription": {
+            "default": "ʔaḥ"
+          },
           "analysis": {
             "default": "ʔaḥ"
           },
@@ -1251,7 +1337,9 @@
           ]
         },
         {
-          "transcription": "t̓ut̓učkiɬ",
+          "transcription": {
+            "default": "t̓ut̓učkiɬ"
+          },
           "analysis": {
             "default": "DUPCV-t̓učk-ʽiɬ"
           },
@@ -1279,7 +1367,9 @@
           ]
         },
         {
-          "transcription": "k̓acḥaq",
+          "transcription": {
+            "default": "k̓acḥaq"
+          },
           "analysis": {
             "default": "k̓acḥaq"
           },
@@ -1295,7 +1385,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓iƛ̓ick̓uk",
+          "transcription": {
+            "default": "ƛ̓iƛ̓ick̓uk"
+          },
           "analysis": {
             "default": "ƛ̓iƛ̓ick̓uk"
           },
@@ -1311,7 +1403,9 @@
           ]
         },
         {
-          "transcription": "qʷiquusii",
+          "transcription": {
+            "default": "qʷiquusii"
+          },
           "analysis": {
             "default": "qʷiq-uːsiː"
           },
@@ -1345,7 +1439,9 @@
       "translation": "They could get animal furs exchanged for blankets when you get lots.",
       "words": [
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -1361,7 +1457,9 @@
           ]
         },
         {
-          "transcription": "ḥaaʔuuyiʔaaɬckʷatʔaaɬʔaɬ",
+          "transcription": {
+            "default": "ḥaaʔuuyiʔaaɬckʷatʔaaɬʔaɬ"
+          },
           "analysis": {
             "default": "ḥaʔuː-ayi·-ʔaːɬ-ckʷi·-ʼat-ʔaːɬ-ʔa·ɬ"
           },
@@ -1413,7 +1511,9 @@
           ]
         },
         {
-          "transcription": "k̓acḥaq",
+          "transcription": {
+            "default": "k̓acḥaq"
+          },
           "analysis": {
             "default": "k̓acḥaq"
           },
@@ -1429,7 +1529,9 @@
           ]
         },
         {
-          "transcription": "hapumy̓amumʔak",
+          "transcription": {
+            "default": "hapumy̓amumʔak"
+          },
           "analysis": {
             "default": "hapumy̓amum-ʔa·k"
           },
@@ -1451,7 +1553,9 @@
           ]
         },
         {
-          "transcription": "saštup",
+          "transcription": {
+            "default": "saštup"
+          },
           "analysis": {
             "default": "saštup"
           },
@@ -1467,7 +1571,9 @@
           ]
         },
         {
-          "transcription": "ʔayiičiʔaƛukquu",
+          "transcription": {
+            "default": "ʔayiičiʔaƛukquu"
+          },
           "analysis": {
             "default": "ʔaya-ʽi·čiƛ-ʼaƛ-uk-quː"
           },
@@ -1519,7 +1625,9 @@
       "translation": "You would know when you get enough.",
       "words": [
         {
-          "transcription": "huḥtakšiʔaƛ",
+          "transcription": {
+            "default": "huḥtakšiʔaƛ"
+          },
           "analysis": {
             "default": "huḥtak-šiƛ-ʼaƛ"
           },
@@ -1547,7 +1655,9 @@
           ]
         },
         {
-          "transcription": "qʷiyuʔitq",
+          "transcription": {
+            "default": "qʷiyuʔitq"
+          },
           "analysis": {
             "default": "qʷiyu-ʔi·tq"
           },
@@ -1569,7 +1679,9 @@
           ]
         },
         {
-          "transcription": "ʔuʔumḥičiƛuk",
+          "transcription": {
+            "default": "ʔuʔumḥičiƛuk"
+          },
           "analysis": {
             "default": "ʔuʔumḥi-čiƛ-uk"
           },
@@ -1609,7 +1721,9 @@
       "translation": "Sometimes he would give a potlatch just for the band members.",
       "words": [
         {
-          "transcription": "ʔuušyuuyumt",
+          "transcription": {
+            "default": "ʔuušyuuyumt"
+          },
           "analysis": {
             "default": "ʔuːš-yuːya-umt"
           },
@@ -1637,7 +1751,9 @@
           ]
         },
         {
-          "transcription": "ʔaʔanumc̓u",
+          "transcription": {
+            "default": "ʔaʔanumc̓u"
+          },
           "analysis": {
             "default": "DUPCV-ʔana-um-c̓u·"
           },
@@ -1671,7 +1787,9 @@
           ]
         },
         {
-          "transcription": "yaqčiʔatḥʔitq",
+          "transcription": {
+            "default": "yaqčiʔatḥʔitq"
+          },
           "analysis": {
             "default": "yaq-či-ʼatḥ-ʔi·tq"
           },
@@ -1717,7 +1835,9 @@
       "translation": "Sometimes you would invite other tribes.",
       "words": [
         {
-          "transcription": "ʔuušyuuya",
+          "transcription": {
+            "default": "ʔuušyuuya"
+          },
           "analysis": {
             "default": "ʔuːš-yuːya"
           },
@@ -1739,7 +1859,9 @@
           ]
         },
         {
-          "transcription": "haaʔin",
+          "transcription": {
+            "default": "haaʔin"
+          },
           "analysis": {
             "default": "haːʔin"
           },
@@ -1755,7 +1877,9 @@
           ]
         },
         {
-          "transcription": "ƛaƛuuʔi",
+          "transcription": {
+            "default": "ƛaƛuuʔi"
+          },
           "analysis": {
             "default": "ƛaƛuː-ʔi·"
           },
@@ -1777,7 +1901,9 @@
           ]
         },
         {
-          "transcription": "maatmaas",
+          "transcription": {
+            "default": "maatmaas"
+          },
           "analysis": {
             "default": "maːtmaːs"
           },

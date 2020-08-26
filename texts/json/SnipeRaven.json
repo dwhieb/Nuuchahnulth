@@ -17,7 +17,9 @@
       "translation": "Son of Raven went for a walk as he usually did when he got hungry.",
       "words": [
         {
-          "transcription": "yaacpanač̓aƛwaʔiš",
+          "transcription": {
+            "default": "yaacpanač̓aƛwaʔiš"
+          },
           "analysis": {
             "default": "yac-panač-ʼaƛ-wa·ʔi·š"
           },
@@ -51,7 +53,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -73,7 +77,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔamitiičʔaaɬ",
+          "transcription": {
+            "default": "qʷaaʔamitiičʔaaɬ"
+          },
           "analysis": {
             "default": "qʷaː-ʼap-it-(y)iː-č-ʔaːɬ"
           },
@@ -119,7 +125,9 @@
           ]
         },
         {
-          "transcription": "haw̓iiqstuʔaƛquu",
+          "transcription": {
+            "default": "haw̓iiqstuʔaƛquu"
+          },
           "analysis": {
             "default": "haw̓iːqstu(ƛ)-ʼaƛ-quː"
           },
@@ -159,7 +167,9 @@
       "translation": "He knew how to find a place where he could get food when he got hungry.",
       "words": [
         {
-          "transcription": "ʕac̓ikckʷi",
+          "transcription": {
+            "default": "ʕac̓ikckʷi"
+          },
           "analysis": {
             "default": "ʕac̓ik-ckʷi·"
           },
@@ -181,7 +191,9 @@
           ]
         },
         {
-          "transcription": "ʔuuwaƛ",
+          "transcription": {
+            "default": "ʔuuwaƛ"
+          },
           "analysis": {
             "default": "ʔu-waƛ"
           },
@@ -203,7 +215,9 @@
           ]
         },
         {
-          "transcription": "hiɬʔaaḥi",
+          "transcription": {
+            "default": "hiɬʔaaḥi"
+          },
           "analysis": {
             "default": "hiɬ-ʔaːḥi"
           },
@@ -225,7 +239,9 @@
           ]
         },
         {
-          "transcription": "haʔuk",
+          "transcription": {
+            "default": "haʔuk"
+          },
           "analysis": {
             "default": "haʔuk"
           },
@@ -241,7 +257,9 @@
           ]
         },
         {
-          "transcription": "haw̓iiqstuʔaƛquu",
+          "transcription": {
+            "default": "haw̓iiqstuʔaƛquu"
+          },
           "analysis": {
             "default": "haw̓iːqstu(ƛ)-ʼaƛ-quː"
           },
@@ -281,7 +299,9 @@
       "translation": "He would figure out when they were going to eat.",
       "words": [
         {
-          "transcription": "piḥiisʔaƛquuč",
+          "transcription": {
+            "default": "piḥiisʔaƛquuč"
+          },
           "analysis": {
             "default": "piḥ-i·s-ʼaƛ-quː-č"
           },
@@ -321,7 +341,9 @@
           ]
         },
         {
-          "transcription": "qʷiyumatakʔitqʔaɬ",
+          "transcription": {
+            "default": "qʷiyumatakʔitqʔaɬ"
+          },
           "analysis": {
             "default": "qʷiyu-matak-ʔi·tq-ʔa·ɬ"
           },
@@ -355,7 +377,9 @@
           ]
         },
         {
-          "transcription": "haʔuk",
+          "transcription": {
+            "default": "haʔuk"
+          },
           "analysis": {
             "default": "haʔuk"
           },
@@ -383,7 +407,9 @@
       "translation": "He headed for Snipe’s house near a river. “Hello,” he said as he spotted Son of Snipe.",
       "words": [
         {
-          "transcription": "ʔucaḥtačiʔaƛ",
+          "transcription": {
+            "default": "ʔucaḥtačiʔaƛ"
+          },
           "analysis": {
             "default": "ʔu-ca-ḥta-či(ƛ)-ʼaƛ"
           },
@@ -423,7 +449,9 @@
           ]
         },
         {
-          "transcription": "hiy̓atḥʔitq",
+          "transcription": {
+            "default": "hiy̓atḥʔitq"
+          },
           "analysis": {
             "default": "hiɬ-ʼatḥ-ʔi·tq"
           },
@@ -451,7 +479,9 @@
           ]
         },
         {
-          "transcription": "waasniipm̓it",
+          "transcription": {
+            "default": "waasniipm̓it"
+          },
           "analysis": {
             "default": "waːsniːp-m̓i·t"
           },
@@ -473,7 +503,9 @@
           ]
         },
         {
-          "transcription": "ƛawaas",
+          "transcription": {
+            "default": "ƛawaas"
+          },
           "analysis": {
             "default": "ƛawaː-ʼas"
           },
@@ -495,7 +527,9 @@
           ]
         },
         {
-          "transcription": "c̓aʔak",
+          "transcription": {
+            "default": "c̓aʔak"
+          },
           "analysis": {
             "default": "c̓aʔak"
           },
@@ -511,7 +545,9 @@
           ]
         },
         {
-          "transcription": "huuy",
+          "transcription": {
+            "default": "huuy"
+          },
           "analysis": {
             "default": "huːy"
           },
@@ -527,7 +563,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -549,7 +587,9 @@
           ]
         },
         {
-          "transcription": "n̓aacsiičiƛ",
+          "transcription": {
+            "default": "n̓aacsiičiƛ"
+          },
           "analysis": {
             "default": "n̓aːcsiː-čiƛ"
           },
@@ -571,7 +611,9 @@
           ]
         },
         {
-          "transcription": "waasniipm̓it",
+          "transcription": {
+            "default": "waasniipm̓it"
+          },
           "analysis": {
             "default": "waːsniːp-m̓i·t"
           },
@@ -593,7 +635,9 @@
           ]
         },
         {
-          "transcription": "ʔuukʷiɬ",
+          "transcription": {
+            "default": "ʔuukʷiɬ"
+          },
           "analysis": {
             "default": "ʔu-kʷiɬ"
           },
@@ -627,7 +671,9 @@
       "translation": "“It sure is a nice day. I was out taking a walk and thought I’d stop by,” he said, seeing that they hadn’t eaten yet.",
       "words": [
         {
-          "transcription": "ʔuuʔuuqukʷaƛ̓iš",
+          "transcription": {
+            "default": "ʔuuʔuuqukʷaƛ̓iš"
+          },
           "analysis": {
             "default": "DUPCV-ʔu·q-uk-ʼaƛ-ʔi·š"
           },
@@ -667,7 +713,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -689,7 +737,9 @@
           ]
         },
         {
-          "transcription": "yaacpanačits",
+          "transcription": {
+            "default": "yaacpanačits"
+          },
           "analysis": {
             "default": "yac-panač-it-s"
           },
@@ -723,7 +773,9 @@
           ]
         },
         {
-          "transcription": "waay̓aqstuʔaƛs",
+          "transcription": {
+            "default": "waay̓aqstuʔaƛs"
+          },
           "analysis": {
             "default": "wa·ɬ-ʼaqstu(ƛ)-ʼaƛ-s"
           },
@@ -757,7 +809,9 @@
           ]
         },
         {
-          "transcription": "k̓atšiƛquu",
+          "transcription": {
+            "default": "k̓atšiƛquu"
+          },
           "analysis": {
             "default": "k̓at-šiƛ-quː"
           },
@@ -785,7 +839,9 @@
           ]
         },
         {
-          "transcription": "n̓aacsaqḥʔaƛ",
+          "transcription": {
+            "default": "n̓aacsaqḥʔaƛ"
+          },
           "analysis": {
             "default": "n̓aːcsa-qḥ-ʼaƛ"
           },
@@ -813,7 +869,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -829,7 +887,9 @@
           ]
         },
         {
-          "transcription": "wiky̓uu",
+          "transcription": {
+            "default": "wiky̓uu"
+          },
           "analysis": {
             "default": "wiky̓uː"
           },
@@ -845,7 +905,9 @@
           ]
         },
         {
-          "transcription": "haaw̓acaqšiƛ",
+          "transcription": {
+            "default": "haaw̓acaqšiƛ"
+          },
           "analysis": {
             "default": "haw̓a-ca·q-šiƛ"
           },
@@ -885,7 +947,9 @@
       "translation": "“Come in, come in. Sit down and have something to eat,” they told him.",
       "words": [
         {
-          "transcription": "mačinuʔi",
+          "transcription": {
+            "default": "mačinuʔi"
+          },
           "analysis": {
             "default": "mač-inu-ʼi·"
           },
@@ -913,7 +977,9 @@
           ]
         },
         {
-          "transcription": "mačinuʔi",
+          "transcription": {
+            "default": "mačinuʔi"
+          },
           "analysis": {
             "default": "mač-inu-ʼi·"
           },
@@ -941,7 +1007,9 @@
           ]
         },
         {
-          "transcription": "t̓iqʷiɬʔi",
+          "transcription": {
+            "default": "t̓iqʷiɬʔi"
+          },
           "analysis": {
             "default": "t̓iqʷ-ʽiɬ-ʼi·"
           },
@@ -969,7 +1037,9 @@
           ]
         },
         {
-          "transcription": "haʔukʔaqƛ̓ick",
+          "transcription": {
+            "default": "haʔukʔaqƛ̓ick"
+          },
           "analysis": {
             "default": "haʔuk-ʔa·qƛ-ʔick"
           },
@@ -997,7 +1067,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ̓at",
+          "transcription": {
+            "default": "waaʔaƛ̓at"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ-ʼat"
           },
@@ -1037,7 +1109,9 @@
       "translation": "Son of Raven sat down.",
       "words": [
         {
-          "transcription": "t̓iqpiƛ",
+          "transcription": {
+            "default": "t̓iqpiƛ"
+          },
           "analysis": {
             "default": "t̓iqs-ʽpiƛ"
           },
@@ -1059,7 +1133,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -1093,7 +1169,9 @@
       "translation": "He was happy he was going to eat.",
       "words": [
         {
-          "transcription": "našaak̓aƛ",
+          "transcription": {
+            "default": "našaak̓aƛ"
+          },
           "analysis": {
             "default": "našaːk-ʼaƛ"
           },
@@ -1115,7 +1193,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -1137,7 +1217,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -1153,7 +1235,9 @@
           ]
         },
         {
-          "transcription": "haʔuk̓ʷit̓as",
+          "transcription": {
+            "default": "haʔuk̓ʷit̓as"
+          },
           "analysis": {
             "default": "haʔuk-w̓it̓as"
           },
@@ -1187,7 +1271,9 @@
       "translation": "“I wonder what we are going to have,” he thought to himself looking around.",
       "words": [
         {
-          "transcription": "qʷiʔiicw̓it̓asiiwaʔič̓in",
+          "transcription": {
+            "default": "qʷiʔiicw̓it̓asiiwaʔič̓in"
+          },
           "analysis": {
             "default": "qʷi-ʼi·c-w̓it̓as-(y)iː-wa·ʔič̓in"
           },
@@ -1227,7 +1313,9 @@
           ]
         },
         {
-          "transcription": "wawaay̓aqƛ̓aƛ",
+          "transcription": {
+            "default": "wawaay̓aqƛ̓aƛ"
+          },
           "analysis": {
             "default": "DUPCV-wa·ɬ-ʼaqƛ-ʼaƛ"
           },
@@ -1261,7 +1349,9 @@
           ]
         },
         {
-          "transcription": "n̓an̓aačmaɬapiqḥ",
+          "transcription": {
+            "default": "n̓an̓aačmaɬapiqḥ"
+          },
           "analysis": {
             "default": "DUPCV-n̓ač-maɬ-api-(q)ḥ"
           },
@@ -1313,7 +1403,9 @@
       "translation": "Son of Snipe went out and headed for the river.",
       "words": [
         {
-          "transcription": "hiniiʔas",
+          "transcription": {
+            "default": "hiniiʔas"
+          },
           "analysis": {
             "default": "hin-iːʔas"
           },
@@ -1335,7 +1427,9 @@
           ]
         },
         {
-          "transcription": "waasniipm̓it",
+          "transcription": {
+            "default": "waasniipm̓it"
+          },
           "analysis": {
             "default": "waːsniːp-m̓i·t"
           },
@@ -1357,7 +1451,9 @@
           ]
         },
         {
-          "transcription": "ʔucaḥtačiƛ",
+          "transcription": {
+            "default": "ʔucaḥtačiƛ"
+          },
           "analysis": {
             "default": "ʔu-ca-ḥta-čiƛ"
           },
@@ -1391,7 +1487,9 @@
           ]
         },
         {
-          "transcription": "c̓aʔakʔi",
+          "transcription": {
+            "default": "c̓aʔakʔi"
+          },
           "analysis": {
             "default": "c̓aʔak-ʔi·"
           },
@@ -1425,7 +1523,9 @@
       "translation": "He waded into the river.",
       "words": [
         {
-          "transcription": "tumqšiƛ",
+          "transcription": {
+            "default": "tumqšiƛ"
+          },
           "analysis": {
             "default": "tumq-šiƛ"
           },
@@ -1459,7 +1559,9 @@
       "translation": "Son of Raven watched.",
       "words": [
         {
-          "transcription": "n̓aacsaaƛ",
+          "transcription": {
+            "default": "n̓aacsaaƛ"
+          },
           "analysis": {
             "default": "n̓aːcsa-ʼaƛ"
           },
@@ -1481,7 +1583,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -1515,7 +1619,9 @@
       "translation": "“Hand me the bowl,” said Son of Snipe.",
       "words": [
         {
-          "transcription": "kaaʔa",
+          "transcription": {
+            "default": "kaaʔa"
+          },
           "analysis": {
             "default": "kaːʔa"
           },
@@ -1531,7 +1637,9 @@
           ]
         },
         {
-          "transcription": "ḥačw̓aḥs",
+          "transcription": {
+            "default": "ḥačw̓aḥs"
+          },
           "analysis": {
             "default": "ḥačw̓aḥs"
           },
@@ -1547,7 +1655,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -1569,7 +1679,9 @@
           ]
         },
         {
-          "transcription": "waasniipm̓it",
+          "transcription": {
+            "default": "waasniipm̓it"
+          },
           "analysis": {
             "default": "waːsniːp-m̓i·t"
           },
@@ -1603,7 +1715,9 @@
       "translation": "He took the bowl and stepped into it.",
       "words": [
         {
-          "transcription": "sukʷiƛ",
+          "transcription": {
+            "default": "sukʷiƛ"
+          },
           "analysis": {
             "default": "sukʷiƛ"
           },
@@ -1619,7 +1733,9 @@
           ]
         },
         {
-          "transcription": "ḥačw̓aḥsʔi",
+          "transcription": {
+            "default": "ḥačw̓aḥsʔi"
+          },
           "analysis": {
             "default": "ḥačw̓aḥs-ʔi·"
           },
@@ -1641,7 +1757,9 @@
           ]
         },
         {
-          "transcription": "yac̓aḥsiƛ",
+          "transcription": {
+            "default": "yac̓aḥsiƛ"
+          },
           "analysis": {
             "default": "yac-ʼaḥs-iƛ"
           },
@@ -1681,7 +1799,9 @@
       "translation": "Then he took a rock and hit his shin bone.",
       "words": [
         {
-          "transcription": "sukʷiʔaƛ",
+          "transcription": {
+            "default": "sukʷiʔaƛ"
+          },
           "analysis": {
             "default": "sukʷi(ƛ)-ʼaƛ"
           },
@@ -1703,7 +1823,9 @@
           ]
         },
         {
-          "transcription": "m̓uksy̓i",
+          "transcription": {
+            "default": "m̓uksy̓i"
+          },
           "analysis": {
             "default": "m̓uksy̓i"
           },
@@ -1719,7 +1841,9 @@
           ]
         },
         {
-          "transcription": "hisšiʔaƛ",
+          "transcription": {
+            "default": "hisšiʔaƛ"
+          },
           "analysis": {
             "default": "his-ši(ƛ)-ʼaƛ"
           },
@@ -1747,7 +1871,9 @@
           ]
         },
         {
-          "transcription": "ʕišiiʔatʔi",
+          "transcription": {
+            "default": "ʕišiiʔatʔi"
+          },
           "analysis": {
             "default": "ʕišiː-ʼat-ʔi·"
           },
@@ -1787,7 +1913,9 @@
       "translation": "Out poured fish eggs.",
       "words": [
         {
-          "transcription": "tuuwaas",
+          "transcription": {
+            "default": "tuuwaas"
+          },
           "analysis": {
             "default": "tu-wa·s"
           },
@@ -1809,7 +1937,9 @@
           ]
         },
         {
-          "transcription": "nixtin",
+          "transcription": {
+            "default": "nixtin"
+          },
           "analysis": {
             "default": "nixtin"
           },
@@ -1837,7 +1967,9 @@
       "translation": "It soon filled up his bowl.",
       "words": [
         {
-          "transcription": "k̓ačšiƛ̓is",
+          "transcription": {
+            "default": "k̓ačšiƛ̓is"
+          },
           "analysis": {
             "default": "k̓ač-šiƛ-ʔis"
           },
@@ -1865,7 +1997,9 @@
           ]
         },
         {
-          "transcription": "k̓aminƛuk",
+          "transcription": {
+            "default": "k̓aminƛuk"
+          },
           "analysis": {
             "default": "k̓ama-inƛ-uk"
           },
@@ -1893,7 +2027,9 @@
           ]
         },
         {
-          "transcription": "ḥačw̓aḥsukʔi",
+          "transcription": {
+            "default": "ḥačw̓aḥsukʔi"
+          },
           "analysis": {
             "default": "ḥačw̓aḥs-uk-ʔi·"
           },
@@ -1933,7 +2069,9 @@
       "translation": "He started to cook them.",
       "words": [
         {
-          "transcription": "siqiiɬšiƛ",
+          "transcription": {
+            "default": "siqiiɬšiƛ"
+          },
           "analysis": {
             "default": "siq-iːɬ-šiƛ"
           },
@@ -1973,7 +2111,9 @@
       "translation": "They got cooked, and he set them before Son of Raven.",
       "words": [
         {
-          "transcription": "siqačiƛuk",
+          "transcription": {
+            "default": "siqačiƛuk"
+          },
           "analysis": {
             "default": "siq-ačiƛ-uk"
           },
@@ -2001,7 +2141,9 @@
           ]
         },
         {
-          "transcription": "č̓amaḥuup̓aƛ̓at",
+          "transcription": {
+            "default": "č̓amaḥuup̓aƛ̓at"
+          },
           "analysis": {
             "default": "č̓am-aḥuːp-ʼaƛ-ʼat"
           },
@@ -2035,7 +2177,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -2069,7 +2213,9 @@
       "translation": "He ate and ate, and it didn’t take him long to empty the dish.",
       "words": [
         {
-          "transcription": "haʔukšiƛ",
+          "transcription": {
+            "default": "haʔukšiƛ"
+          },
           "analysis": {
             "default": "haʔuk-šiƛ"
           },
@@ -2091,7 +2237,9 @@
           ]
         },
         {
-          "transcription": "haʔukšiƛ",
+          "transcription": {
+            "default": "haʔukšiƛ"
+          },
           "analysis": {
             "default": "haʔuk-šiƛ"
           },
@@ -2113,7 +2261,9 @@
           ]
         },
         {
-          "transcription": "k̓ačšit̓is",
+          "transcription": {
+            "default": "k̓ačšit̓is"
+          },
           "analysis": {
             "default": "k̓ač-šiƛ-ʔis"
           },
@@ -2141,7 +2291,9 @@
           ]
         },
         {
-          "transcription": "wik̓aḥsip",
+          "transcription": {
+            "default": "wik̓aḥsip"
+          },
           "analysis": {
             "default": "wik-ʼaḥs-ip"
           },
@@ -2181,7 +2333,9 @@
       "translation": "“Some more, some more,” he started to say, asking for more.",
       "words": [
         {
-          "transcription": "ƛaʔuu",
+          "transcription": {
+            "default": "ƛaʔuu"
+          },
           "analysis": {
             "default": "ƛaʔuː"
           },
@@ -2197,7 +2351,9 @@
           ]
         },
         {
-          "transcription": "ƛaʔuu",
+          "transcription": {
+            "default": "ƛaʔuu"
+          },
           "analysis": {
             "default": "ƛaʔuː"
           },
@@ -2213,7 +2369,9 @@
           ]
         },
         {
-          "transcription": "wawiičiʔaƛ",
+          "transcription": {
+            "default": "wawiičiʔaƛ"
+          },
           "analysis": {
             "default": "wawaː-ʽi·či(ƛ)-ʼaƛ"
           },
@@ -2241,7 +2399,9 @@
           ]
         },
         {
-          "transcription": "ƛaayumč",
+          "transcription": {
+            "default": "ƛaayumč"
+          },
           "analysis": {
             "default": "ƛaya-ʔum-č"
           },
@@ -2281,7 +2441,9 @@
       "translation": "They filled his dish again, and again he finished them in no time.",
       "words": [
         {
-          "transcription": "huʔaasʔatuk",
+          "transcription": {
+            "default": "huʔaasʔatuk"
+          },
           "analysis": {
             "default": "huʔa-ʔa·s-ʼat-uk"
           },
@@ -2315,7 +2477,9 @@
           ]
         },
         {
-          "transcription": "k̓amaaqsip̓atuk",
+          "transcription": {
+            "default": "k̓amaaqsip̓atuk"
+          },
           "analysis": {
             "default": "k̓ama-qs-ip-ʼat-uk"
           },
@@ -2355,7 +2519,9 @@
           ]
         },
         {
-          "transcription": "k̓učšiƛ̓ic̓aƛƛa",
+          "transcription": {
+            "default": "k̓učšiƛ̓ic̓aƛƛa"
+          },
           "analysis": {
             "default": "k̓uč-šiƛ-ʔic-ʼaƛ-ƛa·"
           },
@@ -2395,7 +2561,9 @@
           ]
         },
         {
-          "transcription": "wik̓aḥsip",
+          "transcription": {
+            "default": "wik̓aḥsip"
+          },
           "analysis": {
             "default": "wik-ʼaḥs-ip"
           },
@@ -2435,7 +2603,9 @@
       "translation": "He ate too much as usual. He got sleepy, lay down and went to sleep.",
       "words": [
         {
-          "transcription": "haahaaw̓apuʔaƛ̓um",
+          "transcription": {
+            "default": "haahaaw̓apuʔaƛ̓um"
+          },
           "analysis": {
             "default": "DUPCVː-haw̓a-api-u(ƛ)-ʼaƛ-ʔum"
           },
@@ -2481,7 +2651,9 @@
           ]
         },
         {
-          "transcription": "puuʕaɬʔatuučiƛ",
+          "transcription": {
+            "default": "puuʕaɬʔatuučiƛ"
+          },
           "analysis": {
             "default": "puʕaɬʔatu-ʽi·čiƛ"
           },
@@ -2503,7 +2675,9 @@
           ]
         },
         {
-          "transcription": "c̓itkpiƛ",
+          "transcription": {
+            "default": "c̓itkpiƛ"
+          },
           "analysis": {
             "default": "c̓itkʷ-ʽpiƛ"
           },
@@ -2525,7 +2699,9 @@
           ]
         },
         {
-          "transcription": "waʔičuƛ",
+          "transcription": {
+            "default": "waʔičuƛ"
+          },
           "analysis": {
             "default": "waʔič-uƛ"
           },
@@ -2559,7 +2735,9 @@
       "translation": "He slept a long time.",
       "words": [
         {
-          "transcription": "qii",
+          "transcription": {
+            "default": "qii"
+          },
           "analysis": {
             "default": "qiː"
           },
@@ -2575,7 +2753,9 @@
           ]
         },
         {
-          "transcription": "waʔič",
+          "transcription": {
+            "default": "waʔič"
+          },
           "analysis": {
             "default": "waʔič"
           },
@@ -2603,7 +2783,9 @@
       "translation": "Then he woke up.",
       "words": [
         {
-          "transcription": "ƛumkšiʔaƛ",
+          "transcription": {
+            "default": "ƛumkšiʔaƛ"
+          },
           "analysis": {
             "default": "ƛumk-ši(ƛ)-ʼaƛ"
           },
@@ -2643,7 +2825,9 @@
       "translation": "“OK, I want to pay you back by inviting you for a meal,” he said to Son of snipe. “Come for a meal at midday tomorrow.”",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -2659,7 +2843,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -2681,7 +2867,9 @@
           ]
         },
         {
-          "transcription": "ḥaʔukʷiƛmaḥsas",
+          "transcription": {
+            "default": "ḥaʔukʷiƛmaḥsas"
+          },
           "analysis": {
             "default": "ḥaʔu-kʷiƛ-maḥsa-s"
           },
@@ -2715,7 +2903,9 @@
           ]
         },
         {
-          "transcription": "suw̓a",
+          "transcription": {
+            "default": "suw̓a"
+          },
           "analysis": {
             "default": "suw̓a"
           },
@@ -2731,7 +2921,9 @@
           ]
         },
         {
-          "transcription": "haaw̓awiiqš",
+          "transcription": {
+            "default": "haaw̓awiiqš"
+          },
           "analysis": {
             "default": "haw̓a-awiːqš"
           },
@@ -2753,7 +2945,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -2775,7 +2969,9 @@
           ]
         },
         {
-          "transcription": "ʔuukʷiɬ",
+          "transcription": {
+            "default": "ʔuukʷiɬ"
+          },
           "analysis": {
             "default": "ʔu-kʷiɬ"
           },
@@ -2797,7 +2993,9 @@
           ]
         },
         {
-          "transcription": "waasniipm̓it",
+          "transcription": {
+            "default": "waasniipm̓it"
+          },
           "analysis": {
             "default": "waːsniːp-m̓i·t"
           },
@@ -2819,7 +3017,9 @@
           ]
         },
         {
-          "transcription": "w̓aqʔuuʔum",
+          "transcription": {
+            "default": "w̓aqʔuuʔum"
+          },
           "analysis": {
             "default": "w̓aqʔuː-ʼum"
           },
@@ -2841,7 +3041,9 @@
           ]
         },
         {
-          "transcription": "ʔuyi",
+          "transcription": {
+            "default": "ʔuyi"
+          },
           "analysis": {
             "default": "ʔuyi"
           },
@@ -2857,7 +3059,9 @@
           ]
         },
         {
-          "transcription": "ʔam̓ii",
+          "transcription": {
+            "default": "ʔam̓ii"
+          },
           "analysis": {
             "default": "ʔam̓iː"
           },
@@ -2873,7 +3077,9 @@
           ]
         },
         {
-          "transcription": "ʔapw̓anuʔaƛquu",
+          "transcription": {
+            "default": "ʔapw̓anuʔaƛquu"
+          },
           "analysis": {
             "default": "ʔap-w̓ana-u(ƛ)-ʼaƛ-quː"
           },
@@ -2913,7 +3119,9 @@
           ]
         },
         {
-          "transcription": "n̓aas",
+          "transcription": {
+            "default": "n̓aas"
+          },
           "analysis": {
             "default": "n̓aːs"
           },
@@ -2941,7 +3149,9 @@
       "translation": "“OK, I will come for a meal,” said Son of Snipe.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -2957,7 +3167,9 @@
           ]
         },
         {
-          "transcription": "w̓aqʔuuʔaqƛs",
+          "transcription": {
+            "default": "w̓aqʔuuʔaqƛs"
+          },
           "analysis": {
             "default": "w̓aqʔuː-ʔaqƛ-s"
           },
@@ -2985,7 +3197,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -3007,7 +3221,9 @@
           ]
         },
         {
-          "transcription": "waasniipm̓it",
+          "transcription": {
+            "default": "waasniipm̓it"
+          },
           "analysis": {
             "default": "waːsniːp-m̓it"
           },
@@ -3041,7 +3257,9 @@
       "translation": "Next day came, and Son of Snipe started off to go to the meal.",
       "words": [
         {
-          "transcription": "ʔam̓iičiƛ",
+          "transcription": {
+            "default": "ʔam̓iičiƛ"
+          },
           "analysis": {
             "default": "ʔam̓iː-čiƛ"
           },
@@ -3063,7 +3281,9 @@
           ]
         },
         {
-          "transcription": "yaacšiƛ",
+          "transcription": {
+            "default": "yaacšiƛ"
+          },
           "analysis": {
             "default": "yac-šiƛ"
           },
@@ -3085,7 +3305,9 @@
           ]
         },
         {
-          "transcription": "w̓aqʔuu",
+          "transcription": {
+            "default": "w̓aqʔuu"
+          },
           "analysis": {
             "default": "w̓aqʔuː"
           },
@@ -3101,7 +3323,9 @@
           ]
         },
         {
-          "transcription": "waasniipm̓it",
+          "transcription": {
+            "default": "waasniipm̓it"
+          },
           "analysis": {
             "default": "waːsniːp-m̓i·t"
           },
@@ -3135,7 +3359,9 @@
       "translation": "He arrived there.",
       "words": [
         {
-          "transcription": "hinin",
+          "transcription": {
+            "default": "hinin"
+          },
           "analysis": {
             "default": "hin-in"
           },
@@ -3169,7 +3395,9 @@
       "translation": "“Come in, sit down,” he (Raven) told him (Snipe).",
       "words": [
         {
-          "transcription": "mačinuʔi",
+          "transcription": {
+            "default": "mačinuʔi"
+          },
           "analysis": {
             "default": "mač-inu-ʼi·"
           },
@@ -3197,7 +3425,9 @@
           ]
         },
         {
-          "transcription": "mačinuʔi",
+          "transcription": {
+            "default": "mačinuʔi"
+          },
           "analysis": {
             "default": "mač-inu-ʼi·"
           },
@@ -3225,7 +3455,9 @@
           ]
         },
         {
-          "transcription": "t̓iqʷiɬʔi",
+          "transcription": {
+            "default": "t̓iqʷiɬʔi"
+          },
           "analysis": {
             "default": "t̓iqʷ-ʽiɬ-ʼi·"
           },
@@ -3253,7 +3485,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ̓at",
+          "transcription": {
+            "default": "waaʔaƛ̓at"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ-ʼat"
           },
@@ -3293,7 +3527,9 @@
       "translation": "Son of Snipe sat down.",
       "words": [
         {
-          "transcription": "t̓iqpiƛ",
+          "transcription": {
+            "default": "t̓iqpiƛ"
+          },
           "analysis": {
             "default": "t̓iqʷ-ʽpiƛ"
           },
@@ -3315,7 +3551,9 @@
           ]
         },
         {
-          "transcription": "waasniipm̓it",
+          "transcription": {
+            "default": "waasniipm̓it"
+          },
           "analysis": {
             "default": "waːsniːp-m̓i·t"
           },
@@ -3349,7 +3587,9 @@
       "translation": "There were many tribe members there to watch.",
       "words": [
         {
-          "transcription": "ʔayaaƛ",
+          "transcription": {
+            "default": "ʔayaaƛ"
+          },
           "analysis": {
             "default": "ʔaya"
           },
@@ -3365,7 +3605,9 @@
           ]
         },
         {
-          "transcription": "yaaʔay̓as",
+          "transcription": {
+            "default": "yaaʔay̓as"
+          },
           "analysis": {
             "default": "yaːʔaɬ-ʼa·s"
           },
@@ -3387,7 +3629,9 @@
           ]
         },
         {
-          "transcription": "yaqčiʔatḥʔitq",
+          "transcription": {
+            "default": "yaqčiʔatḥʔitq"
+          },
           "analysis": {
             "default": "yaq-či-ʼatḥ-ʔi·tq"
           },
@@ -3433,7 +3677,9 @@
       "translation": "They knew that things never worked out for him (Raven), because he always imitated what other people did.",
       "words": [
         {
-          "transcription": "huḥtakʔaɬ",
+          "transcription": {
+            "default": "huḥtakʔaɬ"
+          },
           "analysis": {
             "default": "huḥtak-ʔa·ɬ"
           },
@@ -3455,7 +3701,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -3471,7 +3719,9 @@
           ]
         },
         {
-          "transcription": "wiiy̓a",
+          "transcription": {
+            "default": "wiiy̓a"
+          },
           "analysis": {
             "default": "wiːy̓a"
           },
@@ -3487,7 +3737,9 @@
           ]
         },
         {
-          "transcription": "wik",
+          "transcription": {
+            "default": "wik"
+          },
           "analysis": {
             "default": "wik"
           },
@@ -3503,7 +3755,9 @@
           ]
         },
         {
-          "transcription": "wičsiɬa",
+          "transcription": {
+            "default": "wičsiɬa"
+          },
           "analysis": {
             "default": "wič-siɬa"
           },
@@ -3525,7 +3779,9 @@
           ]
         },
         {
-          "transcription": "c̓iic̓ik̓iik",
+          "transcription": {
+            "default": "c̓iic̓ik̓iik"
+          },
           "analysis": {
             "default": "DUPCV-c̓iːk-S-ʼiːk"
           },
@@ -3571,7 +3827,9 @@
       "translation": "He headed for the river, too [just as Snipe did].",
       "words": [
         {
-          "transcription": "ʔucaḥtačiƛ",
+          "transcription": {
+            "default": "ʔucaḥtačiƛ"
+          },
           "analysis": {
             "default": "ʔu-ca-ḥta-čiƛ"
           },
@@ -3605,7 +3863,9 @@
           ]
         },
         {
-          "transcription": "c̓aʔakʔi",
+          "transcription": {
+            "default": "c̓aʔakʔi"
+          },
           "analysis": {
             "default": "c̓aʔak-ʔi·"
           },
@@ -3627,7 +3887,9 @@
           ]
         },
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -3655,7 +3917,9 @@
       "translation": "He is going to imitate as usual they started saying.",
       "words": [
         {
-          "transcription": "c̓iikaɬšiƛ̓asʔaƛ̓itaʔum",
+          "transcription": {
+            "default": "c̓iikaɬšiƛ̓asʔaƛ̓itaʔum"
+          },
           "analysis": {
             "default": "c̓iːk-ʔaɬ-šiƛ-ʼa·s-ʼaƛ-ʔita-ʔum"
           },
@@ -3707,7 +3971,9 @@
           ]
         },
         {
-          "transcription": "waaɬc̓an̓aqšiƛ̓aɬ",
+          "transcription": {
+            "default": "waaɬc̓an̓aqšiƛ̓aɬ"
+          },
           "analysis": {
             "default": "wa·ɬ-c̓an̓aq-šiƛ-ʔa·ɬ"
           },
@@ -3753,7 +4019,9 @@
       "translation": "He stepped into the water, started asking for a bowl to his wife Paashuk.",
       "words": [
         {
-          "transcription": "yaacsitsaƛ",
+          "transcription": {
+            "default": "yaacsitsaƛ"
+          },
           "analysis": {
             "default": "yac-sit-ʽsaƛ"
           },
@@ -3781,7 +4049,9 @@
           ]
         },
         {
-          "transcription": "ʔuukščiʔaƛ",
+          "transcription": {
+            "default": "ʔuukščiʔaƛ"
+          },
           "analysis": {
             "default": "ʔu-kš-či(ƛ)-ʼaƛ"
           },
@@ -3815,7 +4085,9 @@
           ]
         },
         {
-          "transcription": "ḥačw̓aḥs",
+          "transcription": {
+            "default": "ḥačw̓aḥs"
+          },
           "analysis": {
             "default": "ḥačw̓aḥs"
           },
@@ -3831,7 +4103,9 @@
           ]
         },
         {
-          "transcription": "ɬuucmaʔisukʔi",
+          "transcription": {
+            "default": "ɬuucmaʔisukʔi"
+          },
           "analysis": {
             "default": "ɬuːcma-ʔis-uk-ʔi·"
           },
@@ -3865,7 +4139,9 @@
           ]
         },
         {
-          "transcription": "paasḥuk",
+          "transcription": {
+            "default": "paasḥuk"
+          },
           "analysis": {
             "default": "paːšhuk"
           },
@@ -3893,7 +4169,9 @@
       "translation": "She ran around, as she was always so obedient to her husband.",
       "words": [
         {
-          "transcription": "kakumtqmaɬapiʔic̓aƛ",
+          "transcription": {
+            "default": "kakumtqmaɬapiʔic̓aƛ"
+          },
           "analysis": {
             "default": "DUPCV-kamatqʷ-maɬ-api-ʔic-ʼaƛ"
           },
@@ -3939,7 +4217,9 @@
           ]
         },
         {
-          "transcription": "ʔuuʔumap̓iik",
+          "transcription": {
+            "default": "ʔuuʔumap̓iik"
+          },
           "analysis": {
             "default": "DUPCVː-ʔu-ma·p-ʼiːk"
           },
@@ -3973,7 +4253,9 @@
           ]
         },
         {
-          "transcription": "čakupuk",
+          "transcription": {
+            "default": "čakupuk"
+          },
           "analysis": {
             "default": "čakup-uk"
           },
@@ -4007,7 +4289,9 @@
       "translation": "Son of Raven stepped into the bowl, and took a rock.",
       "words": [
         {
-          "transcription": "yac̓aḥsiƛ",
+          "transcription": {
+            "default": "yac̓aḥsiƛ"
+          },
           "analysis": {
             "default": "yac-ʼaḥs-iƛ"
           },
@@ -4035,7 +4319,9 @@
           ]
         },
         {
-          "transcription": "ḥačw̓aḥsʔi",
+          "transcription": {
+            "default": "ḥačw̓aḥsʔi"
+          },
           "analysis": {
             "default": "ḥačw̓aḥs-ʔi·"
           },
@@ -4057,7 +4343,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -4079,7 +4367,9 @@
           ]
         },
         {
-          "transcription": "sukʷiƛ",
+          "transcription": {
+            "default": "sukʷiƛ"
+          },
           "analysis": {
             "default": "sukʷiƛ"
           },
@@ -4095,7 +4385,9 @@
           ]
         },
         {
-          "transcription": "m̓uksy̓i",
+          "transcription": {
+            "default": "m̓uksy̓i"
+          },
           "analysis": {
             "default": "m̓uksy̓i"
           },
@@ -4123,7 +4415,9 @@
       "translation": "He hit and hit his shin bone, but there was no egg.",
       "words": [
         {
-          "transcription": "hisšiʔaƛ",
+          "transcription": {
+            "default": "hisšiʔaƛ"
+          },
           "analysis": {
             "default": "his-ši(ƛ)-ʼaƛ"
           },
@@ -4151,7 +4445,9 @@
           ]
         },
         {
-          "transcription": "hisšiƛ",
+          "transcription": {
+            "default": "hisšiƛ"
+          },
           "analysis": {
             "default": "his-šiƛ"
           },
@@ -4173,7 +4469,9 @@
           ]
         },
         {
-          "transcription": "ʕišiiʔatʔi",
+          "transcription": {
+            "default": "ʕišiiʔatʔi"
+          },
           "analysis": {
             "default": "ʕišiː-ʼat-ʔi·"
           },
@@ -4201,7 +4499,9 @@
           ]
         },
         {
-          "transcription": "wik̓iit",
+          "transcription": {
+            "default": "wik̓iit"
+          },
           "analysis": {
             "default": "wik̓iːt"
           },
@@ -4217,7 +4517,9 @@
           ]
         },
         {
-          "transcription": "nixtinquu",
+          "transcription": {
+            "default": "nixtinquu"
+          },
           "analysis": {
             "default": "nixtin-quː"
           },
@@ -4251,7 +4553,9 @@
       "translation": "He started to hit harder and harder, and his shin got swollen.",
       "words": [
         {
-          "transcription": "waaɬak",
+          "transcription": {
+            "default": "waaɬak"
+          },
           "analysis": {
             "default": "waːɬak"
           },
@@ -4267,7 +4571,9 @@
           ]
         },
         {
-          "transcription": "ʕaaʕiqšiƛa",
+          "transcription": {
+            "default": "ʕaaʕiqšiƛa"
+          },
           "analysis": {
             "default": "DUPCVː-ʕiq-šiƛ-(y)a"
           },
@@ -4295,7 +4601,9 @@
           ]
         },
         {
-          "transcription": "xʷakšiʔaƛ̓at",
+          "transcription": {
+            "default": "xʷakšiʔaƛ̓at"
+          },
           "analysis": {
             "default": "xʷak-ši(ƛ)-ʼaƛ-ʼat"
           },
@@ -4329,7 +4637,9 @@
           ]
         },
         {
-          "transcription": "ʕišii",
+          "transcription": {
+            "default": "ʕišii"
+          },
           "analysis": {
             "default": "ʕišiː"
           },
@@ -4357,7 +4667,9 @@
       "translation": "He couldn’t keep quiet any longer, and said “ouch, ouch, ouch, ouch” as he hopped around holding his shin.",
       "words": [
         {
-          "transcription": "wim̓aaqstʔaƛ",
+          "transcription": {
+            "default": "wim̓aaqstʔaƛ"
+          },
           "analysis": {
             "default": "wim̓aːqstu(ƛ)-ʼaƛ"
           },
@@ -4379,7 +4691,9 @@
           ]
         },
         {
-          "transcription": "wikʕaƛquu",
+          "transcription": {
+            "default": "wikʕaƛquu"
+          },
           "analysis": {
             "default": "wik-ʕaƛ-quː"
           },
@@ -4407,7 +4721,9 @@
           ]
         },
         {
-          "transcription": "ʔaaw",
+          "transcription": {
+            "default": "ʔaaw"
+          },
           "analysis": {
             "default": "ʔaːw"
           },
@@ -4423,7 +4739,9 @@
           ]
         },
         {
-          "transcription": "ʔaaw",
+          "transcription": {
+            "default": "ʔaaw"
+          },
           "analysis": {
             "default": "ʔaːw"
           },
@@ -4439,7 +4757,9 @@
           ]
         },
         {
-          "transcription": "ʔaaw",
+          "transcription": {
+            "default": "ʔaaw"
+          },
           "analysis": {
             "default": "ʔaːw"
           },
@@ -4455,7 +4775,9 @@
           ]
         },
         {
-          "transcription": "ʔaaw",
+          "transcription": {
+            "default": "ʔaaw"
+          },
           "analysis": {
             "default": "ʔaːw"
           },
@@ -4471,7 +4793,9 @@
           ]
         },
         {
-          "transcription": "wawaa",
+          "transcription": {
+            "default": "wawaa"
+          },
           "analysis": {
             "default": "wawaː"
           },
@@ -4487,7 +4811,9 @@
           ]
         },
         {
-          "transcription": "tuxtuxmis",
+          "transcription": {
+            "default": "tuxtuxmis"
+          },
           "analysis": {
             "default": "DUP#-tuxʷ-mi·s"
           },
@@ -4515,7 +4841,9 @@
           ]
         },
         {
-          "transcription": "suu",
+          "transcription": {
+            "default": "suu"
+          },
           "analysis": {
             "default": "suː"
           },
@@ -4531,7 +4859,9 @@
           ]
         },
         {
-          "transcription": "ʕišiiʔatʔi",
+          "transcription": {
+            "default": "ʕišiiʔatʔi"
+          },
           "analysis": {
             "default": "ʕišiː-ʼat-ʔi·"
           },
@@ -4571,7 +4901,9 @@
       "translation": "“Son of Raven certainly never learns,” someone said. “Copy cat,” they kept laughing as they went home.",
       "words": [
         {
-          "transcription": "wiiy̓aʔaaš",
+          "transcription": {
+            "default": "wiiy̓aʔaaš"
+          },
           "analysis": {
             "default": "wiːy̓a-ʔaːš"
           },
@@ -4593,7 +4925,9 @@
           ]
         },
         {
-          "transcription": "ʕam̓aak̓ʷaɬ",
+          "transcription": {
+            "default": "ʕam̓aak̓ʷaɬ"
+          },
           "analysis": {
             "default": "ʕam̓aːk̓ʷaɬ"
           },
@@ -4609,7 +4943,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -4631,7 +4967,9 @@
           ]
         },
         {
-          "transcription": "waanaak̓aƛ̓aɬ",
+          "transcription": {
+            "default": "waanaak̓aƛ̓aɬ"
+          },
           "analysis": {
             "default": "wa·-na·k-ʼaƛ-ʔa·ɬ"
           },
@@ -4665,7 +5003,9 @@
           ]
         },
         {
-          "transcription": "c̓iic̓ik̓iik",
+          "transcription": {
+            "default": "c̓iic̓ik̓iik"
+          },
           "analysis": {
             "default": "DUPCV-c̓iːk-ʼiːk"
           },
@@ -4693,7 +5033,9 @@
           ]
         },
         {
-          "transcription": "waɬkʷačiƛ",
+          "transcription": {
+            "default": "waɬkʷačiƛ"
+          },
           "analysis": {
             "default": "waɬ-kʷa-čiƛ"
           },
@@ -4721,7 +5063,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓iiw̓aaqičiiɬqčik",
+          "transcription": {
+            "default": "ƛ̓iiw̓aaqičiiɬqčik"
+          },
           "analysis": {
             "default": "ƛ̓iːxʷ-ʼa·qa-ičiːɬ-qčik"
           },
@@ -4767,7 +5111,9 @@
       "translation": "That is the reason Son of Raven’s ankle is swollen.",
       "words": [
         {
-          "transcription": "ʔunw̓iiƛḥʷaʔiš",
+          "transcription": {
+            "default": "ʔunw̓iiƛḥʷaʔiš"
+          },
           "analysis": {
             "default": "ʔunw̓iːƛ-(q)ḥ-wa·ʔi·š"
           },
@@ -4795,7 +5141,9 @@
           ]
         },
         {
-          "transcription": "xʷakyuuʔat",
+          "transcription": {
+            "default": "xʷakyuuʔat"
+          },
           "analysis": {
             "default": "xʷak-yu·-ʼat"
           },
@@ -4823,7 +5171,9 @@
           ]
         },
         {
-          "transcription": "ʕišii",
+          "transcription": {
+            "default": "ʕišii"
+          },
           "analysis": {
             "default": "ʕišiː"
           },
@@ -4839,7 +5189,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -4873,7 +5225,9 @@
       "translation": "Don’t you be a copy cat; you might be embarrassed if you do things wrong.",
       "words": [
         {
-          "transcription": "Motto",
+          "transcription": {
+            "default": "Motto"
+          },
           "analysis": {
             "default": "~"
           },
@@ -4881,7 +5235,9 @@
           "literal": "~"
         },
         {
-          "transcription": "—",
+          "transcription": {
+            "default": "—"
+          },
           "analysis": {
             "default": "—"
           },
@@ -4897,7 +5253,9 @@
           ]
         },
         {
-          "transcription": "wiksuuk",
+          "transcription": {
+            "default": "wiksuuk"
+          },
           "analysis": {
             "default": "wik-suːk"
           },
@@ -4919,7 +5277,9 @@
           ]
         },
         {
-          "transcription": "c̓iikaɬšiƛ",
+          "transcription": {
+            "default": "c̓iikaɬšiƛ"
+          },
           "analysis": {
             "default": "c̓iːk-ʔaɬ-šiƛ"
           },
@@ -4947,7 +5307,9 @@
           ]
         },
         {
-          "transcription": "y̓umḥaacumʔick",
+          "transcription": {
+            "default": "y̓umḥaacumʔick"
+          },
           "analysis": {
             "default": "y̓umḥ-(y)a·-cum-ʔick"
           },
@@ -4981,7 +5343,9 @@
           ]
         },
         {
-          "transcription": "wičsiɬaquuk",
+          "transcription": {
+            "default": "wičsiɬaquuk"
+          },
           "analysis": {
             "default": "wič-siɬa-quː-k"
           },

@@ -17,7 +17,9 @@
       "translation": "Now then, I will tell you a story about how Raven got crooked fingers as a result of imitating what he heard.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -33,7 +35,9 @@
           ]
         },
         {
-          "transcription": "humwic̓aʔaqƛs",
+          "transcription": {
+            "default": "humwic̓aʔaqƛs"
+          },
           "analysis": {
             "default": "humwic̓a-ʔaqƛ-s"
           },
@@ -61,7 +65,9 @@
           ]
         },
         {
-          "transcription": "ʔuuqḥɬi",
+          "transcription": {
+            "default": "ʔuuqḥɬi"
+          },
           "analysis": {
             "default": "ʔu-qḥɬi"
           },
@@ -83,7 +89,9 @@
           ]
         },
         {
-          "transcription": "qʷisḥitiič",
+          "transcription": {
+            "default": "qʷisḥitiič"
+          },
           "analysis": {
             "default": "qʷisḥ-it-(y)iː-č"
           },
@@ -117,7 +125,9 @@
           ]
         },
         {
-          "transcription": "kumtkʷačiʔat",
+          "transcription": {
+            "default": "kumtkʷačiʔat"
+          },
           "analysis": {
             "default": "kumt-kʷa-čiƛ-ʼat"
           },
@@ -151,7 +161,9 @@
           ]
         },
         {
-          "transcription": "quʔušin",
+          "transcription": {
+            "default": "quʔušin"
+          },
           "analysis": {
             "default": "quʔušin"
           },
@@ -167,7 +179,9 @@
           ]
         },
         {
-          "transcription": "kukʷinksi",
+          "transcription": {
+            "default": "kukʷinksi"
+          },
           "analysis": {
             "default": "kukʷinksi"
           },
@@ -183,7 +197,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -199,7 +215,9 @@
           ]
         },
         {
-          "transcription": "c̓iic̓ikiikit",
+          "transcription": {
+            "default": "c̓iic̓ikiikit"
+          },
           "analysis": {
             "default": "c̓iːk-iːkʷ-it"
           },
@@ -227,7 +245,9 @@
           ]
         },
         {
-          "transcription": "naʔaaʔat",
+          "transcription": {
+            "default": "naʔaaʔat"
+          },
           "analysis": {
             "default": "naʔa·-ʼat"
           },
@@ -261,7 +281,9 @@
       "translation": "He would never stop looking for something to eat.",
       "words": [
         {
-          "transcription": "wik̓aƛquuč",
+          "transcription": {
+            "default": "wik̓aƛquuč"
+          },
           "analysis": {
             "default": "wik-ʼaƛ-quː-č"
           },
@@ -295,7 +317,9 @@
           ]
         },
         {
-          "transcription": "wikiičiƛ",
+          "transcription": {
+            "default": "wikiičiƛ"
+          },
           "analysis": {
             "default": "wik-ʼi·či(ƛ)"
           },
@@ -317,7 +341,9 @@
           ]
         },
         {
-          "transcription": "ʔun̓aaḥ",
+          "transcription": {
+            "default": "ʔun̓aaḥ"
+          },
           "analysis": {
             "default": "ʔu-n̓a·ḥ"
           },
@@ -339,7 +365,9 @@
           ]
         },
         {
-          "transcription": "qʷisḥʔaaḥii",
+          "transcription": {
+            "default": "qʷisḥʔaaḥii"
+          },
           "analysis": {
             "default": "qʷisḥ-ʼaːḥ-(y)iː"
           },
@@ -367,7 +395,9 @@
           ]
         },
         {
-          "transcription": "haʔuk",
+          "transcription": {
+            "default": "haʔuk"
+          },
           "analysis": {
             "default": "haʔuk."
           },
@@ -395,7 +425,9 @@
       "translation": "He would sense the smell of food and go any distance (to get food), because he was such a glutton and because he was so greedy.",
       "words": [
         {
-          "transcription": "misp̓uuqsčiʔaƛquuč",
+          "transcription": {
+            "default": "misp̓uuqsčiʔaƛquuč"
+          },
           "analysis": {
             "default": "mis-p̓u·qs-čiƛ-ʼaƛ-quː-č"
           },
@@ -441,7 +473,9 @@
           ]
         },
         {
-          "transcription": "haʔum",
+          "transcription": {
+            "default": "haʔum"
+          },
           "analysis": {
             "default": "haʔum"
           },
@@ -457,7 +491,9 @@
           ]
         },
         {
-          "transcription": "yee",
+          "transcription": {
+            "default": "yee"
+          },
           "analysis": {
             "default": "yeː"
           },
@@ -473,7 +509,9 @@
           ]
         },
         {
-          "transcription": "ʔucačiƛ",
+          "transcription": {
+            "default": "ʔucačiƛ"
+          },
           "analysis": {
             "default": "ʔu-ca-čiƛ"
           },
@@ -501,7 +539,9 @@
           ]
         },
         {
-          "transcription": "ʔusumḥi",
+          "transcription": {
+            "default": "ʔusumḥi"
+          },
           "analysis": {
             "default": "ʔu-sumḥi·"
           },
@@ -523,7 +563,9 @@
           ]
         },
         {
-          "transcription": "haw̓ik",
+          "transcription": {
+            "default": "haw̓ik"
+          },
           "analysis": {
             "default": "haw̓-ʼik"
           },
@@ -545,7 +587,9 @@
           ]
         },
         {
-          "transcription": "ʔusumḥi",
+          "transcription": {
+            "default": "ʔusumḥi"
+          },
           "analysis": {
             "default": "ʔu-sumḥi·"
           },
@@ -567,7 +611,9 @@
           ]
         },
         {
-          "transcription": "ḥanaaqƛ",
+          "transcription": {
+            "default": "ḥanaaqƛ"
+          },
           "analysis": {
             "default": "ḥanaːqƛ"
           },
@@ -595,7 +641,9 @@
       "translation": "Now, he went out for a walk heading to the place where Son of Bear lived, and he smelled that Bear was cooking salmon.",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -611,7 +659,9 @@
           ]
         },
         {
-          "transcription": "ʔucaḥtačiʔaƛwaʔiš",
+          "transcription": {
+            "default": "ʔucaḥtačiʔaƛwaʔiš"
+          },
           "analysis": {
             "default": "ʔu-ca-ḥta-čiƛ-ʼaƛ-wa·ʔi·š"
           },
@@ -657,7 +707,9 @@
           ]
         },
         {
-          "transcription": "yaacpanač",
+          "transcription": {
+            "default": "yaacpanač"
+          },
           "analysis": {
             "default": "yac-panač"
           },
@@ -679,7 +731,9 @@
           ]
         },
         {
-          "transcription": "hiy̓atḥʔitq",
+          "transcription": {
+            "default": "hiy̓atḥʔitq"
+          },
           "analysis": {
             "default": "hiɬ-ʼatḥ-ʔi·tq"
           },
@@ -707,7 +761,9 @@
           ]
         },
         {
-          "transcription": "čumsm̓iit",
+          "transcription": {
+            "default": "čumsm̓iit"
+          },
           "analysis": {
             "default": "čums-m̓i·t"
           },
@@ -729,7 +785,9 @@
           ]
         },
         {
-          "transcription": "naʔaap̓uqsčiƛ",
+          "transcription": {
+            "default": "naʔaap̓uqsčiƛ"
+          },
           "analysis": {
             "default": "naʔa·-p̓u·qs-čiƛ"
           },
@@ -757,7 +815,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -773,7 +833,9 @@
           ]
         },
         {
-          "transcription": "wiqaaʔak",
+          "transcription": {
+            "default": "wiqaaʔak"
+          },
           "analysis": {
             "default": "siq-a·-ʔa·k"
           },
@@ -801,7 +863,9 @@
           ]
         },
         {
-          "transcription": "suuḥaa",
+          "transcription": {
+            "default": "suuḥaa"
+          },
           "analysis": {
             "default": "suːḥaː"
           },
@@ -829,7 +893,9 @@
       "translation": "Well! I was walking around, and I thought to myself “I’m going to pay you all a visit,” [said Raven].",
       "words": [
         {
-          "transcription": "haa",
+          "transcription": {
+            "default": "haa"
+          },
           "analysis": {
             "default": "haː"
           },
@@ -845,7 +911,9 @@
           ]
         },
         {
-          "transcription": "yaacpanačitsiš",
+          "transcription": {
+            "default": "yaacpanačitsiš"
+          },
           "analysis": {
             "default": "yac-panač-it-si·s"
           },
@@ -879,7 +947,9 @@
           ]
         },
         {
-          "transcription": "waay̓aqstuƛs",
+          "transcription": {
+            "default": "waay̓aqstuƛs"
+          },
           "analysis": {
             "default": "wa·ɬ-ʼaqstuƛ-s"
           },
@@ -907,7 +977,9 @@
           ]
         },
         {
-          "transcription": "yacmaasquus",
+          "transcription": {
+            "default": "yacmaasquus"
+          },
           "analysis": {
             "default": "yac-ma·s-quːs-s"
           },
@@ -941,7 +1013,9 @@
           ]
         },
         {
-          "transcription": "siiḥiɬ",
+          "transcription": {
+            "default": "siiḥiɬ"
+          },
           "analysis": {
             "default": "siːḥ-iɬ"
           },
@@ -975,7 +1049,9 @@
       "translation": "“Come in, come in,” they (Bear and his wife) told him, inviting him into the house.",
       "words": [
         {
-          "transcription": "čukʷaa",
+          "transcription": {
+            "default": "čukʷaa"
+          },
           "analysis": {
             "default": "čukʷaː"
           },
@@ -991,7 +1067,9 @@
           ]
         },
         {
-          "transcription": "čukʷaa",
+          "transcription": {
+            "default": "čukʷaa"
+          },
           "analysis": {
             "default": "čukʷaː"
           },
@@ -1007,7 +1085,9 @@
           ]
         },
         {
-          "transcription": "mačinuʔi",
+          "transcription": {
+            "default": "mačinuʔi"
+          },
           "analysis": {
             "default": "mac-inu-ʼi·"
           },
@@ -1035,7 +1115,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ̓at",
+          "transcription": {
+            "default": "waaʔaƛ̓at"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ-ʼat"
           },
@@ -1063,7 +1145,9 @@
           ]
         },
         {
-          "transcription": "mačinup̓at",
+          "transcription": {
+            "default": "mačinup̓at"
+          },
           "analysis": {
             "default": "mač-inup-ʼat"
           },
@@ -1103,7 +1187,9 @@
       "translation": "Then, he entered the house.",
       "words": [
         {
-          "transcription": "hee",
+          "transcription": {
+            "default": "hee"
+          },
           "analysis": {
             "default": "heː"
           },
@@ -1119,7 +1205,9 @@
           ]
         },
         {
-          "transcription": "mačinuʔaƛ",
+          "transcription": {
+            "default": "mačinuʔaƛ"
+          },
           "analysis": {
             "default": "mač-inu-ʼaƛ"
           },
@@ -1159,7 +1247,9 @@
       "translation": "“Go and gt some salmon,” Bear’s little wife told him [her husband]. And Bear went out.",
       "words": [
         {
-          "transcription": "čaʔaaɬči",
+          "transcription": {
+            "default": "čaʔaaɬči"
+          },
           "analysis": {
             "default": "čaʔaːɬ-či·"
           },
@@ -1181,7 +1271,9 @@
           ]
         },
         {
-          "transcription": "suuḥn̓aaḥ",
+          "transcription": {
+            "default": "suuḥn̓aaḥ"
+          },
           "analysis": {
             "default": "suːḥʷ-n̓a·ḥ"
           },
@@ -1203,7 +1295,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -1225,7 +1319,9 @@
           ]
         },
         {
-          "transcription": "ɬuucmaʔisuk",
+          "transcription": {
+            "default": "ɬuucmaʔisuk"
+          },
           "analysis": {
             "default": "ɬuːcma-ʔis-uk"
           },
@@ -1253,7 +1349,9 @@
           ]
         },
         {
-          "transcription": "hiniiʔas",
+          "transcription": {
+            "default": "hiniiʔas"
+          },
           "analysis": {
             "default": "hin-iːʔas"
           },
@@ -1275,7 +1373,9 @@
           ]
         },
         {
-          "transcription": "čumsm̓iit",
+          "transcription": {
+            "default": "čumsm̓iit"
+          },
           "analysis": {
             "default": "čums-m̓it"
           },
@@ -1309,7 +1409,9 @@
       "translation": "He went to the river. He grabbed salmon and went back in the house.",
       "words": [
         {
-          "transcription": "ʔucačiƛ",
+          "transcription": {
+            "default": "ʔucačiƛ"
+          },
           "analysis": {
             "default": "ʔu-ca-čiƛ"
           },
@@ -1337,7 +1439,9 @@
           ]
         },
         {
-          "transcription": "c̓aʔakʔi",
+          "transcription": {
+            "default": "c̓aʔakʔi"
+          },
           "analysis": {
             "default": "c̓aʔak-ʔi·"
           },
@@ -1359,7 +1463,9 @@
           ]
         },
         {
-          "transcription": "suuḥiip",
+          "transcription": {
+            "default": "suuḥiip"
+          },
           "analysis": {
             "default": "suːḥʷ-iːp"
           },
@@ -1381,7 +1487,9 @@
           ]
         },
         {
-          "transcription": "ʕačšiƛ",
+          "transcription": {
+            "default": "ʕačšiƛ"
+          },
           "analysis": {
             "default": "ʕač-šiƛ"
           },
@@ -1403,7 +1511,9 @@
           ]
         },
         {
-          "transcription": "suuḥaa",
+          "transcription": {
+            "default": "suuḥaa"
+          },
           "analysis": {
             "default": "suːḥaː"
           },
@@ -1419,7 +1529,9 @@
           ]
         },
         {
-          "transcription": "mačinƛ",
+          "transcription": {
+            "default": "mačinƛ"
+          },
           "analysis": {
             "default": "mač-inƛ"
           },
@@ -1453,7 +1565,9 @@
       "translation": "Right away Bear’s wife filleted and barbecued fish on the ground, cooked it.",
       "words": [
         {
-          "transcription": "nay̓iik",
+          "transcription": {
+            "default": "nay̓iik"
+          },
           "analysis": {
             "default": "nay̓iːk"
           },
@@ -1469,7 +1583,9 @@
           ]
         },
         {
-          "transcription": "ʔuutaqšiƛ",
+          "transcription": {
+            "default": "ʔuutaqšiƛ"
+          },
           "analysis": {
             "default": "ʔu-taq-šiƛ"
           },
@@ -1497,7 +1613,9 @@
           ]
         },
         {
-          "transcription": "ɬuucmaʔi",
+          "transcription": {
+            "default": "ɬuucmaʔi"
+          },
           "analysis": {
             "default": "ɬuːčma-ʔi·"
           },
@@ -1519,7 +1637,9 @@
           ]
         },
         {
-          "transcription": "čums",
+          "transcription": {
+            "default": "čums"
+          },
           "analysis": {
             "default": "čums"
           },
@@ -1535,7 +1655,9 @@
           ]
         },
         {
-          "transcription": "ɬuucmaak",
+          "transcription": {
+            "default": "ɬuucmaak"
+          },
           "analysis": {
             "default": "ɬuːcma-ʔa·k"
           },
@@ -1557,7 +1679,9 @@
           ]
         },
         {
-          "transcription": "kuučiɬšiƛ",
+          "transcription": {
+            "default": "kuučiɬšiƛ"
+          },
           "analysis": {
             "default": "kuːčiɬ-šiƛ"
           },
@@ -1579,7 +1703,9 @@
           ]
         },
         {
-          "transcription": "ƛ̓apč̓iitap",
+          "transcription": {
+            "default": "ƛ̓apč̓iitap"
+          },
           "analysis": {
             "default": "ƛ̓apč-ʼi·tap"
           },
@@ -1601,7 +1727,9 @@
           ]
         },
         {
-          "transcription": "siqay̓ap",
+          "transcription": {
+            "default": "siqay̓ap"
+          },
           "analysis": {
             "default": "siqa-y̓ap"
           },
@@ -1635,7 +1763,9 @@
       "translation": "Raven was watching what Bear was doing. He was watching carefully.",
       "words": [
         {
-          "transcription": "n̓aacsaaƛ",
+          "transcription": {
+            "default": "n̓aacsaaƛ"
+          },
           "analysis": {
             "default": "n̓aːcsa-ʼaƛ"
           },
@@ -1657,7 +1787,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -1679,7 +1811,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔapʔitq",
+          "transcription": {
+            "default": "qʷaaʔapʔitq"
+          },
           "analysis": {
             "default": "qʷaː-ʼap-ʔi·tq"
           },
@@ -1707,7 +1841,9 @@
           ]
         },
         {
-          "transcription": "čumsm̓iit",
+          "transcription": {
+            "default": "čumsm̓iit"
+          },
           "analysis": {
             "default": "čums-m̓i·t"
           },
@@ -1729,7 +1865,9 @@
           ]
         },
         {
-          "transcription": "piḥaa",
+          "transcription": {
+            "default": "piḥaa"
+          },
           "analysis": {
             "default": "piḥ-(y)a·"
           },
@@ -1763,7 +1901,9 @@
       "translation": "He (Bear) closed his eyes partially and said [to his wife], “Get me a clam shell.”",
       "words": [
         {
-          "transcription": "k̓iicnuuxʷiɬ",
+          "transcription": {
+            "default": "k̓iicnuuxʷiɬ"
+          },
           "analysis": {
             "default": "k̓ic-nu·xʷiɬ"
           },
@@ -1785,7 +1925,9 @@
           ]
         },
         {
-          "transcription": "kaaʔa",
+          "transcription": {
+            "default": "kaaʔa"
+          },
           "analysis": {
             "default": "kaːʔa"
           },
@@ -1801,7 +1943,9 @@
           ]
         },
         {
-          "transcription": "kaaʔa",
+          "transcription": {
+            "default": "kaaʔa"
+          },
           "analysis": {
             "default": "kaːʔa"
           },
@@ -1817,7 +1961,9 @@
           ]
         },
         {
-          "transcription": "ʕam̓iit",
+          "transcription": {
+            "default": "ʕam̓iit"
+          },
           "analysis": {
             "default": "ʕam̓iːt"
           },
@@ -1833,7 +1979,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -1867,7 +2015,9 @@
       "translation": "[Bear’s wife] followed what he (Bear) told her to do and went out to get it.",
       "words": [
         {
-          "transcription": "naʔaa",
+          "transcription": {
+            "default": "naʔaa"
+          },
           "analysis": {
             "default": "naʔa·"
           },
@@ -1883,7 +2033,9 @@
           ]
         },
         {
-          "transcription": "waaʔaʔitq",
+          "transcription": {
+            "default": "waaʔaʔitq"
+          },
           "analysis": {
             "default": "wa·-ʼat-ʔi·tq"
           },
@@ -1911,7 +2063,9 @@
           ]
         },
         {
-          "transcription": "wukʷiƛ̓as",
+          "transcription": {
+            "default": "wukʷiƛ̓as"
+          },
           "analysis": {
             "default": "sukʷi(ƛ)-ʼas"
           },
@@ -1945,7 +2099,9 @@
       "translation": "She came back with a clam shell.",
       "words": [
         {
-          "transcription": "sukʷiƛ",
+          "transcription": {
+            "default": "sukʷiƛ"
+          },
           "analysis": {
             "default": "sukʷi(ƛ)"
           },
@@ -1961,7 +2117,9 @@
           ]
         },
         {
-          "transcription": "ʕam̓iit",
+          "transcription": {
+            "default": "ʕam̓iit"
+          },
           "analysis": {
             "default": "ʕam̓iːt"
           },
@@ -1989,7 +2147,9 @@
       "translation": "Son of Raven watched what he (Bear) was doing.",
       "words": [
         {
-          "transcription": "n̓aacsaaƛ",
+          "transcription": {
+            "default": "n̓aacsaaƛ"
+          },
           "analysis": {
             "default": "n̓aːcsa-ʼaƛ"
           },
@@ -2011,7 +2171,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -2033,7 +2195,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔapʔitq",
+          "transcription": {
+            "default": "qʷaaʔapʔitq"
+          },
           "analysis": {
             "default": "qʷaː-ʼap-ʔi·tq"
           },
@@ -2073,7 +2237,9 @@
       "translation": "He (Bear) went close to the fire on the floor.",
       "words": [
         {
-          "transcription": "ƛawaʔii",
+          "transcription": {
+            "default": "ƛawaʔii"
+          },
           "analysis": {
             "default": "ƛawa-ʔiː"
           },
@@ -2095,7 +2261,9 @@
           ]
         },
         {
-          "transcription": "ʔinkʷiɬʔi",
+          "transcription": {
+            "default": "ʔinkʷiɬʔi"
+          },
           "analysis": {
             "default": "ʔinkʷ-ʽiɬ-ʔi·"
           },
@@ -2135,7 +2303,9 @@
       "translation": "He (Bear) put out his hands towards the fire.",
       "words": [
         {
-          "transcription": "ƛ̓uuɬapuʔaƛ",
+          "transcription": {
+            "default": "ƛ̓uuɬapuʔaƛ"
+          },
           "analysis": {
             "default": "ƛ̓uɬ-apu(ƛ)-ʼaƛ"
           },
@@ -2163,7 +2333,9 @@
           ]
         },
         {
-          "transcription": "ʔucaḥtak̓at",
+          "transcription": {
+            "default": "ʔucaḥtak̓at"
+          },
           "analysis": {
             "default": "ʔu-ca-ḥta·kʷ-ʼat"
           },
@@ -2197,7 +2369,9 @@
           ]
         },
         {
-          "transcription": "kukʷinksi",
+          "transcription": {
+            "default": "kukʷinksi"
+          },
           "analysis": {
             "default": "kukʷinksi"
           },
@@ -2213,7 +2387,9 @@
           ]
         },
         {
-          "transcription": "ḥaa",
+          "transcription": {
+            "default": "ḥaa"
+          },
           "analysis": {
             "default": "ḥaː"
           },
@@ -2229,7 +2405,9 @@
           ]
         },
         {
-          "transcription": "ʔinkʔii",
+          "transcription": {
+            "default": "ʔinkʔii"
+          },
           "analysis": {
             "default": "ʔinkʷ-ʔi·"
           },
@@ -2263,7 +2441,9 @@
       "translation": "He set down the clam shell there [to collect oil by melting the fat on his hands].",
       "words": [
         {
-          "transcription": "č̓aam̓iiƛiɬʔaƛ",
+          "transcription": {
+            "default": "č̓aam̓iiƛiɬʔaƛ"
+          },
           "analysis": {
             "default": "č̓am-ʼi·ƛiɬ-ʼaƛ"
           },
@@ -2291,7 +2471,9 @@
           ]
         },
         {
-          "transcription": "ḥaa",
+          "transcription": {
+            "default": "ḥaa"
+          },
           "analysis": {
             "default": "ḥaː"
           },
@@ -2307,7 +2489,9 @@
           ]
         },
         {
-          "transcription": "ʕam̓iitʔi",
+          "transcription": {
+            "default": "ʕam̓iitʔi"
+          },
           "analysis": {
             "default": "ʕam̓iːt-ʔi·"
           },
@@ -2341,7 +2525,9 @@
       "translation": "He (Raven) watched what he did.",
       "words": [
         {
-          "transcription": "n̓aacsaaƛ",
+          "transcription": {
+            "default": "n̓aacsaaƛ"
+          },
           "analysis": {
             "default": "n̓aːcsa-ʼaƛ"
           },
@@ -2363,7 +2549,9 @@
           ]
         },
         {
-          "transcription": "qʷisʔiitq",
+          "transcription": {
+            "default": "qʷisʔiitq"
+          },
           "analysis": {
             "default": "qʷis-ʔi·tq"
           },
@@ -2397,7 +2585,9 @@
       "translation": "Oil started dripping from Bear’s hands.",
       "words": [
         {
-          "transcription": "ʕiiʕiiqatšiƛ",
+          "transcription": {
+            "default": "ʕiiʕiiqatšiƛ"
+          },
           "analysis": {
             "default": "ʕiqat-šiƛ"
           },
@@ -2419,7 +2609,9 @@
           ]
         },
         {
-          "transcription": "ƛaqmis",
+          "transcription": {
+            "default": "ƛaqmis"
+          },
           "analysis": {
             "default": "ƛaqmis"
           },
@@ -2435,7 +2627,9 @@
           ]
         },
         {
-          "transcription": "histaqšiƛ",
+          "transcription": {
+            "default": "histaqšiƛ"
+          },
           "analysis": {
             "default": "his-taq-šiƛ"
           },
@@ -2463,7 +2657,9 @@
           ]
         },
         {
-          "transcription": "kukʷinksat",
+          "transcription": {
+            "default": "kukʷinksat"
+          },
           "analysis": {
             "default": "kukʷinksi-ʼat"
           },
@@ -2485,7 +2681,9 @@
           ]
         },
         {
-          "transcription": "čums",
+          "transcription": {
+            "default": "čums"
+          },
           "analysis": {
             "default": "čums"
           },
@@ -2513,7 +2711,9 @@
       "translation": "After a little while the shells got full [with oil].",
       "words": [
         {
-          "transcription": "k̓uušiƛ̓is",
+          "transcription": {
+            "default": "k̓uušiƛ̓is"
+          },
           "analysis": {
             "default": "k̓uː-šiƛ-ʔis"
           },
@@ -2541,7 +2741,9 @@
           ]
         },
         {
-          "transcription": "ʔaḥ",
+          "transcription": {
+            "default": "ʔaḥ"
+          },
           "analysis": {
             "default": "ʔaḥ"
           },
@@ -2557,7 +2759,9 @@
           ]
         },
         {
-          "transcription": "k̓aminƛ",
+          "transcription": {
+            "default": "k̓aminƛ"
+          },
           "analysis": {
             "default": "k̓ama-in(ƛ)"
           },
@@ -2579,7 +2783,9 @@
           ]
         },
         {
-          "transcription": "ʕam̓iitm̓inḥʔi",
+          "transcription": {
+            "default": "ʕam̓iitm̓inḥʔi"
+          },
           "analysis": {
             "default": "ʕam̓iːt-m̓inḥ-ʔi·"
           },
@@ -2619,7 +2825,9 @@
       "translation": "Now, they put it (the food) in front of Raven.",
       "words": [
         {
-          "transcription": "hee",
+          "transcription": {
+            "default": "hee"
+          },
           "analysis": {
             "default": "heː"
           },
@@ -2635,7 +2843,9 @@
           ]
         },
         {
-          "transcription": "c̓apšiʔaƛ̓at",
+          "transcription": {
+            "default": "c̓apšiʔaƛ̓at"
+          },
           "analysis": {
             "default": "c̓ap-šiƛ-ʼaƛ-ʼat"
           },
@@ -2669,7 +2879,9 @@
           ]
         },
         {
-          "transcription": "quʔušin",
+          "transcription": {
+            "default": "quʔušin"
+          },
           "analysis": {
             "default": "quʔušin"
           },
@@ -2697,7 +2909,9 @@
       "translation": "They fed him (Raven).",
       "words": [
         {
-          "transcription": "haʔuksap̓at",
+          "transcription": {
+            "default": "haʔuksap̓at"
+          },
           "analysis": {
             "default": "haʔuk-sa·p-ʼat"
           },
@@ -2737,7 +2951,9 @@
       "translation": "He got greedy.",
       "words": [
         {
-          "transcription": "qʷaaʔaƛ",
+          "transcription": {
+            "default": "qʷaaʔaƛ"
+          },
           "analysis": {
             "default": "qʷaː-ʼaƛ"
           },
@@ -2759,7 +2975,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔiitq",
+          "transcription": {
+            "default": "qʷaaʔiitq"
+          },
           "analysis": {
             "default": "qʷaː-ʔi·tq"
           },
@@ -2781,7 +2999,9 @@
           ]
         },
         {
-          "transcription": "ḥanaaqƛ",
+          "transcription": {
+            "default": "ḥanaaqƛ"
+          },
           "analysis": {
             "default": "ḥanaːqƛ"
           },
@@ -2809,7 +3029,9 @@
       "translation": "He started eating. He started eating salmon with oil.",
       "words": [
         {
-          "transcription": "naʔukšiʔaƛ",
+          "transcription": {
+            "default": "naʔukšiʔaƛ"
+          },
           "analysis": {
             "default": "haʔuk-šiƛ-ʼaƛ"
           },
@@ -2837,7 +3059,9 @@
           ]
         },
         {
-          "transcription": "haʔukšiʔaƛ",
+          "transcription": {
+            "default": "haʔukšiʔaƛ"
+          },
           "analysis": {
             "default": "haʔuk-šiƛ-ʼaƛ"
           },
@@ -2865,7 +3089,9 @@
           ]
         },
         {
-          "transcription": "ʔuʔuiic̓at",
+          "transcription": {
+            "default": "ʔuʔuiic̓at"
+          },
           "analysis": {
             "default": "ʔu-ʼi·c-ʼat"
           },
@@ -2893,7 +3119,9 @@
           ]
         },
         {
-          "transcription": "suuḥaa",
+          "transcription": {
+            "default": "suuḥaa"
+          },
           "analysis": {
             "default": "suːḥaː"
           },
@@ -2909,7 +3137,9 @@
           ]
         },
         {
-          "transcription": "ƛaqmis",
+          "transcription": {
+            "default": "ƛaqmis"
+          },
           "analysis": {
             "default": "ƛaqmis"
           },
@@ -2925,7 +3155,9 @@
           ]
         },
         {
-          "transcription": "ʔuunaqa",
+          "transcription": {
+            "default": "ʔuunaqa"
+          },
           "analysis": {
             "default": "ʔu-naqa"
           },
@@ -2959,7 +3191,9 @@
       "translation": "He got full and went to sleep.",
       "words": [
         {
-          "transcription": "niswačiƛ",
+          "transcription": {
+            "default": "niswačiƛ"
+          },
           "analysis": {
             "default": "nisw-ačiƛ"
           },
@@ -2981,7 +3215,9 @@
           ]
         },
         {
-          "transcription": "waʔičpiƛ",
+          "transcription": {
+            "default": "waʔičpiƛ"
+          },
           "analysis": {
             "default": "waʔič-ʽpiƛ"
           },
@@ -3015,7 +3251,9 @@
       "translation": "Then he got up.",
       "words": [
         {
-          "transcription": "wee",
+          "transcription": {
+            "default": "wee"
+          },
           "analysis": {
             "default": "weː"
           },
@@ -3031,7 +3269,9 @@
           ]
         },
         {
-          "transcription": "t̓iqpiƛ",
+          "transcription": {
+            "default": "t̓iqpiƛ"
+          },
           "analysis": {
             "default": "t̓iqʷ-ʽpiƛ"
           },
@@ -3053,7 +3293,9 @@
           ]
         },
         {
-          "transcription": "ƛumkšiƛ",
+          "transcription": {
+            "default": "ƛumkšiƛ"
+          },
           "analysis": {
             "default": "ƛumk-šiƛ"
           },
@@ -3087,7 +3329,9 @@
       "translation": "“Well, I will invite you [to my place for food]. You come and eat [at my place] tomorrow,” said Raven.",
       "words": [
         {
-          "transcription": "hee",
+          "transcription": {
+            "default": "hee"
+          },
           "analysis": {
             "default": "heː"
           },
@@ -3103,7 +3347,9 @@
           ]
         },
         {
-          "transcription": "haaw̓awiiqšʔaƛs",
+          "transcription": {
+            "default": "haaw̓awiiqšʔaƛs"
+          },
           "analysis": {
             "default": "haw̓a-awiːqš-ʼaƛ-s"
           },
@@ -3137,7 +3383,9 @@
           ]
         },
         {
-          "transcription": "suutiɬ",
+          "transcription": {
+            "default": "suutiɬ"
+          },
           "analysis": {
             "default": "sut-(č)iɬ"
           },
@@ -3159,7 +3407,9 @@
           ]
         },
         {
-          "transcription": "haw̓aasʔum",
+          "transcription": {
+            "default": "haw̓aasʔum"
+          },
           "analysis": {
             "default": "haw̓a-ʼa·s-ʼim"
           },
@@ -3187,7 +3437,9 @@
           ]
         },
         {
-          "transcription": "ʔam̓ii",
+          "transcription": {
+            "default": "ʔam̓ii"
+          },
           "analysis": {
             "default": "ʔam̓iː"
           },
@@ -3203,7 +3455,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -3225,7 +3479,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -3259,7 +3515,9 @@
       "translation": "“Oh, I will accept the invitation,” said Bear.",
       "words": [
         {
-          "transcription": "hee",
+          "transcription": {
+            "default": "hee"
+          },
           "analysis": {
             "default": "heː"
           },
@@ -3275,7 +3533,9 @@
           ]
         },
         {
-          "transcription": "t̓aaqaak̓aƛ",
+          "transcription": {
+            "default": "t̓aaqaak̓aƛ"
+          },
           "analysis": {
             "default": "t̓aːqaːk-ʼaƛ"
           },
@@ -3297,7 +3557,9 @@
           ]
         },
         {
-          "transcription": "čumsm̓iit",
+          "transcription": {
+            "default": "čumsm̓iit"
+          },
           "analysis": {
             "default": "čums-m̓i·t"
           },
@@ -3331,7 +3593,9 @@
       "translation": "People all knew how Raven was: he was cunning and imitated whatever he saw.",
       "words": [
         {
-          "transcription": "hišukʷaƛ̓at",
+          "transcription": {
+            "default": "hišukʷaƛ̓at"
+          },
           "analysis": {
             "default": "hišuk-ʼaƛ-ʼat"
           },
@@ -3359,7 +3623,9 @@
           ]
         },
         {
-          "transcription": "huḥtak̓at",
+          "transcription": {
+            "default": "huḥtak̓at"
+          },
           "analysis": {
             "default": "huḥtak-ʼat"
           },
@@ -3381,7 +3647,9 @@
           ]
         },
         {
-          "transcription": "qʷaaʔiitq",
+          "transcription": {
+            "default": "qʷaaʔiitq"
+          },
           "analysis": {
             "default": "qʷaː-ʔi·tq"
           },
@@ -3403,7 +3671,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -3425,7 +3695,9 @@
           ]
         },
         {
-          "transcription": "ʔayisaʕaqƛ",
+          "transcription": {
+            "default": "ʔayisaʕaqƛ"
+          },
           "analysis": {
             "default": "ʔayisaq-ʼaqƛ"
           },
@@ -3447,7 +3719,9 @@
           ]
         },
         {
-          "transcription": "c̓iic̓ikiik",
+          "transcription": {
+            "default": "c̓iic̓ikiik"
+          },
           "analysis": {
             "default": "DUPCVː-c̓iːk-iːk"
           },
@@ -3475,7 +3749,9 @@
           ]
         },
         {
-          "transcription": "qʷaan̓ak̓uuḥʔitq",
+          "transcription": {
+            "default": "qʷaan̓ak̓uuḥʔitq"
+          },
           "analysis": {
             "default": "qʷaː-in̓ak̓uːḥ-ʔi·tq"
           },
@@ -3515,7 +3791,9 @@
       "translation": "“I will go along with your offer,” [Bear accepted the invitation].",
       "words": [
         {
-          "transcription": "kuw̓iɬa",
+          "transcription": {
+            "default": "kuw̓iɬa"
+          },
           "analysis": {
             "default": "kuw̓iɬa"
           },
@@ -3531,7 +3809,9 @@
           ]
         },
         {
-          "transcription": "w̓aqʔuu",
+          "transcription": {
+            "default": "w̓aqʔuu"
+          },
           "analysis": {
             "default": "w̓aqʔuː"
           },
@@ -3559,7 +3839,9 @@
       "translation": "Bear went to Raven’s place.",
       "words": [
         {
-          "transcription": "čums",
+          "transcription": {
+            "default": "čums"
+          },
           "analysis": {
             "default": "čums"
           },
@@ -3575,7 +3857,9 @@
           ]
         },
         {
-          "transcription": "ʔucačiƛ",
+          "transcription": {
+            "default": "ʔucačiƛ"
+          },
           "analysis": {
             "default": "ʔu-ca-čiƛ"
           },
@@ -3603,7 +3887,9 @@
           ]
         },
         {
-          "transcription": "quʔušinm̓it",
+          "transcription": {
+            "default": "quʔušinm̓it"
+          },
           "analysis": {
             "default": "quʔušin-m̓i·t"
           },
@@ -3637,7 +3923,9 @@
       "translation": "The other people watched him.",
       "words": [
         {
-          "transcription": "n̓aacsaaʔat",
+          "transcription": {
+            "default": "n̓aacsaaʔat"
+          },
           "analysis": {
             "default": "n̓aːcsa-ʼaƛ-ʼat"
           },
@@ -3665,7 +3953,9 @@
           ]
         },
         {
-          "transcription": "ƛaƛuuʔi",
+          "transcription": {
+            "default": "ƛaƛuuʔi"
+          },
           "analysis": {
             "default": "ƛaƛuː-ʔi·"
           },
@@ -3687,7 +3977,9 @@
           ]
         },
         {
-          "transcription": "quuʔas",
+          "transcription": {
+            "default": "quuʔas"
+          },
           "analysis": {
             "default": "quːʔas"
           },
@@ -3715,7 +4007,9 @@
       "translation": "They knew he was going to trick him (Bear).",
       "words": [
         {
-          "transcription": "huḥtak̓at",
+          "transcription": {
+            "default": "huḥtak̓at"
+          },
           "analysis": {
             "default": "huḥtak-ʼat"
           },
@@ -3737,7 +4031,9 @@
           ]
         },
         {
-          "transcription": "ʔan",
+          "transcription": {
+            "default": "ʔan"
+          },
           "analysis": {
             "default": "ʔan"
           },
@@ -3753,7 +4049,9 @@
           ]
         },
         {
-          "transcription": "ʔaaʔaayisqaw̓it̓as",
+          "transcription": {
+            "default": "ʔaaʔaayisqaw̓it̓as"
+          },
           "analysis": {
             "default": "ʔayisaq-(y)a-w̓it̓as"
           },
@@ -3793,7 +4091,9 @@
       "translation": "“Come in and sit down,” [Raven] said to [Bear].",
       "words": [
         {
-          "transcription": "čukʷaa",
+          "transcription": {
+            "default": "čukʷaa"
+          },
           "analysis": {
             "default": "čukʷaː"
           },
@@ -3809,7 +4109,9 @@
           ]
         },
         {
-          "transcription": "mačinƛ",
+          "transcription": {
+            "default": "mačinƛ"
+          },
           "analysis": {
             "default": "mač-inƛ"
           },
@@ -3831,7 +4133,9 @@
           ]
         },
         {
-          "transcription": "t̓iqʷiɬʔi",
+          "transcription": {
+            "default": "t̓iqʷiɬʔi"
+          },
           "analysis": {
             "default": "t̓iqʷ-ʽiɬ-ʼi·"
           },
@@ -3859,7 +4163,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ̓at",
+          "transcription": {
+            "default": "waaʔaƛ̓at"
+          },
           "analysis": {
             "default": "waː-ʼaƛ-ʼat"
           },
@@ -3899,7 +4205,9 @@
       "translation": "Bear went in.",
       "words": [
         {
-          "transcription": "mačinƛ",
+          "transcription": {
+            "default": "mačinƛ"
+          },
           "analysis": {
             "default": "mač-inƛ"
           },
@@ -3921,7 +4229,9 @@
           ]
         },
         {
-          "transcription": "čums",
+          "transcription": {
+            "default": "čums"
+          },
           "analysis": {
             "default": "čums"
           },
@@ -3949,7 +4259,9 @@
       "translation": "“OK, go find something to eat,” [Raven said to his wife].",
       "words": [
         {
-          "transcription": "čuu",
+          "transcription": {
+            "default": "čuu"
+          },
           "analysis": {
             "default": "čuː"
           },
@@ -3965,7 +4277,9 @@
           ]
         },
         {
-          "transcription": "ʔun̓aaḥčiʔi",
+          "transcription": {
+            "default": "ʔun̓aaḥčiʔi"
+          },
           "analysis": {
             "default": "ʔu-n̓a·ḥ-čiƛ-ʼi·"
           },
@@ -3999,7 +4313,9 @@
           ]
         },
         {
-          "transcription": "qʷiʔiic̓aaḥii",
+          "transcription": {
+            "default": "qʷiʔiic̓aaḥii"
+          },
           "analysis": {
             "default": "qʷi-ʼi·c-ʼaːh-(y)iː"
           },
@@ -4045,7 +4361,9 @@
       "translation": "He never had food for his wife. He was lazy.",
       "words": [
         {
-          "transcription": "wiiy̓umt",
+          "transcription": {
+            "default": "wiiy̓umt"
+          },
           "analysis": {
             "default": "wiːy̓a-umt"
           },
@@ -4067,7 +4385,9 @@
           ]
         },
         {
-          "transcription": "haʔumnak̓ap",
+          "transcription": {
+            "default": "haʔumnak̓ap"
+          },
           "analysis": {
             "default": "haʔum-na·k-ʼap"
           },
@@ -4095,7 +4415,9 @@
           ]
         },
         {
-          "transcription": "ɬuucmaak",
+          "transcription": {
+            "default": "ɬuucmaak"
+          },
           "analysis": {
             "default": "ɬuːcma-ʔa·k"
           },
@@ -4117,7 +4439,9 @@
           ]
         },
         {
-          "transcription": "wiwišʕaqƛ",
+          "transcription": {
+            "default": "wiwišʕaqƛ"
+          },
           "analysis": {
             "default": "DUP-wišq-ʼaqƛ"
           },
@@ -4157,7 +4481,9 @@
       "translation": "He took [from someone else] and toasted dried salmon.",
       "words": [
         {
-          "transcription": "sukʷiʔaƛ",
+          "transcription": {
+            "default": "sukʷiʔaƛ"
+          },
           "analysis": {
             "default": "sukʷi(ƛ)-ʼaƛ"
           },
@@ -4179,7 +4505,9 @@
           ]
         },
         {
-          "transcription": "sumtšiƛ",
+          "transcription": {
+            "default": "sumtšiƛ"
+          },
           "analysis": {
             "default": "sumt-šiƛ"
           },
@@ -4201,7 +4529,9 @@
           ]
         },
         {
-          "transcription": "suuḥašt",
+          "transcription": {
+            "default": "suuḥašt"
+          },
           "analysis": {
             "default": "suːḥʷ-ašt"
           },
@@ -4235,7 +4565,9 @@
       "translation": "“Get me clam shells,” he said.",
       "words": [
         {
-          "transcription": "kaaʔa",
+          "transcription": {
+            "default": "kaaʔa"
+          },
           "analysis": {
             "default": "kaːʔa"
           },
@@ -4251,7 +4583,9 @@
           ]
         },
         {
-          "transcription": "ʕam̓iit",
+          "transcription": {
+            "default": "ʕam̓iit"
+          },
           "analysis": {
             "default": "ʕam̓iːt"
           },
@@ -4267,7 +4601,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -4301,7 +4637,9 @@
       "translation": "She (Raven’s wife) didn’t ask what he needed it for.",
       "words": [
         {
-          "transcription": "wik̓aƛ",
+          "transcription": {
+            "default": "wik̓aƛ"
+          },
           "analysis": {
             "default": "wik-ʼaƛ"
           },
@@ -4323,7 +4661,9 @@
           ]
         },
         {
-          "transcription": "y̓uuqʷaa",
+          "transcription": {
+            "default": "y̓uuqʷaa"
+          },
           "analysis": {
             "default": "y̓uːqʷaː"
           },
@@ -4339,7 +4679,9 @@
           ]
         },
         {
-          "transcription": "ʔaaʔaatuu",
+          "transcription": {
+            "default": "ʔaaʔaatuu"
+          },
           "analysis": {
             "default": "ʔaːʔaːtuː"
           },
@@ -4355,7 +4697,9 @@
           ]
         },
         {
-          "transcription": "qʷiiʔatupii",
+          "transcription": {
+            "default": "qʷiiʔatupii"
+          },
           "analysis": {
             "default": "qʷiː-ʼatup-(y)iː"
           },
@@ -4395,7 +4739,9 @@
       "translation": "She obeyed him. She always listens to him.",
       "words": [
         {
-          "transcription": "naʔaa",
+          "transcription": {
+            "default": "naʔaa"
+          },
           "analysis": {
             "default": "naʔa·"
           },
@@ -4411,7 +4757,9 @@
           ]
         },
         {
-          "transcription": "naanaʔaʔiikʔis",
+          "transcription": {
+            "default": "naanaʔaʔiikʔis"
+          },
           "analysis": {
             "default": "naʔa·-ʼiːk-ʔis"
           },
@@ -4451,7 +4799,9 @@
       "translation": "She brought clam shells to her husband.",
       "words": [
         {
-          "transcription": "m̓aw̓aaʔaƛ",
+          "transcription": {
+            "default": "m̓aw̓aaʔaƛ"
+          },
           "analysis": {
             "default": "m̓aw̓aː-ʼaƛ"
           },
@@ -4473,7 +4823,9 @@
           ]
         },
         {
-          "transcription": "ʕam̓iit",
+          "transcription": {
+            "default": "ʕam̓iit"
+          },
           "analysis": {
             "default": "ʕam̓iːt"
           },
@@ -4489,7 +4841,9 @@
           ]
         },
         {
-          "transcription": "čakupuk",
+          "transcription": {
+            "default": "čakupuk"
+          },
           "analysis": {
             "default": "čakup-uk"
           },
@@ -4523,7 +4877,9 @@
       "translation": "Now, he (Raven) went close to the fire.",
       "words": [
         {
-          "transcription": "hee",
+          "transcription": {
+            "default": "hee"
+          },
           "analysis": {
             "default": "heː"
           },
@@ -4539,7 +4895,9 @@
           ]
         },
         {
-          "transcription": "ƛawiičiƛ",
+          "transcription": {
+            "default": "ƛawiičiƛ"
+          },
           "analysis": {
             "default": "ƛawa-ʼi·čiƛ"
           },
@@ -4561,7 +4919,9 @@
           ]
         },
         {
-          "transcription": "ʔinkʔii",
+          "transcription": {
+            "default": "ʔinkʔii"
+          },
           "analysis": {
             "default": "ʔinkʷ-ʔi·"
           },
@@ -4595,7 +4955,9 @@
       "translation": "He set the shells down.",
       "words": [
         {
-          "transcription": "č̓aam̓iiƛiɬʔaƛ",
+          "transcription": {
+            "default": "č̓aam̓iiƛiɬʔaƛ"
+          },
           "analysis": {
             "default": "č̓am-ʼi·ƛiɬ-ʼaƛ"
           },
@@ -4623,7 +4985,9 @@
           ]
         },
         {
-          "transcription": "ʕam̓iitm̓inḥʔi",
+          "transcription": {
+            "default": "ʕam̓iitm̓inḥʔi"
+          },
           "analysis": {
             "default": "ʕam̓iːt-m̓inḥ-ʔi·"
           },
@@ -4663,7 +5027,9 @@
       "translation": "“Look! He is going to imitate as usual,” the spectators said.",
       "words": [
         {
-          "transcription": "hee",
+          "transcription": {
+            "default": "hee"
+          },
           "analysis": {
             "default": "heː"
           },
@@ -4679,7 +5045,9 @@
           ]
         },
         {
-          "transcription": "c̓iikaɬšiƛw̓it̓asʔaƛ̓itaʔum",
+          "transcription": {
+            "default": "c̓iikaɬšiƛw̓it̓asʔaƛ̓itaʔum"
+          },
           "analysis": {
             "default": "c̓iːk-ʔaɬ-šiƛ-w̓it̓as-ʼaƛ-ʔitaʔum"
           },
@@ -4725,7 +5093,9 @@
           ]
         },
         {
-          "transcription": "waaʔaƛ",
+          "transcription": {
+            "default": "waaʔaƛ"
+          },
           "analysis": {
             "default": "wa·-ʼaƛ"
           },
@@ -4747,7 +5117,9 @@
           ]
         },
         {
-          "transcription": "quuʔas",
+          "transcription": {
+            "default": "quuʔas"
+          },
           "analysis": {
             "default": "quːʔas"
           },
@@ -4763,7 +5135,9 @@
           ]
         },
         {
-          "transcription": "yaaʔaɬm̓inḥʔi",
+          "transcription": {
+            "default": "yaaʔaɬm̓inḥʔi"
+          },
           "analysis": {
             "default": "yaːʔaɬ-m̓inḥ-ʔi·"
           },
@@ -4803,7 +5177,9 @@
       "translation": "He put out his hands towards the fire.",
       "words": [
         {
-          "transcription": "ƛ̓uuɬapuʔaƛ",
+          "transcription": {
+            "default": "ƛ̓uuɬapuʔaƛ"
+          },
           "analysis": {
             "default": "ƛ̓uɬ-apu(ƛ)-ʼaƛ"
           },
@@ -4831,7 +5207,9 @@
           ]
         },
         {
-          "transcription": "ʔuucaap̓aƛ̓at",
+          "transcription": {
+            "default": "ʔuucaap̓aƛ̓at"
+          },
           "analysis": {
             "default": "ʔu-ca·-ʼap-ʼaƛ-ʼat"
           },
@@ -4871,7 +5249,9 @@
           ]
         },
         {
-          "transcription": "kukʷinksi",
+          "transcription": {
+            "default": "kukʷinksi"
+          },
           "analysis": {
             "default": "kukʷinksi"
           },
@@ -4887,7 +5267,9 @@
           ]
         },
         {
-          "transcription": "ḥaa",
+          "transcription": {
+            "default": "ḥaa"
+          },
           "analysis": {
             "default": "ḥaː"
           },
@@ -4903,7 +5285,9 @@
           ]
         },
         {
-          "transcription": "ʔinkʔii",
+          "transcription": {
+            "default": "ʔinkʔii"
+          },
           "analysis": {
             "default": "ʔinkʷ-ʔi·"
           },
@@ -4937,7 +5321,9 @@
       "translation": "The people watched what was happening to his hands.",
       "words": [
         {
-          "transcription": "n̓aacsaaƛ",
+          "transcription": {
+            "default": "n̓aacsaaƛ"
+          },
           "analysis": {
             "default": "n̓aːcsa-ʼaƛ"
           },
@@ -4959,7 +5345,9 @@
           ]
         },
         {
-          "transcription": "quuʔasm̓inḥʔi",
+          "transcription": {
+            "default": "quuʔasm̓inḥʔi"
+          },
           "analysis": {
             "default": "qu"
           },
@@ -4975,7 +5363,9 @@
           ]
         },
         {
-          "transcription": "qʷiisayatʔitq",
+          "transcription": {
+            "default": "qʷiisayatʔitq"
+          },
           "analysis": {
             "default": "qʷis-aya-ʼat-ʔi·tq"
           },
@@ -5009,7 +5399,9 @@
           ]
         },
         {
-          "transcription": "kukʷinksi",
+          "transcription": {
+            "default": "kukʷinksi"
+          },
           "analysis": {
             "default": "kukʷinksi"
           },
@@ -5037,7 +5429,9 @@
       "translation": "The fire started to curl up his fingers because there was no oil in his hands.",
       "words": [
         {
-          "transcription": "kumtkʷačiƛšiʔat",
+          "transcription": {
+            "default": "kumtkʷačiƛšiʔat"
+          },
           "analysis": {
             "default": "kumt-kʷa-čiƛ-šiƛ-ʼat"
           },
@@ -5077,7 +5471,9 @@
           ]
         },
         {
-          "transcription": "ʔinkʔii",
+          "transcription": {
+            "default": "ʔinkʔii"
+          },
           "analysis": {
             "default": "ʔinkʷ-ʔi·"
           },
@@ -5099,7 +5495,9 @@
           ]
         },
         {
-          "transcription": "quusaaḥi",
+          "transcription": {
+            "default": "quusaaḥi"
+          },
           "analysis": {
             "default": "ʔu-sa·ḥi"
           },
@@ -5121,7 +5519,9 @@
           ]
         },
         {
-          "transcription": "wik̓iit",
+          "transcription": {
+            "default": "wik̓iit"
+          },
           "analysis": {
             "default": "wik̓iːt"
           },
@@ -5137,7 +5537,9 @@
           ]
         },
         {
-          "transcription": "ƛaqmis",
+          "transcription": {
+            "default": "ƛaqmis"
+          },
           "analysis": {
             "default": "ƛaqmis"
           },
@@ -5165,7 +5567,9 @@
       "translation": "His fingers got all curled up because he always imitated other people.",
       "words": [
         {
-          "transcription": "c̓iic̓ikiikkʷačiʔaƛ",
+          "transcription": {
+            "default": "c̓iic̓ikiikkʷačiʔaƛ"
+          },
           "analysis": {
             "default": "DUPCVː-c̓iːk-iːk-kʷačiƛ-ʼaƛ"
           },
@@ -5205,7 +5609,9 @@
           ]
         },
         {
-          "transcription": "kumtkʷačiʔat",
+          "transcription": {
+            "default": "kumtkʷačiʔat"
+          },
           "analysis": {
             "default": "kumt-kʷa-čiƛ-ʼat"
           },
@@ -5239,7 +5645,9 @@
           ]
         },
         {
-          "transcription": "kukʷinksi",
+          "transcription": {
+            "default": "kukʷinksi"
+          },
           "analysis": {
             "default": "kukʷinksi"
           },
@@ -5267,7 +5675,9 @@
       "translation": "That is how he got crooked fingers.",
       "words": [
         {
-          "transcription": "ʔaḥʔaa",
+          "transcription": {
+            "default": "ʔaḥʔaa"
+          },
           "analysis": {
             "default": "ʔaḥʔaː"
           },
@@ -5283,7 +5693,9 @@
           ]
         },
         {
-          "transcription": "qʷisḥitwaʔiš",
+          "transcription": {
+            "default": "qʷisḥitwaʔiš"
+          },
           "analysis": {
             "default": "qʷisḥ-it-wa·ʔi·š"
           },
@@ -5311,7 +5723,9 @@
           ]
         },
         {
-          "transcription": "kumtkʷačiʔat",
+          "transcription": {
+            "default": "kumtkʷačiʔat"
+          },
           "analysis": {
             "default": "kumt-kʷa-čiƛ-ʼat"
           },
@@ -5345,7 +5759,9 @@
           ]
         },
         {
-          "transcription": "kukʷinksi",
+          "transcription": {
+            "default": "kukʷinksi"
+          },
           "analysis": {
             "default": "kukʷinksi"
           },
