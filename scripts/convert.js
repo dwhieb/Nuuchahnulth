@@ -11,6 +11,7 @@ import convert       from '@digitallinguistics/scription2dlx';
 import createSpinner from 'ora';
 import fs            from 'fs-extra';
 import ProgressBar   from 'progress';
+import { Text }      from '@digitallinguistics/javascript/models';
 import yamljs        from 'yamljs';
 
 const { parse: parser } = yamljs;
@@ -40,25 +41,25 @@ async function convertTexts() {
     };
 
     const scription = await readFile(`texts/interlinear/${filename}`, `utf8`);
-    const text      = convert(scription, options);
+    const text      = new Text(convert(scription, options));
 
     text.utterances.forEach(utterance => {
 
-      if (!(utterance.words && utterance.transcript)) return;
+      delete utterance[`trs-en`]; // TODO: remove this once scription2dlx issue #136 is closed
+      if (!(utterance.words && utterance.transcript.size)) return;
+      if (utterance.transcript.has(`en`)) return;
 
-      const tokens = tokenize(utterance.transcript.default);
+      const tokens = tokenize(utterance.transcript.get(`default`));
 
       if (tokens.length === utterance.words.length) {
 
         tokens.forEach((token, i) => {
-          utterance.words[i].transcription = { default: token };
+          utterance.words[i].transcription = new Map(Object.entries({ default: token }));
         });
 
       }
 
-      utterance.transcription = {
-        default: tokens.join(` `),
-      };
+      utterance.transcription = new Map(Object.entries({ default: tokens.join(` `) }));
 
     });
 
