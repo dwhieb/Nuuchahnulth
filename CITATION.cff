@@ -1,3 +1,6 @@
+authors:
+  - family-names: Hieber
+    given-names:  Daniel W.
 cff-version:   1.2.0
 date-released: '2020-07-22'
 doi:           http://doi.org/10.5281/zenodo.3931864
