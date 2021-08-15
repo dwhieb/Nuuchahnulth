@@ -1,0 +1,28 @@
+cff-version:   1.2.0
+date-released: '2020-07-22'
+doi:           http://doi.org/10.5281/zenodo.3931864
+license:       CC-BY-SA-4.0
+message:       Please cite this corpus using the following references, depending on the text.
+repository:    http://doi.org/10.5281/zenodo.3931864
+title:         A corpus of Nuuchahnulth
+type:          dataset
+version:       1.3.1
+references:
+  - editors:
+      - family-names: Nakayama
+        given-names:  Toshihide
+    publisher:
+      name: Nakanishi Printing Co.
+    title:  Caroline Little's Nuu-chah-nulth (Ahousaht) texts with grammatical analysis
+    type:   book
+    volume: A2-027
+    year:   2003
+  - editors:
+      - family-names: Nakayama
+        given-names:  Toshihide
+    publisher:
+      name: Nakanishi Printing Co.
+    title:  George Louie's Nuu-chah-nulth (Ahousaht) texts with grammatical analysis
+    type:   book
+    volume: A2-028
+    year:   2003
