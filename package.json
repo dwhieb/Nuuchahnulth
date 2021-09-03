@@ -15,7 +15,7 @@
   "homepage": "https://github.com/dwhieb/Nuuchahnulth#readme",
   "type": "module",
   "engines": {
-    "node": "14.x"
+    "node": ">=14.x"
   },
   "scripts": {
     "build": "npm run transliterate & npm run convert",
@@ -28,8 +28,8 @@
     "@digitallinguistics/transliterate": "^0.2.2",
     "@digitallinguistics/word-aligner": "^0.3.1",
     "eslint": "^7.7.0",
-    "fs-extra": "^9.0.1",
-    "ora": "^5.0.0",
+    "fs-extra": "^10.0.0",
+    "ora": "^6.0.0",
     "smartquotes": "^2.3.1",
     "yamljs": "^0.3.0"
   }
