@@ -6225,10 +6225,10 @@
     {
       "tags": {},
       "transcript": {
-        "default": "qaɬaatik waaʔat [younger brother], taayii waaʔat m̓aam̓iiqsu [oɬder brother]."
+        "default": "qaɬaatik waaʔat [younger brother], taayii waaʔat m̓aam̓iiqsu [older brother]."
       },
       "transcription": {
-        "default": "qaɬaatik waaʔat [younger brother] taayii waaʔat m̓aam̓iiqsu [oɬder brother]"
+        "default": "qaɬaatik waaʔat [younger brother] taayii waaʔat m̓aam̓iiqsu [older brother]"
       },
       "translation": {
         "eng": "We say _qaɬaatik_ for “younger brother” and _taayii_ or _m̓aam̓iiqsu_ for “older brother”."
@@ -11996,7 +11996,7 @@
             "eng": "there-going.along"
           },
           "literal": {
-            "eng": "travel.a.ong"
+            "eng": "travel.along"
           },
           "tags": {},
           "transcription": {
@@ -24007,7 +24007,7 @@
             "eng": "DISTR-different-??"
           },
           "literal": {
-            "eng": "best.hunteres"
+            "eng": "best.hunters"
           },
           "tags": {},
           "transcription": {
@@ -29624,7 +29624,7 @@
             "default": "qʷaːƛaː"
           },
           "gloss": {
-            "eng": "alos"
+            "eng": "also"
           },
           "literal": {
             "eng": "also"
@@ -29640,7 +29640,7 @@
               "transcription": {
                 "default": "qʷaːƛaː"
               },
-              "gloss": "alos"
+              "gloss": "also"
             }
           ]
         },

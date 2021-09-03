@@ -489,7 +489,7 @@ taakshi?at ?unaak?at c'istuup m'uksy'u ?u?ihhta.
 ta:k-shi(tl)-'at ?u-na*k-'at c'is-tu*p m'uksy'u ?u-'ihhta
 always-MOM-SHIFT it-having-SHIFT rope-thing stone it-at.the.end
 it.is.always.done one.has rope stone at.the.end
-They always put a string and a sstone [as a plumb] at the end of it.
+They always put a string and a stone [as a plumb] at the end of it.
 
 # 025
 t'i?_aa?at'ap'at hiishcutil?at kachi?at, tliisshi?at, XXX hhuul qwaa?itq p\lumb.
@@ -3250,7 +3250,7 @@ ID:           CL7
 sach'ica?ap'atlquuch ?uksna?_aal ?_iniitl, ?atquu hawilshitlshi?i?aal ?_iilchsna?_aal, wawaa?at nananiqsak.
 sach'ica-'ap-'atl-qu:-ch ?u-ksna?_a:l ?_ini:tl ?at-qu: hawil-shi(tl)-shi(tl)-?a:l ?_ilch-sna?_a:l wawa:-'at DUPCV-nani*qsu-?a*k
 unceasingly-MOMCAUS-FINITE-COND-INF.3 it-handling dog although-COND finish-MOM-MOM-always dog-playing.with say-SHIFT REP-grandparent-POSS
-she.would.constantly.do playing.with.it dog although stop.doing.it.all.the.time plaing.with.a.dog it.was.said her.grandparents
+she.would.constantly.do playing.with.it dog although stop.doing.it.all.the.time playing.with.a.dog it.was.said her.grandparents
 She used to play with dogs all the time, although her grandparents said to her, "Stop playing with dogs all the time."
 
 # 003
@@ -3590,7 +3590,7 @@ People in old days used to say that the sun got bitten off.
 hayimhhickwi                    ?in  wikuk   ?uhh     mamaln'i        qwaa ?ahh nism'a?i   ?ahh?aa hupal?i   ?ahh?aa sun hil?atl  ?aminkshi?atlquu.
 hayim-hhi*-ckwi*                ?in  wik-uk  ?uhh     ma-mal-n'i*     qwa: ?ahh nism'a-?i* ?ahh?a: hupal-?i* ?ahh?a: ~   hil-'atl ?ap-inkw-shi(tl)-'atl-qu:
 not.knowing-DUR-having.happened that not-DUR being.it dwell-move-come thus this land-DEF   that    moon-DEF  that    ~   here-FIN LOC-together-MOM-FIN-COND.3
-they.didnt.know that it.is.not being.it white.man thus this the.eath that the.moon that ~ there when.they.meet
+they.didnt.know that it.is.not being.it white.man thus this the.earth that the.moon that ~ there when.they.meet
 They didn't know that it is not like that for white men: the earth, the moon and the sun meet up there.
 
 # 004
@@ -3646,7 +3646,7 @@ People don't know how it became dark for a short period of time.
 qiihhsn'aak ?uushyuuya ?uu?i?at  hupal?i qwa?uuc qwaatlaa hupal?i tla?uu, yaaqwil mamaln'i sun waa.
 qi:-hhsn'a*k ?u:sh-yu:ya ?u-'itl-'at hupal-?i* qwa?u:c qwa:tla: hupal-?i* tla?u: yaqw-(ch)il ma-mal-n'i* ~ wa:
 for.a.long.time-in.between some-at.the.time it-take-SHIFT sun-DEF moon also sun-DEF another which-with.reference.to dwell-move-come ~ say
-once.in.a.long.while sometimes it.is.taken the.sun the.mon also the.sun another in.reference.to.which white.man ~ say
+once.in.a.long.while sometimes it.is.taken the.sun the.moon also the.sun another in.reference.to.which white.man ~ say
 Every once in a long while the sun takes away (hides) the moon — the moon is also called "the other sun".
 
 # 012
@@ -5825,7 +5825,7 @@ In the month of June I went to Toronto.
 # 141
 ?usiik ch'apac.
 ?u-si:k ch'apac
-it-complete dance
+it-complete canoe
 completed canoe
 I completed a canoe.
 
@@ -8378,7 +8378,7 @@ waa ?uhhiichi?atl chaapxcuw'at?i ?umch'aap, huulhuula, waa hinkiicutliny'atl.
 wa* ?uhh-`i*chitl-'atl chapxw-cuw'at-?i* ?umch'a:p hu:l-(y)a wa* hinki:c-utl-iny'u-'atl
 and being.they-INC-FINITE man-on.side.of-DEF entertain dance-REP and headdress.dance-MOM-left.behind-FINITE
 and it.becomes.them the.mans.side entertain dancing and finish.with.headdress.dance
-And it would be the man's side to fun dances. And they would finish with headdress dances.
+And it would be the man's side to run dances. And they would finish with headdress dances.
 
 # 030
 ?uucwas?ishtla hhaakwaatl'i taana ?uupaal nuuknuuk?i.
@@ -8879,7 +8879,7 @@ heey, ?un'aahhshitl qwicsapaahhi ?ink?ii.
 ~ ?u-n'a*hh-shi(tl) qwi-csapa-hhi ?ink-?i*
 ~ it-seeking-MOM that.which-obstruct-?? fire-DEF
 ~ looking.for.it which.obstructs the.fire
-Now, he is looking for something that would obstrutc the fire (from overburning).
+Now, he is looking for something that would obstruct the fire (from overburning).
 
 # 048
 hatksaap ?unukwititii matlaak matlaak, t'a?ak ?uushyuuya?at waa?at, hatksaap.
@@ -10258,7 +10258,7 @@ He heard them paddling the canoes.
 ch'apac ?unaak.
 ch'apac ?u-na*k
 canoe it-have
-cane have
+canoe have
 They (the wolves) had canoes.
 
 # 246
@@ -11506,7 +11506,7 @@ They knew that he was a human being: one from the dry land.
 
 # 097
 wihhaas?athh waa?atwa?insh. ququ?actup waa?at.
-wihhi-'a*s-'athh wa:-'at-wa*?insh DUp-qu?ac-tu*p wa:-'at
+wihhi-'a*s-'athh wa:-'at-wa*?insh DUP-qu?ac-tu*p wa:-'at
 on.dry.land-on.the.ground-people.from say-SHIFT-QUOT.1PL DISTR-human-being say-SHIFT
 people.from.dry.land they.are.also.said.to.call.us human.being it.is.called
 "Ones from the dry land" — that is what they (sea animals) call us, whom they call "human beings".
@@ -12211,7 +12211,7 @@ He would never stop looking for something to eat.
 misp'uuqschi?atlquuch ha?um yee, ?ucachitl ?usumhhi haw'ik. ?usumhhi hhanaaqtl.
 mis-p'u*qs-chitl-'atl-qu:-ch ha?um ye: ?u-ca-chitl ?u-sumhhi* haw'-'ik ?u-sumhhi* hhana:qtl
 smell-smelling.of-MOM-FINITE-COND-INF.3 food far it-go.to-MOM it-because.of.excessive eat-fond.of.doing it-because.of.excessive greedy
-he.would.smell.it food far went.to because.he.was.very eating.constantly because.he.was.vary greedy
+he.would.smell.it food far went.to because.he.was.very eating.constantly because.he.was.very greedy
 He would sense the smell of food and go any distance (to get food), because he was such a glutton and because he was so greedy.
 
 # 004
@@ -13519,7 +13519,7 @@ another young.man who.might.have.been.the.younger.brother
 It was the other young man. It might have been the younger brother.
 
 # 049
-qalaatik waa?at [younger brother], taayii waa?at m'aam'iiqsu [older brother].
+qalaatik waa?at [younger brother], taayii waa?at m'aam'iiqsu [o\lder brother].
 qala:tik wa:-'at ~ ta:yi: wa:-'at m'a:m'i*qsu ~
 younger.brother say-SHIFT ~ oldest.brother say-SHIFT elder.brother ~
 younger.brother it.is.said ~ oldest.brother it.is.said elder.brother ~
@@ -13767,7 +13767,7 @@ They travled along mountain ranges, steep hills, steep valleys, and vertical cli
 hisiik qwayac'iik?i n'aacsa?at hhuu sayaach'a.
 his-i*k qwayac'i:k-?i* n'a:csa-'at hhu: saya-a*ch'a
 there-going.along wolf-DEF see-SHIFT way.over.there far-height
-travel.a.ong the.wolves they.could.see far.over.there high
+travel.along the.wolves they.could.see far.over.there high
 The wolves traveled and could see high peaks far, far away.
 
 # 086
@@ -14299,7 +14299,7 @@ The wolves crawled out of the woods to the rocky point.
 hil?atl kwiikwiisahhi histakshitl, hishsy'ihhtaqshitl.
 hil-'atl DUP-kwis-?? hist-ak-shi(tl) hish-sy'i-hht-taq-shi(tl)
 there-FIN DISTR-different-?? there-DUR-MOM all-??-??-come.from-MOM
-there best.hunteres be.at.the.place came.from.everywhere
+there best.hunters be.at.the.place came.from.everywhere
 The best hunters were there, coming from everywhere.
 
 # 162
@@ -14522,7 +14522,7 @@ When a daughter gets her husband, she leaves the chief's place (her father) [for
 # 193
 qwaatlaa hhaaw'ilatl luchhhaa ?ucachitl hhaw'il?i hhakwatlnak?i,
 qwa:tla: hha:w'ilatl luch-hha* ?u-ca-chi(tl) hhaw'il-?i* hhakwatl-na*k-?i*
-alos young.man woman-buy it-go.to-MOM chief-DEF daughter-having-DEF
+also young.man woman-buy it-go.to-MOM chief-DEF daughter-having-DEF
 also young.man make.proposal went.there the.chief one.who.has.a.daughter
 On the other hand, when a young man gets his wife, [his delegates] go to the chief who has a daughter. (= On the other hand, a young man proposes by going to the chief who has a daughter.)
 
