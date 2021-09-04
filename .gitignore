@@ -63,5 +63,6 @@ typings/
 *.aiff
 *.mp3
 
-# Custom
+# Project
+.idea
 nodemon.json
